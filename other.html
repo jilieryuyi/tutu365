@@ -330,7 +330,7 @@
     function searchPage(current_page){
         let target = []
         for (let book of books) {
-            if (search_types.length > 0 && !search_types.includes(book.i)) {
+            if (search_types.length > 0 && !search_types.includes(extensions[book.i])) {
                 continue
             }
 
