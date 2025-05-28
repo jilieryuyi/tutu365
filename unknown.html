@@ -84,6 +84,12 @@
             background: rgb(0, 140, 186);
             color: #fff;
         }
+        .books-link {
+            text-align: center;
+        }
+        .books-link a {
+            padding: 0 12px;
+        }
     </style>
     <script>
         const books = [{"n":"SSReader Print.","i":0,"s":0,"p":0,"b":""}]
@@ -127,9 +133,9 @@
         <a class="nl" href="https://github.com/jilieryuyi/books2/issues" target="_blank">联系我们</a>
         <a class="nl" href="https://github.com/jilieryuyi/books2/issues" target="_blank">问题反馈</a>
         <a class="nl light" href="https://github.com/jilieryuyi/books2/issues" target="_blank">免费找书</a>
-        <select class="sl">
-            <option>语言(Language)</option>
-        </select>
+<!--        <select class="sl">-->
+<!--            <option>语言(Language)</option>-->
+<!--        </select>-->
     </div>
 </nav>
 <div style="text-align: center;">
@@ -145,6 +151,9 @@
             <input class="ft-group" name="ft-group" type="radio" onchange="ftGroupChange(this)" value="" checked/>全部
         </label>
     </div>
+</div>
+<div class="books-link">
+    <a href="./english.html">english books</a><a href="./index.html">中文书籍</a><a href="./unknown.html">unknown language books</a><a href="./other.html">other books</a>
 </div>
 <div id="cc">
 
