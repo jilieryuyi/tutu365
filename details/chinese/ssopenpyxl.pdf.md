@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-ssopenpyxl.pdf.
+ssopenpyxl.pdf.pdf
 
 ## 作者(author)
 

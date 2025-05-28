@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1178、郁金香热_MIKE DASH_.pdf.
+1178、郁金香热_MIKE DASH_.pdf.pdf
 
 ## 作者(author)
 

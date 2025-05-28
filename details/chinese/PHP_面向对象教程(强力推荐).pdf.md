@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-PHP_面向对象教程(强力推荐).pdf.
+PHP_面向对象教程(强力推荐).pdf.pdf
 
 ## 作者(author)
 

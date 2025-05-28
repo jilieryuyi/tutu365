@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Redis_php接口函数总结.ppt.
+Redis_php接口函数总结.ppt.ppt
 
 ## 作者(author)
 

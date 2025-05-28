@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-offsetLeft,Left,clientLeft的区别.doc.
+offsetLeft,Left,clientLeft的区别.doc.doc
 
 ## 作者(author)
 

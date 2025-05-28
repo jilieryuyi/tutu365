@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1158、美国和中国最初的相遇_DOLIN_.pdf.
+1158、美国和中国最初的相遇_DOLIN_.pdf.pdf
 
 ## 作者(author)
 

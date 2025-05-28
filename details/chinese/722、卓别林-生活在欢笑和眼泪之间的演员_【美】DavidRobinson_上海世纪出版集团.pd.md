@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-722、卓别林-生活在欢笑和眼泪之间的演员_【美】David Robinson_上海世纪出版集团.pdf.
+722、卓别林-生活在欢笑和眼泪之间的演员_【美】David Robinson_上海世纪出版集团.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-761、已的故事_【以】Eli Mair_人民邮电出版社.pdf.
+761、已的故事_【以】Eli Mair_人民邮电出版社.pdf.pdf
 
 ## 作者(author)
 

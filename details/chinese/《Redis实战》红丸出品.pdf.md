@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-《Redis实战》红丸出品.pdf.
+《Redis实战》红丸出品.pdf.pdf
 
 ## 作者(author)
 

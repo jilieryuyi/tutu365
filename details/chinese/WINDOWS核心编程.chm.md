@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-WINDOWS核心编程.chm.
+WINDOWS核心编程.chm.chm
 
 ## 作者(author)
 

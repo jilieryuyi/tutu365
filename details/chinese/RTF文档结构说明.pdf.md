@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-RTF文档结构说明.pdf.
+RTF文档结构说明.pdf.pdf
 
 ## 作者(author)
 

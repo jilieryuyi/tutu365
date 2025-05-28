@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Netkiller Blockchain 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526998_6a71dc42db4339f70b21cd5f0e61b3f6.epub.
+Netkiller Blockchain 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526998_6a71dc42db4339f70b21cd5f0e61b3f6.epub.epub
 
 ## 作者(author)
 

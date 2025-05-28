@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-HTML DOM 参考手册.CHM.
+HTML DOM 参考手册.CHM.CHM
 
 ## 作者(author)
 

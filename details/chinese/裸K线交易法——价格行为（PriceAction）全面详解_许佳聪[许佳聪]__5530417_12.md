@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-裸K线交易法——价格行为（Price Action）全面详解_许佳聪 [许佳聪]__5530417_12161fd6894b9d2f91883f655c83eef2.pdf.
+裸K线交易法——价格行为（Price Action）全面详解_许佳聪 [许佳聪]__5530417_12161fd6894b9d2f91883f655c83eef2.pdf.pdf
 
 ## 作者(author)
 

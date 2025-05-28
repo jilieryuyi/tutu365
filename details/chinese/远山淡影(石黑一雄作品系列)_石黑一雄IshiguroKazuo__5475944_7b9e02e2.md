@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-远山淡影 (石黑一雄作品系列)_石黑一雄 Ishiguro Kazuo__5475944_7b9e02e2ad7b5aab635674b369f1ef5e.azw3.
+远山淡影 (石黑一雄作品系列)_石黑一雄 Ishiguro Kazuo__5475944_7b9e02e2ad7b5aab635674b369f1ef5e.azw3.azw3
 
 ## 作者(author)
 

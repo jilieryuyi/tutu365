@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-jquary_API.CHM.
+jquary_API.CHM.CHM
 
 ## 作者(author)
 

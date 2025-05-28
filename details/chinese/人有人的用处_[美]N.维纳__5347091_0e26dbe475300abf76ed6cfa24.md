@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-人有人的用处_[美]N.维纳__5347091_0e26dbe475300abf76ed6cfa248c938a.mobi.
+人有人的用处_[美]N.维纳__5347091_0e26dbe475300abf76ed6cfa248c938a.mobi.mobi
 
 ## 作者(author)
 

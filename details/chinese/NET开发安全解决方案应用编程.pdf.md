@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-NET开发安全解决方案应用编程.pdf.
+NET开发安全解决方案应用编程.pdf.pdf
 
 ## 作者(author)
 

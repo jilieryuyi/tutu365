@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-矩阵分析_Roger A. Horn, Charles R. Johnson_.pdf.
+矩阵分析_Roger A. Horn, Charles R. Johnson_.pdf.pdf
 
 ## 作者(author)
 

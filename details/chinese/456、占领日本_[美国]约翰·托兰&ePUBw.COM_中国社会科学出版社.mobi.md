@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-456、占领日本_[美国] 约翰·托兰 & ePUBw.COM_中国社会科学出版社.mobi.
+456、占领日本_[美国] 约翰·托兰 & ePUBw.COM_中国社会科学出版社.mobi.mobi
 
 ## 作者(author)
 

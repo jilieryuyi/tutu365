@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-UNIX网络编程卷1：套接字联网API（第3版）(1).pdf.
+UNIX网络编程卷1：套接字联网API（第3版）(1).pdf.pdf
 
 ## 作者(author)
 

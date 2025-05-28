@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-html5游戏开发.pdf.
+html5游戏开发.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-754、我所爱的宗教 - 和理事机构, Rolf J. Furuli_Rolf J. Furuli_.pdf.
+754、我所爱的宗教 - 和理事机构, Rolf J. Furuli_Rolf J. Furuli_.pdf.pdf
 
 ## 作者(author)
 

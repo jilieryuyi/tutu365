@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-软件设计师教程 (陈平，褚华主编, Chen ping, chu hua zhu bian etc.).pdf.
+软件设计师教程 (陈平，褚华主编, Chen ping, chu hua zhu bian etc.).pdf.pdf
 
 ## 作者(author)
 

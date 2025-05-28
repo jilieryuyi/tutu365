@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-ASP实现网站站内静态页搜索引擎.pdf.
+ASP实现网站站内静态页搜索引擎.pdf.pdf
 
 ## 作者(author)
 

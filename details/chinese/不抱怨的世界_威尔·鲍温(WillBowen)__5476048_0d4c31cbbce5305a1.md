@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-不抱怨的世界_威尔·鲍温 (Will Bowen)__5476048_0d4c31cbbce5305a11c8c1ca515320c6.azw3.
+不抱怨的世界_威尔·鲍温 (Will Bowen)__5476048_0d4c31cbbce5305a11c8c1ca515320c6.azw3.azw3
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Wireshark+主界面的操作菜单.txt.
+Wireshark+主界面的操作菜单.txt.txt
 
 ## 作者(author)
 

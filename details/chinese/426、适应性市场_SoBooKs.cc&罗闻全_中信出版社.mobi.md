@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-426、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.mobi.
+426、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.mobi.mobi
 
 ## 作者(author)
 

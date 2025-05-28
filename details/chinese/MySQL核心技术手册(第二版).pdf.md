@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-MySQL核心技术手册(第二版).pdf.
+MySQL核心技术手册(第二版).pdf.pdf
 
 ## 作者(author)
 

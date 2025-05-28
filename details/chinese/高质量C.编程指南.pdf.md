@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-高质量C.编程指南.pdf.
+高质量C.编程指南.pdf.pdf
 
 ## 作者(author)
 

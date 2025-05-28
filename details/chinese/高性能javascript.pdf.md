@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-高性能javascript.pdf.
+高性能javascript.pdf.pdf
 
 ## 作者(author)
 

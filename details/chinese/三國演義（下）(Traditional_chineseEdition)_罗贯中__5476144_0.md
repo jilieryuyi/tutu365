@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-三國演義（下） (Traditional_chinese Edition)_罗贯中__5476144_0ac390df568d2718fc5ea0b03772147f.azw3.
+三國演義（下） (Traditional_chinese Edition)_罗贯中__5476144_0ac390df568d2718fc5ea0b03772147f.azw3.azw3
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-国际货币基金组织2016年年报_International Monetary Fund_International Monetary Fund.pdf.
+国际货币基金组织2016年年报_International Monetary Fund_International Monetary Fund.pdf.pdf
 
 ## 作者(author)
 

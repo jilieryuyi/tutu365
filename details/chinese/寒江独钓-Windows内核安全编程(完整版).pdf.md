@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-寒江独钓-Windows内核安全编程(完整版).pdf.
+寒江独钓-Windows内核安全编程(完整版).pdf.pdf
 
 ## 作者(author)
 

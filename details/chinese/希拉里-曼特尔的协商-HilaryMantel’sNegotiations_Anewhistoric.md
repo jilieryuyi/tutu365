@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-希拉里-曼特尔的协商-Hilary Mantel’s Negotiations_ A new historicist approach to the reconstruction of Thomas Cromwell_Xi-hua Meng__2380424_5557fb20d16a313923785e0858662af0.pdf.
+希拉里-曼特尔的协商-Hilary Mantel’s Negotiations_ A new historicist approach to the reconstruction of Thomas Cromwell_Xi-hua Meng__2380424_5557fb20d16a313923785e0858662af0.pdf.pdf
 
 ## 作者(author)
 

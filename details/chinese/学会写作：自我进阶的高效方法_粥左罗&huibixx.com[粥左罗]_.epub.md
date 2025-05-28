@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-学会写作：自我进阶的高效方法_粥左罗 & huibixx.com [粥左罗]_.epub.
+学会写作：自我进阶的高效方法_粥左罗 & huibixx.com [粥左罗]_.epub.epub
 
 ## 作者(author)
 

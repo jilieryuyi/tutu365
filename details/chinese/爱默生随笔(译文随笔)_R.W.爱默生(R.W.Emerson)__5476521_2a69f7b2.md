@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-爱默生随笔 (译文随笔)_R.W.爱默生(R.W.Emerson)__5476521_2a69f7b21349188e80221bba5ab54446.azw3.
+爱默生随笔 (译文随笔)_R.W.爱默生(R.W.Emerson)__5476521_2a69f7b21349188e80221bba5ab54446.azw3.azw3
 
 ## 作者(author)
 

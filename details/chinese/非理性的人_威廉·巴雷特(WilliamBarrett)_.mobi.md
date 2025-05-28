@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-非理性的人_威廉·巴雷特 (William Barrett)_.mobi.
+非理性的人_威廉·巴雷特 (William Barrett)_.mobi.mobi
 
 ## 作者(author)
 

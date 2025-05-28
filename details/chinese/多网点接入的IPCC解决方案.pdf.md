@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-多网点接入的IPCC解决方案.pdf.
+多网点接入的IPCC解决方案.pdf.pdf
 
 ## 作者(author)
 

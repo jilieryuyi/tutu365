@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-astercc_TV_shopping.pdf.
+astercc_TV_shopping.pdf.pdf
 
 ## 作者(author)
 

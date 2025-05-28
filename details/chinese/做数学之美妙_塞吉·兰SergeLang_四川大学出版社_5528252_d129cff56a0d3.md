@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-做数学之美妙_ 塞吉·兰 Serge Lang_ 四川大学出版社_5528252_d129cff56a0d3e37000f6f49ee964c9e.pdf.
+做数学之美妙_ 塞吉·兰 Serge Lang_ 四川大学出版社_5528252_d129cff56a0d3e37000f6f49ee964c9e.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第03章 Java基本语法.pdf.
+第03章 Java基本语法.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第01章 Java简介.pdf.
+第01章 Java简介.pdf.pdf
 
 ## 作者(author)
 

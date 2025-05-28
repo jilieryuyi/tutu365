@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-丧钟为谁而鸣(译文名著精选)_欧内斯特·海明威(Ernest Hemingway)__5476088_f7061eea3ede597105707b81d8890739.azw3.
+丧钟为谁而鸣(译文名著精选)_欧内斯特·海明威(Ernest Hemingway)__5476088_f7061eea3ede597105707b81d8890739.azw3.azw3
 
 ## 作者(author)
 

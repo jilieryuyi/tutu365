@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-新编Windows.API参考大全.pdf.
+新编Windows.API参考大全.pdf.pdf
 
 ## 作者(author)
 

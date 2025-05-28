@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-gopl-zh Go语言圣经.pdf.
+gopl-zh Go语言圣经.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-软件设计师考试冲刺 习题与解答Software Architect exam sprint (exercises and answers)(Chinese Edition) (ZHANG YOU SHENG . WANG YONG).pdf.
+软件设计师考试冲刺 习题与解答Software Architect exam sprint (exercises and answers)(Chinese Edition) (ZHANG YOU SHENG . WANG YONG).pdf.pdf
 
 ## 作者(author)
 

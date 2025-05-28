@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-AJAX实战.pdf.
+AJAX实战.pdf.pdf
 
 ## 作者(author)
 

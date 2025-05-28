@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-apache-kafka-documentation-cn.pdf.
+apache-kafka-documentation-cn.pdf.pdf
 
 ## 作者(author)
 

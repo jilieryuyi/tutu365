@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis-sina.pptx.
+redis-sina.pptx.pptx
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-5da923be56d0f_日本防卫研究所__5269594_fced3dffc9238ddecfe2af9be22bf55b.pdf.
+5da923be56d0f_日本防卫研究所__5269594_fced3dffc9238ddecfe2af9be22bf55b.pdf.pdf
 
 ## 作者(author)
 

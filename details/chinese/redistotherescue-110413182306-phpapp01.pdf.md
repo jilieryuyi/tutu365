@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redistotherescue-110413182306-phpapp01.pdf.
+redistotherescue-110413182306-phpapp01.pdf.pdf
 
 ## 作者(author)
 

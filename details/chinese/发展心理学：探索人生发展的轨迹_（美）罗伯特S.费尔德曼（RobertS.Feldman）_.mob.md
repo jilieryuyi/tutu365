@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-发展心理学：探索人生发展的轨迹_（美）罗伯特 S.费尔德曼（Robert S.Feldman）_.mobi.
+发展心理学：探索人生发展的轨迹_（美）罗伯特 S.费尔德曼（Robert S.Feldman）_.mobi.mobi
 
 ## 作者(author)
 

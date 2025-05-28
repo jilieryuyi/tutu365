@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Sphinx搜索引擎架构与使用文档(和MySQL结合)V1.1.doc.
+Sphinx搜索引擎架构与使用文档(和MySQL结合)V1.1.doc.doc
 
 ## 作者(author)
 

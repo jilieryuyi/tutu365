@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Redis学习笔记整理.pdf.
+Redis学习笔记整理.pdf.pdf
 
 ## 作者(author)
 

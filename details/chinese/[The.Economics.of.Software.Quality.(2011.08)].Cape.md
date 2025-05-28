@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[The.Economics.of.Software.Quality.(2011.08)].Capers.Jones.文字版.pdf.
+[The.Economics.of.Software.Quality.(2011.08)].Capers.Jones.文字版.pdf.pdf
 
 ## 作者(author)
 

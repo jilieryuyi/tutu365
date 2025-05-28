@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-金匮要略 (张仲景 [张仲景]) (Z-Library).epub.
+金匮要略 (张仲景 [张仲景]) (Z-Library).epub.epub
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-会计基础 (ePUBw.COM 管慧芳).azw3.
+会计基础 (ePUBw.COM 管慧芳).azw3.azw3
 
 ## 作者(author)
 

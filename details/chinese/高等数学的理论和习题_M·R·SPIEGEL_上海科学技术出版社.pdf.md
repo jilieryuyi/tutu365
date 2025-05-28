@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-高等数学的理论和习题_M·R·SPIEGEL_上海科学技术出版社.pdf.
+高等数学的理论和习题_M·R·SPIEGEL_上海科学技术出版社.pdf.pdf
 
 ## 作者(author)
 

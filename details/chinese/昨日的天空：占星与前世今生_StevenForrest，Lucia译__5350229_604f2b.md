@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-昨日的天空：占星与前世今生_Steven Forrest， Lucia 译__5350229_604f2b13877d451c64154372620182a0.pdf.
+昨日的天空：占星与前世今生_Steven Forrest， Lucia 译__5350229_604f2b13877d451c64154372620182a0.pdf.pdf
 
 ## 作者(author)
 

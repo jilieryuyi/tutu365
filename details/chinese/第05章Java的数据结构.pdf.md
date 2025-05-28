@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第05章 Java的数据结构.pdf.
+第05章 Java的数据结构.pdf.pdf
 
 ## 作者(author)
 

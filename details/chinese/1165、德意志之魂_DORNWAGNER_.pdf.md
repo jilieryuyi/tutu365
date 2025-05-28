@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1165、德意志之魂_DORN WAGNER_.pdf.
+1165、德意志之魂_DORN WAGNER_.pdf.pdf
 
 ## 作者(author)
 

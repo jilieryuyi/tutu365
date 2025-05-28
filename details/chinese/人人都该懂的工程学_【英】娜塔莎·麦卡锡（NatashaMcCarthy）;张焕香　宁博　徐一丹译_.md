@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-人人都该懂的工程学_【英】娜塔莎·麦卡锡（Natasha McCarthy）;张焕香　宁博　徐一丹译__5530425_7254bcb636fe7aea5f70399376eda740.pdf.
+人人都该懂的工程学_【英】娜塔莎·麦卡锡（Natasha McCarthy）;张焕香　宁博　徐一丹译__5530425_7254bcb636fe7aea5f70399376eda740.pdf.pdf
 
 ## 作者(author)
 

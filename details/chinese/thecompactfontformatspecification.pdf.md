@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-the compact font format specification.pdf.
+the compact font format specification.pdf.pdf
 
 ## 作者(author)
 

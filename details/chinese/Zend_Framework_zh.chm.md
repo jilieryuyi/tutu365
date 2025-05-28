@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Zend_Framework_zh.chm.
+Zend_Framework_zh.chm.chm
 
 ## 作者(author)
 

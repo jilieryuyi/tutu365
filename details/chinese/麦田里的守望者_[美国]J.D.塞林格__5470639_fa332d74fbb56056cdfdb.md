@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-麦田里的守望者_[美国] J. D. 塞林格__5470639_fa332d74fbb56056cdfdba7f5651a6fd.epub.
+麦田里的守望者_[美国] J. D. 塞林格__5470639_fa332d74fbb56056cdfdba7f5651a6fd.epub.epub
 
 ## 作者(author)
 

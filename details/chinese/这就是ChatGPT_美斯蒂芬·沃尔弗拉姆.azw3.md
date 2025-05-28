@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.azw3.
+这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.azw3.azw3
 
 ## 作者(author)
 

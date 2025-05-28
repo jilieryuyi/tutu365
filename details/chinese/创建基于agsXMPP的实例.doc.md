@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-创建基于agsXMPP的实例.doc.
+创建基于agsXMPP的实例.doc.doc
 
 ## 作者(author)
 

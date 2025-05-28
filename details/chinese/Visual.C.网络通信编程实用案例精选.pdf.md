@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Visual.C.网络通信编程实用案例精选.pdf.
+Visual.C.网络通信编程实用案例精选.pdf.pdf
 
 ## 作者(author)
 

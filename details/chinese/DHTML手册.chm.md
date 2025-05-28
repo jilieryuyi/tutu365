@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-DHTML 手册.chm.
+DHTML 手册.chm.chm
 
 ## 作者(author)
 

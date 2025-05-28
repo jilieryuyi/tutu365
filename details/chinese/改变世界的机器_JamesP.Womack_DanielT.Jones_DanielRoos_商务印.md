@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-改变世界的机器_James P. Womack _ Daniel T. Jones _ Daniel Roos_商务印书馆.pdf.
+改变世界的机器_James P. Womack _ Daniel T. Jones _ Daniel Roos_商务印书馆.pdf.pdf
 
 ## 作者(author)
 

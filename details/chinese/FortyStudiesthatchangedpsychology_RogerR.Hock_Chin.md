@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Forty Studies that changed psychology_Roger R. Hock_China Light Industry Press_5351958_5c9be9126834a4379ecf466080064994.pdf.
+Forty Studies that changed psychology_Roger R. Hock_China Light Industry Press_5351958_5c9be9126834a4379ecf466080064994.pdf.pdf
 
 ## 作者(author)
 

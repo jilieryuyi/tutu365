@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-C语言编程常见问题解答.chw.
+C语言编程常见问题解答.chw.chw
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Microsoft Word - chp1.doc_Administrator__5498972_272de0803c7afccb4c611347265eaee4.pdf.
+Microsoft Word - chp1.doc_Administrator__5498972_272de0803c7afccb4c611347265eaee4.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-在ASP环境下实现SQL数据库模糊查询.pdf.
+在ASP环境下实现SQL数据库模糊查询.pdf.pdf
 
 ## 作者(author)
 

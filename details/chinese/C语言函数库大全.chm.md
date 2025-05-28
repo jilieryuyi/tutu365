@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-C语言函数库大全.chm.
+C语言函数库大全.chm.chm
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-亚洲世纪：世界即将亚洲化_SoBooKs.cc 帕拉格·康纳 [帕拉格·康纳, SoBooKs.cc]__5533969_d448aa4f1e8fc37fa44ebd5f8cdda244.mobi.
+亚洲世纪：世界即将亚洲化_SoBooKs.cc 帕拉格·康纳 [帕拉格·康纳, SoBooKs.cc]__5533969_d448aa4f1e8fc37fa44ebd5f8cdda244.mobi.mobi
 
 ## 作者(author)
 

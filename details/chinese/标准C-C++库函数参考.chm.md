@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-标准C-C++库函数参考.chm.
+标准C-C++库函数参考.chm.chm
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-中国近代史  (The Rise of Modern China) 上册（精校版）_徐中約 (Immanuel C.Y.Hsü)_香港中文大學_5477030_aafb911c49570c4e12f97dad0bf6a4f9.pdf.
+中国近代史  (The Rise of Modern China) 上册（精校版）_徐中約 (Immanuel C.Y.Hsü)_香港中文大學_5477030_aafb911c49570c4e12f97dad0bf6a4f9.pdf.pdf
 
 ## 作者(author)
 

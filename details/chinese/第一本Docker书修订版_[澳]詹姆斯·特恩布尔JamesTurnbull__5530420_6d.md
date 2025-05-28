@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第一本Docker书修订版_[澳] 詹姆斯·特恩布尔James Turnbull__5530420_6d7b141c18adbe21168b5850a5e8cc65.pdf.
+第一本Docker书修订版_[澳] 詹姆斯·特恩布尔James Turnbull__5530420_6d7b141c18adbe21168b5850a5e8cc65.pdf.pdf
 
 ## 作者(author)
 

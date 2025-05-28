@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-甲骨文：一次占卜當代中國的旅程_何偉（Peter Hessler)__5470428_8d03fbcb45a9afa5132e5db1898683cf.pdf.
+甲骨文：一次占卜當代中國的旅程_何偉（Peter Hessler)__5470428_8d03fbcb45a9afa5132e5db1898683cf.pdf.pdf
 
 ## 作者(author)
 

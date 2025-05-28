@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Blur 3862 days the official history 中译本_Stuart Maconie, 波波儿（译）__5356866_179336d359888950d5258262061a2632.pdf.
+Blur 3862 days the official history 中译本_Stuart Maconie, 波波儿（译）__5356866_179336d359888950d5258262061a2632.pdf.pdf
 
 ## 作者(author)
 

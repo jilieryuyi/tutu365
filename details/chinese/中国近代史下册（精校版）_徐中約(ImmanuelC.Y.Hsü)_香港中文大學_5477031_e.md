@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-中国近代史 下册（精校版）_徐中約 (Immanuel C.Y.Hsü)_香港中文大學_5477031_efea51777e9e3fb4fab041e86cf5f476.pdf.
+中国近代史 下册（精校版）_徐中約 (Immanuel C.Y.Hsü)_香港中文大學_5477031_efea51777e9e3fb4fab041e86cf5f476.pdf.pdf
 
 ## 作者(author)
 

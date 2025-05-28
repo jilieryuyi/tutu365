@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-wireshark_中文手册.pdf.
+wireshark_中文手册.pdf.pdf
 
 ## 作者(author)
 

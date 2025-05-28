@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-714、2020-06-11 Wealth Invest Weekly_Wealth Invest Weekly_Wealth Invest Weekly.pdf.
+714、2020-06-11 Wealth Invest Weekly_Wealth Invest Weekly_Wealth Invest Weekly.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.pdf.
+这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.pdf.pdf
 
 ## 作者(author)
 

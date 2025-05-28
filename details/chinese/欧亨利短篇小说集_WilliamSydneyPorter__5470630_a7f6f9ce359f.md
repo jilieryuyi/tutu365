@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-欧亨利短篇小说集_William Sydney Porter__5470630_a7f6f9ce359f83bed9161406e4c38758.epub.
+欧亨利短篇小说集_William Sydney Porter__5470630_a7f6f9ce359f83bed9161406e4c38758.epub.epub
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1153、人体筋膜系统功能解剖图谱_Carla Stecco_.pdf.
+1153、人体筋膜系统功能解剖图谱_Carla Stecco_.pdf.pdf
 
 ## 作者(author)
 

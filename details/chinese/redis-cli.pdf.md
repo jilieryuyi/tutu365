@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis-cli.pdf.
+redis-cli.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Microsoft编写优质无错C程序秘诀.pdf.
+Microsoft编写优质无错C程序秘诀.pdf.pdf
 
 ## 作者(author)
 

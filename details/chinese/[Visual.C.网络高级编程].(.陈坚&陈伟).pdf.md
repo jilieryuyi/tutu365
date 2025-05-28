@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[Visual.C.网络高级编程].(.陈坚&陈伟).pdf.
+[Visual.C.网络高级编程].(.陈坚&陈伟).pdf.pdf
 
 ## 作者(author)
 

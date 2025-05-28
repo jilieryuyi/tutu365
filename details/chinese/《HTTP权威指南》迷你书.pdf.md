@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-《HTTP权威指南》迷你书.pdf.
+《HTTP权威指南》迷你书.pdf.pdf
 
 ## 作者(author)
 

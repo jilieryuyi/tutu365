@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis笔记.docx.
+redis笔记.docx.docx
 
 ## 作者(author)
 

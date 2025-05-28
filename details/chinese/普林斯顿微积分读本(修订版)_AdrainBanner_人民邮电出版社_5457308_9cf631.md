@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-普林斯顿微积分读本(修订版)_Adrain Banner_人民邮电出版社_5457308_9cf6315c3fc942d1088e27865bb325f8.pdf.
+普林斯顿微积分读本(修订版)_Adrain Banner_人民邮电出版社_5457308_9cf6315c3fc942d1088e27865bb325f8.pdf.pdf
 
 ## 作者(author)
 

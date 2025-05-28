@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1150、战略：一部历史上_LAWRENCE FREEDMAN_.pdf.
+1150、战略：一部历史上_LAWRENCE FREEDMAN_.pdf.pdf
 
 ## 作者(author)
 

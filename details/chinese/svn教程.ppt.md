@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-svn教程.ppt.
+svn教程.ppt.ppt
 
 ## 作者(author)
 

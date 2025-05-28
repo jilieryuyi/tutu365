@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-windows编程教程.docx.
+windows编程教程.docx.docx
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-《中医词典》h~j.chm.
+《中医词典》h~j.chm.chm
 
 ## 作者(author)
 

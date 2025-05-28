@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1015、行动的勇气The courage to act_伯南克_中信出版社.epub.
+1015、行动的勇气The courage to act_伯南克_中信出版社.epub.epub
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-An Introduction to Sino-Tibatan Languages汉藏语概论_Ma Xueliang 马学良__2824502_9192d66b5a085cf749db625f4c4c8820.pdf.
+An Introduction to Sino-Tibatan Languages汉藏语概论_Ma Xueliang 马学良__2824502_9192d66b5a085cf749db625f4c4c8820.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-904、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.azw3.
+904、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.azw3.azw3
 
 ## 作者(author)
 

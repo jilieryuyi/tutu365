@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Wooga的Redis迁移经验.pdf.
+Wooga的Redis迁移经验.pdf.pdf
 
 ## 作者(author)
 

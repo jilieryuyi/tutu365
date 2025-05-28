@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-HTML5高级程序设计.pdf.
+HTML5高级程序设计.pdf.pdf
 
 ## 作者(author)
 

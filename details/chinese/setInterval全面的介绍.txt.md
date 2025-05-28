@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-setInterval全面的介绍.txt.
+setInterval全面的介绍.txt.txt
 
 ## 作者(author)
 

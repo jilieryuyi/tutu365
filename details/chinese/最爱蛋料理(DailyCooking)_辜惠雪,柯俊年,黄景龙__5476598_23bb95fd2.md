@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-最爱蛋料理 (Daily Cooking)_辜惠雪, 柯俊年, 黄景龙__5476598_23bb95fd21a9db2f36ba802a9d1ef80c.azw3.
+最爱蛋料理 (Daily Cooking)_辜惠雪, 柯俊年, 黄景龙__5476598_23bb95fd21a9db2f36ba802a9d1ef80c.azw3.azw3
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-【中医】README.md.
+【中医】README.md.md
 
 ## 作者(author)
 

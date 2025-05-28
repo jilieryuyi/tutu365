@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-《WindowsC程序设计入门与提高》aiwen带完整书签版.pdf.
+《WindowsC程序设计入门与提高》aiwen带完整书签版.pdf.pdf
 
 ## 作者(author)
 

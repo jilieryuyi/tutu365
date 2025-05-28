@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-加里肋亞人的影子_泰申 (Gerd Theissen)_香港公教真理學會_5370211_b7e7ac6613018fc300ebf2b5b9f351e8.pdf.
+加里肋亞人的影子_泰申 (Gerd Theissen)_香港公教真理學會_5370211_b7e7ac6613018fc300ebf2b5b9f351e8.pdf.pdf
 
 ## 作者(author)
 

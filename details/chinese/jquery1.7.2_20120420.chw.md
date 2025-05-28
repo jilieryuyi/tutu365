@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-jquery1.7.2_20120420.chw.
+jquery1.7.2_20120420.chw.chw
 
 ## 作者(author)
 

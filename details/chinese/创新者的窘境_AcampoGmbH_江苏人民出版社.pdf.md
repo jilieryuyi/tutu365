@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-创新者的窘境_Acampo GmbH_江苏人民出版社.pdf.
+创新者的窘境_Acampo GmbH_江苏人民出版社.pdf.pdf
 
 ## 作者(author)
 

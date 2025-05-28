@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1174、享乐主义宣言_MICHEL ONFRAY_.pdf.
+1174、享乐主义宣言_MICHEL ONFRAY_.pdf.pdf
 
 ## 作者(author)
 

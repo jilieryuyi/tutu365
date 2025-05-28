@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-深入浅出 Head First JavaScript.pdf.
+深入浅出 Head First JavaScript.pdf.pdf
 
 ## 作者(author)
 

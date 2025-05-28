@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第一本Docker书+PDF电子书下载+带书签目录+完整版.pdf.
+第一本Docker书+PDF电子书下载+带书签目录+完整版.pdf.pdf
 
 ## 作者(author)
 

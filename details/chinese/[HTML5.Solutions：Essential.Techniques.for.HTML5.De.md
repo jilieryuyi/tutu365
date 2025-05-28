@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[HTML5.Solutions：Essential.Techniques.for.HTML5.Developers].源代码.zip.
+[HTML5.Solutions：Essential.Techniques.for.HTML5.Developers].源代码.zip.zip
 
 ## 作者(author)
 

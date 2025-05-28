@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-鼠疫 _阿尔贝·加缪(Albert Camus)_上海译文出版社_5346010_5a5f38545dea1d619465918b4fd0423b.azw3.
+鼠疫 _阿尔贝·加缪(Albert Camus)_上海译文出版社_5346010_5a5f38545dea1d619465918b4fd0423b.azw3.azw3
 
 ## 作者(author)
 

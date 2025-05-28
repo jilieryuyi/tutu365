@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-blockchain_guide.pdf.
+blockchain_guide.pdf.pdf
 
 ## 作者(author)
 

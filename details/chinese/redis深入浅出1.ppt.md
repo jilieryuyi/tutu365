@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis深入浅出1.ppt.
+redis深入浅出1.ppt.ppt
 
 ## 作者(author)
 

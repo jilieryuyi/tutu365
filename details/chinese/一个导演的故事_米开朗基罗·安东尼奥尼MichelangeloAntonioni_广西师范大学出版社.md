@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-一个导演的故事_米开朗基罗·安东尼奥尼 Michelangelo Antonioni_广西师范大学出版社_5439937_a8567e6802bd92a40b82c7e8d0568b66.pdf.
+一个导演的故事_米开朗基罗·安东尼奥尼 Michelangelo Antonioni_广西师范大学出版社_5439937_a8567e6802bd92a40b82c7e8d0568b66.pdf.pdf
 
 ## 作者(author)
 

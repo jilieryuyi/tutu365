@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[大家网]jQuery基础教程[www.TopSage.com].pdf.
+[大家网]jQuery基础教程[www.TopSage.com].pdf.pdf
 
 ## 作者(author)
 

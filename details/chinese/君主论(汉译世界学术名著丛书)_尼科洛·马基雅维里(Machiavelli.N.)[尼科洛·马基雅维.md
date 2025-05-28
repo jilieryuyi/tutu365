@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-君主论 (汉译世界学术名著丛书)_尼科洛·马基雅维里(Machiavelli.N.) [尼科洛·马基雅维里(Machiavelli.N.)]__5351699_bab36140524e1e4d81ccd46ad5bff57d.epub.
+君主论 (汉译世界学术名著丛书)_尼科洛·马基雅维里(Machiavelli.N.) [尼科洛·马基雅维里(Machiavelli.N.)]__5351699_bab36140524e1e4d81ccd46ad5bff57d.epub.epub
 
 ## 作者(author)
 

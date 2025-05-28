@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-诺贝尔文学奖作品典藏书系：苔依丝_A.法朗士__5476368_ff8ae6f89afdbdd11f2f5f7e0b3c2692.azw3.
+诺贝尔文学奖作品典藏书系：苔依丝_A.法朗士__5476368_ff8ae6f89afdbdd11f2f5f7e0b3c2692.azw3.azw3
 
 ## 作者(author)
 

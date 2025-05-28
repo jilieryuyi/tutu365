@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-SVG教程.pdf.
+SVG教程.pdf.pdf
 
 ## 作者(author)
 

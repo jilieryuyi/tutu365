@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-linux系统监控工具汇总.pdf.
+linux系统监控工具汇总.pdf.pdf
 
 ## 作者(author)
 

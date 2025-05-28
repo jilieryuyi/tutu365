@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-DOM编程艺术.pdf.
+DOM编程艺术.pdf.pdf
 
 ## 作者(author)
 

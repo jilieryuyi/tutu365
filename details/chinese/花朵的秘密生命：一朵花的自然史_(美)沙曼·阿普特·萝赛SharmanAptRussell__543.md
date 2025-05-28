@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-花朵的秘密生命：一朵花的自然史_(美) 沙曼·阿普特·萝赛 Sharman Apt Russell__5438043_16c8cf1526fe7b2598b7e7ea20a3cb6c.epub.
+花朵的秘密生命：一朵花的自然史_(美) 沙曼·阿普特·萝赛 Sharman Apt Russell__5438043_16c8cf1526fe7b2598b7e7ea20a3cb6c.epub.epub
 
 ## 作者(author)
 

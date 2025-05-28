@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-linux-c-develop.pdf.
+linux-c-develop.pdf.pdf
 
 ## 作者(author)
 

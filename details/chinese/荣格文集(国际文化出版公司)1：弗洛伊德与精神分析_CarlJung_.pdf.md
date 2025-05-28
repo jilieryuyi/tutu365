@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-荣格文集(国际文化出版公司)1：弗洛伊德与精神分析_Carl Jung_.pdf.
+荣格文集(国际文化出版公司)1：弗洛伊德与精神分析_Carl Jung_.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Being Successful_ Things That Successful People Do That You Could Learn From_Burba, Brian & Travis, Tracy [Burba, Brian]_.epub.
+Being Successful_ Things That Successful People Do That You Could Learn From_Burba, Brian & Travis, Tracy [Burba, Brian]_.epub.epub
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[锋利的jQuery].pdf.
+[锋利的jQuery].pdf.pdf
 
 ## 作者(author)
 

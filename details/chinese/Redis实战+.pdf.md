@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Redis实战+.pdf.
+Redis实战+.pdf.pdf
 
 ## 作者(author)
 

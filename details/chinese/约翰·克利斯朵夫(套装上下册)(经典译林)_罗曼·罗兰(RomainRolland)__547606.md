@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-约翰·克利斯朵夫(套装上下册) (经典译林)_罗曼·罗兰(Romain Rolland)__5476060_16ad44fbe1548cf0fdf85299f24b56ae.azw3.
+约翰·克利斯朵夫(套装上下册) (经典译林)_罗曼·罗兰(Romain Rolland)__5476060_16ad44fbe1548cf0fdf85299f24b56ae.azw3.azw3
 
 ## 作者(author)
 

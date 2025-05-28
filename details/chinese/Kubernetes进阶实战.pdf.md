@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Kubernetes进阶实战.pdf.
+Kubernetes进阶实战.pdf.pdf
 
 ## 作者(author)
 

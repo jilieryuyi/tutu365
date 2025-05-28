@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-【中医】太素珍本a.pdf.
+【中医】太素珍本a.pdf.pdf
 
 ## 作者(author)
 

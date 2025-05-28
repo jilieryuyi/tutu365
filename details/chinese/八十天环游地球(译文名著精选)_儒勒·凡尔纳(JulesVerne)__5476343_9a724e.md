@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-八十天环游地球(译文名著精选)_儒勒·凡尔纳(Jules Verne)__5476343_9a724ee4db699984b5ae82e08cabf2d4.azw3.
+八十天环游地球(译文名著精选)_儒勒·凡尔纳(Jules Verne)__5476343_9a724ee4db699984b5ae82e08cabf2d4.azw3.azw3
 
 ## 作者(author)
 

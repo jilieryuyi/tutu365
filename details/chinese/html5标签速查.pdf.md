@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-html5标签速查.pdf.
+html5标签速查.pdf.pdf
 
 ## 作者(author)
 

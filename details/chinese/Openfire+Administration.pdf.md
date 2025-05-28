@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Openfire+Administration.pdf.
+Openfire+Administration.pdf.pdf
 
 ## 作者(author)
 

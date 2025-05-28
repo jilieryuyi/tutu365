@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-爱伦·坡短篇小说选 (Selected Short Stories by Edgar Allan Poe)_埃德加·爱伦·坡__5476522_3a70475a0ed306cac7654f62139fe598.azw3.
+爱伦·坡短篇小说选 (Selected Short Stories by Edgar Allan Poe)_埃德加·爱伦·坡__5476522_3a70475a0ed306cac7654f62139fe598.azw3.azw3
 
 ## 作者(author)
 

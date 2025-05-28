@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Mongodb -  数据库分析.pdf.
+Mongodb -  数据库分析.pdf.pdf
 
 ## 作者(author)
 

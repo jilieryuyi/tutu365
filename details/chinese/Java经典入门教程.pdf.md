@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Java经典入门教程.pdf.
+Java经典入门教程.pdf.pdf
 
 ## 作者(author)
 

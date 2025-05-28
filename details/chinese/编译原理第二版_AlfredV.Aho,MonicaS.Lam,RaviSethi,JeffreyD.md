@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-编译原理 第二版_Alfred V. Aho,Monica S.Lam, Ravi Sethi, Jeffrey D. Ullman_机械工业出版社_5458196_5685aa643e50127c3aa8400e8571ec5a.pdf.
+编译原理 第二版_Alfred V. Aho,Monica S.Lam, Ravi Sethi, Jeffrey D. Ullman_机械工业出版社_5458196_5685aa643e50127c3aa8400e8571ec5a.pdf.pdf
 
 ## 作者(author)
 

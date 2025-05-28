@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-旧小说·古今文萃(清朝篇)下 (Traditional_chinese Edition)_纪昀；毛奇龄；姚鼐等 撰__5476172_095ee719429f9058cf11ec7508567c0d.azw3.
+旧小说·古今文萃(清朝篇)下 (Traditional_chinese Edition)_纪昀；毛奇龄；姚鼐等 撰__5476172_095ee719429f9058cf11ec7508567c0d.azw3.azw3
 
 ## 作者(author)
 

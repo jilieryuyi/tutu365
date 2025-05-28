@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-SugarCRM完全指南.pdf.
+SugarCRM完全指南.pdf.pdf
 
 ## 作者(author)
 

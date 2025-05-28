@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-jquery1.7.chm.
+jquery1.7.chm.chm
 
 ## 作者(author)
 

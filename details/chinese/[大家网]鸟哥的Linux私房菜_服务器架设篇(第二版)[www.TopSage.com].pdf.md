@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[大家网]鸟哥的Linux私房菜_服务器架设篇(第二版)[www.TopSage.com].pdf.
+[大家网]鸟哥的Linux私房菜_服务器架设篇(第二版)[www.TopSage.com].pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-JavaScript使用手册.chm.
+JavaScript使用手册.chm.chm
 
 ## 作者(author)
 

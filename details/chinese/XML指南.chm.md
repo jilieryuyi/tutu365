@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-XML指南.chm.
+XML指南.chm.chm
 
 ## 作者(author)
 

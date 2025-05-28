@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-念楼学短_ePUBw.COM & 锺叔河_.mobi.
+念楼学短_ePUBw.COM & 锺叔河_.mobi.mobi
 
 ## 作者(author)
 

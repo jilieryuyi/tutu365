@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-美国少年学霸超级笔记：计算机与编程 = Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook The Complete Middle School... (美国沃克曼出版公司 (Work... .epub.
+美国少年学霸超级笔记：计算机与编程 = Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook The Complete Middle School... (美国沃克曼出版公司 (Work... .epub.epub
 
 ## 作者(author)
 

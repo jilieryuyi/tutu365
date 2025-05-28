@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-HEAD_FIRST设计模式（中文版）.pdf.
+HEAD_FIRST设计模式（中文版）.pdf.pdf
 
 ## 作者(author)
 

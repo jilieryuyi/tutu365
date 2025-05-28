@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis-sina-phpapp02.pdf.
+redis-sina-phpapp02.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-黑格尔：精神现象学（上）_G.W.F.Hegel_商务印书馆_5350131_f75eab9d9a598e759ca9b7d300483cb1.pdf.
+黑格尔：精神现象学（上）_G.W.F.Hegel_商务印书馆_5350131_f75eab9d9a598e759ca9b7d300483cb1.pdf.pdf
 
 ## 作者(author)
 

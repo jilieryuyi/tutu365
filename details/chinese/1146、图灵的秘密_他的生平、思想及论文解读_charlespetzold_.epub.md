@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1146、图灵的秘密_他的生平、思想及论文解读_charles petzold_.epub.
+1146、图灵的秘密_他的生平、思想及论文解读_charles petzold_.epub.epub
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1148、美国大外交_GEORGE KENNAN_.pdf.
+1148、美国大外交_GEORGE KENNAN_.pdf.pdf
 
 ## 作者(author)
 

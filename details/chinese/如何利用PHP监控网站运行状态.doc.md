@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-如何利用PHP监控网站运行状态.doc.
+如何利用PHP监控网站运行状态.doc.doc
 
 ## 作者(author)
 

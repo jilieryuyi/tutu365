@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-糖尿病 (蒋国彦，赵夷年，张蕙芬，杨瑞芝编译) (Z-Library).pdf.
+糖尿病 (蒋国彦，赵夷年，张蕙芬，杨瑞芝编译) (Z-Library).pdf.pdf
 
 ## 作者(author)
 

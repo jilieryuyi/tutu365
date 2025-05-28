@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-UnixLinux编程实践教程.pdf.
+UnixLinux编程实践教程.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-CSS 样式表中文手册.chm.
+CSS 样式表中文手册.chm.chm
 
 ## 作者(author)
 

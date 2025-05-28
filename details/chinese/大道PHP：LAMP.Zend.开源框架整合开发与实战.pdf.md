@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-大道PHP：LAMP.Zend.开源框架整合开发与实战.pdf.
+大道PHP：LAMP.Zend.开源框架整合开发与实战.pdf.pdf
 
 ## 作者(author)
 

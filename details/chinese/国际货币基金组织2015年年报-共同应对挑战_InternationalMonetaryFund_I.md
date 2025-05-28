@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-国际货币基金组织2015年年报 - 共 同 应 对 挑 战_International Monetary Fund_International Monetary Fund_5528018_cdac6d6b2502f92ec9c2ddaef512059c.pdf.
+国际货币基金组织2015年年报 - 共 同 应 对 挑 战_International Monetary Fund_International Monetary Fund_5528018_cdac6d6b2502f92ec9c2ddaef512059c.pdf.pdf
 
 ## 作者(author)
 

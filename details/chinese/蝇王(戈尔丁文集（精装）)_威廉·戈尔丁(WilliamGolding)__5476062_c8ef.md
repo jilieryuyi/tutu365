@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-蝇王 (戈尔丁文集（精装）)_威廉·戈尔丁(William Golding)__5476062_c8eff051083364eda09a586f3721b18c.azw3.
+蝇王 (戈尔丁文集（精装）)_威廉·戈尔丁(William Golding)__5476062_c8eff051083364eda09a586f3721b18c.azw3.azw3
 
 ## 作者(author)
 

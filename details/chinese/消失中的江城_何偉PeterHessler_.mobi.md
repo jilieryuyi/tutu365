@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-消失中的江城_何偉 Peter Hessler_.mobi.
+消失中的江城_何偉 Peter Hessler_.mobi.mobi
 
 ## 作者(author)
 

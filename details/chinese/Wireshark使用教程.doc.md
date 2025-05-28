@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Wireshark使用教程.doc.
+Wireshark使用教程.doc.doc
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-商务职场英语口语900句：商务英语入门通关，一本就够了！_耿小辉,Ryan Bleckley（美）,Carolina Han（美）__5476447_b77c5747d2a9db270dfada5c27f402e6.azw3.
+商务职场英语口语900句：商务英语入门通关，一本就够了！_耿小辉,Ryan Bleckley（美）,Carolina Han（美）__5476447_b77c5747d2a9db270dfada5c27f402e6.azw3.azw3
 
 ## 作者(author)
 

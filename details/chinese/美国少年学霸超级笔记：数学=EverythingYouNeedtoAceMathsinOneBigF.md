@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-美国少年学霸超级笔记：数学 = Everything You Need to Ace Maths in One Big Fat Notebook The Complete School Study Guide (美国沃克曼出版公司 (Workman Publishing)).epub.
+美国少年学霸超级笔记：数学 = Everything You Need to Ace Maths in One Big Fat Notebook The Complete School Study Guide (美国沃克曼出版公司 (Workman Publishing)).epub.epub
 
 ## 作者(author)
 

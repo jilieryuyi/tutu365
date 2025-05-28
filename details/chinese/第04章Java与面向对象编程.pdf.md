@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第04章 Java与面向对象编程.pdf.
+第04章 Java与面向对象编程.pdf.pdf
 
 ## 作者(author)
 

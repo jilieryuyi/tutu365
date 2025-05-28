@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis_cmd.chm.
+redis_cmd.chm.chm
 
 ## 作者(author)
 

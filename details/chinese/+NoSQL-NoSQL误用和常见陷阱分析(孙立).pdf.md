@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-+NoSQL-NoSQL误用和常见陷阱分析(孙立).pdf.
++NoSQL-NoSQL误用和常见陷阱分析(孙立).pdf.pdf
 
 ## 作者(author)
 

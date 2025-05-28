@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-十天学会DIV+CSS(WEB标准).chm.
+十天学会DIV+CSS(WEB标准).chm.chm
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-富可敌国（经典版）_塞巴斯蒂安·马拉比(Sebastian Mallaby), SoBooKs.cc [塞巴斯蒂安·马拉比(Sebastian Mallaby), SoBooKs.cc]_.epub.
+富可敌国（经典版）_塞巴斯蒂安·马拉比(Sebastian Mallaby), SoBooKs.cc [塞巴斯蒂安·马拉比(Sebastian Mallaby), SoBooKs.cc]_.epub.epub
 
 ## 作者(author)
 

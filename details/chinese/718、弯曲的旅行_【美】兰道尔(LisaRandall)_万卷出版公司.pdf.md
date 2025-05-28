@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-718、弯曲的旅行_【美】兰道尔(Lisa Randall)_万卷出版公司.pdf.
+718、弯曲的旅行_【美】兰道尔(Lisa Randall)_万卷出版公司.pdf.pdf
 
 ## 作者(author)
 

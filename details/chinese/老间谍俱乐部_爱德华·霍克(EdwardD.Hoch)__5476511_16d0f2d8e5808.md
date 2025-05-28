@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-老间谍俱乐部_爱德华·霍克(EdwardD.Hoch)__5476511_16d0f2d8e580820504d807412e5f68f7.azw3.
+老间谍俱乐部_爱德华·霍克(EdwardD.Hoch)__5476511_16d0f2d8e580820504d807412e5f68f7.azw3.azw3
 
 ## 作者(author)
 

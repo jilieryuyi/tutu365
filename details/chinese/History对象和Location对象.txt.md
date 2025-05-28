@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-History对象和Location对象.txt.
+History对象和Location对象.txt.txt
 
 ## 作者(author)
 

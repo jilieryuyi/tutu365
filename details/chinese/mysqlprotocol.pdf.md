@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-mysql protocol.pdf.
+mysql protocol.pdf.pdf
 
 ## 作者(author)
 

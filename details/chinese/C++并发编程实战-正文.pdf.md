@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-C++并发编程实战-正文.pdf.
+C++并发编程实战-正文.pdf.pdf
 
 ## 作者(author)
 

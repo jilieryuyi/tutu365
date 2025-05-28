@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-DOM文档对象中文手册.chm.
+DOM文档对象中文手册.chm.chm
 
 ## 作者(author)
 

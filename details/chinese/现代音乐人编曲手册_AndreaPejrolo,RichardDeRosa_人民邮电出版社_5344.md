@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-现代音乐人编曲手册_Andrea Pejrolo, Richard DeRosa_人民邮电出版社_5344874_98e03ec0721c851c63e3399219b55b92.pdf.
+现代音乐人编曲手册_Andrea Pejrolo, Richard DeRosa_人民邮电出版社_5344874_98e03ec0721c851c63e3399219b55b92.pdf.pdf
 
 ## 作者(author)
 

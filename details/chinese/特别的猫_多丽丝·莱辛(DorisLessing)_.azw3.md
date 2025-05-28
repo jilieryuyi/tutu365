@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-特别的猫_多丽丝·莱辛(Doris Lessing)_.azw3.
+特别的猫_多丽丝·莱辛(Doris Lessing)_.azw3.azw3
 
 ## 作者(author)
 

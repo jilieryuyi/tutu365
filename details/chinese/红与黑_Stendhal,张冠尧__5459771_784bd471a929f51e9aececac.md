@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-红与黑_Stendhal, 张冠尧__5459771_784bd471a929f51e9aececac0f9b265f.pdf.
+红与黑_Stendhal, 张冠尧__5459771_784bd471a929f51e9aececac0f9b265f.pdf.pdf
 
 ## 作者(author)
 

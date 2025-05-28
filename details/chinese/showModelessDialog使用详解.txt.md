@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-showModelessDialog使用详解.txt.
+showModelessDialog使用详解.txt.txt
 
 ## 作者(author)
 

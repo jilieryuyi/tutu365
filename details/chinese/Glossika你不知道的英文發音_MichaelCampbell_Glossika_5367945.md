@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Glossika 你不知道的英文發音_Michael Campbell_Glossika_5367945_5bdc201108cda6af6f217ae0887cb00b.pdf.
+Glossika 你不知道的英文發音_Michael Campbell_Glossika_5367945_5bdc201108cda6af6f217ae0887cb00b.pdf.pdf
 
 ## 作者(author)
 

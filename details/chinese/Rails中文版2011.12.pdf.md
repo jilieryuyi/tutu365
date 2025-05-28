@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Rails 中文版 2011.12.pdf.
+Rails 中文版 2011.12.pdf.pdf
 
 ## 作者(author)
 

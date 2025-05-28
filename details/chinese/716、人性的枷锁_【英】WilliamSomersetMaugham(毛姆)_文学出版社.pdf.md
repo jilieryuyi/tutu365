@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-716、人性的枷锁_【英】William Somerset Maugham(毛姆)_文学出版社.pdf.
+716、人性的枷锁_【英】William Somerset Maugham(毛姆)_文学出版社.pdf.pdf
 
 ## 作者(author)
 

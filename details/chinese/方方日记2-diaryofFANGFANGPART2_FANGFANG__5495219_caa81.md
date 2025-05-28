@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-方方日记2-diary of FANGFANG PART 2_FANG FANG__5495219_caa81b738a9e567831c428dd0c3e1f44.pdf.
+方方日记2-diary of FANGFANG PART 2_FANG FANG__5495219_caa81b738a9e567831c428dd0c3e1f44.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-728、历史上最伟大的10个方程_【美】Robert P Crease_人民邮电出版社.pdf.
+728、历史上最伟大的10个方程_【美】Robert P Crease_人民邮电出版社.pdf.pdf
 
 ## 作者(author)
 

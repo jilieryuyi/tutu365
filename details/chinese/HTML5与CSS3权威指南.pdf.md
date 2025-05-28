@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-HTML5与CSS3权威指南.pdf.
+HTML5与CSS3权威指南.pdf.pdf
 
 ## 作者(author)
 

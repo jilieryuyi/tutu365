@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-武汉新冠之疫史事日志（初稿）_Honglei Cheng__5459037_c6afcdc56b6659bcb123688660e49eec.pdf.
+武汉新冠之疫史事日志（初稿）_Honglei Cheng__5459037_c6afcdc56b6659bcb123688660e49eec.pdf.pdf
 
 ## 作者(author)
 

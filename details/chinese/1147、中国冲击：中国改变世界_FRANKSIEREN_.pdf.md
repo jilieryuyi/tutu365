@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1147、中国冲击：中国改变世界_FRANK SIEREN_.pdf.
+1147、中国冲击：中国改变世界_FRANK SIEREN_.pdf.pdf
 
 ## 作者(author)
 

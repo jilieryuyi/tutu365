@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-C标准库.pdf.
+C标准库.pdf.pdf
 
 ## 作者(author)
 

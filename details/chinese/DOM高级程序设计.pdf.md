@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-DOM高级程序设计.pdf.
+DOM高级程序设计.pdf.pdf
 
 ## 作者(author)
 

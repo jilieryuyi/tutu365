@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-财产权是自由的守护者_J.M.布坎南__5347066_84b60cf634ad2036cbc69b72e9e1b5b8.mobi.
+财产权是自由的守护者_J.M.布坎南__5347066_84b60cf634ad2036cbc69b72e9e1b5b8.mobi.mobi
 
 ## 作者(author)
 

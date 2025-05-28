@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-PHP高级程序设计_模式、框架与测试.pdf.
+PHP高级程序设计_模式、框架与测试.pdf.pdf
 
 ## 作者(author)
 

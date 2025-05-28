@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-css3.0参考手册.chm.
+css3.0参考手册.chm.chm
 
 ## 作者(author)
 

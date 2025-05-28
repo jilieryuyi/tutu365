@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Office_Open_XML_Part1_Fundamentals.pdf.
+Office_Open_XML_Part1_Fundamentals.pdf.pdf
 
 ## 作者(author)
 

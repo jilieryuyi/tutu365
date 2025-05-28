@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-474、穷忙 (译文纪实)_戴维·希普勒（David K. Shipler）_上海译文出版社.mobi.
+474、穷忙 (译文纪实)_戴维·希普勒（David K. Shipler）_上海译文出版社.mobi.mobi
 
 ## 作者(author)
 

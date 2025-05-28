@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-jQuery.pdf.
+jQuery.pdf.pdf
 
 ## 作者(author)
 

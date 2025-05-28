@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-基于MVC的开发.pdf.
+基于MVC的开发.pdf.pdf
 
 ## 作者(author)
 

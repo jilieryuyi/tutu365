@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-subversion.chm.
+subversion.chm.chm
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-西方语言学名著选读 (Selected Readings of Western Linguistics)_胡明扬_中国人民大学出版社_5496263_b0b2df954b5887a18b0ea580c09049f8.pdf.
+西方语言学名著选读 (Selected Readings of Western Linguistics)_胡明扬_中国人民大学出版社_5496263_b0b2df954b5887a18b0ea580c09049f8.pdf.pdf
 
 ## 作者(author)
 

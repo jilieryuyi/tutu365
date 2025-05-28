@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-HTML5移动Web开发指南》.pdf.
+HTML5移动Web开发指南》.pdf.pdf
 
 ## 作者(author)
 

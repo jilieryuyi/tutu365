@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Visual Studio 2010 高级编程.pdf.
+Visual Studio 2010 高级编程.pdf.pdf
 
 ## 作者(author)
 

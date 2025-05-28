@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-MySQL5.1参考手册.chm.
+MySQL5.1参考手册.chm.chm
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-996、Isaac_Action_Plan_伊萨克.巴顿_中国对外翻译出版社.pdf.
+996、Isaac_Action_Plan_伊萨克.巴顿_中国对外翻译出版社.pdf.pdf
 
 ## 作者(author)
 

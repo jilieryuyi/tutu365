@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-古代哲学的智慧 (译文经典)_皮埃尔·阿多(Pierre Hadot)_.mobi.
+古代哲学的智慧 (译文经典)_皮埃尔·阿多(Pierre Hadot)_.mobi.mobi
 
 ## 作者(author)
 

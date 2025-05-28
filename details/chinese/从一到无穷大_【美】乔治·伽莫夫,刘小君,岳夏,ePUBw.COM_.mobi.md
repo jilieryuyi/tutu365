@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-从一到无穷大_【美】乔治·伽莫夫, 刘小君, 岳夏, ePUBw.COM_.mobi.
+从一到无穷大_【美】乔治·伽莫夫, 刘小君, 岳夏, ePUBw.COM_.mobi.mobi
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1182、德意志文化 下 1945-2000_HERMANN GLASER_.pdf.
+1182、德意志文化 下 1945-2000_HERMANN GLASER_.pdf.pdf
 
 ## 作者(author)
 

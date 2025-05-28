@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-【中医】温病学讲义(OCR).pdf.
+【中医】温病学讲义(OCR).pdf.pdf
 
 ## 作者(author)
 

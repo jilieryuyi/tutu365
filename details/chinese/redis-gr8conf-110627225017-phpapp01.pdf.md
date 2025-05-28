@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis-gr8conf-110627225017-phpapp01.pdf.
+redis-gr8conf-110627225017-phpapp01.pdf.pdf
 
 ## 作者(author)
 

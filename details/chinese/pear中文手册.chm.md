@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-pear中文手册.chm.
+pear中文手册.chm.chm
 
 ## 作者(author)
 

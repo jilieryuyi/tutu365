@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-免费技术材料-OK.pdf.
+免费技术材料-OK.pdf.pdf
 
 ## 作者(author)
 

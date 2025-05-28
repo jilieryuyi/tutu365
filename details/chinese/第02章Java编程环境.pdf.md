@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第02章 Java编程环境.pdf.
+第02章 Java编程环境.pdf.pdf
 
 ## 作者(author)
 

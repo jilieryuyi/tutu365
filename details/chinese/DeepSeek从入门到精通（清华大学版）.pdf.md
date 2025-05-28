@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-DeepSeek从入门到精通（清华大学版）.pdf.
+DeepSeek从入门到精通（清华大学版）.pdf.pdf
 
 ## 作者(author)
 

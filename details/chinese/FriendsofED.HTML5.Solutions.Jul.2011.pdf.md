@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-FriendsofED.HTML5.Solutions.Jul.2011.pdf.
+FriendsofED.HTML5.Solutions.Jul.2011.pdf.pdf
 
 ## 作者(author)
 

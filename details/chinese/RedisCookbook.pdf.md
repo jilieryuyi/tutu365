@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Redis Cookbook.pdf.
+Redis Cookbook.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-HTML5_Canvas_Cheat_Sheet.pdf.
+HTML5_Canvas_Cheat_Sheet.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Netkiller Spring Cloud 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526995_c9e106361a6c5dd78d39f54fd2c11e75.epub.
+Netkiller Spring Cloud 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526995_c9e106361a6c5dd78d39f54fd2c11e75.epub.epub
 
 ## 作者(author)
 

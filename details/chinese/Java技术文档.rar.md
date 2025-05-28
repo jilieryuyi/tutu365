@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Java技术文档.rar.
+Java技术文档.rar.rar
 
 ## 作者(author)
 

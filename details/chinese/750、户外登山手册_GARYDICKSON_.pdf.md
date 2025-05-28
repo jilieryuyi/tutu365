@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-750、户外登山手册_GARY DICKSON_.pdf.
+750、户外登山手册_GARY DICKSON_.pdf.pdf
 
 ## 作者(author)
 

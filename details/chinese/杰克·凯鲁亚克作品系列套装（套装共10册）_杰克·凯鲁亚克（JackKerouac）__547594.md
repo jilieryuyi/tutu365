@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-杰克·凯鲁亚克作品系列套装（套装共10册）_杰克·凯鲁亚克（Jack Kerouac）__5475946_fd511912bcf9c36f5e6e31f99b5e55b1.azw3.
+杰克·凯鲁亚克作品系列套装（套装共10册）_杰克·凯鲁亚克（Jack Kerouac）__5475946_fd511912bcf9c36f5e6e31f99b5e55b1.azw3.azw3
 
 ## 作者(author)
 

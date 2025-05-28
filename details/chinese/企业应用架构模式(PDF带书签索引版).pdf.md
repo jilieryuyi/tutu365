@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-企业应用架构模式(PDF带书签索引版).pdf.
+企业应用架构模式(PDF带书签索引版).pdf.pdf
 
 ## 作者(author)
 

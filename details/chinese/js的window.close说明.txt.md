@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-js的window.close说明.txt.
+js的window.close说明.txt.txt
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-牛津通识读本：数学（中文版）_蒂莫西·高尔斯__5366084_cb1dddeef959abb7acfd11110d0f67fc.azw3.
+牛津通识读本：数学（中文版）_蒂莫西·高尔斯__5366084_cb1dddeef959abb7acfd11110d0f67fc.azw3.azw3
 
 ## 作者(author)
 

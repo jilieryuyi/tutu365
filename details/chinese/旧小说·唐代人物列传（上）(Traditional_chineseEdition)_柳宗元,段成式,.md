@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-旧小说·唐代人物列传（上） (Traditional_chinese Edition)_柳宗元, 段成式, 牛僧孺__5476179_60ff2512fc9c2dbd6b67a066f3721e63.azw3.
+旧小说·唐代人物列传（上） (Traditional_chinese Edition)_柳宗元, 段成式, 牛僧孺__5476179_60ff2512fc9c2dbd6b67a066f3721e63.azw3.azw3
 
 ## 作者(author)
 

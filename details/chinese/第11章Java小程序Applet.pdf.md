@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-第11章 Java小程序Applet.pdf.
+第11章 Java小程序Applet.pdf.pdf
 
 ## 作者(author)
 

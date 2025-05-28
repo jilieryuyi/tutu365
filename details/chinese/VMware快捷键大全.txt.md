@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-VMware快捷键大全.txt.
+VMware快捷键大全.txt.txt
 
 ## 作者(author)
 

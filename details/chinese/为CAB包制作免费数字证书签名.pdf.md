@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-为CAB包制作免费数字证书签名.pdf.
+为CAB包制作免费数字证书签名.pdf.pdf
 
 ## 作者(author)
 

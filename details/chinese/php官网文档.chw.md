@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-php官网文档.chw.
+php官网文档.chw.chw
 
 ## 作者(author)
 

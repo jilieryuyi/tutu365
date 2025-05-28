@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1010、越南：世界史的失語者_Christopher Goscha_聯經出版事業股份有限公司.epub.
+1010、越南：世界史的失語者_Christopher Goscha_聯經出版事業股份有限公司.epub.epub
 
 ## 作者(author)
 

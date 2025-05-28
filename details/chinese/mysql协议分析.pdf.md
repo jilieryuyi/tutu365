@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-mysql协议分析.pdf.
+mysql协议分析.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Head First HTML与CSS、XHTML（中文版）.pdf.
+Head First HTML与CSS、XHTML（中文版）.pdf.pdf
 
 ## 作者(author)
 

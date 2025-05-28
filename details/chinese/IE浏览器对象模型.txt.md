@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-IE浏览器对象模型.txt.
+IE浏览器对象模型.txt.txt
 
 ## 作者(author)
 

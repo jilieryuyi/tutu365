@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-523、人类六万年=60，000 YEARS` JOURNEY OF MAN_张振著_安徽人民出版社.pdf.
+523、人类六万年=60，000 YEARS` JOURNEY OF MAN_张振著_安徽人民出版社.pdf.pdf
 
 ## 作者(author)
 

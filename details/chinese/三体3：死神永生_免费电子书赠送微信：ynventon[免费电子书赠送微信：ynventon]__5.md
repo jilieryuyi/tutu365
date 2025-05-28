@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-三体3：死神永生_免费电子书赠送 微信：ynventon [免费电子书赠送 微信：ynventon]__5471459_bdabb936fa7461ed4585828403c0ba5e.epub.
+三体3：死神永生_免费电子书赠送 微信：ynventon [免费电子书赠送 微信：ynventon]__5471459_bdabb936fa7461ed4585828403c0ba5e.epub.epub
 
 ## 作者(author)
 

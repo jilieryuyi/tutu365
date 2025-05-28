@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-postgresql在windows(包括win7)下的安装配置.docx.
+postgresql在windows(包括win7)下的安装配置.docx.docx
 
 ## 作者(author)
 

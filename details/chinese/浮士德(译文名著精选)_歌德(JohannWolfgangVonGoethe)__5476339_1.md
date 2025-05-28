@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-浮士德 (译文名著精选)_歌德(Johann Wolfgang Von Goethe)__5476339_139162d0b8767c1d13a975bfbae0ba03.azw3.
+浮士德 (译文名著精选)_歌德(Johann Wolfgang Von Goethe)__5476339_139162d0b8767c1d13a975bfbae0ba03.azw3.azw3
 
 ## 作者(author)
 

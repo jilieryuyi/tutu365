@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-html5.chm.
+html5.chm.chm
 
 ## 作者(author)
 

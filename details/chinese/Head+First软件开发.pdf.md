@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Head+First软件开发.pdf.
+Head+First软件开发.pdf.pdf
 
 ## 作者(author)
 

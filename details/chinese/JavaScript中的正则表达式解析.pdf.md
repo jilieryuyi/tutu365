@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-JavaScript中的正则表达式解析.pdf.
+JavaScript中的正则表达式解析.pdf.pdf
 
 ## 作者(author)
 

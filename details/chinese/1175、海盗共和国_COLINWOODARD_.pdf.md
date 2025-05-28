@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1175、海盗共和国_COLIN WOODARD_.pdf.
+1175、海盗共和国_COLIN WOODARD_.pdf.pdf
 
 ## 作者(author)
 

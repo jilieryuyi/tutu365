@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-当和尚遇到钻石_reedtian_.pdf.
+当和尚遇到钻石_reedtian_.pdf.pdf
 
 ## 作者(author)
 

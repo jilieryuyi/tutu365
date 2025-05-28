@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1185、斯大林战争_ROBERTS_.pdf.
+1185、斯大林战争_ROBERTS_.pdf.pdf
 
 ## 作者(author)
 

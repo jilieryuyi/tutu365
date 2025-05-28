@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[随记]使用CAB文件包进行ActiveX控件发布.pdf.
+[随记]使用CAB文件包进行ActiveX控件发布.pdf.pdf
 
 ## 作者(author)
 

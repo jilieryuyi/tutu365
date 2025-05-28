@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1161、冷战：交易谍影谎言真相_JOHN GADDIS_.pdf.
+1161、冷战：交易谍影谎言真相_JOHN GADDIS_.pdf.pdf
 
 ## 作者(author)
 

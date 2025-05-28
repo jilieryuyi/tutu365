@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-java企业项目实训－任务书（朱强）.doc.
+java企业项目实训－任务书（朱强）.doc.doc
 
 ## 作者(author)
 

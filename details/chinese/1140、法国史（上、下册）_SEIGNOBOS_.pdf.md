@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1140、法国史（上、下册）_SEIGNOBOS_.pdf.
+1140、法国史（上、下册）_SEIGNOBOS_.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-微软办公软件认证考试MOS Access 2013实训教程 (徐日编著).pdf.
+微软办公软件认证考试MOS Access 2013实训教程 (徐日编著).pdf.pdf
 
 ## 作者(author)
 

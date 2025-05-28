@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-历史与真理 (二十世纪西方哲学经典)_保罗·利科 (Paul Riceur)_.mobi.
+历史与真理 (二十世纪西方哲学经典)_保罗·利科 (Paul Riceur)_.mobi.mobi
 
 ## 作者(author)
 

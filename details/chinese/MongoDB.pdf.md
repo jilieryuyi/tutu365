@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-MongoDB.pdf.
+MongoDB.pdf.pdf
 
 ## 作者(author)
 

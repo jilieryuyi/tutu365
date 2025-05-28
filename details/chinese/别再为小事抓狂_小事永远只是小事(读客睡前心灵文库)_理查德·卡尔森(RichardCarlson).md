@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-别再为小事抓狂_小事永远只是小事 (读客睡前心灵文库)_理查德·卡尔森 (Richard Carlson)__5476562_36a8c9baf79ad075fe2b6c70361297bc.azw3.
+别再为小事抓狂_小事永远只是小事 (读客睡前心灵文库)_理查德·卡尔森 (Richard Carlson)__5476562_36a8c9baf79ad075fe2b6c70361297bc.azw3.azw3
 
 ## 作者(author)
 

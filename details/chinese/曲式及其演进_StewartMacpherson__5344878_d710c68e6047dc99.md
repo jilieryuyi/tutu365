@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-曲式及其演进_Stewart Macpherson__5344878_d710c68e6047dc99e9be523d6cb2334b.pdf.
+曲式及其演进_Stewart Macpherson__5344878_d710c68e6047dc99e9be523d6cb2334b.pdf.pdf
 
 ## 作者(author)
 

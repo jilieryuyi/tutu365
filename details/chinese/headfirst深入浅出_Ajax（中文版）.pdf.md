@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-headfirst深入浅出_Ajax（中文版）.pdf.
+headfirst深入浅出_Ajax（中文版）.pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-羊皮卷_PDF高清版.pdf.
+羊皮卷_PDF高清版.pdf.pdf
 
 ## 作者(author)
 

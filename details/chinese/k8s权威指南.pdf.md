@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-k8s权威指南.pdf.
+k8s权威指南.pdf.pdf
 
 ## 作者(author)
 

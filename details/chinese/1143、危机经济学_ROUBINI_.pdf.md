@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1143、危机经济学_ROUBINI_.pdf.
+1143、危机经济学_ROUBINI_.pdf.pdf
 
 ## 作者(author)
 

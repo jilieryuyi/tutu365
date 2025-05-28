@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[www.hexdoc.com]html5-js-apis.pdf.
+[www.hexdoc.com]html5-js-apis.pdf.pdf
 
 ## 作者(author)
 

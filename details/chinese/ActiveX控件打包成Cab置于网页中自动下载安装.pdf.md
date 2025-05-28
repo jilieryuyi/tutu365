@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-ActiveX控件打包成Cab置于网页中自动下载安装.pdf.
+ActiveX控件打包成Cab置于网页中自动下载安装.pdf.pdf
 
 ## 作者(author)
 

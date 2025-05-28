@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-方励之选集第1卷_作者：方励之；  编者：阮耀仲 Ruan Yaozhong_.pdf.
+方励之选集第1卷_作者：方励之；  编者：阮耀仲 Ruan Yaozhong_.pdf.pdf
 
 ## 作者(author)
 

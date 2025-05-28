@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-VC++学习笔记.docx.
+VC++学习笔记.docx.docx
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Gearman框架构建分布式图片处理平台.pdf.
+Gearman框架构建分布式图片处理平台.pdf.pdf
 
 ## 作者(author)
 

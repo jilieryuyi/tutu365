@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-html语法教程.chm.
+html语法教程.chm.chm
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Windows编程循序渐进(清晰完整版).pdf.
+Windows编程循序渐进(清晰完整版).pdf.pdf
 
 ## 作者(author)
 

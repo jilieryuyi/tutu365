@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-《JavaScript 语言参考》中文版.chw.
+《JavaScript 语言参考》中文版.chw.chw
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-mysql字符串函数.txt.
+mysql字符串函数.txt.txt
 
 ## 作者(author)
 

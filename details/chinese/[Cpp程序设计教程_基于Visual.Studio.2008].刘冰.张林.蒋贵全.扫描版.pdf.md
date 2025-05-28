@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[Cpp程序设计教程_基于Visual.Studio.2008].刘冰.张林.蒋贵全.扫描版.pdf.
+[Cpp程序设计教程_基于Visual.Studio.2008].刘冰.张林.蒋贵全.扫描版.pdf.pdf
 
 ## 作者(author)
 

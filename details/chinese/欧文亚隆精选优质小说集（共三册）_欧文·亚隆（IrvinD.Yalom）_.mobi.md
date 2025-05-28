@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-欧文亚隆精选优质小说集（共三册）_欧文·亚隆（Irvin D.Yalom）_.mobi.
+欧文亚隆精选优质小说集（共三册）_欧文·亚隆（Irvin D.Yalom）_.mobi.mobi
 
 ## 作者(author)
 

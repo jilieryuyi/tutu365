@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-程序员常用JavaScript特效.chm.
+程序员常用JavaScript特效.chm.chm
 
 ## 作者(author)
 

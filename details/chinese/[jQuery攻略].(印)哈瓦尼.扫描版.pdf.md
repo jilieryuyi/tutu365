@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-[jQuery攻略].(印)哈瓦尼.扫描版.pdf.
+[jQuery攻略].(印)哈瓦尼.扫描版.pdf.pdf
 
 ## 作者(author)
 

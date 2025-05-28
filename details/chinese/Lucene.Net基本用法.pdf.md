@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Lucene.Net基本用法.pdf.
+Lucene.Net基本用法.pdf.pdf
 
 ## 作者(author)
 

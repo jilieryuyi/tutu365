@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-私密處的奇幻旅程_妮娜‧布羅克（Nina Brochmann）、 艾倫‧斯托肯‧達爾（Ellen Støkken Dahl）_.epub.
+私密處的奇幻旅程_妮娜‧布羅克（Nina Brochmann）、 艾倫‧斯托肯‧達爾（Ellen Støkken Dahl）_.epub.epub
 
 ## 作者(author)
 

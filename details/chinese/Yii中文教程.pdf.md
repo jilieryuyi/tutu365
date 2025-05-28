@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Yii中文教程.pdf.
+Yii中文教程.pdf.pdf
 
 ## 作者(author)
 

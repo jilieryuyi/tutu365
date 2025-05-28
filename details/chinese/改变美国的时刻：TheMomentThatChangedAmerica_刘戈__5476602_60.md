@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-改变美国的时刻：The Moment That Changed America_刘戈__5476602_6042958965067373e1fe438674c91fd8.azw3.
+改变美国的时刻：The Moment That Changed America_刘戈__5476602_6042958965067373e1fe438674c91fd8.azw3.azw3
 
 ## 作者(author)
 

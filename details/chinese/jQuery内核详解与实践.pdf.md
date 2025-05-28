@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-jQuery内核详解与实践.pdf.
+jQuery内核详解与实践.pdf.pdf
 
 ## 作者(author)
 

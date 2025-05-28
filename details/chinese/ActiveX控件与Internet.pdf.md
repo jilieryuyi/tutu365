@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-ActiveX 控件与Internet.pdf.
+ActiveX 控件与Internet.pdf.pdf
 
 ## 作者(author)
 

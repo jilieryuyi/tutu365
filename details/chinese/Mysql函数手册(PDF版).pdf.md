@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Mysql函数手册(PDF版).pdf.
+Mysql函数手册(PDF版).pdf.pdf
 
 ## 作者(author)
 

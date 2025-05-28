@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-夜色温柔(译文名著精选)_F.S.菲茨杰拉德(Francis Scott Fitzgerald)__5476332_f2240c08a9b3172b733ed0c072707829.azw3.
+夜色温柔(译文名著精选)_F.S.菲茨杰拉德(Francis Scott Fitzgerald)__5476332_f2240c08a9b3172b733ed0c072707829.azw3.azw3
 
 ## 作者(author)
 

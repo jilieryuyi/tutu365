@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-1177、德意志文化 上_HERMANN GLASER_.pdf.
+1177、德意志文化 上_HERMANN GLASER_.pdf.pdf
 
 ## 作者(author)
 

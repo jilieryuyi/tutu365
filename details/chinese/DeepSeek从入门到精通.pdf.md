@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-DeepSeek从入门到精通.pdf.
+DeepSeek从入门到精通.pdf.pdf
 
 ## 作者(author)
 

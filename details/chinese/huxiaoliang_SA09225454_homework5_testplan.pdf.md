@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-huxiaoliang_SA09225454_homework5_testplan.pdf.
+huxiaoliang_SA09225454_homework5_testplan.pdf.pdf
 
 ## 作者(author)
 

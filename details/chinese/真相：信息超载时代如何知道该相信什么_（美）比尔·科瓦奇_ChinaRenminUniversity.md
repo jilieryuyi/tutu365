@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-真相：信息超载时代如何知道该相信什么_（美）比尔·科瓦奇_China Renmin University Press_5353827_c71ad94b58c3ea59d3f858c11b240c9d.pdf.
+真相：信息超载时代如何知道该相信什么_（美）比尔·科瓦奇_China Renmin University Press_5353827_c71ad94b58c3ea59d3f858c11b240c9d.pdf.pdf
 
 ## 作者(author)
 

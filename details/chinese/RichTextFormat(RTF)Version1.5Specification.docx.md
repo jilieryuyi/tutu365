@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Rich Text Format (RTF) Version 1.5 Specification.docx.
+Rich Text Format (RTF) Version 1.5 Specification.docx.docx
 
 ## 作者(author)
 

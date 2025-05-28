@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-XMPP协议_RFC3920中文翻译版%5B格式化%5D.chm.
+XMPP协议_RFC3920中文翻译版%5B格式化%5D.chm.chm
 
 ## 作者(author)
 

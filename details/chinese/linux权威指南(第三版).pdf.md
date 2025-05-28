@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-linux权威指南(第三版).pdf.
+linux权威指南(第三版).pdf.pdf
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-美国革命的激进主义_戈登•S.伍德__5476591_1e7f1dae2b49b4ce16dc127c8455bb1e.azw3.
+美国革命的激进主义_戈登•S.伍德__5476591_1e7f1dae2b49b4ce16dc127c8455bb1e.azw3.azw3
 
 ## 作者(author)
 

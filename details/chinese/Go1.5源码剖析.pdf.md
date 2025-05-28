@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Go 1.5 源码剖析.pdf.
+Go 1.5 源码剖析.pdf.pdf
 
 ## 作者(author)
 

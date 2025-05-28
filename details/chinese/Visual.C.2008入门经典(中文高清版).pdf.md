@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Visual.C.2008入门经典(中文高清版).pdf.
+Visual.C.2008入门经典(中文高清版).pdf.pdf
 
 ## 作者(author)
 

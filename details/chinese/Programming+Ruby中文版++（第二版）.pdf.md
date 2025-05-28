@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Programming+Ruby中文版++（第二版）.pdf.
+Programming+Ruby中文版++（第二版）.pdf.pdf
 
 ## 作者(author)
 

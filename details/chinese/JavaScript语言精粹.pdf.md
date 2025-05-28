@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-JavaScript语言精粹.pdf.
+JavaScript语言精粹.pdf.pdf
 
 ## 作者(author)
 

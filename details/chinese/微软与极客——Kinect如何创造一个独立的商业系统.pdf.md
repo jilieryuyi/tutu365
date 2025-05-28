@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-微软与极客——Kinect如何创造一个独立的商业系统.pdf.
+微软与极客——Kinect如何创造一个独立的商业系统.pdf.pdf
 
 ## 作者(author)
 

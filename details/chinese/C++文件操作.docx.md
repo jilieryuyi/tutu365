@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-C++文件操作.docx.
+C++文件操作.docx.docx
 
 ## 作者(author)
 

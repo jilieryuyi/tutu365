@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-最寒冷的冬天：美国人眼中的朝鲜战争_大卫•哈伯斯塔姆(David Halberstam)__5470559_2894192ed2abf947c63e13b5963cf480.epub.
+最寒冷的冬天：美国人眼中的朝鲜战争_大卫•哈伯斯塔姆(David Halberstam)__5470559_2894192ed2abf947c63e13b5963cf480.epub.epub
 
 ## 作者(author)
 

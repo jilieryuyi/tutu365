@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-sangoma asterisk FAQ.chm.
+sangoma asterisk FAQ.chm.chm
 
 ## 作者(author)
 

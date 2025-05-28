@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-redis中文手册.pdf.
+redis中文手册.pdf.pdf
 
 ## 作者(author)
 

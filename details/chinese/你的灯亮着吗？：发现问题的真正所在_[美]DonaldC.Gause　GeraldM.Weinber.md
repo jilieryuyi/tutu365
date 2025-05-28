@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-你的灯亮着吗？：发现问题的真正所在_[美]Donald C. Gause　Gerald M. Weinberg__5476459_c34acc096df0b310b9acb805b2c316d3.azw3.
+你的灯亮着吗？：发现问题的真正所在_[美]Donald C. Gause　Gerald M. Weinberg__5476459_c34acc096df0b310b9acb805b2c316d3.azw3.azw3
 
 ## 作者(author)
 

@@ -5,7 +5,7 @@
 8078
 
 ## 名称(book name)
-Zend Framework手册中文版.pdf.
+Zend Framework手册中文版.pdf.pdf
 
 ## 作者(author)
 
