@@ -1,0 +1,29 @@
+## 下载地址(download link)
+[下载链接 download link](https://voluble-croquembouche-d321dc.netlify.app/?s=%E5%B7%A8%E4%BA%BA%E4%BC%A0%28%E5%90%8D%E5%AE%B6%E7%BB%8F%E5%85%B8%E5%85%A8%E8%AF%91%E6%9C%AC%29%EF%BC%88%E5%BC%80%E5%90%AF%E6%B3%95%E5%9B%BD%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%E4%B9%8B%E5%85%88%E6%B2%B3++%E8%B0%B1%E5%86%99%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BC%A0%E4%B8%96%E8%B5%9E%E6%AD%8C%E3%80%82%EF%BC%89+%28N+%E5%B7%A8%E4%BA%BA%E4%BC%A0%29)
+
+## 下载密码(download password)
+8078
+
+## 名称(book name)
+巨人传(名家经典全译本)（开启法国长篇小说之先河  谱写人文主义的传世赞歌。） (N 巨人传).azw3
+
+## 作者(author)
+弗朗索瓦·拉伯雷
+
+## 出版社(publisher)
+译林出版社
+
+## ISBN
+
+
+## 语言(language)
+chinese
+
+## MD5
+4373785103ed59e439f9810ce5dac99a
+
+## 大小(filesize)
+1.3 MB
+
+## 时间(year)
+2015

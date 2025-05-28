@@ -1,0 +1,29 @@
+## 下载地址(download link)
+[下载链接 download link](https://voluble-croquembouche-d321dc.netlify.app/?s=%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%E5%9B%9B%E9%83%A8%E6%9B%B2NO.2%EF%BC%9A%E6%96%B0%E5%90%8D%E5%AD%97%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%85%A8%E7%90%83%E7%95%85%E9%94%80%E8%BF%91%E5%8D%83%E4%B8%87%E5%86%8C%EF%BC%8CHBO%E7%9C%9F%E4%BA%BA%E7%94%B5%E8%A7%86%E5%89%A7%E7%83%AD%E6%8B%8D%E4%B8%AD%EF%BC%8C%E4%B8%A4%E4%B8%AA%E5%A5%B3%E4%BA%BA50%E5%B9%B4%E7%9A%84%E5%8F%8B%E8%B0%8A%E5%92%8C%E6%88%98%E4%BA%89%EF%BC%8C%E5%B8%8C%E6%8B%89%E9%87%8C%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF%E3%80%81%E4%B9%94%E7%BA%B3%E6%A3%AE%C2%B7%E5%BC%97%E5%85%B0%E5%B2%91%E3%80%81%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%BC%97%E5%85%B0%E7%A7%91%E9%83%BD%E6%98%AF%E5%A5%B9%E7%9A%84%E7%B2%89%E4%B8%9D%EF%BC%89)
+
+## 下载密码(download password)
+8078
+
+## 名称(book name)
+那不勒斯四部曲NO.2：新名字的故事（全球畅销近千万册，HBO真人电视剧热拍中，两个女人50年的友谊和战争，希拉里·克林顿、乔纳森·弗兰岑、詹姆斯·弗兰科都是她的粉丝）.epub
+
+## 作者(author)
+[意]埃莱娜·费兰特 [[意]埃莱娜·费兰特]
+
+## 出版社(publisher)
+
+
+## ISBN
+
+
+## 语言(language)
+chinese
+
+## MD5
+4c2bbaa834108dbdd87edb9c291afc85
+
+## 大小(filesize)
+695.3 KB
+
+## 时间(year)
+2017
