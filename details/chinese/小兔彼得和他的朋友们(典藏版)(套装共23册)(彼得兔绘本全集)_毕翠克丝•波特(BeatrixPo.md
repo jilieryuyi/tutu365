@@ -7,23 +7,12 @@
 ## 名称(book name)
 小兔彼得和他的朋友们(典藏版)(套装共23册) (彼得兔绘本全集)_毕翠克丝•波特 (Beatrix Potter)__5476438_203888d5f444529c187d8d10725da087.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 203888d5f444529c187d8d10725da087
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+21.1 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 1165、德意志之魂_DORN WAGNER_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c04e11542d17112aaf473e69cb431b04
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+93.5 MB
+%!d(MISSING)

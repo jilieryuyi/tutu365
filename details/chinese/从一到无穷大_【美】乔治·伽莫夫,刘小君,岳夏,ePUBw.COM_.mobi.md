@@ -7,23 +7,12 @@
 ## 名称(book name)
 从一到无穷大_【美】乔治·伽莫夫, 刘小君, 岳夏, ePUBw.COM_.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 597d447b5bae37058e480af3c9b50dfb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+10.7 MB
+%!d(MISSING)

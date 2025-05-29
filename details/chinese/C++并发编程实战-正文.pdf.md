@@ -7,23 +7,12 @@
 ## 名称(book name)
 C++并发编程实战-正文.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 20440a7bef4773a8a0bb2593c3b696be
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+79.7 MB
+%!d(MISSING)

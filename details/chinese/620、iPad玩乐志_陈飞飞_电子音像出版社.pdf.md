@@ -7,23 +7,12 @@
 ## 名称(book name)
 620、iPad玩乐志_陈飞飞_电子音像出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3a2d9351e9e44102bca437f2ccd2b3da
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+35.3 MB
+%!d(MISSING)

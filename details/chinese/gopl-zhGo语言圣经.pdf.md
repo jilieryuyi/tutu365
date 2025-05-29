@@ -7,23 +7,12 @@
 ## 名称(book name)
 gopl-zh Go语言圣经.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 41231cb8daa4d7b1feb9d397cd4e455f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+4.5 MB
+%!d(MISSING)

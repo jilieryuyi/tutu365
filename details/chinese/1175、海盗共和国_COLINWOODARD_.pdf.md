@@ -7,23 +7,12 @@
 ## 名称(book name)
 1175、海盗共和国_COLIN WOODARD_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d0627e1577b44450656dab0f5055e1c7
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+50.8 MB
+%!d(MISSING)

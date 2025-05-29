@@ -7,23 +7,12 @@
 ## 名称(book name)
 企业应用架构模式(PDF带书签索引版).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1e47bc01b70668af087ab2a415f2e4e7
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+11.8 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 牛津通识读本：叔本华（中文版）_贾纳韦(Christopher Janaway)__5366083_06746ec285e39bf4847424c242f47d29.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 06746ec285e39bf4847424c242f47d29
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+846.4 KB
+%!d(MISSING)

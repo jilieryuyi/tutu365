@@ -7,23 +7,12 @@
 ## 名称(book name)
 【中医】太素珍本a.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4dda88dce83d6723c51c139c3fc51769
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.5 MB
+%!d(MISSING)

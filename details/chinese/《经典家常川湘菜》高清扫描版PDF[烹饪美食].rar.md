@@ -7,23 +7,12 @@
 ## 名称(book name)
 《经典家常川湘菜》高清扫描版PDF[烹饪美食].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c3a85e4ea7aa23233921b542af61ee95
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+68.1 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 JavaScript中的正则表达式解析.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 164939737c34e2cbd4fbc5acfb938620
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+182.3 KB
+%!d(MISSING)

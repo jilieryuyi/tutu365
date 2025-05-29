@@ -7,23 +7,12 @@
 ## 名称(book name)
 [Cpp程序设计教程_基于Visual.Studio.2008].刘冰.张林.蒋贵全.扫描版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 535d864a6b181211b3a97cb0f3bd9833
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+31.2 MB
+%!d(MISSING)

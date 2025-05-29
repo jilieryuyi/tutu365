@@ -7,23 +7,12 @@
 ## 名称(book name)
 1177、德意志文化 上_HERMANN GLASER_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f0e2d38a39219d74734337901e44bac6
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+55.3 MB
+%!d(MISSING)

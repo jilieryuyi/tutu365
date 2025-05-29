@@ -7,23 +7,12 @@
 ## 名称(book name)
 postgresql在windows(包括win7)下的安装配置.docx.docx
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3f60d7c45a10a0fd89918dd4e2494e49
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+161.8 KB
+%!d(MISSING)

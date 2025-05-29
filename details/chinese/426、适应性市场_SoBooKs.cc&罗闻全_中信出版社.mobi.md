@@ -7,23 +7,12 @@
 ## 名称(book name)
 426、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 08422663d9ff79ae28fcba1380c22426
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+8.4 MB
+%!d(MISSING)

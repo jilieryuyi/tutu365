@@ -7,23 +7,12 @@
 ## 名称(book name)
 欧文亚隆精选优质小说集（共三册）_欧文·亚隆（Irvin D.Yalom）_.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5edf68d4ef424182bc018820b12c22d2
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+4.3 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 14号门_[美] 彼得·克莱斯_Jiangsu literature and Art Publishing House_5494101_bc90e1c44a15707aae437c9da58cbb96.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bc90e1c44a15707aae437c9da58cbb96
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+858 KB
+%!d(MISSING)

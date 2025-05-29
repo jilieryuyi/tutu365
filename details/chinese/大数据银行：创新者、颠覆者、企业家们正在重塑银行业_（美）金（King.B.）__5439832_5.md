@@ -7,23 +7,12 @@
 ## 名称(book name)
 大数据银行：创新者、颠覆者、企业家们正在重塑银行业_（美）金（King.B.） __5439832_5908dbb8e0e8375959f76a63990e3cb7.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5908dbb8e0e8375959f76a63990e3cb7
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

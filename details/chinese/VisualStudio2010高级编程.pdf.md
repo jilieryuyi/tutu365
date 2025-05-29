@@ -7,23 +7,12 @@
 ## 名称(book name)
 Visual Studio 2010 高级编程.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2728e451589f203db052a265671ee99d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+46.3 MB
+%!d(MISSING)

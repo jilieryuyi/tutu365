@@ -7,23 +7,12 @@
 ## 名称(book name)
 1194、美国语文读本(套装共6册) _威廉·H·麦加菲(William H. Mcguffey)_上海三联书店.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9f3bc13ddc3f93d5f1025ae3693838c4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+10.2 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 财产权利与制度变迁_[美]R.H.科斯 A.A.阿尔钦__5347065_7eec8cad84cd381d7435c76b704b9448.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7eec8cad84cd381d7435c76b704b9448
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+714.3 KB
+%!d(MISSING)

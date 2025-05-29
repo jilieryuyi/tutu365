@@ -7,23 +7,12 @@
 ## 名称(book name)
 诺贝尔文学奖作品典藏书系：有产业的人_J.高尔斯华绥__5476369_27385505135cda4aa4cfd0ceaf6d26a4.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 27385505135cda4aa4cfd0ceaf6d26a4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+491.6 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 远山淡影 (石黑一雄作品系列)_石黑一雄 Ishiguro Kazuo__5475944_7b9e02e2ad7b5aab635674b369f1ef5e.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7b9e02e2ad7b5aab635674b369f1ef5e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+285.7 KB
+%!d(MISSING)

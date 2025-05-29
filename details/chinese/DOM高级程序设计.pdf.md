@@ -7,23 +7,12 @@
 ## 名称(book name)
 DOM高级程序设计.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3503dac078c18be19eccf357b1c375fc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+108.4 MB
+%!d(MISSING)

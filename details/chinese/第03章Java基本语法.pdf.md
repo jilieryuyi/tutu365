@@ -7,23 +7,12 @@
 ## 名称(book name)
 第03章 Java基本语法.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4b1dd53e5c1fd2326e2cb3f850c85180
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+293.9 KB
+%!d(MISSING)

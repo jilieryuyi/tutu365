@@ -7,23 +7,12 @@
 ## 名称(book name)
 在ASP环境下实现SQL数据库模糊查询.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 12d373685a5a3279e9e2fdc4f3340aee
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+41.7 KB
+%!d(MISSING)

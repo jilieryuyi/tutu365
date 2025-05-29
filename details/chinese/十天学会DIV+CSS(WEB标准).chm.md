@@ -7,23 +7,12 @@
 ## 名称(book name)
 十天学会DIV+CSS(WEB标准).chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 91d7a13740573afd9342756b9e464704
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.6 MB
+%!d(MISSING)

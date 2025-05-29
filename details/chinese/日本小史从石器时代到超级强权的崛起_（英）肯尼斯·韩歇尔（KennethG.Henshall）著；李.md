@@ -7,23 +7,12 @@
 ## 名称(book name)
 日本小史  从石器时代到超级强权的崛起_（英）肯尼斯·韩歇尔（Kenneth G. Henshall）著；李忠晋，马昕译；叶渭渠配图_世界图书出版公司_5470433_ac2058bbb85789a5d49e52591e62c885.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ac2058bbb85789a5d49e52591e62c885
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+23.1 MB
+%!d(MISSING)

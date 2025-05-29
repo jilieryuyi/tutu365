@@ -7,23 +7,12 @@
 ## 名称(book name)
 《中医词典》h~j.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4d46a8a6247c2ab5629e976e744437fe
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

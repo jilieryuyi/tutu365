@@ -7,23 +7,12 @@
 ## 名称(book name)
 神秘博士短篇：连续性错误_Steven Moffat;霜子;Ophloia__5527078_8f97a47092004257e07859041cb74e98.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8f97a47092004257e07859041cb74e98
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+168.8 KB
+%!d(MISSING)

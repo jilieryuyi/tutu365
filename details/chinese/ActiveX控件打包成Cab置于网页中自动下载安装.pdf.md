@@ -7,23 +7,12 @@
 ## 名称(book name)
 ActiveX控件打包成Cab置于网页中自动下载安装.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 17785fa5340d121490d57d10f24ba944
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.5 MB
+%!d(MISSING)

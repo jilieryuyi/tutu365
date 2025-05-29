@@ -7,23 +7,12 @@
 ## 名称(book name)
 java企业项目实训－任务书（朱强）.doc.doc
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d7f15c4c76ad9de06bbe299316adb166
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+113.5 KB
+%!d(MISSING)

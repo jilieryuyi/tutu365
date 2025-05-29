@@ -7,23 +7,12 @@
 ## 名称(book name)
 旧小说·唐代人物列传（上） (Traditional_chinese Edition)_柳宗元, 段成式, 牛僧孺__5476179_60ff2512fc9c2dbd6b67a066f3721e63.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 60ff2512fc9c2dbd6b67a066f3721e63
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+315.1 KB
+%!d(MISSING)

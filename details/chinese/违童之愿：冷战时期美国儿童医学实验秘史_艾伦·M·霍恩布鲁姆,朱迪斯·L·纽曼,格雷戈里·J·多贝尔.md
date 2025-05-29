@@ -7,23 +7,12 @@
 ## 名称(book name)
 违童之愿：冷战时期美国儿童医学实验秘史_艾伦·M·霍恩布鲁姆, 朱迪斯·L·纽曼, 格雷戈里·J·多贝尔_生活·读书·新知三联书店_5475445_a68ba7dfddf48769cb9ea6c41d653bbc.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a68ba7dfddf48769cb9ea6c41d653bbc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+98.6 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 903、Word 长篇文档 排版技巧_版技巧_长篇文档出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3ea02777e5ba3485075cc363cdb50706
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.7 MB
+%!d(MISSING)

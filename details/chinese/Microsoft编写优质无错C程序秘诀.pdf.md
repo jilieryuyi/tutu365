@@ -7,23 +7,12 @@
 ## 名称(book name)
 Microsoft编写优质无错C程序秘诀.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a604642a801e5e65aab6db453f16e39a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.2 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 wireshark_中文手册.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c5c365a7e65adc4e03976248226bf1f4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.8 MB
+%!d(MISSING)

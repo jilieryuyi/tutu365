@@ -7,23 +7,12 @@
 ## 名称(book name)
 1178、郁金香热_MIKE DASH_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8590fc87d58eeda095e88c11a06aa038
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+47.6 MB
+%!d(MISSING)

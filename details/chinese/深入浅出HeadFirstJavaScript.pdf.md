@@ -7,23 +7,12 @@
 ## 名称(book name)
 深入浅出 Head First JavaScript.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ad6a404b6a69082ff07ff5572dc1f257
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+49.2 MB
+%!d(MISSING)

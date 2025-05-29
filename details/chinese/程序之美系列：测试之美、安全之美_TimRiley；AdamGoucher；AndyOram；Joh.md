@@ -7,23 +7,12 @@
 ## 名称(book name)
 程序之美系列：测试之美、安全之美_Tim Riley ；Adam Goucher； Andy Oram ；John Viega__5476516_01029d157c70de9ea27c9b63c1673a6d.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 01029d157c70de9ea27c9b63c1673a6d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.7 MB
+%!d(MISSING)

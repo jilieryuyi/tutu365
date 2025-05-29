@@ -7,23 +7,12 @@
 ## 名称(book name)
 希拉里-曼特尔的协商-Hilary Mantel’s Negotiations_ A new historicist approach to the reconstruction of Thomas Cromwell_Xi-hua Meng__2380424_5557fb20d16a313923785e0858662af0.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5557fb20d16a313923785e0858662af0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.5 MB
+%!d(MISSING)

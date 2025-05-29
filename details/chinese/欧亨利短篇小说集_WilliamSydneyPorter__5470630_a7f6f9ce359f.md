@@ -7,23 +7,12 @@
 ## 名称(book name)
 欧亨利短篇小说集_William Sydney Porter__5470630_a7f6f9ce359f83bed9161406e4c38758.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a7f6f9ce359f83bed9161406e4c38758
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+69.6 KB
+%!d(MISSING)

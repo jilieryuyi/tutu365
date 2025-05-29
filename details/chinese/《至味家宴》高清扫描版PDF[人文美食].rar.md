@@ -7,23 +7,12 @@
 ## 名称(book name)
 《至味家宴》高清扫描版PDF[人文美食].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 992a4fabd1eca45f91a08a90724c5a93
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+19.8 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 《Redis实战》红丸出品.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1a6e079aad6f4ad818488db98ce87601
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

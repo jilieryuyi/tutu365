@@ -7,23 +7,12 @@
 ## 名称(book name)
 Go 1.5 源码剖析.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2f4e811e4f45d6d1855606a5ce8394f9
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1 MB
+%!d(MISSING)

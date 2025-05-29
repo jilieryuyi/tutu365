@@ -7,23 +7,12 @@
 ## 名称(book name)
 人有人的用处_[美]N.维纳__5347091_0e26dbe475300abf76ed6cfa248c938a.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0e26dbe475300abf76ed6cfa248c938a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+433 KB
+%!d(MISSING)

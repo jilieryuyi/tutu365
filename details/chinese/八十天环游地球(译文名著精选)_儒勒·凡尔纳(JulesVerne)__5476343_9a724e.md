@@ -7,23 +7,12 @@
 ## 名称(book name)
 八十天环游地球(译文名著精选)_儒勒·凡尔纳(Jules Verne)__5476343_9a724ee4db699984b5ae82e08cabf2d4.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9a724ee4db699984b5ae82e08cabf2d4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+265.8 KB
+%!d(MISSING)

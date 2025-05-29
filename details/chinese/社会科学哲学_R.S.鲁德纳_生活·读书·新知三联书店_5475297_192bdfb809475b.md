@@ -7,23 +7,12 @@
 ## 名称(book name)
 社会科学哲学_R.S.鲁德纳_生活·读书·新知三联书店_5475297_192bdfb809475bed674143134fe7f1f6.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 192bdfb809475bed674143134fe7f1f6
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.2 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医临床诊疗指南释义 耳鼻咽喉疾病分册 ( etc.).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 344078fd5b5b73726da97633d25ab2aa
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+13.3 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 showModelessDialog使用详解.txt.txt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 785e17217e5f5fc63baef63d3aef88a0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.3 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 寂静的春天_[美]R.卡逊__5347075_ca99de3ec2c508c50a83e65113982399.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ca99de3ec2c508c50a83e65113982399
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+689.9 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 [高性能MySQL(第2版)中文版].施瓦茨.扫描版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cca7834b70e5d17377e6b200e81de4ec
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+31.4 MB
+%!d(MISSING)

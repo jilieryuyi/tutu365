@@ -7,23 +7,12 @@
 ## 名称(book name)
 全国计算机技术与软件专业技术资格考试 2019 年上半年——软件设计师（上下午）试卷及解析 (Anonymous).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 45101881b6284a2c842316c9aaaa3438
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.2 MB
+%!d(MISSING)

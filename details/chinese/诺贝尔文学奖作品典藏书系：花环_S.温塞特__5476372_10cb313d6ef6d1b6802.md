@@ -7,23 +7,12 @@
 ## 名称(book name)
 诺贝尔文学奖作品典藏书系：花环_S.温塞特__5476372_10cb313d6ef6d1b6802332d850c75506.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 10cb313d6ef6d1b6802332d850c75506
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+413.8 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 JavaScript语言精粹.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 20b711bcfefb0d99de2032686d4bfd81
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+19.3 MB
+%!d(MISSING)

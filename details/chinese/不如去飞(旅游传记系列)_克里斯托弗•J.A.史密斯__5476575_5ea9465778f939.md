@@ -7,23 +7,12 @@
 ## 名称(book name)
 不如去飞 (旅游传记系列)_克里斯托弗•J.A.史密斯__5476575_5ea9465778f939e097e3f178187b43cb.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5ea9465778f939e097e3f178187b43cb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.6 MB
+%!d(MISSING)

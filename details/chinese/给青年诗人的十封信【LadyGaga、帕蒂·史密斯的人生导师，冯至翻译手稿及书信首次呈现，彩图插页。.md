@@ -7,23 +7,12 @@
 ## 名称(book name)
 给青年诗人的十封信 【Lady Gaga、帕蒂·史密斯的人生导师，冯至翻译手稿及书信首次呈现，彩图插页。迷惘心灵必读的生命箴言，里尔克思想中一朵永恒的玫瑰】_莱内·马利亚·里尔克_.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 442481e2c79f34caae0cc6be4a856726
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

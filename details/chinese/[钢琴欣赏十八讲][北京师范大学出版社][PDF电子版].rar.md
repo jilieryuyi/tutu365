@@ -7,23 +7,12 @@
 ## 名称(book name)
 [钢琴欣赏十八讲][北京师范大学出版社][PDF电子版].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6fbd39a3e83ed1f8bddc28dfab168d30
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+16.5 MB
+%!d(MISSING)

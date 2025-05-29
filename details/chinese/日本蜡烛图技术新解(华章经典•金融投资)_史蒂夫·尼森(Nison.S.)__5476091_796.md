@@ -7,23 +7,12 @@
 ## 名称(book name)
 日本蜡烛图技术新解 (华章经典•金融投资)_史蒂夫·尼森(Nison.S.)__5476091_796fd4d7cd624f42877467d247977710.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 796fd4d7cd624f42877467d247977710
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+12.8 MB
+%!d(MISSING)

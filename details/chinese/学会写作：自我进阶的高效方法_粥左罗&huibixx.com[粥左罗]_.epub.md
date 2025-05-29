@@ -7,23 +7,12 @@
 ## 名称(book name)
 学会写作：自我进阶的高效方法_粥左罗 & huibixx.com [粥左罗]_.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4567386a6f667c060a0166d4c37a7683
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+314.7 KB
+%!d(MISSING)

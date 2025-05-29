@@ -7,23 +7,12 @@
 ## 名称(book name)
 中國近代史  (The Rise of Modern China) 上冊_徐中约 (Immanuel C.Y.Hsü)_香港中文大學_5370214_81e31b90ecb33f3442fb4238dff40620.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 81e31b90ecb33f3442fb4238dff40620
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+43.2 MB
+%!d(MISSING)

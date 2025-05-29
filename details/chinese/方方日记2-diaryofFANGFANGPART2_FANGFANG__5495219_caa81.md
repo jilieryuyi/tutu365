@@ -7,23 +7,12 @@
 ## 名称(book name)
 方方日记2-diary of FANGFANG PART 2_FANG FANG__5495219_caa81b738a9e567831c428dd0c3e1f44.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 caa81b738a9e567831c428dd0c3e1f44
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.7 MB
+%!d(MISSING)

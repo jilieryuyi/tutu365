@@ -7,23 +7,12 @@
 ## 名称(book name)
 办公软件应用 Windows平台 WPS 2000职业技能培训教程 操作员级 (全国计算机信息高新技术考试教材编写委员会著).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 379fa5562372d7c7df79716e7414a95c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+112.6 MB
+%!d(MISSING)

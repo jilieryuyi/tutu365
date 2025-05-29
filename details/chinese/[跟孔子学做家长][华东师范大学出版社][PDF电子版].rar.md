@@ -7,23 +7,12 @@
 ## 名称(book name)
 [跟孔子学做家长][华东师范大学出版社][PDF电子版].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e65a1322aca9b2bc0d9b12e31a6dcdb0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.3 MB
+%!d(MISSING)

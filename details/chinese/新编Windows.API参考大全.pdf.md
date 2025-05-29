@@ -7,23 +7,12 @@
 ## 名称(book name)
 新编Windows.API参考大全.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bd1229cee122f261cfe102ba1edfa602
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+551.6 KB
+%!d(MISSING)

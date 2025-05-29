@@ -7,23 +7,12 @@
 ## 名称(book name)
 Thomas' Calculus托马斯微积分第10版中文版_芬尼、韦尔、焦尔当诺 _ 叶其孝、王耀东、唐兢__2817612_3bf3e98d73e638110b327e7cd0900122.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3bf3e98d73e638110b327e7cd0900122
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+48.8 MB
+%!d(MISSING)

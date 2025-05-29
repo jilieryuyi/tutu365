@@ -7,23 +7,12 @@
 ## 名称(book name)
 475、猫的桌子（那一场看似短暂的独自远行，漫长到改变了我的整个人生。）_迈克尔·翁达杰，Michael Ondaatje_上海文艺出版社.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0fc087a35dfef08402a990bdbbda9e92
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+816.6 KB
+%!d(MISSING)

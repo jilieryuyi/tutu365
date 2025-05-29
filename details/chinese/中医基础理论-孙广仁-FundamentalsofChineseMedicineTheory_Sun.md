@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医基础理论-孙广仁-Fundamentals of Chinese Medicine Theory_Sun Guangren__2823624_53739e912ce8a951f0ccb1db07ab799c.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 905edacec8a45e8a2d6fc93067a2e919
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.9 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 论人的天性_[美]E.O.威尔逊__5347084_218fdcc9a360d6fae015cd06be185d17.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 218fdcc9a360d6fae015cd06be185d17
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+479.6 KB
+%!d(MISSING)

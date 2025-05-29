@@ -7,23 +7,12 @@
 ## 名称(book name)
 [古典音乐一本通][长江文艺出版社][PDF电子版].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f30bec81488bb36f8d9710b20dcac7da
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.8 MB
+%!d(MISSING)

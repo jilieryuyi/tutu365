@@ -7,23 +7,12 @@
 ## 名称(book name)
 每周工作4小时（新版）_【美】蒂莫西·费里斯, 鹤梅, ePUBw.COM [未知]__5276805_632bf9e59e5c3660f284faf78c04f453.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 632bf9e59e5c3660f284faf78c04f453
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.4 MB
+%!d(MISSING)

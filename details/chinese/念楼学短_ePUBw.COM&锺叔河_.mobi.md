@@ -7,23 +7,12 @@
 ## 名称(book name)
 念楼学短_ePUBw.COM & 锺叔河_.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a174df051c88cde298451df9df2f3838
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.3 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 523、人类六万年=60，000 YEARS` JOURNEY OF MAN_张振著_安徽人民出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 04a7117533aab8de3645640051944f59
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+74.2 MB
+%!d(MISSING)

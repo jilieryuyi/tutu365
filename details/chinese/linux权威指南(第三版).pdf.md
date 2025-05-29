@@ -7,23 +7,12 @@
 ## 名称(book name)
 linux权威指南(第三版).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 61e4801969b9eeee17b83eb85d64ac35
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+14.8 MB
+%!d(MISSING)

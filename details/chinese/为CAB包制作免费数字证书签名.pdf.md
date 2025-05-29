@@ -7,23 +7,12 @@
 ## 名称(book name)
 为CAB包制作免费数字证书签名.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1a61e37de8382a6f2f1c8e2a5cbd2d5f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+110.2 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 世界电影史_克里斯汀·汤普森（Kristin Thompson），大卫·波德维尔(David Bordwell) 著 范倍 译_北京大学出版社_5346316_04f4ff36192035a27751054c4138ab59.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 04f4ff36192035a27751054c4138ab59
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.7 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 718、弯曲的旅行_【美】兰道尔(Lisa Randall)_万卷出版公司.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 296348e63e3eb23e2b9169f2cf81bbfb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+18.9 MB
+%!d(MISSING)

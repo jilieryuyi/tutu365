@@ -7,23 +7,12 @@
 ## 名称(book name)
 特别的猫_多丽丝·莱辛(Doris Lessing)_.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 41f1ad02ae2d03a43cdbe8dfb1c2b5e4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+283.9 KB
+%!d(MISSING)

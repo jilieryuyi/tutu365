@@ -7,23 +7,12 @@
 ## 名称(book name)
 革命之夏：美国独立的起源_[美]约瑟夫·J. 埃利斯__5497310_a8d93153af8beae5b09aa64f50856764.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a8d93153af8beae5b09aa64f50856764
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+13.3 MB
+%!d(MISSING)

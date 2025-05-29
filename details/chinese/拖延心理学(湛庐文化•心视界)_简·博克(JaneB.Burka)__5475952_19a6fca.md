@@ -7,23 +7,12 @@
 ## 名称(book name)
 拖延心理学 (湛庐文化•心视界)_简·博克(Jane B.Burka)__5475952_19a6fca19a3bcbbe7efc221eb8d1a3ca.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 19a6fca19a3bcbbe7efc221eb8d1a3ca
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+664.1 KB
+%!d(MISSING)

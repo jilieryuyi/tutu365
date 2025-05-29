@@ -7,23 +7,12 @@
 ## 名称(book name)
 [古今中外名言警语精选][北京大学出版社][PDF电子版].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 91cd051f816cfb2621e7c3fecf2d555c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.4 MB
+%!d(MISSING)

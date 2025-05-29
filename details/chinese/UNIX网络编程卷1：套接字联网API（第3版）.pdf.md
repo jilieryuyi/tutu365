@@ -7,23 +7,12 @@
 ## 名称(book name)
 UNIX网络编程卷1：套接字联网API（第3版）.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e78c889543c532e681f1d41a8c83a43f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+85.4 MB
+%!d(MISSING)

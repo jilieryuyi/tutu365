@@ -7,23 +7,12 @@
 ## 名称(book name)
 不抱怨的世界_威尔·鲍温 (Will Bowen)__5476048_0d4c31cbbce5305a11c8c1ca515320c6.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0d4c31cbbce5305a11c8c1ca515320c6
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+563.4 KB
+%!d(MISSING)

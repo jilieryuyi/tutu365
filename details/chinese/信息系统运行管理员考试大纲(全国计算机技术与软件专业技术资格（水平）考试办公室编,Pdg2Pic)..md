@@ -7,23 +7,12 @@
 ## 名称(book name)
 信息系统运行管理员考试大纲 (全国计算机技术与软件专业技术资格（水平）考试办公室编, Pdg2Pic).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e3be38ceb712d90bbc0bac8582c53a16
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.5 MB
+%!d(MISSING)

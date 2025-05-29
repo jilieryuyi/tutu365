@@ -7,23 +7,12 @@
 ## 名称(book name)
 末代王朝與近代中國：晚清與中華民國_+vx_ebookservice [+vx_ebookservice]__5366100_13a4afcc74f64d9e8d6a06276ba1a54f.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 13a4afcc74f64d9e8d6a06276ba1a54f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+25.1 MB
+%!d(MISSING)

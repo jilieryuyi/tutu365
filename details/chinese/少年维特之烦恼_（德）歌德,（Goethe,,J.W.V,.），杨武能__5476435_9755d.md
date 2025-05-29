@@ -7,23 +7,12 @@
 ## 名称(book name)
 少年维特之烦恼_（德）歌德,（Goethe,,J.W.V,.） ，杨武能__5476435_9755d98ccfe25de426d3f8a2bc38e5c3.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9755d98ccfe25de426d3f8a2bc38e5c3
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+282.9 KB
+%!d(MISSING)

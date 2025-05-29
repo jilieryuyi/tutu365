@@ -7,23 +7,12 @@
 ## 名称(book name)
 旧小说·古今名家文集（清代篇）下 (Traditional_chinese Edition)_纪昀, 毛奇龄, 姚鼐__5476180_56227e3244eb2c293c1abbd63a922bce.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 56227e3244eb2c293c1abbd63a922bce
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+383.1 KB
+%!d(MISSING)

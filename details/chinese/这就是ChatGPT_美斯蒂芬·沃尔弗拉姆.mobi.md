@@ -7,23 +7,12 @@
 ## 名称(book name)
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 10793c418bb74321708e994575dafe04
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+9 MB
+%!d(MISSING)

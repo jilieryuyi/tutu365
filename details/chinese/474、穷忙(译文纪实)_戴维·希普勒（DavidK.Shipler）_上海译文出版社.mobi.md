@@ -7,23 +7,12 @@
 ## 名称(book name)
 474、穷忙 (译文纪实)_戴维·希普勒（David K. Shipler）_上海译文出版社.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 86189264fb2834ac7f0657d783d77177
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.6 MB
+%!d(MISSING)

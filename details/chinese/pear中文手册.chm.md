@@ -7,23 +7,12 @@
 ## 名称(book name)
 pear中文手册.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9e16a753c416903bc4fbb8fb5f583abc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+4.2 MB
+%!d(MISSING)

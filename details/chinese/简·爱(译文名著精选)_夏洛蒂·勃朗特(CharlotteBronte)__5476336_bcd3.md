@@ -7,23 +7,12 @@
 ## 名称(book name)
 简·爱 (译文名著精选)_夏洛蒂·勃朗特 (Charlotte Bronte)__5476336_bcd3f2bc3661afd3802d207df38dd706.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bcd3f2bc3661afd3802d207df38dd706
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+689.8 KB
+%!d(MISSING)

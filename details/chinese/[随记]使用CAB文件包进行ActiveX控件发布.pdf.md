@@ -7,23 +7,12 @@
 ## 名称(book name)
 [随记]使用CAB文件包进行ActiveX控件发布.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c0aeb1b3f50410d4bd2b94b72b187ff7
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+69.9 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 伟大的博弈_约翰·S·戈登 [未知]_.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7341d0272f3606a25fbe607edd09cccf
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+13.1 MB
+%!d(MISSING)

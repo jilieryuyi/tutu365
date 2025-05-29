@@ -7,23 +7,12 @@
 ## 名称(book name)
 中国十亿城民 _ 人类历史上最大规模人口流动背后的故事_汤姆·米勒 (Tom Miller)_鹭江出版社_5345236_42cbeccfb0b4b7d5a21daea43cbabc11.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 42cbeccfb0b4b7d5a21daea43cbabc11
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+31.9 MB
+%!d(MISSING)

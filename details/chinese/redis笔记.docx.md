@@ -7,23 +7,12 @@
 ## 名称(book name)
 redis笔记.docx.docx
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5fcb60d4918d29c3653acebc23e65e61
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+77 KB
+%!d(MISSING)

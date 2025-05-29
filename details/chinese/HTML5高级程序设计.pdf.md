@@ -7,23 +7,12 @@
 ## 名称(book name)
 HTML5高级程序设计.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1abcca2b064daab4f5f5f05104ba2ddc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+78.4 MB
+%!d(MISSING)

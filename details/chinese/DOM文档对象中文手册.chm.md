@@ -7,23 +7,12 @@
 ## 名称(book name)
 DOM文档对象中文手册.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 64d76d0a36470c477815f1ca563c76a8
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+187.9 KB
+%!d(MISSING)

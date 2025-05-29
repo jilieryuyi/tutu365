@@ -7,23 +7,12 @@
 ## 名称(book name)
 微软办公软件认证考试MOS Access 2013实训教程 (徐日编著).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2185cd92c12b1b15242fff085b7074a8
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+27 MB
+%!d(MISSING)

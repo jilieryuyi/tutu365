@@ -7,23 +7,12 @@
 ## 名称(book name)
 羊皮卷_PDF高清版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9def4c7d19434c82e7768f0361528ff2
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.4 MB
+%!d(MISSING)

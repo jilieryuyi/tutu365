@@ -7,23 +7,12 @@
 ## 名称(book name)
 会计基础 (ePUBw.COM 管慧芳).azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 60e74ea23bd0ff728b211b5a53b8c3c5
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+262.9 KB
+%!d(MISSING)

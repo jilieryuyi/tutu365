@@ -7,23 +7,12 @@
 ## 名称(book name)
 Windows编程循序渐进(清晰完整版).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e17fe5d76610813512aca0e791adc205
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+127.2 MB
+%!d(MISSING)

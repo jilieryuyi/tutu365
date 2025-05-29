@@ -7,23 +7,12 @@
 ## 名称(book name)
 从零开始学电路仿真Multisim与电路设计Protel技术_李建清__5530414_d97cf440acb6e935cc0034b4cef5a337.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d97cf440acb6e935cc0034b4cef5a337
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+45.5 MB
+%!d(MISSING)

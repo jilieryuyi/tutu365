@@ -7,23 +7,12 @@
 ## 名称(book name)
 新药的故事_梁贵柏 & ePUBw.COM [未知]__5343841_06fcfe1441ba5c3cf828705a7e4f6c16.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 06fcfe1441ba5c3cf828705a7e4f6c16
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+268.5 KB
+%!d(MISSING)

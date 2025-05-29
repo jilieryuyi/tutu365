@@ -7,23 +7,12 @@
 ## 名称(book name)
 1140、法国史（上、下册）_SEIGNOBOS_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 43fe6af6be6a56a5a062a59df1a8fcb6
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+19.7 MB
+%!d(MISSING)

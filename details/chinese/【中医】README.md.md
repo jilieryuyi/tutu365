@@ -7,23 +7,12 @@
 ## 名称(book name)
 【中医】README.md.md
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 06d0c978a9507d881548c31d04eff156
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+54 B
+%!d(MISSING)

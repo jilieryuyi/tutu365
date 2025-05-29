@@ -7,23 +7,12 @@
 ## 名称(book name)
 Netkiller Blockchain 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526998_6a71dc42db4339f70b21cd5f0e61b3f6.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6a71dc42db4339f70b21cd5f0e61b3f6
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+12.9 MB
+%!d(MISSING)

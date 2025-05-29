@@ -7,23 +7,12 @@
 ## 名称(book name)
 信息系统运行管理员教程 (Pdg2Pic, 杨成主编；陈昊副主编；全国计算机技术与软件专业技术资格（水平）考试办公室组编).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 09c652fef2b4cac3009f642586c7c662
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+32.5 MB
+%!d(MISSING)

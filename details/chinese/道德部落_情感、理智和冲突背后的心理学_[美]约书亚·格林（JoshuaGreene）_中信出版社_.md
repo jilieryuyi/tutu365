@@ -7,23 +7,12 @@
 ## 名称(book name)
 道德部落 _ 情感、理智和冲突背后的心理学_[美] 约书亚·格林（Joshua Greene）_中信出版社_5345194_e470ebedb77555ec31b14c4b909ebedc.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e470ebedb77555ec31b14c4b909ebedc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.4 MB
+%!d(MISSING)

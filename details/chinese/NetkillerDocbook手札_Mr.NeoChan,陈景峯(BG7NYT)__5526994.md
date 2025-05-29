@@ -7,23 +7,12 @@
 ## 名称(book name)
 Netkiller Docbook 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526994_a58168332d94d55657859be20e81ddc1.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a58168332d94d55657859be20e81ddc1
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.4 MB
+%!d(MISSING)

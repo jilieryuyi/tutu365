@@ -7,23 +7,12 @@
 ## 名称(book name)
 Lucene.Net基本用法.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7ef9acde123624c6648a5d0e87c25cd5
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+80.1 KB
+%!d(MISSING)

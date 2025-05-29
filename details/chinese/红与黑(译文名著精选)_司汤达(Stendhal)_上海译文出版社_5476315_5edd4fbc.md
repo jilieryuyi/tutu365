@@ -7,23 +7,12 @@
 ## 名称(book name)
 红与黑 (译文名著精选)_司汤达(Stendhal)_上海译文出版社_5476315_5edd4fbc2d3c7d0ab8cbaf3e1231f21f.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5edd4fbc2d3c7d0ab8cbaf3e1231f21f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+749 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 C语言函数库大全.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d0a24d73271ac0b63d29e7b2505e5bf0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+120.8 KB
+%!d(MISSING)

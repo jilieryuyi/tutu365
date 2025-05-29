@@ -7,23 +7,12 @@
 ## 名称(book name)
 偉大的接班人：從造神運動、籠絡權貴到高壓統治，揭密金正恩的權力遊戲_安娜．費菲爾德（Anna Fifield） [安娜．費菲爾德（Anna Fifield）]__5457853_ee1eabc51b38948c4e9a98e52fab2452.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ee1eabc51b38948c4e9a98e52fab2452
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.7 MB
+%!d(MISSING)

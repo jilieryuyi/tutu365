@@ -7,23 +7,12 @@
 ## 名称(book name)
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1698fc9c373e737a86d94d63506cfed3
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+9.7 MB
+%!d(MISSING)

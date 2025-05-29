@@ -7,23 +7,12 @@
 ## 名称(book name)
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3d173d7554edc5684583cea1520df18d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+33.5 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 美国革命的激进主义_戈登•S.伍德__5476591_1e7f1dae2b49b4ce16dc127c8455bb1e.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1e7f1dae2b49b4ce16dc127c8455bb1e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+752.9 KB
+%!d(MISSING)

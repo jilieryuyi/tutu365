@@ -7,23 +7,12 @@
 ## 名称(book name)
 VMware快捷键大全.txt.txt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b10b2c4909846e891bdf5e1099f33608
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.4 KB
+%!d(MISSING)

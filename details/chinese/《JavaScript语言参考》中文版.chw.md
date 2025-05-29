@@ -7,23 +7,12 @@
 ## 名称(book name)
 《JavaScript 语言参考》中文版.chw.chw
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bdeae8dd85eae99e6492ef2d741d9c09
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+184.6 KB
+%!d(MISSING)

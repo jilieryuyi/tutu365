@@ -7,23 +7,12 @@
 ## 名称(book name)
 程序员常用JavaScript特效.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 dd88aa690726593a7986b1cb2ea53c14
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.4 MB
+%!d(MISSING)

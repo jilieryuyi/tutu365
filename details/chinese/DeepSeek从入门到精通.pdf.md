@@ -7,23 +7,12 @@
 ## 名称(book name)
 DeepSeek从入门到精通.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f37064274bc52e8d62ab0d2bc829c32d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.4 MB
+%!d(MISSING)

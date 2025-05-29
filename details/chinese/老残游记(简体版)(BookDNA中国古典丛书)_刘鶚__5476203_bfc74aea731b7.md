@@ -7,23 +7,12 @@
 ## 名称(book name)
 老残游记(简体版) (BookDNA中国古典丛书)_刘鶚__5476203_bfc74aea731b760ef256aec61a409f9e.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bfc74aea731b760ef256aec61a409f9e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+259.8 KB
+%!d(MISSING)

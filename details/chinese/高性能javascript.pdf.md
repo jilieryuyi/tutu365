@@ -7,23 +7,12 @@
 ## 名称(book name)
 高性能javascript.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a6d9a7df4b83911ed5da3c37c5fc2ba1
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+11.3 MB
+%!d(MISSING)

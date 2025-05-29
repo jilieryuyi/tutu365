@@ -7,23 +7,12 @@
 ## 名称(book name)
 Wireshark+主界面的操作菜单.txt.txt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 acb42ebad88ed3a31f9195162039417f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5 KB
+%!d(MISSING)

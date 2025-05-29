@@ -7,23 +7,12 @@
 ## 名称(book name)
 英格兰宪政史 _ 梅特兰专题讲义_[英] F. W. 梅特兰_中国政法大学出版社_5345187_890368281d40c9cfd2b60aba8c53b9c7.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 890368281d40c9cfd2b60aba8c53b9c7
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+55.2 MB
+%!d(MISSING)

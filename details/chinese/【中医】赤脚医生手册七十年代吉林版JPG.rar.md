@@ -7,23 +7,12 @@
 ## 名称(book name)
 【中医】赤脚医生手册七十年代吉林版 JPG.rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b5b2b125975763324a746a5507292f1e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+209.3 MB
+%!d(MISSING)

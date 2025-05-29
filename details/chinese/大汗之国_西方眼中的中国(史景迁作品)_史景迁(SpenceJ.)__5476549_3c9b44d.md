@@ -7,23 +7,12 @@
 ## 名称(book name)
 大汗之国_西方眼中的中国 (史景迁作品)_史景迁(Spence J.)__5476549_3c9b44da46780c9bb14084299c5ed1c9.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3c9b44da46780c9bb14084299c5ed1c9
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+479.7 KB
+%!d(MISSING)

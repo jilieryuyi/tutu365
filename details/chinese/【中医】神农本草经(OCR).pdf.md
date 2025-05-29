@@ -7,23 +7,12 @@
 ## 名称(book name)
 【中医】神农本草经(OCR).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 81531d1f0c2cabc5d3e41247f30ab365
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+101.5 KB
+%!d(MISSING)

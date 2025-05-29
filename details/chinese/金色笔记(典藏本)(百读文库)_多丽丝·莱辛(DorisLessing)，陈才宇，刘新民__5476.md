@@ -7,23 +7,12 @@
 ## 名称(book name)
 金色笔记(典藏本)(百读文库)_多丽丝·莱辛(Doris Lessing)，陈才宇，刘新民__5476496_0defd9daea918c24ce69c38a026e30ee.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0defd9daea918c24ce69c38a026e30ee
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+836.2 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 棉花帝国：一部资本主义全球史_斯文·贝克特_Democracy and Construction Publishing House_5475898_0359994c06004602ec2e0e53a7caca22.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0359994c06004602ec2e0e53a7caca22
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.5 MB
+%!d(MISSING)

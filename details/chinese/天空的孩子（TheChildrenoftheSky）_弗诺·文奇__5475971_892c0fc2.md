@@ -7,23 +7,12 @@
 ## 名称(book name)
 天空的孩子（The Children of the Sky）_弗诺·文奇__5475971_892c0fc2cf8ba89e0c7b8807b5d464b1.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 892c0fc2cf8ba89e0c7b8807b5d464b1
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.2 MB
+%!d(MISSING)

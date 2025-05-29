@@ -7,23 +7,12 @@
 ## 名称(book name)
 1185、斯大林战争_ROBERTS_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 817cb4ad8d250d37d6b835ac3324ea33
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+172.2 MB
+%!d(MISSING)

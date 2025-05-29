@@ -7,23 +7,12 @@
 ## 名称(book name)
 诺贝尔文学奖作品典藏书系_荒原狼_（德）H.黑塞__5476367_3cde9e3ecc0aa7deeb2fce95e85cc21a.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3cde9e3ecc0aa7deeb2fce95e85cc21a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+569.1 KB
+%!d(MISSING)

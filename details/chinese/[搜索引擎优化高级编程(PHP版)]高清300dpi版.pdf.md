@@ -7,23 +7,12 @@
 ## 名称(book name)
 [搜索引擎优化高级编程(PHP版)]高清300dpi版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1b5e4090b53509faeec42dfc430c5111
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+258.1 MB
+%!d(MISSING)

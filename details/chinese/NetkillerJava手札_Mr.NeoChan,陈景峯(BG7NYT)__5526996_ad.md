@@ -7,23 +7,12 @@
 ## 名称(book name)
 Netkiller Java 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526996_adcf5b93a65449f9a6a4ee5a5db5ff4d.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 adcf5b93a65449f9a6a4ee5a5db5ff4d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.3 MB
+%!d(MISSING)

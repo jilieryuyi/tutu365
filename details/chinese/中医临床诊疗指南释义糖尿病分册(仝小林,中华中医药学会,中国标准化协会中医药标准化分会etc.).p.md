@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医临床诊疗指南释义 糖尿病分册 (仝小林, 中华中医药学会, 中国标准化协会中医药标准化分会 etc.).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 51e1f35618be821e3cbc07e521ee43b5
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+42.4 MB
+%!d(MISSING)

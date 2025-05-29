@@ -7,23 +7,12 @@
 ## 名称(book name)
 武汉新冠之疫史事日志（初稿）_Honglei Cheng__5459037_c6afcdc56b6659bcb123688660e49eec.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c6afcdc56b6659bcb123688660e49eec
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+11 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 761、已的故事_【以】Eli Mair_人民邮电出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6f0ddd86eca6f027e92e9417fd9ab125
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+14.2 MB
+%!d(MISSING)

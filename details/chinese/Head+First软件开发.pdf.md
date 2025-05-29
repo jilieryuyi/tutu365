@@ -7,23 +7,12 @@
 ## 名称(book name)
 Head+First软件开发.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7aec49d6032d1447793f66dce442372d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+26 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 MySQL5.1参考手册.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 850173901b1965e57a0164ae54c6b977
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.4 MB
+%!d(MISSING)

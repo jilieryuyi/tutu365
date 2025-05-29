@@ -7,23 +7,12 @@
 ## 名称(book name)
 方励之选集第1卷_作者：方励之；  编者：阮耀仲 Ruan Yaozhong_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9a1aca305d35ea479d84875be29ff230
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.8 MB
+%!d(MISSING)

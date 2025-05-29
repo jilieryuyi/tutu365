@@ -7,23 +7,12 @@
 ## 名称(book name)
 红与黑_Stendhal, 张冠尧__5459771_784bd471a929f51e9aececac0f9b265f.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 784bd471a929f51e9aececac0f9b265f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+21.3 MB
+%!d(MISSING)

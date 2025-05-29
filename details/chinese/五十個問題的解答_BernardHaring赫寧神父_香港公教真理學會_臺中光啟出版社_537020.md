@@ -7,23 +7,12 @@
 ## 名称(book name)
 五十個問題的解答_Bernard Haring 赫寧神父_香港公教真理學會 _ 臺中光啟出版社_5370208_7d08814879ecd1965ef8e997dfbb48f0.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7d08814879ecd1965ef8e997dfbb48f0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+9.7 MB
+%!d(MISSING)

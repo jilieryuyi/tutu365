@@ -7,23 +7,12 @@
 ## 名称(book name)
 论生命之短暂_塞内加 著，C.D.N. 考斯塔 英译，周殊平，胡晓哲 译_中国对外翻译出版社_5357648_09ba7aaf6ad8c2cb64596b84548b38a4.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 09ba7aaf6ad8c2cb64596b84548b38a4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+353 KB
+%!d(MISSING)

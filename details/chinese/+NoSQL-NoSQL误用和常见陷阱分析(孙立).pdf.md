@@ -7,23 +7,12 @@
 ## 名称(book name)
 +NoSQL-NoSQL误用和常见陷阱分析(孙立).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e19f4b4936d2e92ec2462a8a9579c71d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

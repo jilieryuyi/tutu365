@@ -7,23 +7,12 @@
 ## 名称(book name)
 如何阅读一本书_[美] 莫提默·j. 艾德勒 & 查尔斯·范多伦__5476029_74ab8547e36408bb5b00fc57c9444794.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 74ab8547e36408bb5b00fc57c9444794
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+729.7 KB
+%!d(MISSING)

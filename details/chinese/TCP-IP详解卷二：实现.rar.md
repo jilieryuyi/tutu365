@@ -7,23 +7,12 @@
 ## 名称(book name)
 TCP-IP详解卷二：实现.rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 63bdba6300218baba373a9c1c8dbdc53
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+28.7 MB
+%!d(MISSING)

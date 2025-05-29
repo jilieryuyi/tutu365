@@ -7,23 +7,12 @@
 ## 名称(book name)
 新的综合_[美]E.O.威尔逊__5347104_55dae12344ed6567a350842411363e32.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 55dae12344ed6567a350842411363e32
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+393.1 KB
+%!d(MISSING)

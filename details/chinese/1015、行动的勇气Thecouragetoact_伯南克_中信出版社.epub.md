@@ -7,23 +7,12 @@
 ## 名称(book name)
 1015、行动的勇气The courage to act_伯南克_中信出版社.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bc7ca1548133a3e7fdff83a52e206d5e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+4.2 MB
+%!d(MISSING)

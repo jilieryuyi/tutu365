@@ -7,23 +7,12 @@
 ## 名称(book name)
 基于MVC的开发.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0935e47a54a8457883daeaab904aa776
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.5 MB
+%!d(MISSING)

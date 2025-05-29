@@ -7,23 +7,12 @@
 ## 名称(book name)
 加缪作品精装版：鼠疫_阿尔贝·加缪(Albert Camus)_Shanghai Translation Publishing House_5346309_d7f6d60c48c1b0ca999743a8356ee090.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d7f6d60c48c1b0ca999743a8356ee090
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+546.7 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 魔戒全集_[英国]J.R.R.托尔金__5470713_d8eacbc9ad5d646346ae0610ed1b2617.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d8eacbc9ad5d646346ae0610ed1b2617
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.7 MB
+%!d(MISSING)

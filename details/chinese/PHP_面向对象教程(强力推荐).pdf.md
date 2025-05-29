@@ -7,23 +7,12 @@
 ## 名称(book name)
 PHP_面向对象教程(强力推荐).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7ce64aafd0e1d9fe096e3e7ce48422d2
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.4 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 1148、美国大外交_GEORGE KENNAN_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 43df669c51d56c1b48d58c2232703f1e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+50.8 MB
+%!d(MISSING)

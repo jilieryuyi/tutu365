@@ -7,23 +7,12 @@
 ## 名称(book name)
 Rails 中文版 2011.12.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b082d996a33445e4b6c9bf28e0029c7b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+70.9 MB
+%!d(MISSING)

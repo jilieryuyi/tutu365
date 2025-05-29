@@ -7,23 +7,12 @@
 ## 名称(book name)
 工程问题C语言求解  原书第4版_（美）德洛莉丝M.埃特尔著_机械工业出版社_5458187_f99cdfa95bceba061e637f53329ce0e8.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f99cdfa95bceba061e637f53329ce0e8
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+62.4 MB
+%!d(MISSING)

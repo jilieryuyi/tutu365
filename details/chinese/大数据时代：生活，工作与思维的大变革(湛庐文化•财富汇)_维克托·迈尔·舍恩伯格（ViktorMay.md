@@ -7,23 +7,12 @@
 ## 名称(book name)
 大数据时代：生活，工作与思维的大变革 (湛庐文化•财富汇)_维克托·迈尔·舍恩伯格（Viktor Mayer-Schönberger）__5476545_cbe3c3d5c9411f755bbf291abfabca1c.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cbe3c3d5c9411f755bbf291abfabca1c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.2 MB
+%!d(MISSING)

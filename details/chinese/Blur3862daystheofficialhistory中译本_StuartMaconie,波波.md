@@ -7,23 +7,12 @@
 ## 名称(book name)
 Blur 3862 days the official history 中译本_Stuart Maconie, 波波儿（译）__5356866_179336d359888950d5258262061a2632.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 179336d359888950d5258262061a2632
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.2 MB
+%!d(MISSING)

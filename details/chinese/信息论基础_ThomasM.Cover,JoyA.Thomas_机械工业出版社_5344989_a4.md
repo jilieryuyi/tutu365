@@ -7,23 +7,12 @@
 ## 名称(book name)
 信息论基础_Thomas M. Cover, Joy A. Thomas_机械工业出版社_5344989_a4b5c31666f8ce4c790d5527b9c7abbd.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a4b5c31666f8ce4c790d5527b9c7abbd
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+49.6 MB
+%!d(MISSING)

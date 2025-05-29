@@ -7,23 +7,12 @@
 ## 名称(book name)
 456、占领日本_[美国] 约翰·托兰 & ePUBw.COM_中国社会科学出版社.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bd1cbbccebbadb273ff9203c302cf3eb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.2 MB
+%!d(MISSING)

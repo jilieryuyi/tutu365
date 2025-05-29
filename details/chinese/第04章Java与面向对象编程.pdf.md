@@ -7,23 +7,12 @@
 ## 名称(book name)
 第04章 Java与面向对象编程.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1f25e1d452d563262c64a4332408449b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+397.6 KB
+%!d(MISSING)

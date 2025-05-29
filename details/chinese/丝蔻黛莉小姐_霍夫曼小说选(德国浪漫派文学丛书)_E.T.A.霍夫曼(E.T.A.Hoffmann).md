@@ -7,23 +7,12 @@
 ## 名称(book name)
 丝蔻黛莉小姐_霍夫曼小说选 (德国浪漫派文学丛书)_E.T.A.霍夫曼 (E.T.A.Hoffmann)__5476488_a957690b979bd3b28e15763d24af4b70.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a957690b979bd3b28e15763d24af4b70
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+421.2 KB
+%!d(MISSING)

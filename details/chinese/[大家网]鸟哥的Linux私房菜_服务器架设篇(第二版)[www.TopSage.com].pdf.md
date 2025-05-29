@@ -7,23 +7,12 @@
 ## 名称(book name)
 [大家网]鸟哥的Linux私房菜_服务器架设篇(第二版)[www.TopSage.com].pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0112252af3129bf72e6cfe970a68c245
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+74.5 MB
+%!d(MISSING)

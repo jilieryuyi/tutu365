@@ -7,23 +7,12 @@
 ## 名称(book name)
 [ASP.NET.3.5.SP1高级编程(第6版)中文版].清华大学出版社.扫描版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ecaafafb736a797a619a5cdc57c53ac0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+164 MB
+%!d(MISSING)

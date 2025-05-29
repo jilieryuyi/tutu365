@@ -7,23 +7,12 @@
 ## 名称(book name)
 jQuery内核详解与实践.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 353b2dfc65e301a9937425107ee5236a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+45.1 MB
+%!d(MISSING)

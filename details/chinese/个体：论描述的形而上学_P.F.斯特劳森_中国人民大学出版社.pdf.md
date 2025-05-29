@@ -7,23 +7,12 @@
 ## 名称(book name)
 个体：论描述的形而上学_P.F. 斯特劳森_中国人民大学出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 90339b5bc682e2deede9a1b5faff2a96
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+12.3 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 夏洛特的网（双语）charlotte's web_e.b.white [Wells, Herbert George]__5470600_8d4ba81317e29f8a1eabe0b57e8d759b.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8d4ba81317e29f8a1eabe0b57e8d759b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+238.6 KB
+%!d(MISSING)

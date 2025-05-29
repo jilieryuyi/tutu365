@@ -7,23 +7,12 @@
 ## 名称(book name)
 css3.0参考手册.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d6b1a3fd942e885b85c2fbfcb1f459ce
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+380.5 KB
+%!d(MISSING)

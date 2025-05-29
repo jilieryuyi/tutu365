@@ -7,23 +7,12 @@
 ## 名称(book name)
 1174、享乐主义宣言_MICHEL ONFRAY_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f58b383586f51c1c6ade0a1918c3e6e2
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+35.2 MB
+%!d(MISSING)

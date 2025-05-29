@@ -7,23 +7,12 @@
 ## 名称(book name)
 [锋利的jQuery].pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a20f6c86d90498f11ea356e0a1d7976d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+59.4 MB
+%!d(MISSING)

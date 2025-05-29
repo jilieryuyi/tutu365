@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医药统计学 供中医学类中药学类、药学类、中西医临床医学等专业用 (Pdg2Pic, 何雁主编；曹治清，杨松涛，王淑媛，谢海林，郑洁刚副主编).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 62ba4fd8ae8a04ab606f0ef93c3f29fc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+70.6 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 DeepSeek从入门到精通（清华大学版）.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e32108bd02c3da6603b7d99d40d174ab
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+4.8 MB
+%!d(MISSING)

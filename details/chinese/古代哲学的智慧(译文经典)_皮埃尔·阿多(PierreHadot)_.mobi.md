@@ -7,23 +7,12 @@
 ## 名称(book name)
 古代哲学的智慧 (译文经典)_皮埃尔·阿多(Pierre Hadot)_.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ca9f6a804057eda4d3dd79e8fdfe2cd8
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2 MB
+%!d(MISSING)

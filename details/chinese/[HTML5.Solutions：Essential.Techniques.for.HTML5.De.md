@@ -7,23 +7,12 @@
 ## 名称(book name)
 [HTML5.Solutions：Essential.Techniques.for.HTML5.Developers].源代码.zip.zip
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e5d86ccc016d3e879790e704f08c692c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+136.9 KB
+%!d(MISSING)

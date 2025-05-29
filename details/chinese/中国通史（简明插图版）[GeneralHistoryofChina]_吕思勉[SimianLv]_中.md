@@ -7,23 +7,12 @@
 ## 名称(book name)
 中国通史（简明插图版 ） [General History of China]_吕思勉 [Simian Lv]_中国纺织出版社_5496291_fe5e2559cfcfbf9ee68ca2f058d619b4.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fe5e2559cfcfbf9ee68ca2f058d619b4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+99.8 MB
+%!d(MISSING)

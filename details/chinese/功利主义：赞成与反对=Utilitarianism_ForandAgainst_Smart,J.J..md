@@ -7,23 +7,12 @@
 ## 名称(book name)
 功利主义：赞成与反对=Utilitarianism_ For and Against_ Smart, J.J.C., Williams, Bernard_中国社会科学出版社_5460811_4b3d24eae31a18531c55cffa8f713624.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4b3d24eae31a18531c55cffa8f713624
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.4 MB
+%!d(MISSING)

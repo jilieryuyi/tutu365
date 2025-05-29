@@ -7,23 +7,12 @@
 ## 名称(book name)
 三国演义-The Wisdom Paradox How your mind can grow Stronger as your brain grows older_Elkhonon Glodberg__5235654_08f563f6dce2442da15aa88842413026.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 08f563f6dce2442da15aa88842413026
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+63.7 MB
+%!d(MISSING)

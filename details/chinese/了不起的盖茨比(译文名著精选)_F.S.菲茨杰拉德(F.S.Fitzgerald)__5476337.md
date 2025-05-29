@@ -7,23 +7,12 @@
 ## 名称(book name)
 了不起的盖茨比(译文名著精选)_F.S.菲茨杰拉德(F.S.Fitzgerald)__5476337_cd7f984357d70f42bd7103863c4eb296.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cd7f984357d70f42bd7103863c4eb296
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+519.4 KB
+%!d(MISSING)

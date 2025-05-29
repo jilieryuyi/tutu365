@@ -7,23 +7,12 @@
 ## 名称(book name)
 当和尚遇到钻石_reedtian_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1fc7284d074475793e30ef4d84c011c4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.8 MB
+%!d(MISSING)

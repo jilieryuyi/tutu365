@@ -7,23 +7,12 @@
 ## 名称(book name)
 Mongodb -  数据库分析.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 7b036bdd9e1fb2e39b109b0ab12a8c05
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+165.6 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 托尔金中洲三部曲：精灵宝钻+霍比特人+魔戒三部曲_[英]J.R.R.托尔金（J.R.R.Tolkien）__5475712_52b569ddf9ce3e09870d24f4f1f76759.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 52b569ddf9ce3e09870d24f4f1f76759
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+17.7 MB
+%!d(MISSING)

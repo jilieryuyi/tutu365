@@ -7,23 +7,12 @@
 ## 名称(book name)
 反常识_邓肯·J.瓦茨 [邓肯·J.瓦茨]_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 26b4416d73cb4a6fadbb588a0670d2d9
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.5 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 那些伤，为什么我还放不下_Jim Dincalci__5437528_77f7d5d3cf195af747bdc950d8be4dd4.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 77f7d5d3cf195af747bdc950d8be4dd4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

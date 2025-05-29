@@ -7,23 +7,12 @@
 ## 名称(book name)
 DOM编程艺术.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b0de85ecfaf684c3d64dc8935e6d2f23
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+109.2 MB
+%!d(MISSING)

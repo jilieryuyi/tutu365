@@ -7,23 +7,12 @@
 ## 名称(book name)
 Java技术文档.rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cb491bb960f1fcc7674db9c77909bf92
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.1 MB
+%!d(MISSING)

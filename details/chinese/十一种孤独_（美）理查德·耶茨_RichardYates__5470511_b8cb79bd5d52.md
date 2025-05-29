@@ -7,23 +7,12 @@
 ## 名称(book name)
 十一种孤独_（美）理查德·耶茨_Richard Yates__5470511_b8cb79bd5d52bb1783388e71575796ff.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b8cb79bd5d52bb1783388e71575796ff
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+149.3 KB
+%!d(MISSING)

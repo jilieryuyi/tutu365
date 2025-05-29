@@ -7,23 +7,12 @@
 ## 名称(book name)
 编译原理 第二版_Alfred V. Aho,Monica S.Lam, Ravi Sethi, Jeffrey D. Ullman_机械工业出版社_5458196_5685aa643e50127c3aa8400e8571ec5a.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5685aa643e50127c3aa8400e8571ec5a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+24.5 MB
+%!d(MISSING)

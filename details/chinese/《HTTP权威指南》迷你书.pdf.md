@@ -7,23 +7,12 @@
 ## 名称(book name)
 《HTTP权威指南》迷你书.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a8ba0c2cea6491ec179553aaa433c52f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+12.4 MB
+%!d(MISSING)

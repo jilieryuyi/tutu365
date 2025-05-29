@@ -7,23 +7,12 @@
 ## 名称(book name)
 Wooga的Redis迁移经验.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ed43425cb89a221662c1bbda39de79a4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+13 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 linux系统监控工具汇总.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6a846e4746a99ad9be5ea787e53dcdfa
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+798.3 KB
+%!d(MISSING)

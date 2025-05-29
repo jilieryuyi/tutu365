@@ -7,23 +7,12 @@
 ## 名称(book name)
 民主财政论_詹姆斯·M·布坎南_商务印书馆.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fab6a609e664a8b1779d6d989c7e3c79
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+12.5 MB
+%!d(MISSING)

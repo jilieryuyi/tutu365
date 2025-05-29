@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医临床诊疗指南释义 骨伤疾病分册 ( etc.).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 525eb9adba7bab0f0fcb78903630dc7f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+28.5 MB
+%!d(MISSING)

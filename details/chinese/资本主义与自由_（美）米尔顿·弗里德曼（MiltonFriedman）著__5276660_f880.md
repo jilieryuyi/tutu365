@@ -7,23 +7,12 @@
 ## 名称(book name)
 资本主义与自由_（美）米尔顿·弗里德曼（Milton Friedman）著__5276660_f880f0fba9f05d200a9021977c6484fc.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f880f0fba9f05d200a9021977c6484fc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+8.7 MB
+%!d(MISSING)

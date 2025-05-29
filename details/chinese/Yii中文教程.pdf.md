@@ -7,23 +7,12 @@
 ## 名称(book name)
 Yii中文教程.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2bd12d96c7c714f46d3bb8870efece5f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1002.4 KB
+%!d(MISSING)

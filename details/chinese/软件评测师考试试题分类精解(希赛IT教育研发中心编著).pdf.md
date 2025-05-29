@@ -7,23 +7,12 @@
 ## 名称(book name)
 软件评测师考试试题分类精解 (希赛IT教育研发中心编著).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4cd687f5a0002044b04abea78f243f3d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+35.4 MB
+%!d(MISSING)

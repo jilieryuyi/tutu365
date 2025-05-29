@@ -7,23 +7,12 @@
 ## 名称(book name)
 HTML5移动Web开发指南》.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1a549a807890922f93197639df6f039e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+52.2 MB
+%!d(MISSING)

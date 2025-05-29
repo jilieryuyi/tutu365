@@ -7,23 +7,12 @@
 ## 名称(book name)
 游艺黑白（全四册）_SoBooKs.cc 焦元溥__5493239_6a64bc7a6183e86878348831890ed894.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6a64bc7a6183e86878348831890ed894
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+16.6 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 简·爱_COAY.COM__5470653_170c581565994f92c9149a0a8f74333a.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 170c581565994f92c9149a0a8f74333a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+565.5 KB
+%!d(MISSING)

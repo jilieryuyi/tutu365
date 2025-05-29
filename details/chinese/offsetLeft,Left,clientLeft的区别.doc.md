@@ -7,23 +7,12 @@
 ## 名称(book name)
 offsetLeft,Left,clientLeft的区别.doc.doc
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 53ded020d1f6373454a5b307b49b9e62
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+51 KB
+%!d(MISSING)

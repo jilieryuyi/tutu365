@@ -7,23 +7,12 @@
 ## 名称(book name)
 【中医】温病学讲义(OCR).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 435493cce3bed323116b662b2ab412c3
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.6 MB
+%!d(MISSING)

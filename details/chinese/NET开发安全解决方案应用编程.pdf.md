@@ -7,23 +7,12 @@
 ## 名称(book name)
 NET开发安全解决方案应用编程.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e58b9896a3e46604fffeff97d1da8184
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+16.3 MB
+%!d(MISSING)

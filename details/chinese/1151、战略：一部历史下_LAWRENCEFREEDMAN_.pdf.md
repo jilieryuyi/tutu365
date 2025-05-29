@@ -7,23 +7,12 @@
 ## 名称(book name)
 1151、战略：一部历史下_LAWRENCE FREEDMAN_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4792f8ff9e36dcf01abd3ba6ddb18e87
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+115.5 MB
+%!d(MISSING)

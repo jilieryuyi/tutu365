@@ -7,23 +7,12 @@
 ## 名称(book name)
 Netkiller Linux 手札_Mr. Neo Chan, 陈景峯(BG7NYT)_Neo Chan_5526997_00d74ab53ddd0dee0a127f85acb07400.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 00d74ab53ddd0dee0a127f85acb07400
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+33.5 MB
+%!d(MISSING)

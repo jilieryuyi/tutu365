@@ -7,23 +7,12 @@
 ## 名称(book name)
 Zend Framework手册中文版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ebf8f148a878580711b0ece1894d1a16
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.4 MB
+%!d(MISSING)

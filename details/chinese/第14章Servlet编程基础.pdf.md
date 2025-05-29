@@ -7,23 +7,12 @@
 ## 名称(book name)
 第14章 Servlet编程基础.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fe79d2efc1e9510efc2654a64a120f91
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+227.1 KB
+%!d(MISSING)

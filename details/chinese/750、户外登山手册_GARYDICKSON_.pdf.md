@@ -7,23 +7,12 @@
 ## 名称(book name)
 750、户外登山手册_GARY DICKSON_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5c6937c8ee0cf38b2c058589207c0514
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+15.2 MB
+%!d(MISSING)

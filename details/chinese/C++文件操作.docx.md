@@ -7,23 +7,12 @@
 ## 名称(book name)
 C++文件操作.docx.docx
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 94ab77d7ad04b57f5f8982d52fa58ce5
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+38.2 KB
+%!d(MISSING)

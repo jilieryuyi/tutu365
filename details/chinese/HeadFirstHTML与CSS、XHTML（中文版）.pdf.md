@@ -7,23 +7,12 @@
 ## 名称(book name)
 Head First HTML与CSS、XHTML（中文版）.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fab5974a142fe216c7dee7566cb77664
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+10 MB
+%!d(MISSING)

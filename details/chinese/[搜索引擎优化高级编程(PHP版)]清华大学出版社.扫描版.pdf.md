@@ -7,23 +7,12 @@
 ## 名称(book name)
 [搜索引擎优化高级编程(PHP版)]清华大学出版社.扫描版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2f654c142d48a8034b8ef6050e6f9987
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+26.5 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 行政公文写作：规范·技巧·最新例文（第2版）_王凯, 赵雪迟__5476043_bdcada3abed257ed6c551275dc6de22d.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bdcada3abed257ed6c551275dc6de22d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.5 MB
+%!d(MISSING)

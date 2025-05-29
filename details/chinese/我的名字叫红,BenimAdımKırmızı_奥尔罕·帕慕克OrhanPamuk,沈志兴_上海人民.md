@@ -7,23 +7,12 @@
 ## 名称(book name)
 我的名字叫红, Benim Adım Kırmızı_奥尔罕·帕慕克 Orhan Pamuk, 沈志兴_上海人民出版社_5458697_174879c54eb431ce5450ce707428b20f.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 174879c54eb431ce5450ce707428b20f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.9 MB
+%!d(MISSING)

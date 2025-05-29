@@ -7,23 +7,12 @@
 ## 名称(book name)
 糖尿病 (蒋国彦，赵夷年，张蕙芬，杨瑞芝编译) (Z-Library).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f2b4e9d2cd25a4d722dc2c7e05e4902f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+28.9 MB
+%!d(MISSING)

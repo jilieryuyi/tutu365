@@ -7,23 +7,12 @@
 ## 名称(book name)
 大道PHP：LAMP.Zend.开源框架整合开发与实战.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ffb68197a4af138289fc3bc18b216a85
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+271.7 MB
+%!d(MISSING)

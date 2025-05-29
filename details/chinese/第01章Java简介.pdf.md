@@ -7,23 +7,12 @@
 ## 名称(book name)
 第01章 Java简介.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 091c92b9c0fd1eccaa41bd13644df9d0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+165.1 KB
+%!d(MISSING)

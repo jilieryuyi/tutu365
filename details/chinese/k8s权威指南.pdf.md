@@ -7,23 +7,12 @@
 ## 名称(book name)
 k8s权威指南.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5ffec38dbbebda5100b1d797752a03e1
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+103.7 MB
+%!d(MISSING)

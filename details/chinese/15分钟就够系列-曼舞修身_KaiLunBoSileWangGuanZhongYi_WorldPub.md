@@ -7,23 +7,12 @@
 ## 名称(book name)
 15分钟就够系列 - 曼舞修身_Kai Lun Bo Si le Wang Guan Zhong Yi_World Publishing Corporation Pub. Date _2011-01-01_5496864_ff4d58d4c9aa5e12760de7d2d2159109.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ff4d58d4c9aa5e12760de7d2d2159109
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.9 MB
+%!d(MISSING)

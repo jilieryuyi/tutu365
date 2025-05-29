@@ -7,23 +7,12 @@
 ## 名称(book name)
 爱默生随笔 (译文随笔)_R.W.爱默生(R.W.Emerson)__5476521_2a69f7b21349188e80221bba5ab54446.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2a69f7b21349188e80221bba5ab54446
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+932.4 KB
+%!d(MISSING)

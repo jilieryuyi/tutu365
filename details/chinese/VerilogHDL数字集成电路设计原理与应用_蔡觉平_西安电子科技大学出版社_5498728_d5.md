@@ -7,23 +7,12 @@
 ## 名称(book name)
 Verilog HDL数字集成电路设计原理与应用_蔡觉平_西安电子科技大学出版社_5498728_d524a556eaa2bb5330bd54c0a9c5db80.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d524a556eaa2bb5330bd54c0a9c5db80
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+7.6 MB
+%!d(MISSING)

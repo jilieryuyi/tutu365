@@ -7,23 +7,12 @@
 ## 名称(book name)
 Linux Shell脚本攻略（第2版） (图灵程序设计丛书)_[印]Shantanu Tushar__5476643_a9c7460b447ddf097f5d8d2c652a6a5a.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a9c7460b447ddf097f5d8d2c652a6a5a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+481.9 KB
+%!d(MISSING)

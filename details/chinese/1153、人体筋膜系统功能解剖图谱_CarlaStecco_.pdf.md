@@ -7,23 +7,12 @@
 ## 名称(book name)
 1153、人体筋膜系统功能解剖图谱_Carla Stecco_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3749d0af8d7173f1a69ea9d329f91206
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+114.6 MB
+%!d(MISSING)

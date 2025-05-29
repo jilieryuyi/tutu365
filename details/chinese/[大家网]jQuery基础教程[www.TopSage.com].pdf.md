@@ -7,23 +7,12 @@
 ## 名称(book name)
 [大家网]jQuery基础教程[www.TopSage.com].pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9a113e7fdf1e431e049639c3e54fe051
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+94.8 MB
+%!d(MISSING)

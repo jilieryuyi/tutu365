@@ -7,23 +7,12 @@
 ## 名称(book name)
 旧小说·历史风云人物（宋代篇）下 (Traditional_chinese Edition)_欧阳修, 曾巩, 刘跂__5476171_296a4a94f3303e4d3aec3a8c530b498b.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 296a4a94f3303e4d3aec3a8c530b498b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+357 KB
+%!d(MISSING)

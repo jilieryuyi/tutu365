@@ -5,25 +5,14 @@
 8078
 
 ## 名称(book name)
-HTML DOM 参考手册.CHM.CHM
-
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
+HTML DOM 参考手册.CHM.chm
 
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6a928cf508b6f0d5127462c749598038
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+776.3 KB
+%!d(MISSING)

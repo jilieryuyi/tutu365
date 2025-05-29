@@ -7,23 +7,12 @@
 ## 名称(book name)
 柳林风声_肯尼斯·格雷厄姆 & E.H.夏帕尔德_N.巴恩哈特_中央编译出版社_5345169_78a8bd4269c9260bc4ac4978e293ab18.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 78a8bd4269c9260bc4ac4978e293ab18
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+44.7 MB
+%!d(MISSING)

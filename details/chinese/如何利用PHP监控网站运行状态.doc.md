@@ -7,23 +7,12 @@
 ## 名称(book name)
 如何利用PHP监控网站运行状态.doc.doc
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 40ea609fe6dee9b59fe7f5f47d516728
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+52 KB
+%!d(MISSING)

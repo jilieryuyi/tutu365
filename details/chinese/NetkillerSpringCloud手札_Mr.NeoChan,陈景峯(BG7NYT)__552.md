@@ -7,23 +7,12 @@
 ## 名称(book name)
 Netkiller Spring Cloud 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526995_c9e106361a6c5dd78d39f54fd2c11e75.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c9e106361a6c5dd78d39f54fd2c11e75
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

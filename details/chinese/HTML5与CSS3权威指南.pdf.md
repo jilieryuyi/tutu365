@@ -7,23 +7,12 @@
 ## 名称(book name)
 HTML5与CSS3权威指南.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 335d5b63837413c352bb545833be42c1
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+25.9 MB
+%!d(MISSING)

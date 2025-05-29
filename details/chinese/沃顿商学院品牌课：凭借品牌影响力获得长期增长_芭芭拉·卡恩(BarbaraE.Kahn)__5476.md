@@ -7,23 +7,12 @@
 ## 名称(book name)
 沃顿商学院品牌课：凭借品牌影响力获得长期增长_芭芭拉·卡恩 (Barbara E.Kahn)__5476399_0ded42de6a91dabc6dd41f3a08dd585c.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0ded42de6a91dabc6dd41f3a08dd585c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+569.6 KB
+%!d(MISSING)

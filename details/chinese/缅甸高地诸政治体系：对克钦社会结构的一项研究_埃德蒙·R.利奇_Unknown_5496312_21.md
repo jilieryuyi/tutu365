@@ -7,23 +7,12 @@
 ## 名称(book name)
 缅甸高地诸政治体系：对克钦社会结构的一项研究_埃德蒙·R.利奇_Unknown_5496312_21ceb2bb3da196541f48e307a6e2730b.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 21ceb2bb3da196541f48e307a6e2730b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+16.4 MB
+%!d(MISSING)

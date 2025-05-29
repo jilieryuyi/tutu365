@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医临床诊疗指南释义 脑病分册 ( etc.).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fcef6af4f1e3855e377c81b398501af9
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+38.2 MB
+%!d(MISSING)

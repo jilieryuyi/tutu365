@@ -7,23 +7,12 @@
 ## 名称(book name)
 美国儿科学会新生儿婴儿护理全书 ((美）劳拉·A. 亚娜, (美)珍妮弗·舒).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 acbdc774046bed4da3404272a989fb33
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+88.6 MB
+%!d(MISSING)

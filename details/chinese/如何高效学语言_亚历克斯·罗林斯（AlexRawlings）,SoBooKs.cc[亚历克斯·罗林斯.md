@@ -7,23 +7,12 @@
 ## 名称(book name)
 如何高效学语言_亚历克斯·罗林斯（Alex Rawlings）, SoBooKs.cc [亚历克斯·罗林斯（Alex Rawlings）, SoBooKs.cc]__5530426_1c13286ea8150ef405317e45c06c7239.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1c13286ea8150ef405317e45c06c7239
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.4 MB
+%!d(MISSING)

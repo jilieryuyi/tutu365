@@ -7,23 +7,12 @@
 ## 名称(book name)
 全国计算机技术与软件专业技术资格（水平）考试参考用书 信息系统项目管理师 备考百科 第3版 (高章舜, Zhangshun Gao, 高章舜主编, 高章舜).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b3d2a3161ebfcb9f75f8529f3aa310a7
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+138.2 MB
+%!d(MISSING)

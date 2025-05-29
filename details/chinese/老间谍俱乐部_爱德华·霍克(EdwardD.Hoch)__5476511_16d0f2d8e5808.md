@@ -7,23 +7,12 @@
 ## 名称(book name)
 老间谍俱乐部_爱德华·霍克(EdwardD.Hoch)__5476511_16d0f2d8e580820504d807412e5f68f7.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 16d0f2d8e580820504d807412e5f68f7
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+373.6 KB
+%!d(MISSING)

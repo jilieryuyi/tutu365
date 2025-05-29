@@ -7,23 +7,12 @@
 ## 名称(book name)
 Glossika 你不知道的英文發音_Michael Campbell_Glossika_5367945_5bdc201108cda6af6f217ae0887cb00b.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5bdc201108cda6af6f217ae0887cb00b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.6 MB
+%!d(MISSING)

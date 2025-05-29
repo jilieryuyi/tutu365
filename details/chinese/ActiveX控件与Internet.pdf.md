@@ -7,23 +7,12 @@
 ## 名称(book name)
 ActiveX 控件与Internet.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 eb53d693f3f61711d6bb62dc0f6887ff
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+131.9 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 mysql字符串函数.txt.txt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3e2dd878e32576ab066c00ba40396c30
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+242 B
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 创新者的窘境_Acampo GmbH_江苏人民出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 77f90315bc9a1679f7d00384376152c4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.3 MB
+%!d(MISSING)

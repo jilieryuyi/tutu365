@@ -7,23 +7,12 @@
 ## 名称(book name)
 headfirst深入浅出_Ajax（中文版）.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5817f210f13e7381579f51ab25f9a44e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+77.9 MB
+%!d(MISSING)

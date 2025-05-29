@@ -7,23 +7,12 @@
 ## 名称(book name)
 诺贝尔文学奖作品典藏书系_翅膀的痕迹_(印) R.泰戈尔__5476580_3841f2c08e1061a5aa2eff7e8cee9b50.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3841f2c08e1061a5aa2eff7e8cee9b50
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+253.9 KB
+%!d(MISSING)

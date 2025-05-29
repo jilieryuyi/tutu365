@@ -7,23 +7,12 @@
 ## 名称(book name)
 改变美国的时刻：The Moment That Changed America_刘戈__5476602_6042958965067373e1fe438674c91fd8.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6042958965067373e1fe438674c91fd8
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+507.7 KB
+%!d(MISSING)

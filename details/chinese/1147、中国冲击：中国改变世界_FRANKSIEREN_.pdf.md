@@ -7,23 +7,12 @@
 ## 名称(book name)
 1147、中国冲击：中国改变世界_FRANK SIEREN_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 489a913bb062672eba9dfa2c3e920859
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+102.7 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 金匮要略 (张仲景 [张仲景]) (Z-Library).epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 059748bf2f5e4c35dd3146f951affed3
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+164.1 KB
+%!d(MISSING)

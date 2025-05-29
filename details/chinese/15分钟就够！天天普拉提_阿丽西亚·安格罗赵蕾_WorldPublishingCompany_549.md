@@ -7,23 +7,12 @@
 ## 名称(book name)
 15分钟就够！天天普拉提_阿丽西亚·安格罗 赵蕾_World Publishing Company_5496970_9fed693308fe9fb8a6a5dba204c6a30b.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9fed693308fe9fb8a6a5dba204c6a30b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2 MB
+%!d(MISSING)

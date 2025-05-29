@@ -1,0 +1,18 @@
+## 下载地址(download link)
+[下载链接 download link](https://voluble-croquembouche-d321dc.netlify.app/?s=8279%E3%80%81_russian_%D0%93%D0%BE%D1%80%D0%BE%D0%B4+%D0%AD%D0%BC%D0%B1%D0%B5%D1%80_+%D0%9F%D0%BE%D0%B1%D0%B5%D0%B3_%D0%94%D1%8E%D0%BF%D1%80%D0%BE+%D0%94%D0%B6%D0%B8%D0%BD_.fb2)
+
+## 下载密码(download password)
+8078
+
+## 名称(book name)
+8279、_russian_Город Эмбер_ Побег_Дюпро Джин_.fb2.fb2
+
+## 语言(language)
+Russian
+
+## MD5
+74b1b05d131a99a3ea97883e5414afeb
+
+## 大小(filesize)
+601.9 KB
+%!d(MISSING)

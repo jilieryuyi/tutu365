@@ -7,23 +7,12 @@
 ## 名称(book name)
 History对象和Location对象.txt.txt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cd28c857d45079a696896d7c0a6a5859
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.2 KB
+%!d(MISSING)

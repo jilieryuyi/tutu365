@@ -7,23 +7,12 @@
 ## 名称(book name)
 高频交易（原书第2版）_艾琳·奥尔德里奇（Irene Aldridge）, SoBooKs.cc [艾琳·奥尔德里奇（Irene Aldridge）, SoBooKs.cc]__5530445_a9c55c023ccdb7dfd4fc4fbdf017e308.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a9c55c023ccdb7dfd4fc4fbdf017e308
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.3 MB
+%!d(MISSING)

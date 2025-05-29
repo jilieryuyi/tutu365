@@ -1,0 +1,18 @@
+## 下载地址(download link)
+[下载链接 download link](https://voluble-croquembouche-d321dc.netlify.app/?s=3712%E3%80%81_russian_%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8F_%D0%93%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C%D1%82%D0%BE%D0%BD+%D0%AD%D0%B4%D0%BC%D0%BE%D0%BD%D0%B4_.fb2)
+
+## 下载密码(download password)
+8078
+
+## 名称(book name)
+3712、_russian_Долина Создателя_Гамильтон Эдмонд_.fb2.fb2
+
+## 语言(language)
+Russian
+
+## MD5
+e92be1710c2bc0e97d9b034a3a6d57d7
+
+## 大小(filesize)
+5.5 MB
+%!d(MISSING)

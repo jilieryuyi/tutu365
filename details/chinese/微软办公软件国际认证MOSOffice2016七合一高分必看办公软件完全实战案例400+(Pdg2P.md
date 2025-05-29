@@ -7,23 +7,12 @@
 ## 名称(book name)
 微软办公软件国际认证MOS Office 2016七合一高分必看 办公软件完全实战案例400+ (Pdg2Pic, 答得喵微软MOS认证授权考试中心编著).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6ecdce711dc7682337beb21ab44bdf04
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+62.3 MB
+%!d(MISSING)

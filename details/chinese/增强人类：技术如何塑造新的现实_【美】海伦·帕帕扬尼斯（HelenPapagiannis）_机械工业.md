@@ -7,23 +7,12 @@
 ## 名称(book name)
 增强人类：技术如何塑造新的现实_【美】海伦·帕帕扬尼斯 （Helen Papagiannis） _机械工业出版社_5346894_37873c25cf0665b323498f86e8d37c3b.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 37873c25cf0665b323498f86e8d37c3b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+7.8 MB
+%!d(MISSING)

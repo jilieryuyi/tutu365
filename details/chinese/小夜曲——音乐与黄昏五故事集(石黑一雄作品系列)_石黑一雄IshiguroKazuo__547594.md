@@ -7,23 +7,12 @@
 ## 名称(book name)
 小夜曲——音乐与黄昏五故事集 (石黑一雄作品系列)_石黑一雄 Ishiguro Kazuo__5475942_79212eb0b244c7375e0c80251ec32028.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 79212eb0b244c7375e0c80251ec32028
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+424 KB
+%!d(MISSING)

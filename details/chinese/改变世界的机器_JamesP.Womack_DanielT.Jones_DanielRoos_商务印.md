@@ -7,23 +7,12 @@
 ## 名称(book name)
 改变世界的机器_James P. Womack _ Daniel T. Jones _ Daniel Roos_商务印书馆.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 04dfd077f579a6fc610be0ec91cb9e8c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+7.6 MB
+%!d(MISSING)

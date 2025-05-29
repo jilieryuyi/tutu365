@@ -7,23 +7,12 @@
 ## 名称(book name)
 【中医】中医诊断学 （供中医类专业用）(OCR).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bcfcebad57bbf4731ccfa8835a5899a1
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.8 MB
+%!d(MISSING)

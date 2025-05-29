@@ -7,23 +7,12 @@
 ## 名称(book name)
 第一本Docker书+PDF电子书下载+带书签目录+完整版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2ab0c80b23dd8282c16ef7bc81fe34c6
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+43.7 MB
+%!d(MISSING)

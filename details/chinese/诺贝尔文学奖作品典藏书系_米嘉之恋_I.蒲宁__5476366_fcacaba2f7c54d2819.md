@@ -7,23 +7,12 @@
 ## 名称(book name)
 诺贝尔文学奖作品典藏书系_米嘉之恋_I.蒲宁__5476366_fcacaba2f7c54d2819a27588a34f7846.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fcacaba2f7c54d2819a27588a34f7846
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+374 KB
+%!d(MISSING)

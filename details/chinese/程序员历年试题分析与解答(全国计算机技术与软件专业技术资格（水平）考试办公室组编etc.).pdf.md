@@ -7,23 +7,12 @@
 ## 名称(book name)
 程序员历年试题分析与解答 (全国计算机技术与软件专业技术资格（水平）考试办公室组编 etc.).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1f6bc8f731066aaff6b2186f0cc96416
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+96 MB
+%!d(MISSING)

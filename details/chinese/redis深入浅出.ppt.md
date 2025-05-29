@@ -7,23 +7,12 @@
 ## 名称(book name)
 redis深入浅出.ppt.ppt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d734271eb04ed256dce77a78c8aa7f6f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+921 KB
+%!d(MISSING)

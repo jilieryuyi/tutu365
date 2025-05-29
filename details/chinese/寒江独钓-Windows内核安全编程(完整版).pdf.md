@@ -7,23 +7,12 @@
 ## 名称(book name)
 寒江独钓-Windows内核安全编程(完整版).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5b11362505e1fb02d610ddf9b63ef30b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+113.6 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 C标准库.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5bfcf082a3f78bf36f33c76a774ec4a8
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+32.4 MB
+%!d(MISSING)

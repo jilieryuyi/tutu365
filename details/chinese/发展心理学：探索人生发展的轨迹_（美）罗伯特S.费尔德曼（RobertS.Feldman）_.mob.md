@@ -7,23 +7,12 @@
 ## 名称(book name)
 发展心理学：探索人生发展的轨迹_（美）罗伯特 S.费尔德曼（Robert S.Feldman）_.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d111ccfc57bd7d945a20d791d1ceab9c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+21.2 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 XML指南.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8f2e94d52bb35e3da28fc18c1fea33d3
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+185 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 Sphinx搜索引擎架构与使用文档(和MySQL结合)V1.1.doc.doc
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f1d80c7bec090e8e36c282bc4c23a580
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+7.3 MB
+%!d(MISSING)

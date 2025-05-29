@@ -7,23 +7,12 @@
 ## 名称(book name)
 1150、战略：一部历史上_LAWRENCE FREEDMAN_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cb7a0406ca81b5376d7d0a79c332edcd
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+164 MB
+%!d(MISSING)

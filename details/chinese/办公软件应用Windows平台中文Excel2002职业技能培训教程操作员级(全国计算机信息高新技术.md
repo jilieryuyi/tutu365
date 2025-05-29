@@ -7,23 +7,12 @@
 ## 名称(book name)
 办公软件应用 Windows 平台 中文Excel 2002职业技能培训教程 操作员级 (全国计算机信息高新技术考试教材编写委员会编写).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cec7f63b54baeab4f6c311000a63e400
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+119.5 MB
+%!d(MISSING)

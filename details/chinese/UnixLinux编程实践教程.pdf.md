@@ -7,23 +7,12 @@
 ## 名称(book name)
 UnixLinux编程实践教程.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 61ea01347621f66b11955db8412c9549
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+24.6 MB
+%!d(MISSING)

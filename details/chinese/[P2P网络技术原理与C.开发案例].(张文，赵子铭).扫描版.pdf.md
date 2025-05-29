@@ -7,23 +7,12 @@
 ## 名称(book name)
 [P2P网络技术原理与C.开发案例].(张文，赵子铭).扫描版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2d54c098248bd447eb7a648010826aeb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+48.7 MB
+%!d(MISSING)

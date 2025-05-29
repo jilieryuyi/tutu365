@@ -7,23 +7,12 @@
 ## 名称(book name)
 第11章 Java小程序Applet.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 529991048fb862b1e422e02fa610bbc5
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+235 KB
+%!d(MISSING)

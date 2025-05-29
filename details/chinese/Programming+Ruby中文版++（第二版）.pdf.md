@@ -7,23 +7,12 @@
 ## 名称(book name)
 Programming+Ruby中文版++（第二版）.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ea430c6dbd942ea71e885119a5b999fb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+54.7 MB
+%!d(MISSING)

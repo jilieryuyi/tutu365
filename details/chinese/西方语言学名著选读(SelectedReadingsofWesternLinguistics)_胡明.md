@@ -7,23 +7,12 @@
 ## 名称(book name)
 西方语言学名著选读 (Selected Readings of Western Linguistics)_胡明扬_中国人民大学出版社_5496263_b0b2df954b5887a18b0ea580c09049f8.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b0b2df954b5887a18b0ea580c09049f8
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+13.9 MB
+%!d(MISSING)

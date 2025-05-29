@@ -7,23 +7,12 @@
 ## 名称(book name)
 Gearman框架构建分布式图片处理平台.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d7d396ae52ebdc232f7fc7f9dc9718ff
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+758.5 KB
+%!d(MISSING)

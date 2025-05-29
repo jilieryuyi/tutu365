@@ -7,23 +7,12 @@
 ## 名称(book name)
 C语言编程常见问题解答.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2c95ccdadf38151df4097fb0a1e50864
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+574.3 KB
+%!d(MISSING)

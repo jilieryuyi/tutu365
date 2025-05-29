@@ -7,23 +7,12 @@
 ## 名称(book name)
 第09章 Java的IO系统.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b1ae94ba6f9a779732e352109d044eba
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+339.8 KB
+%!d(MISSING)

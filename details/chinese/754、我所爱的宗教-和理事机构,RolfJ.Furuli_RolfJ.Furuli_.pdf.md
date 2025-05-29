@@ -7,23 +7,12 @@
 ## 名称(book name)
 754、我所爱的宗教 - 和理事机构, Rolf J. Furuli_Rolf J. Furuli_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0c66de2c2df96dfaef2226b571654dcb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+4.1 MB
+%!d(MISSING)

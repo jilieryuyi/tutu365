@@ -7,23 +7,12 @@
 ## 名称(book name)
 消失中的江城_何偉 Peter Hessler_.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 873760a59514e04b043f69f3858e316d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+713.7 KB
+%!d(MISSING)

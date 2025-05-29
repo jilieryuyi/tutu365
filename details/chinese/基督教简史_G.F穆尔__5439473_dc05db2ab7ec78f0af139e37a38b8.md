@@ -7,23 +7,12 @@
 ## 名称(book name)
 基督教简史_G.F穆尔__5439473_dc05db2ab7ec78f0af139e37a38b8461.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 dc05db2ab7ec78f0af139e37a38b8461
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+12.9 MB
+%!d(MISSING)

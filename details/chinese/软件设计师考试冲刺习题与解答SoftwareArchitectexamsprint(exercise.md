@@ -7,23 +7,12 @@
 ## 名称(book name)
 软件设计师考试冲刺 习题与解答Software Architect exam sprint (exercises and answers)(Chinese Edition) (ZHANG YOU SHENG . WANG YONG).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 90335a4a050869ab5a57d7f577014624
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+120 MB
+%!d(MISSING)

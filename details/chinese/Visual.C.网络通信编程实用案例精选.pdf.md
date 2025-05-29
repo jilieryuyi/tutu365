@@ -7,23 +7,12 @@
 ## 名称(book name)
 Visual.C.网络通信编程实用案例精选.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 925512aa84563d80145392060463b08d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+73.8 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 爱伦·坡短篇小说选 (Selected Short Stories by Edgar Allan Poe)_埃德加·爱伦·坡__5476522_3a70475a0ed306cac7654f62139fe598.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 3a70475a0ed306cac7654f62139fe598
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+959.4 KB
+%!d(MISSING)

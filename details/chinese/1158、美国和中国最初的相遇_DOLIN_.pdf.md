@@ -7,23 +7,12 @@
 ## 名称(book name)
 1158、美国和中国最初的相遇_DOLIN_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 49f5970402259e8e4f07e9d0e08cfa4e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+124.5 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 论法治_布莱恩·Z. 塔玛纳哈_武汉大学出版社_5533340_9b50884636955a265f4cdbc462f70de2.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9b50884636955a265f4cdbc462f70de2
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+10.2 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 社会的构成 结构化理论纲要_（英）安东尼·吉登斯（ANTHONY CIDDENS）著；李康，李猛译 _中国人民大学出版社_5460762_ab0a3f9eb4b7eb5a4699fe68bc1163f2.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ab0a3f9eb4b7eb5a4699fe68bc1163f2
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+82.8 MB
+%!d(MISSING)

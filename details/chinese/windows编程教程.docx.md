@@ -7,23 +7,12 @@
 ## 名称(book name)
 windows编程教程.docx.docx
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5e812cc74d09203ff224e9f541677c30
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+723.7 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 【中医】上海地区名老中医临床特色经验集（I）.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ced8d848d5cb196ffe6f9523dd0b9f63
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.2 MB
+%!d(MISSING)

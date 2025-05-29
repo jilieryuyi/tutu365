@@ -7,23 +7,12 @@
 ## 名称(book name)
 php官网文档.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b03178b4c3f8d8b0518d1a890155ba78
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+28 MB
+%!d(MISSING)

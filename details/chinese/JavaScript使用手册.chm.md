@@ -7,23 +7,12 @@
 ## 名称(book name)
 JavaScript使用手册.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ee958b0dc4fd489adfbd71c359521b8b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+119.3 KB
+%!d(MISSING)

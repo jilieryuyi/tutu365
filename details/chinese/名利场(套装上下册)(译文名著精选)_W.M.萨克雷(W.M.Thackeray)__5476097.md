@@ -7,23 +7,12 @@
 ## 名称(book name)
 名利场(套装上下册) (译文名著精选)_W.M.萨克雷 (W.M.Thackeray)__5476097_135f90d1ec134b1267f719f530c8a353.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 135f90d1ec134b1267f719f530c8a353
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1 MB
+%!d(MISSING)

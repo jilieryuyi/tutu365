@@ -7,23 +7,12 @@
 ## 名称(book name)
 436、非对称风险：风险共担，应对现实世界中的不确定性（“不确定性”系列丛书）_SoBooKs.cc & [美] 纳西姆·尼古拉斯·塔勒布（Nassim Nicholas Taleb）_中信出版集团.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0c6c7c78a2088e2934b9b387b2b25471
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.7 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 1162、广义线性模型_ George H. Dunterman, Ann A. O'Connell, Scott Menard, Vani Borooah_格致出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9bda8b028104fb7403032132244b3196
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+30.6 MB
+%!d(MISSING)

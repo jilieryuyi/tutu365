@@ -7,23 +7,12 @@
 ## 名称(book name)
 中国的人口与城市：知乎 chenqin 自选集 (知乎「盐」系列)_chenqin & 知乎__5476466_6eb805284677e95e8feaf11578ade260.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6eb805284677e95e8feaf11578ade260
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.4 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 DHTML 手册.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 93b7bbbaf6a7b78dedc3579bfdb1ec1c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.8 MB
+%!d(MISSING)

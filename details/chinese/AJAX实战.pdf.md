@@ -7,23 +7,12 @@
 ## 名称(book name)
 AJAX实战.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2e568cb53f64430394fa09360de0dee5
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+93.6 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 设计师要懂心理学 (图灵交互设计丛书)_[美]Susan Weinschenk__5476375_fadaa9c9e678fa67cd999ef90e5cf886.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fadaa9c9e678fa67cd999ef90e5cf886
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.7 MB
+%!d(MISSING)

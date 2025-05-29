@@ -7,23 +7,12 @@
 ## 名称(book name)
 国际货币基金组织2016年年报_International Monetary Fund_International Monetary Fund.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5d81d0cd81404d1f4a08925fa9edce8b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+11.3 MB
+%!d(MISSING)

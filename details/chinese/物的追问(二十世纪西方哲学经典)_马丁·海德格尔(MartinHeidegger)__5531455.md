@@ -7,23 +7,12 @@
 ## 名称(book name)
 物的追问 (二十世纪西方哲学经典)_马丁·海德格尔(Martin Heidegger)__5531455_9877e10090e8c73497167d061fd122f0.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9877e10090e8c73497167d061fd122f0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.7 MB
+%!d(MISSING)

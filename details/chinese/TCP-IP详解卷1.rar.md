@@ -7,23 +7,12 @@
 ## 名称(book name)
 TCP-IP详解卷1.rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b7c4461aa6b38c801dd23df63c82ecbb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+11.5 MB
+%!d(MISSING)

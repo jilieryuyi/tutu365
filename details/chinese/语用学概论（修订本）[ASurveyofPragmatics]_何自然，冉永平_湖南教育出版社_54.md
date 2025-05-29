@@ -7,23 +7,12 @@
 ## 名称(book name)
 语用学概论 （修订本） [A Survey of Pragmatics]_何自然，冉永平_湖南教育出版社_5495614_86ce1cf2a76312e335a34fd77767b3f4.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 86ce1cf2a76312e335a34fd77767b3f4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+125 MB
+%!d(MISSING)

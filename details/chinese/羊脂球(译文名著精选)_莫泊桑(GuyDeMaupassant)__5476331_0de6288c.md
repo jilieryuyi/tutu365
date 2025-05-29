@@ -7,23 +7,12 @@
 ## 名称(book name)
 羊脂球 (译文名著精选)_莫泊桑(Guy De Maupassant)__5476331_0de6288c4a076458111afcbd4e08ac0a.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0de6288c4a076458111afcbd4e08ac0a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+575.4 KB
+%!d(MISSING)

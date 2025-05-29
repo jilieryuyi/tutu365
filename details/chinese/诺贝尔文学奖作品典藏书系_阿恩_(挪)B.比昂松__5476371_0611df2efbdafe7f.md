@@ -7,23 +7,12 @@
 ## 名称(book name)
 诺贝尔文学奖作品典藏书系_阿恩_(挪) B.比昂松__5476371_0611df2efbdafe7f7c04b0119801bcef.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0611df2efbdafe7f7c04b0119801bcef
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+232.6 KB
+%!d(MISSING)

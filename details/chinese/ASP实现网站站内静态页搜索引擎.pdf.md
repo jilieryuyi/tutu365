@@ -7,23 +7,12 @@
 ## 名称(book name)
 ASP实现网站站内静态页搜索引擎.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e939e6936f73ca4cf9668737f31620d5
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+432.8 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 996、Isaac_Action_Plan_伊萨克.巴顿_中国对外翻译出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 5349ce20c622d5e8cfcf913849f3fecb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+350.9 KB
+%!d(MISSING)

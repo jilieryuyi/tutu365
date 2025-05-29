@@ -7,23 +7,12 @@
 ## 名称(book name)
 C程序设计语言(第2版·新版)_ [美] 布莱恩·W.克尼汉（Brian W.Kernighan） _ [美] 丹尼斯·M.里奇（Dennis M.Ritchie）__5530418_f74a19fefc6fd65dd299903b35b42d0e.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f74a19fefc6fd65dd299903b35b42d0e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+952.6 KB
+%!d(MISSING)

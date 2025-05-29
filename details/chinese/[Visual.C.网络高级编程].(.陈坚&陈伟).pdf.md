@@ -7,23 +7,12 @@
 ## 名称(book name)
 [Visual.C.网络高级编程].(.陈坚&陈伟).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 25102f94759b33d49c9352bfd6cf03da
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+19.3 MB
+%!d(MISSING)

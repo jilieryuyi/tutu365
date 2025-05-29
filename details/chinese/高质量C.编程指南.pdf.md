@@ -7,23 +7,12 @@
 ## 名称(book name)
 高质量C.编程指南.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a2e3c06b553970b34fdd1da26cf1d4cc
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+634.6 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 Wireshark使用教程.doc.doc
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2de0b6897adf964fae9937ec438ca667
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.5 MB
+%!d(MISSING)

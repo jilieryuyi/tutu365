@@ -7,23 +7,12 @@
 ## 名称(book name)
 [The.Economics.of.Software.Quality.(2011.08)].Capers.Jones.文字版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0c07ed5e04d88f0b35b5a6c0f5230e28
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+16.3 MB
+%!d(MISSING)

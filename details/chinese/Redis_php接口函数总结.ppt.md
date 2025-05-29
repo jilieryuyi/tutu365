@@ -7,23 +7,12 @@
 ## 名称(book name)
 Redis_php接口函数总结.ppt.ppt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 52d61416b184c445e2eaedcbabfe9e86
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+596.5 KB
+%!d(MISSING)

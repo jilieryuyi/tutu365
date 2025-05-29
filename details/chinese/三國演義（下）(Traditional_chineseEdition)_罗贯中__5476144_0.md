@@ -7,23 +7,12 @@
 ## 名称(book name)
 三國演義（下） (Traditional_chinese Edition)_罗贯中__5476144_0ac390df568d2718fc5ea0b03772147f.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0ac390df568d2718fc5ea0b03772147f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+580.1 KB
+%!d(MISSING)

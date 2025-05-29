@@ -7,23 +7,12 @@
 ## 名称(book name)
 Python网络编程攻略_Dr. M. O. Faruque Sarker _人民邮电出版社_5345875_179dbc233e68c4d48027e2671c40f883.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 179dbc233e68c4d48027e2671c40f883
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+17.8 MB
+%!d(MISSING)

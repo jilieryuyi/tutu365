@@ -7,23 +7,12 @@
 ## 名称(book name)
 冰与火之歌1-5卷（全15册）_George R.R. Martin & 谭光磊 & 屈畅__5366043_a31316aafeb8e1fe9033fec0a3e8dda4.azw.azw
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a31316aafeb8e1fe9033fec0a3e8dda4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+18.7 MB
+%!d(MISSING)

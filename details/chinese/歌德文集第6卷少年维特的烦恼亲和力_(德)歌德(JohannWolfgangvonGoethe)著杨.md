@@ -7,23 +7,12 @@
 ## 名称(book name)
 歌德文集 第6卷 少年维特的烦恼 亲和力_(德)歌德(Johann Wolfgang von Goethe) 著 杨武能等 译_人民文学出版社_5346014_b3a7a0a4cd7937f276148793cf32ff3e.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b3a7a0a4cd7937f276148793cf32ff3e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+12.4 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 度量世界：探索绝对度量衡体系的历史_罗伯特·P.克里斯_生活·读书·新知三联书店_5475407_41323faf850f1d77597ef84cc7732aff.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 41323faf850f1d77597ef84cc7732aff
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+86.2 MB
+%!d(MISSING)

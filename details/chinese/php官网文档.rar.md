@@ -7,23 +7,12 @@
 ## 名称(book name)
 php官网文档.rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 71e7bf9611fabb18ed9f559c61821ee3
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+27.6 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 陀思妥耶夫斯基文集套装_陀思妥耶夫斯基(Fyodor Dostoyevsky)__5475947_8910fbb200f260eb186a1f31d0feefc9.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8910fbb200f260eb186a1f31d0feefc9
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+28.6 MB
+%!d(MISSING)

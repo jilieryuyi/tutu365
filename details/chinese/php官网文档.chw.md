@@ -7,23 +7,12 @@
 ## 名称(book name)
 php官网文档.chw.chw
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 cca85c94857ea470203c0b7f9bb0c4fb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+848.9 KB
+%!d(MISSING)

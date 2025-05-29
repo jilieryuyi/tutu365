@@ -7,23 +7,12 @@
 ## 名称(book name)
 麦田里的守望者_[美国] J. D. 塞林格__5470639_fa332d74fbb56056cdfdba7f5651a6fd.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 fa332d74fbb56056cdfdba7f5651a6fd
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+285.6 KB
+%!d(MISSING)

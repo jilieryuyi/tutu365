@@ -7,23 +7,12 @@
 ## 名称(book name)
 《WindowsC程序设计入门与提高》aiwen带完整书签版.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 52854e22978df900f5e4a2b582ac8769
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+8.3 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 html5游戏开发.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 94e55cf589ba01c100cc22f9f9ad4ac0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.9 MB
+%!d(MISSING)

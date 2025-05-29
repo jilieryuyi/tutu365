@@ -7,23 +7,12 @@
 ## 名称(book name)
 1100、阿提卡之夜(1-5卷)_奥卢斯·革利乌斯 (Aulus Gellius)_中国法制出版社.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 afc058b8266008e1e52838e516503134
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.6 MB
+%!d(MISSING)

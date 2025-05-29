@@ -7,23 +7,12 @@
 ## 名称(book name)
 716、人性的枷锁_【英】William Somerset Maugham(毛姆)_文学出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6e4302ca6237e78e1db4f021fc6f0348
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+19 MB
+%!d(MISSING)

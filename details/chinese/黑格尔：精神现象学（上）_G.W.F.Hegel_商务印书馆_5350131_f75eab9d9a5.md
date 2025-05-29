@@ -7,23 +7,12 @@
 ## 名称(book name)
 黑格尔：精神现象学（上）_G.W.F.Hegel_商务印书馆_5350131_f75eab9d9a598e759ca9b7d300483cb1.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f75eab9d9a598e759ca9b7d300483cb1
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+26.9 MB
+%!d(MISSING)

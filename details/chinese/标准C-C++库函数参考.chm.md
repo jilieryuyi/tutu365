@@ -7,23 +7,12 @@
 ## 名称(book name)
 标准C-C++库函数参考.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9277923d4de619c05e72e0eefa9479f4
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+122 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 Visual.C.2008入门经典(中文高清版).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 90e881bce94bedaa3cae7f4c492cb62e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+136.6 MB
+%!d(MISSING)

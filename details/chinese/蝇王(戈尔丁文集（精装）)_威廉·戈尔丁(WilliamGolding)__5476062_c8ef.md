@@ -7,23 +7,12 @@
 ## 名称(book name)
 蝇王 (戈尔丁文集（精装）)_威廉·戈尔丁(William Golding)__5476062_c8eff051083364eda09a586f3721b18c.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c8eff051083364eda09a586f3721b18c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+386.3 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 js的window.close说明.txt.txt
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9a9e23cbf3416b665c7a35ba821a2ffb
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1012 B
+%!d(MISSING)

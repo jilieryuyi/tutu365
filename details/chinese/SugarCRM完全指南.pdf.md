@@ -7,23 +7,12 @@
 ## 名称(book name)
 SugarCRM完全指南.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 eefb399559dd664da4f6d85e698183dd
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.3 MB
+%!d(MISSING)

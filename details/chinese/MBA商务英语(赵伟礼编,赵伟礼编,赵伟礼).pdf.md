@@ -7,23 +7,12 @@
 ## 名称(book name)
 MBA商务英语 (赵伟礼编, 赵伟礼编, 赵伟礼) .pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 60cf4f08bb417c35516640c3b5cc6d7c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+13.8 MB
+%!d(MISSING)

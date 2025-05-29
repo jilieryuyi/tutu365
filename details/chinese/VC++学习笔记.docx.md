@@ -7,23 +7,12 @@
 ## 名称(book name)
 VC++学习笔记.docx.docx
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1a194d7a4dd118e1faa3b9924f9f7f00
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+13.6 KB
+%!d(MISSING)

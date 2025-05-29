@@ -7,23 +7,12 @@
 ## 名称(book name)
 全国计算机等级考试一级教程：计算机基础及WPS OFFICE应用 2019年版 (教育部考试中心，金山办公软件有限公司编).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2766d5986903ecf45edd64d02be5dda0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+141.6 MB
+%!d(MISSING)

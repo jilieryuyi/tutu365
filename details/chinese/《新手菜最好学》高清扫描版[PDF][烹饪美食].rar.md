@@ -7,23 +7,12 @@
 ## 名称(book name)
 《新手菜最好学》高清扫描版[PDF][烹饪美食].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 16a2dda6365e73321e02d233edc3ea83
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+16.6 MB
+%!d(MISSING)

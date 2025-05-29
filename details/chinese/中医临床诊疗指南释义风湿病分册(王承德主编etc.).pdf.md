@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医临床诊疗指南释义 风湿病分册 (王承德主编 etc.).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4fce2c98dd35064b6f1bbe1301fcfb19
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+14 MB
+%!d(MISSING)

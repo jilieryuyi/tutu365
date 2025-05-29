@@ -7,23 +7,12 @@
 ## 名称(book name)
 房間裡最有智慧的人_湯瑪斯•吉洛維奇,李•羅斯,Thomas Gilovich,Lee Ross_先覺出版社_5499009_c685ffe58c5d6dbf887d5e8b7695360f.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 c685ffe58c5d6dbf887d5e8b7695360f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+3.6 MB
+%!d(MISSING)

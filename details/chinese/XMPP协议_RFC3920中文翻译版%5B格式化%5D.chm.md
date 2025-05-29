@@ -7,23 +7,12 @@
 ## 名称(book name)
 XMPP协议_RFC3920中文翻译版%5B格式化%5D.chm.chm
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6d5f6b462c49a0893c0765861c26b02a
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+72.3 KB
+%!d(MISSING)

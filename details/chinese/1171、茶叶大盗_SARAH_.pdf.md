@@ -7,23 +7,12 @@
 ## 名称(book name)
 1171、茶叶大盗_SARAH_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 9dd2f559be86142ca634b561004a0101
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+37.9 MB
+%!d(MISSING)

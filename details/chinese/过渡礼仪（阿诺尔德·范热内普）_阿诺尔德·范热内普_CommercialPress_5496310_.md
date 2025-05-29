@@ -7,23 +7,12 @@
 ## 名称(book name)
 过渡礼仪（阿诺尔德·范热内普）_阿诺尔德·范热内普_Commercial Press_5496310_e48d6e4b6bd1dd92958c242df4a5ce63.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e48d6e4b6bd1dd92958c242df4a5ce63
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+9.9 MB
+%!d(MISSING)

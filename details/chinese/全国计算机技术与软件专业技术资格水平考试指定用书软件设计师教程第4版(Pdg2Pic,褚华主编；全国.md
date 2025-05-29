@@ -7,23 +7,12 @@
 ## 名称(book name)
 全国计算机技术与软件专业技术资格 水平 考试指定用书 软件设计师教程 第4版 (Pdg2Pic, 褚华主编；全国计算机专业技术资格考试办公室组编).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 0e7b0c9e42185d01374e3eabf00fae4e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+151.8 MB
+%!d(MISSING)

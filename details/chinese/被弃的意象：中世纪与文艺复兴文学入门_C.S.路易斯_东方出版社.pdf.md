@@ -7,23 +7,12 @@
 ## 名称(book name)
 被弃的意象：中世纪与文艺复兴文学入门_C.S.路易斯_东方出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 abdab91e7777ed11ff881c3c7146080f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+14 MB
+%!d(MISSING)

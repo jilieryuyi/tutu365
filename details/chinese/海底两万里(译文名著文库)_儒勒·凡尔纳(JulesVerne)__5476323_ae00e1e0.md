@@ -7,23 +7,12 @@
 ## 名称(book name)
 海底两万里(译文名著文库)_儒勒·凡尔纳 (Jules Verne)__5476323_ae00e1e0cf8f2a8507a5e5cc9c437ab0.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ae00e1e0cf8f2a8507a5e5cc9c437ab0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.9 MB
+%!d(MISSING)

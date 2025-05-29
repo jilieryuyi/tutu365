@@ -7,23 +7,12 @@
 ## 名称(book name)
 中医临床诊疗指南释义 妇科疾病分册 (杜惠兰，罗颂平主编 etc.).pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 b76d9ef0bd905d6e140303b0db3f375d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+32.5 MB
+%!d(MISSING)

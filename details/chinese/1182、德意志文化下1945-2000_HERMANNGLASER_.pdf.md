@@ -7,23 +7,12 @@
 ## 名称(book name)
 1182、德意志文化 下 1945-2000_HERMANN GLASER_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4e540d687321c2b392ac711e7d22c54e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+56.7 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 第05章 Java的数据结构.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 e46778b3898457dd6f5cacc459429377
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+348.6 KB
+%!d(MISSING)

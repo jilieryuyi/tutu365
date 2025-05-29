@@ -7,23 +7,12 @@
 ## 名称(book name)
 甲骨文：一次占卜當代中國的旅程_何偉（Peter Hessler)__5470428_8d03fbcb45a9afa5132e5db1898683cf.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8d03fbcb45a9afa5132e5db1898683cf
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+2.7 MB
+%!d(MISSING)

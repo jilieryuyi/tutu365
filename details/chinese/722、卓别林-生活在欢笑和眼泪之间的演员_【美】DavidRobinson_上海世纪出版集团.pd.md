@@ -7,23 +7,12 @@
 ## 名称(book name)
 722、卓别林-生活在欢笑和眼泪之间的演员_【美】David Robinson_上海世纪出版集团.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 276120c8959ce431613969a201d7cb38
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+18.3 MB
+%!d(MISSING)

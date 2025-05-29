@@ -7,23 +7,12 @@
 ## 名称(book name)
 荣格文集(国际文化出版公司)1：弗洛伊德与精神分析_Carl Jung_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 abca36b14c77b4e9973a6ca8b9ef8c10
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+47.3 MB
+%!d(MISSING)

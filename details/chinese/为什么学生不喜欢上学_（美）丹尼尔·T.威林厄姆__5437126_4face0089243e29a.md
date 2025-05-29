@@ -7,23 +7,12 @@
 ## 名称(book name)
 为什么学生不喜欢上学_（美）丹尼尔·T.威林厄姆__5437126_4face0089243e29ac2a0a5447caedf87.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 4face0089243e29ac2a0a5447caedf87
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.5 MB
+%!d(MISSING)

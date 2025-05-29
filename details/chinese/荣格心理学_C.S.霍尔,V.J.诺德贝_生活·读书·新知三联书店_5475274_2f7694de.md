@@ -7,23 +7,12 @@
 ## 名称(book name)
 荣格心理学_C. S. 霍尔, V. J. 诺德贝_生活·读书·新知三联书店_5475274_2f7694deda18ef678a4cc12e6773a28f.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 2f7694deda18ef678a4cc12e6773a28f
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.6 MB
+%!d(MISSING)

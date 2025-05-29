@@ -7,23 +7,12 @@
 ## 名称(book name)
 美国少年学霸超级笔记：英語 = Everything You Need to Ace English Language Arts in One Big Fat Notebook (美国沃克曼出版公司 (Workman Publishing)).azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d27e3bc838dc2b89c8cca459239cc22b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+57.8 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 免费技术材料-OK.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8166f295e8c0d17c83c94ced5fb5cac0
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+299 KB
+%!d(MISSING)

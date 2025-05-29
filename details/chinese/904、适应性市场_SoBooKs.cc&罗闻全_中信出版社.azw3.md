@@ -7,23 +7,12 @@
 ## 名称(book name)
 904、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 d7029678ae9effd1c2be095de70d2f2e
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+7 MB
+%!d(MISSING)

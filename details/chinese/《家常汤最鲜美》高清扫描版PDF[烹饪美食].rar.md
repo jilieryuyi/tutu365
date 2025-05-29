@@ -7,23 +7,12 @@
 ## 名称(book name)
 《家常汤最鲜美》高清扫描版PDF[烹饪美食].rar.rar
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ded638a146a6156e72174b18f5eb2f9d
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+15 MB
+%!d(MISSING)

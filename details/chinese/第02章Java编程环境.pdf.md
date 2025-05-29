@@ -7,23 +7,12 @@
 ## 名称(book name)
 第02章 Java编程环境.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 dfd48d4834bdd3ecd924dd7fb4935b42
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+211.9 KB
+%!d(MISSING)

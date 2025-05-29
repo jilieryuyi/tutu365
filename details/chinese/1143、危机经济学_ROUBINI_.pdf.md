@@ -7,23 +7,12 @@
 ## 名称(book name)
 1143、危机经济学_ROUBINI_.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 f2d15b2b84eca4a1b2193f6cddbd2f9c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+6.9 MB
+%!d(MISSING)

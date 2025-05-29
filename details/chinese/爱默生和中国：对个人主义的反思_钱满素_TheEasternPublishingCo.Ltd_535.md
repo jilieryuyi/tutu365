@@ -7,23 +7,12 @@
 ## 名称(book name)
 爱默生和中国：对个人主义的反思_钱满素_The Eastern Publishing Co.Ltd_5353810_bfbade8f6109c274e08f45afcbc20971.mobi.mobi
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 bfbade8f6109c274e08f45afcbc20971
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+513.9 KB
+%!d(MISSING)

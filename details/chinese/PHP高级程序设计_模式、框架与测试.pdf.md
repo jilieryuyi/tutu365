@@ -7,23 +7,12 @@
 ## 名称(book name)
 PHP高级程序设计_模式、框架与测试.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 8fe69079d4916ae4ea700e1517ebc4f6
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+25.5 MB
+%!d(MISSING)

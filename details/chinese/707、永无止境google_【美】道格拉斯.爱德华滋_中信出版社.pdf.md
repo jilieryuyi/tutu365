@@ -7,23 +7,12 @@
 ## 名称(book name)
 707、永无止境google_【美】道格拉斯.爱德华滋_中信出版社.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 1688af23796a2182f514b5495ad4fdab
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+19.8 MB
+%!d(MISSING)

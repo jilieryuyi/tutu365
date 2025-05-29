@@ -7,23 +7,12 @@
 ## 名称(book name)
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 a2891b5485f02292e4d740bce8c0fb60
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+8.4 MB
+%!d(MISSING)

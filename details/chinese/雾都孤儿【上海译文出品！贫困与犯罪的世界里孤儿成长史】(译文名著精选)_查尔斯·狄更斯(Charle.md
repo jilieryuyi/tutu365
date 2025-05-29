@@ -7,23 +7,12 @@
 ## 名称(book name)
 雾都孤儿【上海译文出品！贫困与犯罪的世界里孤儿成长史】 (译文名著精选)_查尔斯·狄更斯 (Charles Dickens)__5476072_6c405ed27eada227c68c0fc4b0a56f79.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 6c405ed27eada227c68c0fc4b0a56f79
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+660 KB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 东正教：教会学说概要_[俄] C.H.布尔加科夫，徐凤林（译）_商务印书馆_5356869_306da89c51dc6f5e225e367ec093da92.pdf.pdf
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 306da89c51dc6f5e225e367ec093da92
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+5.3 MB
+%!d(MISSING)

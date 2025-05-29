@@ -7,23 +7,12 @@
 ## 名称(book name)
 项目计划、进度与控制(原书第5版)_詹姆斯·刘易斯 (James P. Lewis)__5476349_ff4d46ccb2e1f07846a8bb6fb7baa153.azw3.azw3
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 ff4d46ccb2e1f07846a8bb6fb7baa153
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+20.5 MB
+%!d(MISSING)

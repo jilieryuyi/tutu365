@@ -7,23 +7,12 @@
 ## 名称(book name)
 纳尼亚传奇（完美全集）_C.S 路易斯__5470714_30c6a972c55dcf1d1731d5269a5e027b.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 30c6a972c55dcf1d1731d5269a5e027b
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+1.2 MB
+%!d(MISSING)

@@ -7,23 +7,12 @@
 ## 名称(book name)
 教育的未来：人工智能时代的教育变革_约瑟夫·E.奥恩__5357876_13e1330b1e5b33db1fd2bd8d153e2d0c.epub.epub
 
-## 作者(author)
-
-
-## 出版社(publisher)
-
-
-## ISBN
-
-
 ## 语言(language)
-chinese
+Chinese
 
 ## MD5
 13e1330b1e5b33db1fd2bd8d153e2d0c
 
 ## 大小(filesize)
-0 B
-
-## 时间(year)
-0
+195 KB
+%!d(MISSING)
