@@ -8,7 +8,7 @@
 6914、_russian_Кровь артефакта_Васин Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03f7ed7f35a1297b382ff1c0b6f24947

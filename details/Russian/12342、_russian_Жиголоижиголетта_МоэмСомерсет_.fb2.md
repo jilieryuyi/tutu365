@@ -8,7 +8,7 @@
 12342、_russian_Жиголо и жиголетта_Моэм Сомерсет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afd064972ded6e853171e39d0f8d05d6

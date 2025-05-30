@@ -8,7 +8,7 @@
 11125、_russian_Морской фермер_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72508ebc6234491dc3b9788628588eb3

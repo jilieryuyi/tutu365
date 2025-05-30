@@ -8,7 +8,7 @@
 11275、_russian_Кэшлс_Андерсон Гэйвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68c665f91a236869ab1a9d928a4cab21

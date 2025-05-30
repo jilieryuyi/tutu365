@@ -8,7 +8,7 @@
 6035、_russian_Под горой Гедимина_Тайц Яков Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb98ca39588eeafce1d4e1501718b9af

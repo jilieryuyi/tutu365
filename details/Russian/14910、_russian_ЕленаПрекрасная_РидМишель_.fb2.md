@@ -8,7 +8,7 @@
 14910、_russian_Елена Прекрасная_Рид Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b95569a85a75fc137ea925424c82450

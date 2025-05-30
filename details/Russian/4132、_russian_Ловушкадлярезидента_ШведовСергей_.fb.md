@@ -8,7 +8,7 @@
 4132、_russian_Ловушка для резидента_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3447f046a47c0a8ac6c5358cefb9ef4

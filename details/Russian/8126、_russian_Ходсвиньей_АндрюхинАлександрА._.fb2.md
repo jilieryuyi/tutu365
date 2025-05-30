@@ -8,7 +8,7 @@
 8126、_russian_Ход свиньей_Андрюхин Александр А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f354c749cf84d77f3a43d10f698fab02

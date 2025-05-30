@@ -8,7 +8,7 @@
 11605、_russian_Исправление повесы_Джордж Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb3c24b6fef545f805df2f170040e022

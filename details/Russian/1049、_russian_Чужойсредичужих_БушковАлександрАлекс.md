@@ -8,7 +8,7 @@
 1049、_russian_Чужой среди чужих_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b52f25439af3f83c833c70258fd470ac

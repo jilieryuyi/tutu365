@@ -8,7 +8,7 @@
 5309、_russian__Дрион_ покидает Землю_Ломм Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 925e6bb91a7b93bdae089dea9c5fa587

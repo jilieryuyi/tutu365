@@ -8,7 +8,7 @@
 6558、_russian_Супермен_Псурцев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ba448957c6c943873e0af0423f74820

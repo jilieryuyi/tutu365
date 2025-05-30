@@ -8,7 +8,7 @@
 10066、_russian_Пощечина_Билль-Белоцерковский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a1c67f71a1b4f53e9f0d2e0a788e94a

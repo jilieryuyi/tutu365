@@ -8,7 +8,7 @@
 13317、_russian_Сон о Кабуле_Проханов Александр Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2b0b70c6296a020ad2ee023ab540139

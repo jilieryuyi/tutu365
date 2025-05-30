@@ -8,7 +8,7 @@
 11797、_russian_Кто смеется последним_Хорнунг Эрнест Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f70d67d358732882f8aea9c38440dfec

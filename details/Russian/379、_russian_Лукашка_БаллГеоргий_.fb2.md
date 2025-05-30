@@ -8,7 +8,7 @@
 379、_russian_Лукашка_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dd188dcd5d2e2da1a703637d3a6ff0a

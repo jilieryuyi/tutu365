@@ -8,7 +8,7 @@
 8263、_russian_Лила. Игра самопознания_Джохари Хариш_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 904b2dee0ffc800cc7dc67421b2d5bc0

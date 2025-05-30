@@ -8,7 +8,7 @@
 11739、_russian_Соблазнительная лгунья_Кларк Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ddf132566f274bcfd8f258d42c6e85e

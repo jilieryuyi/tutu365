@@ -8,7 +8,7 @@
 10121、_russian_Коробка шоколада_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69b589489a1d18f1dd577faefc7f85e1

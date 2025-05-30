@@ -8,7 +8,7 @@
 大师和玛格丽特(译文名著精选)_米·布尔加科夫 (M.Bulgakov)__5476266_da4557b3a12990852d5dde5737a72914.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 da4557b3a12990852d5dde5737a72914

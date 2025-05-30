@@ -8,7 +8,7 @@
 4658、_russian_Люди как люди (сборник)_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33d5866d4403c6b6dc16a5fa382f80b8

@@ -8,7 +8,7 @@
 4531、_russian_Пыл невинности_Бонандер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87b02b0ecb8b6462d0fd4d3b0be95f05

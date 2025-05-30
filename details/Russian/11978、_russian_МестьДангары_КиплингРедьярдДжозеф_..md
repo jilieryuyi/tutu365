@@ -8,7 +8,7 @@
 11978、_russian_Месть Дангары_Киплинг Редьярд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aee4dfe21f41b56af864ddda404ab480

@@ -8,7 +8,7 @@
 5753、_russian_Любовь и триумф_Хэган Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a64adf8d65ee42e8d5eb99c03de677c6

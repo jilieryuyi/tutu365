@@ -8,7 +8,7 @@
 15205、_russian_Информация об НЛО - средство подрыва авторитета СМИ_Андреев Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07bc2b6f1424d5f56bacb0f2687ebc0d

@@ -8,7 +8,7 @@
 4657、_russian_Хитник_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06893780d072dc00a0845f51af6689ee

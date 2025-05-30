@@ -8,7 +8,7 @@
 12261、_russian_Король моря_Медведев Иван Анатольевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3aa90fe58f964e87f6755e75f7b9855

@@ -8,7 +8,7 @@
 15104、_russian_Сыщик ошибается только раз_Макеев Алексей, Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70ffb28e2c3f4bc57b8b221ed7a6dfb2

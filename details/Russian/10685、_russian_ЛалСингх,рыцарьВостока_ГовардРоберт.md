@@ -8,7 +8,7 @@
 10685、_russian_Лал Сингх, рыцарь Востока_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 652042baa0e105bb7d61fce40c874f9e

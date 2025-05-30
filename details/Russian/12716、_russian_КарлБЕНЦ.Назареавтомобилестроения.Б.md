@@ -8,7 +8,7 @@
 12716、_russian_Карл БЕНЦ. На заре автомобилестроения. Биография__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94115c72c531bf20209b65fd4557cd6d

@@ -8,7 +8,7 @@
 11551、_russian_От медицины к медитации_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebfedd853284fbb205ddcb8356b57e69

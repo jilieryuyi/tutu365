@@ -8,7 +8,7 @@
 2655、_russian_Подстелить соломы_Ахметов Спартак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e43849e79a60bab7eaf4da1c3f4718f

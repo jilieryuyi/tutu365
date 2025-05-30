@@ -8,7 +8,7 @@
 1868、_english_A Scot's Devotion_Sky Purington_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ff9be9376d651044297cf064ae6bc927

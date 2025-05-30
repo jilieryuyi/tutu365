@@ -8,7 +8,7 @@
 3522、_russian_Рассказы_Лохвицкая Надежда Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4834537daef44414a3c4a7296af13baa

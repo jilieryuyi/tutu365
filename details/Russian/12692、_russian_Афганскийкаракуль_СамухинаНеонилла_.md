@@ -8,7 +8,7 @@
 12692、_russian_Афганский каракуль_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68b3a8014482e46319a546afdbdb884c

@@ -8,7 +8,7 @@
 6858、_russian_Theatrum philosophicum_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33ef7ec6025eabf8fd1d2c4889936b78

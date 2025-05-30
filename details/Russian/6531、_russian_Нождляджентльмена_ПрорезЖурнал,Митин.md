@@ -8,7 +8,7 @@
 6531、_russian_Нож для джентльмена_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e89f0dbdd7bd6482c0a9661d445b53cd

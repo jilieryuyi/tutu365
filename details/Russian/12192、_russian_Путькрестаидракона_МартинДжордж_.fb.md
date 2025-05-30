@@ -8,7 +8,7 @@
 12192、_russian_Путь креста и дракона_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4057e4fe6da9d79ec84ae88c8673122

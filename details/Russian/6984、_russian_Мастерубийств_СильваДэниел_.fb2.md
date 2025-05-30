@@ -8,7 +8,7 @@
 6984、_russian_Мастер убийств_Сильва Дэниел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5dbf998d29ccd4fb1f443545c7ca49f9

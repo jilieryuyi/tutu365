@@ -8,7 +8,7 @@
 12849、_russian_Трус_Гаршин Всеволод Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5f143a8f14a7f065b36cbeb348eb1ac

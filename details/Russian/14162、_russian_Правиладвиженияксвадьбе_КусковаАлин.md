@@ -8,7 +8,7 @@
 14162、_russian_Правила движения к свадьбе_Кускова Алина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7f8fbadfcf9acbb4b7fa8e41b9a56c7

@@ -8,7 +8,7 @@
 8092、_russian_Духовный поиск_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4d66bddb206fcf2f44c7ab72af7ba98

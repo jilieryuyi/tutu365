@@ -8,7 +8,7 @@
 5606、_russian_Карл Людвиг Занд_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7e85ccf6b709e299a710c62adf087c4

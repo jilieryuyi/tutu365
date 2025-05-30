@@ -8,7 +8,7 @@
 7476、_russian_Игра без правил_Эдвардс Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92f19067980307c6e96d567f7e376aca

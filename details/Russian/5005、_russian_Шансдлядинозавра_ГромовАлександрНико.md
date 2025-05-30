@@ -8,7 +8,7 @@
 5005、_russian_Шанс для динозавра_Громов Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75f68ee7398f3f2d18e54475e2bff14d

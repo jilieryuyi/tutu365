@@ -8,7 +8,7 @@
 15012、_english_Terminal Freeze_Child Lincoln_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 86b5f9c979c8cf1a1f062058117a4225

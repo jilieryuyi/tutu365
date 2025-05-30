@@ -8,7 +8,7 @@
 6485、_russian_Антон и антоновка_Тайц Яков Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f9512731e7a3e7b4e86be850a023365

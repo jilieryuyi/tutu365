@@ -8,7 +8,7 @@
 5571、_russian_В XXIX веке_Верн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f3be7ca8e5a9eaec5354cd9ddb2701a

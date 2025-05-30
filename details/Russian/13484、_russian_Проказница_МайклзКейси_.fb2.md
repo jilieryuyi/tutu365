@@ -8,7 +8,7 @@
 13484、_russian_Проказница_Майклз Кейси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b9f8b180b012ad33e59f5fe53860c77

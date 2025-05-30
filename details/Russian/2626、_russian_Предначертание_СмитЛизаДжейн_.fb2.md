@@ -8,7 +8,7 @@
 2626、_russian_Предначертание_Смит Лиза Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76fee1a6d0303775c31debf9912a08c8

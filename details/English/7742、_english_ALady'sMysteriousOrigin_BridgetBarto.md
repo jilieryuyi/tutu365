@@ -8,7 +8,7 @@
 7742、_english_A Lady's Mysterious Origin_Bridget Barton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9b48bb3a4b15128f307f66750b2e8eff

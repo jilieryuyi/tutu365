@@ -8,7 +8,7 @@
 耶穌基督：新約基督學論文（This Man Jesus_ An Essay Toward a New Testament Christology）_華德 Bruce Vawter_香港公教真理學會_5370210_9c53cd712d814e9fee21c4da8c4aa581.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9c53cd712d814e9fee21c4da8c4aa581

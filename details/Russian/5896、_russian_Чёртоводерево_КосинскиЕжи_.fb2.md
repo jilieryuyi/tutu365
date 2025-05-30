@@ -8,7 +8,7 @@
 5896、_russian_Чёртово дерево_Косински Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e20de7afc383300b127b9af7bb10541

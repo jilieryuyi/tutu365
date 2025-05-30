@@ -8,7 +8,7 @@
 11763、_russian_Ветеран_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbb6f28b26ce38edddefc8046a244e29

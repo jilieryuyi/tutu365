@@ -8,7 +8,7 @@
 8838、__Manuel d'_pigraphie Akkadienne_Labat _.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 eecc7adae70de5448f2b95ecf1480fa4

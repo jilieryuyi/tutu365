@@ -8,7 +8,7 @@
 1331、选择卓越（精编图文版）_Jim Collins && Morten T. Hansen_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8ed733888e91f465e2f439d487f267cb

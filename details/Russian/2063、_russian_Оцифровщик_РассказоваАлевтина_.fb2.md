@@ -8,7 +8,7 @@
 2063、_russian_Оцифровщик_Рассказова Алевтина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac15acbc75e05e34be92c6ca9edd182c

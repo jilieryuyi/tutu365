@@ -8,7 +8,7 @@
 12161、_russian_Луна мясника_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 690261fa289a4de59bd38a1960af87ea

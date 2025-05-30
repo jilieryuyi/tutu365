@@ -8,7 +8,7 @@
 刻意练习：如何从新手到大师_安德斯·艾利克森（Anders Ericsson） & 罗伯特·普尔（Robert Pool） [Ericsson）, 安德斯·艾利克森（Anders & Pool）, 罗伯特·普尔（Robert]__5473173_bdbae7267053e11f5451b255620159ed.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bdbae7267053e11f5451b255620159ed

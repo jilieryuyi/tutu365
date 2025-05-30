@@ -8,7 +8,7 @@
 3813、_russian_Странный человек_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c07725dc37c2ffb7bc98d87a0fa3009e

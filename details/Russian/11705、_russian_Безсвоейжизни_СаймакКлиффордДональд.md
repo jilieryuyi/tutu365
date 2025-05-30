@@ -8,7 +8,7 @@
 11705、_russian_Без своей жизни_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db5c6c012278b8681d36066ff37d2325

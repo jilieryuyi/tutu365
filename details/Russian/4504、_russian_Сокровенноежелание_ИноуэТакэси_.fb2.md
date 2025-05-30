@@ -8,7 +8,7 @@
 4504、_russian_Сокровенное желание_Иноуэ Такэси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f7d0c57ed9be660f4f0302ef2868075

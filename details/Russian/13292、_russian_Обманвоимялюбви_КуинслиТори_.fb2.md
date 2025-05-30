@@ -8,7 +8,7 @@
 13292、_russian_Обман во имя любви_Куинсли Тори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66b06583a8e93fb4a55f62542cd31ca7

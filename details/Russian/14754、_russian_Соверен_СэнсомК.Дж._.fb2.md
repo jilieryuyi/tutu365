@@ -8,7 +8,7 @@
 14754、_russian_Соверен_Сэнсом К. Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9d6d5404dc8e184f3d0bc48efd9bc76

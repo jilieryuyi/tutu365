@@ -8,7 +8,7 @@
 12477、_russian_Через тернии_Мур Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4504457aaa4931758cca610d6585e81

@@ -8,7 +8,7 @@
 【中医】太素珍本a.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4dda88dce83d6723c51c139c3fc51769

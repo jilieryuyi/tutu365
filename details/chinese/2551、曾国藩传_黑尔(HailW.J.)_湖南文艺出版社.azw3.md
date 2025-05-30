@@ -8,7 +8,7 @@
 2551、曾国藩传_黑尔 (Hail W.J.)_湖南文艺出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d295b6de5594b1b232b38a0245deb8c3

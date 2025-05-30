@@ -8,7 +8,7 @@
 7598、_russian_Невообразимое будущее_Кригер Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ef6b9cddce174edf02fda8be229d8e8

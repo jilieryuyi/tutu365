@@ -8,7 +8,7 @@
 670、_russian_Письма, несущие смерть_Литтл Бентли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f0fee572df24ce223d2792697f5cbb5

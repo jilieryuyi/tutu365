@@ -8,7 +8,7 @@
 12298、_russian_Вплоть до последнего мертвеца_Тенн Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50426caf1338d805d4de37e5151c3e02

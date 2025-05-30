@@ -8,7 +8,7 @@
 2245、_english_Wicked_Susan Johnson_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 837fa0c44cca5fe6daf711ca4a6e6405

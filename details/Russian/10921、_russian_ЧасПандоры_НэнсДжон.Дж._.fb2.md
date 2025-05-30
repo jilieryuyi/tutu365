@@ -8,7 +8,7 @@
 10921、_russian_Час Пандоры_Нэнс Джон. Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41b6aa029c799b35f9b82a3c7bad02f8

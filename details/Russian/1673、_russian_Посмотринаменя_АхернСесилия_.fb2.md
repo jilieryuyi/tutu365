@@ -8,7 +8,7 @@
 1673、_russian_Посмотри на меня_Ахерн Сесилия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c126de0a9de83a1c8b6178dd7ecb9b08

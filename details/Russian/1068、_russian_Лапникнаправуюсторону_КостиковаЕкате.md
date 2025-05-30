@@ -8,7 +8,7 @@
 1068、_russian_Лапник на правую сторону_Костикова Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fe5452f3ed2777e570bd0b0a97b472b

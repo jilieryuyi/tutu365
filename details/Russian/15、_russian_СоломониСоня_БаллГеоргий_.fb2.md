@@ -8,7 +8,7 @@
 15、_russian_Соломон и Соня_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11823e08cf8851812a998bfc5dcc214c

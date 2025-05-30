@@ -8,7 +8,7 @@
 2024、HTML5秘籍 (图灵程序设计丛书 19)_Matthew MacDonald_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6a5b3d2cdf1b51a677181043b146575e

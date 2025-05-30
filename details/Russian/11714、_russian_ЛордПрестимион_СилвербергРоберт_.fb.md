@@ -8,7 +8,7 @@
 11714、_russian_Лорд Престимион_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be0dc7da23b5285daaf4f330f123a477

@@ -8,7 +8,7 @@
 13397、_russian_Попутчики_Ли Танит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec06e2bef809990d48191ef384cf04a9

@@ -8,7 +8,7 @@
 8195、_russian_История Антисемитизма. Эпоха Веры._Поляков Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a478fd339ef1bae45955819139b0c10

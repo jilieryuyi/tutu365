@@ -8,7 +8,7 @@
 14775、_russian_Заклинание любви_Берристер Инга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 971de958dcdaa0f88b2c25a3f0624c21

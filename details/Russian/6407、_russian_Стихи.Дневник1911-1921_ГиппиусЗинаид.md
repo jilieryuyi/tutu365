@@ -8,7 +8,7 @@
 6407、_russian_Стихи. Дневник 1911-1921_Гиппиус Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fdc09dbc35ed67e07ef9709b3579dfe

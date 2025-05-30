@@ -8,7 +8,7 @@
 13279、_russian_Волшебный напиток_Энде Михаэль Андреас Гельмут_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6aac78f226f4a32e1c6972378020962

@@ -8,7 +8,7 @@
 13434、_russian_Мусорное вторжение_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61cb7e512fd0cb4fe318866dbb3d263b

@@ -8,7 +8,7 @@
 3141、_russian_Сын по контракту_Сомов Кирилл Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec637ad9a44b81d49ffc7f13c7165879

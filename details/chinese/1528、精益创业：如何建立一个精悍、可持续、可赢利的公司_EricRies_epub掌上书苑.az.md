@@ -8,7 +8,7 @@
 1528、精益创业：如何建立一个精悍、可持续、可赢利的公司_Eric Ries_epub掌上书苑.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2b149490b570c87459e819d0ab672696

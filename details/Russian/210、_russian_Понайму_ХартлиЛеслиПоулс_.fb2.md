@@ -8,7 +8,7 @@
 210、_russian_По найму_Хартли Лесли Поулс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9320e015872efd3266af22cb3293e720

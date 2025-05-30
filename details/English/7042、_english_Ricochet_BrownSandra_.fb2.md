@@ -8,7 +8,7 @@
 7042、_english_Ricochet_Brown Sandra_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1bff71710cc6b8c4cc5eee68a2a11f7f

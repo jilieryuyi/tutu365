@@ -8,7 +8,7 @@
 12349、_russian_Опасная игра_Миллз Анита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 214c1a4198c3348a6756d29475c6f0f5

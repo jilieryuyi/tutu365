@@ -8,7 +8,7 @@
 从零开始学电路仿真Multisim与电路设计Protel技术_李建清__5530414_d97cf440acb6e935cc0034b4cef5a337.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d97cf440acb6e935cc0034b4cef5a337

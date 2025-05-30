@@ -8,7 +8,7 @@
 14663、_russian_Мой милый ангел_Лоуренс Кэти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9704076fb6a2f0d1bf91b801dd659d29

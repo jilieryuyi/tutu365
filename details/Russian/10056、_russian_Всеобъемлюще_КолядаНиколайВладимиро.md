@@ -8,7 +8,7 @@
 10056、_russian_Всеобъемлюще_Коляда Николай Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 094a33084940e271c9d46f5f082ea713

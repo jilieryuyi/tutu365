@@ -8,7 +8,7 @@
 10817、_russian_Светлый праздник_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06ed2d8ca750e94ad9546cfe65db9882

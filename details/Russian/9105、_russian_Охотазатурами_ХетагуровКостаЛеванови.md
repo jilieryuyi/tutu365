@@ -8,7 +8,7 @@
 9105、_russian_Охота за турами_Хетагуров Коста Леванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86a5191c0410dbecce7f8e3a8ec1880b

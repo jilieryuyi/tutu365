@@ -8,7 +8,7 @@
 国际货币基金组织2017年年报 - 促进包容性增长_International Monetary Fund_International Monetary Fund_5487597_6a472762f3c09a6fa028213027315a62.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6a472762f3c09a6fa028213027315a62

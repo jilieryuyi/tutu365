@@ -8,7 +8,7 @@
 showModelessDialog使用详解.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 785e17217e5f5fc63baef63d3aef88a0

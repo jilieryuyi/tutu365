@@ -8,7 +8,7 @@
 12256、_russian_Точки и линии_Мацумото Сэйте_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e4625e1858d43e91989669b736ad0c8

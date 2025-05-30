@@ -8,7 +8,7 @@
 10336、_russian_Ангелы крови_Макаренков Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 164fecf7501bf7f8045f884d59b22fb3

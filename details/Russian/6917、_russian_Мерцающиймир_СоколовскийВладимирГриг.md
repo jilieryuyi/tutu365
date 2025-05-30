@@ -8,7 +8,7 @@
 6917、_russian_Мерцающий мир_Соколовский Владимир Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e38f0c15904eda4617c17db9b4feb66

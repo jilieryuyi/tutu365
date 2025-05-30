@@ -8,7 +8,7 @@
 6273、_russian_Грудь четвертого человека_Рахлин Феликс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f9470439e53eaf4847c1bf65273ea35

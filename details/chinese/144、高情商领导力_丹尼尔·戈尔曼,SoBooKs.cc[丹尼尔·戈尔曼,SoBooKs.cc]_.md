@@ -8,7 +8,7 @@
 144、高情商领导力_丹尼尔·戈尔曼, SoBooKs.cc [丹尼尔·戈尔曼, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cf9e25650810355b62ead9aafb26bde9

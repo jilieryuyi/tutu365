@@ -8,7 +8,7 @@
 13928、_russian_Распятая плоть [= Кинжал из плоти, Плоть как кинжал]_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce6cbebf40ea71345093d34c03cc99b1

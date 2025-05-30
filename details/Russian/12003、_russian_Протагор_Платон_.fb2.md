@@ -8,7 +8,7 @@
 12003、_russian_Протагор_Платон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de2185b0e0f30d8ad1348d0cc876290a

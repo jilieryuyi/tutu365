@@ -8,7 +8,7 @@
 334、算法_Robert Sedgewick _ Kevin Wayne_人民邮电出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ad230800fc8dc85ce43027e948ab1be1

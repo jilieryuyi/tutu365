@@ -8,7 +8,7 @@
 6121、_english_Lucky’s Lady_Hoag Tami_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ad1d6df97d173a8e387faba3d7f550fc

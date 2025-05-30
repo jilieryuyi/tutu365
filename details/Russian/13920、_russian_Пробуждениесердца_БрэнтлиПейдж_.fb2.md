@@ -8,7 +8,7 @@
 13920、_russian_Пробуждение сердца_Брэнтли Пейдж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae4c5d36d1ce0cfb890bb8fb466d3edc

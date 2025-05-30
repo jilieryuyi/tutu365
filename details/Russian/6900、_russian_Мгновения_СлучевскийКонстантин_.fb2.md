@@ -8,7 +8,7 @@
 6900、_russian_Мгновения_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce6f5ff365e1056e673e89734f939788

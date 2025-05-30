@@ -8,7 +8,7 @@
 12766、_russian_Непознанное, отвергнутое или сокрытое_Царева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a1baab45bd4dc70aba6cf528328bd45

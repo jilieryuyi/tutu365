@@ -8,7 +8,7 @@
 3834、_ukrainian__Петро Голубничий__Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e689b376d34d0cc3df7b4c65a45d4787

@@ -8,7 +8,7 @@
 7328、_russian_Грезящий город _ The Dreaming City [= Падение Имррира, Гибель Призрачного города, Гибель Имррира]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e889068f342115e4e6e9b04feee6439

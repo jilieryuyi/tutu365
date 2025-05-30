@@ -8,7 +8,7 @@
 7253、_russian_Мисс Прайс и волшебные каникулы_Нортон Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 817aa78c2a01d99ddc8e09c4bbafca37

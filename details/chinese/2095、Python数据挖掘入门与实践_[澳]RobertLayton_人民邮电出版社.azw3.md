@@ -8,7 +8,7 @@
 2095、Python数据挖掘入门与实践_[澳] Robert Layton_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cb522995ed4893784d06ec0df898bfb8

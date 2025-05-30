@@ -8,7 +8,7 @@
 403、_russian_Светильник Божий_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ef58f5e9e63c1da3eaefe075b456289

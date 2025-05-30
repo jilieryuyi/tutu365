@@ -8,7 +8,7 @@
 12112、_russian_Тайные убийцы_Уилсон Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a696bb4afb5d415cab98cd43f725174

@@ -8,7 +8,7 @@
 800、_russian_Том 2. Стихотворения (Маленькие поэмы)_Есенин Сергей Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47241f3ef2b194b519e5b4a4edade82a

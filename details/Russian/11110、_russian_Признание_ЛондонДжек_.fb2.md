@@ -8,7 +8,7 @@
 11110、_russian_Признание_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 611f0aefc83590ecd2f3b39fa003ef12

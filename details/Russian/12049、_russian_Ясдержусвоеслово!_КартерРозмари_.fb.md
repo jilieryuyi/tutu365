@@ -8,7 +8,7 @@
 12049、_russian_Я сдержу свое слово!_Картер Розмари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79a72c9ed4190f8f0d33ac63b59c83fc

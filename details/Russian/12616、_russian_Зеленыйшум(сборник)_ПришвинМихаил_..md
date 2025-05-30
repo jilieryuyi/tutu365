@@ -8,7 +8,7 @@
 12616、_russian_Зеленый шум (сборник)_Пришвин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 320820fee7e2e99b843f8ed66c6b25ff

@@ -8,7 +8,7 @@
 2016、_russian_СКАРАМУШ_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6fa0ec869e3e6fe1f90ffff7ab74359

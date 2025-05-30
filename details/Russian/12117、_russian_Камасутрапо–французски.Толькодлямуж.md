@@ -8,7 +8,7 @@
 12117、_russian_Камасутра по–французски. Только для мужчин_Гато Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 569fe3d972955a5ba5a0ee2f4eff1c2f

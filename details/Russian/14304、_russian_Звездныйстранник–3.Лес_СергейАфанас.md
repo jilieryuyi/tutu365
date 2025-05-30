@@ -8,7 +8,7 @@
 14304、_russian_Звездный странник – 3. Лес_Сергей Афанасьев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 994e227153976dd318a3802eb1a3dbc3

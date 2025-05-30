@@ -8,7 +8,7 @@
 2033、_russian_Исчезновение ученого_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4787aedd6d86cdc65ee9151fb0ee1b28

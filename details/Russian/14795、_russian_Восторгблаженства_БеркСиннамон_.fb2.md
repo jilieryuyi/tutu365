@@ -8,7 +8,7 @@
 14795、_russian_Восторг блаженства_Берк Синнамон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e9525e9fd324dc8d5571d5194139f77

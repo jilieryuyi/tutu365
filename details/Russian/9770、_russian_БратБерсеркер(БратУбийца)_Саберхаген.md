@@ -8,7 +8,7 @@
 9770、_russian_Брат Берсеркер (Брат Убийца)_Саберхаген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 851bfc8b66e8e7715c949acc77064ddb

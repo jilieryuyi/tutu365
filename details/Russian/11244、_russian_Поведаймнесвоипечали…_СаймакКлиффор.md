@@ -8,7 +8,7 @@
 11244、_russian_Поведай мне свои печали…_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39b30bbfa18e7fea5ec8dcab77034ff6

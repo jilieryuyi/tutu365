@@ -8,7 +8,7 @@
 5906、_russian_Навеки твой_Хокинс Карен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ecb2475911ced8706533e904af46369

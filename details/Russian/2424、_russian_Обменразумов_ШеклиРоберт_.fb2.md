@@ -8,7 +8,7 @@
 2424、_russian_Обмен разумов_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79efb3980475c826977398f51809d3d7

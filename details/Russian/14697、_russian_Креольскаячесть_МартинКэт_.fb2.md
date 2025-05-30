@@ -8,7 +8,7 @@
 14697、_russian_Креольская честь_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52cc1a121822e6d24bc8443f96c2ba2a

@@ -8,7 +8,7 @@
 2043、Java程序员修炼之道 (图灵程序设计丛书 79)_[英]Benjamin J. Evans [荷兰]Martijn Verburg_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 19389bcb5b26a5a4cb115ed551bde6e7

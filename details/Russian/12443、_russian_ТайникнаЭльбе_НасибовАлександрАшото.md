@@ -8,7 +8,7 @@
 12443、_russian_Тайник на Эльбе_Насибов Александр Ашотович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 087d852a9e8ba20bdd4ac30eee229e2c

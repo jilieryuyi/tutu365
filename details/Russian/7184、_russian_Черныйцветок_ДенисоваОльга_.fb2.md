@@ -8,7 +8,7 @@
 7184、_russian_Черный цветок_Денисова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb33ee1b15a509af5fbc0aa10129826d

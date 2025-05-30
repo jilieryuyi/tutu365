@@ -8,7 +8,7 @@
 7887、_russian_Книга для внучек_Аллилуева Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 882843be4072ba31949ae6cdea13dbb3

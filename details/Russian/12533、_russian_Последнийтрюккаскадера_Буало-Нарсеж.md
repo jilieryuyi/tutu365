@@ -8,7 +8,7 @@
 12533、_russian_Последний трюк каскадера_Буало-Нарсежак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce639821f2ef87bb472e273215596b4e

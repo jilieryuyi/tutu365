@@ -8,7 +8,7 @@
 2121、_russian_Верхом на бомбе_Никонов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8af87c80fe9da0127de77a723c8882e5

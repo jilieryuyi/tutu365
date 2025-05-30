@@ -8,7 +8,7 @@
 [古典音乐一本通][长江文艺出版社][PDF电子版].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f30bec81488bb36f8d9710b20dcac7da

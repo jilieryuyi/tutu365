@@ -8,7 +8,7 @@
 1983、Backbone.js入门实战：WEB端MVC框架开发单页应用实战 (原创电子书)_the5fire 著_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2edd3d5efa7a983fb95e1c51a9ea8ebc

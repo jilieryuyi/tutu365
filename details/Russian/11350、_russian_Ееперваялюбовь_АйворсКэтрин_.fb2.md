@@ -8,7 +8,7 @@
 11350、_russian_Ее первая любовь_Айворс Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd37ebdea91b132b2ac0db55483afbd1

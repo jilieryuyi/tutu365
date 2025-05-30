@@ -8,7 +8,7 @@
 1852、国学常识 国学经典 国学精粹一本通_Publisher           _ 中国华侨出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9cc45ff5beffd5499a993e5bc612e992

@@ -8,7 +8,7 @@
 10726、_russian_Шестое чувство Ридера_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da83e25bf1b96749a1fb697396c6dac7

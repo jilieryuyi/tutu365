@@ -8,7 +8,7 @@
 7832、_russian_Тени ниндзя_Витковский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0a48ce7402d0b7cba5a78414cdc0d88

@@ -8,7 +8,7 @@
 14830、_russian_Cталин после войны. 1945 -1953 годы_А.Б. Мартиросян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7efc41fb23d7eae059bffd798a264c9d

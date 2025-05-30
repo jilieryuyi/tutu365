@@ -8,7 +8,7 @@
 1141、_english_Whispering Nickel Idols_Cook Glen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5ae6f9710b613655c3b7ae945932ce40

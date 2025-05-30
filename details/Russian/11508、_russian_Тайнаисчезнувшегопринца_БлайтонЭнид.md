@@ -8,7 +8,7 @@
 11508、_russian_Тайна исчезнувшего принца_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e6833760a1e14d96c76a5752c9e3ebb

@@ -8,7 +8,7 @@
 4851、_russian_Принцессы огненного мира_Алексеева Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a73213d5d1e36a4eafbb47eef1891308

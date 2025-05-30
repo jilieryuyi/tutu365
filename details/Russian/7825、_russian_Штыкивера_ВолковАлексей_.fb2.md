@@ -8,7 +8,7 @@
 7825、_russian_Штык и вера_Волков Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08f6da5c0d6dee3057971893e6d5826b

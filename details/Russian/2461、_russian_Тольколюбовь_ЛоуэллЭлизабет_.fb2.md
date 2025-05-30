@@ -8,7 +8,7 @@
 2461、_russian_Только любовь_Лоуэлл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0bd4a1ef57539e4fa9ea8ab745d2d00

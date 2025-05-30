@@ -8,7 +8,7 @@
 298、_russian_Террорист по прозвищу Капитан Свобода_Абердин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f9ed7e94cbc2c374fde73a9d12efa80

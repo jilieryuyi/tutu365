@@ -8,7 +8,7 @@
 1289、_english_Lucky's Beach_Shelley Noble _HarperCollins.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ee60ad53ac179e70fcd102c6cc0d8c7e

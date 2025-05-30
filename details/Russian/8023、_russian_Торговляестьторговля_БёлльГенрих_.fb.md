@@ -8,7 +8,7 @@
 8023、_russian_Торговля есть торговля_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28ac3d6959dc18fb99320f9bde113c1e

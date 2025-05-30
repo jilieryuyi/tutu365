@@ -8,7 +8,7 @@
 14440、_russian_Пыльные глаза_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 969cf289af731fe5230663eb115ad821

@@ -8,7 +8,7 @@
 767、_russian_Часы_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69c2deb50e7b5f04d929de7d7dd7eeb5

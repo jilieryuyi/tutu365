@@ -8,7 +8,7 @@
 5405、_russian_Крылья Судьбы_Тихомиров Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7f16e8300281035e596f46a35d2b175

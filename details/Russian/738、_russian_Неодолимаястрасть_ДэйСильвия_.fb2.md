@@ -8,7 +8,7 @@
 738、_russian_Неодолимая страсть_Дэй Сильвия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14989a56b0f4e234e2337c39b5d58f3c

@@ -8,7 +8,7 @@
 2406、_russian_Старший и младший__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 713c57f56acb60bce317111e3e28287e

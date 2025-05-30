@@ -8,7 +8,7 @@
 12960、_russian_Один год_Герман Юрий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56a210c8ba75b86dd246dd44e18a83ef

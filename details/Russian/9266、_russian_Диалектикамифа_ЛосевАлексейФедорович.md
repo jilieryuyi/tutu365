@@ -8,7 +8,7 @@
 9266、_russian_Диалектика мифа_Лосев Алексей Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60aa71ec78537e589fbb7073b752af27

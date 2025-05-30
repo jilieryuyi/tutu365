@@ -8,7 +8,7 @@
 7950、_russian_Туннель_Сабато Эрнесто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d664f82c428e5c8fba68949867bd233d

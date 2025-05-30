@@ -8,7 +8,7 @@
 1306、_russian_Приключения Шуры и Маруси_Шварц Евгений Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be0c146fe298a9693a004e13914b9046

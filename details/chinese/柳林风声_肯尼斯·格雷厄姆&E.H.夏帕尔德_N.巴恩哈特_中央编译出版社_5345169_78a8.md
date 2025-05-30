@@ -8,7 +8,7 @@
 柳林风声_肯尼斯·格雷厄姆 & E.H.夏帕尔德_N.巴恩哈特_中央编译出版社_5345169_78a8bd4269c9260bc4ac4978e293ab18.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 78a8bd4269c9260bc4ac4978e293ab18

@@ -8,7 +8,7 @@
 3744、_russian_Диснейленд_Дыгат Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 829b2c2cb3e75dc9e9fdc6534c87d260

@@ -8,7 +8,7 @@
 10775、_russian_Бомба сапиенс_Грин Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5272c6b26364ca70edd04afc891d6cea

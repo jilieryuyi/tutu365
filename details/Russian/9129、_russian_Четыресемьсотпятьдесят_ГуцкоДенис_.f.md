@@ -8,7 +8,7 @@
 9129、_russian_Четыре семьсот пятьдесят_Гуцко Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00be6de764c3e24d8b3f5fcff740eabd

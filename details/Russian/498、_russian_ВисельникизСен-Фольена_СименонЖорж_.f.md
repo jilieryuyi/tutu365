@@ -8,7 +8,7 @@
 498、_russian_Висельник из Сен-Фольена_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f72362e7513aa924c86e95462e2b2a1

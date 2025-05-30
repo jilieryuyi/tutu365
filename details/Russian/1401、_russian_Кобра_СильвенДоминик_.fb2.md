@@ -8,7 +8,7 @@
 1401、_russian_Кобра_Сильвен Доминик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b5b143b5f21ed169fcc33438ab1f52d

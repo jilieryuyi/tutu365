@@ -8,7 +8,7 @@
 13992、_russian_Ветер военных лет_Бакланов Глеб Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 907df3fb52ffc277f3af0544bc3becbe

@@ -8,7 +8,7 @@
 12668、_russian_Случай в Мисчиф-Крик_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2477630213a29331dd4101f3eb5cb45

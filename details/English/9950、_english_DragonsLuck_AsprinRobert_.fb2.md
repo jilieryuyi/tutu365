@@ -8,7 +8,7 @@
 9950、_english_Dragons Luck_Asprin Robert_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4bcd2d914d5717a14e19c162c67a88a7

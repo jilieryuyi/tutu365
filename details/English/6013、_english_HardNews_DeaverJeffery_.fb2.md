@@ -8,7 +8,7 @@
 6013、_english_Hard News_Deaver Jeffery_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5c700047b87eb8fe649d77c00f2e8191

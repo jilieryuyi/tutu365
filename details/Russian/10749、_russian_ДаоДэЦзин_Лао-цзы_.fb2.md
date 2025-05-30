@@ -8,7 +8,7 @@
 10749、_russian_Дао Дэ Цзин_Лао-цзы_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 768a7800657eed193ad1d17210767e2b

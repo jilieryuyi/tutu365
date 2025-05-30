@@ -8,7 +8,7 @@
 2006、Erlang_OTP并发编程实战 (图灵程序设计丛书 31)_Martin Logan & Eric Merritt & Richard Carlsson_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c6a7b931f9167f03c9f6f14c2ef08d8

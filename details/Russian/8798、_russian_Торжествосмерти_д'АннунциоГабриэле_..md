@@ -8,7 +8,7 @@
 8798、_russian_Торжество смерти_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17cc5845959d425e2a1c2dc4d9c3b151

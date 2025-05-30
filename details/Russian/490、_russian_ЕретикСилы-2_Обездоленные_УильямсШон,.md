@@ -8,7 +8,7 @@
 490、_russian_Еретик Силы-2_ Обездоленные_Уильямс Шон, Дикс Шейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81dc3895c6b346aaab535610e88c38f9

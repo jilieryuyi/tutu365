@@ -8,7 +8,7 @@
 7669、_russian_Восстань, Лазарь_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9947b4bb2a60a1ccd4699973cbb183e

@@ -8,7 +8,7 @@
 1545、_russian_Кровное родство. Книга первая_Конран Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12ae5604973290cce348ead1ca1197d4

@@ -8,7 +8,7 @@
 1916、_russian_Исповедь о материнской любви_Рассказова Алевтина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f06fa0e92810a05cacd0bd23b45972e

@@ -8,7 +8,7 @@
 12950、_russian_Железный тигр_Хиггинс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 131d14b6090a8126fa05263473f94e8b

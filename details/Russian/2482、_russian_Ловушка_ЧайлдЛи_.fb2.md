@@ -8,7 +8,7 @@
 2482、_russian_Ловушка_Чайлд Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2400c93482b0b052a64b9e69fe6a9dcd

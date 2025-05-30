@@ -8,7 +8,7 @@
 10686、_russian_Кулачный боец_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55b4c56925337a90b336666dad8026fc

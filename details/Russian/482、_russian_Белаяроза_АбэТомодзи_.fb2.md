@@ -8,7 +8,7 @@
 482、_russian_Белая роза_Абэ Томодзи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d70a61b44c30f68029dbc4c022612479

@@ -8,7 +8,7 @@
 11074、_russian_Звездные врата_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6dfda630d9e013172d784fd25dcfb42e

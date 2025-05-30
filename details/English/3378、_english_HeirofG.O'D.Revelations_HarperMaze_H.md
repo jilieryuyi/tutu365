@@ -8,7 +8,7 @@
 3378、_english_Heir of G.O'D. Revelations_Harper Maze _Harper Maze.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7cd60c7d91d322ab4044c12ed7389615

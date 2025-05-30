@@ -8,7 +8,7 @@
 3499、_other_Закрыва_ленае сонца_Акула Кастусь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d12fe4f739b763ed5b6a4ee6a72efc8

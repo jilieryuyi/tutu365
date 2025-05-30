@@ -8,7 +8,7 @@
 1833、揭秘美国医疗制度及其相关行业_赵强(John Q.Zhao)_东南大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 917be65eac041a109efedcc57a324fad

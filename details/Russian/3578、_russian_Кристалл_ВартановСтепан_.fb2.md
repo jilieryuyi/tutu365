@@ -8,7 +8,7 @@
 3578、_russian_Кристалл_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a95da61199e32c1c9b01711d304d73e

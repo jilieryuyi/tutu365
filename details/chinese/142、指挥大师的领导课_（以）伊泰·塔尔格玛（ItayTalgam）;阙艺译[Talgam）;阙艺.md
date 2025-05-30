@@ -8,7 +8,7 @@
 142、指挥大师的领导课_（以）伊泰·塔尔格玛（Itay Talgam）;阙艺译 [Talgam）;阙艺译, （以）伊泰·塔尔格玛（Itay]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6c1ad9b9ac67c17cb9feeda57b135cc5

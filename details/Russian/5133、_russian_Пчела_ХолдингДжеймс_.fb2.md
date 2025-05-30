@@ -8,7 +8,7 @@
 5133、_russian_Пчела_Холдинг Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b47d9da4ee5456d48e110cfa4a2dde1

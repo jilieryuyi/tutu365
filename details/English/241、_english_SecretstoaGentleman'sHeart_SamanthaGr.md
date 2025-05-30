@@ -8,7 +8,7 @@
 241、_english_Secrets to a Gentleman's Heart_Samantha Grace_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1cd6f289ce196dcec04ed260723663df

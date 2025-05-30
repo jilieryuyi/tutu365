@@ -8,7 +8,7 @@
 14250、_russian_Точка кипения_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c10c086eeb4195d2f0de61d4bbe38f87

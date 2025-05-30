@@ -8,7 +8,7 @@
 8045、_russian_О смерти и умирании_Кюблер-Росс Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2e9e391c2f656e63b72bfd44642c892

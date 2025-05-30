@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 皮肤病分册 (宋坪主编, 中华中医药学会, 中国标准化协会中医药标准化分会 etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f6629ee5f2f74c91a224e00932d91ecc

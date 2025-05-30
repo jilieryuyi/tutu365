@@ -8,7 +8,7 @@
 12697、_russian_Солнечный денек_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 704d5af7f8d1eb9f5c9ac9a79f5a439a

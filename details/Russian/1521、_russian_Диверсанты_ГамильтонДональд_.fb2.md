@@ -8,7 +8,7 @@
 1521、_russian_Диверсанты_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30ed5075c9ab50917ae9ac6296eab170

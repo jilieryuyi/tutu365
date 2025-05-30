@@ -8,7 +8,7 @@
 14703、_russian_Экзамен на верность_Нэпьер Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc871c8eb24350ca2e4bfe0e4c4d4fa7

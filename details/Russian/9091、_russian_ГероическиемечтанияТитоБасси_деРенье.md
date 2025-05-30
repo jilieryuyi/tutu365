@@ -8,7 +8,7 @@
 9091、_russian_Героические мечтания Тито Басси_де Ренье Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af9355449ebc3a29f6dfcb8b55f49d3d

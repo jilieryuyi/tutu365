@@ -8,7 +8,7 @@
 3181、_russian_Возвращение надежды_Торн Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96c9b3517ae22143dcbe2b4fdd56b4fa

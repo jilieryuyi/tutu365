@@ -8,7 +8,7 @@
 2903、_russian_Комар живет, пока поет_Попов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66eb7dc7701e6692dd62cd3d3ce1dc5b

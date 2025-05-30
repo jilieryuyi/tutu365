@@ -8,7 +8,7 @@
 6026、_russian_Поэт-милиционер_Каганов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c31c72e95ccdb7f0f0cd17536080dd26

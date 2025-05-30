@@ -8,7 +8,7 @@
 诺贝尔文学奖作品典藏书系_阿恩_(挪) B.比昂松__5476371_0611df2efbdafe7f7c04b0119801bcef.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0611df2efbdafe7f7c04b0119801bcef

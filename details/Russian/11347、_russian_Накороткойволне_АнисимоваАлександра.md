@@ -8,7 +8,7 @@
 11347、_russian_На короткой волне_Анисимова Александра Ивановна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef4a8c46a761e789e20945b367caca82

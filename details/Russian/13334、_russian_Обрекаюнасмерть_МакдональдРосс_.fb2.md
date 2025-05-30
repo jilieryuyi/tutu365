@@ -8,7 +8,7 @@
 13334、_russian_Обрекаю на смерть_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7479f580ab782abba18b3ef41a5823ed

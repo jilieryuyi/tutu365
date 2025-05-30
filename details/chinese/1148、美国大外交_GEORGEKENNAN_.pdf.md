@@ -8,7 +8,7 @@
 1148、美国大外交_GEORGE KENNAN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 43df669c51d56c1b48d58c2232703f1e

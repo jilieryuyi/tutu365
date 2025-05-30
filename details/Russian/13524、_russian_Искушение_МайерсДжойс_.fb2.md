@@ -8,7 +8,7 @@
 13524、_russian_Искушение_Майерс Джойс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa2df24f5e81c7ea72f0861d4caa294c

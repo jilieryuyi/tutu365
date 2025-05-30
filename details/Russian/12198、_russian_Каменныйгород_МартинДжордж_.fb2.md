@@ -8,7 +8,7 @@
 12198、_russian_Каменный город_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 459e530fd2ddee4c078a578a7b8abc07

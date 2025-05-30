@@ -8,7 +8,7 @@
 11496、_russian_Публицистика_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14da42905ae324399b500ac68f0f8343

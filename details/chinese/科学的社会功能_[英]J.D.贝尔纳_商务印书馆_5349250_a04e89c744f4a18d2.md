@@ -8,7 +8,7 @@
 科学的社会功能_[英]J.D.贝尔纳_商务印书馆_5349250_a04e89c744f4a18d2a463dfe92686711.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a04e89c744f4a18d2a463dfe92686711

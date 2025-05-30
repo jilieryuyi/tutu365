@@ -8,7 +8,7 @@
 1467、_russian_Гэбрил Сухарь_Данилов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cab38f858eb6ad997ed6e94b76f62474

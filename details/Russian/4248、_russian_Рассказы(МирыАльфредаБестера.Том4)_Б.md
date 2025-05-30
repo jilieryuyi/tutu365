@@ -8,7 +8,7 @@
 4248、_russian_Рассказы (Миры Альфреда Бестера. Том 4)_Бестер Альфред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c90b3df70a3c828c712f1a70b62291d

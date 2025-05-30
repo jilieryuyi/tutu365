@@ -8,7 +8,7 @@
 1591、国富论_[英国] 亚当·斯密(Adam Smith)_陕西师范大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 590003ec971763d1c6ce4554c5f666af

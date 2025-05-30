@@ -8,7 +8,7 @@
 13562、_russian_Полночные наслаждения_Джеймс Элоиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91e332088fa69c4da44c62ccda972ccf

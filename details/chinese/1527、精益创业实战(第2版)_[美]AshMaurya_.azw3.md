@@ -8,7 +8,7 @@
 1527、精益创业实战(第2版)_[美]Ash Maurya_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 22aa1b52fe9f644bdaa74b891cb90b06

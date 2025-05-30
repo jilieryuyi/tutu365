@@ -8,7 +8,7 @@
 刀劍神域 Progressive 1_川原 礫_台灣角川_5342267_8f87e5cfe25490dbc4ae32d1d8d18ae9.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8f87e5cfe25490dbc4ae32d1d8d18ae9

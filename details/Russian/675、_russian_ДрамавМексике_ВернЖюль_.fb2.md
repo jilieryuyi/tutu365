@@ -8,7 +8,7 @@
 675、_russian_Драма в Мексике_Верн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19c9f2757ea6784bc12937b34e8bf2a7

@@ -8,7 +8,7 @@
 4263、_russian_Инквизитор_Деревянко Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b28fbe3c23c6744ec042546c8a35ed7

@@ -8,7 +8,7 @@
 11571、_russian_Лестница на седьмое небо_Джордан Пенни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e1d4c658b268b78c04b7ce618c44104

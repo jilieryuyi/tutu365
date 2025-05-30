@@ -8,7 +8,7 @@
 1405、说谎者的扑克牌 (中信商业经典)_迈克尔·刘易斯 (Michael Lewis)_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2abab7ff9bc78d425031bba1df09cde0

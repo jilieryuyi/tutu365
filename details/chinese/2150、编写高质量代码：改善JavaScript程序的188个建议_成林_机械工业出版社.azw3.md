@@ -8,7 +8,7 @@
 2150、编写高质量代码：改善JavaScript程序的188个建议_成林_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c720ecaa7586216f222a7072b493bb97

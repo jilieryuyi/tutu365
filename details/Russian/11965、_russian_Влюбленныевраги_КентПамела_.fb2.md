@@ -8,7 +8,7 @@
 11965、_russian_Влюбленные враги_Кент Памела_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b48ef4ccbf252bee48744695b4e42921

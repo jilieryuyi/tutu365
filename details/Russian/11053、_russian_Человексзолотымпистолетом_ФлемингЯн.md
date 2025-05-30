@@ -8,7 +8,7 @@
 11053、_russian_Человек с золотым пистолетом_Флеминг Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ec770628fb80fd36ce48662ccedd596

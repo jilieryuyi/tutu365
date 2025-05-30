@@ -8,7 +8,7 @@
 15259、_russian_Мой прадедушка, герои и я_Крюс Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73c80740715cc997d4c420b5467b8374

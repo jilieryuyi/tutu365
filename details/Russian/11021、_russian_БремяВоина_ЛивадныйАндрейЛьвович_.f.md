@@ -8,7 +8,7 @@
 11021、_russian_Бремя Воина_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4b74e600b13dac23a484100c920057b

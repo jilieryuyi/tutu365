@@ -8,7 +8,7 @@
 14382、_russian_Дневник космонавта. Три жизни в космосе_Усачёв Юрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7927447ea527fa2edc22d3e61dda1ee6

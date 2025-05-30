@@ -8,7 +8,7 @@
 12232、_russian_Тайна_Томас Пенелопа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e605a82fa92e2716d5a76c3ae9ba6cd

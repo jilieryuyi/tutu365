@@ -8,7 +8,7 @@
 11363、_russian_Любовь и Тьма_Альенде Исабель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1823dc28fc2474d4dde0bf14c562cee

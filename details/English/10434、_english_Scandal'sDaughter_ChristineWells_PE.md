@@ -8,7 +8,7 @@
 10434、_english_Scandal's Daughter_Christine Wells_PENGUIN group.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 713319c9b714f75f3d73a5d85f38a2cb

@@ -8,7 +8,7 @@
 11460、_russian_История полковника Джека_Дефо Даниэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9124e59fa05d6d320dd2f9ecafefcd1e

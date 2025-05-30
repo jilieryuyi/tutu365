@@ -8,7 +8,7 @@
 156、_spanish_Велес и Компания_Велес К_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1ff00e33821a2824234114e983e913b

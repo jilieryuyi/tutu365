@@ -8,7 +8,7 @@
 11493、_russian_Тайна загадочных посланий_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae7373dea2dc011bbe6a7b61d219cfe6

@@ -8,7 +8,7 @@
 2557、白宫岁月：基辛格回忆录套装(套装共4本)_亨利·基辛格(Henry Kissinger)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dca6371faf787b186c3774b1730aa929

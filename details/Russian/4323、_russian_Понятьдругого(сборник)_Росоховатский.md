@@ -8,7 +8,7 @@
 4323、_russian_Понять другого (сборник)_Росоховатский Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b41a0065124a96e3f34b1f6d3d5ba6e7

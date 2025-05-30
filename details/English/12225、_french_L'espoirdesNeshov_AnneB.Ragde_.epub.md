@@ -8,7 +8,7 @@
 12225、_french_L'espoir des Neshov_Anne B. Ragde_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d475eb53671a0b148591c28ee2f75f92

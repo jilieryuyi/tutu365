@@ -8,7 +8,7 @@
 3934、_russian_Шаг в небо_Слюсаренко Сергей Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bd2c9bf90999da9c667f08ca1537e91

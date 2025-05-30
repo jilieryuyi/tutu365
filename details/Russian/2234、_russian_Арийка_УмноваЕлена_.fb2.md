@@ -8,7 +8,7 @@
 2234、_russian_Арийка_Умнова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea0a38c805492c6504038ae74c5c2cc5

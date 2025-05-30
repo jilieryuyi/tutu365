@@ -8,7 +8,7 @@
 13160、_russian_Утиная комедия_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 092d8d07fe8509751711353265a2084c

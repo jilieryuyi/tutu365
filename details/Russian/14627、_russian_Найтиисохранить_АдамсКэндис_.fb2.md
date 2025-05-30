@@ -8,7 +8,7 @@
 14627、_russian_Найти и сохранить_Адамс Кэндис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34d4b330e3ebe8c2fa05f506298a7290

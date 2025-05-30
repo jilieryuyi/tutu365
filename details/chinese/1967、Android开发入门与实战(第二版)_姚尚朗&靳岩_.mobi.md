@@ -8,7 +8,7 @@
 1967、Android 开发入门与实战(第二版)_姚尚朗 & 靳岩_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 01fd200c995c773575c49d3e9fa9af16

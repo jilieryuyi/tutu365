@@ -8,7 +8,7 @@
 12043、_russian_Бессонные ночи_Уайт Тиффани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e4c080563c01a9d3ace28ff36bd04b3

@@ -8,7 +8,7 @@
 13556、_russian_Свеча в окне_Додд Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c31d4d350359b138e6619ec47e9f86d

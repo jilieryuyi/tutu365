@@ -8,7 +8,7 @@
 7611、_russian_Война Ретифа_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28d26cd26e7dd378b56490a7031877d3

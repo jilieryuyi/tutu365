@@ -8,7 +8,7 @@
 14028、_russian_Четверо со _Сринагара__Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da0df035bfb03f3255d6c006872f54a3

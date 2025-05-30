@@ -8,7 +8,7 @@
 65、_russian_Смешные любови (рассказы)_Кундера Милан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 600893417f9e28335892d61c35ea7ad5

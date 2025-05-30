@@ -8,7 +8,7 @@
 9048、_russian_Налейте бокалы, раздайте патроны!_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9b3f56a32b75c7a02156b323e71161f

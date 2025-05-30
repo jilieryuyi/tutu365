@@ -8,7 +8,7 @@
 三国演义-The Romance of Three Kingdoms (in Chinese)_Luo Guanzhong__3483973_8193af6814210c5461e128725b47660b.fb2.fb2
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8193af6814210c5461e128725b47660b

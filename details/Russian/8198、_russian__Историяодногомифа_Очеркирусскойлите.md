@@ -8,7 +8,7 @@
 8198、_russian__История одного мифа_ Очерки русской литературы XIX-XX вв_Дудаков. Савелий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 597b3dec6a65b0a101a3afcbf2283976

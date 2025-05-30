@@ -8,7 +8,7 @@
 830、_russian_Близорукая русалка_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38888e3f4b3f3352615ee1a6cf2e07fb

@@ -8,7 +8,7 @@
 13615、_russian_Свидание Джима_Емельянов Виктор Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69ac78b7d058714fa046e97b931b308c

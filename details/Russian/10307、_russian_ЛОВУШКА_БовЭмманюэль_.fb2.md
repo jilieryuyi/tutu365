@@ -8,7 +8,7 @@
 10307、_russian_ЛОВУШКА_Бов Эмманюэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93093416c4dca3403779a23788dbad27

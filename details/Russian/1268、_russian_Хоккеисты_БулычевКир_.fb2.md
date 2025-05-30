@@ -8,7 +8,7 @@
 1268、_russian_Хоккеисты_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c78bcf843e231d2915d808ec31030951

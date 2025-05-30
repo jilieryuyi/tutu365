@@ -8,7 +8,7 @@
 15223、_russian_Искуснейший охотник в мире_Демпси Генри Максвелл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72b557bc6f218453fd3d0fa1e01c5ac1

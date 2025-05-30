@@ -8,7 +8,7 @@
 10452、_russian_Сказочник_Клименко Анна Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 766ceb754d08cfef05eda665a731fd75

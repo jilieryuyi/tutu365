@@ -8,7 +8,7 @@
 8887、_russian_Книга о шахматах (Чатранг-намаг)_Неустановленный автор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d9c9e2f1d933ce6cf0cf21f1cb00977

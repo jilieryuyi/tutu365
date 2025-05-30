@@ -8,7 +8,7 @@
 6630、_russian_Слово живое и мертвое_Галь Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ef82572989caefdac10c8c4e82d9112

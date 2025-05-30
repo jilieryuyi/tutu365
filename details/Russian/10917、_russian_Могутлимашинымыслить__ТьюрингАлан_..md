@@ -8,7 +8,7 @@
 10917、_russian_Могут ли машины мыслить__Тьюринг Алан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb6f76fff0b947f8c76ce250110a6602

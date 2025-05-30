@@ -8,7 +8,7 @@
 793、_russian_Петербург Пушкина_Анциферов Николай Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd68a839e490e5b889c82563959920a7

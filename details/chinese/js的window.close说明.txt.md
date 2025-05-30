@@ -8,7 +8,7 @@
 js的window.close说明.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9a9e23cbf3416b665c7a35ba821a2ffb

@@ -8,7 +8,7 @@
 909、_russian_Афганский полигон_Кулаков Сергей Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70f1069c35ed05f98df70e367e7f312f

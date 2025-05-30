@@ -8,7 +8,7 @@
 14097、_russian_Песня синей птицы_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2ca82bf261811606e3169262b700654

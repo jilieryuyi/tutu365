@@ -8,7 +8,7 @@
 3045、_russian_Резидент_Шейкин Аскольд Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5a97817b533edfd4595dace166dcefd

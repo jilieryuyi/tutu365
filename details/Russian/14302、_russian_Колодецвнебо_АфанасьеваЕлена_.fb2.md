@@ -8,7 +8,7 @@
 14302、_russian_Колодец в небо_Афанасьева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fce6e07bc96381224ce6015de7174774

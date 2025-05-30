@@ -8,7 +8,7 @@
 4664、_russian_Психотерапия как духовная практика_Минделл Эми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6af2d1a89f0015d3398cf23edba0c04d

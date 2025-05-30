@@ -8,7 +8,7 @@
 7589、_russian_Шаман, мудрец, целитель_Виллолдо Альберто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9cc35f5073d426df628a2ad4fb0ba8c

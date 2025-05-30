@@ -8,7 +8,7 @@
 14205、_russian_Капкан для киллера – 1_Карышев Валерий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 590003ec971763d1c6ce4554c5f666af

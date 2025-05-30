@@ -8,7 +8,7 @@
 11049、_russian_Жизнь дается лишь дважды_Флеминг Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e81173b0777bd1d61230ffa556d19455

@@ -8,7 +8,7 @@
 1705、_russian_Двойной отсчет_Диш Томас Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d2fd6e3de34f8b123754ab558e1075c

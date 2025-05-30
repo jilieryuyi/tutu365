@@ -8,7 +8,7 @@
 3028、_russian_Триады бардов_Кузьмин Е_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7c477fa443b21e38f75f56c787a5e4c

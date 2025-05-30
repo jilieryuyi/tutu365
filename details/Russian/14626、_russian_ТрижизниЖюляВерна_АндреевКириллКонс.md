@@ -8,7 +8,7 @@
 14626、_russian_Три жизни Жюля Верна_Андреев Кирилл Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e71cb4972efc1b18dfb32e33e276fccb

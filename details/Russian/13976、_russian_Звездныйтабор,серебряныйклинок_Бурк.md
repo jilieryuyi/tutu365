@@ -8,7 +8,7 @@
 13976、_russian_Звездный табор, серебряный клинок_Буркин Юлий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6ae5e8042cfc5d49c7cedd5be950181

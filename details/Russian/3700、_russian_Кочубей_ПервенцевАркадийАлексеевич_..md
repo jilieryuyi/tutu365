@@ -8,7 +8,7 @@
 3700、_russian_Кочубей_Первенцев Аркадий Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 006e7462c2f86b0a4877b97efe16ef22

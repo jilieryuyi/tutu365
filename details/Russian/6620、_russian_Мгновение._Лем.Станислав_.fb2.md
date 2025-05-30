@@ -8,7 +8,7 @@
 6620、_russian_Мгновение._Лем. Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ffb5eaf21dfc1ccabdd149e00061bc2

@@ -8,7 +8,7 @@
 2369、_russian_История коммивояжера_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e30a13fa8a2f049af58d8e5e7a8ebf3

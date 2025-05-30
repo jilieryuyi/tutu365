@@ -8,7 +8,7 @@
 573、_russian_Испанский любовник_Брукс Хелен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ef69fb57d3dbd5f04972e909f7c5e15

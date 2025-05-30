@@ -8,7 +8,7 @@
 13713、_russian_Жасминный домик_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09d6770c95e38b50d88e054abd7be93a

@@ -8,7 +8,7 @@
 5636、_russian_Поспорить с судьбой_Панкеева Оксана Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15d8dfcd4df02ff0f850b12b72a51db1

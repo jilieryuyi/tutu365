@@ -8,7 +8,7 @@
 12891、_russian_И разыгрались же кони в поле_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b404d7235f181f35b8d4e61f8a43883

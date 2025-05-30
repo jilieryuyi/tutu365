@@ -8,7 +8,7 @@
 13860、_russian_Южнее главного удара_Бакланов Григорий Яковлевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8476a1ca5ab46227b88ea3d0db265720

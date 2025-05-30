@@ -8,7 +8,7 @@
 8515、_russian_Час Быка_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7827bd3aeffc8a9c006bf17ecbf35ba9

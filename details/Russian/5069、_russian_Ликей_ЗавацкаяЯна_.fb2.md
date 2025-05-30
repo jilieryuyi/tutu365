@@ -8,7 +8,7 @@
 5069、_russian_Ликей_Завацкая Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14fcba218389e942c62aa46dcc8fa761

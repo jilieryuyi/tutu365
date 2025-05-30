@@ -8,7 +8,7 @@
 185、_russian_Правь Амбером_Желязны Роджер, Бетанкур Джон Грегори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8e0c6ff1220e8cb6ee37dca71019340

@@ -8,7 +8,7 @@
 10406、_russian_Любовь в мегабайтах_Демина Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a932ff4d4fa924c844a96f0e019cfe0

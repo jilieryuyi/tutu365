@@ -8,7 +8,7 @@
 7472、_russian_Десять карат несчастий_Серова Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00b65831db53bb46cf369d474e8085e1

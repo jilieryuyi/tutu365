@@ -8,7 +8,7 @@
 13636、_russian_Слезы разлуки_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea048bdeeaca728e36bd1198df7dcd32

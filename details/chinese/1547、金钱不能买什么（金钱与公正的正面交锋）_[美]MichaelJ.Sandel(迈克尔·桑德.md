@@ -8,7 +8,7 @@
 1547、金钱不能买什么（金钱与公正的正面交锋）_[美]Michael J. Sandel(迈克尔·桑德尔)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eb27de833d955c7a215a55b9c7c194cf

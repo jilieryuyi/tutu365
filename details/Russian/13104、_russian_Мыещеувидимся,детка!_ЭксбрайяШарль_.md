@@ -8,7 +8,7 @@
 13104、_russian_Мы еще увидимся, детка!_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf9f57a5403390ee659646ff722c23cb

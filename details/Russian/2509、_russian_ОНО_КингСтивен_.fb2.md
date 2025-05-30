@@ -8,7 +8,7 @@
 2509、_russian_ОНО_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01f4c0b5b2853b8fd6da2e77d7dd10db

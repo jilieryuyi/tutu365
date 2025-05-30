@@ -8,7 +8,7 @@
 12405、_russian_Беглецы_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e37f59eb747a4b04a762fe31a866c394

@@ -8,7 +8,7 @@
 3036、_russian_За Советскую правду_Бажов Павел Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1d840292b514fbbd75718f845942b4a

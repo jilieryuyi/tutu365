@@ -8,7 +8,7 @@
 11556、_russian_Добежать до булочной_Скаландис Ант_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b65f1a9b60f11d93bd6595cf0f8d9a5

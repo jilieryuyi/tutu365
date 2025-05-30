@@ -8,7 +8,7 @@
 1272、_russian_Морда протокольная_Степанова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2132f6515c53379d050d25df085d84d

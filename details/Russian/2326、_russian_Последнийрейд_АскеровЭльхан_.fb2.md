@@ -8,7 +8,7 @@
 2326、_russian_Последний рейд_Аскеров Эльхан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 176f9b589f7c99e5dc28012ca02ca8a4

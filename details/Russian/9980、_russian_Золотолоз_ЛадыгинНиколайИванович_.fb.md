@@ -8,7 +8,7 @@
 9980、_russian_Золото лоз_Ладыгин Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 060c660ecfde721613019361678dae7c

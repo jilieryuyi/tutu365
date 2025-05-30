@@ -8,7 +8,7 @@
 PPT设计思维-简版电子书_未知__5371370_44eb829ade68adffbdcb6bd7a0513ae8.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 44eb829ade68adffbdcb6bd7a0513ae8

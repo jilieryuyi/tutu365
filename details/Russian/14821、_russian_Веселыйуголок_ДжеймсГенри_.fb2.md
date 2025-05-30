@@ -8,7 +8,7 @@
 14821、_russian_Веселый уголок_Джеймс Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcd1ed450765464a4bca45ebf2a46934

@@ -8,7 +8,7 @@
 2265、深入理解Bootstrap (Web开发技术丛书)_徐涛 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 40dbd450346a80515984e268defd9d5d

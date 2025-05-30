@@ -8,7 +8,7 @@
 10203、_russian_Званый ужин в английском стиле_Вербинина Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d53a2cf565138073985e8c39a83a5ebf

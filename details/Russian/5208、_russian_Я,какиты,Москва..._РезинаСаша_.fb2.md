@@ -8,7 +8,7 @@
 5208、_russian_Я, как и ты, Москва..._Резина Саша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ed4f659af1b30e930425fc4c2a0d2ce

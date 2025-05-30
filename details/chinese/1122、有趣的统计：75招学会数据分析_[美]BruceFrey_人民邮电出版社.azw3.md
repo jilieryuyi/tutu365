@@ -8,7 +8,7 @@
 1122、有趣的统计：75招学会数据分析_[美]Bruce Frey_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bc73be7dde7eb32d3de6fed7b93bfba0

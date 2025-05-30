@@ -8,7 +8,7 @@
 2278、_russian_Этика свободы_Ротбард Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8efeac4bff9379fbed0e5a7fc81ab946

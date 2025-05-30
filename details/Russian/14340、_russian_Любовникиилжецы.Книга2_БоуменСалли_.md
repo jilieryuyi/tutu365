@@ -8,7 +8,7 @@
 14340、_russian_Любовники и лжецы. Книга 2_Боумен Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3050c0f1f21b27792ab4b908861de864

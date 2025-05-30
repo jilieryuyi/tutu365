@@ -8,7 +8,7 @@
 11407、_russian_Корабль чародеев_Бок Ханнес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4c65eb6794fb4be866e406239b5c2f3

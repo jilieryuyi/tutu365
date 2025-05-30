@@ -8,7 +8,7 @@
 4400、_russian_Рассуждения о Франции_де Местр Жозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4071ee4bd896dda5fa20a35bc8f5d94e

@@ -8,7 +8,7 @@
 2450、_russian_Корабельщик_Никитин Олег Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c36d77927df074001c01a6a6fcf967b6

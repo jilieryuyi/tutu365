@@ -8,7 +8,7 @@
 9917、_russian_Заживо погребенные_Рэнкин Иэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38e6961838584648d6b902b60d5946bf

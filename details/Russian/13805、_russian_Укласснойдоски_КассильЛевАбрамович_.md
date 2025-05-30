@@ -8,7 +8,7 @@
 13805、_russian_У классной доски_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f711cd919b395c4ec6f0f32a5ad6469

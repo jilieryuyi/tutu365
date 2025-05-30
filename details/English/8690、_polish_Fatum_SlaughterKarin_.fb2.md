@@ -8,7 +8,7 @@
 8690、_polish_Fatum_Slaughter Karin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0eafa32ff75ea3bfd396b134e84226fb

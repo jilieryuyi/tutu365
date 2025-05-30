@@ -8,7 +8,7 @@
 14809、_russian__Перекресток Судеб__Rennie Gordon_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce9c60d8ad62ffb7407ef342ce1bc5db

@@ -8,7 +8,7 @@
 2117、_russian_Прелесть_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb65cd02a4151bfe9ebd8661344ff502

@@ -8,7 +8,7 @@
 6906、_english_Думы_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a67d7c37e4c69d53f2efd216ee741af7

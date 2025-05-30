@@ -8,7 +8,7 @@
 13763、_russian_Легенды доблестных времен_Леженда Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3acd861447ad948c78a9d2fac501c8aa

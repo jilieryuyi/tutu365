@@ -8,7 +8,7 @@
 13385、_russian_Мертвые сраму не имут..._Серба Андрей Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f5009a9400eb71f7336269aacd1f2bc

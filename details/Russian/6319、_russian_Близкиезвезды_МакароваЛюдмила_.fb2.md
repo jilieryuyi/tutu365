@@ -8,7 +8,7 @@
 6319、_russian_Близкие звезды_Макарова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f2e6c1781ab0386021471346d40f797

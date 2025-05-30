@@ -8,7 +8,7 @@
 1346、项目计划、进度与控制(原书第5版)_詹姆斯·刘易斯 (James P. Lewis)_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 161ff6c6d63fb06afbceed35cc3ee495

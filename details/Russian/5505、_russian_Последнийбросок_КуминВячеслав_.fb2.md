@@ -8,7 +8,7 @@
 5505、_russian_Последний бросок_Кумин Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0804feb2b7618d2099e0f15d1cc95002

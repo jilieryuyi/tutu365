@@ -8,7 +8,7 @@
 3954、_russian_На четвертой планете_Бон Дж. Ф._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bf32856c393ee814491578973eadf55

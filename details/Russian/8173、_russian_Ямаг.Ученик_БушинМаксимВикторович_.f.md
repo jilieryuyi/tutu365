@@ -8,7 +8,7 @@
 8173、_russian_Я маг. Ученик_Бушин Максим Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b52b2ac4b23c63eccb6bc543cd5181ac

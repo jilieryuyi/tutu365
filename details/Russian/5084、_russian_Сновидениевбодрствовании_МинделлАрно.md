@@ -8,7 +8,7 @@
 5084、_russian_Сновидение в бодрствовании_Минделл Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 598c3fcb3ffd95f5142217efcee9b80d

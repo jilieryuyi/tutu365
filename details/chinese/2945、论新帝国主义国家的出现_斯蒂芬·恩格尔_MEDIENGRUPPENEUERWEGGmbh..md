@@ -8,7 +8,7 @@
 2945、论新帝国主义国家的出现_斯蒂芬·恩格尔_MEDIENGRUPPE NEUER WEG Gmbh.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 190c8905c538ef75ebb12cf0876d56be

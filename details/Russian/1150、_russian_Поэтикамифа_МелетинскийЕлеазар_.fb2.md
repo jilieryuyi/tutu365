@@ -8,7 +8,7 @@
 1150、_russian_Поэтика мифа_Мелетинский Елеазар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0c13d8105ef28c6fac5d6b2881ea8a4

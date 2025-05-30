@@ -8,7 +8,7 @@
 10165、_ukrainian_Щаспобут_Лем Стан_слав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0cc2db6fb3f759431e548dda58a4b38

@@ -8,7 +8,7 @@
 2279、_russian_Охотник_Густов Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3813263addf257ffd56e04dd7b414a9c

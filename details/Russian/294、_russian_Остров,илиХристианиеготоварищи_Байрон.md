@@ -8,7 +8,7 @@
 294、_russian_Остров, или Христиан и его товарищи_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dfcc5829f21ca61cb23c0898684c489

@@ -8,7 +8,7 @@
 8360、_russian_Юзеры и юзари_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87427404d15d1433c25ba6514ba179f7

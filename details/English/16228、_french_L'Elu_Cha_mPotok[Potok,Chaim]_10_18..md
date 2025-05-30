@@ -8,7 +8,7 @@
 16228、_french_L'Elu_Cha_m Potok [Potok, Chaim]_10_18.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7e00d11430a282b002df5093bfd36833

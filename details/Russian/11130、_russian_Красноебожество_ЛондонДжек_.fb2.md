@@ -8,7 +8,7 @@
 11130、_russian_Красное божество_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad230a2d2fc9874c49632909775b5c41

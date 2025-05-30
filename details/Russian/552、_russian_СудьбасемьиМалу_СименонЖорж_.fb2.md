@@ -8,7 +8,7 @@
 552、_russian_Судьба семьи Малу_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cc1a509ebfbfdc7f88dacdf254e266d

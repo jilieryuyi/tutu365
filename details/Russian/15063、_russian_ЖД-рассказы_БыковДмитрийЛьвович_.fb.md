@@ -8,7 +8,7 @@
 15063、_russian_ЖД-рассказы_Быков Дмитрий Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4da76317824ba6a51360132c71aac71f

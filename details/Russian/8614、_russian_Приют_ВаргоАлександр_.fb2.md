@@ -8,7 +8,7 @@
 8614、_russian_Приют_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9dd08e878f621749e6cf5d7cbe0821e0

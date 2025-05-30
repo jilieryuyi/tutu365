@@ -8,7 +8,7 @@
 11606、_english_The Warrior's Runaway Wife_Denise Lynn_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e4a244c10323544e52528cc523c6fad2

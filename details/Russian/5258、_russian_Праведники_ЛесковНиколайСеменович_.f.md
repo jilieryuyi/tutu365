@@ -8,7 +8,7 @@
 5258、_russian_Праведники_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2303d7b4362d67db03ca1f5d2f04c5bf

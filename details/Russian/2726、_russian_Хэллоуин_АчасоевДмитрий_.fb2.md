@@ -8,7 +8,7 @@
 2726、_russian_Хэллоуин_Ачасоев Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0ea8a36f40d95639b75ee986deec03a

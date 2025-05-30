@@ -8,7 +8,7 @@
 14289、_russian_Дикое сердце_Браун Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5327f156f2dfc813e00d0cf73ffa4c17

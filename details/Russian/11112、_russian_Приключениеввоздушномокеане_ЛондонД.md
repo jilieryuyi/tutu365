@@ -8,7 +8,7 @@
 11112、_russian_Приключение в воздушном океане_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5068d8b34f1e810007eb071b4045110

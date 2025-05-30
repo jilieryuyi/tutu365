@@ -8,7 +8,7 @@
 11012、_russian_Бургердроид_Шоулдерс Фелисити_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 699e11afb0efde3c6e8fe91d47d1cb0f

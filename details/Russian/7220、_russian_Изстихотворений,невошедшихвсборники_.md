@@ -8,7 +8,7 @@
 7220、_russian_Из стихотворений, не вошедших в сборники_Соловьева Поликсена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c13ab4fd402e02106e037fd63ca8c9b9

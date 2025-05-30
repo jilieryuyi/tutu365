@@ -8,7 +8,7 @@
 2630、_russian_Стальная Крыса поет блюз_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d41348ccfdffc52a2cf4eec5ad2ee25a

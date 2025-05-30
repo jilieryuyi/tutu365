@@ -8,7 +8,7 @@
 14929、_russian_Полуночная роза_Стюарт Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e67539d2bbbf5917e012415744570ae

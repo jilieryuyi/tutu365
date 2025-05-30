@@ -8,7 +8,7 @@
 现代世界的起源_Admin1_Robert B. Marks_5535394_cd9ac4fc40560286222801ba29f1a707.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cd9ac4fc40560286222801ba29f1a707

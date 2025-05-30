@@ -8,7 +8,7 @@
 2582、_english_The Earl's Secret_Terri Brisbin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 72cd34d58ac803e23c4a6bae4bc51f01

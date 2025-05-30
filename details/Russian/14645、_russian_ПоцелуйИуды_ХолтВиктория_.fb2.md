@@ -8,7 +8,7 @@
 14645、_russian_Поцелуй Иуды_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4a139d38b01ef7aa5a82cb6ed3b490b

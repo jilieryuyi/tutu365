@@ -8,7 +8,7 @@
 12706、_russian_Герой Саламина_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e3281c9771fb66fcabea564d09a0be4

@@ -8,7 +8,7 @@
 Practical audio-visual Chinese 4_實用視聽華語4_National Taiwan Normal University_5440950_b4644b214ec09e27189ed615e59623cb.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b4644b214ec09e27189ed615e59623cb

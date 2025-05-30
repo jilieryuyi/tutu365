@@ -8,7 +8,7 @@
 4684、_english_Hit Parade_Block Lawrence_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8c3aa99462d18a49426c06c6a272e178

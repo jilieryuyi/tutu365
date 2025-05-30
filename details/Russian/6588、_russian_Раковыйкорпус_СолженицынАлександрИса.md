@@ -8,7 +8,7 @@
 6588、_russian_Раковый корпус_Солженицын Александр Исаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e7b5906aa9639fd11c2fb9eda629a20

@@ -8,7 +8,7 @@
 12137、_russian_Предисловие_Томсон Джун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5059bee96626b459e1675720fe07fa56

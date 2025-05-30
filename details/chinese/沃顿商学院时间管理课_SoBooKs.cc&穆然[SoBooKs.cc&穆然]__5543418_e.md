@@ -8,7 +8,7 @@
 沃顿商学院时间管理课_SoBooKs.cc & 穆然 [SoBooKs.cc & 穆然]__5543418_eef15ef0898cb405cd9389764ceb4e9e.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eef15ef0898cb405cd9389764ceb4e9e

@@ -8,7 +8,7 @@
 8007、_russian_Брачная сделка_Бойл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb79181ce61126923ec4af5a30efeaea

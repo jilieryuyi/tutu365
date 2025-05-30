@@ -8,7 +8,7 @@
 5033、_english_I is for Innocent_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2c999eb4211c2c8671fe7a669a3a40ea

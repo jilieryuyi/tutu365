@@ -8,7 +8,7 @@
 172、_russian_Контрреволюция и реставрация в СССР_Колташов Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e96d3bf9639e0e43666d3c2f071d2ea

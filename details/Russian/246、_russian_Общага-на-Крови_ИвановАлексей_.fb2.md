@@ -8,7 +8,7 @@
 246、_russian_Общага-на-Крови_Иванов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2b7611e22a000c60cbe1d7aa667886b

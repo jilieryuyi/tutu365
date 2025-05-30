@@ -8,7 +8,7 @@
 10771、_russian_Виртуальная Вечность_Грин Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b47dc72199ccdc33a78dc384a8560a41

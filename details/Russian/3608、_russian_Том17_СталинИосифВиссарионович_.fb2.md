@@ -8,7 +8,7 @@
 3608、_russian_Том 17_Сталин Иосиф Виссарионович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d0f38f611d9c467723cd39aada81ae7

@@ -8,7 +8,7 @@
 9289、_russian_Повесть о вере и суете_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e22267c92b097e4af6328b30e2b3eed

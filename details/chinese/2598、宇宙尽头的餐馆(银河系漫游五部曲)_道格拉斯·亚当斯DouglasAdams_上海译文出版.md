@@ -8,7 +8,7 @@
 2598、宇宙尽头的餐馆 (银河系漫游五部曲)_道格拉斯·亚当斯 Douglas Adams_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f9f3400ad36a59e876e34501233ca480

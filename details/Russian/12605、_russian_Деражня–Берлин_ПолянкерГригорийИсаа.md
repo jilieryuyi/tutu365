@@ -8,7 +8,7 @@
 12605、_russian_Деражня – Берлин_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74ef9ac08d5929d7f5e612498cc9f574

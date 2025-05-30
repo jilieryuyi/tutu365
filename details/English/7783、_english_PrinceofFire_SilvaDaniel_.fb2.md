@@ -8,7 +8,7 @@
 7783、_english_Prince of Fire_Silva Daniel_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6c47744e6255daa2b799a375a5d9d2a4

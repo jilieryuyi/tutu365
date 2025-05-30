@@ -8,7 +8,7 @@
 10410、_russian_Сошествие ночи_Вебер Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60c928e940a808a9710b9f257a8d069f

@@ -8,7 +8,7 @@
 11802、_russian_Барраяр_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6227abf00c2dd1cd7217d916644cdd74

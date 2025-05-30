@@ -8,7 +8,7 @@
 9842、_russian_Дамочка, что надо_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a63561f0ff6a477ed091f88ace8f77c2

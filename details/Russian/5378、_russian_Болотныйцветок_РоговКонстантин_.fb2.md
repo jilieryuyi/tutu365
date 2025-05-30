@@ -8,7 +8,7 @@
 5378、_russian_Болотный цветок_Рогов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e82e74a3af9dc73ea1ac654b23975ef0

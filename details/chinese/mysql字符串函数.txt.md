@@ -8,7 +8,7 @@
 mysql字符串函数.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3e2dd878e32576ab066c00ba40396c30

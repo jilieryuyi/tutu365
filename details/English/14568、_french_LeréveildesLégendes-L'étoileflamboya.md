@@ -8,7 +8,7 @@
 14568、_french_Le réveil des Légendes - L'étoile flamboyante_Sophie GINISTY [GINISTY, Sophie]_404 _ditions.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 070329dee406048e3147cb80a6a53851

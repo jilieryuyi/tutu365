@@ -8,7 +8,7 @@
 1816、_russian_Любовница смерти_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 651f155e27c81ad302ffab5cbe4ae947

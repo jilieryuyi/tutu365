@@ -8,7 +8,7 @@
 为什么学生不喜欢上学_（美）丹尼尔·T.威林厄姆__5437126_4face0089243e29ac2a0a5447caedf87.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4face0089243e29ac2a0a5447caedf87

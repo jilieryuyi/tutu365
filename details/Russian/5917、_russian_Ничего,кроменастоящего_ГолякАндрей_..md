@@ -8,7 +8,7 @@
 5917、_russian_Ничего, кроме настоящего_Голяк Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88efde742b781e7f5b904d682058c020

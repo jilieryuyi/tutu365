@@ -8,7 +8,7 @@
 6124、_russian_ФИЛОСОФСКИЕ ЧТЕНИЯ_Мамардашвили Мераб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09d090b72edef466709e0a2cae6f7c12

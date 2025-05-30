@@ -8,7 +8,7 @@
 8618、_russian_Кулинар_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26bdbece7560f0889ab4bcd58247184b

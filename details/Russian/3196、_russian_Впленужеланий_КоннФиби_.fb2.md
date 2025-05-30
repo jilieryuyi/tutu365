@@ -8,7 +8,7 @@
 3196、_russian_В плену желаний_Конн Фиби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fee12e5bb34f51b734ee2be3b3d4ac1b

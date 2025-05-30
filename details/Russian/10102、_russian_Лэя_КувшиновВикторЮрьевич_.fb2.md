@@ -8,7 +8,7 @@
 10102、_russian_Лэя_Кувшинов Виктор Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5627f39e3ed67d3c7880bc368ef753cf

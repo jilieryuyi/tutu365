@@ -8,7 +8,7 @@
 13661、_russian_Бегство с острова Аквариус_Перетти Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1104387e87ee82af787a7d50557680c4

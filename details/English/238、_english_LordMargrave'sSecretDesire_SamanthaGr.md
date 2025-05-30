@@ -8,7 +8,7 @@
 238、_english_Lord Margrave's Secret Desire_Samantha Grace_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6cc3bfc1b6d09aec5dc10bc302ed3586

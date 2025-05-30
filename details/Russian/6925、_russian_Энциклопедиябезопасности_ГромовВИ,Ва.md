@@ -8,7 +8,7 @@
 6925、_russian_Энциклопедия безопасности_Громов В И, Васильев Г А_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3b6f5b586c8329d84c8f863dca4cd2a

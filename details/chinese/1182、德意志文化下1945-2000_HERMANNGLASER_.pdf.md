@@ -8,7 +8,7 @@
 1182、德意志文化 下 1945-2000_HERMANN GLASER_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4e540d687321c2b392ac711e7d22c54e

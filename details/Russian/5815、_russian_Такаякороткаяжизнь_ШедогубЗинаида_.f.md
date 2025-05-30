@@ -8,7 +8,7 @@
 5815、_russian_Такая короткая жизнь_Шедогуб Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27ac2dfc7b0d381c9d573011ee9c5af1

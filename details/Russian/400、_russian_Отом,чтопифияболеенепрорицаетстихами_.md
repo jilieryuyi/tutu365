@@ -8,7 +8,7 @@
 400、_russian_О том, что пифия более не прорицает стихами_Плутарх_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19553d49ae88b580bdfe5abc05c10d1e

@@ -8,7 +8,7 @@
 5748、_russian_Веронские любовники_Спэнсер Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fd13c79fec957a65304752283eb5de6

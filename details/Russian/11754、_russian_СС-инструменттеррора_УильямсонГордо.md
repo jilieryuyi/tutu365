@@ -8,7 +8,7 @@
 11754、_russian_СС-инструмент террора_Уильямсон Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 597dfff78057db6dec2217aad0ed2f59

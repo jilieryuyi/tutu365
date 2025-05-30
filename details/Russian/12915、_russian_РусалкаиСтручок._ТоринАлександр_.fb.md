@@ -8,7 +8,7 @@
 12915、_russian_Русалка и Стручок._Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74abf80a350c676bb658cb572fafdd63

@@ -8,7 +8,7 @@
 12992、_russian_Трюм и палуба_Ян Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e802889f601998b0e075fbdcf89c0380

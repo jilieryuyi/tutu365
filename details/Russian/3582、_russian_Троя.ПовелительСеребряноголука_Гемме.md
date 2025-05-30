@@ -8,7 +8,7 @@
 3582、_russian_Троя. Повелитель Серебряного лука_Геммел Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 019f83b3fb1590d8aed27b3da6955c0c

@@ -8,7 +8,7 @@
 2381、_ukrainian_Перепочинок_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 336cfadb1b58e2ba061945d5498c450c

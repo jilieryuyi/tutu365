@@ -8,7 +8,7 @@
 15173、_russian_ЖИЗНЬ СРЕДИ ГИМАЛАЙСКИХ ЙОГОВ_Рама Свами_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a81866ef65d6575b74e7cb9658c9e69e

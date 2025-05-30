@@ -8,7 +8,7 @@
 8465、_russian_Дуля с маком_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e1ee8b89f8b312005a43d87331cfc36

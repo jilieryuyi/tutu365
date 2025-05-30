@@ -8,7 +8,7 @@
 3703、_russian_Вредные советы-2_Остер Григорий Бенционович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db9f5675b32a70e9056913141eee7e85

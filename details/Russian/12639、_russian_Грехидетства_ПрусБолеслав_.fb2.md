@@ -8,7 +8,7 @@
 12639、_russian_Грехи детства_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f215a7c2f4c85a4b0f2d780ebdba3523

@@ -8,7 +8,7 @@
 8003、_english_Moscow Rules_Silva Daniel_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 352f63f6448df63965db0bc0f9af8a23

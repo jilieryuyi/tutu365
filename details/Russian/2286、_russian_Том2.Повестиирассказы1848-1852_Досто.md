@@ -8,7 +8,7 @@
 2286、_russian_Том 2. Повести и рассказы 1848-1852_Достоевский Федор Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3d4db5b5f49010f8112ebdbc049c2c8

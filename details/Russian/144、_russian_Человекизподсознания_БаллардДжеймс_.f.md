@@ -8,7 +8,7 @@
 144、_russian_Человек из подсознания_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64aa7005afa4a6cbaeb09b4004ce2538

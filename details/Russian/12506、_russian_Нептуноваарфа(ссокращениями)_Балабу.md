@@ -8,7 +8,7 @@
 12506、_russian_Нептунова арфа (с сокращениями)_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db676c70c8d98b96cf5e2a7177d8cbc0

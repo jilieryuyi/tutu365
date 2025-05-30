@@ -8,7 +8,7 @@
 7922、_russian_Медведь, победитель разбойника_Ахундов Мирза Фатали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89ffc6c315b6b80a5a9f9351af053210

@@ -8,7 +8,7 @@
 11828、_russian_Паника в _Ла Скала__Буццати Дино_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa479b7e377800f0566c00d7aa917bad

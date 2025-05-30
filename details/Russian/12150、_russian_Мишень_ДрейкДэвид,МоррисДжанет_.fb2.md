@@ -8,7 +8,7 @@
 12150、_russian_Мишень_Дрейк Дэвид, Моррис Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce129413fa0d0b9d43d930c95848c7dd

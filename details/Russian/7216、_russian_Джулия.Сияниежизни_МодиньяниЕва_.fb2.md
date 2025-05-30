@@ -8,7 +8,7 @@
 7216、_russian_Джулия. Сияние жизни_Модиньяни Ева_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2dee4b78cbb20a75066f74d1cb12d6d

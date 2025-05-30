@@ -8,7 +8,7 @@
 7400、_russian_Защитник Отечества_Корчевский Юрий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bab1aa62f9e3ee2a71474089ae4b611f

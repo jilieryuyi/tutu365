@@ -8,7 +8,7 @@
 14948、_russian_Жена президента_Уинтерз Ребекка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf4e2e5096c336db75d90e3f07038534

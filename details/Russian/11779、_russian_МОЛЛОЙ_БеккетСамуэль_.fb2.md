@@ -8,7 +8,7 @@
 11779、_russian_МОЛЛОЙ_Беккет Самуэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a0105a2da5b57343bcf22616fdda31f

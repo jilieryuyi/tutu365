@@ -8,7 +8,7 @@
 仿生人会梦见电子羊吗Do Androids Dream of Electric Sheep_ (译林幻系列)_菲利普•迪克__5487982_6f68171e7d583fa31a1bdc4e8b3f9811.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6f68171e7d583fa31a1bdc4e8b3f9811

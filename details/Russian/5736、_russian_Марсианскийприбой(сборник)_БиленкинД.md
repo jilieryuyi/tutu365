@@ -8,7 +8,7 @@
 5736、_russian_Марсианский прибой (сборник)_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6045a640f31a833118a661a0fcefb6c1

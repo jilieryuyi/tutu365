@@ -8,7 +8,7 @@
 12044、_russian_Грешники_Пирс Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1771abfb415b454015a90a9d96faac2

@@ -8,7 +8,7 @@
 10815、_russian_За стеной_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6261667d233c39b8812831138bacd3f1

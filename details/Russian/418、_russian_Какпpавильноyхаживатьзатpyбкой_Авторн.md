@@ -8,7 +8,7 @@
 418、_russian_Как пpавильно yхаживать за тpyбкой_Автор неизвестен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f565611683945f254bdc62903343ed1

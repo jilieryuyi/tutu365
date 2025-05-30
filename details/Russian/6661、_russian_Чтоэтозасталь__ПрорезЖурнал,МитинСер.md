@@ -8,7 +8,7 @@
 6661、_russian_Что это за сталь__Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 081e32bb018a74050b7eab6605ec6ad1

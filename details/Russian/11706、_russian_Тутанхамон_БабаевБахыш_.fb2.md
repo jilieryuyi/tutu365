@@ -8,7 +8,7 @@
 11706、_russian_Тутанхамон_Бабаев Бахыш_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c4c8e4acc1221094a926647e5273772

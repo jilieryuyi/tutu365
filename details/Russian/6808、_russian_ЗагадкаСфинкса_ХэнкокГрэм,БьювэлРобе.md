@@ -8,7 +8,7 @@
 6808、_russian_Загадка Сфинкса_Хэнкок Грэм, Бьювэл Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6dd83fb2fdf74bb9b2f5aa5ddf10c7a

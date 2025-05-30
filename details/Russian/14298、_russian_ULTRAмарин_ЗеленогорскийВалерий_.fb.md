@@ -8,7 +8,7 @@
 14298、_russian_ULTRAмарин_Зеленогорский Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e217af97e07305622c73ae1416a342e7

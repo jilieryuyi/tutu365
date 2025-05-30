@@ -8,7 +8,7 @@
 11721、_russian_Красотка_Коллинз Джеки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c91239dc54d08e5b28430b55d262b0a1

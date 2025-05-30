@@ -8,7 +8,7 @@
 2771、_russian_Очаровательная колдунья_Бейтс Ноэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71d1719b977e851ac1713e3fbbd1dc66

@@ -8,7 +8,7 @@
 13929、_russian_Анграв-VI_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddc143ed19c193444c7396c44fd6b950

@@ -8,7 +8,7 @@
 8300、_russian_Прекрасная лилия_Кейтс Кимберли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 643700a0ba2349a6433577cd74c81fd7

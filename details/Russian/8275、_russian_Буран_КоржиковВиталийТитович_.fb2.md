@@ -8,7 +8,7 @@
 8275、_russian_Буран_Коржиков Виталий Титович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa092c8ee5ecd80699e1e9255250fd5d

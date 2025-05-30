@@ -8,7 +8,7 @@
 12746、_russian_Возвращение людей_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4a6dee55033589fa2c75c53dc8b970f

@@ -8,7 +8,7 @@
 7663、_russian_Охота За Мыслью_Леви Владимир Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6881e3a4c59ce323110519a1b2576006

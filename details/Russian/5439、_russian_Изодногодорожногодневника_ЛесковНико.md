@@ -8,7 +8,7 @@
 5439、_russian_Из одного дорожного дневника_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c574e6f2745daf765450ccb9aeac84ab

@@ -8,7 +8,7 @@
 8256、_russian_Чечня Червленая_Бабченко Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b5d24b5e325819a8b8bf7df253df197

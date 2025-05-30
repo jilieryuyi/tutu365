@@ -8,7 +8,7 @@
 5891、_english_Bitterroot_Burke James Lee_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e9c8bef68e4182f4396610e682e62514

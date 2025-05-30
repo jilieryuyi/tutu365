@@ -8,7 +8,7 @@
 11215、_russian_Метафизика труб_Нотомб Амели_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9af25a5dec28d1acd3a4dbd6187679e

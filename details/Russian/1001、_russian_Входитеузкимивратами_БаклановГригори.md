@@ -8,7 +8,7 @@
 1001、_russian_Входите узкими вратами_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1261532f0e0c09b41d489696d90b62d0

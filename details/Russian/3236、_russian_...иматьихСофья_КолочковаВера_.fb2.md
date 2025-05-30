@@ -8,7 +8,7 @@
 3236、_russian_...и мать их Софья_Колочкова Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36b7fa32cf9b29289e252c40f8b3ec4c

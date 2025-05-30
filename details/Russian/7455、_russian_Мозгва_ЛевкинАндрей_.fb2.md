@@ -8,7 +8,7 @@
 7455、_russian_Мозгва_Левкин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 633364c2b5700aaee0ad9a4fe9ad7edd

@@ -8,7 +8,7 @@
 547、_russian_Бар Либерти_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52c811cb095853c5647b3cac596fa30c

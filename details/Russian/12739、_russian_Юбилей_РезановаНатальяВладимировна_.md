@@ -8,7 +8,7 @@
 12739、_russian_Юбилей_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44d10f337d7de4b1a0fe8ed57862dcc7

@@ -8,7 +8,7 @@
 12811、_russian_Русский адат_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 839054b55a844369ed5b90edfaf55e12

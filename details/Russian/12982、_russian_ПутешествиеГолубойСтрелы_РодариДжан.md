@@ -8,7 +8,7 @@
 12982、_russian_Путешествие Голубой Стрелы_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c785aaf756ea7cbedb3376d14befc218

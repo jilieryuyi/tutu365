@@ -8,7 +8,7 @@
 1536、_russian_Засада_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f20bc53e7d560914fcb3b1a233e13f9

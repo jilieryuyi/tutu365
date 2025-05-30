@@ -8,7 +8,7 @@
 12512、_russian_Седьмой Легион_Баженов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06d2833b5fd42fca367d37b00fcd8e72

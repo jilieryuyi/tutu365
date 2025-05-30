@@ -8,7 +8,7 @@
 1217、_russian_Манфред_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afc0cf33026d467f87036493ade41efa

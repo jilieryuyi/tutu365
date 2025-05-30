@@ -8,7 +8,7 @@
 10705、_russian_Честь корабля_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 015bcfd9ae287d21384fbc30f05603ea

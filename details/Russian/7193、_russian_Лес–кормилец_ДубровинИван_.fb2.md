@@ -8,7 +8,7 @@
 7193、_russian_Лес – кормилец_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34e2de890a53223a9aae3033ea0a381e

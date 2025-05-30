@@ -8,7 +8,7 @@
 1279、_russian_Память и желание. Книга 1_Аппиньянези Лайза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ad893edc4793289da3d085d96efebf4

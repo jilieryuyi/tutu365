@@ -8,7 +8,7 @@
 1975、名师讲坛———Android开发实战经典_李兴华_清华大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 22506b62cd760dad2a937dda3b7f9e4c

@@ -8,7 +8,7 @@
 13345、_russian_Мальчики Дягилева_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 815d297215441f58946736b8d96e00f2

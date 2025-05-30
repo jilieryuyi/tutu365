@@ -8,7 +8,7 @@
 735、_russian_Любовный мираж_Монт Бетти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85f951427e69c0924315e987fda0c76a

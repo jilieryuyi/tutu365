@@ -8,7 +8,7 @@
 13333、_russian_Бирюзовая тризна_Макдональд Джон Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00036d661b53ba406e85860b4d1c3d81

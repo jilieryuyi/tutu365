@@ -8,7 +8,7 @@
 11086、_russian_Легенды Скалистых гор_Лондон Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b733956a251b2394f86ecae7ac54b4d2

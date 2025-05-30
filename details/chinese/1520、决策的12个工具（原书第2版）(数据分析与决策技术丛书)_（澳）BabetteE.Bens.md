@@ -8,7 +8,7 @@
 1520、决策的12个工具（原书第2版） (数据分析与决策技术丛书)_（澳）Babette E. Bensoussan & （加）Craig S. Fleisher_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 768184cfffb7c0d94a28fc29bec8f604

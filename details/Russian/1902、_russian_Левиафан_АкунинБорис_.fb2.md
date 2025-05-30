@@ -8,7 +8,7 @@
 1902、_russian_Левиафан_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd377056ecafe8119a6cfc94adcf77b1

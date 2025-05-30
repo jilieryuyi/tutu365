@@ -8,7 +8,7 @@
 1479、免费_商业的未来（精编图文版）（中信商业经典） (信经典)_克里斯_安德森_CTCCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a31c1346d04aeecfbfa1c8c77487b74e

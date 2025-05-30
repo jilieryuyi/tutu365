@@ -8,7 +8,7 @@
 Gearman框架构建分布式图片处理平台.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d7d396ae52ebdc232f7fc7f9dc9718ff

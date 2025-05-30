@@ -8,7 +8,7 @@
 3087、_russian_Плацдарм_Недозор Игорь Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aff134dbb3bf252049f9320fdab1fcc2

@@ -8,7 +8,7 @@
 11845、_russian_Ночные короли_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2281efe70466458101b4e3426eb060e6

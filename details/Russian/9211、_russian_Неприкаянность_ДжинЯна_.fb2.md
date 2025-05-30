@@ -8,7 +8,7 @@
 9211、_russian_Неприкаянность_Джин Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20432cd089a1fa449bedb70499d88e2b

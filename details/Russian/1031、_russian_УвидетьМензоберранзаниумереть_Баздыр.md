@@ -8,7 +8,7 @@
 1031、_russian_Увидеть Мензоберранзан и умереть_Баздырева Ирина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7387567dcf3de1500f338cbae6b5f98f

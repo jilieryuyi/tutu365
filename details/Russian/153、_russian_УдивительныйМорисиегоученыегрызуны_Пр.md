@@ -8,7 +8,7 @@
 153、_russian_Удивительный Морис и его ученые грызуны_Пратчетт Терри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab35167f7d8e4e5de16cfdc964b68188

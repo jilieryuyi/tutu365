@@ -8,7 +8,7 @@
 4013、_russian_Есть, господин президент!_Гурский Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6d219e822e6d0011869658edc22927a

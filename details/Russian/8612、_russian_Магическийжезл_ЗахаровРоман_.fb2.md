@@ -8,7 +8,7 @@
 8612、_russian_Магический жезл_Захаров Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64395c3d4767e4ae92f15c56717decf6

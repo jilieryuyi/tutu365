@@ -8,7 +8,7 @@
 8675、_russian_Игры шайтана_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23c1e9213356bf81a5effedd9d3872f5

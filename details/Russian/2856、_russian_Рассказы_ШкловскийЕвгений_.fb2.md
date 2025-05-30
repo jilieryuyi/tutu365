@@ -8,7 +8,7 @@
 2856、_russian_Рассказы_Шкловский Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc0413ff0ac0e0d2a0b1a24e4ef11011

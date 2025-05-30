@@ -8,7 +8,7 @@
 11835、_russian_Рассказ о самом главном_Замятин Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a629b45ea21c191545296def5e49e68

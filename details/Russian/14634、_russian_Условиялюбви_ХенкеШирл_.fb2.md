@@ -8,7 +8,7 @@
 14634、_russian_Условия любви_Хенке Ширл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fddd20fcd282217f0e7a0fadfb7e6724

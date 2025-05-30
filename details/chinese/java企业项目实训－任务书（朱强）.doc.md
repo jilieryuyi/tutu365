@@ -8,7 +8,7 @@
 java企业项目实训－任务书（朱强）.doc.doc
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d7f15c4c76ad9de06bbe299316adb166

@@ -8,7 +8,7 @@
 2745、_russian_Смерти Робина Гуда_Хьюз Рис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7f13433ef91bbb7cbb982a0c1a4050c

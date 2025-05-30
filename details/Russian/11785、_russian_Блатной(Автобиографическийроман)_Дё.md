@@ -8,7 +8,7 @@
 11785、_russian_Блатной (Автобиографический роман)_Дёмин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2267f4f9e10e620c813b7ca3dd78055e

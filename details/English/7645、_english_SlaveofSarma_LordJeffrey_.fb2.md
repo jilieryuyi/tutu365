@@ -8,7 +8,7 @@
 7645、_english_Slave of Sarma_Lord Jeffrey_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f470dc0fc8501c241d08d5dc37e21ed7

@@ -8,7 +8,7 @@
 3050、_russian_Взломщик_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84caf79a0f87cd33293b2268c13eaf43

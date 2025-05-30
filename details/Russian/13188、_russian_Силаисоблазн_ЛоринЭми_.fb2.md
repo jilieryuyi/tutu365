@@ -8,7 +8,7 @@
 13188、_russian_Сила и соблазн_Лорин Эми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc8b3292be597713174909f520fe1b15

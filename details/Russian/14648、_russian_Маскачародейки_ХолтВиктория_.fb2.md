@@ -8,7 +8,7 @@
 14648、_russian_Маска чародейки_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fc52eeaac3da476b1b77d9675e4f3d5

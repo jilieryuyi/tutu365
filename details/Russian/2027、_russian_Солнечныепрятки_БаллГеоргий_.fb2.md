@@ -8,7 +8,7 @@
 2027、_russian_Солнечные прятки_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 836009bbf73258e8873ae36d99708bb2

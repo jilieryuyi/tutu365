@@ -8,7 +8,7 @@
 2040、_russian_Гейша_Житинский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c47735a95a11a10fe68bf1d58c19d0ca

@@ -8,7 +8,7 @@
 12133、_russian_Этюды о любви_Ортега-и-Гассет Хосе_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f051edd36c25e67ae51fb0ec613d16ab

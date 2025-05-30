@@ -8,7 +8,7 @@
 5836、_russian_Игра нипочём_Семенова Мария Васильевна, Разумовский Феликс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f463efeae62289eb0ef1d4a7429eba3

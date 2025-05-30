@@ -8,7 +8,7 @@
 4277、_russian_Мужчина, который возвратился домой_Гото Мэйсэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 407553f15b86ba0b5d23283c0d0afda3

@@ -8,7 +8,7 @@
 11462、_russian_Жажда смерти_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e5a7b8c5a01b4dacb257afdc2fa1ee7

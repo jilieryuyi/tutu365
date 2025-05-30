@@ -8,7 +8,7 @@
 7824、_russian_Десантно-штурмовой блюз_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da2189f6083567ce67847ff9c402d7da

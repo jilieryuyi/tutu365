@@ -8,7 +8,7 @@
 16480、_english_The Rakehell's Seduction_Lauren Smith_No Publisher.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e1a2a71f774845a70dbbfee652f69cb6

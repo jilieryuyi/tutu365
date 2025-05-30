@@ -8,7 +8,7 @@
 6300、_russian_Игрушечный дофин_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c11d902260a63f0ce9b0493d3704df98

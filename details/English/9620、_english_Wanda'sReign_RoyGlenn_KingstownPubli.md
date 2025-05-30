@@ -8,7 +8,7 @@
 9620、_english_Wanda's Reign_Roy Glenn _Kingstown Publishing.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 16875fad4b919b0559c0a1193a65e557

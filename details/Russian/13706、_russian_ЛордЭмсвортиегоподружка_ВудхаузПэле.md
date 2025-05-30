@@ -8,7 +8,7 @@
 13706、_russian_Лорд Эмсворт и его подружка_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b57afba38bfab16d66ccbd5edad15fc

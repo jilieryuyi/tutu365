@@ -8,7 +8,7 @@
 14109、_russian_Заложница_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8e0892471743107b042e315caa66e47

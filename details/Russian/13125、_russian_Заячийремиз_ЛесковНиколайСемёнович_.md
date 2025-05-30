@@ -8,7 +8,7 @@
 13125、_russian_Заячий ремиз_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cdeb4c9e05aaf9618ca1357633ac3cc

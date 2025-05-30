@@ -8,7 +8,7 @@
 7755、_russian_Воин_Джордан Николь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f50666af4e9cf60081cb9ed25d999cd3

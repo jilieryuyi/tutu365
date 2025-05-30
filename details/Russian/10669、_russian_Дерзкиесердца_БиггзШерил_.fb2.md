@@ -8,7 +8,7 @@
 10669、_russian_Дерзкие сердца_Биггз Шерил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b563a4d070a443a9473541e5e985bb87

@@ -8,7 +8,7 @@
 1953、_russian_Шаманские пляски_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79c48ace537d09cc2be25049ec295e18

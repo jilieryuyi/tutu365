@@ -8,7 +8,7 @@
 14177、_russian_Всадник затерянного ручья_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cd2fee35c8fbf23a42aac38af5ce204

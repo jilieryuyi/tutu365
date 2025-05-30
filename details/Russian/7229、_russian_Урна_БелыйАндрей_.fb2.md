@@ -8,7 +8,7 @@
 7229、_russian_Урна_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccb86108b075417d305603be1b1c0829

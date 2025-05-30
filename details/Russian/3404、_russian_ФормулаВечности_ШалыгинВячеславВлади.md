@@ -8,7 +8,7 @@
 3404、_russian_Формула Вечности_Шалыгин Вячеслав Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be94d02fc221491cd2f98b7b5350a129

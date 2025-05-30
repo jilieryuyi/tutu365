@@ -8,7 +8,7 @@
 2208、_russian_Непослушный мальчик Икар_Яковлев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e7ceddb71d8dc154074f4beeb8d580b

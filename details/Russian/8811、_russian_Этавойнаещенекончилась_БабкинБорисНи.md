@@ -8,7 +8,7 @@
 8811、_russian_Эта война еще не кончилась_Бабкин Борис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32c0d930dbd871c7a91234a94a2e10f2

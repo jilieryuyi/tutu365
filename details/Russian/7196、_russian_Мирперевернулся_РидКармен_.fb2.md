@@ -8,7 +8,7 @@
 7196、_russian_Мир перевернулся_Рид Кармен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d703caa7a2adf786f67d1a52503071fd

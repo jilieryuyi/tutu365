@@ -8,7 +8,7 @@
 10653、_russian_Грохот труб_Говард Роберт Ирвин, Торбетт Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb90b490633067ced0a7978547f44a3c

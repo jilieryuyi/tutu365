@@ -8,7 +8,7 @@
 12455、_russian_Смиренное кладбище_Каледин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0460d10b92fe010e60f3cb8b380ba0c2

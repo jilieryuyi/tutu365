@@ -8,7 +8,7 @@
 1147、数学那些事儿_思想、发现、人物和历史 (图灵新知)_邓纳姆(William Dunham)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 27669e2c0130566b9e8cf2a5d5ad67a9

@@ -8,7 +8,7 @@
 2742、_russian_Промашка_Браун Молли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67c9ba927622668beb1b3871e2d95b44

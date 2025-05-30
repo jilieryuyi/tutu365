@@ -8,7 +8,7 @@
 10066、_arabic_al-Kitab al-Muqaddas (______ ______) [The Holy Bible] [Good News Arabic (GNA) 063 DC - the Ecumenical Translation (_______ ________)]_Unknown_The Bible Society in Lebanon (_____ ______ ______ __ _____).pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ba38d5d464e748a31baabf8cad859d42

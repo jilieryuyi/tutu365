@@ -8,7 +8,7 @@
 3428、_russian_Драконья ненависть, или Дело врачей_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 698ac199ed44ffab568547bbc24a8b13

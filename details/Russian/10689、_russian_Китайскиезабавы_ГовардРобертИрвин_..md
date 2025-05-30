@@ -8,7 +8,7 @@
 10689、_russian_Китайские забавы_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af05587bf6a012d2b3ebc9547f54c886

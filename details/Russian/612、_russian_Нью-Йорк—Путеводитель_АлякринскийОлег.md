@@ -8,7 +8,7 @@
 612、_russian_Нью-Йорк — Путеводитель_Алякринский Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2ac124c85b4e11324544b3f0c10a13e

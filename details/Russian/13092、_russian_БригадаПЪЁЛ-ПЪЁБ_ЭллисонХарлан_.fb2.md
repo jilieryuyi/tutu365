@@ -8,7 +8,7 @@
 13092、_russian_Бригада ПЪЁЛ-ПЪЁБ_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc405f75d026c8a00b77ec8ca3c3e4b3

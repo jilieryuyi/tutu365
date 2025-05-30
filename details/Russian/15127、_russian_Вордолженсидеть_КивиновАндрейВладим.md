@@ -8,7 +8,7 @@
 15127、_russian_Вор должен сидеть_Кивинов Андрей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0f289339f8b176022041a6e9659bbcc

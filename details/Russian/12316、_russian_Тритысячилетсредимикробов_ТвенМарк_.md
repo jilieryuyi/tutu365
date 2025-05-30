@@ -8,7 +8,7 @@
 12316、_russian_Три тысячи лет среди микробов_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fe464a506f1f19f4dadd996c75e73ad

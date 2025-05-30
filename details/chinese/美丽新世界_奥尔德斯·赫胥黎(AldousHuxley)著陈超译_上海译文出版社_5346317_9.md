@@ -8,7 +8,7 @@
 美丽新世界_奥尔德斯·赫胥黎 (Aldous Huxley) 著 陈超 译_上海译文出版社_5346317_9e01a907d326de3a7d0b0bbf9d951165.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9e01a907d326de3a7d0b0bbf9d951165

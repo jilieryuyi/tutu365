@@ -8,7 +8,7 @@
 12628、_russian_Шарманка_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddba6d754a72be47c4b121ea359ec1bd

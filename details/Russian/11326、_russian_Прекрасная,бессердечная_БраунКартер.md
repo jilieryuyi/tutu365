@@ -8,7 +8,7 @@
 11326、_russian_Прекрасная, бессердечная_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3b861853ee45c52134e688db74862cc

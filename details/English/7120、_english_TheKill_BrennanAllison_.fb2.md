@@ -8,7 +8,7 @@
 7120、_english_The Kill_Brennan Allison_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 129ad06c6a99cc15ccb2d601524c10df

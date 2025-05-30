@@ -8,7 +8,7 @@
 12866、_russian_Предатель жребий не бросает_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e406b83ac3dcf4cff327407d32209b19

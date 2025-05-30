@@ -8,7 +8,7 @@
 12572、_russian_Книга сновидений (антология)_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3096af58d9fec92dead62f64166f4ec

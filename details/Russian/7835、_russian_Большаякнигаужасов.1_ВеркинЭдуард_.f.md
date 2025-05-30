@@ -8,7 +8,7 @@
 7835、_russian_Большая книга ужасов. 1_Веркин Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12ca8a4bd36dc98b91f5e9a2e6e783f9

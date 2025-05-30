@@ -8,7 +8,7 @@
 4446、_russian_Обесчещенные_Баррет Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a152807656e8821290d184ff6d447ce

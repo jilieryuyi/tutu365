@@ -8,7 +8,7 @@
 13078、_russian_Пожиная бурю_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b7c6c3ee082469224ae80eaae670dbe

@@ -8,7 +8,7 @@
 12522、_russian_Кровавая клятва_Моррелл Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa616af17e369e3f2add11cf60223ce4

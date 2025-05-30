@@ -8,7 +8,7 @@
 13504、_russian_Ледяное сердце_Лэнгтон Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfe3e4145906d4ecfa4fd46702f9efa5

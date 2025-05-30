@@ -8,7 +8,7 @@
 12672、_russian_Вещие сны_Кроуфорд Элейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86ec706901bc814fedd6e810da209507

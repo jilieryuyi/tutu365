@@ -8,7 +8,7 @@
 5340、_russian_Голая агрессия_Серегин Михаил Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1893ba0da1614287641343aab65fdd46

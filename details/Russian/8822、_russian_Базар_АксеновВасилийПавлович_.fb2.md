@@ -8,7 +8,7 @@
 8822、_russian_Базар_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 104c84ad7bde93cc62fde4abbfb89bf6

@@ -8,7 +8,7 @@
 13031、_russian_Когда прольется кровь_Колодзейчак Томаш_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abd4367719aedb335abe2ecf37b5344f

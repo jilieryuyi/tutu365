@@ -8,7 +8,7 @@
 民国掌故min guo zhang gu_yang tianshi__3603609_0174142657d6afea996315b82fd6cc64.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0174142657d6afea996315b82fd6cc64

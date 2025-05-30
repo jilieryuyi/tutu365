@@ -8,7 +8,7 @@
 483、_russian_Сияние. Остров теней_Алейников Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9829184f1c37822b8a04150e7ecacc63

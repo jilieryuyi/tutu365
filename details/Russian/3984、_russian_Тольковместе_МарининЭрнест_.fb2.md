@@ -8,7 +8,7 @@
 3984、_russian_Только вместе_Маринин Эрнест_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a0b8f1fdfe2c9bc9360a5d807b6ad7c

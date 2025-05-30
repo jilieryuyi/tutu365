@@ -8,7 +8,7 @@
 13007、_russian_Кодекс разведчика_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2a40448f72f7a9abf80b1f4258f76e5

@@ -8,7 +8,7 @@
 6294、_russian_Милость богов_Яновская Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09806d26642dd6b70df7e4ca78a36566

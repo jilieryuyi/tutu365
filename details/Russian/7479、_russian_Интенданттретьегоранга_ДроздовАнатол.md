@@ -8,7 +8,7 @@
 7479、_russian_Интендант третьего ранга_Дроздов Анатолий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9ab0546e99e2d5e856fe21b0e9f2d38

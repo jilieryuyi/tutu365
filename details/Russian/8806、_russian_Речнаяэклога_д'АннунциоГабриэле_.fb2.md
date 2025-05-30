@@ -8,7 +8,7 @@
 8806、_russian_Речная эклога_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 794e3b5cc73437fbe336845971d54102

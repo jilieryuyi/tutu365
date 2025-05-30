@@ -8,7 +8,7 @@
 14767、_ukrainian_451  за Фаренгейтом_Рей Бредбер__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08aeb90a537802377885cf1d4f557c8e

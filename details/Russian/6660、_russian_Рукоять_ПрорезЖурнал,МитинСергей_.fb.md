@@ -8,7 +8,7 @@
 6660、_russian_Рукоять_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5b6fc60d1260bf9630478bad9381b99

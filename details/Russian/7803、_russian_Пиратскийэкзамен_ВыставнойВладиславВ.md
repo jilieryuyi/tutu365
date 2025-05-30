@@ -8,7 +8,7 @@
 7803、_russian_Пиратский экзамен_Выставной Владислав Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2323d29b889fa6fb6cf7c024181befa1

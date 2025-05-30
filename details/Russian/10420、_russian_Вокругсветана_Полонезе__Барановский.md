@@ -8,7 +8,7 @@
 10420、_russian_Вокруг света на _Полонезе__Барановский Кшиштоф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ab9560d9e14b30a2620cce645dc27f4

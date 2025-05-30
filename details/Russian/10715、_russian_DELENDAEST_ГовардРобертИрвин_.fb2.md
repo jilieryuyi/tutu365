@@ -8,7 +8,7 @@
 10715、_russian_DELENDA EST_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 441c7437d786adb7d73030a198d0fa5b

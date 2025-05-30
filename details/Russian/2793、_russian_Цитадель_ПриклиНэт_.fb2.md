@@ -8,7 +8,7 @@
 2793、_russian_Цитадель_Прикли Нэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af1528308fcb4ee3e461bc840690866d

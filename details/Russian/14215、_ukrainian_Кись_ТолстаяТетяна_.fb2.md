@@ -8,7 +8,7 @@
 14215、_ukrainian_Кись_Толстая Тетяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58a5350faf72ba7b2a1d38f78f3b3029

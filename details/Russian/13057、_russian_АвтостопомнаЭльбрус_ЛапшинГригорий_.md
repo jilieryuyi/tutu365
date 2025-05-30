@@ -8,7 +8,7 @@
 13057、_russian_Автостопом на Эльбрус_Лапшин Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ad67794e92644e85e7dd71ca8e9f918

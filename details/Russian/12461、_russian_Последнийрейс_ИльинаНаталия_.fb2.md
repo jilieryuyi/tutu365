@@ -8,7 +8,7 @@
 12461、_russian_Последний рейс_Ильина Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0f927f9507e7fed3dbb373f2dd89cde

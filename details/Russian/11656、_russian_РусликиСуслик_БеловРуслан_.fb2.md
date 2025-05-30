@@ -8,7 +8,7 @@
 11656、_russian_Руслик и Суслик_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff5eb668da2d25a2c5eec6564d8a8b86

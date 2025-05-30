@@ -8,7 +8,7 @@
 13012、_russian_Черный монах_Чамберс Роберт Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f43fd780c69d584b8f65783aba2d4ddc

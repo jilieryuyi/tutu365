@@ -8,7 +8,7 @@
 13477、_russian_Медитация_Далай-лама XIV_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4764bf3736c9d7b0597a9abeb388847d

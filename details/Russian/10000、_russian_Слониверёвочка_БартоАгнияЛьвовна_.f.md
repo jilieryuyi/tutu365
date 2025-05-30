@@ -8,7 +8,7 @@
 10000、_russian_Слон и верёвочка_Барто Агния Львовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a8ec81ade68263b66f5a6fd960e2f32

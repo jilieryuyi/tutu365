@@ -8,7 +8,7 @@
 DAMON ALBARN_ Blur, GoRiLLaz and other fables 中译本_Martin Roach, David Nolan, 波波儿（译）__5356865_5dfdbaaccd1a3ee843efc2bf8b1be3d7.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5dfdbaaccd1a3ee843efc2bf8b1be3d7

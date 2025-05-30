@@ -8,7 +8,7 @@
 7149、_russian_Стихи, не вошедшие в основные сборники_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78a2d9e9ae864ff6467f7227c1190b59

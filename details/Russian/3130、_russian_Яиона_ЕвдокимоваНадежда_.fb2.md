@@ -8,7 +8,7 @@
 3130、_russian_Я и она_Евдокимова Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86a35e3f85895853fedfef1f027af893

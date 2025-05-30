@@ -8,7 +8,7 @@
 7894、_russian_Лакки Старр и кольца Сатурна_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 191a395349c2aa74f62117658ba926cc

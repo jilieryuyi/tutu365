@@ -8,7 +8,7 @@
 15089、_russian_Наследник_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc0db8f02cdd2bdc1f535f92ed873851

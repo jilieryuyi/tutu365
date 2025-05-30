@@ -8,7 +8,7 @@
 1271、_russian_Детектив Клуб - 2 (Сборник)_Кривенко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50400587d48489d236e3dcff41869bf7

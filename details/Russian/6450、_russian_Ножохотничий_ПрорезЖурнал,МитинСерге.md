@@ -8,7 +8,7 @@
 6450、_russian_Нож охотничий_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3237d54ccbf760cc711d74fccdca50b

@@ -8,7 +8,7 @@
 8364、_russian_Три тонны презервативов_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5863ce7e706ab36d1bed0e1bfee09c0

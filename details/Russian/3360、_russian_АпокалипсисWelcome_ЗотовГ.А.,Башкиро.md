@@ -8,7 +8,7 @@
 3360、_russian_Апокалипсис Welcome_Зотов Г. А., Башкирова Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a830e5ecfe0294cb6cd742c7cd97756

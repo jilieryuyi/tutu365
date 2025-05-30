@@ -8,7 +8,7 @@
 php时间转换.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d7f00ecc1d1b1f4af060af104e3865bb

@@ -8,7 +8,7 @@
 12501、_russian_Подросток былых времен_Мориак Франсуа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e33d7a719874c68212dc14773436cf71

@@ -8,7 +8,7 @@
 8093、_russian_Чудаки и придурки! Передай дальше!_Шепелев Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c6a7b931f9167f03c9f6f14c2ef08d8

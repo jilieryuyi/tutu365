@@ -8,7 +8,7 @@
 323、_russian_Великолепно!_Куин Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc0f084c008841c26304c887e4b96872

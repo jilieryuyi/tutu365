@@ -8,7 +8,7 @@
 4334、_russian_Это все кошки_Акимушкин Игорь Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9bb6c1c188a9c967a3e8fe2aeb8bbefc

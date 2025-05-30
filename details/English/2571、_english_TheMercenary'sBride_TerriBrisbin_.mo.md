@@ -8,7 +8,7 @@
 2571、_english_The Mercenary's Bride_Terri Brisbin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d2966052c03db6724b69021054af416d

@@ -8,7 +8,7 @@
 7910、_english_Awakened by the Prince's Passion_Bronwyn Scott_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 157c6233f3208611a9f3bd59b98ec4af

@@ -8,7 +8,7 @@
 8284、_russian_Нежное прикосновение_Финч Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fec02706fe47ebc96d37b4550279737

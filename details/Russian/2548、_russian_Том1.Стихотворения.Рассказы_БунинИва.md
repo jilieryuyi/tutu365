@@ -8,7 +8,7 @@
 2548、_russian_Том 1. Стихотворения. Рассказы_Бунин Иван Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cfa727b39e4838285e8d77ea4f8d83a

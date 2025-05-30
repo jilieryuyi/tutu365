@@ -8,7 +8,7 @@
 14407、_russian_Схематизатор Пупова_Баландин Рудольф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d03e038c0824eac460fb4fb28c800a1d

@@ -8,7 +8,7 @@
 8770、_english_Refactoring JavaScript_Evan Burchard_O'Reilly Media, Inc..epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 67958289bc5afd2c3dd52c6a805ebb33

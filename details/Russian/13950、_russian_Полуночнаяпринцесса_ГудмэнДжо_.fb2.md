@@ -8,7 +8,7 @@
 13950、_russian_Полуночная принцесса_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b12355df1032572ff85334cfd791de49

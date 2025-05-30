@@ -8,7 +8,7 @@
 ASP实现网站站内静态页搜索引擎.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e939e6936f73ca4cf9668737f31620d5

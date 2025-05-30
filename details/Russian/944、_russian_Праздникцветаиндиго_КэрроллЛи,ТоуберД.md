@@ -8,7 +8,7 @@
 944、_russian_Праздник цвета индиго_Кэрролл Ли, Тоубер Джен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c77fa56d81be9a5e676d6d821744465

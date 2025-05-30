@@ -8,7 +8,7 @@
 456、_russian_Повесть о глупости и суете_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c0a80d78cef599a6d815b59248647b5

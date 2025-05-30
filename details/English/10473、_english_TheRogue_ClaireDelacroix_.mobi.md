@@ -8,7 +8,7 @@
 10473、_english_The Rogue_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3dea3b6d82b22e517217c28233f9c90e

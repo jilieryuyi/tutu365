@@ -8,7 +8,7 @@
 15114、_russian_Прогноз погоды в доме_Логунова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff984306f6363ddfc72d948ef4727612

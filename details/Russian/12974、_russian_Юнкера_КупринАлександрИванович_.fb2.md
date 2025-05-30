@@ -8,7 +8,7 @@
 12974、_russian_Юнкера_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b77197fb43445ed497163363bc0faade

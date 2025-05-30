@@ -8,7 +8,7 @@
 996、Isaac_Action_Plan_伊萨克.巴顿_中国对外翻译出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5349ce20c622d5e8cfcf913849f3fecb

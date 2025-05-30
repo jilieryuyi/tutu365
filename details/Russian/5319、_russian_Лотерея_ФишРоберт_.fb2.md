@@ -8,7 +8,7 @@
 5319、_russian_Лотерея_Фиш Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 870666fdaf727ba3d0391a5b5e1a9cce

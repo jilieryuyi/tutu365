@@ -8,7 +8,7 @@
 4273、_russian_Свободен как птица_Марумото Ёсио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 900b10305922c5c31414be9916647cc0

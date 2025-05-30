@@ -8,7 +8,7 @@
 6940、_russian_Посылка_Малов Владимир Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aadc5d82f9bb07a10504ff16a8e1d553

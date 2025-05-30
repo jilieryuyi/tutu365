@@ -8,7 +8,7 @@
 5733、_russian_Проверка на разумность (сборник)_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6db3334a27fe93d0397d1ba25cd2695

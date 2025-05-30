@@ -8,7 +8,7 @@
 11247、_russian_Симби_Лебедев Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2afa5bf8ee7422b902630159108a5e07

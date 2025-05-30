@@ -8,7 +8,7 @@
 6169、_russian_Рыцарь Чаши и Змеи_Федотова Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 714f0848be174dd4f7efd5b1cbc5b3a1

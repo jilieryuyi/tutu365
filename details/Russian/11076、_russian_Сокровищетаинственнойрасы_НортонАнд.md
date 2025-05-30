@@ -8,7 +8,7 @@
 11076、_russian_Сокровище таинственной расы_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da1c7985342b793dcc981cfec259ffc0

@@ -8,7 +8,7 @@
 14343、_russian_Новолуние_Майер Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac3596dd1bea3fc146d131b37138c80d

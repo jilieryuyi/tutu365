@@ -8,7 +8,7 @@
 5496、_russian_Переоценка ценностей_Менбек Влад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39434a6e1f2887d31290af89312cc0ea

@@ -8,7 +8,7 @@
 4026、_russian_Не хочу быть ведьмой!_Гордиенко Галина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8559ee590a155c133aa526016a775613

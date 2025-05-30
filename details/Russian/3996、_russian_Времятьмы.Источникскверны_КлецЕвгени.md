@@ -8,7 +8,7 @@
 3996、_russian_Время тьмы. Источник скверны_Клец Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3b271d8abbb6740b3c604284c7d1ab6

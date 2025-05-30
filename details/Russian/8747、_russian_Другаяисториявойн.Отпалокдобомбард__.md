@@ -8,7 +8,7 @@
 8747、_russian_Другая история войн. От палок до бомбард__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0898b24a07c85e512aede8a622784d6f

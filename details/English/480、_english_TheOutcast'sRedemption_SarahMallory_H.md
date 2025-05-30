@@ -8,7 +8,7 @@
 480、_english_The Outcast's Redemption_Sarah Mallory_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1c1bdcc8be93bf302cda452e83ccf53e

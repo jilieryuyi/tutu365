@@ -8,7 +8,7 @@
 1846、_russian_Я, грек Зорба_Казандзакис Никос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0cd7351253752f6981efb6147d315b9

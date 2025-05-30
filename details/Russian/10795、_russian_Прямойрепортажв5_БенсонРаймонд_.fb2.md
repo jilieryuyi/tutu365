@@ -8,7 +8,7 @@
 10795、_russian_Прямой репортаж в 5_Бенсон Раймонд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e62fd131d9193d606b5dad5d0c050eee

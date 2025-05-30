@@ -8,7 +8,7 @@
 14307、_russian_Звездный странник – 1. Корабль_Сергей Афанасьев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 489102194cbf402eb7495b87c6b1dc12

@@ -8,7 +8,7 @@
 4274、_russian_Абсолютное оружие_Деревянко Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2acb83ab418fb858e08a5d4feb018073

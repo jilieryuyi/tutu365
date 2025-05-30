@@ -8,7 +8,7 @@
 13454、_russian_Вальпургиева ночь_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6d1278a889afd9993a21cd90b7650ff

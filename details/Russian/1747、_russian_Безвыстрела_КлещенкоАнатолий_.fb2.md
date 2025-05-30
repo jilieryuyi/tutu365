@@ -8,7 +8,7 @@
 1747、_russian_Без выстрела_Клещенко Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39339da0e3b478dd74553c144611719e

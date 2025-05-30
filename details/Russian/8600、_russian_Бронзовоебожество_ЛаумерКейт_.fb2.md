@@ -8,7 +8,7 @@
 8600、_russian_Бронзовое божество_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5228731d53b986e3ec9ed71d61e7b8c4

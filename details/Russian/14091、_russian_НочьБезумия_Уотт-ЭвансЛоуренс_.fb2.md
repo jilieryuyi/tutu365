@@ -8,7 +8,7 @@
 14091、_russian_Ночь Безумия_Уотт-Эванс Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21f4f876a2a16866fceb971598360213

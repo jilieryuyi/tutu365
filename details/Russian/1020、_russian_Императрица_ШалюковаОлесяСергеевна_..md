@@ -8,7 +8,7 @@
 1020、_russian_Императрица_Шалюкова Олеся Сергеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 189fd0d3472bbc92062ef9be669b5056

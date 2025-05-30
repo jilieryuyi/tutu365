@@ -8,7 +8,7 @@
 8534、_russian_Бортник_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 952aff66bf51fb07b0b28f6bc2c8b973

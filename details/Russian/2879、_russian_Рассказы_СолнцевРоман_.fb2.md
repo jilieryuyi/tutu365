@@ -8,7 +8,7 @@
 2879、_russian_Рассказы_Солнцев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e9cf27fbfad8d1f7d0298844dc1b196

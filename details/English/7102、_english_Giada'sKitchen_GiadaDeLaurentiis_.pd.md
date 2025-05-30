@@ -8,7 +8,7 @@
 7102、_english_Giada's Kitchen_Giada De Laurentiis_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9cf6743fc3e63b6aa8a0ce3e3c69a443

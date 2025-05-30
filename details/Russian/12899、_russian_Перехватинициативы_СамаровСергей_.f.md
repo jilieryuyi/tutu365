@@ -8,7 +8,7 @@
 12899、_russian_Перехват инициативы_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b39e08004bc0f25c6486961b57e22bf3

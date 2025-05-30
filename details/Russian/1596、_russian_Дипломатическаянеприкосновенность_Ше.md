@@ -8,7 +8,7 @@
 1596、_russian_Дипломатическая неприкосновенность_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2df6c01fadd526ab2cbe866f218eee42

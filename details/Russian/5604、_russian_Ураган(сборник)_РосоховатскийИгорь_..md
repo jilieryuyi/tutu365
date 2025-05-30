@@ -8,7 +8,7 @@
 5604、_russian_Ураган (сборник)_Росоховатский Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 588cf8f98350f500153d5a521ecd9f3d

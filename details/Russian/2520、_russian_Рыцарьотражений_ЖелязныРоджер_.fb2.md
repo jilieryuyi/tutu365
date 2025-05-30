@@ -8,7 +8,7 @@
 2520、_russian_Рыцарь отражений_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9422f975858ba50d09f24ccf3cbfb987

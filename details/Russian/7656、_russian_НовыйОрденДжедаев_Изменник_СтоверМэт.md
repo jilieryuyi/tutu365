@@ -8,7 +8,7 @@
 7656、_russian_Новый Орден Джедаев_ Изменник_Стовер Мэтью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 545a5f537ec0c67ec9f0bed8033c2457

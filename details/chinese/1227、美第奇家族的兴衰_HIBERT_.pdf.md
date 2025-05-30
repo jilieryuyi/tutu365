@@ -8,7 +8,7 @@
 1227、美第奇家族的兴衰_HIBERT_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 72cf24e7ed4b687565f404bc7a6d9149

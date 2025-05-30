@@ -8,7 +8,7 @@
 5981、_russian_Зона_ Записки надзирателя_Довлатов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66a9da48766e19d39e968cfa24c8a415

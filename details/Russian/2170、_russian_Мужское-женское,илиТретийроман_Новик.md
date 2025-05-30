@@ -8,7 +8,7 @@
 2170、_russian_Мужское-женское, или Третий роман_Новикова Ольга Ильинична_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a747f7daa14bcf0154394210da1d9b53

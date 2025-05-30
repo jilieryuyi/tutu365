@@ -8,7 +8,7 @@
 4650、_russian_Любовь и грезы_Хэган Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97e38a132507dc36b90d14218d6aaca9

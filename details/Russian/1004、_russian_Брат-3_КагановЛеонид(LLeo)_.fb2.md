@@ -8,7 +8,7 @@
 1004、_russian_Брат-3_Каганов Леонид (LLeo)_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7ab31ca2319eb4b4b61dcdf3250fb63

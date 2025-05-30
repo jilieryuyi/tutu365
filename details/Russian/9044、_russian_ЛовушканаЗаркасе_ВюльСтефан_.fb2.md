@@ -8,7 +8,7 @@
 9044、_russian_Ловушка на Заркасе_Вюль Стефан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0928e0883120e2cbddc48d7974f1d995

@@ -8,7 +8,7 @@
 12081、_russian_Моя маленькая война_Боон Луи-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0857d628fbf7d2496fa5ce07cdcabda

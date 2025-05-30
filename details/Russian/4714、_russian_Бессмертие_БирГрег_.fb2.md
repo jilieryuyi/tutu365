@@ -8,7 +8,7 @@
 4714、_russian_Бессмертие_Бир Грег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6af5b0b36782f99aa55388ad89503e2e

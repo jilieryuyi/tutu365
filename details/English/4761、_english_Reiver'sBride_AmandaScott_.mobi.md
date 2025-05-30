@@ -8,7 +8,7 @@
 4761、_english_Reiver's Bride_Amanda Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2db0dbab6dae38967a4562c8378f60ce

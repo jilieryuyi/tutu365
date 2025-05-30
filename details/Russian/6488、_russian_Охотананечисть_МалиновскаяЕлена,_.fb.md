@@ -8,7 +8,7 @@
 6488、_russian_Охота на нечисть_Малиновская Елена, _.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d292613fbf8741beea94825ed98f8380

@@ -8,7 +8,7 @@
 10723、_russian__Сыны Рагузы__Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 817ac894fee0e0f078bf956965aac933

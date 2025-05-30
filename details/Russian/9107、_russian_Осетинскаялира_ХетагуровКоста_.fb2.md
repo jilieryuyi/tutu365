@@ -8,7 +8,7 @@
 9107、_russian_Осетинская лира_Хетагуров Коста_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bba2ae2c6bccf0f58ff0a09eda043ff2

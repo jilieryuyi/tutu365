@@ -8,7 +8,7 @@
 11087、_russian_Золотой мак_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc96a1208be72553474e64f0ed6c9915

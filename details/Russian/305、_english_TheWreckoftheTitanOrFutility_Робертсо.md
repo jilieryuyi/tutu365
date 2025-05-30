@@ -8,7 +8,7 @@
 305、_english_The Wreck of the Titan Or Futility_Робертсон Морган_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c05166165fbe188b283d7d74397f615

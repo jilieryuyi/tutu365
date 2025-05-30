@@ -8,7 +8,7 @@
 12883、_russian_Классный водитель_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b06ac81e6d49f58c3567aaae99968175

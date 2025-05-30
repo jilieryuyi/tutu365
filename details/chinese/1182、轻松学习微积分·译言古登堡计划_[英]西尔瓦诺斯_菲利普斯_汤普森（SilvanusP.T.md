@@ -8,7 +8,7 @@
 1182、轻松学习微积分·译言古登堡计划_[英] 西尔瓦诺斯_菲利普斯_汤普森（Silvanus P. Thompson）；曹宇合、黄霈臻、罗路翻译_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 240b20b9100bb2fa0156744e8f899807

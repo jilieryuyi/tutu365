@@ -8,7 +8,7 @@
 11944、_russian_Царь зверей_Кивинов Андрей, Дудинцев Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d68772d2f57d794886949aa802cd7458

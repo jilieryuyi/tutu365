@@ -8,7 +8,7 @@
 11936、_russian_Первое дело слепого. Проект Ванга_Воронин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89ebc04f9b5379b2242850ee20e4d5e8

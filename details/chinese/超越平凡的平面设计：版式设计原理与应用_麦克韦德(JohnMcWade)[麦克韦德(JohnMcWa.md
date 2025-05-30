@@ -8,7 +8,7 @@
 超越平凡的平面设计：版式设计原理与应用_麦克韦德(John McWade) [麦克韦德(John McWade)]__5371381_82dec83bf697c81fcc6f3dadef49e9f9.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 82dec83bf697c81fcc6f3dadef49e9f9

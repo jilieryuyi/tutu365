@@ -8,7 +8,7 @@
 8805、_russian_Энциклопедия развивающих игр_Данилова Лена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d4f6a20b095e340ac14ca268cff499f

@@ -8,7 +8,7 @@
 3013、_russian_Ностальгия_Березин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ce40a267ed8b59346b33e3c9ec62df5

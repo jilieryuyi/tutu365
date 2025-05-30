@@ -8,7 +8,7 @@
 5562、_french_Germinal_Zola _mile_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bc5f25f5b28c7bf7022c3885bc5155fd

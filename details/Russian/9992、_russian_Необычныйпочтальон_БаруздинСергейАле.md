@@ -8,7 +8,7 @@
 9992、_russian_Необычный почтальон_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82b21f4d2fd92f934d8017118b30eaec

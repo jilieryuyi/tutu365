@@ -8,7 +8,7 @@
 3465、_russian_Страна призраков_Гибсон Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcba51ff941098238db878e91d67a13b

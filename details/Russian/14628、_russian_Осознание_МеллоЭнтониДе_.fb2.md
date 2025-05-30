@@ -8,7 +8,7 @@
 14628、_russian_Осознание_Мелло Энтони Де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32d1027f1f09d5a6f14e047ed95af2ef

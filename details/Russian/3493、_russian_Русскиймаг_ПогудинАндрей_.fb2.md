@@ -8,7 +8,7 @@
 3493、_russian_Русский маг_Погудин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a11735673f3227164a5982fd4555da1

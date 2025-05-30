@@ -8,7 +8,7 @@
 11268、_russian_Шекспир в меблирашках_Арагон Луи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f4f2c6ba176c9bca9f16c4a0caef2ca

@@ -8,7 +8,7 @@
 12069、_russian_Сегодня и всегда_Келли Кэти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9125a4fc5d99c396016d2058abea3d45

@@ -8,7 +8,7 @@
 371、_other_ОБУЧЕН_Е__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a23bac41a22a38bff9a5630617e73c3

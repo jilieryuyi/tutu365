@@ -8,7 +8,7 @@
 6885、_russian_Полесские робинзоны_Мавр Янка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3127a6081aa5b944942b67cff3cdb9e5

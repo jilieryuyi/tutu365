@@ -8,7 +8,7 @@
 7230、_english_The Black Knight's Captive_Anna Markland_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 064aa3bc257c725e813c662b540638b4

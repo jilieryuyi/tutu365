@@ -8,7 +8,7 @@
 5912、_russian_Герцогиня_Алисон Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8b34d21b0e3028dda680b748a76f650

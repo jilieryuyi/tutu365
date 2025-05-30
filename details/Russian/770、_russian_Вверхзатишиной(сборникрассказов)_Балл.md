@@ -8,7 +8,7 @@
 770、_russian_Вверх за тишиной (сборник рассказов)_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f287abaf17a14d005f0de85b4ee980c

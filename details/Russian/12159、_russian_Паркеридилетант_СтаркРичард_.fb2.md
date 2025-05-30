@@ -8,7 +8,7 @@
 12159、_russian_Паркер и дилетант_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b64ed2b0679434c1bf79e5fb28a7f7d0

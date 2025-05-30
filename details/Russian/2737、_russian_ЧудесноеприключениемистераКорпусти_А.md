@@ -8,7 +8,7 @@
 2737、_russian_Чудесное приключение мистера Корпусти_Армстронг Энтони_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d6f42c73f9ec4b0c347d4afa7907570

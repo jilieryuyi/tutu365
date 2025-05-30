@@ -8,7 +8,7 @@
 14943、_russian_Огненный остров_Уэнтворт Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 302481a5abd9090d67746da914efebfa

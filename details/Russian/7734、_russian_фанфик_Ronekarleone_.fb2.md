@@ -8,7 +8,7 @@
 7734、_russian_фанфик_Ronekarleone_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f9bf27f51d973a09302b5e089aae7ce

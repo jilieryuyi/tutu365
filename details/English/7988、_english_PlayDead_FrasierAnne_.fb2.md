@@ -8,7 +8,7 @@
 7988、_english_Play Dead_Frasier Anne_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5cca214ff0794d9dacffb319b9c40f99

@@ -8,7 +8,7 @@
 4075、_russian_Витязь Железный Бивень_Чешко Федор Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ea3052451e670b122448736ec1a9b6c

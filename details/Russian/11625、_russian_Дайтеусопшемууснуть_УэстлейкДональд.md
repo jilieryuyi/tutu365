@@ -8,7 +8,7 @@
 11625、_russian_Дайте усопшему уснуть_Уэстлейк Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37f90426a80c5b2cfd15c019381486e0

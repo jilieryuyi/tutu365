@@ -8,7 +8,7 @@
 1254、自营销互联网方法：内容营销之父手册_（美）普立兹（Pulizzi,J.） 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4d4b7a7c17e6ab67122f9adc46745b72

@@ -8,7 +8,7 @@
 帝国的消亡：当代俄罗斯的教训_[俄] E. T. 盖达尔_社会科学文献出版社_5341263_7bdf60d4b98fdfdf073e3df31f4e7ccf.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7bdf60d4b98fdfdf073e3df31f4e7ccf

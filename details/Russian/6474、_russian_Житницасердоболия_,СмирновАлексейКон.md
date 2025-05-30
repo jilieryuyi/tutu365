@@ -8,7 +8,7 @@
 6474、_russian_Житница сердоболия_, Смирнов Алексей Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72678d5defa8d2b2aa263b14d8813c68

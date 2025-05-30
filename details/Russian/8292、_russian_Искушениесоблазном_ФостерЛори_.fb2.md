@@ -8,7 +8,7 @@
 8292、_russian_Искушение соблазном_Фостер Лори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cb309b50d026377c0217b4d4f9af99b

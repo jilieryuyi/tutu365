@@ -8,7 +8,7 @@
 6709、_russian_Синие Маки_Мэнсон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4d623082382e6c4288dd27c2680c9fc

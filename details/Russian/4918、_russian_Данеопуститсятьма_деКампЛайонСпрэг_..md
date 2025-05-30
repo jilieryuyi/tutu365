@@ -8,7 +8,7 @@
 4918、_russian_Да не опустится тьма_де Камп Лайон Спрэг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 866ae4fb8b98d82bceed3c2ef106d2b6

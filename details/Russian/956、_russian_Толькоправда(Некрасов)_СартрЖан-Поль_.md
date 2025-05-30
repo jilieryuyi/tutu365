@@ -8,7 +8,7 @@
 956、_russian_Только правда (Некрасов)_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 377544facd947ea2ebe6e7ea7647b490

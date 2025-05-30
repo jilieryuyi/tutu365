@@ -8,7 +8,7 @@
 6080、_russian_Русское варенье_Улицкая Людмила Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6845c1858c87a5bf29535326e28b0a0

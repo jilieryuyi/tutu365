@@ -8,7 +8,7 @@
 怀疑的时代需要怎样的信仰_徐贲 [xuben]__5488016_3bae9de6ec9646baee345423ae50451b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3bae9de6ec9646baee345423ae50451b

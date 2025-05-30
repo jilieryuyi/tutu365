@@ -8,7 +8,7 @@
 72、_russian_Обещание на рассвете_Гари Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ceb20ac0b2f67b88ee7cad23d7d582d

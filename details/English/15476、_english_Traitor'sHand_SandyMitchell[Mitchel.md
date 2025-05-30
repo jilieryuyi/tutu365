@@ -8,7 +8,7 @@
 15476、_english_Traitor's Hand_Sandy Mitchell [Mitchell, Sandy]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 27321312624107be631598def338aa42

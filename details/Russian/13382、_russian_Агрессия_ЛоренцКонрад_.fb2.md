@@ -8,7 +8,7 @@
 13382、_russian_Агрессия_Лоренц Конрад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf1fc7a0ecc6339d1e3d10865a851885

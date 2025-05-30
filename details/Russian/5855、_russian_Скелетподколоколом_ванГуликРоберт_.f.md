@@ -8,7 +8,7 @@
 5855、_russian_Скелет под колоколом_ван Гулик Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cf701d174e8c871c779049539cfb2f8

@@ -8,7 +8,7 @@
 4076、_russian_Резидент_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b6467f7662118703185a67ab7fbbc78

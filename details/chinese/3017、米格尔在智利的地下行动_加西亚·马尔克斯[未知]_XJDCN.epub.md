@@ -8,7 +8,7 @@
 3017、米格尔在智利的地下行动_加西亚·马尔克斯 [未知]_XJDCN.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 35ca108611be5d009b4c82e5fd908866

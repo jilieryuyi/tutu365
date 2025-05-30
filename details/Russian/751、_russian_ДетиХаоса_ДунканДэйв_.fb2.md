@@ -8,7 +8,7 @@
 751、_russian_Дети Хаоса_Дункан Дэйв_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54f4dea9f6d2b3a93dfd6903380a5c0c

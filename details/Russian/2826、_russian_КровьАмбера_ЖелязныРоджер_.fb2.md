@@ -8,7 +8,7 @@
 2826、_russian_Кровь Амбера_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f6fd5bbfa3c4ff554cbc0fd8cb46555

@@ -8,7 +8,7 @@
 5344、_russian_Сборник стихов_Ахмадулина Белла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5962490435012c92f49e411db379c94

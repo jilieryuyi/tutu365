@@ -8,7 +8,7 @@
 801、_russian_Том 1. Стихотворения_Есенин Сергей Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd565a8ff6faf2541c89b477c78adc9c

@@ -8,7 +8,7 @@
 2138、_russian_Дуэль в Кабуле_Гус Михаил Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22b9818aec784fbe96579576a33c262f

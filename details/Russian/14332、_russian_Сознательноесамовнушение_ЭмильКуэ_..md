@@ -8,7 +8,7 @@
 14332、_russian_Сознательное самовнушение_Эмиль Куэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e6e2534a1bb5618343f5f3abe0c0e98

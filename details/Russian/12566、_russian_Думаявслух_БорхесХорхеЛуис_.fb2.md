@@ -8,7 +8,7 @@
 12566、_russian_Думая вслух_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cbcff78458fb1708539eef48269a832

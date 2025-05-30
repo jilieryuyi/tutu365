@@ -8,7 +8,7 @@
 12911、_indonesian_Al Furqan (Tafsir Qur'an )_A. Hassan_Al Ikhwan.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 06cb2b613ec789d2f433599be686e0a4

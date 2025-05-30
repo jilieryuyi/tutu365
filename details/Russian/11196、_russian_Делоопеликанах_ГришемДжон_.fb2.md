@@ -8,7 +8,7 @@
 11196、_russian_Дело о пеликанах_Гришем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 571bd8153c5c204999c9f633334ce9b7

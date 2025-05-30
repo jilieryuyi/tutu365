@@ -8,7 +8,7 @@
 8530、_english_Cordyceps_Ian Duncan _Hammerdown.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 48d1fb1141dbda8b679cbff3a897b3df

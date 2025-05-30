@@ -8,7 +8,7 @@
 5782、_russian_Земные катастрофы_Циолковский Константин Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 101f9a8a1faf7f976f6fc8731ef11d3b

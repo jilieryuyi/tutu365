@@ -8,7 +8,7 @@
 13449、_russian_Опал_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75a85ae7747161a3fb608a1d29f207ae

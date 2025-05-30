@@ -8,7 +8,7 @@
 +NoSQL-NoSQL误用和常见陷阱分析(孙立).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e19f4b4936d2e92ec2462a8a9579c71d

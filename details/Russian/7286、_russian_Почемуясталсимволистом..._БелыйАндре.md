@@ -8,7 +8,7 @@
 7286、_russian_Почему я стал символистом..._Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 436a58cfc50f7eb83274a9436b0492f9

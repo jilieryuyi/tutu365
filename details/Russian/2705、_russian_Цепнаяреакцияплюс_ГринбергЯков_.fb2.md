@@ -8,7 +8,7 @@
 2705、_russian_Цепная реакция плюс_Гринберг Яков_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10d9ec8a13acfcf2e4a9cc111f8d3dd4

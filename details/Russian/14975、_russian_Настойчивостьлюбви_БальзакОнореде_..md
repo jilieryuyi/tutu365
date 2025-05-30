@@ -8,7 +8,7 @@
 14975、_russian_Настойчивость любви_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5889f2f91382c1d13cc7dd929a4255c8

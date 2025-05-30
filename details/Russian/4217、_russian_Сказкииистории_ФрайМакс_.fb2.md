@@ -8,7 +8,7 @@
 4217、_russian_Сказки и истории_Фрай Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87d3d6ac0fe9dbeadbb0b3beaf4e6f82

@@ -8,7 +8,7 @@
 7189、_russian_Воспоминания, очерки, репортаж_Мандельштам Осип_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3422c1d0401e8e6cd40cb708b609376

@@ -8,7 +8,7 @@
 359、_russian_Новая жизнь_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e3bbf5b92e4c40693e532b70b69db44

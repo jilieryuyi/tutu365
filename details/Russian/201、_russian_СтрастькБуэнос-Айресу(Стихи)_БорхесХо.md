@@ -8,7 +8,7 @@
 201、_russian_Страсть к Буэнос-Айресу (Стихи)_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9980cb10d5cc0f0ae546be005b31bd3

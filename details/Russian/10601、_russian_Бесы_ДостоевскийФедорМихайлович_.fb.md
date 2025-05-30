@@ -8,7 +8,7 @@
 10601、_russian_Бесы_Достоевский Федор Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0828e1881eebb9da4686e33087f52e21

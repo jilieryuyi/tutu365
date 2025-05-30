@@ -8,7 +8,7 @@
 8819、_russian_Физолирика_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 688fec81cb995e650909f3c4ca60cb6f

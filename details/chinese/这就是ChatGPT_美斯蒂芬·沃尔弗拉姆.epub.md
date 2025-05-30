@@ -8,7 +8,7 @@
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a2891b5485f02292e4d740bce8c0fb60

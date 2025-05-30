@@ -8,7 +8,7 @@
 4706、_russian_Убить завтрашний день_Рид Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f0ccd535e2cce5c86dbcf8f76a60ae6

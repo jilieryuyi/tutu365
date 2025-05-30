@@ -8,7 +8,7 @@
 12184、_russian_Тайна взорванного монастыря_Биргер Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 411fe08a725d49e0e6206254e1ddc3ab

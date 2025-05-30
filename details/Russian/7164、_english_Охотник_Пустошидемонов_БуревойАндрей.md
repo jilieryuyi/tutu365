@@ -8,7 +8,7 @@
 7164、_english_Охотник_ Пустоши демонов_Буревой Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc04500cb4ce7c0f6ad3b105aa1b52dd

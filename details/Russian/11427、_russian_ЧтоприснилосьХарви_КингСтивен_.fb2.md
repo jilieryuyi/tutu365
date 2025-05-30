@@ -8,7 +8,7 @@
 11427、_russian_Что приснилось Харви_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8c07fef560fe5463b5aeb19df842480

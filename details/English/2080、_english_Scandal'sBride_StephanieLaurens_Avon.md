@@ -8,7 +8,7 @@
 2080、_english_Scandal's Bride_Stephanie Laurens_Avon.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ef2121aba3660a30305fe24344474540

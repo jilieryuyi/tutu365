@@ -8,7 +8,7 @@
 2853、_russian_Книга Синана_Шульпяков Глеб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed4e05c3a2e3acae5f467273186186e3

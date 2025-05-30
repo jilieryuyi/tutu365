@@ -8,7 +8,7 @@
 7339、_russian_И тогда приходят мародеры_Бакланов Григорий Яковлевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e818cd061fcd91f1be439e78b40a372

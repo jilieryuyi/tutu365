@@ -8,7 +8,7 @@
 14414、_russian_Общество Дракона_Уотт-Эванс Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52a9cdfb82e64e8bc1ebb955dd5d5612

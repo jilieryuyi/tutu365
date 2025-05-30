@@ -8,7 +8,7 @@
 13213、_russian_В каменном колодце_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f1bb5dc3dc0751106d7728b77e89d1c

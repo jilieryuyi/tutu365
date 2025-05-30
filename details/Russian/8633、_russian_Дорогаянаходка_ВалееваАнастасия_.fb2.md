@@ -8,7 +8,7 @@
 8633、_russian_Дорогая находка_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78333e51a1ef9341a9ec59840c956a00

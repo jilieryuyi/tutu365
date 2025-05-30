@@ -8,7 +8,7 @@
 12284、_russian_Смерть коммивояжера_Миллер Артур Ашер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f49b68b596a55c892b6813cefa00ba1

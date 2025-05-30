@@ -8,7 +8,7 @@
 472、_russian_Склеп_Ван Вогт Альфред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26facf20d072de133cb72cfee5653512

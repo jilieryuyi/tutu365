@@ -8,7 +8,7 @@
 恋爱中的博尔赫斯_阿尔维托·曼古埃尔 Alberto Manguel_华东师范大学出版社_5357853_3ff6ca7089cf1ff4f7d997809fbe25ef.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3ff6ca7089cf1ff4f7d997809fbe25ef

@@ -8,7 +8,7 @@
 4328、_russian_Параллельный катаклизм_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aef432ff610df8c6c8e6e92a91727777

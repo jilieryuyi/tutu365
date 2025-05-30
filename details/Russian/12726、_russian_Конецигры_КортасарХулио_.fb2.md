@@ -8,7 +8,7 @@
 12726、_russian_Конец игры_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 811d860d2f23b0ed10e450e1729bffcf

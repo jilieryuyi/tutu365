@@ -8,7 +8,7 @@
 12829、_russian_Буря_Шекспир Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 361cbc958b0ec6b4de08ecf83736858b

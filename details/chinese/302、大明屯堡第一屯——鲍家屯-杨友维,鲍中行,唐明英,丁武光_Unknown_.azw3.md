@@ -8,7 +8,7 @@
 302、大明屯堡第一屯——鲍家屯-杨友维,鲍中行,唐明英,丁武光_Unknown_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 885bccdc4349738d5f97b48591bcb56f

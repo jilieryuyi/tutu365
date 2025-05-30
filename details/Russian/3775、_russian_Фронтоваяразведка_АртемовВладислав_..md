@@ -8,7 +8,7 @@
 3775、_russian_Фронтовая разведка_Артемов Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fb1e012592ed34a226ae8e8d4ddae28

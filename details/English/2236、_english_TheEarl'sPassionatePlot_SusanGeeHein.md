@@ -8,7 +8,7 @@
 2236、_english_The Earl's Passionate Plot_Susan Gee Heino_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d32558c9718170ca38f343bf66c1c706

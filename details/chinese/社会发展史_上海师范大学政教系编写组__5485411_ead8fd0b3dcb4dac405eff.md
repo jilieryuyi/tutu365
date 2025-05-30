@@ -8,7 +8,7 @@
 社会发展史_上海师范大学 政教系编写组__5485411_ead8fd0b3dcb4dac405eff31c7ed03fc.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ead8fd0b3dcb4dac405eff31c7ed03fc

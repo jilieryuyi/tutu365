@@ -8,7 +8,7 @@
 11027、_russian_Двенадцатая койка_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c0aa8aa751b610fe0c37daaca73fbf3

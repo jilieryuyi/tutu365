@@ -8,7 +8,7 @@
 14478、_russian_По прозвищу Викинг_Степанычев Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e446aa4e86993381cd24402c10c378a

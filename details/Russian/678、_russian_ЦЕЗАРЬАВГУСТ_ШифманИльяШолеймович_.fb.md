@@ -8,7 +8,7 @@
 678、_russian_ЦЕЗАРЬ АВГУСТ_Шифман Илья Шолеймович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91098a19fecdfd6ad9ba2453dba7c692

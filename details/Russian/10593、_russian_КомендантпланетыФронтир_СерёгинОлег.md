@@ -8,7 +8,7 @@
 10593、_russian_Комендант планеты Фронтир_Серёгин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a30fb3ce99202c573b4b7c1845eae80

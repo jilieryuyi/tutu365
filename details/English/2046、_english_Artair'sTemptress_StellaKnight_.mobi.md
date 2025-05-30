@@ -8,7 +8,7 @@
 2046、_english_Artair's Temptress_Stella Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a1588be6908f016e72fa3b28b665106e

@@ -8,7 +8,7 @@
 14294、_russian_Бандитский нелегал_Карышев Валерий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ebbfbabcf0eee88a005721aa7344611

@@ -8,7 +8,7 @@
 17063、_english_The Duke's Tempting Bride_Lucy Langton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 77df70ef317a8dcb121e492857e2ad3d

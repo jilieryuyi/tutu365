@@ -8,7 +8,7 @@
 15095、_french_Mes Origines_Mistral Frédéric_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 976899b4f3748f27adaf672bc0899cdf

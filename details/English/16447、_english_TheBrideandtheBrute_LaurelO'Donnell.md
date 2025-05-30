@@ -8,7 +8,7 @@
 16447、_english_The Bride and the Brute_Laurel O'Donnell_ePub Bud (www.epubbud.com).mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 eafe7cd18b316f67d9f544d6accede94

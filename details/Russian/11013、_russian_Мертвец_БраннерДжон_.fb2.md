@@ -8,7 +8,7 @@
 11013、_russian_Мертвец_Браннер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68ed41411821a2c4d958e9fdc1498890

@@ -8,7 +8,7 @@
 8973、_russian_Дом без приведений_Веселов Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d514a98011020f0159f910b3248473b

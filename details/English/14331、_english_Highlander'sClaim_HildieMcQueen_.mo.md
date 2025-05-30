@@ -8,7 +8,7 @@
 14331、_english_Highlander's Claim_Hildie McQueen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f9fe616018c3e653162a26b2940a130d

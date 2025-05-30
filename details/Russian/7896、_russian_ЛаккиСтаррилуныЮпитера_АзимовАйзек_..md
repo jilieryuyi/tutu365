@@ -8,7 +8,7 @@
 7896、_russian_Лакки Старр и луны Юпитера_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5744403425adf7828d30dc8101b65f2

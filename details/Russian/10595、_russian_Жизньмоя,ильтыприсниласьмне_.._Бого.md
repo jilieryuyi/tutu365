@@ -8,7 +8,7 @@
 10595、_russian_Жизнь моя, иль ты приснилась мне_.._Богомолов Владимир Осипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95c1bc1e1ba99c0d6d7b15c55e2e175c

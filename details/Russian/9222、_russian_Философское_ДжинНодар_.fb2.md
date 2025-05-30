@@ -8,7 +8,7 @@
 9222、_russian_Философское_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ff84bfbdf0d0f2e1f666e6a07768af2

@@ -8,7 +8,7 @@
 163、里斯本夜车_Pascal Mercier_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fa9ff3261256cc095050cedd4c22264d

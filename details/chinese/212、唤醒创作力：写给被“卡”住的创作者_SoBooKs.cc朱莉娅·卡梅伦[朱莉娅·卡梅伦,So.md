@@ -8,7 +8,7 @@
 212、唤醒创作力：写给被“卡”住的创作者_SoBooKs.cc 朱莉娅·卡梅伦 [朱莉娅·卡梅伦, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 91ef309c4b58c9a86390f092f77bde17

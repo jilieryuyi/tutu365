@@ -8,7 +8,7 @@
 2053、_russian_Горгона_Столяров Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28ca2aa9ce2f699eebe6ae20ce1d0bf1

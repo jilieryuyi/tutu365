@@ -8,7 +8,7 @@
 2096、_russian_Повелитель Ижоры_Егоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6763f975363b140b23dbf345994821c

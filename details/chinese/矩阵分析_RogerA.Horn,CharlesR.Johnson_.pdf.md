@@ -8,7 +8,7 @@
 矩阵分析_Roger A. Horn, Charles R. Johnson_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b5f5d21b0790afb5637b183289697e46

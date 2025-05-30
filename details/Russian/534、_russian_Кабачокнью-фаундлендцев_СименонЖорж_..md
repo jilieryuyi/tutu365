@@ -8,7 +8,7 @@
 534、_russian_Кабачок нью-фаундлендцев_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c7fc135dc27f91d43cfbc7873d9249c

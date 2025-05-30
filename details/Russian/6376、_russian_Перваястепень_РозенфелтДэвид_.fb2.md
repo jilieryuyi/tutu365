@@ -8,7 +8,7 @@
 6376、_russian_Первая степень_Розенфелт Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93549530fb6c92b8283a74e06ff48109

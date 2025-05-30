@@ -8,7 +8,7 @@
 6439、_russian_Годы странствий_Волошин Максимилиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 294982d25ea426741600b1057361f2bd

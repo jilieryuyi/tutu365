@@ -8,7 +8,7 @@
 119、_russian_СЕРДЦЕ В БРОНЕ_Аркадий Степной_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5efb91aced4e8161c530d5b8ea6e250c

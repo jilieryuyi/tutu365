@@ -8,7 +8,7 @@
 8525、_russian_Не верь лучшей подруге!_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd814fa73273e2f6567bf99fe13388b3

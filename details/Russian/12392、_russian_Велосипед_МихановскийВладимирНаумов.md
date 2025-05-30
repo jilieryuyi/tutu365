@@ -8,7 +8,7 @@
 12392、_russian_Велосипед_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fc96cf99b9346be23c1d19084b71c08

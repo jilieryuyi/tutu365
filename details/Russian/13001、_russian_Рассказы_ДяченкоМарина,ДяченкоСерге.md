@@ -8,7 +8,7 @@
 13001、_russian_Рассказы_Дяченко Марина, Дяченко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6419eb00fbcc3e5e0633d6f15bcb0c15

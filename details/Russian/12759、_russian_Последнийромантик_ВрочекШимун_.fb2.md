@@ -8,7 +8,7 @@
 12759、_russian_Последний романтик_Врочек Шимун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32936fbcbc02eb90c6f662fa14d42f75

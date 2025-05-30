@@ -8,7 +8,7 @@
 1184、_russian_Валькины друзья и паруса_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6ce79d5f0a8c95e2458e2a14a2c8b95

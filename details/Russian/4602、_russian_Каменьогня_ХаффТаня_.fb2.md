@@ -8,7 +8,7 @@
 4602、_russian_Камень огня_Хафф Таня_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d57bbe322e69c4bd88e681d13cf2255

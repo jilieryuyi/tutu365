@@ -8,7 +8,7 @@
 1583、_russian_С божьей помощью_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f81195971d9c7cfadaaf7e446533af35

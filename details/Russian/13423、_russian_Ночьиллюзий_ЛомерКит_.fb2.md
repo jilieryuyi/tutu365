@@ -8,7 +8,7 @@
 13423、_russian_Ночь иллюзий_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a82e6e19c8cf9c77f76d3541b2ec8158

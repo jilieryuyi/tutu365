@@ -8,7 +8,7 @@
 5504、_russian_Реванш_Кумин Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64859c81dbed3b9a33d388fcf1d0afa7

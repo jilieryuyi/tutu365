@@ -8,7 +8,7 @@
 11720、_russian_Дева озера_Скотт Вальтер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b80325927690589c25d8fcf16c3976e

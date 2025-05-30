@@ -8,7 +8,7 @@
 282、_russian_Охотники за головами_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a7085498648b34ec138192b3b1b7295

@@ -8,7 +8,7 @@
 8777、_english_Learning GraphQL_ Declarative Data Fetching for Modern Web Apps_Alex Banks_O'Reilly Media.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 247d482c824fdd37eee3fea5320a8aab

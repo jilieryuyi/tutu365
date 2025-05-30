@@ -8,7 +8,7 @@
 6822、_russian_В плену страстей_Майклз Ферн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ee9ec51bd444fc22747077341b03116

@@ -8,7 +8,7 @@
 5926、_russian_Обзор традиционной историографии античности_Иванов В. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c0891b6d61aa1b08be2fb4c4552722e

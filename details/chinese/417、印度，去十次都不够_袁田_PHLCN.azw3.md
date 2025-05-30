@@ -8,7 +8,7 @@
 417、印度，去十次都不够_袁田_PHLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a6b50a401fc506589d2e51cef9edf556

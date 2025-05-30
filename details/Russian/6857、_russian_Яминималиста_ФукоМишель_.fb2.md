@@ -8,7 +8,7 @@
 6857、_russian_Я минималиста_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40545301eb234add3c69c9786f3ba55e

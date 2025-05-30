@@ -8,7 +8,7 @@
 430、_english_As You Are_Sarah M. Eden_Covenant Communications Inc..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c183cb57f05a681c4a0ab690b52bd3ae

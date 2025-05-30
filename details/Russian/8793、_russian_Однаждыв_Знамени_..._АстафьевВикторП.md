@@ -8,7 +8,7 @@
 8793、_russian_Однажды в _Знамени_..._Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07cabb26dbea7f75605a692eddc386d3

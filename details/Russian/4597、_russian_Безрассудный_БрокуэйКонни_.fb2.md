@@ -8,7 +8,7 @@
 4597、_russian_Безрассудный_Брокуэй Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9f4c2c18a30831aa1898989a910d2ba

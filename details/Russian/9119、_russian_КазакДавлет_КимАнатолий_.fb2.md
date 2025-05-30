@@ -8,7 +8,7 @@
 9119、_russian_Казак Давлет_Ким Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7e313ae2b159e1761a7265357b6ef65

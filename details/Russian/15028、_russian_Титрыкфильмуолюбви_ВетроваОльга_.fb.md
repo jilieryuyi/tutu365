@@ -8,7 +8,7 @@
 15028、_russian_Титры к фильму о любви_Ветрова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 870c8c7c5643808ce09886137cd4f59f

@@ -8,7 +8,7 @@
 1598、管理的实践(珍藏版) (德鲁克管理经典)_彼得·德鲁克(Peter F. Drucker)_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 13245f3002662523977e435e64bd86a6

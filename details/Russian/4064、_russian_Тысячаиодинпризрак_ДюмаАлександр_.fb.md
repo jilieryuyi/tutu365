@@ -8,7 +8,7 @@
 4064、_russian_Тысяча и один призрак_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddd45d8174e85d9406bc9df8dfdcba5d

@@ -8,7 +8,7 @@
 1163、_russian_Отвертка_Стогов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b3ade1536d7d194ac4cbcc509e002d2

@@ -8,7 +8,7 @@
 5452、_ukrainian__стор__ в дев'яти книгах. КнигаVI_ Ерато_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 192e40eabe0ddef1f8348aed0ba248fe

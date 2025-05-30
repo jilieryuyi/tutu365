@@ -8,7 +8,7 @@
 12439、_russian_Садко_Нечаев Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 992bec639b23c5a231aa3b09aa595f4a

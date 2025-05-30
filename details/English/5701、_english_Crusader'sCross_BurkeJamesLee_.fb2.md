@@ -8,7 +8,7 @@
 5701、_english_Crusader's Cross_Burke James Lee_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6cc0e991a10063f798b2ffac5e583e13

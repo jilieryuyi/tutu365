@@ -8,7 +8,7 @@
 1160、_russian_Зерно жизни_Хван Дмитрий Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06e9117eb963cf4f2bef330e3bd264e0

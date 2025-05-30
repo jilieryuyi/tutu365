@@ -8,7 +8,7 @@
 12908、_russian_Беспалый_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 365c4e70a38c3abef1d1e5580909b781

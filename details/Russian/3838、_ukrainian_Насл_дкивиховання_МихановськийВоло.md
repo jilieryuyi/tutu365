@@ -8,7 +8,7 @@
 3838、_ukrainian_Насл_дки виховання_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e7c1fd32b390da2927613a9be9f58fa

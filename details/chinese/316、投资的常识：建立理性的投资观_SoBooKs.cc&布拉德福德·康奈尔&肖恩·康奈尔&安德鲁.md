@@ -8,7 +8,7 @@
 316、投资的常识：建立理性的投资观_SoBooKs.cc & 布拉德福德·康奈尔 & 肖恩·康奈尔 & 安德鲁·康奈尔 [SoBooKs.cc & 布拉德福德·康奈尔 & 肖恩·康奈尔 & 安德鲁·康奈尔]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 090a4a2bdcf48909894595f0260d16bb

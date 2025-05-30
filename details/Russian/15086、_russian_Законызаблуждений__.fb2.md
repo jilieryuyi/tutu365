@@ -8,7 +8,7 @@
 15086、_russian_Законы заблуждений__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f5721899e79a1e0f3b6d2da8486a1e5

@@ -8,7 +8,7 @@
 13470、_russian_Однажды в баре_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0f27cad52d7c45622bd96a40cf133b6

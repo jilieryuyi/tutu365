@@ -8,7 +8,7 @@
 11704、_russian_День перемирия_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1963e4efde6f549c85c0f46e82c638e6

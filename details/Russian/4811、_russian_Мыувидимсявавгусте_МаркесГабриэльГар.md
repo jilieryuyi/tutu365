@@ -8,7 +8,7 @@
 4811、_russian_Мы увидимся в августе_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7e7fb4fbc98bc1e5fe6824e9c6a3390

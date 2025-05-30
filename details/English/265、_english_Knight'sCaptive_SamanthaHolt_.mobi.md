@@ -8,7 +8,7 @@
 265、_english_Knight's Captive_Samantha Holt_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a2832ae692ef735890319daea4209606

@@ -8,7 +8,7 @@
 3418、_russian_Бык и копье_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abead0069dfa6e73a93d546d6a1643c9

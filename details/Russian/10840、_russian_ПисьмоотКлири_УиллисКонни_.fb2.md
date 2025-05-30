@@ -8,7 +8,7 @@
 10840、_russian_Письмо от Клири_Уиллис Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 402675c4aafbcc17ce595d7a5902d8c1

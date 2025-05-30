@@ -8,7 +8,7 @@
 14864、_russian_С чего начинается НЛП_Бакиров Анвар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 295a03395a9fcda7046fcbe8b493e5b3

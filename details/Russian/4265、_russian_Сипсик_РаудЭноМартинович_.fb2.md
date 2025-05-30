@@ -8,7 +8,7 @@
 4265、_russian_Сипсик_Рауд Эно Мартинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e650f0bf3f82d4c21f7adbae4da5e92

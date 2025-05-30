@@ -8,7 +8,7 @@
 205、_russian_Квантовая психология_Уилсон Роберт Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 340b4d5944164f8e51783553a3e00d3c

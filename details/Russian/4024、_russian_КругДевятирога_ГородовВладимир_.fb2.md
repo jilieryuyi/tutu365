@@ -8,7 +8,7 @@
 4024、_russian_Круг Девятирога_Городов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc41877ad68de0a76b75cd5ca72c1170

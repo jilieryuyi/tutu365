@@ -8,7 +8,7 @@
 8740、_russian_Сердце с перцем_Ларина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07366ea7482bf76cc287713e36adc067

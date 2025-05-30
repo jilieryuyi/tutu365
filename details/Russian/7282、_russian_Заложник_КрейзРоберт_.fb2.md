@@ -8,7 +8,7 @@
 7282、_russian_Заложник_Крейз Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9582e3e0c48dc08012dff4ae43b3be47

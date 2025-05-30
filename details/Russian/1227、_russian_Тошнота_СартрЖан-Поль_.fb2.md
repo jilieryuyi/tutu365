@@ -8,7 +8,7 @@
 1227、_russian_Тошнота_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfbe04757a869c64e7e4a622a898cd3b

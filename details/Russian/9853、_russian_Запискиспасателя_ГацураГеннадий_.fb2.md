@@ -8,7 +8,7 @@
 9853、_russian_Записки спасателя_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fc67927e6c5a8415c61e63ebc33028b

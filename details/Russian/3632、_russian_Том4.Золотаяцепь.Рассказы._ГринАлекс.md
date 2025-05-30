@@ -8,7 +8,7 @@
 3632、_russian_Том 4. Золотая цепь. Рассказы._Грин Александр Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ae1040083d84cdd5aa20d86372da9b4

@@ -8,7 +8,7 @@
 3424、_russian_Черный горизонт_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9224618a2685f4bef09e8285d9182a69

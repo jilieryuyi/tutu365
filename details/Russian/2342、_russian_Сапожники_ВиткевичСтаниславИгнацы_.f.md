@@ -8,7 +8,7 @@
 2342、_russian_Сапожники_Виткевич Станислав Игнацы_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fd234c670bf2ad6b255a9190a4bc705

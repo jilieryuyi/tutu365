@@ -8,7 +8,7 @@
 2654、物的追问 (二十世纪西方哲学经典)_马丁·海德格尔(Martin Heidegger)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bdb728e18be446223bc6fdef9ed09bcb

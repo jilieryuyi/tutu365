@@ -8,7 +8,7 @@
 8039、_russian_Эх, яблочко!_Плотникова Зоя Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e22adcb35fdd280c3fbfc1c548c2394

@@ -8,7 +8,7 @@
 7791、_russian_Гай Мэннеринг, или Астролог_Скотт Вальтер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33439ee0d0106fc5a66561275e8b1624

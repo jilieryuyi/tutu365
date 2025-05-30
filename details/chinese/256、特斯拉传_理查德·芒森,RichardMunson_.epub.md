@@ -8,7 +8,7 @@
 256、特斯拉传_理查德·芒森, Richard Munson_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 23b36bc3ff078313115b8404b73899bb

@@ -8,7 +8,7 @@
 4032、_russian_Снимки для мафии_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c07e9cb9bc44604a5d700b9610ca7519

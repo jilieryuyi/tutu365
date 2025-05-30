@@ -8,7 +8,7 @@
 664、_russian_Как гении классифицируют себя_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ffe33f68d3697cba915fa58df94d433

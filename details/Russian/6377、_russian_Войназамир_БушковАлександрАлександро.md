@@ -8,7 +8,7 @@
 6377、_russian_Война за мир_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 026ced59a8d023511bfadc81f046a958

@@ -8,7 +8,7 @@
 7187、_russian_Живучая тварь_Ronekarleone_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b94998c9c84484a4e52e450a336625e4

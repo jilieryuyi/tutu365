@@ -8,7 +8,7 @@
 5901、_russian_Свидание вслепую_Косински Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fa185a45b9697501e972bbebf6347af

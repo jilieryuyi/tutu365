@@ -8,7 +8,7 @@
 12224、_russian_Колодцы ада_Мастертон Грэхэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3923ad0779ee7c8694373adb5217f848

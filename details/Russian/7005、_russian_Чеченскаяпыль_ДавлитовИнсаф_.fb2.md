@@ -8,7 +8,7 @@
 7005、_russian_Чеченская пыль_Давлитов Инсаф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b050498b75dd29d1de5ecede09907108

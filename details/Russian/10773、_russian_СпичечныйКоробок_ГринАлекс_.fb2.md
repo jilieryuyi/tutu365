@@ -8,7 +8,7 @@
 10773、_russian_Спичечный Коробок_Грин Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b708345846fab1fa0eb0d837edc8847d

@@ -8,7 +8,7 @@
 5242、_russian_Наследник_Хардвик Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31e016497e5f3331170d2bc61ece8740

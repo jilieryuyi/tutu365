@@ -8,7 +8,7 @@
 10402、_russian_Убийственные болоньезе_Демина Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8381cc2d49a2ca2d44ccbeefddbc707

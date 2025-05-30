@@ -8,7 +8,7 @@
 6281、_russian_откровения_Гасанов Эльчин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f048f3f9e3df46a1aa50b69d23bc280e

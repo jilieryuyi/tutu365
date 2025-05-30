@@ -8,7 +8,7 @@
 2510、_english_Red Seas Under Red Skies_Lynch Scott_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 71d989a9d5c5240f7231bc2bcaa3970e

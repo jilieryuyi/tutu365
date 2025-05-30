@@ -8,7 +8,7 @@
 2360、_russian_Том 6. Мертвые души. Том 1_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96e1e14ef3e8c806ab8440612b748fd6

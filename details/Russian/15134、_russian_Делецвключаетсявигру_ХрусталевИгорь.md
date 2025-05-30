@@ -8,7 +8,7 @@
 15134、_russian_Делец включается в игру_Хрусталев Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db745ec911c511d348f9aff94eb9893f

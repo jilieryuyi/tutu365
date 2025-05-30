@@ -8,7 +8,7 @@
 7799、_russian_Синие люди_Багряк Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e67fb03040b03f81916276488b3a4e23

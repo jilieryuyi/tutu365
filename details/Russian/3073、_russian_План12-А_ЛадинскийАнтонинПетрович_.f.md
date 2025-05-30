@@ -8,7 +8,7 @@
 3073、_russian_План 12-А_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfbca3543f826bacef0ae873e1412046

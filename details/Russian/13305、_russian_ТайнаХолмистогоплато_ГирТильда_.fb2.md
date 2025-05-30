@@ -8,7 +8,7 @@
 13305、_russian_Тайна Холмистого плато_Гир Тильда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2d0570e8fde3749a187a0829bcd7de0

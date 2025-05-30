@@ -8,7 +8,7 @@
 699、交锋：当代中国三次思想解放实录_马立诚、凌志军_epub掌上书苑.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8bbb8c3fed0970e5ec70f2b8507c314e

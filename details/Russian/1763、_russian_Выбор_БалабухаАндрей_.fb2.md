@@ -8,7 +8,7 @@
 1763、_russian_Выбор_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39752f2ac64dbb41a6ee9d70b2baedf5

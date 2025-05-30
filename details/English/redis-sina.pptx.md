@@ -8,7 +8,7 @@
 redis-sina.pptx.pptx
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8afd2bfe3366de74c8ce6972301c5340

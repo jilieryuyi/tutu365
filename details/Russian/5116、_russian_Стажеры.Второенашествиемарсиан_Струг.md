@@ -8,7 +8,7 @@
 5116、_russian_Стажеры. Второе нашествие марсиан_Стругацкий Аркадий, Стругацкий Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9eeb4c535f90c71fe26bb7cc6bad9c4f

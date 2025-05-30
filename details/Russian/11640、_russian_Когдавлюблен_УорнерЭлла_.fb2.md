@@ -8,7 +8,7 @@
 11640、_russian_Когда влюблен_Уорнер Элла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25ecad7104d7a4f1772a0c0e1924517d

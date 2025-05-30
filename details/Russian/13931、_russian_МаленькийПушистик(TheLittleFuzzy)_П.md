@@ -8,7 +8,7 @@
 13931、_russian_Маленький Пушистик (The Little Fuzzy)_Пайпер Бим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11994a3737a70bca4abf1189844f3300

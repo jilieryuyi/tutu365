@@ -8,7 +8,7 @@
 2004、Docker技术入门与实战（第2版） (容器技术系列)_杨保华 & 戴王剑 & 曹亚仑_北京华章图文信息有限公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 483f4860ee6ceca80a9a4985dcde3e1b

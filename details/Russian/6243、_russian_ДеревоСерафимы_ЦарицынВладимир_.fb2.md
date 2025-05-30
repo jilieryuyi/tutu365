@@ -8,7 +8,7 @@
 6243、_russian_Дерево Серафимы_Царицын Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fc7551bc9fc4b699fc1b237546a09ea

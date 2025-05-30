@@ -8,7 +8,7 @@
 6510、_russian_Наточить без точилки_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46a52a1baa2d863f0568a4ac35f59a11

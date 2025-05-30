@@ -8,7 +8,7 @@
 12438、_russian_Подарки фей_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15dc98513e137adbd736d586787caf78

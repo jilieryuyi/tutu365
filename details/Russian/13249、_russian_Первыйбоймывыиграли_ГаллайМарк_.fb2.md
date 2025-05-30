@@ -8,7 +8,7 @@
 13249、_russian_Первый бой мы выиграли_Галлай Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8afef2b08cced24c5333ac064e95b5e7

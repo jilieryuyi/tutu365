@@ -8,7 +8,7 @@
 2154、_russian_Куш_Саймак Клиффорд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d8d0d0b39ae58f6ae624b490c5f96ac

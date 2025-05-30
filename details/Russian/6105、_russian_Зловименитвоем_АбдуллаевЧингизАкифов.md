@@ -8,7 +8,7 @@
 6105、_russian_Зло в имени твоем_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37b1e700c215e4b01c096de7e07c1211

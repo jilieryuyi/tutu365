@@ -8,7 +8,7 @@
 1274、_russian_Смерть африканского путешественника_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df57f57f337bec85ab27e886431ada28

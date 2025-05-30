@@ -8,7 +8,7 @@
 15054、_russian_Умри в одиночку_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99edc457f5ee1bc6329201e4b510e68c

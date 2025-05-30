@@ -8,7 +8,7 @@
 5542、_russian_Калеки_Лукьяненко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5cb249126edb117f79e6e1a4b6898e2

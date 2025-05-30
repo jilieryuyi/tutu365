@@ -8,7 +8,7 @@
 8911、_russian_Наёмник_Табб Эдвин Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e3dd60ff95a321551b2100c0695401c

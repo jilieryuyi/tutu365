@@ -8,7 +8,7 @@
 4212、_russian_Гражданин стереовидения_Кросс Рональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf8f7e6bbe75b7c051da6ebe4a1d4eeb

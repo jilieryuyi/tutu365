@@ -8,7 +8,7 @@
 4291、_russian_Джокер и Палач_Иванов Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58ebeed8cf62f28bde496b4e9554e0cc

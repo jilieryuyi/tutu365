@@ -8,7 +8,7 @@
 8951、_russian_Мусорщик_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02300cac569f3c78778823c5457a974c

@@ -8,7 +8,7 @@
 13558、_english_The Duke's Obsession_Frances Fowlkes_Entangled Publishing, LLC.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b91a6c9ae30000927fe35cea78ab2b38

@@ -8,7 +8,7 @@
 高家村：共和國農村生活素描(CUHK Series)_高默波， 章少泉， 喻鋒平__5475948_e512fb824a80f50f5a626f1ee8062897.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e512fb824a80f50f5a626f1ee8062897

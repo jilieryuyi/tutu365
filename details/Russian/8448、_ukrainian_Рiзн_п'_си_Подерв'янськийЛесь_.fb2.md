@@ -8,7 +8,7 @@
 8448、_ukrainian_Рiзн_ п'_си_Подерв'янський Лесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 772b956aee743ac3ea2f77287ed37fa9

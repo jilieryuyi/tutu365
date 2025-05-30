@@ -8,7 +8,7 @@
 13331、_russian_Человек из-под земли_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4d8dcbb52110b057733c39e9a5f3d10

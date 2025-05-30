@@ -8,7 +8,7 @@
 2267、_russian_Кровавый рассвет_Свонн Эндрю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee569e60af195ac773a78f955ae10f6e

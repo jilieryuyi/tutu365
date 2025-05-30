@@ -8,7 +8,7 @@
 6019、_russian_Убийство в Кантоне_van Gulik Robert_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c21e886950896bbef8022c16a0ebc84f

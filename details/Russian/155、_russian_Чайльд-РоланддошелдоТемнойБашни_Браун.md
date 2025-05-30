@@ -8,7 +8,7 @@
 155、_russian_Чайльд-Роланд дошел до Темной Башни_Браунинг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3da9e2303d1e0e1e8afdcfe320fa0d23

@@ -8,7 +8,7 @@
 12277、_russian_Искуситель_Загоскин Михаил Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca9e9f3aad454900fb94bb5f6d88674c

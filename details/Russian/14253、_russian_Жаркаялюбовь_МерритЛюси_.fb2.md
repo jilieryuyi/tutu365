@@ -8,7 +8,7 @@
 14253、_russian_Жаркая любовь_Меррит Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f1d81f5ac3397334a05a3f40ac50ce3

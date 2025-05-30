@@ -8,7 +8,7 @@
 4305、_russian_Руинный марш_Буянов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e7dc819e98060b000c5245049790be1

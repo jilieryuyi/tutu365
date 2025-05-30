@@ -8,7 +8,7 @@
 2720、_russian_Ответный плевок [= Звездная Каэши-Ваза]_Лютый Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1658d33b982d9b57631aa7df2a8e33a1

@@ -8,7 +8,7 @@
 11042、_russian_Хронография_Феофан исповедник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf9de70ada9700f02faee674f66ec03b

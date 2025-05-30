@@ -8,7 +8,7 @@
 Airship Technology _ 飞艇技术_Gabriel A Khoury _ J David Gillet _ 王生 _ 姜鲁华_Science Press_5262192_c3534654ace5ec0d67d5f42f9d541195.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c3534654ace5ec0d67d5f42f9d541195

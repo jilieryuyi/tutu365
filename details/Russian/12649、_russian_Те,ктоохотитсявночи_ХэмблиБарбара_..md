@@ -8,7 +8,7 @@
 12649、_russian_Те, кто охотится в ночи_Хэмбли Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63875a0cfb9b30c1bbceb9ed7a79c99c

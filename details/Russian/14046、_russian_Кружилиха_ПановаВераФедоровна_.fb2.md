@@ -8,7 +8,7 @@
 14046、_russian_Кружилиха_Панова Вера Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2aa1a85396daa6cb68135f8d2a9857a

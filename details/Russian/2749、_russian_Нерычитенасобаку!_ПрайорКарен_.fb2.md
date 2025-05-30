@@ -8,7 +8,7 @@
 2749、_russian_Не рычите на собаку!_Прайор Карен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f6bae5ad1b86f9273720b3581eaef19

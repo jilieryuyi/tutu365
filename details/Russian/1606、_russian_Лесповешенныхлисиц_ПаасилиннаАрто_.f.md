@@ -8,7 +8,7 @@
 1606、_russian_Лес повешенных лисиц_Паасилинна Арто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34ae2fd535fbe7074f167deacb61fb9b

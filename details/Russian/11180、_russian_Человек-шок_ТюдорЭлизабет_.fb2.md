@@ -8,7 +8,7 @@
 11180、_russian_Человек-шок_Тюдор Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2721c3931b9d8dfab566da865d53e9c6

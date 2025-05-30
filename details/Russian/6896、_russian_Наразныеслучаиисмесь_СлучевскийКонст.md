@@ -8,7 +8,7 @@
 6896、_russian_На разные случаи и смесь_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d00a8b9bcb5f03a856df90f9d203bad

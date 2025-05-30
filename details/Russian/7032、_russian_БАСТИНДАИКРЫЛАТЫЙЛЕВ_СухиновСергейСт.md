@@ -8,7 +8,7 @@
 7032、_russian_БАСТИНДА  И  КРЫЛАТЫЙ ЛЕВ_Сухинов Сергей Стефанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a619e271378be8e0fc0cb8feae7c353b

@@ -8,7 +8,7 @@
 6645、_russian_Вся нечисть_Стайн Роберт Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 065e2502848d08212b1f69be209df21b

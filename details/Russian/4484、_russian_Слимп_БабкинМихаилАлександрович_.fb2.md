@@ -8,7 +8,7 @@
 4484、_russian_Слимп_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfef2ecaa05e8e83d06bf5ccd3e668a7

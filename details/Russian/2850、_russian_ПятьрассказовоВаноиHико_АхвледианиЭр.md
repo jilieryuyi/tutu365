@@ -8,7 +8,7 @@
 2850、_russian_Пять рассказов о Вано и Hико_Ахвледиани Эрлом_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3e10e8c92046bc1ad42c3e67b2ac0da

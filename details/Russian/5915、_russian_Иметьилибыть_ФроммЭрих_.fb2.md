@@ -8,7 +8,7 @@
 5915、_russian_Иметь или быть_Фромм Эрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c061b312f15064a8a28c24feedf4d796

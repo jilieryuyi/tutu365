@@ -8,7 +8,7 @@
 791、_russian_Излучина реки_Ньюкомб Норма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee8ae73148352d278a17bcd7653a351c

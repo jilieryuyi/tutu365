@@ -8,7 +8,7 @@
 14647、_russian_Охотничья луна_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df3fe12b408d854ab23711a5e2d4496f

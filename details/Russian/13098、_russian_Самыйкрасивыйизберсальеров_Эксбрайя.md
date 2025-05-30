@@ -8,7 +8,7 @@
 13098、_russian_Самый красивый из берсальеров_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6e518d34ad57e9fb33711252515cec4

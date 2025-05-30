@@ -8,7 +8,7 @@
 3363、_english_Dead As A Doornail_Харрис Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44c6d297de544c6b72aa9627ea6792cf

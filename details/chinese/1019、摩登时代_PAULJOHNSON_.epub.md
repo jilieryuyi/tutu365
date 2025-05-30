@@ -8,7 +8,7 @@
 1019、摩登时代_PAUL JOHNSON_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ad254388720abf654e3dd96e41eb68e1

@@ -8,7 +8,7 @@
 10739、_russian_Гостиница на берегу Темзы_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 763824a5083e43f2e704007fe829d8b9

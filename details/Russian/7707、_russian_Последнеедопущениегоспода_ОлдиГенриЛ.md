@@ -8,7 +8,7 @@
 7707、_russian_Последнее допущение господа_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 845259840ee7ebcab807a1c6489bac6c

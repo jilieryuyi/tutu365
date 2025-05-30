@@ -8,7 +8,7 @@
 1241、_russian_Мистер Бирдринкер_Севриновский Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec446e73c3cfa688fedd9ea2b752a88f

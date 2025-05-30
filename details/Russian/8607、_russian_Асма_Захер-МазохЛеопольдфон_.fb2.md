@@ -8,7 +8,7 @@
 8607、_russian_Асма_Захер-Мазох Леопольд фон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52e36e4dbddf50dbedf620d7b5b0c6cc

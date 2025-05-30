@@ -8,7 +8,7 @@
 3551、_russian_Бориска Прелукавый (Борис Годунов, Россия)_Арсеньева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d2e4c2dfcd13b0e727e4affb4fba24b

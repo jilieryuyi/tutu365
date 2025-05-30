@@ -8,7 +8,7 @@
 8266、_english_The Name of the Wind_Rothfuss Patrick_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 84288dc94c3f01d9d64a84749f0f5d62

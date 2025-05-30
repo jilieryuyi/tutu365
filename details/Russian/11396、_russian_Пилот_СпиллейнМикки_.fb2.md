@@ -8,7 +8,7 @@
 11396、_russian_Пилот_Спиллейн Микки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e40bf50ba64e9241663c69eb9c7f6325

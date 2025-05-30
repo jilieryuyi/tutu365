@@ -8,7 +8,7 @@
 15238、_russian_Цифровой, или Brevis est_Дяченко Марина и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfb055387cd15b325a835673533a4e5f

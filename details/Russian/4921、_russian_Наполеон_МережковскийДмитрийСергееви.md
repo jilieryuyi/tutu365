@@ -8,7 +8,7 @@
 4921、_russian_Наполеон_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd16f55779c8403cab9f78eb6b5cc74f

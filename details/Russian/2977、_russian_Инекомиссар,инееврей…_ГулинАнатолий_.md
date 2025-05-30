@@ -8,7 +8,7 @@
 2977、_russian_И не комиссар, и не еврей…_Гулин Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df7ef37560e7f2b01676a91dd3797165

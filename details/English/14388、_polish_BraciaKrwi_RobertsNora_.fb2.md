@@ -8,7 +8,7 @@
 14388、_polish_Bracia Krwi_Roberts Nora_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d583bcb3a15237a24b8e19c1ed1fbd75

@@ -8,7 +8,7 @@
 2600、_russian_Спаситель Короны_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a11faac5e7f51922068c31b628172ff3

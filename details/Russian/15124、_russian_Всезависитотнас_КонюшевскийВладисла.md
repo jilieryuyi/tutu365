@@ -8,7 +8,7 @@
 15124、_russian_Все зависит от нас_Конюшевский Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 823a73c60d296d77f35ef6c2457d05fc

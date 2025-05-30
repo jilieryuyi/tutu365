@@ -8,7 +8,7 @@
 12729、_russian_Уроки любви_Крамер Элли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de44cfd6119de3fdf33562169bc831c7

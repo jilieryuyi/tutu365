@@ -8,7 +8,7 @@
 12219、_english_A Gentleman's Kiss_Eliza Knight_Eliza Knight.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 87c230103d68822e2d074b5a9403a682

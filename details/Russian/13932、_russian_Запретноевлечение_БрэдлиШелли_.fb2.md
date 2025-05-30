@@ -8,7 +8,7 @@
 13932、_russian_Запретное влечение_Брэдли Шелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c44ae2f20513919572e9e7fc2698da27

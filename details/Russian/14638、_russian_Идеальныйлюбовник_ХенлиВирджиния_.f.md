@@ -8,7 +8,7 @@
 14638、_russian_Идеальный любовник_Хенли Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69dbabfd74ee5273bedae24923e5abf8

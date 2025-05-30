@@ -8,7 +8,7 @@
 13707、_russian_Киватель_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab94d1978ddab16fde92a9c96dde9011

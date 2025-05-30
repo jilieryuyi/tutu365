@@ -8,7 +8,7 @@
 12780、_russian_Утро Аугусто Пиночета_Шевелев Владимир Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35ec65d6ad98cf4e97b84330c9320a2d

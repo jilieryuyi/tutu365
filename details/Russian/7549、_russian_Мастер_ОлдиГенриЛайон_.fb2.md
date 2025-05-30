@@ -8,7 +8,7 @@
 7549、_russian_Мастер_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 959c69f7eff341dedcb1375baa222a5f

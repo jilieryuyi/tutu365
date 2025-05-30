@@ -8,7 +8,7 @@
 832、_russian_Равнение на знамя_Бушков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 460b6bbe1f17edbf21cfb8006abab162

@@ -8,7 +8,7 @@
 8539、_russian_Спамелла_Чекмаев Сергей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8ef0c4d406bc226d89459372e4b4dfc

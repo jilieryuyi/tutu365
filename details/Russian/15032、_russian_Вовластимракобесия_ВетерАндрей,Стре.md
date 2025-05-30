@@ -8,7 +8,7 @@
 15032、_russian_Во власти мракобесия_Ветер Андрей, Стрелецкий Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8d2f1c0d79ce3ee476a3274fc67a151

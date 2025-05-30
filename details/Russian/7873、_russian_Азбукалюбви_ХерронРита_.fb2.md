@@ -8,7 +8,7 @@
 7873、_russian_Азбука любви_Херрон Рита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bfc7764ae59293e69ea99dc989e3b78

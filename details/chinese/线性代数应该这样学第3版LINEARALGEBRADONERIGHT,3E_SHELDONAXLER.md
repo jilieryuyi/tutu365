@@ -8,7 +8,7 @@
 线性代数应该这样学  第3版 LINEAR ALGEBRA DONE RIGHT,3E_SHELDON AXLER_人民邮电出版社_5370781_97ee9feb26432b03de6fcb26e8f5b40d.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 97ee9feb26432b03de6fcb26e8f5b40d

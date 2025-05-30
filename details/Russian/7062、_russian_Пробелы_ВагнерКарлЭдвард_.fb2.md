@@ -8,7 +8,7 @@
 7062、_russian_Пробелы_Вагнер Карл Эдвард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d54404e329ee3f52e34682f6a34d3b23

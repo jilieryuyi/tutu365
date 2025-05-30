@@ -8,7 +8,7 @@
 1230、_russian_ПЯТЬ РЕСПОНСОВ К л_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c85957fbb78b6b07c79d7af893f65f9a

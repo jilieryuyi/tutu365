@@ -8,7 +8,7 @@
 12528、_russian_Подиум_Моспан Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a91ddaee4a986b6245bb2bb0d326997

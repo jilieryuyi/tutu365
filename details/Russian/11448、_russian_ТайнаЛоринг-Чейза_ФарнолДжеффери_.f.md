@@ -8,7 +8,7 @@
 11448、_russian_Тайна Лоринг-Чейза_Фарнол Джеффери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f560750d42e471533dc27497ac5aae15

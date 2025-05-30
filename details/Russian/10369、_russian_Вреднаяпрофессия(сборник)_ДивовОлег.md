@@ -8,7 +8,7 @@
 10369、_russian_Вредная профессия (сборник)_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4920529449f75629bcd131faec12ec4

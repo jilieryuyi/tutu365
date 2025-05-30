@@ -8,7 +8,7 @@
 8904、_english_Diana Sensational Spinster's Society_Charlotte Stone_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fc9ff84241e984191eb4ce0298e07b78

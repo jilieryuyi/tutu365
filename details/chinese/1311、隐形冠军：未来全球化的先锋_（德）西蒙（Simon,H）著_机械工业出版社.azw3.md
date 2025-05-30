@@ -8,7 +8,7 @@
 1311、隐形冠军：未来全球化的先锋_（德）西蒙（Simon,H） 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9c42a99e0effd94afebf5c33898f3766

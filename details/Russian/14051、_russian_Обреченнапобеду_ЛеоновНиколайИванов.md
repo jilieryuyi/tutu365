@@ -8,7 +8,7 @@
 14051、_russian_Обречен на победу_Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 224c0279eed4a57faa3069b14e426756

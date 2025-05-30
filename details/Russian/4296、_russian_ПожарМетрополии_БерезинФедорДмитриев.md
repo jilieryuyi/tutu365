@@ -8,7 +8,7 @@
 4296、_russian_Пожар Метрополии_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd3418fb15bd07b33d55ce13577d7b31

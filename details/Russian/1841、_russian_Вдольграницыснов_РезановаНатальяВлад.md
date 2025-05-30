@@ -8,7 +8,7 @@
 1841、_russian_Вдоль границы снов_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d428f6bbcf9ab00ab76d66967b1bded2

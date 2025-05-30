@@ -8,7 +8,7 @@
 10182、_russian_Дом в Ширазе_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 492cf272ab3058e776b0ab88bdfa4f16

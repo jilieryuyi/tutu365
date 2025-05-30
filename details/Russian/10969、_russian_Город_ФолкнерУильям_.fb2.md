@@ -8,7 +8,7 @@
 10969、_russian_Город_Фолкнер Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e6bdc7f05bed16f95f5846c495820c4

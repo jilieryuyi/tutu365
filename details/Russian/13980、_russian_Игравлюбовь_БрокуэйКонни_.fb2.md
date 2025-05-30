@@ -8,7 +8,7 @@
 13980、_russian_Игра в любовь_Брокуэй Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccea732a2c7224b35d38c020ca28eb3a

@@ -8,7 +8,7 @@
 3067、_russian_Вампир_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6858d82526f1cc9195ba9edf59765fc0

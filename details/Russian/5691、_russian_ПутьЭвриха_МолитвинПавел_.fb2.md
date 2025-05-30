@@ -8,7 +8,7 @@
 5691、_russian_Путь Эвриха_Молитвин Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37a3025daff7c2f9e9b910a1503e5862

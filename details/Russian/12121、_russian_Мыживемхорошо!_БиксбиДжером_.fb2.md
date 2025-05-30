@@ -8,7 +8,7 @@
 12121、_russian_Мы живем хорошо!_Биксби Джером_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2648d1b6ac314f5e1a1cc4007452cb5f

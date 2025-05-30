@@ -8,7 +8,7 @@
 2464、_russian_Mont-Blanc, или Непокоренная вершина_Лапидус Азарий, Башкирова Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7fe1a18105be688f58331410d2a785f2

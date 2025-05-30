@@ -8,7 +8,7 @@
 1160、_russian_Поздняя любовь_Островский. Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb27de833d955c7a215a55b9c7c194cf

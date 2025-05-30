@@ -8,7 +8,7 @@
 11280、_russian_Ваше здоровье, господа!_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bb8b8d88282dd3a5b415895935d2966

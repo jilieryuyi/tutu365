@@ -8,7 +8,7 @@
 12871、_russian_Наказ_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 107132b7d39c63bf09fcd29cd5ce2522

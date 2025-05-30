@@ -8,7 +8,7 @@
 14020、_russian_Убей меня завтра_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1270f6a39dd020519deb96f3d5619d78

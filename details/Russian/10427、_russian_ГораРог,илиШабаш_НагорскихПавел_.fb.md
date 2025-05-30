@@ -8,7 +8,7 @@
 10427、_russian_Гора Рог, или Шабаш_Нагорских Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 864ceb3e653da6732e60234b51e2f884

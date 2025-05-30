@@ -8,7 +8,7 @@
 10531、_russian_Чудесная звездочка_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dd9bd462394789b4e9310eb4910d425

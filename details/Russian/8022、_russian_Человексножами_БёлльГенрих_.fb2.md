@@ -8,7 +8,7 @@
 8022、_russian_Человек с ножами_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5db0635b07c6acb7a3c31dea80e40928

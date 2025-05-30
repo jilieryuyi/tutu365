@@ -8,7 +8,7 @@
 14、_russian_Списанный_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20ed07aa2cf1f7623c8b6fbecd351859

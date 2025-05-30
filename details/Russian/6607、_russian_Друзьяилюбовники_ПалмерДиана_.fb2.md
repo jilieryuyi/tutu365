@@ -8,7 +8,7 @@
 6607、_russian_Друзья и любовники_Палмер Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ae56e48213dd11fff55de0623754eb8

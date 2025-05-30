@@ -8,7 +8,7 @@
 15110、_russian_Наш маленький грязный секрет_Лютикова Люся_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77f7c245986cca99af4132f166c0a981

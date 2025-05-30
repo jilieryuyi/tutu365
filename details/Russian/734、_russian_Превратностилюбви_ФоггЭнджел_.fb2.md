@@ -8,7 +8,7 @@
 734、_russian_Превратности любви_Фогг Энджел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56f806ca7794c5360e6d3535380fff63

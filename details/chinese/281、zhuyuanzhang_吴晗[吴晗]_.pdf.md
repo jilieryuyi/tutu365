@@ -8,7 +8,7 @@
 281、zhuyuanzhang_吴晗 [吴晗]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b29bbe24faefcbbe89ef4630e88c124a

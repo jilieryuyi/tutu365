@@ -8,7 +8,7 @@
 4043、_russian_Снайпер_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4340abb638f48203efa46918c28677f2

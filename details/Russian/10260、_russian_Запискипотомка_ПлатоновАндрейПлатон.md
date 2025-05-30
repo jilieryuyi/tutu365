@@ -8,7 +8,7 @@
 10260、_russian_Записки потомка_Платонов Андрей Платонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76cf86dec492ff744bcd2f27b4738405

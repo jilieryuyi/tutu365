@@ -8,7 +8,7 @@
 9997、_russian_Двухметровое несчастье_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fc6922c27ecdc78cd0799db468cf1cc

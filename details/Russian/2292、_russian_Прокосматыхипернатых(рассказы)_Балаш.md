@@ -8,7 +8,7 @@
 2292、_russian_Про косматых и пернатых (рассказы)_Балашов Виктор Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cf8ede5726d3add4fb5d050dafc5bfb

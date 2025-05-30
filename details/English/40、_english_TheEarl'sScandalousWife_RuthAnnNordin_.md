@@ -8,7 +8,7 @@
 40、_english_The Earl's Scandalous Wife_Ruth Ann Nordin_Wedded Bliss Romances, LLC.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ac8aa17d779651e240620aacb57514e8

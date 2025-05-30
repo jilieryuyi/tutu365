@@ -8,7 +8,7 @@
 第11章 Java小程序Applet.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 529991048fb862b1e422e02fa610bbc5

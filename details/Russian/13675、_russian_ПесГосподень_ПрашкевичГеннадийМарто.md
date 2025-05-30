@@ -8,7 +8,7 @@
 13675、_russian_Пес Господень_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03176d83a97bb196697a9334250ff82d

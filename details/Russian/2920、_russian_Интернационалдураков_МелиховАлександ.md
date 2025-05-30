@@ -8,7 +8,7 @@
 2920、_russian_Интернационал дураков_Мелихов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e768a11a5e471e9197d2369897fdc4e

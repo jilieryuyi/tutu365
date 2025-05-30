@@ -8,7 +8,7 @@
 5570、_russian_Путь всех призраков_Бир Грег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa8e3f53746905f908c8ad2f955250a9

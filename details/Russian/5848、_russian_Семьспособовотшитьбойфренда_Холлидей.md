@@ -8,7 +8,7 @@
 5848、_russian_Семь способов отшить бойфренда_Холлидей Алисия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6036bc90b76bb08fff41ec3dc3b81afc

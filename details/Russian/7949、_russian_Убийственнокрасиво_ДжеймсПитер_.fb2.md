@@ -8,7 +8,7 @@
 7949、_russian_Убийственно красиво_Джеймс Питер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a37fedeea1fca62e97580947ab4586cd

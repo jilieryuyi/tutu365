@@ -8,7 +8,7 @@
 10711、_russian_Черный человек_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfcd484fc0565c15b431a68a839fe4e5

@@ -8,7 +8,7 @@
 4900、_english_C is for Corpse_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 596e53fe868bfd7b1eba293614a0c410

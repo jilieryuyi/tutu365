@@ -8,7 +8,7 @@
 5466、_russian_Фракс в осаде_Скотт Мартин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3b7171a23d05e3d9c5c383bb1f13218

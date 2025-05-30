@@ -8,7 +8,7 @@
 3268、_russian_Гостиница _Сигма__Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8434050814ee6ba76e2a1e4a511c08d2

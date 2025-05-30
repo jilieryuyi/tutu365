@@ -8,7 +8,7 @@
 11899、_russian_Вукол_Помяловский Николай Герасимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 444603b77ea0b0c6df827338c93fb720

@@ -8,7 +8,7 @@
 1680、_russian_Дракон_Шварц Евгений Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2dd4211c9776cc8a46661f2b0af7a22d

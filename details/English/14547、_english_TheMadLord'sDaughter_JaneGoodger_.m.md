@@ -8,7 +8,7 @@
 14547、_english_The Mad Lord's Daughter_Jane Goodger_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 eaac2dfc229edb3431710721eaea8be1

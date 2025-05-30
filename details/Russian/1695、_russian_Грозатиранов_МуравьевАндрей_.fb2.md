@@ -8,7 +8,7 @@
 1695、_russian_Гроза тиранов_Муравьев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c59a5a220f162ae4c4b476be65a7c3b3

@@ -8,7 +8,7 @@
 1337、_russian_Не жалейте флагов_Во Ивлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8d1785aa21f71de52fad7c592761f45

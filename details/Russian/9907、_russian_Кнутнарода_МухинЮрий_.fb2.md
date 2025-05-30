@@ -8,7 +8,7 @@
 9907、_russian_Кнут народа_Мухин Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87bb3ae871bdf758c95629e3032088f8

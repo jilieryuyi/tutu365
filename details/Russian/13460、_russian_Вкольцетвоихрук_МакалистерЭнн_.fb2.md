@@ -8,7 +8,7 @@
 13460、_russian_В кольце твоих рук_Макалистер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f0cc745d1689c8e9363b0a60f059017

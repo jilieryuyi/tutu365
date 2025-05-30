@@ -8,7 +8,7 @@
 6685、_russian_Вентус_Шрёдер Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1465c8cd91e52b5ec4e88b891c13f32

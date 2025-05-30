@@ -8,7 +8,7 @@
 2616、_spanish_La moral de un esnob_Posadas Carmen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 939d4dbd0cdf217edc56ce0463882c80

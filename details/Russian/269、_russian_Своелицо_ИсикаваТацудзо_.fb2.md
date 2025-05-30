@@ -8,7 +8,7 @@
 269、_russian_Свое лицо_Исикава Тацудзо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f80f74eb8d85c4bd345a950c75eefa62

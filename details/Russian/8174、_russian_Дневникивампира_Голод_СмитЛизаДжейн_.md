@@ -8,7 +8,7 @@
 8174、_russian_Дневники вампира_ Голод_Смит Лиза Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbce1bbc41c185353804d8a635ac52ba

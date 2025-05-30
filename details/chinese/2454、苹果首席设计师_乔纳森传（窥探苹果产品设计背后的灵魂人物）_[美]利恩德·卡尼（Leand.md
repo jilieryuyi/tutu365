@@ -8,7 +8,7 @@
 2454、苹果首席设计师_乔纳森传（窥探苹果产品设计背后的灵魂人物）_[美]利恩德·卡尼（Leander Kahney）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7dbc2bf6c5dc31e380c3c6c2a0ae5f96

@@ -8,7 +8,7 @@
 [Agile.Analytics.(2011.08)].Ken.W.Collier.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ef94cf073b047b27f004ad110854dbed

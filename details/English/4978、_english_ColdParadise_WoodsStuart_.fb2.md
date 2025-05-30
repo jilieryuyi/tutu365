@@ -8,7 +8,7 @@
 4978、_english_Cold Paradise_Woods Stuart_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4b036d796c677561914c0dcbeb2f1f5c

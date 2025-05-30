@@ -8,7 +8,7 @@
 10960、_russian_Дверь в стене_Уэллс Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e5687fcbc1e4519580c6e640d1d8108

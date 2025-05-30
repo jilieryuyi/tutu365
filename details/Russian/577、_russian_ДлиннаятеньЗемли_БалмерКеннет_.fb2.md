@@ -8,7 +8,7 @@
 577、_russian_Длинная тень Земли_Балмер Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e5d47daac768d3b9971ad1c567b13b3

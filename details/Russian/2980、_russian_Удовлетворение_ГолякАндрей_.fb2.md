@@ -8,7 +8,7 @@
 2980、_russian_Удовлетворение_Голяк Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f889a7b34991b12c7dd107b2f619de96

@@ -8,7 +8,7 @@
 3956、_russian_Пророчество льда_Рымжанов Тимур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0793e1a0b3961753fd0da3249f32c8a4

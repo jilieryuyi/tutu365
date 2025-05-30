@@ -8,7 +8,7 @@
 12032、_russian_Лунная соната_Катаев Валентин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f1f4f0de25d7b712d1d33640aa7e412

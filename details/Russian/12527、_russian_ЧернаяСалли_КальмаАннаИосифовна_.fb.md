@@ -8,7 +8,7 @@
 12527、_russian_Черная Салли_Кальма Анна Иосифовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 854bb1d6a882a6a1f2991db0136a1b98

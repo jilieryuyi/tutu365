@@ -8,7 +8,7 @@
 6611、_russian_Смерть лошадки_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a41397db8e256d7a657f5290fb1cc9c5

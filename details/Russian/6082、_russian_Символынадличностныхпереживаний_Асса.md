@@ -8,7 +8,7 @@
 6082、_russian_Символы надличностных переживаний_Ассаджоли Роберто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f88f0772c58f377fa76a6330bb9ceb60

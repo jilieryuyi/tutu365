@@ -8,7 +8,7 @@
 5534、_russian_В тот необычный день (сборник)_Шайхов Ходжиакбар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5548df053dd599f974e5688cc113e0bf

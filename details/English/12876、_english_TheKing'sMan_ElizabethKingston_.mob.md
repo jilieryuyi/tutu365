@@ -8,7 +8,7 @@
 12876、_english_The King's Man_Elizabeth Kingston_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 60f76a146e1c4b69e5b1776d2058a33c

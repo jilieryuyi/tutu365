@@ -8,7 +8,7 @@
 2098、Python语言及其应用 (图灵程序设计丛书)_[美] 卢布诺维克（Bill Lubanovic）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1c2c508ec2df71c1a2410f3d51c5eb8d

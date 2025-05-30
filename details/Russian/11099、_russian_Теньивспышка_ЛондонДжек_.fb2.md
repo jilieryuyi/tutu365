@@ -8,7 +8,7 @@
 11099、_russian_Тень и вспышка_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55f60a29a3c718d71ac76524ad46efc6

@@ -8,7 +8,7 @@
 10551、_russian_Сказки голубой феи. Вступление_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb708f85328fc8be4f1d075c8a77ce5a

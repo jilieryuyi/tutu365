@@ -8,7 +8,7 @@
 14330、_english_Highlander's Kiss_Hildie McQueen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 662562ff49b6f51c11ea84997e87f70c

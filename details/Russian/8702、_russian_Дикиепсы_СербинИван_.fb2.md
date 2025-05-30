@@ -8,7 +8,7 @@
 8702、_russian_Дикие псы_Сербин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 001c3824aa06454b05248890c702e383

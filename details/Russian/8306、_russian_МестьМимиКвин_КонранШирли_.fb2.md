@@ -8,7 +8,7 @@
 8306、_russian_Месть Мими Квин_Конран Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8e1ad6b974d0e755bdca1d2cc455808

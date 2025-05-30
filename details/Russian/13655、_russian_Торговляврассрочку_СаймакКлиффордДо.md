@@ -8,7 +8,7 @@
 13655、_russian_Торговля в рассрочку_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9487fdd9d86f576416feaa15f329d38

@@ -8,7 +8,7 @@
 3658、_ukrainian_На б_лому св_т__Зарудний Микола Якович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40b69be77462a0f877c3b799264a4859

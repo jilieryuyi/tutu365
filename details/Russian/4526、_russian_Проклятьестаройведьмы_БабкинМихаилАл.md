@@ -8,7 +8,7 @@
 4526、_russian_Проклятье старой ведьмы_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8432c0ed01db80aec85cacdbc93c2c1e

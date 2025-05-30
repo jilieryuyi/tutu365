@@ -8,7 +8,7 @@
 7978、_russian_Его турецкий роман_Царицын Владимир, _.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a766d667575094ead98934993365b15

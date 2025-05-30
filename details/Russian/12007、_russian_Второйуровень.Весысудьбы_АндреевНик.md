@@ -8,7 +8,7 @@
 12007、_russian_Второй уровень. Весы судьбы_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4da5ddf41fa71db5c96bab105bf48c57

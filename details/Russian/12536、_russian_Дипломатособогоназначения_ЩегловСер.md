@@ -8,7 +8,7 @@
 12536、_russian_Дипломат особого назначения_Щеглов Сергей Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3bcda61e301ddc1b71c5d2e43929313

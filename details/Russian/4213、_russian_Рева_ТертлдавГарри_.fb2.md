@@ -8,7 +8,7 @@
 4213、_russian_Рева_Тертлдав Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9c5b0693413afe72611379c71a65280

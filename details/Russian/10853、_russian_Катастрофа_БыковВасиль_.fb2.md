@@ -8,7 +8,7 @@
 10853、_russian_Катастрофа_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d5247b6f261f398fc765fe025531a8d

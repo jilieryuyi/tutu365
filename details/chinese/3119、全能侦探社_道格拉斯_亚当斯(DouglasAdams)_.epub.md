@@ -8,7 +8,7 @@
 3119、全能侦探社_道格拉斯_亚当斯 (Douglas Adams)_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 def4339a7869ab3b0991478b8f892002

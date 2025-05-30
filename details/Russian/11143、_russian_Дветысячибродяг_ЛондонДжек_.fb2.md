@@ -8,7 +8,7 @@
 11143、_russian_Две тысячи бродяг_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6d06117533c57b0c93bc19f31ddcaf8

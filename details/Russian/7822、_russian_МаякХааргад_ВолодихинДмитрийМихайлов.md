@@ -8,7 +8,7 @@
 7822、_russian_Маяк Хааргад_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb161cdf65c0a19237f5608dfecd3ab1

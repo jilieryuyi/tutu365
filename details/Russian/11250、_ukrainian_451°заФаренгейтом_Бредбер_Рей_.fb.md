@@ -8,7 +8,7 @@
 11250、_ukrainian_451°  за Фаренгейтом_Бредбер_ Рей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f8d8e107d9bba0b12201f725871d6c9

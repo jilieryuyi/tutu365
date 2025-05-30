@@ -8,7 +8,7 @@
 7756、_russian_Кто__Багряк Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b0621487881559356ada3a5484ce777

@@ -8,7 +8,7 @@
 14844、_russian_Печать льда_Малицкий Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c87f1383c2747bfe47b1b9eb79c14e19

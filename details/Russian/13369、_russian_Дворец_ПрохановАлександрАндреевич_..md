@@ -8,7 +8,7 @@
 13369、_russian_Дворец_Проханов Александр Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4343bf9e06cd2cf3c981825befd8244

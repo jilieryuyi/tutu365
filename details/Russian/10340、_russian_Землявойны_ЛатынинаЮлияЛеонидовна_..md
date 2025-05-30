@@ -8,7 +8,7 @@
 10340、_russian_Земля войны_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c06120e53f6ff639133f6f6c3a7e603

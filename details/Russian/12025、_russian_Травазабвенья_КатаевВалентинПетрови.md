@@ -8,7 +8,7 @@
 12025、_russian_Трава забвенья_Катаев Валентин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc9e0d73664ff1bc6fcbc77eff6c86a7

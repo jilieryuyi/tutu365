@@ -8,7 +8,7 @@
 1552、_russian_Тайны Времени_Чернобров Вадим Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67bebf3d9caa68a3ddac1e2b22a6eb6a

@@ -8,7 +8,7 @@
 8073、_russian_Солярис. Эдем_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f30c10601351fa81d33a5f2912a60dd

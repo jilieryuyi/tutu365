@@ -8,7 +8,7 @@
 8296、_russian_Сотворившая себя_Харрис Рут_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 680de7630abedbf45b0173c9c7167b97

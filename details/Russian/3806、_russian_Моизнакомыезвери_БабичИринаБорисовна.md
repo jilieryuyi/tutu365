@@ -8,7 +8,7 @@
 3806、_russian_Мои знакомые звери_Бабич Ирина Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba47ec9d19ebaa4c6d4f3cdf22d99de1

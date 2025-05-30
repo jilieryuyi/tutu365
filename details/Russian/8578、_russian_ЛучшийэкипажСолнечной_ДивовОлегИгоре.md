@@ -8,7 +8,7 @@
 8578、_russian_Лучший экипаж Солнечной_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa75595e51c94431a3f85daa23a04279

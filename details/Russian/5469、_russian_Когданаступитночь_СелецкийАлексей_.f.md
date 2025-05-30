@@ -8,7 +8,7 @@
 5469、_russian_Когда наступит ночь_Селецкий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c5dcb0b225a2df1f3bf10c5c49792a1

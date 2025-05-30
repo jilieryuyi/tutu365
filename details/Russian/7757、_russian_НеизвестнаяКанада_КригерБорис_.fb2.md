@@ -8,7 +8,7 @@
 7757、_russian_Неизвестная Канада_Кригер Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5556bdbe57cd7dfb6339f63c91071fb5

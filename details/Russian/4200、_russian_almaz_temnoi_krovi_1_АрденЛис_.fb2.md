@@ -8,7 +8,7 @@
 4200、_russian_almaz_temnoi_krovi_1_Арден Лис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4a0b4b75716d5b4f487acd6a21fdaa2

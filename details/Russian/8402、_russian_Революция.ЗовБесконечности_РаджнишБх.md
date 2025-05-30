@@ -8,7 +8,7 @@
 8402、_russian_Революция. Зов Бесконечности_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e87c43a0a406f39caf55e2468b3e9185

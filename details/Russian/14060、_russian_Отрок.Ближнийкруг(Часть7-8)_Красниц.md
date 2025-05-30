@@ -8,7 +8,7 @@
 14060、_russian_Отрок. Ближний круг (Часть 7-8)_Красницкий Евгений Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fda85d03b26026271d50f1bcffe69aec

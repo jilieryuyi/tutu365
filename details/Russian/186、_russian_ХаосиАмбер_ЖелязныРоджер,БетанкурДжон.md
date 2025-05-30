@@ -8,7 +8,7 @@
 186、_russian_Хаос и Амбер_Желязны Роджер, Бетанкур Джон Грегори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b8d9b85c09d1f94e115538d5d5ab27b

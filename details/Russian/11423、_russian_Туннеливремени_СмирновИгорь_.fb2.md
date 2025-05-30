@@ -8,7 +8,7 @@
 11423、_russian_Туннели времени_Смирнов Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05d78053161ee1e7c0bc9fef1796c71a

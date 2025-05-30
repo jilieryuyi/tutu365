@@ -8,7 +8,7 @@
 2283、_russian_Вор и любовь_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae6c7c409e4e59e9a8c18e7f19c9a638

@@ -8,7 +8,7 @@
 5271、_russian_Тверской бульвар_Абдуллаев Чингиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b6c8fa3324f7073e931124de85bebaa

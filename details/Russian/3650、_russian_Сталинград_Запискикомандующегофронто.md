@@ -8,7 +8,7 @@
 3650、_russian_Сталинград_ Записки командующего фронтом_Еременко Андрей Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc4f29d5178fecbc70824d2e98d4bbab

@@ -8,7 +8,7 @@
 13295、_russian_Чудесное превращение_Крузи Дженнифер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eadda5d04fe3cd26d8387ba923ebd610

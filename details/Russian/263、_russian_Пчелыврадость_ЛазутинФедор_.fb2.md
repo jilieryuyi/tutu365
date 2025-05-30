@@ -8,7 +8,7 @@
 263、_russian_Пчелы в радость_Лазутин Федор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2e5cb85a0f5cb79a614d8e94cc4f4e1

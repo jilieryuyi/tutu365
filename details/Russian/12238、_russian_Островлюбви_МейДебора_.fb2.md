@@ -8,7 +8,7 @@
 12238、_russian_Остров любви_Мей Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11b4e625f0b3bbe320a11a4a9f4e532b

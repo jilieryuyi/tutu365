@@ -8,7 +8,7 @@
 4426、_russian_Испытание добром (сборник)_Тесленко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1b30d356716eb1f4810b238815441cf

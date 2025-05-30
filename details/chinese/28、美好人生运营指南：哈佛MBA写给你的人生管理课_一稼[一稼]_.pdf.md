@@ -8,7 +8,7 @@
 28、美好人生运营指南：哈佛MBA写给你的人生管理课_一稼 [一稼]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3d7e9ae157995f32660e6d4e52c76c31

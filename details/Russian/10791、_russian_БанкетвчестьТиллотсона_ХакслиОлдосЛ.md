@@ -8,7 +8,7 @@
 10791、_russian_Банкет в честь Тиллотсона_Хаксли Олдос Леонард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37bbf39d6af7d7be17b13cdc7ce0220d

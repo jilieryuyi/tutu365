@@ -8,7 +8,7 @@
 354、_russian_Море вернёт янтарь_Возовиков Владимир Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 189e35a1448af9ab013292dc911b4123

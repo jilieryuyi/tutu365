@@ -8,7 +8,7 @@
 5611、_russian_Год Кита_Шеффер Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e3298420c5f049299ab860bf36a51e8

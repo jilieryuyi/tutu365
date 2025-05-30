@@ -8,7 +8,7 @@
 3409、_russian_Башня шутов_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01c732e0969d28dce8ccde34f49c75ab

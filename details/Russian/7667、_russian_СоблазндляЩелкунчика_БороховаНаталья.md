@@ -8,7 +8,7 @@
 7667、_russian_Соблазн для Щелкунчика_Борохова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b495941816bb45f84f3f0e08fcb8751

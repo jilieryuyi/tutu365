@@ -8,7 +8,7 @@
 15211、_russian_Открытое общество и его враги_Поппер Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 735ef50ab2260443f3c59088ea508f44

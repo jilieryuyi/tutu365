@@ -8,7 +8,7 @@
 13371、_russian_Ф. Шопен_Лист Ференц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e66b5471fb9adf5028a032e9924683fa

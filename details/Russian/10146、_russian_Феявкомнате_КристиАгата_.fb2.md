@@ -8,7 +8,7 @@
 10146、_russian_Фея в комнате_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 678103c27411a7f2c17008b1eedb2996

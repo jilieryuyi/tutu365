@@ -8,7 +8,7 @@
 6354、_russian_Оборотень_Лукарелли Карло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44b7fb5e39100d0ccfae0a2d604f8caa

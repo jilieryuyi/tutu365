@@ -8,7 +8,7 @@
 4044、_russian_Как творить историю_Фрай Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 837de16ce715ceab1e79c1b8f6f436b5

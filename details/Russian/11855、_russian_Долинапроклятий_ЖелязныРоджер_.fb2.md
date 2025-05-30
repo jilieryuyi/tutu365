@@ -8,7 +8,7 @@
 11855、_russian_Долина проклятий_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acd1f83ea1c05dacae97529a92db332e

@@ -8,7 +8,7 @@
 2864、_russian_Брунгильда и любовь (из жизни евролюдей)_Хургин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc9ccf5322a151479bf98ae6f94db657

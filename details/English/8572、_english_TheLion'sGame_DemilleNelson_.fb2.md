@@ -8,7 +8,7 @@
 8572、_english_The Lion's Game_Demille Nelson_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b503c853f0766ba43644b08e19f4f875

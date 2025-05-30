@@ -8,7 +8,7 @@
 10719、_russian_В сетях аферистки_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5096eee6c25af72110ee2a271162a82b

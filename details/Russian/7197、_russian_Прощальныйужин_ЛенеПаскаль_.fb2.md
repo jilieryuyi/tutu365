@@ -8,7 +8,7 @@
 7197、_russian_Прощальный ужин_Лене Паскаль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8f688fc20dc3a1491f69cf8f9d8959a

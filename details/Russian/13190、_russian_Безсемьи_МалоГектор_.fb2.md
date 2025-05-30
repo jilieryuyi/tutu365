@@ -8,7 +8,7 @@
 13190、_russian_Без семьи_Мало Гектор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b1471659dfc0e204c3c9a7c236ae42a

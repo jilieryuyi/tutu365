@@ -8,7 +8,7 @@
 10273、_russian_Любовь согласно Йозефу_Кондротас Саулюс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e0fcd828280cc33a42d1e493da4c6ec

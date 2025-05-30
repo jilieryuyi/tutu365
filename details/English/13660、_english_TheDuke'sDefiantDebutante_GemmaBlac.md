@@ -8,7 +8,7 @@
 13660、_english_The Duke's Defiant Debutante_Gemma Blackwood_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 96618932da0ecdfeb14328c8a5f8d5f7

@@ -8,7 +8,7 @@
 8486、_russian_Семнадцать мгновений Вейдера_Alma, Лисса, Вильварин Дио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e54c307cc124772765f6f893937b119

@@ -8,7 +8,7 @@
 15237、_russian_Чистое Небо_ Книга Первая_Кочеров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b68249d1890f33a4b490847479e81fd

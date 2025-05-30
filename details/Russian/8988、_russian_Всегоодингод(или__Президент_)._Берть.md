@@ -8,7 +8,7 @@
 8988、_russian_Всего один год (или_ _Президент_)._Бертьен Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da238a8b2f5808f0fc298f2ef7b2d50a

@@ -8,7 +8,7 @@
 11477、_russian_Таинственный цилиндр_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0483bfe9b5a69941217d07d780e78558

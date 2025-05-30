@@ -8,7 +8,7 @@
 1412、_russian_Ясновидящий_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66dc9a240a209fc0d6c10418e9b21f8b

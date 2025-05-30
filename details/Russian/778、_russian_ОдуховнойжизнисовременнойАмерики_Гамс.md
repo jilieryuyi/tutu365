@@ -8,7 +8,7 @@
 778、_russian_О духовной жизни современной Америки_Гамсун Кнут_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95fdcfc66a192aa70173232295e1ac55

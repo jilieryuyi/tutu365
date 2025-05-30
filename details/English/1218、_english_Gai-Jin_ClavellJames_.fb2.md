@@ -8,7 +8,7 @@
 1218、_english_Gai-Jin_Clavell James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0de6ddc4c39b38e8e8aef0fe5504b6f9

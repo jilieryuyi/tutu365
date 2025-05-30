@@ -8,7 +8,7 @@
 10807、_russian_Покоренная дважды_Уилкинсон Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e56ad72b71945873402d5d08abaf6040

@@ -8,7 +8,7 @@
 11722、_russian_В роли возлюбленного_Брукс Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 524dc892127c7c2d6c487fc2ab632b07

@@ -8,7 +8,7 @@
 13617、_russian_Листья бронзовые и багряные_Давенпорт Гай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7d49617fa82a21def1c98e6e3157b29

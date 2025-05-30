@@ -8,7 +8,7 @@
 334、_russian__А_ – значит алиби_Графтон Сью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d75c6ad4efa78bfd352ce3f5fe8d097a

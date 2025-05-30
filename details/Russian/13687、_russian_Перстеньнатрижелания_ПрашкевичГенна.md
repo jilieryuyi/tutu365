@@ -8,7 +8,7 @@
 13687、_russian_Перстень на три желания_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59761740b2a1e31e86ae9a88f3dde027

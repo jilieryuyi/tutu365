@@ -8,7 +8,7 @@
 3952、_russian_Меч Предназначения_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d592ec23eeadd93315676d6cb1036644

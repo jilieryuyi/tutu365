@@ -8,7 +8,7 @@
 10086、_russian_Герой вашего времени_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a12de1b1b2b844baa304ec53ff547350

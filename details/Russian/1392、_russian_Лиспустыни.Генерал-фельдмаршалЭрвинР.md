@@ -8,7 +8,7 @@
 1392、_russian_Лис пустыни. Генерал-фельдмаршал Эрвин Роммель_Кох Лутц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73faa6f3617edb8921d254d9f7021b74

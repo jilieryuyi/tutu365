@@ -8,7 +8,7 @@
 3237、_russian_Дивизион_Лозицкий Николай Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3462db27831dfb055cc29bc1d524785

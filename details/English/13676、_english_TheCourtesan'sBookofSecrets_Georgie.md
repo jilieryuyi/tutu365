@@ -8,7 +8,7 @@
 13676、_english_The Courtesan's Book of Secrets_Georgie Lee_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ec31e1571e6ff4789e61727a1b0e2a23

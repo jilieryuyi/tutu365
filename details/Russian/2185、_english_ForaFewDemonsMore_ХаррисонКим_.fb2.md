@@ -8,7 +8,7 @@
 2185、_english_For a Few Demons More_Харрисон Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a6628a158b8aef6c244daf64ca3b2eb

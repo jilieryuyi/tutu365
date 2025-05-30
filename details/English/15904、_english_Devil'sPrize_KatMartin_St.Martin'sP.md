@@ -8,7 +8,7 @@
 15904、_english_Devil's Prize_Kat Martin_St. Martin's Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 86bc0cdbce7235ea2656234ad78088ef

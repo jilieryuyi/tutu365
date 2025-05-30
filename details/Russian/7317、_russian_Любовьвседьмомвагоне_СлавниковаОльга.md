@@ -8,7 +8,7 @@
 7317、_russian_Любовь в седьмом вагоне_Славникова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20bca04228db4ef94e593489743994e9

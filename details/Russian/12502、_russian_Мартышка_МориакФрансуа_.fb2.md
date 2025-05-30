@@ -8,7 +8,7 @@
 12502、_russian_Мартышка_Мориак Франсуа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4ba2e63779ef967858c41df6f9b9898

@@ -8,7 +8,7 @@
 7150、_russian_Первое свидание (поэма)_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d49d4709a56cf0fe7f060a590031363d

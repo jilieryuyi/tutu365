@@ -8,7 +8,7 @@
 2120、_russian_Тринадцать_Асанов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28abd36ab29c88453d5e7a0ce900b262

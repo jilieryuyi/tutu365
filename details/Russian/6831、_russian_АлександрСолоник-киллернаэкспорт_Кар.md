@@ -8,7 +8,7 @@
 6831、_russian_Александр Солоник - киллер на экспорт_Карышев Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c1094c76e84a7c485dfc2fafbf09518

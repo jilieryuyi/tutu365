@@ -8,7 +8,7 @@
 生命之源：能量、演化與複雜生命的起源_SoBooKs.cc 尼克．連恩(Nick Lane) [尼克．連恩(Nick Lane), SoBooKs.cc]__5538499_b18055ee132eea860f82a8538fde5c61.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b18055ee132eea860f82a8538fde5c61

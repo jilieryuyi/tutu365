@@ -8,7 +8,7 @@
 8371、_english_Devil's Embrace_Catherine Coulter_Penguin Group (USA) Incorporated.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8d1061c05eac9f3c842b841353bc3ce2

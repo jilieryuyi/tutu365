@@ -8,7 +8,7 @@
 1790、_russian_Фаворит_Френсис Дик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1c1c2f388057706cf2f6e71829f25dd

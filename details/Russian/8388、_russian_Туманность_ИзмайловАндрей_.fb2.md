@@ -8,7 +8,7 @@
 8388、_russian_Туманность_Измайлов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40e0a64f8b910c387f3b280b38cacea8

@@ -8,7 +8,7 @@
 3969、_russian_Контора Игрек_Орлов Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eddd7c9332033587ba117deb36f42fbb

@@ -8,7 +8,7 @@
 15163、_russian_Doktor с подводной лодки_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 430f038bff675095c8dda51ac4c463a7

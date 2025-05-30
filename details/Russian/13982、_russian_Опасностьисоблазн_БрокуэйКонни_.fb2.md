@@ -8,7 +8,7 @@
 13982、_russian_Опасность и соблазн_Брокуэй Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 751d45a2997f6f79935287bb6f89f540

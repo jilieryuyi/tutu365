@@ -8,7 +8,7 @@
 11266、_english_Tribesmen of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 20753532586d494975c9fab6fb2dd09c

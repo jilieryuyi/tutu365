@@ -8,7 +8,7 @@
 2692、_russian__Да вспомнятся мои грехи_, Холдеман Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9dab44e2f3d15c4bbe646b9015c5562b

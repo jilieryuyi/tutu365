@@ -8,7 +8,7 @@
 873、_russian_Рассказ ни о чем_Балабченков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17059b4c6cf8318d2e802542347b3ac3

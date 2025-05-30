@@ -8,7 +8,7 @@
 6719、_russian_Атака Боло_Кейт Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ed69726decdcec8eb27fe42a6937b7a

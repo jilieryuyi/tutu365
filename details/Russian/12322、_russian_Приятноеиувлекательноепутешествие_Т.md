@@ -8,7 +8,7 @@
 12322、_russian_Приятное и увлекательное путешествие_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3e17ef0e2ab431f6ce44e9b39fc4dd9

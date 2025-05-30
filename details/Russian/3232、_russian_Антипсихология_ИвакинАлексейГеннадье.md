@@ -8,7 +8,7 @@
 3232、_russian_Антипсихология_Ивакин Алексей Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e4c42aab946d405e16283a2d47769ce

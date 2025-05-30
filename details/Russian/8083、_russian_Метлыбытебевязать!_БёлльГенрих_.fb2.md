@@ -8,7 +8,7 @@
 8083、_russian_Метлы бы тебе вязать!_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50d92615988bf45d18e5c1bb2fa2e7f5

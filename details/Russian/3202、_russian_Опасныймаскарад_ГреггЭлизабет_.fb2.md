@@ -8,7 +8,7 @@
 3202、_russian_Опасный маскарад_Грегг Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f20b28aee4473f2ab1b4c512d4b337be

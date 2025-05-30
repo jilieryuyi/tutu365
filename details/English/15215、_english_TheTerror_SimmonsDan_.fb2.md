@@ -8,7 +8,7 @@
 15215、_english_The Terror_Simmons Dan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d2e8ab72f20c27fa01e741f529972064

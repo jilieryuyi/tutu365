@@ -8,7 +8,7 @@
 10696、_russian_Гиена Сенекозы_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7d691c7b03fefd8854c7b4e6ca254b0

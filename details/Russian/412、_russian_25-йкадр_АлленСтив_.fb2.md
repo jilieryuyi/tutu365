@@ -8,7 +8,7 @@
 412、_russian_25-й кадр_Аллен Стив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bcab14b90e6941607288f68e2184f04

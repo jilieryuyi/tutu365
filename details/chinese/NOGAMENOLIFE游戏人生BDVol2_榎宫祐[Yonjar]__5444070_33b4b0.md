@@ -8,7 +8,7 @@
 NO GAME NO LIFE 游戏人生 BD Vol2_榎宫祐 [Yonjar]__5444070_33b4b07aa4bb4c74279693e383580952.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 33b4b07aa4bb4c74279693e383580952

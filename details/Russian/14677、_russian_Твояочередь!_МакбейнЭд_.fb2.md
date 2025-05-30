@@ -8,7 +8,7 @@
 14677、_russian_Твоя очередь!_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c44b35dca9df05fe3f76a88b68e6960

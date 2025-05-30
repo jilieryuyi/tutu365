@@ -8,7 +8,7 @@
 13144、_russian_Мы все из Бюллербю_Линдгрен Астрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f944f3ff6935967070375b232799ed2

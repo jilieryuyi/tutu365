@@ -8,7 +8,7 @@
 14324、_english_Blast From The Past_Elton Ben_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 93adc5a56befde55812faed4136f9da8

@@ -8,7 +8,7 @@
 2398、_russian_Душной ночью в Каролине_Болл Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44a10b49da1a606654fa71ddad2506a3

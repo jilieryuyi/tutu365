@@ -8,7 +8,7 @@
 617、淡定的智慧_弘一法师的人生幸福课_Publisher           _ 新世界出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cfa85b600868976ff6fbcc1157af61c5

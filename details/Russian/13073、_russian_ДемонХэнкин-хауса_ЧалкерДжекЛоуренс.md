@@ -8,7 +8,7 @@
 13073、_russian_Демон Хэнкин-хауса_Чалкер Джек Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50aa7d6bef8f538562320a0c9346f92d

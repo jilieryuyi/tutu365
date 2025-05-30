@@ -8,7 +8,7 @@
 5695、_russian_Леди Генри_Стоун Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68cddffb4bd3409de6d076463e42724d

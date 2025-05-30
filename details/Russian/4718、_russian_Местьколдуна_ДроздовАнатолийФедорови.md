@@ -8,7 +8,7 @@
 4718、_russian_Месть колдуна_Дроздов Анатолий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fffabffe9ad9828b7ddb9ca518be6ffb

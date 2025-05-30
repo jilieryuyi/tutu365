@@ -8,7 +8,7 @@
 5375、_russian_Воровка_Слезар Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9970d6fb64d58ee918dcaccaa25e766

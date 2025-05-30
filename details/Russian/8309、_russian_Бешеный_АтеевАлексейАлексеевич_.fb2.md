@@ -8,7 +8,7 @@
 8309、_russian_Бешеный_Атеев Алексей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b77c03e29e6308dd1d629e30eff6a4b4

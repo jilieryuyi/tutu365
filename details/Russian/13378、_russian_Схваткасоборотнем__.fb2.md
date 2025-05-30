@@ -8,7 +8,7 @@
 13378、_russian_Схватка с оборотнем__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a769f3870d7f7ccf4177232f5889efb1

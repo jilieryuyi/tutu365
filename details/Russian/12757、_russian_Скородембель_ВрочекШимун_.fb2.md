@@ -8,7 +8,7 @@
 12757、_russian_Скоро дембель_Врочек Шимун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3166edba62281431a1391ffc703d8d34

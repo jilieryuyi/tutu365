@@ -8,7 +8,7 @@
 4663、_english_Highlander's Sword_Amanda Forester_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 adaa89cbd4f008391c5d6f5583411683

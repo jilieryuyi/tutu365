@@ -8,7 +8,7 @@
 11907、_russian_Сидоров_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85222e697db118a76c7234290a9c26e5

@@ -8,7 +8,7 @@
 1323、_russian_Поводыри на распутье_Панов Вадим Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdfe964eabd342f084419bbcdf395776

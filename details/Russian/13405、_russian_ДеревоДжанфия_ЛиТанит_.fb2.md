@@ -8,7 +8,7 @@
 13405、_russian_Дерево Джанфия_Ли Танит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8033f67320af19e6ca0e42e4688ec1d7

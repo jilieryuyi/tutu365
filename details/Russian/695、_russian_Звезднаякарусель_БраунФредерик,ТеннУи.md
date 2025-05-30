@@ -8,7 +8,7 @@
 695、_russian_Звездная карусель_Браун Фредерик, Тенн Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c22416a819f285e99e8d24f29fdf5312

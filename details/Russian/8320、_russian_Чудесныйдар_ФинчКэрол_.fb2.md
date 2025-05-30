@@ -8,7 +8,7 @@
 8320、_russian_Чудесный дар_Финч Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7fb520077d20248bccef49b5ba974dc

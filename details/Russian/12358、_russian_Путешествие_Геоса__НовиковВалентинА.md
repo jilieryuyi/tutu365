@@ -8,7 +8,7 @@
 12358、_russian_Путешествие _Геоса__Новиков Валентин Афанасьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d9f0adca7e67bd9c8428ed2b8dd1136

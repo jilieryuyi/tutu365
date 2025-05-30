@@ -8,7 +8,7 @@
 2143、编程之法：面试和算法心得_wizardforcel_GitBook.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2a9a277e837d036e0acb170359eaa253

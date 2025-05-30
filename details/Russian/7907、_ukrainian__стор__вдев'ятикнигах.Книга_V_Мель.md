@@ -8,7 +8,7 @@
 7907、_ukrainian__стор__ в дев'яти книгах. Книга_V_ Мельпомена_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 138f9eedbafdd0f2b8604d52b954da5c

@@ -8,7 +8,7 @@
 8857、_bulgarian_Часът на Бика_Ефремов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fa14845e4d397c0f3b61dec7d92c755

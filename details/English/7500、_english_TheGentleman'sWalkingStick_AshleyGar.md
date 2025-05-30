@@ -8,7 +8,7 @@
 7500、_english_The Gentleman's Walking Stick_Ashley Gardner_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 15a5195994e5994ec87b4d8c64599c01

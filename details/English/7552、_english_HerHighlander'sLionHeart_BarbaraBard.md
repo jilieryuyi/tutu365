@@ -8,7 +8,7 @@
 7552、_english_Her Highlander's Lion Heart_Barbara Bard_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 502dd52d8db50f2dbdae3dd80dbb8752

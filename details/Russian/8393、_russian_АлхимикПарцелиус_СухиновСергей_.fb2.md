@@ -8,7 +8,7 @@
 8393、_russian_Алхимик Парцелиус_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4512af3da4a0d469e8a127f1d9be2625

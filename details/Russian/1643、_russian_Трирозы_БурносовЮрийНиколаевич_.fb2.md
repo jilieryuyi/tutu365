@@ -8,7 +8,7 @@
 1643、_russian_Три розы_Бурносов Юрий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 808b0618022b841c4b5f68413452481a

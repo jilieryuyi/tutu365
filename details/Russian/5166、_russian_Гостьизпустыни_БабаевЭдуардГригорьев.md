@@ -8,7 +8,7 @@
 5166、_russian_Гость из пустыни_Бабаев Эдуард Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79c3d7d5e53644c532873c1425ab04d1

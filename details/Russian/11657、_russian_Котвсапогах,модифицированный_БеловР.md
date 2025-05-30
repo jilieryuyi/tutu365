@@ -8,7 +8,7 @@
 11657、_russian_Кот в сапогах, модифицированный_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba5949596a43c29b012d4476bc666f1a

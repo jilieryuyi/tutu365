@@ -8,7 +8,7 @@
 5140、_russian_Таланты и поклонники_Островский. Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83f196b5948e96d4eceded7b2c38bf56

@@ -8,7 +8,7 @@
 1732、_russian_Ключик от сердца_Рокс Мелани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e193adf63bb4f770c76adbc77cc24f5

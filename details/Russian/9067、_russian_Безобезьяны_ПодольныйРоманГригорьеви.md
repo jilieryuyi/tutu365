@@ -8,7 +8,7 @@
 9067、_russian_Без обезьяны_Подольный Роман Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9a38f5e8e374a4b3788dcbc4f250763

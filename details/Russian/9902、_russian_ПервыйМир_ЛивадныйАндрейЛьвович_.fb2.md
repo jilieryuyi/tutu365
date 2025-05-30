@@ -8,7 +8,7 @@
 9902、_russian_Первый Мир_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dba07d48ced395fe8637aa7d8c39b3da

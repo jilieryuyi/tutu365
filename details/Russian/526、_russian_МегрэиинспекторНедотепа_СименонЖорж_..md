@@ -8,7 +8,7 @@
 526、_russian_Мегрэ и инспектор Недотепа_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4e0644ff0f81cbd74f60679cbe651e5

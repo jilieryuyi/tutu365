@@ -8,7 +8,7 @@
 13109、_russian_В омуте блаженства_Симпсон Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af2f1ed01ece14aba9d35efd0e7c8fa3

@@ -8,7 +8,7 @@
 7548、_russian_Скидка на талант_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 431c9f437f16f869a40c0bffa332375f

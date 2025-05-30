@@ -8,7 +8,7 @@
 7979、_russian_Касатка и Кит_Царицын Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19389bcb5b26a5a4cb115ed551bde6e7

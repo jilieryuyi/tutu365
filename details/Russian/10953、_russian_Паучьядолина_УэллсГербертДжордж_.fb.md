@@ -8,7 +8,7 @@
 10953、_russian_Паучья долина_Уэллс Герберт Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3207b3bf112f036e01626b1c1b63f859

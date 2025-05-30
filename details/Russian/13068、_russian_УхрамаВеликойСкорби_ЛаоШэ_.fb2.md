@@ -8,7 +8,7 @@
 13068、_russian_У храма Великой Скорби_Лао Шэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 548ae27c2739231242eaa814d356481a

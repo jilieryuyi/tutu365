@@ -8,7 +8,7 @@
 2189、跟老齐学Python：从入门到精通_齐伟_电子工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3336afda43a02536742aea61ebd75984

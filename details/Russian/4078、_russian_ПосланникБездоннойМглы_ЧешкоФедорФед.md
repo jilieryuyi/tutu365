@@ -8,7 +8,7 @@
 4078、_russian_Посланник Бездонной Мглы_Чешко Федор Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11d0b4a8ae5ca498b9306e4e8e99b3c8

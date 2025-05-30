@@ -8,7 +8,7 @@
 6240、_russian_Мой-мой_Яременко-Толстой Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cdd017ab6502c506b504bed254fff83

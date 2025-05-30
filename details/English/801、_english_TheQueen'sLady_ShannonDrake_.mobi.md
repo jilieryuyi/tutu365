@@ -8,7 +8,7 @@
 801、_english_The Queen's Lady_Shannon Drake_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 39fbb47fcb199562b14d2438418e75be

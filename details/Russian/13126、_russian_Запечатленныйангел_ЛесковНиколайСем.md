@@ -8,7 +8,7 @@
 13126、_russian_Запечатленный ангел_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09c3f4b47b7758d701f13ce860cb1b9f

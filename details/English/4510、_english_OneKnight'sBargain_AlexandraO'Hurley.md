@@ -8,7 +8,7 @@
 4510、_english_One Knight's Bargain_Alexandra O'Hurley_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 665c7a0e2abb1548e4fccb21f76a8f34

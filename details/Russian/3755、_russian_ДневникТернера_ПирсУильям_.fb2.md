@@ -8,7 +8,7 @@
 3755、_russian_Дневник Тернера_Пирс Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4a3620683a11a36950c43fbd0ea2051

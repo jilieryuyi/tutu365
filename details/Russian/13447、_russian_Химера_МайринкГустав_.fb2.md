@@ -8,7 +8,7 @@
 13447、_russian_Химера_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9b979b70e89a7e098303ac0ae0f5e93

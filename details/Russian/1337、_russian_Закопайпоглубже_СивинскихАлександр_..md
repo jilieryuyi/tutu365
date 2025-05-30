@@ -8,7 +8,7 @@
 1337、_russian_Закопай поглубже_Сивинских Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a94e5accac77e8f1bbdc4146a1d7084e

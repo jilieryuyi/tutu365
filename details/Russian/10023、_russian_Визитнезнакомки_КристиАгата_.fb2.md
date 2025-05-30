@@ -8,7 +8,7 @@
 10023、_russian_Визит незнакомки_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 494595d156790ae9b8c137041aa1a436

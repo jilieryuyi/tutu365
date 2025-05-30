@@ -8,7 +8,7 @@
 2814、_russian_Операцию _Шторм_ начать раньше…_Иванов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac985ef35cf67d810f2b47d95f4c1d3e

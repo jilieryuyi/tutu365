@@ -8,7 +8,7 @@
 8723、_russian_Ким Цын Сон. Пылающие листья_Сон Ким Цын_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dde4fc4a17209385de45080c4641586

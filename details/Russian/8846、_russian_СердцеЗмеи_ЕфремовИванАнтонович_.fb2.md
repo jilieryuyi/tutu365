@@ -8,7 +8,7 @@
 8846、_russian_Сердце Змеи_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3861d5a4a556f0530cec87592a6cd25d

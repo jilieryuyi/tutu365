@@ -8,7 +8,7 @@
 6318、_russian_Зиккурат_Максимов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81ec491cd590acf11b06124d12502855

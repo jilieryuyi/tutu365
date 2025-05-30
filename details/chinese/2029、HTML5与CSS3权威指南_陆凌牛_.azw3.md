@@ -8,7 +8,7 @@
 2029、HTML5与CSS3权威指南_陆凌牛_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 099faa3ad39201ad392f975bfa9372b1

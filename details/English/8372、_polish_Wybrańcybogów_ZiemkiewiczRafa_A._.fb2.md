@@ -8,7 +8,7 @@
 8372、_polish_Wybrańcy bogów_Ziemkiewicz Rafa_ A._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 72865c32ac7dba62e3d7779e4b0a0bf9

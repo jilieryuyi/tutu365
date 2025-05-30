@@ -8,7 +8,7 @@
 13732、_russian_Безумный магазинчик_Волкова Ирина Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0ed4e614a701a5ae2b150e49cbf558f

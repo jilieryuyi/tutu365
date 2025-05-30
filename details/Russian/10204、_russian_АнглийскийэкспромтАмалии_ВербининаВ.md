@@ -8,7 +8,7 @@
 10204、_russian_Английский экспромт Амалии_Вербинина Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 985be9b1e59bbfcb077d7bf6f08d4bfb

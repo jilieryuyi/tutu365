@@ -8,7 +8,7 @@
 13327、_russian_Верхом по Темной Тропе_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0458b90d228ccec4efd0e24ce90adb49

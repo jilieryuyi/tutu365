@@ -8,7 +8,7 @@
 12802、_russian_Специальный рейд_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ceefc1fe72d1ee9577c90923c74465ca

@@ -8,7 +8,7 @@
 2531、_russian_Дневниковые записи_Чехов Антон Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ce026c957f5218936c37dc8fd2a6b88

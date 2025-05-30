@@ -8,7 +8,7 @@
 2320、_english_McKenna's Honor_Suzan Tisdale_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f42bf7b8021a2e0613c1ef0b8b7d38a2

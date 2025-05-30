@@ -8,7 +8,7 @@
 2445、_russian_Том 1. Рассказы_Шолохов Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2748e4c9dd149e0ff2a90682edb23d2a

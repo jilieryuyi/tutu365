@@ -8,7 +8,7 @@
 5304、_russian_Воспоминания о Николае Лескове_Лесков Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e3e6ae3d3f7efe675277cbdb8e3f0a1

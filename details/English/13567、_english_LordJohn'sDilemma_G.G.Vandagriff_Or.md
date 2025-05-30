@@ -8,7 +8,7 @@
 13567、_english_Lord John's Dilemma_G.G. Vandagriff_Orson Whitney Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5c056ab6d8f635dd15966fa83a7128bf

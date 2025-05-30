@@ -8,7 +8,7 @@
 27、_russian_Локальный конфликт_Афанасьев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78ae1aa0b19e175d6bd15d975c7abd7d

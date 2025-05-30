@@ -8,7 +8,7 @@
 7895、_russian_Лакки Старр и большое солнце Меркурия_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 588b630e1b6c63a4bde64c2ca35502be

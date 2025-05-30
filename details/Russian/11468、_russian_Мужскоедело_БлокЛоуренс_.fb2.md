@@ -8,7 +8,7 @@
 11468、_russian_Мужское дело_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41334e826725a8acd4a143182d78049e

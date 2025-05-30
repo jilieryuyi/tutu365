@@ -8,7 +8,7 @@
 1952、_russian_Стояние на реке Москве_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2621f2d844f1b274752170c03a9bac4

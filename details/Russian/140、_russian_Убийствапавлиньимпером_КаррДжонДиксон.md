@@ -8,7 +8,7 @@
 140、_russian_Убийства павлиньим пером_Карр Джон Диксон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91fb0ad41f63b04a5b530a52ef4e5841

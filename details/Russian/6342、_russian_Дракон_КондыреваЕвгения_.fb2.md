@@ -8,7 +8,7 @@
 6342、_russian_Дракон_Кондырева Евгения_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e3fc9e046789b44189a2f0d33bdb070

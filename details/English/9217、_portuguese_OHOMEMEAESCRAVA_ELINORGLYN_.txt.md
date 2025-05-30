@@ -8,7 +8,7 @@
 9217、_portuguese_O HOMEM E A ESCRAVA_ELINOR GLYN_.txt.txt
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9fbba252579945c1e459bdd822ad910f

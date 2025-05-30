@@ -8,7 +8,7 @@
 2017、_russian_Горький привкус_О'Коннелл Стив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de0723da51b353e9f74b2d5b0bffaf22

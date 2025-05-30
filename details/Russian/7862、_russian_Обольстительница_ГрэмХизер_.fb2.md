@@ -8,7 +8,7 @@
 7862、_russian_Обольстительница_Грэм Хизер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 510aa43f582da7f97a473e9d54e7e428

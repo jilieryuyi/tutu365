@@ -8,7 +8,7 @@
 1162、广义线性模型_ George H. Dunterman, Ann A. O'Connell, Scott Menard, Vani Borooah_格致出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9bda8b028104fb7403032132244b3196

@@ -8,7 +8,7 @@
 4447、_russian_Сад опавших листьев_Юки Синъити_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60a57bd6daa8fb75012590e5266812cd

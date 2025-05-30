@@ -8,7 +8,7 @@
 16、_russian_Смерть - рождение_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b95ca23f3c29c8b74566dbeffea45d8

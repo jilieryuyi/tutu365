@@ -8,7 +8,7 @@
 2149、_russian_Печать Иуды_Роллинс Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fe7681ee7ae6ed1b7252cf46b52026e

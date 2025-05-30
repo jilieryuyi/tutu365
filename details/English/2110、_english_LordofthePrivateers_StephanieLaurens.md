@@ -8,7 +8,7 @@
 2110、_english_Lord of the Privateers_Stephanie Laurens_MIRA.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 302e8f37bf4356f45c08784f60e0acd8

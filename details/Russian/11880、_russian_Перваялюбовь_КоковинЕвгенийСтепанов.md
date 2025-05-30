@@ -8,7 +8,7 @@
 11880、_russian_Первая любовь_Коковин Евгений Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1adbccb0d1ec6844f9d4215489e9aa89

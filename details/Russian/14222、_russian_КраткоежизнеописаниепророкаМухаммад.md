@@ -8,7 +8,7 @@
 14222、_russian_Краткое жизнеописание пророка Мухаммада_Апшерони Али_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74b3c022e0f4211ca4b7eea919b6ea3e

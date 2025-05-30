@@ -8,7 +8,7 @@
 885、_russian_Разборки авторитетов_Сухов Евгений Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52f1996d96f84e1e4545cf4bdb0f137d

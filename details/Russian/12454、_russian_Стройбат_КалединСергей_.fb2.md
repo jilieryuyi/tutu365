@@ -8,7 +8,7 @@
 12454、_russian_Стройбат_Каледин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 647ae634f30f5af42fbcbb63353e9ba6

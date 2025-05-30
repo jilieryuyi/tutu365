@@ -8,7 +8,7 @@
 6369、_russian_Власть маски_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3f7f4a9d25cc1f9ccc1e4ea700c21b3

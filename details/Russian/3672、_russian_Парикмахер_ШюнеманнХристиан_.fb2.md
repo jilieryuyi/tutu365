@@ -8,7 +8,7 @@
 3672、_russian_Парикмахер_Шюнеманн Христиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a9f91f70c750afa6d2b42b0b2f49862

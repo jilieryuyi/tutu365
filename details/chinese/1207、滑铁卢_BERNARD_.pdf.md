@@ -8,7 +8,7 @@
 1207、滑铁卢_BERNARD_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 37a1e567d3c5206ccb4c965ace6afbc5

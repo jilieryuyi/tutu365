@@ -8,7 +8,7 @@
 891、_russian_Сын Альбиона_Рид Томас Майн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a690fdbe783690f5c7a1cfb4fe0a351

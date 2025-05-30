@@ -8,7 +8,7 @@
 985、_russian_Страх_Рыбаков Анатолий Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cdf0b0dcd6e558c8e427f677895f938

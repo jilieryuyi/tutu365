@@ -8,7 +8,7 @@
 772、_spanish_El Evangelio según Jesucristo_Saramago José_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 369ece07cc653509dc39920a8ba704d7

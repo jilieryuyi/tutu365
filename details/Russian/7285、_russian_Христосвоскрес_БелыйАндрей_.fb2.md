@@ -8,7 +8,7 @@
 7285、_russian_Христос воскрес_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f78fd6b8aa57615fdc9a51239905990

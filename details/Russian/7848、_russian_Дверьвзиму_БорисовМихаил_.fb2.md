@@ -8,7 +8,7 @@
 7848、_russian_Дверь в зиму_Борисов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f445c8276e16983e52f67b06d58d5576

@@ -8,7 +8,7 @@
 7999、_russian_Война за Биософт_Курпатова-Ким Лилия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44c27736e7233eb260dd83ca2289da30

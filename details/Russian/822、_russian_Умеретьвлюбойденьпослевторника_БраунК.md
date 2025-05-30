@@ -8,7 +8,7 @@
 822、_russian_Умереть в любой день после вторника_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd26deac05856955d8310e542d16a0a1

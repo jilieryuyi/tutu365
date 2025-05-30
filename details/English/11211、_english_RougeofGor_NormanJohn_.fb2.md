@@ -8,7 +8,7 @@
 11211、_english_Rouge of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9fb7dda913c18c12f9663ebd1bd1fc95

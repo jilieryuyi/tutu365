@@ -8,7 +8,7 @@
 6592、_russian_Тишина. Лирические поэмы_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d8b0c26ac88452db4eed48d01bcd82a

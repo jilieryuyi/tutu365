@@ -8,7 +8,7 @@
 1919、_russian_Хочу _Оскар_!_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c40bb6386f2da1990521ad1ef75087ae

@@ -8,7 +8,7 @@
 2271、_english_Riotous Assembly_Sharpe Tom_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d66b8b8ec7dac9cf8464fe7ed1353379

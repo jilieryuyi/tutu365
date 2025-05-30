@@ -8,7 +8,7 @@
 14244、_russian_Предсказание небес_Уиздом Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e345db47b96064d4d9c7e6926a365b1

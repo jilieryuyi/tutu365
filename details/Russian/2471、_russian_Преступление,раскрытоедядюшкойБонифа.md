@@ -8,7 +8,7 @@
 2471、_russian_Преступление, раскрытое дядюшкой Бонифасом_Мопассан Ги де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a7f685ef89097cebd7235dd016e586f

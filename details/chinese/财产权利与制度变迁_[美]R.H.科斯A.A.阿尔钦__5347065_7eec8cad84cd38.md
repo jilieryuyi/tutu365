@@ -8,7 +8,7 @@
 财产权利与制度变迁_[美]R.H.科斯 A.A.阿尔钦__5347065_7eec8cad84cd381d7435c76b704b9448.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7eec8cad84cd381d7435c76b704b9448

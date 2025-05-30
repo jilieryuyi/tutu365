@@ -8,7 +8,7 @@
 2966、_russian_Предполагаем жить_Екимов Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9e0d9a149aab9ce6b5671a366669b24

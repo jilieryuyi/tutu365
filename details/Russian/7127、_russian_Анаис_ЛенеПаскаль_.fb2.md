@@ -8,7 +8,7 @@
 7127、_russian_Анаис_Лене Паскаль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c21b1fea21ca622320e17491a00d7b6

@@ -8,7 +8,7 @@
 13427、_russian_ОДИССЕЯ КАПИТАНА БЛАДА_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a829c8e9cf7037a1ae1dca7b449b018f

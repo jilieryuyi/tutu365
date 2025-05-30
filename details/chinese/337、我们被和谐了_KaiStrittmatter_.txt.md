@@ -8,7 +8,7 @@
 337、我们被和谐了_Kai Strittmatter_.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6d9f47921168992240b4b942b2dc2d5e

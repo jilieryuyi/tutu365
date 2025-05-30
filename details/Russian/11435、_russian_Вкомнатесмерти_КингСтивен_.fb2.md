@@ -8,7 +8,7 @@
 11435、_russian_В комнате смерти_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3c688ce2ec14ecd61a9cf15d57f3c56

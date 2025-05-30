@@ -8,7 +8,7 @@
 594、练习的力量_把事情做到更好的42法则_道格·莱莫夫 (Doug Lemov)_Jossey-Bass.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 611e82427a7461f00e4312f0c3b539de

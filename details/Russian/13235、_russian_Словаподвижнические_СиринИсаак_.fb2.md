@@ -8,7 +8,7 @@
 13235、_russian_Слова подвижнические_Сирин Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e46c4302b33b51e37234e5634fbd956

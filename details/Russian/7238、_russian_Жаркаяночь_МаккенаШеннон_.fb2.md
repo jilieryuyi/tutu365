@@ -8,7 +8,7 @@
 7238、_russian_Жаркая ночь_Маккена Шеннон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 473123867e9659f9a742071a48c20ae0

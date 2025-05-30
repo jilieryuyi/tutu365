@@ -8,7 +8,7 @@
 5591、_russian_Иные Миры_Горбовский Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab58570194a534b1d40f5f035073da2b

@@ -8,7 +8,7 @@
 8505、_russian_Последний марсель_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f6988d5bbab5b4554e707cb625e32bd

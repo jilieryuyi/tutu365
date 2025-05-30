@@ -8,7 +8,7 @@
 13513、_russian_Соавтор_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6195c455138ca026ea255edf5a1a29e3

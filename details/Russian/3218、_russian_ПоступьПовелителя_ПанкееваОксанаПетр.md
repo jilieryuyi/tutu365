@@ -8,7 +8,7 @@
 3218、_russian_Поступь Повелителя_Панкеева Оксана Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5789f08e6912fd9e16b3c669ef0d6ad4

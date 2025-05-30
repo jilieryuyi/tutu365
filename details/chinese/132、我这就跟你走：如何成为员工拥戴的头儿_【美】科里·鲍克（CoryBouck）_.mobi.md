@@ -8,7 +8,7 @@
 132、我这就跟你走：如何成为员工拥戴的头儿_【美】科里·鲍克（Cory Bouck）_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c1b081fbc5b9711a568c22543755a41b

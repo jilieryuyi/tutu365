@@ -8,7 +8,7 @@
 15243、_russian_Зимний огонь_Лоуэлл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34fa882f21817a02cf5e5a6bc360c4cd

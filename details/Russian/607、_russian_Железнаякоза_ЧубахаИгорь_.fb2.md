@@ -8,7 +8,7 @@
 607、_russian_Железная коза_Чубаха Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a22f81a33c0164a2bce040a3025bb7a5

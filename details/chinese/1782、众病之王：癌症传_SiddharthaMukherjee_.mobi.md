@@ -8,7 +8,7 @@
 1782、众病之王：癌症传_Siddhartha Mukherjee_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a0a3f0b045f0ad8b31ba9082d95577ba

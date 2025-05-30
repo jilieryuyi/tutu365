@@ -8,7 +8,7 @@
 2293、_russian_От Лекока до Люпена_Балахонов В. Е._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69b9f561bfcc105e70ea48fb2fb82cb9

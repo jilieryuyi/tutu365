@@ -8,7 +8,7 @@
 11667、_russian_Муха в розовом алмазе_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a72d4462e74e39cb2f4710aed2ef0fbf

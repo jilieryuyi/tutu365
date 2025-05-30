@@ -8,7 +8,7 @@
 10939、_russian_Звездный свет_Уильямсон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7345597422ba889de75b5a9f1241950

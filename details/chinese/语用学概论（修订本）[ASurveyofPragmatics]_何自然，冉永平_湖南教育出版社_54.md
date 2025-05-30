@@ -8,7 +8,7 @@
 语用学概论 （修订本） [A Survey of Pragmatics]_何自然，冉永平_湖南教育出版社_5495614_86ce1cf2a76312e335a34fd77767b3f4.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 86ce1cf2a76312e335a34fd77767b3f4

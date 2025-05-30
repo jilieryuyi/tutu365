@@ -8,7 +8,7 @@
 1383、_russian_Белая пума_Лоуренс Р.Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4eb7d8892d90e7ccbecf9e2633c0fd20

@@ -8,7 +8,7 @@
 3017、_russian_Сделано в ССССР Роман с китайцем_Бавильский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8a0e49930961088a1ea15916b1af4c6

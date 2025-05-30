@@ -8,7 +8,7 @@
 4628、_english_Hit List_Block Lawrence_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 821807ad38aafd4248db1a64f843afb5

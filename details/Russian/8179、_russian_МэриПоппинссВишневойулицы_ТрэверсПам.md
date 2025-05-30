@@ -8,7 +8,7 @@
 8179、_russian_Мэри Поппинс с Вишневой улицы_Трэверс Памела_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7829a8f7e86882df40c3641d7e44a936

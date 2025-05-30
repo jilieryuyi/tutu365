@@ -8,7 +8,7 @@
 欺骗的艺术 The Art of Deception_凯文· 米特尼克__5370250_91e1df6eb49c5e4ccc4a41f5d1e40993.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 91e1df6eb49c5e4ccc4a41f5d1e40993

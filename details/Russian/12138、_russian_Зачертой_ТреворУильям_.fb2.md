@@ -8,7 +8,7 @@
 12138、_russian_За чертой_Тревор Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4d58a0895be62c142f540afb9b1c75f

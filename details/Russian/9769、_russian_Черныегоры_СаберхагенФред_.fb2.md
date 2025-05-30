@@ -8,7 +8,7 @@
 9769、_russian_Черные горы_Саберхаген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22ea77ff9fa634bdb3f01c8f36820bad

@@ -8,7 +8,7 @@
 12920、_russian_Жизнь и удивительные похождения Степы Шишкина_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb63eb01bc615a3e5c0b3800f23b18cb

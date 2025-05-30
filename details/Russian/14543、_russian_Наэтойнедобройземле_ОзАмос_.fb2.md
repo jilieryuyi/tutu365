@@ -8,7 +8,7 @@
 14543、_russian_На этой недоброй земле_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2c7a45f55225bc88be3db17dcc6174b

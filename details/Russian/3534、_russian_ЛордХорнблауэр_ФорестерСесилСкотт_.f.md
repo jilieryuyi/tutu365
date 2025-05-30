@@ -8,7 +8,7 @@
 3534、_russian_Лорд Хорнблауэр_Форестер Сесил Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64fd33c422a505812738b794b0b4c476

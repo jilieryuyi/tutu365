@@ -8,7 +8,7 @@
 8791、_russian_Цветы для первого свидания_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c79be9237d3978ac80eb9a1fcc16f8c4

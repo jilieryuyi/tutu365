@@ -8,7 +8,7 @@
 7257、_russian_Занимательная механика_Панов Вадим Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 021c8539463bebc05d28abb2d1d8e6ef

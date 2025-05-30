@@ -8,7 +8,7 @@
 783、_russian_Джонни-бедняк и Арника_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e06b171ebdc1255704596c58593d1f8c

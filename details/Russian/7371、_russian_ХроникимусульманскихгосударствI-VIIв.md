@@ -8,7 +8,7 @@
 7371、_russian_Хроники мусульманских государств I-VII вв. Хиджры_Али-заде Айдын Ариф оглы_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60c1e574e36e02e6d77ead271836aee1

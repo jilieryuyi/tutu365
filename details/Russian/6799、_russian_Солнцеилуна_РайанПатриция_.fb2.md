@@ -8,7 +8,7 @@
 6799、_russian_Солнце и луна_Райан Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b628700fcf85dcca82d4f3a7d23ca7c

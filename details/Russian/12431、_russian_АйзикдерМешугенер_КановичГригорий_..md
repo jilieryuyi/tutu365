@@ -8,7 +8,7 @@
 12431、_russian_Айзик дер Мешугенер_Канович Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32c774d1eb891b86755ab7d2dcad62ab

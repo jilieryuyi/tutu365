@@ -8,7 +8,7 @@
 5286、_russian_Жажду утоли огнем (Сборник)_Серегин Михаил Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6dd974d1bdb0902c798dabea87bc469

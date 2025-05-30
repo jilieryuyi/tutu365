@@ -8,7 +8,7 @@
 13917、_ukrainian_Населений остр_в_Стругацьк_ Аркад_й _ Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cacc46ac478b74f582fe9d555cd8e523

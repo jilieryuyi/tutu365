@@ -8,7 +8,7 @@
 10383、_russian_Водопад_Рэнкин Иэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ea6ed6ce3d329ea4534f86dd33fa498

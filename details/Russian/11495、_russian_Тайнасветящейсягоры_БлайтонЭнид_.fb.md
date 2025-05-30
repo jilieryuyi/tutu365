@@ -8,7 +8,7 @@
 11495、_russian_Тайна светящейся горы_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a990d32f1784f27c2d3f32ec8e01a16

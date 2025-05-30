@@ -8,7 +8,7 @@
 10442、_russian_Поэма_Авалиани Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79bdcecf9d2761cd58ef5caedcd0e095

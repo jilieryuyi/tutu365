@@ -8,7 +8,7 @@
 9063、_russian_Пропавший марсианский город_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 920c45a3fbe0d6fad51424169ba7d845

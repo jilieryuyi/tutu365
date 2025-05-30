@@ -8,7 +8,7 @@
 1147、中国冲击：中国改变世界_FRANK SIEREN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 489a913bb062672eba9dfa2c3e920859

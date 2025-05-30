@@ -8,7 +8,7 @@
 2473、_russian_Невеста из Калькутты_Грейс Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fe90e355bab0ef2ecdced5040e89451

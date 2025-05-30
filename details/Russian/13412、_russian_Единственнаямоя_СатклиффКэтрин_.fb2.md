@@ -8,7 +8,7 @@
 13412、_russian_Единственная моя_Сатклифф Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88dd107d858dd59798ef6d9115b52506

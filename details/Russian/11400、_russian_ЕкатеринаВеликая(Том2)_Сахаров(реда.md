@@ -8,7 +8,7 @@
 11400、_russian_Екатерина Великая (Том 2)_Сахаров (редактор) А. Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce2431547f65093bed4f1e378cb7169e

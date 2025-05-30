@@ -8,7 +8,7 @@
 7705、_russian_Сказки дедушки-вампира_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d661210291bd3e4477b0a3ff7eac9dd8

@@ -8,7 +8,7 @@
 8051、_polish_Pianista_Szpilman W_adys_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2ae3af80cb734731fe3bc7d398079517

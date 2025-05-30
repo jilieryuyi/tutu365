@@ -8,7 +8,7 @@
 12067、_english_Highlander's Captive_Donna Fletcher_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c09827f7a47d7609dd69392d43a1d4ca

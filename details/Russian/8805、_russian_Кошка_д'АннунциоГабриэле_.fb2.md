@@ -8,7 +8,7 @@
 8805、_russian_Кошка_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea7ef165f9671e6f2304e95aa8b6a1b4

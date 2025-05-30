@@ -8,7 +8,7 @@
 12242、_russian_Спрятанная война_Боровик Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b75ea10e487cc5922915e79be98c06f

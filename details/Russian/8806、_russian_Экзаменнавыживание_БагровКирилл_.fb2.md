@@ -8,7 +8,7 @@
 8806、_russian_Экзамен на выживание_Багров Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7abdd64d7b4eb46cf33f06b1420c104b

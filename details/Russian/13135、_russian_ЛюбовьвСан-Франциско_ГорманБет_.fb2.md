@@ -8,7 +8,7 @@
 13135、_russian_Любовь в Сан-Франциско_Горман Бет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddbb6f695a85b5c305590babab91ee9a

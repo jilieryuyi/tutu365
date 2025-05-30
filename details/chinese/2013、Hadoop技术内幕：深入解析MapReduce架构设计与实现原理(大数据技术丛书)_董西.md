@@ -8,7 +8,7 @@
 2013、Hadoop技术内幕：深入解析MapReduce架构设计与实现原理 (大数据技术丛书)_董西成著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2712f7603903e7f9154c95b82518a896

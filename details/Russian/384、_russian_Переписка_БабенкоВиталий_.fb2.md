@@ -8,7 +8,7 @@
 384、_russian_Переписка_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b84fe8a6b556cd192a46de0cc4bb114

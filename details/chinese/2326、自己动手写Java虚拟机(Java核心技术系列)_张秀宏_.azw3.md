@@ -8,7 +8,7 @@
 2326、自己动手写Java虚拟机 (Java核心技术系列)_张秀宏_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 429bc74bed8dce47d89c84a6d5ffcd5a

@@ -8,7 +8,7 @@
 2073、_english_Riotous Assembly_Sharpe Tom_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 339558d77b8e7e8e861821b5cec01482

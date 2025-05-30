@@ -8,7 +8,7 @@
 10372、_french_Confession d'un porte-drapeau déchu_Makine Andre__.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ca5b7b0105af8516bca26b943e06a5d2

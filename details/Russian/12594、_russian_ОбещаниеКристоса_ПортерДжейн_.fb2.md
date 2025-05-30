@@ -8,7 +8,7 @@
 12594、_russian_Обещание Кристоса_Портер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d541c0f2e3ed56735d78171525e2f6d

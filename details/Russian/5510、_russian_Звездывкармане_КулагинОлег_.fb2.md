@@ -8,7 +8,7 @@
 5510、_russian_Звезды в кармане_Кулагин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3602ee19631bb3aa3041f6d8e032b83b

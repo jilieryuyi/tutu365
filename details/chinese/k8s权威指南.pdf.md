@@ -8,7 +8,7 @@
 k8s权威指南.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5ffec38dbbebda5100b1d797752a03e1

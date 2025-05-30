@@ -8,7 +8,7 @@
 12663、_russian_Бумажный тигр_Райс Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bef9c90d2c8afdac489aa6e79bf3722

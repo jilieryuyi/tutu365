@@ -8,7 +8,7 @@
 1871、_english_A Scot's Pledge_Sky Purington_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4128ab7ee8285dd26200360968b75769

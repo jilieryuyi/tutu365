@@ -8,7 +8,7 @@
 1687、_russian_Почтительная потаскушка_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eee7d088fe6ad38c0b4557619f968cd3

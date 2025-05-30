@@ -8,7 +8,7 @@
 5728、_russian_Стрела времени, или Природа преступления_Эмис Мартин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 caadf57e25e71a86790f5feadcade6c7

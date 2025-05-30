@@ -8,7 +8,7 @@
 3917、_russian_Рыцарь Катерино_Суслин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3db0e36b0ba789cc24d16839125f95cb

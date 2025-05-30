@@ -8,7 +8,7 @@
 9779、_russian_Вар мастер палицы_Энтони Пирс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65d25ff9b580f5b72f52426897ff9b9a

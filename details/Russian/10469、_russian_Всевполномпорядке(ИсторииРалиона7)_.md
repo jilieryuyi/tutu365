@@ -8,7 +8,7 @@
 10469、_russian_Все в полном порядке (Истории Ралиона 7)_Бояндин Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3288c72d2b60e046b0a7abacafca5f7c

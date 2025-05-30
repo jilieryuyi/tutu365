@@ -8,7 +8,7 @@
 8071、_russian_Хрононавигаторы_Снегов Сергей Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93d759bc5cfe15b99ecf410d94e6eab4

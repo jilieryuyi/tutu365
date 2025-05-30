@@ -8,7 +8,7 @@
 3502、_other_Дзярлiвая птушка_Акула Кастусь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b33906a90b38e815bf3b7929c3d349be

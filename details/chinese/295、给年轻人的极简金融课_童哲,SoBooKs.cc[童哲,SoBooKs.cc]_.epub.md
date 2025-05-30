@@ -8,7 +8,7 @@
 295、给年轻人的极简金融课_童哲, SoBooKs.cc [童哲, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 01e8515fb47dec3d51b8226473903a81

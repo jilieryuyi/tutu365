@@ -8,7 +8,7 @@
 10663、_russian_Пришелец из Тьмы_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 331e2eeb4d590202f81dff9da9d15e16

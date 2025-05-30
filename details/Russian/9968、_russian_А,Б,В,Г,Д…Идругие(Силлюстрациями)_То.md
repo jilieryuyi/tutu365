@@ -8,7 +8,7 @@
 9968、_russian_А,Б,В,Г,Д… И другие (С иллюстрациями)_Томин Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28a1a236be537f3ce35e5f78e4f8dbb4

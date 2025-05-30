@@ -8,7 +8,7 @@
 9783、_english_The Devil's Priest_Kate Ellis _.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4d58d8a17d861724aacc8bc91df4ac88

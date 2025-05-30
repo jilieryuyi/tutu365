@@ -8,7 +8,7 @@
 6690、_russian_Сатанинское зелье (сборник)_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c19ba809485acbec7d38e7aa5056ff28

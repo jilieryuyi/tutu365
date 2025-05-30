@@ -8,7 +8,7 @@
 4299、_russian_Библиотека современной фантастики. Том 8.  Джон Уиндэм_Уиндэм Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d65f4159e39ae0fe451cfaca6a34c2e6

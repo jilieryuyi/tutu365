@@ -8,7 +8,7 @@
 13065、_russian_Железная роза_Кэнхем Марша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdcba288d65df4dbc5841524aacdd178

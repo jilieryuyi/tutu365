@@ -8,7 +8,7 @@
 971、_russian_Из воспоминаний Ийона Тихого_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7a45780088a3e23b949548e1aea10c6

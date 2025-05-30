@@ -8,7 +8,7 @@
 6541、_russian_Эзоосмос. Исконный Шамбалы. Книга 1._Новых Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df00fa07c7bce1bccaaeae6a33eaca09

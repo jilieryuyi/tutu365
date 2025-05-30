@@ -8,7 +8,7 @@
 4109、_russian_Планета героев_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b28ba9cef395e2f4dc2c25c6e5bac1e9

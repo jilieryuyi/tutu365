@@ -8,7 +8,7 @@
 12831、_russian_Снежная королева_Шварц Евгений Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ab3002312ea79931f901bbffd276bd9

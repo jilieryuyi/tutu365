@@ -8,7 +8,7 @@
 11324、_russian_Пуля Дум-дум_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b8558a3aa05267bb5a759057953e686

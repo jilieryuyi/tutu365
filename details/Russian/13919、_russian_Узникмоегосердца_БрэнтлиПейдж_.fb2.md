@@ -8,7 +8,7 @@
 13919、_russian_Узник моего сердца_Брэнтли Пейдж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1c521e79e1fc4cef12afc2678826798

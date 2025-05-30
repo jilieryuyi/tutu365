@@ -8,7 +8,7 @@
 370、一头猪在普罗旺斯_乔治妮·布伦南 (Georgeanne Brennan)_陕西师范大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3f049255fa67735f0b703ef4f4b40a12

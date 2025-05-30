@@ -8,7 +8,7 @@
 第一本Docker书修订版_[澳] 詹姆斯·特恩布尔James Turnbull__5530420_6d7b141c18adbe21168b5850a5e8cc65.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6d7b141c18adbe21168b5850a5e8cc65

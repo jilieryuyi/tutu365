@@ -8,7 +8,7 @@
 10698、_russian_Эксперимент Джона Старка_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 214fb8df0cc7adc4e29fc3c6a9143ff6

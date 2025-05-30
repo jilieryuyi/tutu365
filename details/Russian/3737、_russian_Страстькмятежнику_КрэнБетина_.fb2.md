@@ -8,7 +8,7 @@
 3737、_russian_Страсть к мятежнику_Крэн Бетина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9cffa7bfa6cbcdf3e16c2a02e9a966a

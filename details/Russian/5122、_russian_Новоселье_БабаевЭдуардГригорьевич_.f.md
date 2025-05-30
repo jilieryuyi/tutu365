@@ -8,7 +8,7 @@
 5122、_russian_Новоселье_Бабаев Эдуард Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f995d8af6580efca2657366da8e0f1dd

@@ -8,7 +8,7 @@
 5424、_english_Hunting Fear_Hooper Kay_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 59682892adc89a98c91b0176a06d3781

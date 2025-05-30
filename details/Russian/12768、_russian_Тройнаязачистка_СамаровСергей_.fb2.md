@@ -8,7 +8,7 @@
 12768、_russian_Тройная зачистка_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39a90f95ceeee2c784706d7180467fe9

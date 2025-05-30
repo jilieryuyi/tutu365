@@ -8,7 +8,7 @@
 2007、Excel 2010数据透视表应用大全_Excel Home_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f7e77f103fc15ff425afa74e17d1ae03

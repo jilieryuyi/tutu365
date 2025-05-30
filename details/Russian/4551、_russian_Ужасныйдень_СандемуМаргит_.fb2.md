@@ -8,7 +8,7 @@
 4551、_russian_Ужасный день_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2a6c68a85ac039a30611f641e4e5803

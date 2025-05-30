@@ -8,7 +8,7 @@
 4063、_russian_Оправдание крови_Чигринов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 630341dc93144cad2a4534d1f4b6466d

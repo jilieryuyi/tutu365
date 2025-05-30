@@ -8,7 +8,7 @@
 8807、_russian_Укротители волн_Багров Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2531871bfc0162ab2d31630f226941c

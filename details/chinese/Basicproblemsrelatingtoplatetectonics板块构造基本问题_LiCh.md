@@ -8,7 +8,7 @@
 Basic problems relating to plate tectonics板块构造基本问题_Li Chunyu__3609559_ab6ff747436be7f28c9f4614aa96c2ff.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ab6ff747436be7f28c9f4614aa96c2ff

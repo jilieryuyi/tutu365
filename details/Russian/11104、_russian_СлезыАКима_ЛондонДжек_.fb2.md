@@ -8,7 +8,7 @@
 11104、_russian_Слезы А Кима_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f8d2a3739f3d98aeb63cf98a096b10b

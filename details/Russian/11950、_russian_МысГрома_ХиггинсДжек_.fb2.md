@@ -8,7 +8,7 @@
 11950、_russian_Мыс Грома_Хиггинс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0d6f4b11f4dd1fdd1560fde5a2c59cc

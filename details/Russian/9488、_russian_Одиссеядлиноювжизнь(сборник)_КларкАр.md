@@ -8,7 +8,7 @@
 9488、_russian_Одиссея длиною в жизнь (сборник)_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00c5389237739c02e3bf2a5559ffac15

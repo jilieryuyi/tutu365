@@ -8,7 +8,7 @@
 15155、_russian_Уолл-стрит и большевицкая революция_Саттон Энтони_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f34297c5429ecfe89eb2bbd2e783756b

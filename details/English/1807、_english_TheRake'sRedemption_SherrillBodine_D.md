@@ -8,7 +8,7 @@
 1807、_english_The Rake's Redemption_Sherrill Bodine_Diversion Books.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 463c0891e8e1fa70eb0389fd8426dfe7

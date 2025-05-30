@@ -8,7 +8,7 @@
 7302、_russian_Диагностика кармы.  Книга 2_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 591d6623a41cf0070bbecd00e92113ce

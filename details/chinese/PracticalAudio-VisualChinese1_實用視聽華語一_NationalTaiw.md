@@ -8,7 +8,7 @@
 Practical Audio-Visual Chinese 1_實用視聽華語一_National Taiwan Normal University_5440946_aed358523caa7b24559e848179ff626f.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 aed358523caa7b24559e848179ff626f

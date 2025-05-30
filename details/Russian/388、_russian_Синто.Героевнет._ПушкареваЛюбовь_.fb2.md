@@ -8,7 +8,7 @@
 388、_russian_Синто. Героев нет._Пушкарева Любовь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8fe93a085860343056182ef0c5e0cf0

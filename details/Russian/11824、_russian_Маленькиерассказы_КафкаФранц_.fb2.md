@@ -8,7 +8,7 @@
 11824、_russian_Маленькие рассказы_Кафка Франц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7852d44947ef1cd0422ef0543da0731b

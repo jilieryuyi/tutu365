@@ -8,7 +8,7 @@
 14289、_english_Caught in Scandal's Storm_Helen Dickson_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bb88a9f03ab47f4c82fa688180d10f33

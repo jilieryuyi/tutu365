@@ -8,7 +8,7 @@
 13908、_ukrainian_Фандан_о_Александр Грин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a9cdfdf89feeb65e65caca357a3f67f

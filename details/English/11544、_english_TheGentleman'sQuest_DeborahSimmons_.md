@@ -8,7 +8,7 @@
 11544、_english_The Gentleman's Quest_Deborah Simmons_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c86a5d28eb9fdb5c77eb79bece5ce011

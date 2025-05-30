@@ -8,7 +8,7 @@
 1178、身边的电子学：36个有趣的电子小实验 (图灵新知)_[美]Charles Platt_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 00f7251fb73e28466a10f7419de58066

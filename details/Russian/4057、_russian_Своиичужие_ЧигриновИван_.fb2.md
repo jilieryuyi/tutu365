@@ -8,7 +8,7 @@
 4057、_russian_Свои и чужие_Чигринов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 148633ccc16de21796c66df432252763

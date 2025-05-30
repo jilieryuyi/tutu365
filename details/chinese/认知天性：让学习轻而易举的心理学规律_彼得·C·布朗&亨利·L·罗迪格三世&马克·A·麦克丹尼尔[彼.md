@@ -8,7 +8,7 @@
 认知天性：让学习轻而易举的心理学规律_彼得·C·布朗 & 亨利·L·罗迪格三世 & 马克·A·麦克丹尼尔 [彼得·C·布朗 & 亨利·L·罗迪格三世 & 马克·A·麦克丹尼尔]__5459013_4c27b8f530b98e2b9c91e8ef3c28d63b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4c27b8f530b98e2b9c91e8ef3c28d63b

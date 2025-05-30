@@ -8,7 +8,7 @@
 中国精神读本_王蒙 & 王绍光 & ePUBw.COM [未知]__5449065_c1ad4cd0496c067fe115e4d0103b0d4e.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c1ad4cd0496c067fe115e4d0103b0d4e

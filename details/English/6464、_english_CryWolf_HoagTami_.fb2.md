@@ -8,7 +8,7 @@
 6464、_english_Cry Wolf_Hoag Tami_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 784cb0d6c0b9368dbee4add4024ba77a

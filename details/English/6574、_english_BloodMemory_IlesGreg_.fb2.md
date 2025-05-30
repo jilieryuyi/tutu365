@@ -8,7 +8,7 @@
 6574、_english_Blood Memory_Iles Greg_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 34c2654926051d4af4f499e54de9925f

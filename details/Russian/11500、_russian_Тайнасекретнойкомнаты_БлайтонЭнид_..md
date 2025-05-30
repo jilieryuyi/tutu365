@@ -8,7 +8,7 @@
 11500、_russian_Тайна секретной комнаты_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 442b6ea35b25c738150e4306a07e3508

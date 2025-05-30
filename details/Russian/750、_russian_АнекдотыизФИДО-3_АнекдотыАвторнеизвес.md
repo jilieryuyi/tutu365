@@ -8,7 +8,7 @@
 750、_russian_Анекдоты из ФИДО - 3_Анекдоты Автор неизвестен -_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47a78298c70275214c9d2dc3c2a1122f

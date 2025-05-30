@@ -8,7 +8,7 @@
 8455、_russian_Удивительная физика_Гулиа Нурбей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79df1bb92bc9d4501d9de45f85e10dca

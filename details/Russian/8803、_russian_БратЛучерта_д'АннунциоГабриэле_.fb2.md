@@ -8,7 +8,7 @@
 8803、_russian_Брат Лучерта_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 391c56ae35c2287d153b726fa24289cd

@@ -8,7 +8,7 @@
 2852、_russian_Цунами_Шульпяков Глеб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8acb8b7592adf063b5507e148341b04

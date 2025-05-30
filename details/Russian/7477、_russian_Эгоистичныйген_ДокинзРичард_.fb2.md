@@ -8,7 +8,7 @@
 7477、_russian_Эгоистичный ген_Докинз Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 697d88aabd123db1475bd89f485d7472

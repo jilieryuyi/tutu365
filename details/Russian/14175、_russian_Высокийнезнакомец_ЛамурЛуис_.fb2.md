@@ -8,7 +8,7 @@
 14175、_russian_Высокий незнакомец_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1e8910161de8f4ab8d7841cd53d724b

@@ -8,7 +8,7 @@
 476、_russian_Любовный узел, или Испытание верностью_Чедвик Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cc66daed01c280a96a9d121e4ed2728

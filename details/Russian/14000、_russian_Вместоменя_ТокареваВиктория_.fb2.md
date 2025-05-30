@@ -8,7 +8,7 @@
 14000、_russian_Вместо меня_Токарева Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 742686d353ce21c703ba1bf4460359b4

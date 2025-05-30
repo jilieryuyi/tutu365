@@ -8,7 +8,7 @@
 2002、_russian_В_Пинчон Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2af780df81c9928fff691f4a802a02f4

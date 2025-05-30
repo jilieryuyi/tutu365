@@ -8,7 +8,7 @@
 2860、_russian_Темное прошлое человека будущего_Чижов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27b2781748eff9e3b4a0ea2a87f735ff

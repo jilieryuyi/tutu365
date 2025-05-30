@@ -8,7 +8,7 @@
 12398、_russian_Облако_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 050232ec8a5d6f7bd1dfcc9ee3ac374c

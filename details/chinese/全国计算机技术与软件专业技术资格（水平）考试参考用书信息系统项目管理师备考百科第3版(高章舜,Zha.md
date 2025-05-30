@@ -8,7 +8,7 @@
 全国计算机技术与软件专业技术资格（水平）考试参考用书 信息系统项目管理师 备考百科 第3版 (高章舜, Zhangshun Gao, 高章舜主编, 高章舜).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b3d2a3161ebfcb9f75f8529f3aa310a7

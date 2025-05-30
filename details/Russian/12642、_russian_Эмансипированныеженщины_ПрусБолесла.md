@@ -8,7 +8,7 @@
 12642、_russian_Эмансипированные женщины_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdadb79cb48829e5287704c62c59b6f5

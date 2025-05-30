@@ -8,7 +8,7 @@
 14248、_russian_Павшие взывают_Окумура Тэцуюки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6ed4c244208fb9b53a8afbba2d45436

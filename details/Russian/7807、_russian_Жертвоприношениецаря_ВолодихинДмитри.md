@@ -8,7 +8,7 @@
 7807、_russian_Жертвоприношение царя_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f67c72a12b8bb0a527994dfc8b1118a3

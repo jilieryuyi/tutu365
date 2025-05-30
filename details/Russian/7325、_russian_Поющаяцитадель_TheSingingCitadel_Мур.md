@@ -8,7 +8,7 @@
 7325、_russian_Поющая цитадель _ The Singing Citadel_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18953550af56072b94ec8681e632d315

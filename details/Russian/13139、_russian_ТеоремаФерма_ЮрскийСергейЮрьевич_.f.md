@@ -8,7 +8,7 @@
 13139、_russian_Теорема Ферма_Юрский Сергей Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1ca515b8699222353eecb0745d764ca

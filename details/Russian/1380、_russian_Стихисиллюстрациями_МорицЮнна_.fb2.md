@@ -8,7 +8,7 @@
 1380、_russian_Стихи с иллюстрациями_Мориц Юнна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7019a6a7ee48f18a9dbd6022e5d5b1f

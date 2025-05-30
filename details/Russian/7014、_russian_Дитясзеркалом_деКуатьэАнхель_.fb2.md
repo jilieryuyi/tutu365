@@ -8,7 +8,7 @@
 7014、_russian_Дитя с зеркалом_де Куатьэ Анхель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7b67feaba93ab345e688f3a3be5e57d

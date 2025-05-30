@@ -8,7 +8,7 @@
 4456、_russian_Сердцеедка_Уикхем Маделин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa593bcf232f17c9e9a9722fd256db89

@@ -8,7 +8,7 @@
 2292、项目管理修炼之道_罗斯曼(Johanna Rothman)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 039a367abfabc91f8830fc823795ca68

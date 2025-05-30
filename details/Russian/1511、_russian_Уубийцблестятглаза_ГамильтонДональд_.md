@@ -8,7 +8,7 @@
 1511、_russian_У убийц блестят глаза_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d897b1d61679ad44836f8515511b8b8

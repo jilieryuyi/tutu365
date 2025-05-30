@@ -8,7 +8,7 @@
 8780、_russian_Адское пламя_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b490a32876490598ad4a3d52ef94bc9c

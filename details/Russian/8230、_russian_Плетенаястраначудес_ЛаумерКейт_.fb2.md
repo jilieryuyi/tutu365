@@ -8,7 +8,7 @@
 8230、_russian_Плетеная страна чудес_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0d19071a7ae2fad0f6be88bd51ba21e

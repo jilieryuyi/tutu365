@@ -8,7 +8,7 @@
 11267、_russian_Слепой_Арагон Луи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1b264d7d1d05dccc054c7bf541d007f

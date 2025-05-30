@@ -8,7 +8,7 @@
 8799、_russian_Кто играет с огнем_Дейн Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd0ec4b41d88d99dabfd1137f2f98969

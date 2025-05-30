@@ -8,7 +8,7 @@
 3214、龍的學校在山上 - 全一卷_九井諒子_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5b700e6a9d7db75c14409769fc50d0b3

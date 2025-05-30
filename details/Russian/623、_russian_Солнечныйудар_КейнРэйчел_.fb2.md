@@ -8,7 +8,7 @@
 623、_russian_Солнечный удар_Кейн Рэйчел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e39fcfbf7b76e852de2dec912fbec089

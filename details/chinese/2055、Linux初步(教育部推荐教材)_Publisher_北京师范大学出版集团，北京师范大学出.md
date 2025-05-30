@@ -8,7 +8,7 @@
 2055、Linux 初步 (教育部推荐教材)_Publisher           _ 北京师范大学出版集团，北京师范大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2dbea8592f7b9806d37ad39fdaee5cd5

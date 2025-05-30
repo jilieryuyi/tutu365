@@ -8,7 +8,7 @@
 7886、_russian_Пасынки Гильдии_Голотвина Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f758038c6fc53f3904e50ac3267db565

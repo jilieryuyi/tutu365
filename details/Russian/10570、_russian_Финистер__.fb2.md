@@ -8,7 +8,7 @@
 10570、_russian_Финистер__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46b974daaccbc7753d8008e79c427c8a

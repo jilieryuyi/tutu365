@@ -8,7 +8,7 @@
 12453、_russian_Друг Кафки_Зингер Исаак Башевис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42afa99f1ccdb667e3de80cd123a271a

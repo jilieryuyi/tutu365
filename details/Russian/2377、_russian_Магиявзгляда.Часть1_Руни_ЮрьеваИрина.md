@@ -8,7 +8,7 @@
 2377、_russian_Магия взгляда. Часть 1_ Руни_Юрьева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6dd9411e15145dcf932e4e8116a7cd3

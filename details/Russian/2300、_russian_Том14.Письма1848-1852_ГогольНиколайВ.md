@@ -8,7 +8,7 @@
 2300、_russian_Том 14. Письма 1848-1852_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9498a55b4d464296c70eee015def210b

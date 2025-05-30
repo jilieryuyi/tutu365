@@ -8,7 +8,7 @@
 484、_russian_Падающая звезда_Грин Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29548482037bc235dce9ddd4207b650a

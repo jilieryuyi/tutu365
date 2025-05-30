@@ -8,7 +8,7 @@
 3272、_russian_Дно мира_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cc614b348628252c7fc3e83db35d1ed

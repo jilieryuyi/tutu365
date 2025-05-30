@@ -8,7 +8,7 @@
 2628、_russian_Приют грез_Джеймс Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50103fe8c7b7ffb233e5b7ac9ad76c13

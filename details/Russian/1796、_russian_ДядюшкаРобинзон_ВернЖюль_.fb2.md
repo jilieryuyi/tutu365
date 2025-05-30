@@ -8,7 +8,7 @@
 1796、_russian_Дядюшка Робинзон_Верн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db52e60775033c28376858121990fc8d

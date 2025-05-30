@@ -8,7 +8,7 @@
 1688、_russian_Желание_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1186af5425a4146fb15337423354a5dd

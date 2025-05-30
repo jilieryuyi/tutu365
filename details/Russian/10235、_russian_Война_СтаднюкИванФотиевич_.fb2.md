@@ -8,7 +8,7 @@
 10235、_russian_Война_Стаднюк Иван Фотиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 717da5bedc4394a80b071e3501764cd7

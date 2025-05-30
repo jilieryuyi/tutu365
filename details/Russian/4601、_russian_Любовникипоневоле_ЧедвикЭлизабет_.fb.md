@@ -8,7 +8,7 @@
 4601、_russian_Любовники поневоле_Чедвик Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ca2d2e0d62c515fc12897722031989b

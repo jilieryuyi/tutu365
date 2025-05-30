@@ -8,7 +8,7 @@
 6188、_russian_Волхвы. Часть 1_Шемшук Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7636d8b5b8ea97782058ccd2854e1495

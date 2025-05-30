@@ -8,7 +8,7 @@
 3412、_russian_Легкая жизнь, легкая смерть_Пронин Игорь Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a7d948265b915c042bcab9ae37737de

@@ -8,7 +8,7 @@
 3170、_russian_Возвращение воина_Лонг Лэрд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f97eb4d25c788e349d350af3261b0424

@@ -8,7 +8,7 @@
 4757、_russian_Синдром_Филип Киндред Дик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c863b59953d2ebad42c6cc1c06ebba2

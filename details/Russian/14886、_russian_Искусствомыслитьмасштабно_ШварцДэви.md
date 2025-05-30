@@ -8,7 +8,7 @@
 14886、_russian_Искусство мыслить масштабно_Шварц Дэвид Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e828e0517e1644d6f0d2f6fb3f00cf9

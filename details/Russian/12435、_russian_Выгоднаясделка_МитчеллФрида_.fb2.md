@@ -8,7 +8,7 @@
 12435、_russian_Выгодная сделка_Митчелл Фрида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6649467ed3c1c19f223b96a84c84bedd

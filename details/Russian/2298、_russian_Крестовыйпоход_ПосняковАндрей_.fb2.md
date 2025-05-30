@@ -8,7 +8,7 @@
 2298、_russian_Крестовый поход_Посняков Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31f451111cad3451f30287e8c2a2585c

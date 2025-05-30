@@ -8,7 +8,7 @@
 8160、_russian_Новая алмазная сутра_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2053f20b4c38c8e27bc1f7721b3cddd1

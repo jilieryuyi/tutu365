@@ -8,7 +8,7 @@
 2756、_russian_Ботинки_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e77fd73d2c1732316ad55cee8dd2cae

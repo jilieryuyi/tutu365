@@ -8,7 +8,7 @@
 13332、_russian_Месть в коричневой бумаге_Макдональд Джон Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15ef1bb02ce60b9f5fd07d550eed7a98

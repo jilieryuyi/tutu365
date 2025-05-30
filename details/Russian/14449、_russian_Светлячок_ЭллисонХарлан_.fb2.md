@@ -8,7 +8,7 @@
 14449、_russian_Светлячок_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7d681a6f57da2ac18ae9e0d2341a035

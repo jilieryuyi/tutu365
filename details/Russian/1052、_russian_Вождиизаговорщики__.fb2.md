@@ -8,7 +8,7 @@
 1052、_russian_Вожди и заговорщики__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f73111302107e12bf36d34044508c8b8

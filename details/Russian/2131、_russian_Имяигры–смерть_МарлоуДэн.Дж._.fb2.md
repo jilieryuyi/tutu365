@@ -8,7 +8,7 @@
 2131、_russian_Имя игры – смерть_Марлоу Дэн. Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe2e3d4fe1c51960d98db169513c4b41

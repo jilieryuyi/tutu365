@@ -8,7 +8,7 @@
 10395、_russian_Слабая женщина, склонная к мелонхолии_Ирина. Волчок_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b592b1ca35eebca7603007642832b5d9

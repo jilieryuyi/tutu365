@@ -8,7 +8,7 @@
 10793、_russian_Взрыв из прошлого_Бенсон Раймонд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 723359bc11958587f37ffa8b53ded3a0

@@ -8,7 +8,7 @@
 1575、_russian_Тепло_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9133272b5230a835d512faa1b41cded5

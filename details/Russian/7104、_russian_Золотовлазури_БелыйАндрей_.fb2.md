@@ -8,7 +8,7 @@
 7104、_russian_Золото в лазури_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4763cb0846aaad37b0f0aa417abe54d

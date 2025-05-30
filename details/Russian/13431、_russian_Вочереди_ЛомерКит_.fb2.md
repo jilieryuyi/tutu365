@@ -8,7 +8,7 @@
 13431、_russian_В очереди_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a52f1b59a4d5408e9c3448e6b028571d

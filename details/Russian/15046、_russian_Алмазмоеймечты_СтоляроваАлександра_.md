@@ -8,7 +8,7 @@
 15046、_russian_Алмаз моей мечты_Столярова Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e885fedb0b34d3bf2ce19a4e8111460

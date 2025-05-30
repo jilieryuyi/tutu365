@@ -8,7 +8,7 @@
 12936、_russian_Идеальная команда_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65c16ea35cb12a04828f413eecc0cbf0

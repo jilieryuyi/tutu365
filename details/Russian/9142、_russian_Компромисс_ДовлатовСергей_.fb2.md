@@ -8,7 +8,7 @@
 9142、_russian_Компромисс_Довлатов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad788c9da6b637500645c618aa67dd9b

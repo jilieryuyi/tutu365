@@ -8,7 +8,7 @@
 13099、_russian_Последняя сволочь_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1eb12487566b63e7f5c0fb0a91436595

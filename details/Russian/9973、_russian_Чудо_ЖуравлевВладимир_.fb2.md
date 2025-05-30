@@ -8,7 +8,7 @@
 9973、_russian_Чудо_Журавлев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a095da46ca62c991da133a4fce519b0

@@ -8,7 +8,7 @@
 2074、MySQL技术内幕：InnoDB存储引擎(第2版) (数据库技术丛书)_姜承尧_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 116054c5e06743c53c33f597d21373eb

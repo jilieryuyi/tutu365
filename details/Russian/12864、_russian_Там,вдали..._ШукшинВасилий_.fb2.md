@@ -8,7 +8,7 @@
 12864、_russian_Там, вдали..._Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19bd1c80930fe8ac6b4b70a6cb63a67e

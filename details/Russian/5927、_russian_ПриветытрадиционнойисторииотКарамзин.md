@@ -8,7 +8,7 @@
 5927、_russian_Приветы традиционной истории от Карамзина_Никольский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22a2c582de9044a2f53bcd1ae1bbf356

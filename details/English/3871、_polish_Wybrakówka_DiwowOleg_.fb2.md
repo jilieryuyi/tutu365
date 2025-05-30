@@ -8,7 +8,7 @@
 3871、_polish_Wybrakówka_Diwow Oleg_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3c8cf60539205d7b58b57f1d17593280

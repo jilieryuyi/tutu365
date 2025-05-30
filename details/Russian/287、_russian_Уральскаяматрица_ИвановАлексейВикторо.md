@@ -8,7 +8,7 @@
 287、_russian_Уральская матрица_Иванов Алексей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ea077071de8233174e9094f86a97d20

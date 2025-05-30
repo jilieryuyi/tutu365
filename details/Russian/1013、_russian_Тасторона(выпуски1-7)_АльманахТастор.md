@@ -8,7 +8,7 @@
 1013、_russian_Та сторона (выпуски 1-7)_Альманах Та сторона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 625327dfce7d3a2ff0a293b38b70db13

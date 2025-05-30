@@ -8,7 +8,7 @@
 14898、_russian_Незнакомка из Пейроля_Бурден Француаза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7beb64009bf9c4be64c80a8a1a86a167

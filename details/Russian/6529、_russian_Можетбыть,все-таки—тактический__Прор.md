@@ -8,7 +8,7 @@
 6529、_russian_Может быть, все-таки — тактический__Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a9bdc350536fc5daa841a86d9e54b47

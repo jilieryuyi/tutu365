@@ -8,7 +8,7 @@
 2440、_russian_Том 2. Тихий Дон. Книга первая_Шолохов Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f346feb2d1737ad823cfa17e8e197167

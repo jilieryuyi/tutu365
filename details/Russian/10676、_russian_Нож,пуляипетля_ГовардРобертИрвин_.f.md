@@ -8,7 +8,7 @@
 10676、_russian_Нож, пуля и петля_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8edb2ce66f119e9ef130f340decc32d5

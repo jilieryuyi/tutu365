@@ -8,7 +8,7 @@
 561、_russian_Мегрэ ищет голову_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d63778e8052b355cd13ec1b872607871

@@ -8,7 +8,7 @@
 9708、_russian_Конструктор_Козлов Павел Яковлевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb88f4dc7adf1910dcfde699c6bfe0ae

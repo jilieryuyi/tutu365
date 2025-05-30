@@ -8,7 +8,7 @@
 1272、夏衍传（上册）_陈坚, 陈奇佳, ePUBw.COM_浙江大学出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a528afaab8075c5000ee7dda5b84a374

@@ -8,7 +8,7 @@
 13979、_russian_IT happens. #1-800_Bash.org.ru_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 477be92e0075bf3e01018b0a87d38eb7

@@ -8,7 +8,7 @@
 10788、_russian_Обезьяна и сущность_Хаксли Олдос Леонард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 184b487b1dafc2aab7f7686f5c7077ba

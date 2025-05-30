@@ -8,7 +8,7 @@
 3424、_english_Autumn's Game_Mary Stone _.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 af367aae5849085cee0cf3232323a340

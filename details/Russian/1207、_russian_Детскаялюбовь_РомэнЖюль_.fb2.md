@@ -8,7 +8,7 @@
 1207、_russian_Детская любовь_Ромэн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9b3dce7dbb53202723856507675a0cd

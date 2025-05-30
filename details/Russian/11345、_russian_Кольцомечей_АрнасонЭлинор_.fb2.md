@@ -8,7 +8,7 @@
 11345、_russian_Кольцо мечей_Арнасон Элинор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2252e8ecc1ba9d0e8f46b54bc378652c

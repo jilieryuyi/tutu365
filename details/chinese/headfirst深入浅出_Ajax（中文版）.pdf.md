@@ -8,7 +8,7 @@
 headfirst深入浅出_Ajax（中文版）.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5817f210f13e7381579f51ab25f9a44e

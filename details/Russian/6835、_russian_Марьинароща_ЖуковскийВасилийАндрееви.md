@@ -8,7 +8,7 @@
 6835、_russian_Марьина роща_Жуковский Василий Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9348cc6587ba8c76c2c4544897b68fd

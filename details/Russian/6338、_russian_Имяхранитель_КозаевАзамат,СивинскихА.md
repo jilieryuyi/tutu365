@@ -8,7 +8,7 @@
 6338、_russian_Имяхранитель_Козаев Азамат, Сивинских Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e41568bb82fcea5cbfcbb3e1ef627698

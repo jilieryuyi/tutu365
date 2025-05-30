@@ -8,7 +8,7 @@
 589、_russian_Черная сага_Булыга Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0b2271b27c38a404734b35455d8636b

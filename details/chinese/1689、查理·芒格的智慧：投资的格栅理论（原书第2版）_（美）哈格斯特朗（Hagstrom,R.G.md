@@ -8,7 +8,7 @@
 1689、查理·芒格的智慧：投资的格栅理论（原书第2版）_（美）哈格斯特朗（Hagstrom,R. G.） 著_机械加工出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9fcb8ae6af2caa44f12d257dcadee54c

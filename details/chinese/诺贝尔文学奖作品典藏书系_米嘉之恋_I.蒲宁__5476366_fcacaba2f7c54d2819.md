@@ -8,7 +8,7 @@
 诺贝尔文学奖作品典藏书系_米嘉之恋_I.蒲宁__5476366_fcacaba2f7c54d2819a27588a34f7846.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fcacaba2f7c54d2819a27588a34f7846

@@ -8,7 +8,7 @@
 9838、_russian_Приватная жизнь профессора  механики_Гулиа Нурбей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 398e6c74943eeffe5b9d11f20c7b191e

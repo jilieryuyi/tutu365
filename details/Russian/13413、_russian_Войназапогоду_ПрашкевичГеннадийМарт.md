@@ -8,7 +8,7 @@
 13413、_russian_Война за погоду_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bbce851a276097ddc8b29c474348e1a

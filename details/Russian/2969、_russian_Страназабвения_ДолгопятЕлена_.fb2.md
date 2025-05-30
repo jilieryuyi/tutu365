@@ -8,7 +8,7 @@
 2969、_russian_Страна забвения_Долгопят Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 478f221b5d2ef6e3bf4b28d3eb401906

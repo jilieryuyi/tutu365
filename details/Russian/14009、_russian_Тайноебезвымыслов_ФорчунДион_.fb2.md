@@ -8,7 +8,7 @@
 14009、_russian_Тайное без вымыслов_Форчун Дион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e90e9aa5176a92016de5a6892e50282e

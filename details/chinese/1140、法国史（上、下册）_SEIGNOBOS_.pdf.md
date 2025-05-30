@@ -8,7 +8,7 @@
 1140、法国史（上、下册）_SEIGNOBOS_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 43fe6af6be6a56a5a062a59df1a8fcb6

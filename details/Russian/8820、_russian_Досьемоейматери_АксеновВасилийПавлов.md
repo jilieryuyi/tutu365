@@ -8,7 +8,7 @@
 8820、_russian_Досье моей матери_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 858c60810f2873b0faadad227710867b

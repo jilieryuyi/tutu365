@@ -8,7 +8,7 @@
 13021、_russian_Приключения Дук-ду_Путилина Валентина Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e18afca32fe0bfa86b0675e62086c77f

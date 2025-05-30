@@ -8,7 +8,7 @@
 4438、_russian_Катастрофа на шоссе_Ваг Юрай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 375a1896d498ba2407bda346fe7f0475

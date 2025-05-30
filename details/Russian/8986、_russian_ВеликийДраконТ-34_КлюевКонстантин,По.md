@@ -8,7 +8,7 @@
 8986、_russian_Великий Дракон Т-34_Клюев Константин, Подгурский Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0153fde68665dcf5a61d5721dc4f2fb

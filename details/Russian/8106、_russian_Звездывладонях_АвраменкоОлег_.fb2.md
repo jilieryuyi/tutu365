@@ -8,7 +8,7 @@
 8106、_russian_Звезды в ладонях_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44426ea2d49c83b30bb1ba14b602a7fe

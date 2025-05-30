@@ -8,7 +8,7 @@
 11520、_russian_Одиночество не для них_Браунинг Дикси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63526cf443ee206bcbecfb11c74c21e1

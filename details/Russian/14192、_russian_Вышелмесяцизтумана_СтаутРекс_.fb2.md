@@ -8,7 +8,7 @@
 14192、_russian_Вышел месяц из тумана_Стаут Рекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa16bd3c2e09681faef8f75c1cc94b22

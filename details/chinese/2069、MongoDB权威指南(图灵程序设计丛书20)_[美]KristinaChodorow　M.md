@@ -8,7 +8,7 @@
 2069、MongoDB权威指南 (图灵程序设计丛书 20)_[美]Kristina Chodorow　Michael Dirolf_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 267c4e23190dd34b77e1d96e78072e36

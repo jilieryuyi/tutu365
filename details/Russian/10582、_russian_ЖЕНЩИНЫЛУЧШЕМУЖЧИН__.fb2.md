@@ -8,7 +8,7 @@
 10582、_russian_ЖЕНЩИНЫ ЛУЧШЕ МУЖЧИН__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b64b8ecd0cb1b48d86e31e496ec66c7

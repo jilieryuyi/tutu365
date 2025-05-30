@@ -8,7 +8,7 @@
 15248、_russian_Три самые счастливые недели_Макмаон Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82be68e218adbfbfef1a31e23443df18

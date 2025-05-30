@@ -8,7 +8,7 @@
 1045、_russian_Рыцарь из ниоткуда_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5db65232a3f7c27ddf6534e3a647a4e3

@@ -8,7 +8,7 @@
 1585、_russian_Прощание с болью_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 593c86bebe1ca69047f8e4c06ec97ed1

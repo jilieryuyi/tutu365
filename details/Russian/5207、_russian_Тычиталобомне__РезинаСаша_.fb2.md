@@ -8,7 +8,7 @@
 5207、_russian_Ты читал обо мне__Резина Саша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5b7ae6c7f4bdee26e1cf6d62ee7df8f

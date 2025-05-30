@@ -8,7 +8,7 @@
 8267、_russian_Испорченный отпуск_Чаплина Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d81ee792dce4f8fec0fc27ae364a09f8

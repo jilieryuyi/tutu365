@@ -8,7 +8,7 @@
 14401、_russian_Чужой огонь_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cb7961619b749db6c989de8e85748ea

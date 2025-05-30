@@ -8,7 +8,7 @@
 1653、_russian_Цикл оборотня_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 729e5033532f6ea1e6f82cea99976169

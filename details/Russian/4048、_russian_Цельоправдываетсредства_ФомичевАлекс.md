@@ -8,7 +8,7 @@
 4048、_russian_Цель оправдывает средства_Фомичев Алексей Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb53edd0bdfe2527ec38e4dbed11a5ea

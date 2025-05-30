@@ -8,7 +8,7 @@
 257、_russian_Как самому сделать лук_Автор неизвестен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ecab25b6f081eb92ea32121efbd2856

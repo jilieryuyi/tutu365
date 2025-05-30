@@ -8,7 +8,7 @@
 13225、_russian_Капитан Юнкер, будь он проклят…_Давыдов Юрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14b5d601e43abb13d7ec3b5a0d0be9a5

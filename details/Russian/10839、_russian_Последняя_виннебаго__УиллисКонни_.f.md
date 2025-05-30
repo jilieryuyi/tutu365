@@ -8,7 +8,7 @@
 10839、_russian_Последняя _виннебаго__Уиллис Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a88316366527a4abf8f1f0da1a6834b0

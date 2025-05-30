@@ -8,7 +8,7 @@
 12343、_russian_Сын водяного_Нурман Серине Регине_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a09779b6cfd5cc45e4acadd9b60a4c97

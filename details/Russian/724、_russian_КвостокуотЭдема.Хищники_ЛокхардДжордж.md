@@ -8,7 +8,7 @@
 724、_russian_К востоку от Эдема. Хищники_Локхард Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b354deb615e22b00073b59728390681

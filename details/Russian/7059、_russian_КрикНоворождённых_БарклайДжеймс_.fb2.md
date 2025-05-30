@@ -8,7 +8,7 @@
 7059、_russian_Крик Новорождённых_Барклай Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff76e945c1d89e975d7e0ae713b083aa

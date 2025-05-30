@@ -8,7 +8,7 @@
 15044、_russian_Волчонок Ваня_Суслин Дмитрий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99a96a05b1e0ad8234b55a6879dc1bde

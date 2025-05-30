@@ -8,7 +8,7 @@
 6704、_english_Never say die_Gerritsen Tess_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 073dc485db137a70b163e4dbc4f9161f

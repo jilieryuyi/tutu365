@@ -8,7 +8,7 @@
 12551、_russian_Тихая гавань_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eeccd9162d8d61388e151b5c6618d787

@@ -8,7 +8,7 @@
 60、新闻的骚动 (阿兰·德波顿文集)_阿兰·德波顿(Alain De Botton)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e9354c69599128dd2c54a66c7f63ca03

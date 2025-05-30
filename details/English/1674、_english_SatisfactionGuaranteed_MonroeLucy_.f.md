@@ -8,7 +8,7 @@
 1674、_english_Satisfaction Guaranteed_Monroe Lucy_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e7cd3366fc4d87459dec8ba4af4231c1

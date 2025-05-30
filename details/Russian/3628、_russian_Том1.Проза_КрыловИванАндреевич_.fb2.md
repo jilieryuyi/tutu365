@@ -8,7 +8,7 @@
 3628、_russian_Том 1. Проза_Крылов Иван Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8195ea6456fda5c1747afab2ae2a9f43

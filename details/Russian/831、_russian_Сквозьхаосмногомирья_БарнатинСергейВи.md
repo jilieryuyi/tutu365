@@ -8,7 +8,7 @@
 831、_russian_Сквозь хаос многомирья_Барнатин Сергей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aebc96eefcbd96659af4251e7d18af8d

@@ -8,7 +8,7 @@
 2067、Linux应用大全 服务器架设_於岳_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 119f62a2941ad2af49e2702125607e0a

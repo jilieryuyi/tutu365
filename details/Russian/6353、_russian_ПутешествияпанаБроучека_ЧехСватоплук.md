@@ -8,7 +8,7 @@
 6353、_russian_Путешествия пана Броучека_Чех Сватоплук_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ebbef4a21ac6c713bf637ee0e17bddd

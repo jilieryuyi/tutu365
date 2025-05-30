@@ -8,7 +8,7 @@
 2033、Java TCP_IP Socket编程(原书第2版)_卡尔弗特 (Kenneth L.Calvert)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 96abbc3f3d9b777582f666a2c733d0da

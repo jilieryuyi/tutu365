@@ -8,7 +8,7 @@
 1247、左手《羊皮卷》 右手《塔木德》大全集(超值白金版)_Publisher           _ 中国华侨出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bfabbd266bd1629235f0e4d4eabf9ee2

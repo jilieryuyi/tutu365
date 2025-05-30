@@ -8,7 +8,7 @@
 473、_russian_Люди из Будапешта_Мештерхази Лайош_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 664fe920710e3f8408ce0f279883530a

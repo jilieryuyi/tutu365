@@ -8,7 +8,7 @@
 10011、_russian_Россия, кровью умытая_Веселый Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ffd1668c6a1ed08d1fe759039fab516

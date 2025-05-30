@@ -8,7 +8,7 @@
 1701、_russian_Принцесса и чудовище_Афанасьев Роман Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4550d4bd26c9b65c70481dd9f9d2ed8

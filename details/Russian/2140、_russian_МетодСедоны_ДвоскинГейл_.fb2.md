@@ -8,7 +8,7 @@
 2140、_russian_Метод Седоны_Двоскин Гейл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91197b3b7c42ea7bebaf2089ac5c665b

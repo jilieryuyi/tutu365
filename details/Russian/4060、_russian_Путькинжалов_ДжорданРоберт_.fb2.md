@@ -8,7 +8,7 @@
 4060、_russian_Путь кинжалов_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 198d19695149f8d1cf14a155ba8e808b

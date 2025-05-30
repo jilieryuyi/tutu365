@@ -8,7 +8,7 @@
 14033、_russian_Тела в Бедламе_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 728372fd7df74df24b450eaaeebc53db

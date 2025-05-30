@@ -8,7 +8,7 @@
 8746、_russian_Старик Хоттабыч_Лагин Лазарь Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a3d1eb838ca48cf7de075891681c449

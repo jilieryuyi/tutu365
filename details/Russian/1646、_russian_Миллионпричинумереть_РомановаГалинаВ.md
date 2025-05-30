@@ -8,7 +8,7 @@
 1646、_russian_Миллион причин умереть_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dbd0749dfb21afe90a4c3b36d854c5b

@@ -8,7 +8,7 @@
 3015、_russian_Кормление старого кота. Рассказы_Березин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 edaa98988218141dddb39f4463381fe3

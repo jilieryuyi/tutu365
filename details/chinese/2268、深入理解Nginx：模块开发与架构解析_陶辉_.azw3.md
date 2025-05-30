@@ -8,7 +8,7 @@
 2268、深入理解Nginx：模块开发与架构解析_陶辉_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 35451aeca726a0b822d684a8c6b07be9

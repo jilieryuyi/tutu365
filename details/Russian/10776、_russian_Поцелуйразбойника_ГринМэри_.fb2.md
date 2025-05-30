@@ -8,7 +8,7 @@
 10776、_russian_Поцелуй разбойника_Грин Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86a4465c6563aac9861eebfc0b3e50dd

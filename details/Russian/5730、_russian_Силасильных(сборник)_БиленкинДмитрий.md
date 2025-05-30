@@ -8,7 +8,7 @@
 5730、_russian_Сила сильных (сборник)_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 534b9f09314857196ce8a9a861f024a7

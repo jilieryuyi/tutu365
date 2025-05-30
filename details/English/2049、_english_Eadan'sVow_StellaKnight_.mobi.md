@@ -8,7 +8,7 @@
 2049、_english_Eadan's Vow_Stella Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8246d83a8b55c39e18d4a3dec42653ea

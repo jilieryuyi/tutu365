@@ -8,7 +8,7 @@
 8663、_russian_Шторм_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb257502a1f0d4258b14eb975217827c

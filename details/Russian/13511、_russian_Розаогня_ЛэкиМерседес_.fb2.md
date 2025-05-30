@@ -8,7 +8,7 @@
 13511、_russian_Роза огня_Лэки Мерседес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4407ec1a245fa077ada81e1043c899ca

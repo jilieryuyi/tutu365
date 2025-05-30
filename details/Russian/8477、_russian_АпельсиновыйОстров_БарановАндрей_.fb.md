@@ -8,7 +8,7 @@
 8477、_russian_Апельсиновый Остров_Баранов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8993fd0bc0c42056d582ac42d18058cd

@@ -8,7 +8,7 @@
 14252、_russian_Девушки Мечты_Миллнер Денин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9df6c5940cc4c4424e485ac4543c4881

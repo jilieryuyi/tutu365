@@ -8,7 +8,7 @@
 6111、_russian_О гражданском неповиновении_Торо Генри Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e2e4072573bea1fe32e71a76cfd3651

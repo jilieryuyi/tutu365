@@ -8,7 +8,7 @@
 2506、賈伯斯傳_Unknown_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3b0f243e7ae4cc8184f0fde4d05db8a1

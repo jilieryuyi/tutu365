@@ -8,7 +8,7 @@
 5062、_russian_Пифагор (Второй том)_Бореев Г. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4c500ceb73e1676c3e677db11383cf4

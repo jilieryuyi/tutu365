@@ -8,7 +8,7 @@
 5032、_english_Cold Case_White Stephen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c29080b72bdc91ed1fc3c7b112a795b9

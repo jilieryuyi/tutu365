@@ -8,7 +8,7 @@
 7600、_russian_Настойки и наливки_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac2325280b920e9b87dfefcceb3ccaeb

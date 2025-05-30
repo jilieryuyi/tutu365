@@ -8,7 +8,7 @@
 2601、_russian_Пленник Короны_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21bc8e60e18bf3483bd03e81f85af90b

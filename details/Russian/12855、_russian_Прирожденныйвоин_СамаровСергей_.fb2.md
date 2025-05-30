@@ -8,7 +8,7 @@
 12855、_russian_Прирожденный воин_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b84288b11ae080ebc84fa328c9f7053

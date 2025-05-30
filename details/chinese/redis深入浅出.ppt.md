@@ -8,7 +8,7 @@
 redis深入浅出.ppt.ppt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d734271eb04ed256dce77a78c8aa7f6f

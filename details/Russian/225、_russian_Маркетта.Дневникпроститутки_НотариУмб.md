@@ -8,7 +8,7 @@
 225、_russian_Маркетта. Дневник проститутки_Нотари Умберто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77002fd8b7759d8aa1c67e4d61108be8

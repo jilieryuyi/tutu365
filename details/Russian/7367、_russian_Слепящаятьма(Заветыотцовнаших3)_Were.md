@@ -8,7 +8,7 @@
 7367、_russian_Слепящая тьма (Заветы отцов наших 3)_Werewolf_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f02f2ae01c1ea9ba3b6b64582d85c9b0

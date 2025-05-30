@@ -8,7 +8,7 @@
 13446、_russian_Вечный лоцман_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d16395ad3c7c7ebaed3a708585695a63

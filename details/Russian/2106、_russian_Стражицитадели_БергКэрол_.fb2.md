@@ -8,7 +8,7 @@
 2106、_russian_Стражи цитадели_Берг Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c43fe9763ba9b409f67111ce5ae5c7a7

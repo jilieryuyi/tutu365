@@ -8,7 +8,7 @@
 14919、_russian_Помолвка_Робинсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de6954ca9b932312ee7bbd93ddb823af

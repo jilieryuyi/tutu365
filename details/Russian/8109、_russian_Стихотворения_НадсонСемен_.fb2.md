@@ -8,7 +8,7 @@
 8109、_russian_Стихотворения_Надсон Семен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c74334e2c71d13b0dad3172394876b4

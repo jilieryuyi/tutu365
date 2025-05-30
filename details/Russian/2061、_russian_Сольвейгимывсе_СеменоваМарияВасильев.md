@@ -8,7 +8,7 @@
 2061、_russian_Сольвейг и мы все_Семенова Мария Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2dfa032da46541a3ecde71c957dedd6d

@@ -8,7 +8,7 @@
 1659、_russian_Лубянская ласточка_Громов Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d754ec62a095535db19f689d4f8d177

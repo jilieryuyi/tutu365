@@ -8,7 +8,7 @@
 12615、_russian_Круги на воде_Виггз Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c43a877ae25a988c7818dd0558347fe9

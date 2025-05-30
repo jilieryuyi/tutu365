@@ -8,7 +8,7 @@
 3686、_russian_Павел II. Книга 3. Пригоршня власти_Витковский Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f595d1672edf2789881ce5e954bc5d71

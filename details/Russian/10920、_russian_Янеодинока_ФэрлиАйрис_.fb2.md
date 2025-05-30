@@ -8,7 +8,7 @@
 10920、_russian_Я не одинока_Фэрли Айрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 697e05d6c2ca57b252236c646a7a14a0

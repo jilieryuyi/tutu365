@@ -8,7 +8,7 @@
 8814、_russian_Штамм _Андромеда_. Человек-компьютер_Крайтон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9aa19115d18ef1ad0b70f057e1c6e043

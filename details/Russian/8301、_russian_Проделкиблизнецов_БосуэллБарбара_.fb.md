@@ -8,7 +8,7 @@
 8301、_russian_Проделки близнецов_Босуэлл Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08c08ec04184a68e50ed581260e5a259

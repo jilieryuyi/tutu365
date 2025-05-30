@@ -8,7 +8,7 @@
 7739、_russian_Дело вдовы Леруж_Габорио Эмиль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa7741e4e451f9d62eecea7d9aad0407

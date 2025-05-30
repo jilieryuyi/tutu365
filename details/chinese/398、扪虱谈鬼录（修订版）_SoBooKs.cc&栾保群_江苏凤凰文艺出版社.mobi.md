@@ -8,7 +8,7 @@
 398、扪虱谈鬼录（修订版）_SoBooKs.cc & 栾保群_江苏凤凰文艺出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1d089a9beeaa5ffcd16aa4cf29fd616f

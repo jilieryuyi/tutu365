@@ -8,7 +8,7 @@
 4290、_russian_Кризис непогрешимости_Кингсбери Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0b6e8e46ccc9375ae7a4981ed97c221

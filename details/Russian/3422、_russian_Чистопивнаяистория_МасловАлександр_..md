@@ -8,7 +8,7 @@
 3422、_russian_Чисто пивная история_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5acf14d601b931483867ccb8c726922

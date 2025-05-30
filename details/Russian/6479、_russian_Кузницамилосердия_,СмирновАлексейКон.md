@@ -8,7 +8,7 @@
 6479、_russian_Кузница милосердия_, Смирнов Алексей Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3bbcc9ec12f29efb807da9e28b8874d7

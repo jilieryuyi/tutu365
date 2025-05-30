@@ -8,7 +8,7 @@
 904、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d7029678ae9effd1c2be095de70d2f2e

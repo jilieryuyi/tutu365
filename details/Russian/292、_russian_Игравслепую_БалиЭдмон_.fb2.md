@@ -8,7 +8,7 @@
 292、_russian_Игра вслепую_Бали Эдмон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 072edc2aab2343f11d1c194339910194

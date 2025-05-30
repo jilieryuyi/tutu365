@@ -8,7 +8,7 @@
 11189、_english_Savages of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e6da11a8692492e5927be508d03a0b89

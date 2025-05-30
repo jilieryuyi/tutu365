@@ -8,7 +8,7 @@
 10596、_russian_Ромео и Джульетта_Шекспир Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b62cbba98bd27338a800411cec0691be

@@ -8,7 +8,7 @@
 1962、_russian_Дело о волхве Дорошке_Щепетнёв Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ebf5f0d52a7c5e3ba6f25cd3c725569

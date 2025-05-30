@@ -8,7 +8,7 @@
 1044、_russian_Последний кольценосец_Еськов Кирилл Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e2f27ebf6bb35a1c2a084023571c1c0

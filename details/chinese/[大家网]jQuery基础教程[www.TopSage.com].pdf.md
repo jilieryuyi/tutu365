@@ -8,7 +8,7 @@
 [大家网]jQuery基础教程[www.TopSage.com].pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9a113e7fdf1e431e049639c3e54fe051

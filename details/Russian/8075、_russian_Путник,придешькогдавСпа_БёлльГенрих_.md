@@ -8,7 +8,7 @@
 8075、_russian_Путник, придешь когда в Спа_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 877fa9857bef1b54fd4f86e3d213963a

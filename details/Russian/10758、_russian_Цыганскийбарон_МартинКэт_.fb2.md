@@ -8,7 +8,7 @@
 10758、_russian_Цыганский барон_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d933b83eb1baca40ec6b5a1323b3c52

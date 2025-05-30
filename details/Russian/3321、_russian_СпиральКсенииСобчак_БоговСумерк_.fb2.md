@@ -8,7 +8,7 @@
 3321、_russian_Спираль Ксении Собчак_Богов Сумерк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0ee32b67bbe967dd65227a146144a93

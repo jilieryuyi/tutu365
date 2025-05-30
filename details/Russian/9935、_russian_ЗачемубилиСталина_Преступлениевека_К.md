@@ -8,7 +8,7 @@
 9935、_russian_Зачем убили Сталина_ Преступление века_Кремлёв Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ed80a1ef6ee9c470511807c9b96dc9c

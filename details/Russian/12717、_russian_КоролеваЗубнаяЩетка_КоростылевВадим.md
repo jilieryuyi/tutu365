@@ -8,7 +8,7 @@
 12717、_russian_Королева Зубная Щетка_Коростылев Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cba17aeaf80ce8ca73b2675b61eafaf

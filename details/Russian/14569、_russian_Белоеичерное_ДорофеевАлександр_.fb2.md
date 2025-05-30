@@ -8,7 +8,7 @@
 14569、_russian_Белое и черное_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38f0963690769fddb3267ba434f95a59

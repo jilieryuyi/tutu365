@@ -8,7 +8,7 @@
 4836、_english_M is for Malice_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ceb320b4a27e0c0209cde488e545c57b

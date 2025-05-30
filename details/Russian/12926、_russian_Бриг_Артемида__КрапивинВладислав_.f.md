@@ -8,7 +8,7 @@
 12926、_russian_Бриг _Артемида__Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f9d8278a8c0cd1239473a0875439d2b

@@ -8,7 +8,7 @@
 9904、_russian_Через горизонт_Дмитриенко Сергей Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48e7e4d8d8c5c03908463e6f8b621ee0

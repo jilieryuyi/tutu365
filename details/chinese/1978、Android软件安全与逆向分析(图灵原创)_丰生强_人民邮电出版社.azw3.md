@@ -8,7 +8,7 @@
 1978、Android软件安全与逆向分析 (图灵原创)_丰生强_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2053f20b4c38c8e27bc1f7721b3cddd1

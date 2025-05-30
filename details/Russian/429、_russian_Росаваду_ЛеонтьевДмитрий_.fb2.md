@@ -8,7 +8,7 @@
 429、_russian_Роса в аду_Леонтьев Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08672a3e62a6aee1c04c2b931f79cc64

@@ -8,7 +8,7 @@
 5688、_russian_Фортуна_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db15de2ddd81b77eeb5211b9435f2f19

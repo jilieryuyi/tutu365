@@ -8,7 +8,7 @@
 11161、_russian_Пикник с кровью_Оливьери Рената_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53cd83983d3f51898f6b71ca23289c49

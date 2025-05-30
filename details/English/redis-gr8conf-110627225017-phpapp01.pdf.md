@@ -8,7 +8,7 @@
 redis-gr8conf-110627225017-phpapp01.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ee9ef1317b5ae7dae5d185d3434d0e64

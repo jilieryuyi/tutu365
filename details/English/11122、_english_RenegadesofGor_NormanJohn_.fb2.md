@@ -8,7 +8,7 @@
 11122、_english_Renegades of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7cf6723c7b064d2dcb9f3f73aa959209

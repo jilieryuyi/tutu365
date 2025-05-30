@@ -8,7 +8,7 @@
 12847、_russian_История_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3686c23c228df246009536c432190ff9

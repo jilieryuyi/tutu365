@@ -8,7 +8,7 @@
 1394、_russian_Скандалы_Гольдберг Люсьен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20d9a93aa6522d3d2736e0c70cd9f9b5

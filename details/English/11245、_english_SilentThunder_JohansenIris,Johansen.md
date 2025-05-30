@@ -8,7 +8,7 @@
 11245、_english_Silent Thunder_Johansen Iris, Johansen Roy_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7ddac6e88fae78dcad9a9d907bb53007

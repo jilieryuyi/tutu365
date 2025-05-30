@@ -8,7 +8,7 @@
 2112、Spark大数据处理：技术、应用与性能优化 (大数据技术丛书)_高彦杰 著_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b46e7bd355fe13bf01070faddc16bb14

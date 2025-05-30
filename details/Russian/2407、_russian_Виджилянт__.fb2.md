@@ -8,7 +8,7 @@
 2407、_russian_Виджилянт__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 892fb199da2f726641731e0d4f56d18e

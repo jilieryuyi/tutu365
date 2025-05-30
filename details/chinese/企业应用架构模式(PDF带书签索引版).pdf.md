@@ -8,7 +8,7 @@
 企业应用架构模式(PDF带书签索引版).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e47bc01b70668af087ab2a415f2e4e7

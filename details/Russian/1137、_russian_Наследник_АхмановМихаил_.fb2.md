@@ -8,7 +8,7 @@
 1137、_russian_Наследник_Ахманов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c21f3c146db3ebd0cead58cb6183cbc4

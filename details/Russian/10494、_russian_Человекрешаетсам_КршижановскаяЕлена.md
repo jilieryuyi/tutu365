@@ -8,7 +8,7 @@
 10494、_russian_Человек решает сам_Кршижановская Елена Ивановна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efc87347796ffcc5d84f533d802caea7

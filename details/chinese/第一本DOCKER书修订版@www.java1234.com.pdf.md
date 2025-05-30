@@ -8,7 +8,7 @@
 第一本DOCKER书 修订版 @www.java1234.com.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d3e0c0467a86a5abcfaa19c0c062ca2f

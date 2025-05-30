@@ -8,7 +8,7 @@
 7550、_russian_Реквием по мечте [=Хо]_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3336afda43a02536742aea61ebd75984

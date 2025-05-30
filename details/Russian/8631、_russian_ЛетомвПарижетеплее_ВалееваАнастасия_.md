@@ -8,7 +8,7 @@
 8631、_russian_Летом в Париже теплее_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 889d39737557e9f8b9ff9ecf9df99643

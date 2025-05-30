@@ -8,7 +8,7 @@
 14997、_russian_Грандиозный план XX-го столетия._Рид Дуглас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dbcaa2368ae24d85ae1998f66623723

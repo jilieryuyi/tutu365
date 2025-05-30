@@ -8,7 +8,7 @@
 14514、_russian_Блондинка в футляре_Луганцева Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b20c5ba6189678e0263f46fea58cef3c

@@ -8,7 +8,7 @@
 6573、_english_Blindsighted_Slaughter Karin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bb551dbef5cc1f1d583db72e65e83390

@@ -8,7 +8,7 @@
 683、_russian_Цена бессмертия_Фрост Анн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71993004a36acd81ac201fabd084f8c0

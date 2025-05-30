@@ -8,7 +8,7 @@
 这才是心理学：看穿伪心理学的本质_[加]基思·斯坦诺维奇 (Keith E.Stanovich) [[加]基思·斯坦诺维奇 (Keith E.Stanovich)]__5288226_2c60fdcbf8e24b9aa52a2eef9a7db72b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2c60fdcbf8e24b9aa52a2eef9a7db72b

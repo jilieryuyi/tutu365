@@ -8,7 +8,7 @@
 12561、_russian_Дороже всех сокровищ_Леклер Дэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e205134ec0644d24b7d976b854407b4

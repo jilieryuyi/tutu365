@@ -8,7 +8,7 @@
 7074、_other_Обитаемый остров_Борис Стругацкие Аркадий и_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d94d7e1f8bda24aa7f8889c5610b5c54

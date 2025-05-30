@@ -8,7 +8,7 @@
 12593、_russian_Память любви_Портер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83e6c95250744211b5c32d0b5632360c

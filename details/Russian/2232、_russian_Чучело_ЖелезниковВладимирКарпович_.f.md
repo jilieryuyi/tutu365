@@ -8,7 +8,7 @@
 2232、_russian_Чучело_Железников Владимир Карпович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25a3cdf7c7e8838922dd50076b207a0d

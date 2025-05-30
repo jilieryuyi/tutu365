@@ -8,7 +8,7 @@
 7748、_russian_Розы после дождя_Эдвардс Касси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 106bc57ffe079f15a1710089a720671e

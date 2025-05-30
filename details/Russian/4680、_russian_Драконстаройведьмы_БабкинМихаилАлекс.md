@@ -8,7 +8,7 @@
 4680、_russian_Дракон старой ведьмы_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22a6c4984ef9935a98f03ac4e08fdbe0

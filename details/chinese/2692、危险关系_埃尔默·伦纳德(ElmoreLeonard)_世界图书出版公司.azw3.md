@@ -8,7 +8,7 @@
 2692、危险关系_埃尔默·伦纳德(Elmore Leonard)_世界图书出版公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 52d8702d6b74b7c596c6bc6f7a7844ce

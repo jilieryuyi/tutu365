@@ -8,7 +8,7 @@
 5834、_russian_Санитар_Великин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68b88df605687df1f83db32f0d2b86cf

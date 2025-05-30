@@ -8,7 +8,7 @@
 9095、_russian_Ночное следствие_Блахий Казимеж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7e9fbcd071c49c676069121442d1c96

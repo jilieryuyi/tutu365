@@ -8,7 +8,7 @@
 7284、_russian_Мифы из будущего_Белозерцев Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fae21f0e4644708830de5c743bace9b

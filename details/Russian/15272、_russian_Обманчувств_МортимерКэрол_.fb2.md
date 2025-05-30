@@ -8,7 +8,7 @@
 15272、_russian_Обман чувств_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec28c03db638b3073a961631f87b633d

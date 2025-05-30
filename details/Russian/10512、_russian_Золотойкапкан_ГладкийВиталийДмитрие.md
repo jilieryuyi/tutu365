@@ -8,7 +8,7 @@
 10512、_russian_Золотой капкан_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81e69e767cf95499059600e5552eca1c

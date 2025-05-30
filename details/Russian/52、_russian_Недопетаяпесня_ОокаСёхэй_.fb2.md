@@ -8,7 +8,7 @@
 52、_russian_Недопетая песня_Оока Сёхэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c441545faf2b6ccc47a7a3639ac1b62

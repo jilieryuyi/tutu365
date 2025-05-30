@@ -8,7 +8,7 @@
 2694、_russian_Скрытая Империя_Андерсон Кевин Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bc6af7c99b127414b2724faa71a64fa

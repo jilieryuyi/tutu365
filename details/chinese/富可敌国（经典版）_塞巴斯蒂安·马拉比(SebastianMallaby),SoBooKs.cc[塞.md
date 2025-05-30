@@ -8,7 +8,7 @@
 富可敌国（经典版）_塞巴斯蒂安·马拉比(Sebastian Mallaby), SoBooKs.cc [塞巴斯蒂安·马拉比(Sebastian Mallaby), SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f276454f9a969f9d716a15aedcd7a2be

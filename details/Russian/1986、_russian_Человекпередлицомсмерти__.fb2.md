@@ -8,7 +8,7 @@
 1986、_russian_Человек перед лицом смерти__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df50d442637f611d6dc56a9e6240171b

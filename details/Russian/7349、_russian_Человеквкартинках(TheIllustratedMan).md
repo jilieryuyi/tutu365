@@ -8,7 +8,7 @@
 7349、_russian_Человек в картинках (The Illustrated Man), 1951_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ba13b992a741f5bb6c4aa14b2d125ce

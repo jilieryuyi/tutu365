@@ -8,7 +8,7 @@
 404、_russian_Календарь преступлений_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1c981ddd908dd6dd4d8528099627d68

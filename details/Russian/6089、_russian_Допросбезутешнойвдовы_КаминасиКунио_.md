@@ -8,7 +8,7 @@
 6089、_russian_Допрос безутешной вдовы_Каминаси Кунио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f87d09d9bf9ac242a1878bba4305691e

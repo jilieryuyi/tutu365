@@ -8,7 +8,7 @@
 523、_russian_Мегрэ и осведомитель_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10173a6af1ea71c9170cbec66086c52c

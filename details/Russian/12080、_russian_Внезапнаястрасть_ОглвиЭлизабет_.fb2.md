@@ -8,7 +8,7 @@
 12080、_russian_Внезапная страсть_Оглви Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53b793113b80c293aefb1bb9e6c63562

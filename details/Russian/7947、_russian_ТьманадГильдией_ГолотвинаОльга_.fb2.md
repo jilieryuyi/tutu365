@@ -8,7 +8,7 @@
 7947、_russian_Тьма над Гильдией_Голотвина Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31bd94853399436c81b7a2b01af8d7cc

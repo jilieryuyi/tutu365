@@ -8,7 +8,7 @@
 15148、_french_C'est la guerre_Kennedy Fox [Fox, Kennedy]_MxM.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f0b7850e71bb36f91751773789b6a4c9

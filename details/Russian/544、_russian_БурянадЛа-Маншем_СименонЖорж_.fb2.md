@@ -8,7 +8,7 @@
 544、_russian_Буря над Ла-Маншем_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8bbae85ad3ef7c1d9c39a18df9ea925

@@ -8,7 +8,7 @@
 2313、随身查_Excel办公高手应用技巧_雏志资讯_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4738faa6be32eb6fb83a035614435834

@@ -8,7 +8,7 @@
 8873、_english_The Duke's Impetuous Darling_Cerise DeLand_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3c8adf3005ca7c5775fbddceaf8e3631

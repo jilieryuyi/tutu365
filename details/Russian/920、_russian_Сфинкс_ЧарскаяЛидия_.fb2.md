@@ -8,7 +8,7 @@
 920、_russian_Сфинкс_Чарская Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24a355c9f84f9be3c7e96a8f43864b9a

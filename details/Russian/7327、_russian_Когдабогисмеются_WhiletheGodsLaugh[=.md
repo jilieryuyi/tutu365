@@ -8,7 +8,7 @@
 7327、_russian_Когда боги смеются _ While the Gods Laugh [= Пока смеются боги]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 353cb8f07bf862d24405d2d6d8770b3e

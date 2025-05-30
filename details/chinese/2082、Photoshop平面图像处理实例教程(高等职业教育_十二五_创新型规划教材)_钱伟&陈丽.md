@@ -8,7 +8,7 @@
 2082、Photoshop平面图像处理实例教程 (高等职业教育_十二五_创新型规划教材)_钱伟 & 陈丽娟_北京理工大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d312889c1c1fe2b79e3590919fac5c44

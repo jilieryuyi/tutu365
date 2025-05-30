@@ -8,7 +8,7 @@
 2791、每个人都会死，但我总以为自己不会 (图灵新知)_[美]Thomas Cathcart & Daniel Klein_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3f71b187496cecaed3c3785e458e4af7

@@ -8,7 +8,7 @@
 567、_russian_Черный шар_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5bda591fe78fdc821c414d528048d11

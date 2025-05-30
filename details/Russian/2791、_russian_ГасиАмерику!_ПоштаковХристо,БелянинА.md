@@ -8,7 +8,7 @@
 2791、_russian_Гаси Америку!_Поштаков Христо, Белянин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 227eb7add0d1d0ba9cc6e9ec2a518c55

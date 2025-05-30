@@ -8,7 +8,7 @@
 11150、_russian_Блудный отец_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb83ef674593f658471237d156e581ae

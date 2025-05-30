@@ -8,7 +8,7 @@
 9173、_russian_Как мальчик нашёл друзей_Нюблум Хелена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3112164282caa717ee33d89d79371ff4

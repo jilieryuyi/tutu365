@@ -8,7 +8,7 @@
 228、_russian_Рождественский ангел_Беверли Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d16160c8215bdd9ffc721819792d0d26

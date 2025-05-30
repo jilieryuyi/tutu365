@@ -8,7 +8,7 @@
 【中医】景景室医稿杂存@zhangdog.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fba2d668ee97b2aed3cccd79f933cb5f

@@ -8,7 +8,7 @@
 4279、_russian_Заповедник (рассказ)_Егоров Андрей Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0ce742a6580eea0e355914c83d5d14a

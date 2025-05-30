@@ -8,7 +8,7 @@
 1839、怀孕知识大百科_Unknown_吉林出版集团，吉林科学技术出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6f7fef3c201fac1ec22fee30413121cd

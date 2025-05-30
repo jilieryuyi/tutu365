@@ -8,7 +8,7 @@
 11167、_english_Kajira of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0de5e9278d8e9d8370e4a63b4804a60e

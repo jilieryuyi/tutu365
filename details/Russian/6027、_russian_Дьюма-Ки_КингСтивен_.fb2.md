@@ -8,7 +8,7 @@
 6027、_russian_Дьюма-Ки_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2349dc61df1b99d84d0eaaa7024131b

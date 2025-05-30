@@ -8,7 +8,7 @@
 960、_english_Bridget Jones_ The Edge of Reason_Fielding Helen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 061d53d5f031807fcfec5f7fc0b59e91

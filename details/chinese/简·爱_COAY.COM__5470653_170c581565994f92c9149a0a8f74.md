@@ -8,7 +8,7 @@
 简·爱_COAY.COM__5470653_170c581565994f92c9149a0a8f74333a.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 170c581565994f92c9149a0a8f74333a

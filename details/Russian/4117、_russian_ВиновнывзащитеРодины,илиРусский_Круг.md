@@ -8,7 +8,7 @@
 4117、_russian_Виновны в защите Родины, или Русский_Круглов Тимофей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2624bf83f88425a04cca886abdd3d555

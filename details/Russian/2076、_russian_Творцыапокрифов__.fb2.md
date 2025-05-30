@@ -8,7 +8,7 @@
 2076、_russian_Творцы апокрифов__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a92e50ed412a42c04a6a18c7c7463381

@@ -8,7 +8,7 @@
 3153、_russian_Зеленая кобылка_Бажов Павел Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d8ad15fb7719166933765f20548eb24

@@ -8,7 +8,7 @@
 11548、_russian_Бомба замедленного действия_`Док` Смит Эдвард Элмер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e82c194e214ec173ad3f4251cfeea710

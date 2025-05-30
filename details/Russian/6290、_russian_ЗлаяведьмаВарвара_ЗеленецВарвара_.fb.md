@@ -8,7 +8,7 @@
 6290、_russian_Злая ведьма Варвара_Зеленец Варвара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6e25489756f7bfc7a65ce2e2693d916

@@ -8,7 +8,7 @@
 10990、_russian_Неостывшее сердце_Фомин Олег Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8671b49de6e5936daa51458a6423451

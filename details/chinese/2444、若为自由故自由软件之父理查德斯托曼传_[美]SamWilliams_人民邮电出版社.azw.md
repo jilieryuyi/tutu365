@@ -8,7 +8,7 @@
 2444、若为自由故 自由软件之父理查德斯托曼传_[美]Sam Williams_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 283d739f4ae10bfb65e28e078f35532f

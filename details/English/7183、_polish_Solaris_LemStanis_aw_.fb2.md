@@ -8,7 +8,7 @@
 7183、_polish_Solaris_Lem Stanis_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0d15df0810f989fe8c6ef9dabc584489

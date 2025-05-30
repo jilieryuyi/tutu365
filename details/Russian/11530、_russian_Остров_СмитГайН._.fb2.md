@@ -8,7 +8,7 @@
 11530、_russian_Остров_Смит Гай Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 896bc335ed139721e2be499c693d6b99

@@ -8,7 +8,7 @@
 1133、_russian_Девушка с задачником_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04588f715eff8d0d02cb6d7afd67ddec

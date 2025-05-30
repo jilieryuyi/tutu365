@@ -8,7 +8,7 @@
 2832、_russian_Записка с сюрпризом_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce16b06a361cd255e8bc9007a73559ca

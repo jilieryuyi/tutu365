@@ -8,7 +8,7 @@
 14328、_english_Only Love_Lowell Elizabeth_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f3a990bb89eca817a4804494ddb45bd8

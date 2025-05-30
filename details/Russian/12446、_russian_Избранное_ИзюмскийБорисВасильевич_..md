@@ -8,7 +8,7 @@
 12446、_russian_Избранное_Изюмский Борис Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55a860d7f0a506c4f96f633ccdd3d9b5

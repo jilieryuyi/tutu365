@@ -8,7 +8,7 @@
 10067、_russian_X-wing-9_ Пилоты Адумара_Оллстон Аарон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40b3f02db05cdbb3b5f3592d96cfd0ca

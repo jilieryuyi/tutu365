@@ -8,7 +8,7 @@
 2034、_russian_Дополнительные сведения о Ли Чан-Йенс_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd2c5b5b660fbedbc019a6b6fc77c7d1

@@ -8,7 +8,7 @@
 14075、_russian_На Маме_Куклин Лев Валерианович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 496637799ffecb89c9cbc691c54972de

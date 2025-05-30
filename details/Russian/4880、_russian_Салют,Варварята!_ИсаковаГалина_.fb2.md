@@ -8,7 +8,7 @@
 4880、_russian_Салют, Варварята!_Исакова Галина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2ee0c87128628e5f1e13241008345c3

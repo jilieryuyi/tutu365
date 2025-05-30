@@ -8,7 +8,7 @@
 1998、_english_A Good Debutante's Guide to Ruin_Sophie Jordan_HarperCollins.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 43bb19ac3d3b7e26d0fee5273ae18d35

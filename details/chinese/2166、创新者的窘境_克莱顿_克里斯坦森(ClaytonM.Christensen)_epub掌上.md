@@ -8,7 +8,7 @@
 2166、创新者的窘境_克莱顿_克里斯坦森( Clayton M. Christensen )_epub掌上书苑.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f3bdc6a91ba8dce641006c3bf4a9ede0

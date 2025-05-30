@@ -8,7 +8,7 @@
 6717、_russian_Большое соло для Антона_Розендорфер Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f793598bfb812daed7ced8c2c7aa445d

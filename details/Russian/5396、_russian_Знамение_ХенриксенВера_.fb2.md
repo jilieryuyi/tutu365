@@ -8,7 +8,7 @@
 5396、_russian_Знамение_Хенриксен Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ba914247f45c75a176159c4e66c4844

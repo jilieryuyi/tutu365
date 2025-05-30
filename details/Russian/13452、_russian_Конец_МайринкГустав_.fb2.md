@@ -8,7 +8,7 @@
 13452、_russian_Конец_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d663c262fb3d125d9520e62078bfc3d

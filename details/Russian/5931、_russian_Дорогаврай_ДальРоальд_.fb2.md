@@ -8,7 +8,7 @@
 5931、_russian_Дорога в рай_Даль Роальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d56f8ca738a195b03043795e0f924167

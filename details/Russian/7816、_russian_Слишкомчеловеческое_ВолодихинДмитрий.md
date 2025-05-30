@@ -8,7 +8,7 @@
 7816、_russian_Слишком человеческое_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ba2a29c65c8e0ecc12f9ff59b6b228d

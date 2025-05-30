@@ -8,7 +8,7 @@
 11673、_russian_Ножи спешат на помощь_Прорез Журнал, Воловик Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a80ab5c612b789ad24d2b073dd3f32d5

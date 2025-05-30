@@ -8,7 +8,7 @@
 12239、_russian_Маленькие женщины_Олкотт Луиза Мэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffadb9eccb5f7b2b488a1b01949f896b

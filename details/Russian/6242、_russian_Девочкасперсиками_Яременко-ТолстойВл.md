@@ -8,7 +8,7 @@
 6242、_russian_Девочка с персиками_Яременко-Толстой Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 375fdbbbcc826c1ca604db4ecbeaa2d0

@@ -8,7 +8,7 @@
 435、非对称风险：风险共担，应对现实世界中的不确定性（“不确定性”系列丛书）_SoBooKs.cc & [美] 纳西姆·尼古拉斯·塔勒布（Nassim Nicholas Taleb）_中信出版集团.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0102bb49a67207fe92d1365b543e38de

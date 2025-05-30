@@ -8,7 +8,7 @@
 782、_russian_Семиглавая Фея_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 806d45b8ef08493b48110bd59e1cdeca

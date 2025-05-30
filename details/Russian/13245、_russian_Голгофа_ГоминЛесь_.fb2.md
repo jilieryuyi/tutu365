@@ -8,7 +8,7 @@
 13245、_russian_Голгофа_Гомин Лесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60496c0839896dd9f4be14eca883f0fa

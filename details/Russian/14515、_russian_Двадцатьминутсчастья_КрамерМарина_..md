@@ -8,7 +8,7 @@
 14515、_russian_Двадцать минут счастья_Крамер Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e565466c910efd4c034a7b6a1329c3dc

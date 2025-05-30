@@ -8,7 +8,7 @@
 2848、_russian_Автобиография_Бажов Павел Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19addde7ab59f32e79c081839380ec3b

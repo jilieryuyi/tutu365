@@ -8,7 +8,7 @@
 5674、_russian_Завтрашняя запись_Ли Шарон, Миллер Стив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95a184496b5341da05590f08cea1ae54

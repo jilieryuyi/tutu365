@@ -8,7 +8,7 @@
 2258、_english_Downfall_Rabe Jean_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 98aba72b1c28a7c1619deb3c58be3dde

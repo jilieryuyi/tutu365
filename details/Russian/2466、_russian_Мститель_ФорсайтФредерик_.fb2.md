@@ -8,7 +8,7 @@
 2466、_russian_Мститель_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a20518a02a4015b1a8c73c78df5d30ba

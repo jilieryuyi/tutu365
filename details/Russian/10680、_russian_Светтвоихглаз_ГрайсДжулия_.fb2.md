@@ -8,7 +8,7 @@
 10680、_russian_Свет твоих глаз_Грайс Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0a4704ca00ed69208d6efa31aaf0985

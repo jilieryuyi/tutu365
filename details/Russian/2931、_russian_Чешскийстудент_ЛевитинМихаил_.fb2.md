@@ -8,7 +8,7 @@
 2931、_russian_Чешский студент_Левитин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9492ac71feaacadef0ef12f26109f35b

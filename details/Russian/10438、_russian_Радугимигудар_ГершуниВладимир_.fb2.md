@@ -8,7 +8,7 @@
 10438、_russian_Радуги мигу дар_Гершуни Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad60af9c7b9dff17cfb6f7f159fd9e6c

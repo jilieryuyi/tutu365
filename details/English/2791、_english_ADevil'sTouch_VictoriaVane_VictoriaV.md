@@ -8,7 +8,7 @@
 2791、_english_A Devil's Touch_Victoria Vane_Victoria Vane.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ff96bb35a251414e9c0b5f421755e36b

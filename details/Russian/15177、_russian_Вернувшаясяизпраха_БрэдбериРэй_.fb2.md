@@ -8,7 +8,7 @@
 15177、_russian_Вернувшаяся из праха_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c60e8506443b73bca434ab4ef96cb8fb

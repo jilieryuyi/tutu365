@@ -8,7 +8,7 @@
 6924、_russian_Костры Эдема_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93edfd6bed3393c2637ef96c125ee717

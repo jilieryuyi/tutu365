@@ -8,7 +8,7 @@
 11482、_russian_Лицом к лицу_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34bde6259018730d917dd8563d447932

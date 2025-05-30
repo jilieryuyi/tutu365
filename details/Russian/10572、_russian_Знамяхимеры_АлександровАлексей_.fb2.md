@@ -8,7 +8,7 @@
 10572、_russian_Знамя химеры_Александров Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 811d9a688a49e0ffcf9686b0ef56ace6

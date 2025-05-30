@@ -8,7 +8,7 @@
 2295、以用户为中心的软件设计：打造用户友好型应用的有效方法和准则 (O'Reilly精品图书系列)_Travis Lowdermilk_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2bd247bacbaed8c8027e3ce5d46f2908

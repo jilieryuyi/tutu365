@@ -8,7 +8,7 @@
 RTF文档结构说明.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 334641911250359c35994f8f9678e7b1

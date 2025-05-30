@@ -8,7 +8,7 @@
 10155、_russian_Комендантский час_Воинов Александр Исаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6264f7fd3e7e5d29267017ae11e83733

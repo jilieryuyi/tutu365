@@ -8,7 +8,7 @@
 11048、_russian_Китайский агент_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7a13de4203b8ed25bd12e1d53ad590f

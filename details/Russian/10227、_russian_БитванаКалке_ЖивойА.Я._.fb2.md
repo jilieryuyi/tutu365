@@ -8,7 +8,7 @@
 10227、_russian_Битва на Калке_Живой А. Я._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af2d28e82e8ffd96063df8a59fb6edfd

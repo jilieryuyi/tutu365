@@ -8,7 +8,7 @@
 3947、_russian_Детективное агенство ''Альтернатива''_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e91be4ef47eef3c807d2eb0f3505fb73

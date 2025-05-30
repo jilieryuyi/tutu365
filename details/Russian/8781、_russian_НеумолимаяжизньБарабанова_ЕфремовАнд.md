@@ -8,7 +8,7 @@
 8781、_russian_Неумолимая жизнь Барабанова_Ефремов Андрей Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8a25bc54db088b97e20b9cb57a700c1

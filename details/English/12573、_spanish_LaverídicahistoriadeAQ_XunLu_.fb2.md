@@ -8,7 +8,7 @@
 12573、_spanish_La verídica historia de A Q_Xun Lu_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e457978f6e3ec47df9a89fb6f85a03ae

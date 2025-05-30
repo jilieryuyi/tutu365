@@ -8,7 +8,7 @@
 7677、_russian_Старое доброе Зло_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e5d4cc41d556af81a7f8f8d9f1c7479

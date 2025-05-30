@@ -8,7 +8,7 @@
 3304、_russian_Седьмая жертва_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd59aa943d087ad1bf409b2d8e8b46b5

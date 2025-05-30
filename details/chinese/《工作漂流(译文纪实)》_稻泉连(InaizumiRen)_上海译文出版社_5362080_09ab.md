@@ -8,7 +8,7 @@
 《工作漂流 (译文纪实)》_稻泉连(Inaizumi Ren)_上海译文出版社_5362080_09ab4e51927babdfdb5d83ab5cd45971.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 09ab4e51927babdfdb5d83ab5cd45971

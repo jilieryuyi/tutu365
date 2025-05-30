@@ -8,7 +8,7 @@
 3139、_russian_Слезы дракона_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a90ed229955c2fa01ff6b95e68c2f44

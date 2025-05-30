@@ -8,7 +8,7 @@
 10363、_russian_Шар черного мага_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54dee6379156b60ed00615bedf838a14

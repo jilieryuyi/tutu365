@@ -8,7 +8,7 @@
 1214、高等数学解题指南_Publisher           _ 北京大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 29b6cbdb3c4742274ec01373b7c39245

@@ -8,7 +8,7 @@
 7741、_english_A Lady's Perfect Match_Bridget Barton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e38d67df7d785066933650c01e95d71f

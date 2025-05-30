@@ -8,7 +8,7 @@
 1719、_russian_Сатанаил_Просветитель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14ce64c91ef6f0c1b3622f4becfcec40

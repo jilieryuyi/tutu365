@@ -8,7 +8,7 @@
 2291、_russian_Евгения Гранде_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da69f7e2d065c544041ab5e324930843

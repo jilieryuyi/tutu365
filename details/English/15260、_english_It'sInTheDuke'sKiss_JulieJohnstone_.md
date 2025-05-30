@@ -8,7 +8,7 @@
 15260、_english_It's In The Duke's Kiss_Julie Johnstone_Julie Johnstone.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2916f17af08fbba91609be81c00b680b

@@ -8,7 +8,7 @@
 15109、_russian_Пускай меня полюбят за характер_Лютикова Люся_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b23683ccc01151f08f8769287aacdb3a

@@ -8,7 +8,7 @@
 11175、_russian_Гипнотрон профессора Браилова_Фогель Наум Давидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d3dfa697e8779f2fa4161d6925a0e95

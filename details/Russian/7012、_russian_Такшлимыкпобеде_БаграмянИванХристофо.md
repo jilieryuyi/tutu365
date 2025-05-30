@@ -8,7 +8,7 @@
 7012、_russian_Так шли мы к победе_Баграмян Иван Христофорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42eb23706fccd7d81c44d2fcf116a555

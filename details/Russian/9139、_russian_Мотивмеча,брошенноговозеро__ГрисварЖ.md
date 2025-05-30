@@ -8,7 +8,7 @@
 9139、_russian_Мотив меча, брошенного в озеро__Грисвар Жоэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6835465040ca31a75efc48fa6af78786

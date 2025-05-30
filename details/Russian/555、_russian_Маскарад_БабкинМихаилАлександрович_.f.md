@@ -8,7 +8,7 @@
 555、_russian_Маскарад_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea6179a47d9e6000d4ba474e02225869

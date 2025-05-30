@@ -8,7 +8,7 @@
 718、弯曲的旅行_【美】兰道尔(Lisa Randall)_万卷出版公司.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 296348e63e3eb23e2b9169f2cf81bbfb

@@ -8,7 +8,7 @@
 6870、_russian_Разгуляевка_Геласимов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a39a8fe302243668d77a9341748928c

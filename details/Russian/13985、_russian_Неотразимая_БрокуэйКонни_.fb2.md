@@ -8,7 +8,7 @@
 13985、_russian_Неотразимая_Брокуэй Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61ff7028586a84b1e8c6f6058fbe6b41

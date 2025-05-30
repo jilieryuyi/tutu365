@@ -8,7 +8,7 @@
 13879、_russian_Эй-ай_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3738d9bc13385ee0b3dc18e89e7d04fe

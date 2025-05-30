@@ -8,7 +8,7 @@
 299、_english_Gabriel's Bride_Samantha James_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 62a38da068200a8d513ee022b656e161

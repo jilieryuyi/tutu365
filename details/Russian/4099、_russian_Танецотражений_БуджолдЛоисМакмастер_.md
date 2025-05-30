@@ -8,7 +8,7 @@
 4099、_russian_Танец отражений_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c77ddd921a845db6281dc81e756bf78a

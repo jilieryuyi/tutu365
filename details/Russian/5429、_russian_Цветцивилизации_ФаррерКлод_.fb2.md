@@ -8,7 +8,7 @@
 5429、_russian_Цвет цивилизации_Фаррер Клод_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9c981a0215d32f1c4da7cad835e5b92

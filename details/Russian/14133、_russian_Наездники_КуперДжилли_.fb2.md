@@ -8,7 +8,7 @@
 14133、_russian_Наездники_Купер Джилли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d163ceed376191222ad2637ed082c09

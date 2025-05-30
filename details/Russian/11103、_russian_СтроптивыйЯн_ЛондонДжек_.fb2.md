@@ -8,7 +8,7 @@
 11103、_russian_Строптивый Ян_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a4a01f5fbf9d8361375e65aae6d3ee8

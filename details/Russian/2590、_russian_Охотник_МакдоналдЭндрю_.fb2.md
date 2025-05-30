@@ -8,7 +8,7 @@
 2590、_russian_Охотник_Макдоналд Эндрю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8af2c6e71e44f0dee262ba34494eec46

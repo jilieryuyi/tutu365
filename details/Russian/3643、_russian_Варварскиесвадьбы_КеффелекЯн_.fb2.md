@@ -8,7 +8,7 @@
 3643、_russian_Варварские свадьбы_Кеффелек Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 362416a88434a046c6334735e18ee6fa

@@ -8,7 +8,7 @@
 13185、_russian_Лабиринт_Лиханов Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 592cf8d70c6d33d5b8f1b42b3a8f2851

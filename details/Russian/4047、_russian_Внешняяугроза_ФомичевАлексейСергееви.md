@@ -8,7 +8,7 @@
 4047、_russian_Внешняя угроза_Фомичев Алексей Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c8fe22bfbe5ec8f30c3604250db9fdf

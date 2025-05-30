@@ -8,7 +8,7 @@
 13168、_russian_Маленькое путешествие_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61277662a404e1c4efa288d93a724e7a

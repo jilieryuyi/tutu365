@@ -8,7 +8,7 @@
 道德部落 _ 情感、理智和冲突背后的心理学_[美] 约书亚·格林（Joshua Greene）_中信出版社_5345194_e470ebedb77555ec31b14c4b909ebedc.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e470ebedb77555ec31b14c4b909ebedc

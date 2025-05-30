@@ -8,7 +8,7 @@
 2561、_russian_Тибетская Книга Мертвых__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c17486a142a16fea3d40cd5f77dd4c0d

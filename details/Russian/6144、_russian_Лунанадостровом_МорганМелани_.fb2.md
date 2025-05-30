@@ -8,7 +8,7 @@
 6144、_russian_Луна над островом_Морган Мелани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28a852f6544db852e4faac6496606ed2

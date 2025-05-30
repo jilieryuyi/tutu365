@@ -8,7 +8,7 @@
 10547、_russian_Волшебный оби_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e664ddcace3a424b3f895d6925da3c3

@@ -8,7 +8,7 @@
 11031、_russian_Песок_Сотник Юрий Вячеславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c607c0cb9c7e1fcc5bb7f58c110f85b9

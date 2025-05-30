@@ -8,7 +8,7 @@
 想经典_八十天环游地球_凡尔纳(Verne J.)(作者) & 吴迪(编者) & 刘慧梅(译者)__5487978_c813aec95555157fb781117a8ffb4854.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c813aec95555157fb781117a8ffb4854

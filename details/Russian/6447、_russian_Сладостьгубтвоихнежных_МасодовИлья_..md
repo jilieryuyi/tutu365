@@ -8,7 +8,7 @@
 6447、_russian_Сладость губ твоих нежных_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e2c7d602cc5a2964e9b831ee9ef1a3b

@@ -8,7 +8,7 @@
 11422、_ukrainian_Шляхи титан_в_Бердник Олесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 178457070cd66e5502cce5a9abd36859

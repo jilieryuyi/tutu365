@@ -8,7 +8,7 @@
 12065、_russian_Шведский всадник_Перуц Лео_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b5f249d88dd9ea1d813bec1bbb93ef5

@@ -8,7 +8,7 @@
 264、_russian_Одинокий голубь_Макмуртри Лэрри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0044f0448004f23e1ecac07ab80c1ef8

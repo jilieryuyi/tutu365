@@ -8,7 +8,7 @@
 4012、_russian_Янтарный единорог_Гуськова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 530926c89e00183000695b7b027e23d0

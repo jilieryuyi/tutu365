@@ -8,7 +8,7 @@
 405、_russian_Хотелось как лучше__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecf8260ac971ea4e92df756456468b1e

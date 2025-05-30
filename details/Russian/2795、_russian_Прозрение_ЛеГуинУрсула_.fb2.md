@@ -8,7 +8,7 @@
 2795、_russian_Прозрение_Ле Гуин Урсула_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d59d6ec9c0d5531adfcb4ed998c67ce

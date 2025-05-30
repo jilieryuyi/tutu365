@@ -8,7 +8,7 @@
 8892、_russian_Ролевые игры для детей_Образцова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 181523af4044f07ba3222bcfdc3ca7cc

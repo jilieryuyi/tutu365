@@ -8,7 +8,7 @@
 1510、_portuguese_Africa_ Literatura-Arte e cultura_Manuel Ferreira_Africa Editora.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7839715113ef66a49bb20a2657632cbb

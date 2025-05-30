@@ -8,7 +8,7 @@
 12946、_russian_Киска_Ларионова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c41c7dd30c47dc268a3d90dbc716446

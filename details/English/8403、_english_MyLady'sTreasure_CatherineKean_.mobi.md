@@ -8,7 +8,7 @@
 8403、_english_My Lady's Treasure_Catherine Kean_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 efa50313b4191161246e2d2f3c49b688

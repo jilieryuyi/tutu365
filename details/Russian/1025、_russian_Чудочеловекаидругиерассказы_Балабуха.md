@@ -8,7 +8,7 @@
 1025、_russian_Чудо человека и другие рассказы_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5fe29b987cbf896ee972c4c65f279f9

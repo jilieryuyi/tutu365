@@ -8,7 +8,7 @@
 574、_russian_Странное шоссе_Балмер Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25c4a28ed2308d45e09d13fab3d54355

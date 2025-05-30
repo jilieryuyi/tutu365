@@ -8,7 +8,7 @@
 5077、_russian_Я хочу видеть укротителя_Бабаев Эдуард Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7affaaea3073df7eed4ae10eeba925c9

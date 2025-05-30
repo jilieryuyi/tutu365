@@ -8,7 +8,7 @@
 Wireshark+主界面的操作菜单.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 acb42ebad88ed3a31f9195162039417f

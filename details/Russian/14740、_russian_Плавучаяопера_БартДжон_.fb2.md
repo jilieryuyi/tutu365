@@ -8,7 +8,7 @@
 14740、_russian_Плавучая опера_Барт Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fb27191d76e22b74cf633baff4ae0f1

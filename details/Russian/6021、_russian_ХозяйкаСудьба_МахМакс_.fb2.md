@@ -8,7 +8,7 @@
 6021、_russian_Хозяйка Судьба_Мах Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eca502d93c4f116b1dcf56a4c9d5c072

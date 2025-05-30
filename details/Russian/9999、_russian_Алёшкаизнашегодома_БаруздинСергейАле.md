@@ -8,7 +8,7 @@
 9999、_russian_Алёшка из нашего дома_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14dd842959915bcefb4157a2c6d0412c

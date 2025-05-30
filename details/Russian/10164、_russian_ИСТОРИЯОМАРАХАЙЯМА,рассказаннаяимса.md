@@ -8,7 +8,7 @@
 10164、_russian_ИСТОРИЯ ОМАРА ХАЙЯМА, рассказанная им самим_Яковлев Лео_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e6c4a7c05229222efecfbe026ec88dc

@@ -8,7 +8,7 @@
 2288、_russian_Махатма Ганди_Роллан Ромен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 327d8b6996151faf1cc15ef13d04d4b1

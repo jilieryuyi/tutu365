@@ -8,7 +8,7 @@
 10954、_russian_Король по праву_Уэллс Герберт Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e11bade8dcbd85f5bc7c092267296e6

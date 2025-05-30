@@ -8,7 +8,7 @@
 1529、_russian_Злоумышленники_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0463e9e2c28ae9e8f3fabd03737feb81

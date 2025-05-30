@@ -8,7 +8,7 @@
 1280、支付战争：互联网金融创世纪_Eric M. Jackson_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c19a8bd642d5156573955e222c31d3e3

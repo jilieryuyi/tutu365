@@ -8,7 +8,7 @@
 8183、_russian_Политика_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c07b6a166b12ee08ff91a7191acdfc36

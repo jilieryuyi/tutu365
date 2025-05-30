@@ -8,7 +8,7 @@
 6627、_russian_Нож на каждый день_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cad8b3bed4a52be942f1438b7ff26011

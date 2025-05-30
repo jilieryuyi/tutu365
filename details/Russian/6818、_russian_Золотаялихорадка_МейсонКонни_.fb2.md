@@ -8,7 +8,7 @@
 6818、_russian_Золотая лихорадка_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f5632e4080968120b59d926d8924f8d

@@ -8,7 +8,7 @@
 11517、_russian_Все будет хорошо_Смехов Вениамин Борисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 407a042a204eb7afbacdc8ef789f69fe

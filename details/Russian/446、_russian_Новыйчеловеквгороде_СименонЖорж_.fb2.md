@@ -8,7 +8,7 @@
 446、_russian_Новый человек в городе_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32e53b132fab04f0a04808b1febe5fc0

@@ -8,7 +8,7 @@
 9909、_russian_Приключения Электроника (С иллюстрациями)_Велтистов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d3e11acecf3d18d8fdb36e97a91111f

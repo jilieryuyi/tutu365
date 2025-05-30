@@ -8,7 +8,7 @@
 缅甸高地诸政治体系：对克钦社会结构的一项研究_埃德蒙·R.利奇_Unknown_5496312_21ceb2bb3da196541f48e307a6e2730b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 21ceb2bb3da196541f48e307a6e2730b

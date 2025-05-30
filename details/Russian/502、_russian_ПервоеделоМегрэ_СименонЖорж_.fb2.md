@@ -8,7 +8,7 @@
 502、_russian_Первое дело Мегрэ_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0afd338f0221c7767cfb23c7e2669e16

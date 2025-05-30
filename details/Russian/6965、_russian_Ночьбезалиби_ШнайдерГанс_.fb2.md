@@ -8,7 +8,7 @@
 6965、_russian_Ночь без алиби_Шнайдер Ганс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1c154fb81f698fb46295b1c7c5bc33e

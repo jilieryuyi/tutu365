@@ -8,7 +8,7 @@
 12200、_russian_Дневники. Письма. Трактаты. Том 2_Дюрер Альбрехт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7a4f0fa23f1f40b352d81860cf95f3c

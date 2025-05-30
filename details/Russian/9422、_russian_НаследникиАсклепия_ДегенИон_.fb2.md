@@ -8,7 +8,7 @@
 9422、_russian_Наследники Асклепия_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bda59ead49d100c3f11ce509b32aed07

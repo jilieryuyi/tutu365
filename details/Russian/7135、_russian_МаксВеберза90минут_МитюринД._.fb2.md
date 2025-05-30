@@ -8,7 +8,7 @@
 7135、_russian_Макс Вебер за 90 минут_Митюрин Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e34c5c888af08b3489f744de7e88f9e9

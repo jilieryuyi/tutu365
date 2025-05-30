@@ -8,7 +8,7 @@
 11638、_russian_Дикарка_Фабио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cba9fc41341405d87ea0623ce5eb2f9

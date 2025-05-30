@@ -8,7 +8,7 @@
 夜色温柔(译文名著精选)_F.S.菲茨杰拉德(Francis Scott Fitzgerald)__5476332_f2240c08a9b3172b733ed0c072707829.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f2240c08a9b3172b733ed0c072707829

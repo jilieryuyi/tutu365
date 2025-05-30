@@ -8,7 +8,7 @@
 12590、_russian_Детективы в тогах_Винтерфельд Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 086ab7c7c8ef7b481f77ae26ec311094

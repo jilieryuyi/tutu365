@@ -8,7 +8,7 @@
 8609、_russian_Тайна джунглей_Захаров Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 329a3acc9cc6e5f664ff4b3fd5b6a241

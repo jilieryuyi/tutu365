@@ -8,7 +8,7 @@
 1562、_russian_13 рублей_Балабченков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9633243a5c9db91b47e810db87567ca9

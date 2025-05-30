@@ -8,7 +8,7 @@
 4050、_russian_Путешествие на восток_Федорова Любовь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71d06f1cf4639446fc932978c820bf10

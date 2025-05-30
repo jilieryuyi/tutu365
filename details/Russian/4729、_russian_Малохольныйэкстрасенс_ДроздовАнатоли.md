@@ -8,7 +8,7 @@
 4729、_russian_Малохольный экстрасенс_Дроздов Анатолий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 216e341bd9d99eeefc195fe4fc1569aa

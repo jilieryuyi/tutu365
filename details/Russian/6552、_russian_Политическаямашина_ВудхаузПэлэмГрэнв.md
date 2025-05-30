@@ -8,7 +8,7 @@
 6552、_russian_Политическая машина_Вудхауз Пэлэм Грэнвилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f16a3bb172b9702dec5c83f471be4375

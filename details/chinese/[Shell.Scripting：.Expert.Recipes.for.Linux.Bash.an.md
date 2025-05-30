@@ -8,7 +8,7 @@
 [Shell.Scripting：.Expert.Recipes.for.Linux.Bash.and.more.(2011.8)].Steve.Parker.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 438236a77674f3e1444c4bbfb207bb1d

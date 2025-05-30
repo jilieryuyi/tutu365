@@ -8,7 +8,7 @@
 向前一步（全球热读“LEAN IN”简体中文版 杨澜、张欣、李开复、王石、徐小平等联袂推荐！）_（美）谢丽尔•桑德伯格 [（美）谢丽尔•桑德伯格]__5542678_1e7ab19f41f03c2de9570238fabb1099.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e7ab19f41f03c2de9570238fabb1099

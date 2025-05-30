@@ -8,7 +8,7 @@
 274、枪炮、病菌与钢铁：人类社会的命运_贾雷德·戴蒙德, Jared Diamond_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4f2e3251a2975049aa5a483b12f8f9f0

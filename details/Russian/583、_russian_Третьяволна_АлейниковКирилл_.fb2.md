@@ -8,7 +8,7 @@
 583、_russian_Третья волна_Алейников Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f81b3f42a7e9a248385e58cdffbfb20e

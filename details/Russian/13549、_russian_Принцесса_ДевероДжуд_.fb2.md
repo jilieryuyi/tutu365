@@ -8,7 +8,7 @@
 13549、_russian_Принцесса_Деверо Джуд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e366286d11ca60a40266d0d0c9af25e

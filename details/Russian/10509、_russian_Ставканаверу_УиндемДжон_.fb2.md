@@ -8,7 +8,7 @@
 10509、_russian_Ставка на веру_Уиндем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 654f5a74e1efeaa530e56cd819a8ada1

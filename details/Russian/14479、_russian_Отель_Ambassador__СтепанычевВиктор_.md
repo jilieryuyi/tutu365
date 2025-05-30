@@ -8,7 +8,7 @@
 14479、_russian_Отель _Ambassador__Степанычев Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 110cd1e45ec2533a521747197e8c447a

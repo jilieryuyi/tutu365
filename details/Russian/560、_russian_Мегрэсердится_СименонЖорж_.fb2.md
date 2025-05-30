@@ -8,7 +8,7 @@
 560、_russian_Мегрэ сердится_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a838b722937be3cf9207eda1bb3695d8

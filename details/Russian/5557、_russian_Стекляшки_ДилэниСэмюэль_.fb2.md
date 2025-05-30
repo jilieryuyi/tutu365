@@ -8,7 +8,7 @@
 5557、_russian_Стекляшки_Дилэни Сэмюэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81d83b2517d75bdeb76ba6e25b2c432f

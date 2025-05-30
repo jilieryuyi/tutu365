@@ -8,7 +8,7 @@
 2869、_russian_Путники в ночи_Титов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f034ab94f93ab508fac1667cafb7a495

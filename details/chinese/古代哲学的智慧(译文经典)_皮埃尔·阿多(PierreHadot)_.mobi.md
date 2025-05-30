@@ -8,7 +8,7 @@
 古代哲学的智慧 (译文经典)_皮埃尔·阿多(Pierre Hadot)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ca9f6a804057eda4d3dd79e8fdfe2cd8

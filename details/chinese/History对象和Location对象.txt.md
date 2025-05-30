@@ -8,7 +8,7 @@
 History对象和Location对象.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cd28c857d45079a696896d7c0a6a5859

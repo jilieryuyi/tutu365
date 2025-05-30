@@ -8,7 +8,7 @@
 3799、_russian_КРЕСТ И ЛИРА_Кобылинский Л. Л._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a608a3fcbbfc47ae9068a25b1468d65c

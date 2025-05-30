@@ -8,7 +8,7 @@
 6823、_russian_Опасный розыгрыш_Майклз Ферн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d4a3ae7706bcc800a320eb88ca92976

@@ -8,7 +8,7 @@
 2024、_russian_Соперник Цезаря_Алферова Марианна Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5740a6ccca6b4d6e8b9e77eebd11bb78

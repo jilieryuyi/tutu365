@@ -8,7 +8,7 @@
 7024、_russian_За светом идущий_Балязин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 608db778bfd682695563f1662fe91eee

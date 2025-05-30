@@ -8,7 +8,7 @@
 5656、_russian_Шаги за спиной_Стейга Миермилис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d96e6f85ef1a200c58539e6f406a74f

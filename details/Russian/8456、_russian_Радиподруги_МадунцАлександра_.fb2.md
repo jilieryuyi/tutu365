@@ -8,7 +8,7 @@
 8456、_russian_Ради подруги_Мадунц Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4df53d89c90774b25289f767f9f9d0ed

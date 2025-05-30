@@ -8,7 +8,7 @@
 10027、_russian_Удачное воскресенье_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c4c72b59b3d22726f3539ea61c4e6f9

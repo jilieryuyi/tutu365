@@ -8,7 +8,7 @@
 11564、_russian_Сердце Хаоса_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ca43fa602147d65f12b7feeedff7769

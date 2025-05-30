@@ -8,7 +8,7 @@
 11853、_russian_Глаз кота_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc47aca396f908914e964f98d0bec3e0

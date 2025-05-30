@@ -8,7 +8,7 @@
 Redis Cookbook.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0edaa981bdf3e68e35b85dff88820c30

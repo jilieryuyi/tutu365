@@ -8,7 +8,7 @@
 1397、_russian_Жертва_Маслюков Валентин Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2118d52b2a7920def9c031868676ee99

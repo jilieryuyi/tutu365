@@ -8,7 +8,7 @@
 12055、_russian_Девятая директива_Холл Адам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfbfa22e4ce49e083112b8f13b00d5f6

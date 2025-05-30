@@ -8,7 +8,7 @@
 241、超级转化率：如何让客户快速下单_陈勇, SoBooKs.cc [陈勇, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dfa1c7d4186dae60bbc238d88a7c7127

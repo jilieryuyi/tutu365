@@ -8,7 +8,7 @@
 13844、_russian_Лилия и серп_Балтрушайтис Юргис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9477b6f7387fa1b4d5b25d8b0a06cd86

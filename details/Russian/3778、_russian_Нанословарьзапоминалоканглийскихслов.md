@@ -8,7 +8,7 @@
 3778、_russian_Нанословарь запоминалок английских слов _The best of the first__Диборский Сергей, Мнемо Капитан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8081bf7c9fea913d48e5744aae5d2e7f

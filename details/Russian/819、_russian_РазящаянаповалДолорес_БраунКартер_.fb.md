@@ -8,7 +8,7 @@
 819、_russian_Разящая наповал Долорес_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44d637e3851d454fb6e7d8a7b0e37427

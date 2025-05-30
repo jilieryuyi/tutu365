@@ -8,7 +8,7 @@
 1488、_russian_Мост_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdaa3126c15154a37adf2bba7a976062

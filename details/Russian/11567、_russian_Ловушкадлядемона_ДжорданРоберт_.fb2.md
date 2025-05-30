@@ -8,7 +8,7 @@
 11567、_russian_Ловушка для демона_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5a5f6ebe5d6c18dd4cffc7947beaa88

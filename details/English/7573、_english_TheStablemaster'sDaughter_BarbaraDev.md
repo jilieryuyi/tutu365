@@ -8,7 +8,7 @@
 7573、_english_The Stablemaster's Daughter_Barbara Devlin_Scarsdale Publishing, Ltd.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8e18fc1181404d421dd5e70476dc71c8

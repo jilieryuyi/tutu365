@@ -8,7 +8,7 @@
 10022、_russian_Все что душе угодно_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51b79df12b9d0e212e23c1c4de4c5fa0

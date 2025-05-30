@@ -8,7 +8,7 @@
 4154、_russian_Клан двурогих_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98359301aff027b8e985aa6300f48cae

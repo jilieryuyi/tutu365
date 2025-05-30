@@ -8,7 +8,7 @@
 [Visual.C.网络高级编程].(.陈坚&陈伟).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 25102f94759b33d49c9352bfd6cf03da

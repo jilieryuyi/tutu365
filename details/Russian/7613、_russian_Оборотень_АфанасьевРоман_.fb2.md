@@ -8,7 +8,7 @@
 7613、_russian_Оборотень_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58f7ef78e3f02ee0d812a58d473b0b64

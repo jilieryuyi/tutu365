@@ -8,7 +8,7 @@
 HEAD_FIRST设计模式（中文版）.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 062e12a6a355d3226a7d5f4809db336a

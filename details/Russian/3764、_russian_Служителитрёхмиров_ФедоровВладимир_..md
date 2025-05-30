@@ -8,7 +8,7 @@
 3764、_russian_Служители трёх миров_Федоров Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3855dbc296e1537b746d776fe1301948

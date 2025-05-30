@@ -8,7 +8,7 @@
 2351、_russian_Маугли-94_Семёнов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8ed8eecc0fce6c79d3724ef863bda12

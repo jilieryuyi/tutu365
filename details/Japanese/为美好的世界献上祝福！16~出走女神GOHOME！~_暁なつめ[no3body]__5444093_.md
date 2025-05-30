@@ -8,7 +8,7 @@
 为美好的世界献上祝福！16 ~出走女神GO HOME！~_暁なつめ [no3body]__5444093_0dc223214855cf445fe3bbbf1a899be2.epub.epub
 
 ## 语言(language)
-Japanese
+japanese
 
 ## MD5
 0dc223214855cf445fe3bbbf1a899be2

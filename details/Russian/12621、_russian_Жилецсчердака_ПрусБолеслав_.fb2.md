@@ -8,7 +8,7 @@
 12621、_russian_Жилец с чердака_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd5b031de97e9e01a78aa7d61a83f950

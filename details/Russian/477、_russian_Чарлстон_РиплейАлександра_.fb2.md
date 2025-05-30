@@ -8,7 +8,7 @@
 477、_russian_Чарлстон_Риплей Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee8048ede696378ab8ff67cecbc4a9ac

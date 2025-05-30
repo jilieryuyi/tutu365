@@ -8,7 +8,7 @@
 10093、_russian_Проклятие Дерика_Дэвидсон Мэри Дженис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d96ca9421f3013b1c01ff99ffeed6c8e

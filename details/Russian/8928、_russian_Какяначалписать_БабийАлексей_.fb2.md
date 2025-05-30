@@ -8,7 +8,7 @@
 8928、_russian_Как я начал писать_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d26de15d4baaa2048bb31bd9d7d3420

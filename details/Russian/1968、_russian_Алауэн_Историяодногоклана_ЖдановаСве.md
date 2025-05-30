@@ -8,7 +8,7 @@
 1968、_russian_Алауэн_ История одного клана_Жданова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1beafd18c7b4260bd3816e5d31299c7c

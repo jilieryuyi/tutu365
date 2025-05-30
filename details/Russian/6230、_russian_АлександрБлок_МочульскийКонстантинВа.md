@@ -8,7 +8,7 @@
 6230、_russian_Александр Блок_Мочульский Константин Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7f4173dc6314d1a6c9f47c58aeb5b42

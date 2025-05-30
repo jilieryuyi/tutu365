@@ -8,7 +8,7 @@
 1143、危机经济学_ROUBINI_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f2d15b2b84eca4a1b2193f6cddbd2f9c

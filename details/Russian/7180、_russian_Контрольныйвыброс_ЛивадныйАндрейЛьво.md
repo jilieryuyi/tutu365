@@ -8,7 +8,7 @@
 7180、_russian_Контрольный выброс_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f4237e857a902499ba4b15f59371ba9

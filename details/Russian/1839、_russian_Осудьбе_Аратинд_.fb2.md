@@ -8,7 +8,7 @@
 1839、_russian_О судьбе_Аратинд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 539ea14e1a11b28696f13b3976892bc4

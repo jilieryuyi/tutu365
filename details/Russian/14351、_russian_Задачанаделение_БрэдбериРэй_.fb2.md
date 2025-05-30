@@ -8,7 +8,7 @@
 14351、_russian_Задача на деление_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50eddd4f53a9a34c6ea879105af98dc9

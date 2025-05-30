@@ -8,7 +8,7 @@
 2533、打造Facebook_亲历Facebook爆发的5年_王淮 & 祝文让_印刷工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 abe991007527d1f7b7634050a480d87a

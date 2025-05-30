@@ -8,7 +8,7 @@
 8277、_russian_Ночь в тайге_Арсеньев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64e595dd3a88c8a668d730b344dd182c

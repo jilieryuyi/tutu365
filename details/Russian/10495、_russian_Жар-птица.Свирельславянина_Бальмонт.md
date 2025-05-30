@@ -8,7 +8,7 @@
 10495、_russian_Жар-птица. Свирель славянина_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea7d30b51f429b9181b0599bbf2971c6

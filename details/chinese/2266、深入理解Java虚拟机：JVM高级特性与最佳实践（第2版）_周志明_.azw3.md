@@ -8,7 +8,7 @@
 2266、深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）_周志明_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5cfc177f6ec4ac99443714e4287af8b3

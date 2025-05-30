@@ -8,7 +8,7 @@
 huxiaoliang_SA09225454_homework5_testplan.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cb003b9c6db2e75e75a64019dffa8047

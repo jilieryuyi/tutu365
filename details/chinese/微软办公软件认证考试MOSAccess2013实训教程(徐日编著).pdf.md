@@ -8,7 +8,7 @@
 微软办公软件认证考试MOS Access 2013实训教程 (徐日编著).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2185cd92c12b1b15242fff085b7074a8

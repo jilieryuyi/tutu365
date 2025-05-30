@@ -8,7 +8,7 @@
 10061、_russian_Недотепа_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c92faee804feef1de0c304542fa9f56

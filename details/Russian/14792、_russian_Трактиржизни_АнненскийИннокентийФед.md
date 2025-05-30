@@ -8,7 +8,7 @@
 14792、_russian_Трактир жизни_Анненский Иннокентий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4aa16ba92f79652d67628cb036d91e57

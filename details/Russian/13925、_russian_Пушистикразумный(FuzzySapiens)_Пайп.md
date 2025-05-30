@@ -8,7 +8,7 @@
 13925、_russian_Пушистик разумный (Fuzzy Sapiens)_Пайпер Бим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c62701703aa66166ab996e2a91db263

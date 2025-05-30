@@ -8,7 +8,7 @@
 114、_russian_Кровь Владык - 1_ Из пепла___.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5756e4cad732167b7a1eab17ba6f0007

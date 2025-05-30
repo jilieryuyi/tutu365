@@ -8,7 +8,7 @@
 10590、_russian_Посмотри на побеждающего врага_Серёгин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec6f578d46cd9587f3c67cf2cc91eda5

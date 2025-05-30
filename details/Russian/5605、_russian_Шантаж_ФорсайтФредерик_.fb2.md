@@ -8,7 +8,7 @@
 5605、_russian_Шантаж_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ade944ebef345646d6a62dab7fa5cc7e

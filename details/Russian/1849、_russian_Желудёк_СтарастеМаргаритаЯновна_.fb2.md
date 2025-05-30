@@ -8,7 +8,7 @@
 1849、_russian_Желудёк_Старасте Маргарита Яновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f28e4cf11beac0888d29493e178970c9

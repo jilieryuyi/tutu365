@@ -8,7 +8,7 @@
 14866、_russian_Семь языков бога_Лири Тимоти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27c033647f161fe2355d0084120ffb38

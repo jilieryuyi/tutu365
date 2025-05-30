@@ -8,7 +8,7 @@
 6244、_russian_Братья не по крови_Царицын Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c3cad0ef70165f7278213ab968d4ce5

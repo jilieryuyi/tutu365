@@ -8,7 +8,7 @@
 6031、_russian_Из записных книжек и тетрадедй_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcc51e6b3b38a6bdc1fe4dffc40911c7

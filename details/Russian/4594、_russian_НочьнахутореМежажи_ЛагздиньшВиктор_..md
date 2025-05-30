@@ -8,7 +8,7 @@
 4594、_russian_Ночь на хуторе Межажи_Лагздиньш Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddb80c7d017890272d96e878f8346fa0

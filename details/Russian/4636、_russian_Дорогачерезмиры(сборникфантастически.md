@@ -8,7 +8,7 @@
 4636、_russian_Дорога через миры (сборник фантастических рассказов)__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ad233563f1ac4f09ef3eab353dcca50

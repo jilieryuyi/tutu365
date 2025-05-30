@@ -8,7 +8,7 @@
 14568、_russian_Сэм, это ты_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38f2b51be2df19b4ccf4f2263c53d0d5

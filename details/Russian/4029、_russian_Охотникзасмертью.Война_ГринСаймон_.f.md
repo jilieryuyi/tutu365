@@ -8,7 +8,7 @@
 4029、_russian_Охотник за смертью. Война_Грин Саймон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 945ccb0ce02c6255c2bc70b69382b2e2

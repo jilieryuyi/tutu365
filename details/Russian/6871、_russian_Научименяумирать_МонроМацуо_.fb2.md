@@ -8,7 +8,7 @@
 6871、_russian_Научи меня умирать_Монро Мацуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2eb5be8532434a4b5c6e43bd175073fb

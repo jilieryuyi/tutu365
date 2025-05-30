@@ -8,7 +8,7 @@
 8148、_russian_Полный стакан_Пронин Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6968b70b267cc286a16a49c804df1a03

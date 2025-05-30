@@ -8,7 +8,7 @@
 4547、_russian_Ветер с востока_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 615c8c5b5af8a52ce257bde1e1a59938

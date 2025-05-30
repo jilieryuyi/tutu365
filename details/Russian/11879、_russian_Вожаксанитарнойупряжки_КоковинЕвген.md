@@ -8,7 +8,7 @@
 11879、_russian_Вожак санитарной упряжки_Коковин Евгений Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd595836f6d63bc185fef115e65de745

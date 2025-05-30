@@ -8,7 +8,7 @@
 5869、_russian_Путь в Эдем_Гарлок Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7d7f258d025e4dd1a8a645707778e2d

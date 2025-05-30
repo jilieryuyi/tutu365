@@ -8,7 +8,7 @@
 1341、_russian_Молчание_Эндо Сюсаку_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1411ac7cc5c38b0fcafc716a65a33fde

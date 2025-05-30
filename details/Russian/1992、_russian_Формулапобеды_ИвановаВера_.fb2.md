@@ -8,7 +8,7 @@
 1992、_russian_Формула победы_Иванова Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5579350a1fd675698aa59deea95ecc3

@@ -8,7 +8,7 @@
 4718、_english_A Sinful Alliance_Amanda McCabe_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bd23c29c90e99404adf1b3d99cf3d2ac

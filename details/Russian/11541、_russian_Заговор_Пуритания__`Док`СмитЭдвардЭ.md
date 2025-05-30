@@ -8,7 +8,7 @@
 11541、_russian_Заговор _Пуритания__`Док` Смит Эдвард Элмер, Голдин Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2000cd0bd2b26cff69dd685d8ae61add

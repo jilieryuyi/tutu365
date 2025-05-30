@@ -8,7 +8,7 @@
 11018、_russian_Камень звезд_Бэрд Элисон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5eb269124b56682b3b170209f66e1c34

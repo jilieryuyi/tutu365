@@ -8,7 +8,7 @@
 2483、_russian_Неандертальский мальчик, или Большой поход_Мальмузи Лучано_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 680a5c6112b3cdfda11a30ee92a17fa0

@@ -8,7 +8,7 @@
 3234、_russian_Корректор. Книга первая_ Ничьи котята_Лотош Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b27fdec11648eca60b392c2769d3191c

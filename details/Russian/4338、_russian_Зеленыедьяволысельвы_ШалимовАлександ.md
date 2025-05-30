@@ -8,7 +8,7 @@
 4338、_russian_Зеленые дьяволы сельвы_Шалимов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57816dc4c95328517837d89ca42f79f4

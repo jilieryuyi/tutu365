@@ -8,7 +8,7 @@
 665、_russian_Записки всемогущего-2_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f44bd8bbe1b7ca282c28baa43c22ae2

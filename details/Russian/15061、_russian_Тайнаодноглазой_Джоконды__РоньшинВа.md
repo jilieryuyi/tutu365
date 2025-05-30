@@ -8,7 +8,7 @@
 15061、_russian_Тайна одноглазой _Джоконды__Роньшин Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34a7bba3db96f05408e186e5cbf3b3cf

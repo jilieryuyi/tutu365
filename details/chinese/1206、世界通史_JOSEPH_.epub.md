@@ -8,7 +8,7 @@
 1206、世界通史_JOSEPH_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 48cdc5cf9d110dcf1832eca55d5ca6c3

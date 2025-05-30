@@ -8,7 +8,7 @@
 4308、_english_Стихотворения разных лет_Сологуб Федор Кузьмич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90f118cd4b13ac01bac2b7bc28f6595e

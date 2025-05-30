@@ -8,7 +8,7 @@
 33、_russian_Рассказы_Поникаровская Алиса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cb875ac70b8efc8a07e80f60b840e6a

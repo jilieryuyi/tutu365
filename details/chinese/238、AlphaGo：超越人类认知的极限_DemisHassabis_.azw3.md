@@ -8,7 +8,7 @@
 238、AlphaGo：超越人类认知的极限_Demis Hassabis_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 643cd97c30e385212dbbdd0aa62748a3

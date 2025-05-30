@@ -8,7 +8,7 @@
 13314、_russian_Прекрасная блондинка_Росс Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76a26ebaf39e74122a871c4368f97454

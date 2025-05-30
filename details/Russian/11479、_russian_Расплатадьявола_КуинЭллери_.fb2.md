@@ -8,7 +8,7 @@
 11479、_russian_Расплата дьявола_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03378c508416f1bd4c86e8434a8e18d9

@@ -8,7 +8,7 @@
 2026、HTTP权威指南 (图灵程序设计丛书)_[美]David Gourley　Brian Totty　Marjorie Sayer　Sailu Reddy　Aushu Aggarwal_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7f248477a18f3b18b09b89f1846a35bf

@@ -8,7 +8,7 @@
 12350、_russian_Поединок_Зюскинд Патрик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca5a9db82baffa161a2a70b9bb59c2be

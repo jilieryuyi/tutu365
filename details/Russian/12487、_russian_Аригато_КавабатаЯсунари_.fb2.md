@@ -8,7 +8,7 @@
 12487、_russian_Аригато_Кавабата Ясунари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 faae580c705f61b97650c21b1913939e

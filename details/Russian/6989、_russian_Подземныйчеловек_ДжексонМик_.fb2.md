@@ -8,7 +8,7 @@
 6989、_russian_Подземный человек_Джексон Мик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f1614dec1aeeba802bcb9bda557f40a

@@ -8,7 +8,7 @@
 3298、_russian_Ослепительный оскал_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b8537d859c7c0f726fd13e26d2eaac6

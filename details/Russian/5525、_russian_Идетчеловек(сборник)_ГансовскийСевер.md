@@ -8,7 +8,7 @@
 5525、_russian_Идет человек (сборник)_Гансовский Север_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32a5ccb5882b065574a522f78a27fa8b

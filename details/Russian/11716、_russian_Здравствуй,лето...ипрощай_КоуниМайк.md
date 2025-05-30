@@ -8,7 +8,7 @@
 11716、_russian_Здравствуй, лето... и прощай_Коуни Майкл Грейтрекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cce3fe6a5c886b5afb4a67af51a23144

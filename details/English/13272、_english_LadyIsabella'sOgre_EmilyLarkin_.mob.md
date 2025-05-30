@@ -8,7 +8,7 @@
 13272、_english_Lady Isabella's Ogre_Emily Larkin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 82f5e059eb52613c2a2d5cd391c06180

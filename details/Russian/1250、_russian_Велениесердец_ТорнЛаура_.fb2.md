@@ -8,7 +8,7 @@
 1250、_russian_Веление сердец_Торн Лаура_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d63784d42c6b7f4381351db3bf3b02fc

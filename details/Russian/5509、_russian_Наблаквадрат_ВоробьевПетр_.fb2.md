@@ -8,7 +8,7 @@
 5509、_russian_Набла квадрат_Воробьев Петр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ad6c868659913dc9e16b3b3f1b9aa47

@@ -8,7 +8,7 @@
 1932、_russian_Сын Льва_Астахов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88232020b28f71d7910f9dff476fcdd9

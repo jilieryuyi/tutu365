@@ -8,7 +8,7 @@
 12595、_russian_Белый индеец_Портер Дональд Клэйтон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea259431390a02b8ecb26f749a6a84de

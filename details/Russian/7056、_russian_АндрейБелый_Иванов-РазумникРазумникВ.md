@@ -8,7 +8,7 @@
 7056、_russian_Андрей Белый_Иванов-Разумник Разумник Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 461c5c392cdfb0825282b774c6e9e154

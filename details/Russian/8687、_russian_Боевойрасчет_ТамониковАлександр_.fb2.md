@@ -8,7 +8,7 @@
 8687、_russian_Боевой расчет_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d45aefb21f8e96c584fc68f36c3677a7

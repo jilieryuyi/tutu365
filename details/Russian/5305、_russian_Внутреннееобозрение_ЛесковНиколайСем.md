@@ -8,7 +8,7 @@
 5305、_russian_Внутреннее обозрение_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27d73ae3effe2af9374960bdafc13228

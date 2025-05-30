@@ -8,7 +8,7 @@
 9088、_russian_Ричардсон_Елистратова А. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a72b35c8ff0872069a2452c29f5490e5

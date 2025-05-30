@@ -8,7 +8,7 @@
 7756、_english_A Captivating Lady's Love Storm_Bridget Barton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 234747b182c66d66d780eaaf353792b4

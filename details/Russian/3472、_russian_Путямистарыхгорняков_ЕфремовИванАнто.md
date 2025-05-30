@@ -8,7 +8,7 @@
 3472、_russian_Путями старых горняков_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab70d2b06a3c933a2d56634e0d12ca51

@@ -8,7 +8,7 @@
 2758、_russian_Воины Зоны_Бобл Алексей, Левицкий Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b1f7cb2977c60b3e5997b5cf6a8252b

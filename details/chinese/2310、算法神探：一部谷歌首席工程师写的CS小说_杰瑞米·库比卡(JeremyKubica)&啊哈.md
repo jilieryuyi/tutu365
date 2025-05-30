@@ -8,7 +8,7 @@
 2310、算法神探：一部谷歌首席工程师写的CS小说_杰瑞米·库比卡 (Jeremy Kubica) & 啊哈磊 & 李嘉浩_电子工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 13be30cad8b2c6cfe67971ea3c4c609c

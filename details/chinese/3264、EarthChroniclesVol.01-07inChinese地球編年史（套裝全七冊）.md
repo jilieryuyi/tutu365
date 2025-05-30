@@ -8,7 +8,7 @@
 3264、Earth Chronicles Vol.01-07 in Chinese 地球編年史（套裝全七冊）_Zecharia Sitchin（撒迦利亞·西琴）_江蘇鳳凰文藝出版社.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ac4259acbb441e58568d7b39ad193f5b

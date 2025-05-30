@@ -8,7 +8,7 @@
 2083、Perl语言入门(第五版)_5th Edition Learning Perl [Learning Perl, 5th Edition]_epub掌上书苑.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b66ff0d555cf193e15843d131bd376a1

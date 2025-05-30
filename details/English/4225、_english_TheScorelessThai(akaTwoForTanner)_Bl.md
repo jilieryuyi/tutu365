@@ -8,7 +8,7 @@
 4225、_english_The Scoreless Thai (aka Two For Tanner)_Block Lawrence_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1f02edba0e76441fa4798d33fee1dcb4

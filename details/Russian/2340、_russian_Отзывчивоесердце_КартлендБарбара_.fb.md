@@ -8,7 +8,7 @@
 2340、_russian_Отзывчивое сердце_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc4be9b2c4d06d45804a83b35aef7da2

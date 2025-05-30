@@ -8,7 +8,7 @@
 11263、_polish_Fiasko_Lem Stanis_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 adcd832ac7fc03e569c3f89702f87575

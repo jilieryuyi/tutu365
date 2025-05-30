@@ -8,7 +8,7 @@
 1210、伯罗奔尼撒战争_KAGAN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a490e90bd8ea0b29bd756b74d179a8d3

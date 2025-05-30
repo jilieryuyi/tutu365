@@ -8,7 +8,7 @@
 2122、Swift开发指南（修订版）_关东升 赵志荣_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d34fe17dd3ff2cf22a812961678bd7b6

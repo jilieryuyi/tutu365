@@ -8,7 +8,7 @@
 11937、_russian_Свиток благоволения_Тренейл Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a7900bec6636aba3e8da6898cd2238b

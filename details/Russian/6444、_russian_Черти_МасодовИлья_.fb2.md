@@ -8,7 +8,7 @@
 6444、_russian_Черти_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd358d62c00e669a44de1330e5c01154

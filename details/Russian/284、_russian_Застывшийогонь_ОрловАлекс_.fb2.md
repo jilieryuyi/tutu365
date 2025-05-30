@@ -8,7 +8,7 @@
 284、_russian_Застывший огонь_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4e2fc2519f9226871664f162aa019e2

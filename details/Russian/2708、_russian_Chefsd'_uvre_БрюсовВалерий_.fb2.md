@@ -8,7 +8,7 @@
 2708、_russian_Chefs d'_uvre_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2dbea8592f7b9806d37ad39fdaee5cd5

@@ -8,7 +8,7 @@
 6412、_russian_Каменное сердце_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8960982e5f4c813aebf2f4812d7d6721

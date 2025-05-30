@@ -8,7 +8,7 @@
 5779、_russian_Мужик с топором_Кочергин Андрей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5dcfd46c43b2ac22b9e33ea0ea1e6155

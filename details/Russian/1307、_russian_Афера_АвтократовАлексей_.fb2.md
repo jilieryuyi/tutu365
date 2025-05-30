@@ -8,7 +8,7 @@
 1307、_russian_Афера_Автократов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75a85e4c72e109f027390a033f81909b

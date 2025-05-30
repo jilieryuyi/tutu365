@@ -8,7 +8,7 @@
 8283、_russian_Пленники астероида (с иллюстрациями)_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e084a51493ad280b8ff09d667768db7

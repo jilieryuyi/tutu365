@@ -8,7 +8,7 @@
 10743、_russian_Бриллиантовая пряжка_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4051c85f84021ba20b2cdf3e5d6bc87

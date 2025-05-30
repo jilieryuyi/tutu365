@@ -8,7 +8,7 @@
 4442、_russian_Поход_Шмидт Афонсо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7ce5821a60eb7176247acc5274f4d0e

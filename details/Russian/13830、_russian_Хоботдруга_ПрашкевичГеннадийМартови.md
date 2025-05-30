@@ -8,7 +8,7 @@
 13830、_russian_Хобот друга_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be50268e5abcb39f10f490c1716aeae1

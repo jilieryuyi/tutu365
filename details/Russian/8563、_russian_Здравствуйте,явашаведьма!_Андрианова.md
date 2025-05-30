@@ -8,7 +8,7 @@
 8563、_russian_Здравствуйте, я ваша ведьма!_Андрианова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 677f4a1150e545ee0885bd7a960e244e

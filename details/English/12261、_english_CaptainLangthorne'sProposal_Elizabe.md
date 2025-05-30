@@ -8,7 +8,7 @@
 12261、_english_Captain Langthorne's Proposal_Elizabeth Beacon_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5e455caafddb227819b4ae23d347908b

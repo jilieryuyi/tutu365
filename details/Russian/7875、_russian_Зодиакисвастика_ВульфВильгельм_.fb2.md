@@ -8,7 +8,7 @@
 7875、_russian_Зодиак и свастика_Вульф Вильгельм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c86df413607c7925f7d619dd74ede7ec

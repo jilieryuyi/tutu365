@@ -8,7 +8,7 @@
 14909、_russian_Женская гордость_Рид Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2475249d3baaa7aabed2ecd70fc2191c

@@ -8,7 +8,7 @@
 2030、_russian_Алёнкины дорожки_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b971002647a77e6cf36eec2336f01606

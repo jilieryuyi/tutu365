@@ -8,7 +8,7 @@
 11137、_russian_Исправительная тюрьма_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a8e7a463bb0af09a59a50a010a4a1db

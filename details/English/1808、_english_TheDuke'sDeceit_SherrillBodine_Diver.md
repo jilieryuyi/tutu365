@@ -8,7 +8,7 @@
 1808、_english_The Duke's Deceit_Sherrill Bodine_Diversion Books.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bd3a5f3988996823fee2fd1742409ffd

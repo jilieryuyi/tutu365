@@ -8,7 +8,7 @@
 14694、_russian_Вторая жена_Марлитт Евгения_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d9c4c2b5a32e2210a6b4a354a392505

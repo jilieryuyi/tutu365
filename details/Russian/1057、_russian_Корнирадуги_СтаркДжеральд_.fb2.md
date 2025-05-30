@@ -8,7 +8,7 @@
 1057、_russian_Корни радуги_Старк Джеральд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c88b0bb387b96192fdac1bb3213d46e

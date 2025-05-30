@@ -8,7 +8,7 @@
 5483、_russian_Несущий свободу_Поль Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce3c67498e41f8ff8e11262e4b1c2d5e

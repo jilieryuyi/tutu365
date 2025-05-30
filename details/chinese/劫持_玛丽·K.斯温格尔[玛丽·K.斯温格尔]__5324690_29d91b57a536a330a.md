@@ -8,7 +8,7 @@
 劫持_玛丽·K. 斯温格尔 [玛丽·K. 斯温格尔]__5324690_29d91b57a536a330abcd56cdcd2be3a5.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 29d91b57a536a330abcd56cdcd2be3a5

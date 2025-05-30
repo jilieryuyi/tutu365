@@ -8,7 +8,7 @@
 1578、_russian_Специалист_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb03313bce265b851123cf8d215b8a0d

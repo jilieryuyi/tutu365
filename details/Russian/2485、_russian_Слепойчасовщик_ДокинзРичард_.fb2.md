@@ -8,7 +8,7 @@
 2485、_russian_Слепой часовщик_Докинз Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af1edc9662eab646398f1aade443d6ec

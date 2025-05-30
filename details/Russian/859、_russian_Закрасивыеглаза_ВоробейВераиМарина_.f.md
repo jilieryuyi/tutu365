@@ -8,7 +8,7 @@
 859、_russian_За красивые глаза_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28c00fa116720103fb95332b1eb182ee

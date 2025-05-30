@@ -8,7 +8,7 @@
 1603、_russian_Цитаты И.В. Сталина_В. Кувшинов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11146df26ad442b3e534085a5e294fad

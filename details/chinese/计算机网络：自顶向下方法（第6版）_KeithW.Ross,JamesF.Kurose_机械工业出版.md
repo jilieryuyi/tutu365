@@ -8,7 +8,7 @@
 计算机网络：自顶向下方法（第6版）_Keith W.Ross,James F.Kurose_机械工业出版社_5442418_ea4bfbde0571819bfebff29a073aca92.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ea4bfbde0571819bfebff29a073aca92

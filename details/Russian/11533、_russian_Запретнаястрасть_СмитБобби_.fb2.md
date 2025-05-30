@@ -8,7 +8,7 @@
 11533、_russian_Запретная страсть_Смит Бобби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9710ae299fa294a4f58fccd93db304c

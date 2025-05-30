@@ -8,7 +8,7 @@
 950、_russian_Побасенки_Арреола Хуан Хосе_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd032afcaef1561c5625e8c8b8ee4be4

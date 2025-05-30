@@ -8,7 +8,7 @@
 13221、_russian_Непорядок и раннее горе_Манн Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24f694131ef7d15d1929c6b4d9a8a8ed

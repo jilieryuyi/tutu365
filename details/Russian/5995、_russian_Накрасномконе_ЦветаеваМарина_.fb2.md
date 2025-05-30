@@ -8,7 +8,7 @@
 5995、_russian_На красном коне_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d2113faac558729d352bd2a21f0ad31

@@ -8,7 +8,7 @@
 57、_russian_Обретенный рай_Бейкер Джилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbbde82da1b97c61403a2ce2c6cf594e

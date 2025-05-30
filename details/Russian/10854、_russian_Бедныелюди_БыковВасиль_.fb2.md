@@ -8,7 +8,7 @@
 10854、_russian_Бедные люди_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f14663922954d04fa21c10ae625abce4

@@ -8,7 +8,7 @@
 13178、_russian_Дождь в чужом городе_Гранин Даниил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 058d489cc9f3e8a272ef0e2856eb1a6e

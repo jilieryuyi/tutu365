@@ -8,7 +8,7 @@
 5205、_russian_ГЮРО_Вестли Анне-Катрине_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96364095efcd531f54e51c5f99c4b93f

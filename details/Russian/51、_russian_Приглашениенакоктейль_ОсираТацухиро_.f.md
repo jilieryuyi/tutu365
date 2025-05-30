@@ -8,7 +8,7 @@
 51、_russian_Приглашение на коктейль_Осира Тацухиро_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2f816ae1d294cfb33373fa2bad03a80

@@ -8,7 +8,7 @@
 1278、质量免费 (湛庐文化_财富汇)_菲利浦_克劳士比_ZHLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ba3e8009001f63e08c52f68597fc38fe

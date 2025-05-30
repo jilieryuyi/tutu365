@@ -8,7 +8,7 @@
 12289、_russian_Повесть временных лет_Летописец Нестор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9dab297bb07787c74bfc1c6697285ae9

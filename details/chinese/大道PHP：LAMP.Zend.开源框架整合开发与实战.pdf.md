@@ -8,7 +8,7 @@
 大道PHP：LAMP.Zend.开源框架整合开发与实战.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ffb68197a4af138289fc3bc18b216a85

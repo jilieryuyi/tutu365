@@ -8,7 +8,7 @@
 6117、_english_The Third Option_Flynn Vince_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c6d2e1c558001bc86a8132b70e587111

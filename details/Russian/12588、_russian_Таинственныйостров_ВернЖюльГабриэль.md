@@ -8,7 +8,7 @@
 12588、_russian_Таинственный остров_Верн Жюль Габриэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8a610e24159f41f31131e7bf6c8f2dc

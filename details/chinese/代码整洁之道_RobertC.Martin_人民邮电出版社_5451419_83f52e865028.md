@@ -8,7 +8,7 @@
 代码整洁之道_Robert C. Martin_人民邮电出版社_5451419_83f52e865028d05001d437618938c186.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 83f52e865028d05001d437618938c186

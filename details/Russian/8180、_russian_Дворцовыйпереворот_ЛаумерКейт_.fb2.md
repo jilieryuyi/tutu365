@@ -8,7 +8,7 @@
 8180、_russian_Дворцовый переворот_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c904a76436df8f6a2b0fb356e63601b

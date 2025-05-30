@@ -8,7 +8,7 @@
 14951、_russian_Лилия и Леопард_Виггз Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72b72269701aab7077b517d1818f550a

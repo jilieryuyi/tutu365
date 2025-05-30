@@ -8,7 +8,7 @@
 12904、_russian_Брат мой..._Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 568e995719398944027a1c521ee1a7b9

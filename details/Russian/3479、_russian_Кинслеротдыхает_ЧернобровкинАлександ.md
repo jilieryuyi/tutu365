@@ -8,7 +8,7 @@
 3479、_russian_Кинслер отдыхает_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9436bf944cf67572aac87e987bdd673

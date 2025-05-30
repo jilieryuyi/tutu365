@@ -8,7 +8,7 @@
 jquary_API.CHM.chm
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c9485c9e65c91582ea544a7c02a0ec8b

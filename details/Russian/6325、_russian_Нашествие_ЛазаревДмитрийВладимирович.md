@@ -8,7 +8,7 @@
 6325、_russian_Нашествие_Лазарев Дмитрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8923ec9f98682d6e042707d9368a5b60

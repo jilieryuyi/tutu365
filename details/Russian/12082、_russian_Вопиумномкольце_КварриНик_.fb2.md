@@ -8,7 +8,7 @@
 12082、_russian_В опиумном кольце_Кварри Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db4b979f18a8968eb3212b46270f6031

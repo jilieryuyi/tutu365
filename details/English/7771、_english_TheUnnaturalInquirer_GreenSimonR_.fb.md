@@ -8,7 +8,7 @@
 7771、_english_The Unnatural Inquirer_Green Simon R_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6b01201cf9d197ea6b53aa3bb8079d0c

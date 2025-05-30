@@ -8,7 +8,7 @@
 8920、_russian_Только не завтра_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d89b5b32cb3c4e36366e2f3edb9e0e18

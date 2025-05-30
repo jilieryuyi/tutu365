@@ -8,7 +8,7 @@
 1174、失控：机器、社会与经济的新生物学_凯文·凯利（KevinKelly）_新星出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 650068e921f162c1a49da467b1d30dcd

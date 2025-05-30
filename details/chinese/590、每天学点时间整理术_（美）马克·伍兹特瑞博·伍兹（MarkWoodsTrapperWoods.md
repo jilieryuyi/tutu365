@@ -8,7 +8,7 @@
 590、每天学点时间整理术_（美）马克·伍兹 特瑞博·伍兹（Mark Woods Trapper Woods）_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2fa75e3572741e354e791d819c8fe440

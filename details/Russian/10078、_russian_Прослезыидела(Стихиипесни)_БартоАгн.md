@@ -8,7 +8,7 @@
 10078、_russian_Про слезы и дела (Стихи и песни)_Барто Агния Львовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bb7b41d9af0ab0bc7fc7f9498b4ab53

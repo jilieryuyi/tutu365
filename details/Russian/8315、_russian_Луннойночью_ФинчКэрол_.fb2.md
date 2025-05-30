@@ -8,7 +8,7 @@
 8315、_russian_Лунной ночью_Финч Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72cc6a60f5adb1f535b972e4c8bda9e2

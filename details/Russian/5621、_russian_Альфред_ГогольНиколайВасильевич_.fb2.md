@@ -8,7 +8,7 @@
 5621、_russian_Альфред_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51d082ad855d57d2dabdef52143f6433

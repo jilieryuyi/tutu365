@@ -8,7 +8,7 @@
 12835、_russian_Задержанное письмо_Ритчи Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b032d4af48110ff8b2fa52c693d2184e

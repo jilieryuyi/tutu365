@@ -8,7 +8,7 @@
 13728、_russian_Боги Бэл-Сагота_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 371fe2484ecd746c46a14f3f56ee9e4c

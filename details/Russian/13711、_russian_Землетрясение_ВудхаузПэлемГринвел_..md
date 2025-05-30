@@ -8,7 +8,7 @@
 13711、_russian_Землетрясение_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5523abf3d2531aa9a0f54b61d8e67fa5

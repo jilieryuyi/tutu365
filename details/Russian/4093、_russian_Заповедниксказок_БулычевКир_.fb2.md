@@ -8,7 +8,7 @@
 4093、_russian_Заповедник сказок_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc4ae1197df9a15528faab653dc43d3a

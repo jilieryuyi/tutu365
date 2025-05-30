@@ -8,7 +8,7 @@
 10687、_russian_Кровь богов_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8072ec11314af84bbb6e58f6412b502f

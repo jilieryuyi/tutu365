@@ -8,7 +8,7 @@
 3634、_russian_Том 2. Рассказы 1909-1915_Грин Александр Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2e1baeab66a79a5fe6c8aa932fea2c8

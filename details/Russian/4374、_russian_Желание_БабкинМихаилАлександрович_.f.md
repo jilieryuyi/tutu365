@@ -8,7 +8,7 @@
 4374、_russian_Желание_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a4b1b1f8595168935b68eaa5badd11f

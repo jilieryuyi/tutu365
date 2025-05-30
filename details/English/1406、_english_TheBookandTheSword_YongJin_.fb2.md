@@ -8,7 +8,7 @@
 1406、_english_The Book and The Sword_Yong Jin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2a6deec2d46e09dcc3a612cd2e9b8bf7

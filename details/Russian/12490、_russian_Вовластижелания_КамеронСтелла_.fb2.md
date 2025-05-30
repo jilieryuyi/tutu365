@@ -8,7 +8,7 @@
 12490、_russian_Во власти желания_Камерон Стелла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85721b23b5c74ddcdf6214e86fbb5483

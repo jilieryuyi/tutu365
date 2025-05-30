@@ -8,7 +8,7 @@
 11118、_russian_Отступник_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1838f3b22443e6e7a911f64c2bb2a581

@@ -8,7 +8,7 @@
 2088、Python编程快速上手 让繁琐工作自动化_[美] Al Sweigart  斯维加特_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2675c3aef5169e9b1872c9f77742d58b

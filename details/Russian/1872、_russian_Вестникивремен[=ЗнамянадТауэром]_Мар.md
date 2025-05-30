@@ -8,7 +8,7 @@
 1872、_russian_Вестники времен [= Знамя над Тауэром]_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46107e04e72909be48655c1deab85bc4

@@ -8,7 +8,7 @@
 11152、_russian_Безнравственная женщина_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f93335586cae96e6c5c0545ee5c38a7e

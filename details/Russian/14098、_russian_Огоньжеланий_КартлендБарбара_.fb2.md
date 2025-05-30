@@ -8,7 +8,7 @@
 14098、_russian_Огонь желаний_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf0caa5b0ff8c6421d0c73286143b81b

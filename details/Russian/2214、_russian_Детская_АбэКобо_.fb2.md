@@ -8,7 +8,7 @@
 2214、_russian_Детская_Абэ Кобо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 450c4e15de566df33425d92d5f9e4a1a

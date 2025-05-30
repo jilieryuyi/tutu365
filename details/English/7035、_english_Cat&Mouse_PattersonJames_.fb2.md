@@ -8,7 +8,7 @@
 7035、_english_Cat & Mouse_Patterson James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c3d516a7b4664e9adbdb54e177ea0451

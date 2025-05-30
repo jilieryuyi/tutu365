@@ -8,7 +8,7 @@
 10400、_russian_ОГНИ НА РАВНИНЕ_ООКА СЁХЭЙ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f62d0d0f743ca667fd70079002fe8cf1

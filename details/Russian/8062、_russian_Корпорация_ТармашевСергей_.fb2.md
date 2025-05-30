@@ -8,7 +8,7 @@
 8062、_russian_Корпорация_Тармашев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56d7f2cb4fffbb4df4c9157a1f795be4

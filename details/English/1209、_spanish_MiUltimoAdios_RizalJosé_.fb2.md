@@ -8,7 +8,7 @@
 1209、_spanish_Mi Ultimo Adios_Rizal José_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d02ab5482393f931946bb16be978951b

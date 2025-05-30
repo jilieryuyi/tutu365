@@ -8,7 +8,7 @@
 NO GAME NO LIFE BD VOL.05 特典小説_榎宮祐 [Yonjar]__5444065_24da9f8ee0882bd8c91ac1558cc4f51b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 24da9f8ee0882bd8c91ac1558cc4f51b

@@ -8,7 +8,7 @@
 4697、_russian_Стихи и сказки_Чуковский Корней Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb74d15fd43d3cd5d126e9a6befceb6d

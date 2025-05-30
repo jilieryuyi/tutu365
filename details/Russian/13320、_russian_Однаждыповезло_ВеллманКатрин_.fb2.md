@@ -8,7 +8,7 @@
 13320、_russian_Однажды повезло_Веллман Катрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83720554bf2d62fc794c181d39ec7e7d

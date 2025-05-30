@@ -8,7 +8,7 @@
 7697、_russian_Рождённая змеёй_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 821f5300e7da5247ffdabf7c85204b42

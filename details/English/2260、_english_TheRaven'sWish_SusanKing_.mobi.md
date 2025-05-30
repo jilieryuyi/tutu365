@@ -8,7 +8,7 @@
 2260、_english_The Raven's Wish_Susan King_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 341164d1dcd6b91458aec3832823ca8f

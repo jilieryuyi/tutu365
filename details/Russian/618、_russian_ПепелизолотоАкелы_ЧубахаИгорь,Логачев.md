@@ -8,7 +8,7 @@
 618、_russian_Пепел и золото Акелы_Чубаха Игорь, Логачев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c339d7899322d7d13c3f710f99fb30c

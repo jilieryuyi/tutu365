@@ -8,7 +8,7 @@
 1740、_russian_Рождественская быль_Делакорт Шонна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a59c588c6d69e9515fba485839fa912

@@ -8,7 +8,7 @@
 15806、_english_A Duke's Revenge_Karen Sommers_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f95bd6915cc584b21023e62388c5ada3

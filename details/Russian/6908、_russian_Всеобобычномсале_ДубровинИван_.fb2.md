@@ -8,7 +8,7 @@
 6908、_russian_Все об обычном сале_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c9bb31f0d1ea2619cf2022d5d2d13f2

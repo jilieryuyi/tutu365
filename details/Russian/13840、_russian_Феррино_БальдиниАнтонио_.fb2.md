@@ -8,7 +8,7 @@
 13840、_russian_Феррино_Бальдини Антонио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 371d23e2247a1691ce1512d96c411623

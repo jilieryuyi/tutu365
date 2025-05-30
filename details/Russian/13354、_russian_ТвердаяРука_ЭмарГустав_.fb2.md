@@ -8,7 +8,7 @@
 13354、_russian_Твердая Рука_Эмар Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa3bdd4a695261fd69233c4da743d446

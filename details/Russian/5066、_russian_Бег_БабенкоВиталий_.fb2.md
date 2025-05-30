@@ -8,7 +8,7 @@
 5066、_russian_Бег_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f59a746546b8f84d0eeda8d134b8ed1

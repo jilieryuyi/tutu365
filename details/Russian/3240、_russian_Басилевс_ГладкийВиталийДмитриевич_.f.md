@@ -8,7 +8,7 @@
 3240、_russian_Басилевс_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fffca1173f08778a39af01f482c3188

@@ -8,7 +8,7 @@
 8615、_russian_Нечто_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3cfec7dcb6277ef5089fbc5dd4525fa3

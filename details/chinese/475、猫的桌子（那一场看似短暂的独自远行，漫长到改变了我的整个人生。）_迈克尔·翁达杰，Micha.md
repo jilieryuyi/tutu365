@@ -8,7 +8,7 @@
 475、猫的桌子（那一场看似短暂的独自远行，漫长到改变了我的整个人生。）_迈克尔·翁达杰，Michael Ondaatje_上海文艺出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0fc087a35dfef08402a990bdbbda9e92

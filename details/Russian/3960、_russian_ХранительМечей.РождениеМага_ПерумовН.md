@@ -8,7 +8,7 @@
 3960、_russian_Хранитель Мечей. Рождение Мага_Перумов Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb3dfdc5fda49b9cc0e05d3d71568f80

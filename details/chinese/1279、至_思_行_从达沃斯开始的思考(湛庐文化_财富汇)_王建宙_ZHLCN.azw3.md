@@ -8,7 +8,7 @@
 1279、至_思_行_从达沃斯开始的思考 (湛庐文化_财富汇)_王建宙_ZHLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b43bfeba890a34df422d436c2000e5d5

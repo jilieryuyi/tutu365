@@ -8,7 +8,7 @@
 Programming+Ruby中文版++（第二版）.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ea430c6dbd942ea71e885119a5b999fb

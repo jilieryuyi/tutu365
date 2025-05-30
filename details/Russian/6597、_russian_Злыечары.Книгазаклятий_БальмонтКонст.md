@@ -8,7 +8,7 @@
 6597、_russian_Злые чары. Книга заклятий_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53622874783ed33dc283baf1af69b80c

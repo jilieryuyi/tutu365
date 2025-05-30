@@ -8,7 +8,7 @@
 5465、_ukrainian_Геродот. _стор_я в дев'яти книгах. Книга __Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b7174a324e78ebe488a3edb8653b699

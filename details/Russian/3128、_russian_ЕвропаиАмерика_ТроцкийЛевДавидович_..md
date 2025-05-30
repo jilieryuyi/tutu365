@@ -8,7 +8,7 @@
 3128、_russian_Европа и Америка_Троцкий Лев Давидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f857f8c08797e6aa285d7747f34ef0cc

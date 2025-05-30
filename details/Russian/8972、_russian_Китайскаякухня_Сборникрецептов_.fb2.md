@@ -8,7 +8,7 @@
 8972、_russian_Китайская кухня_Сборник рецептов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2de910bc9f9569165fa75dd6d2d9027

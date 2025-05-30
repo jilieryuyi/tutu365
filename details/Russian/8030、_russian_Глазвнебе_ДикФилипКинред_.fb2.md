@@ -8,7 +8,7 @@
 8030、_russian_Глаз в небе_Дик Филип Кинред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6358afa08955c04736b160bce782ba8e

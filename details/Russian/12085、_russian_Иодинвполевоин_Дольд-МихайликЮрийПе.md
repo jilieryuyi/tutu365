@@ -8,7 +8,7 @@
 12085、_russian_И один в поле воин_Дольд-Михайлик Юрий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0365a4edf32995494b543d7121eccbe

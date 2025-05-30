@@ -8,7 +8,7 @@
 4710、_russian_История человечества_Шепард Люциус_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0a2487e109c14ecb3eea067c4922f52

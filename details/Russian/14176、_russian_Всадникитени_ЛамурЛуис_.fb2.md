@@ -8,7 +8,7 @@
 14176、_russian_Всадники тени_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01202485e40fbc1b7b3aaec87be9890c

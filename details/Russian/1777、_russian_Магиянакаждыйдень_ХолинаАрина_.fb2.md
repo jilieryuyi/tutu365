@@ -8,7 +8,7 @@
 1777、_russian_Магия на каждый день_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af7bdc069eb546519eb10990a9c2c25d

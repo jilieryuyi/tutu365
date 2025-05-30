@@ -8,7 +8,7 @@
 12319、_russian_Средневековый роман_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9a202d83f1b23eb31fe1cbc2850ceee

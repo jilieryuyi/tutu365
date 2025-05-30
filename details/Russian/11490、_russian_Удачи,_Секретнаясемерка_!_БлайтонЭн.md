@@ -8,7 +8,7 @@
 11490、_russian_Удачи, _Секретная семерка_!_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 903fedc533eb80ec24b8f275119199cf

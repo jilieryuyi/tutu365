@@ -8,7 +8,7 @@
 3967、_russian_Ричард Длинные Руки – маркграф_Орловский Гай Юлий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93dbe9dd7ef5db4c397d1ef3ca41a398

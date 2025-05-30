@@ -8,7 +8,7 @@
 the compact font format specification.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 88ae3292ddc7402f4e9436ebd32982e9

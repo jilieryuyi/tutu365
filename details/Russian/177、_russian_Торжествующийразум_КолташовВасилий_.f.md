@@ -8,7 +8,7 @@
 177、_russian_Торжествующий разум_Колташов Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2651b41b4a05c52a1c1868177cc2a8ca

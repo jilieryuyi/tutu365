@@ -8,7 +8,7 @@
 651、_russian_УЛЫБКА ДЖУГДЖУРА_КЛИПЕЛЬ ВЛАДИМИР ИВАНОВИЧ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c41611e1ec13ebbb5007dbec9cd7cd21

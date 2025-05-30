@@ -8,7 +8,7 @@
 8528、_russian_Мечта цвета фламинго_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0edc3b3cee02b53d9b8b2ce6812730b5

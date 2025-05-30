@@ -8,7 +8,7 @@
 11916、_russian_Любовная магия_Клэптон Памела_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b294909216fb881ca9e4272bc1b90028

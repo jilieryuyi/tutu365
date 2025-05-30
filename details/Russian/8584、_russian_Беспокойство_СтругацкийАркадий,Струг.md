@@ -8,7 +8,7 @@
 8584、_russian_Беспокойство_Стругацкий Аркадий, Стругацкий Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 660cc58f124b3b71fc5c712c7991ff48

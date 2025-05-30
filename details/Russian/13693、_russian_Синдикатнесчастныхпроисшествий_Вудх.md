@@ -8,7 +8,7 @@
 13693、_russian_Синдикат несчастных происшествий_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b570f56269ada3ee1d2447d59a2f21e

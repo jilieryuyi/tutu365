@@ -8,7 +8,7 @@
 4186、_russian_Фотограф.Цикл рассказов_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c730148f4b40a92930af87d34e8f9bd8

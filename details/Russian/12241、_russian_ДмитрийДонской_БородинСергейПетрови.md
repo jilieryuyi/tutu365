@@ -8,7 +8,7 @@
 12241、_russian_Дмитрий Донской_Бородин Сергей Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b09ce3d6257d56385acb9b0bdd6253cc

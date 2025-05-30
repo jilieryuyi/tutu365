@@ -8,7 +8,7 @@
 5061、_russian_Роковая женщина_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c75d9c72a6033bdc1dd0d297a775404

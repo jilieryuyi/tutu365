@@ -8,7 +8,7 @@
 7504、_russian_Гегель за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73ff77b4269607d708ca99e638f1a5ae

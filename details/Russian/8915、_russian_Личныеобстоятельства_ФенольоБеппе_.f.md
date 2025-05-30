@@ -8,7 +8,7 @@
 8915、_russian_Личные обстоятельства_Фенольо Беппе_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 783c19b2294798e5f6309d74edcc07d6

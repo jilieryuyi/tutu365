@@ -8,7 +8,7 @@
 14190、_russian_Гордое сердце_Лэйтон Эдит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1c34c94901822fe9ed8d69532006004

@@ -8,7 +8,7 @@
 1495、_russian_Белый лес_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fa27659725de0745979c56ea6f7e088

@@ -8,7 +8,7 @@
 14737、_russian_Южная звезда_Верн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3af4abdb41038d0c86a15a7fb1bef1fb

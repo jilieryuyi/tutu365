@@ -8,7 +8,7 @@
 8914、_russian_Судьба_Макинтош Фиона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a0b6277101aeebb0cab98ccd7726f6a

@@ -8,7 +8,7 @@
 11377、_russian_Воля (Беглые воротились)_Данилевский Григорий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4db6258ab1f068a9a698e3b184206ccf

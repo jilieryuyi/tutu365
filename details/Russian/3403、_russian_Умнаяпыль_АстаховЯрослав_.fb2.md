@@ -8,7 +8,7 @@
 3403、_russian_Умная пыль_Астахов Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b2568a7a758ae0f3eecdc5bcafd5de9

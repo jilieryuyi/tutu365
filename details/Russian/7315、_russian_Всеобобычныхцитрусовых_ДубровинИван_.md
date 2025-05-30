@@ -8,7 +8,7 @@
 7315、_russian_Все об обычных цитрусовых_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83032556d5af013bb7c0d6a16bbe31e3

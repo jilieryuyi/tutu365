@@ -8,7 +8,7 @@
 14208、_russian_Всё хорошо, или Одна беда — собака ваша сдохла_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d199e9ec4e566cdc2b6719c694d2336c

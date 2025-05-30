@@ -8,7 +8,7 @@
 115、第四次管理革命_SoBooKs.cc & 曹仰锋_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 658bf11a0d4fccd1649ef57303730da8

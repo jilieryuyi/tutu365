@@ -8,7 +8,7 @@
 1954、《数据库工程师》2015初春刊：下一站，HANA …_TechTarget中国_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 11a212f44bbe5cadacdf75bd29149e6d

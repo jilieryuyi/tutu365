@@ -8,7 +8,7 @@
 10264、_russian_Война_Платонов Андрей Платонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aca0e647654f2780b15b76524d6d3a23

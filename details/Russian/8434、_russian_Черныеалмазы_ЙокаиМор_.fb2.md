@@ -8,7 +8,7 @@
 8434、_russian_Черные алмазы_Йокаи Мор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9ba99af881c3b6551c9c67cd371bd1d

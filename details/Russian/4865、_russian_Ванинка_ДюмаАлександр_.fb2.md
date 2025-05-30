@@ -8,7 +8,7 @@
 4865、_russian_Ванинка_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76c92d633938afbb821c6f198c7e32b1

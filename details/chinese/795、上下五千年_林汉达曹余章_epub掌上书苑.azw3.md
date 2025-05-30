@@ -8,7 +8,7 @@
 795、上下五千年_林汉达 曹余章_epub掌上书苑.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 06e3811a6f2e4f15493a4704c0160399

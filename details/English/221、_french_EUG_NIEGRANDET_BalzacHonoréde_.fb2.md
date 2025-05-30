@@ -8,7 +8,7 @@
 221、_french_EUG_NIE GRANDET_Balzac Honoré de_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 59bdc285523fe530665bd45b41f53f8d

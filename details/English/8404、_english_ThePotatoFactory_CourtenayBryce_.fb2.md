@@ -8,7 +8,7 @@
 8404、_english_The Potato Factory_Courtenay Bryce_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a7d43d97fe0a72cea1c382728b03a391

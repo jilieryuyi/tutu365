@@ -8,7 +8,7 @@
 12132、_russian_Жемчужина_Стейнбек Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 feab6daa5f6dbb76e82a327e0e8ba51e

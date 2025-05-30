@@ -8,7 +8,7 @@
 2022、_english_The Duke's Shotgun Wedding_Stacy Reid [Reid, Stacy]_Entangled Publishing, LLC.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d47092e33ca134f5388b57fe6a14669b

@@ -8,7 +8,7 @@
 9034、_english_A Tempered Wind_Henry O._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 22e234f38b78a02ec6ae55696a58e897

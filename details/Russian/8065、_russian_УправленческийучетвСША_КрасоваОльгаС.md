@@ -8,7 +8,7 @@
 8065、_russian_Управленческий учет в США_Красова Ольга С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7172cca45239b46ca6480d2f0f844baa

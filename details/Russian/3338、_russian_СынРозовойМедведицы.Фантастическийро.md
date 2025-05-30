@@ -8,7 +8,7 @@
 3338、_russian_Сын Розовой Медведицы. Фантастический роман_Чернов Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e1da15af9de201acfb5ee5ba9043175

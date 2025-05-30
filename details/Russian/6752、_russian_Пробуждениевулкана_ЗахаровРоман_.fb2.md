@@ -8,7 +8,7 @@
 6752、_russian_Пробуждение вулкана_Захаров Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3656f5b2035b55003b41a4e4e87740c7

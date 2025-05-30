@@ -8,7 +8,7 @@
 10779、_russian_Нежеланная любовь_Грин Грейс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e28072e02b16ac127d3a8cd3f375db7b

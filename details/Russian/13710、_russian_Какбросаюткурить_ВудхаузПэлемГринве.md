@@ -8,7 +8,7 @@
 13710、_russian_Как бросают курить_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50811cea625451dbbbe42d9abf1e68ae

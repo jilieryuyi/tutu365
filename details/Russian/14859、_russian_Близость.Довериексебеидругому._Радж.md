@@ -8,7 +8,7 @@
 14859、_russian_Близость. Доверие к себе и другому._Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd14b8b9a84430ae1c0e6abf731307b4

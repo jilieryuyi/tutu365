@@ -8,7 +8,7 @@
 5506、_russian_Падение рая_Кумин Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff0df50f4eb0e4b1ad479536a2416c34

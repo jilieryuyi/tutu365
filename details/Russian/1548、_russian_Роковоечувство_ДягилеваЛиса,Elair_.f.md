@@ -8,7 +8,7 @@
 1548、_russian_Роковое чувство_Дягилева Лиса, Elair_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 728f531c19b0aff083ebef232dc0c592

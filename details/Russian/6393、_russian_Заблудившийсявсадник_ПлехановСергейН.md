@@ -8,7 +8,7 @@
 6393、_russian_Заблудившийся всадник_Плеханов Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0927052aa522bc868b7a9646c6110fe

@@ -8,7 +8,7 @@
 6967、_russian_История моей жизни_Казанова Джакомо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8514e4783b9c101571e1e66403b6daf

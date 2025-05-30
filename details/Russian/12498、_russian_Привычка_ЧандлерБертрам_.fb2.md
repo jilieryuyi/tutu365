@@ -8,7 +8,7 @@
 12498、_russian_Привычка_Чандлер Бертрам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c984513fc1d6f0154f56e6310eddb9f2

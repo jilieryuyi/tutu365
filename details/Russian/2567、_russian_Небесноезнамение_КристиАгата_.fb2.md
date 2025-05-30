@@ -8,7 +8,7 @@
 2567、_russian_Небесное знамение_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9ec046d1dd2f2d0f1f42931b2c4bcc3

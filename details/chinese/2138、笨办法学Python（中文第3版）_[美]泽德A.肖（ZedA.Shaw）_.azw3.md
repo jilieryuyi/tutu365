@@ -8,7 +8,7 @@
 2138、笨办法学Python（中文第3版）_[美] 泽德 A. 肖（Zed A. Shaw）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 235129679a4756f5188820af8219ebbe

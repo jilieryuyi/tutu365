@@ -8,7 +8,7 @@
 7419、_russian_Лунный оазис_Базаров П._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0f96464afec2417e05200aae2430cc8

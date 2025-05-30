@@ -8,7 +8,7 @@
 2702、_russian_Бескорыстная_Мелихов Александр Мотельевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b5055ae0e034fec1814e0995bd2edec

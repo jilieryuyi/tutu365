@@ -8,7 +8,7 @@
 12823、_russian_Пауза на Пикадилли_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c6460aca8014fcb42693d0bacfb1fb0

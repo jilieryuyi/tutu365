@@ -8,7 +8,7 @@
 4324、_english_Highlander's Perilous Love_Adamina Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4f6088d334e609f1e5c7030e7a9116ac

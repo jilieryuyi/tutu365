@@ -8,7 +8,7 @@
 11908、_russian_Влюбленный грешник_Плэнтвик Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 860e0da1a3b469c10615d9a00fb39ce0

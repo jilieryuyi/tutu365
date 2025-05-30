@@ -8,7 +8,7 @@
 3090、_russian_Охотники на мутантов_Жаков Лев, Левицкий Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a326c29b2c0942857dd4e3f5fd74d41

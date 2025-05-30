@@ -8,7 +8,7 @@
 3574、_russian_Коммодор_Форестер Сесил Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd8e39a685aab97c7f96aa858d3fa7cf

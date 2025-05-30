@@ -8,7 +8,7 @@
 10658、_russian_Уроки страсти_Хантер Мэдлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2586c5f61c4d833ec682422306b2abc5

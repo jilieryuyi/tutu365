@@ -8,7 +8,7 @@
 320、给你人和钱，你会怎么管_赵伟, ePUBw.COM [未知]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fb3e17b9f50f4f5bd4334bfdcc4b0840

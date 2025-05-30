@@ -8,7 +8,7 @@
 5455、_russian_Планета на прокачку_Выставной Владислав Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3d50604e7c243e55d820afcf3e1bf98

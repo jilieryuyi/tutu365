@@ -8,7 +8,7 @@
 8963、_russian_Последний взгляд_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09ccfd3472a710cdb6b1a888e4acfa13

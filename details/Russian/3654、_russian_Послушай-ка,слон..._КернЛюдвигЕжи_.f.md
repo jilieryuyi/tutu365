@@ -8,7 +8,7 @@
 3654、_russian_Послушай-ка, слон..._Керн Людвиг Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75984437ed7dc31dfac8ddad90b970c8

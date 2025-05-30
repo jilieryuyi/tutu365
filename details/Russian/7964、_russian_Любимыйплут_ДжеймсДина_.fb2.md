@@ -8,7 +8,7 @@
 7964、_russian_Любимый плут_Джеймс Дина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b15a566c39369464db36b7be90f10353

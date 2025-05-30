@@ -8,7 +8,7 @@
 763、_russian_Бездна_Авраменко Александр, Афанасьев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c981a0047022ccc1e3cb8fb90c34317

@@ -8,7 +8,7 @@
 15304、_russian_Охота за _Красным Октябрём__Клэнси Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d271f497eeb992033d23866f7144916

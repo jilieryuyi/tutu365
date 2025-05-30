@@ -8,7 +8,7 @@
 1538、_russian_Усмирители_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef1e1d1ac47ac6d8c2b132addf96422d

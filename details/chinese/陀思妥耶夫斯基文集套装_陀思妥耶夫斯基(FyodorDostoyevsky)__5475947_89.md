@@ -8,7 +8,7 @@
 陀思妥耶夫斯基文集套装_陀思妥耶夫斯基(Fyodor Dostoyevsky)__5475947_8910fbb200f260eb186a1f31d0feefc9.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8910fbb200f260eb186a1f31d0feefc9

@@ -8,7 +8,7 @@
 13492、_russian_Искушение_Мадерик Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3b517a025a956ff04d5c0b3b94d7681

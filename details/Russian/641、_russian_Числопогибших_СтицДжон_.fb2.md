@@ -8,7 +8,7 @@
 641、_russian_Число погибших_Стиц Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1660d1faab9503c02cbd1ac563ac0697

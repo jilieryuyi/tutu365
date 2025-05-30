@@ -8,7 +8,7 @@
 7051、_russian_Все о спиртных напитках_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc85c82de860416b90ad660cffb5fd9a

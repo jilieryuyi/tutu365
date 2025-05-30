@@ -8,7 +8,7 @@
 6928、_russian_Пастух и девушка_Сухомлинов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84a987d301ffa382d49762f5cb79fd71

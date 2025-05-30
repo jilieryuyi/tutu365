@@ -8,7 +8,7 @@
 7866、_russian_Руки вверх! или Враг №1_Давыдычев Лев Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ee64c25eefd0f11adef920516bf82f6

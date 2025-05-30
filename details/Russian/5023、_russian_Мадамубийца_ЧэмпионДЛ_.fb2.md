@@ -8,7 +8,7 @@
 5023、_russian_Мадам убийца_Чэмпион Д Л_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 448fe4e7b9ae86e492e776944fa4dc13

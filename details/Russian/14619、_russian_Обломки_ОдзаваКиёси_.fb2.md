@@ -8,7 +8,7 @@
 14619、_russian_Обломки_Одзава Киёси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04dd9c6459ed0bd4feb5afacd526ac9a

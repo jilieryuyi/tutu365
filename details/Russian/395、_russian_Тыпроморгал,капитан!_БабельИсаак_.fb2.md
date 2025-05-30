@@ -8,7 +8,7 @@
 395、_russian_Ты проморгал, капитан!_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89add379682476d44f855f2de8b31a27

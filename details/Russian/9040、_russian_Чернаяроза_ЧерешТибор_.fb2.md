@@ -8,7 +8,7 @@
 9040、_russian_Черная роза_Череш Тибор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac70d4cab6ecbdf41ed6e09065322c6e

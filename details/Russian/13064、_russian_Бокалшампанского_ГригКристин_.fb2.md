@@ -8,7 +8,7 @@
 13064、_russian_Бокал шампанского_Григ Кристин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 992eee6379004f9bf969256dd34b0147

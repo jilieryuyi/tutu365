@@ -8,7 +8,7 @@
 10660、_russian_Разбитые кулаки_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84b8bd1ec427a213dc9b2cb2c4482692

@@ -8,7 +8,7 @@
 579、_russian_Умирать вечно_Алейников Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 829952480ef1a3b11d31d017b9dbeb39

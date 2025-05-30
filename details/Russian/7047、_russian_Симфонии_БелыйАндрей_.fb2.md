@@ -8,7 +8,7 @@
 7047、_russian_Симфонии_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fa08bbe02bd66ea3a817b248e453b3d

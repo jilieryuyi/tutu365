@@ -8,7 +8,7 @@
 6676、_russian_Страху вопреки_Багров Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3baa4f6be44cc681bda2f88a36efc06

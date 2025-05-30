@@ -8,7 +8,7 @@
 古今数学思想 (Vol - Vol4) _莫里斯·克莱因（Morris Kline）著；张理京等译_上海科学技术出版社_5290827_34f7186d2723eaf512a5f5944cb8bdc4.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 34f7186d2723eaf512a5f5944cb8bdc4

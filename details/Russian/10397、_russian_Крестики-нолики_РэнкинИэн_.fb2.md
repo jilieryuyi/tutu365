@@ -8,7 +8,7 @@
 10397、_russian_Крестики-нолики_Рэнкин Иэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c290833fa791a284610690306077623c

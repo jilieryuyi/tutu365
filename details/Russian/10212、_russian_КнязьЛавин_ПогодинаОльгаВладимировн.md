@@ -8,7 +8,7 @@
 10212、_russian_Князь Лавин_Погодина Ольга Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b5120b404ae011b8d5bd1a3d9c4b8b3

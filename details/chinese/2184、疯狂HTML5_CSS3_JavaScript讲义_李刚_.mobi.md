@@ -8,7 +8,7 @@
 2184、疯狂HTML 5_CSS 3_JavaScript讲义_李刚_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 91bea43a25db44d510e9fdf323e8f5bb

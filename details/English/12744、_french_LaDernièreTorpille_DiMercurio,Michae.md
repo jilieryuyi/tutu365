@@ -8,7 +8,7 @@
 12744、_french_La Dernière Torpille_DiMercurio, Michael_L'Archipel.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8f4191bb6cc4f67264ededaa2d4e3954

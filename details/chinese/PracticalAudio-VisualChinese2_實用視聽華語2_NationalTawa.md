@@ -8,7 +8,7 @@
 Practical Audio-Visual Chinese 2_實用視聽華語2_National Tawain Normal University_5440947_95df59f386ccc8fa83c587d1de59e9e4.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 95df59f386ccc8fa83c587d1de59e9e4

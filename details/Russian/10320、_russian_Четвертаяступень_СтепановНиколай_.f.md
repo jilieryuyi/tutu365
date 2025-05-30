@@ -8,7 +8,7 @@
 10320、_russian_Четвертая ступень_Степанов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 623f2c6d2c8478d72411c641ca4c650d

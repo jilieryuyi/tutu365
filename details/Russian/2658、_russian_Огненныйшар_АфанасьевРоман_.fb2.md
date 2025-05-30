@@ -8,7 +8,7 @@
 2658、_russian_Огненный шар_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6dc1f0b90d60e3c95dc3104a7d2902e5

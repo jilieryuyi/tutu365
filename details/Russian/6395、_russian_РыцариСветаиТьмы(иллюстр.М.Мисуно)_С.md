@@ -8,7 +8,7 @@
 6395、_russian_Рыцари Света и Тьмы (иллюстр. М. Мисуно)_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71e24573f390b11ce56ff487b5a410da

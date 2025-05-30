@@ -8,7 +8,7 @@
 12212、_russian_Дон Жуан. Жизнь и смерть дона Мигеля из Маньяры_Томан Иозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 356f7dac0e838ec024c659f730e0fbf5

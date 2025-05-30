@@ -8,7 +8,7 @@
 15249、_russian_Запри дверь в прошлое_Макмаон Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6f5283d6c5d0e5e343146be472db56d

@@ -8,7 +8,7 @@
 11840、_russian_Бич Божий_Замятин Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a63a765b0f9fd5e640947ad6a5f1ec49

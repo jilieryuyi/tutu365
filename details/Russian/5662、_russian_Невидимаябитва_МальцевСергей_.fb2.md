@@ -8,7 +8,7 @@
 5662、_russian_Невидимая битва_Мальцев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19f8f957dec75948e1ed7538f1cd462a

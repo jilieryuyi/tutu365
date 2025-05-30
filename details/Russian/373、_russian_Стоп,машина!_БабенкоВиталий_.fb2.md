@@ -8,7 +8,7 @@
 373、_russian_Стоп, машина!_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb44d824ebad04285924f151bac160de

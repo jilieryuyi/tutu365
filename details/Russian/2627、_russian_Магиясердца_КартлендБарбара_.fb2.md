@@ -8,7 +8,7 @@
 2627、_russian_Магия сердца_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e030ca5a517ba8f6ab2adf18f32d9e0

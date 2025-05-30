@@ -8,7 +8,7 @@
 12820、_russian_Подлинная история абсолютного оружия_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b30df6aeecd8734d8acae2689607403

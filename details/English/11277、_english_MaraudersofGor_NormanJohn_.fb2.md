@@ -8,7 +8,7 @@
 11277、_english_Marauders of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4d24eb07008a6a7a8c363c6465069a3d

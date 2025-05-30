@@ -8,7 +8,7 @@
 3141、一起连环绑架案的新闻_加西亚·马尔克斯 [加西亚·马尔克斯]_XJDCN.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 10c25d905e3ffd9d97678b8e43a4df19

@@ -8,7 +8,7 @@
 永夜微光 再次修版 (沈志中, LSP撸猫用爱发电校对组).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 19c1d8e16cbacef39656aa36c5e169b7

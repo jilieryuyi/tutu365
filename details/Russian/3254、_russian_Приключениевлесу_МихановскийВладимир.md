@@ -8,7 +8,7 @@
 3254、_russian_Приключение в лесу_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73e301ce4aa565ad7c1b63611a5a48e6

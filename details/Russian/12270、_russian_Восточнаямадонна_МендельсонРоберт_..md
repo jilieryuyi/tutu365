@@ -8,7 +8,7 @@
 12270、_russian_Восточная мадонна_Мендельсон Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb92a8b4f713b580865744defce32005

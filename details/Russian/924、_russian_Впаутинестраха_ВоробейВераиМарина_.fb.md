@@ -8,7 +8,7 @@
 924、_russian_В паутине страха_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4538c193a5950ba9678545c9f43cc214

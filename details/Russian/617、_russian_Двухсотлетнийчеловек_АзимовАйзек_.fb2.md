@@ -8,7 +8,7 @@
 617、_russian_Двухсотлетний человек_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74a6514d28163c73cc06bc59bb7e1f37

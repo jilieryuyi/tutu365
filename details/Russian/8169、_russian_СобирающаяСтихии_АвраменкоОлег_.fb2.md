@@ -8,7 +8,7 @@
 8169、_russian_Собирающая Стихии_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab6ea625499b0573ed3774d43248c0e1

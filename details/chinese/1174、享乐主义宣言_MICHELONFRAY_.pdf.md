@@ -8,7 +8,7 @@
 1174、享乐主义宣言_MICHEL ONFRAY_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f58b383586f51c1c6ade0a1918c3e6e2

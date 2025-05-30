@@ -8,7 +8,7 @@
 6920、_russian_ЯОн_Керет Этгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bc5ee80529bcb7d9334a30fc546eae5

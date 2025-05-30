@@ -8,7 +8,7 @@
 2270、_russian_Загон предубойного содержания_Шленский Александр Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08cad26fa1dd020d3bc444fa05dbdf37

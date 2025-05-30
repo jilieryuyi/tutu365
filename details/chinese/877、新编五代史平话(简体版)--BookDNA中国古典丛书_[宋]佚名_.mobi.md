@@ -8,7 +8,7 @@
 877、新编五代史平话(简体版) --BookDNA中国古典丛书_[宋]佚名_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 44f7d9717f6c9338068678f704c8a876

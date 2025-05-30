@@ -8,7 +8,7 @@
 7334、_russian_Дети Земли_Бовин Георгий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 087b41cf0b08a07616a5a715cec3390a

@@ -8,7 +8,7 @@
 1932、_english_Miss Compton's Christmas Romance_Sophie Barnes_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6fff4aae4722fde27e7169d59977c885

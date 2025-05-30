@@ -8,7 +8,7 @@
 12203、_russian_Я вижу солнце_Думбадзе Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59669af113301289c1d8f8ceb55600ed

@@ -8,7 +8,7 @@
 13381、_russian_Чертовски богат_Гулд Джудит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4279a475250c3da8c15a7b293ee9b361

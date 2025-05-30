@@ -8,7 +8,7 @@
 16242、_french_L'opticien de Lampedusa_Emma-Jane Kirby [Kirby Emma-Jane]__ditions des Equateurs.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b1f87c603aed22c557ca5b34b2801828

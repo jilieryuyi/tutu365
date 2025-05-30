@@ -8,7 +8,7 @@
 html语法教程.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 682f961374f849fab17e5b16e478dfb3

@@ -8,7 +8,7 @@
 11625、_english_Gambling on the Duke's Daughter_Diana Bold_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 60594ea95c8af84fe7e8427e61df8ba7

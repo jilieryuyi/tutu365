@@ -8,7 +8,7 @@
 2014、_russian_ВОЗВРАЩЕНИЕ СКАРАМУША_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96973211c98c0a5412611e9c3afe467c

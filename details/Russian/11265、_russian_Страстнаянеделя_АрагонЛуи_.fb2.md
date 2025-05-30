@@ -8,7 +8,7 @@
 11265、_russian_Страстная неделя_Арагон Луи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a73012fa4e39b42ef0042ea746941dfd

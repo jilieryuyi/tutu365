@@ -8,7 +8,7 @@
 9876、_russian_Голова_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75f07e414cc6691c2897b8a8d8b69311

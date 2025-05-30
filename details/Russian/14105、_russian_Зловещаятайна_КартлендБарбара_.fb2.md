@@ -8,7 +8,7 @@
 14105、_russian_Зловещая тайна_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02c0e07f37245539c7b779f8963b38be

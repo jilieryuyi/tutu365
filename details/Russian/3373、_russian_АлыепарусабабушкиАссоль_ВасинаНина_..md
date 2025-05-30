@@ -8,7 +8,7 @@
 3373、_russian_Алые паруса бабушки Ассоль_Васина Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b21956ca94b059c3bfc75d08c162fc78

@@ -8,7 +8,7 @@
 4210、_russian_Мужской стриптиз_Королева Наташа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae4c81c0d978392e3ae58d337abbf255

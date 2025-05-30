@@ -8,7 +8,7 @@
 5476、_russian_Стебелек и два листика_Михайлов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42ef74f07bd9064a5888b85776e1e18d

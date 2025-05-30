@@ -8,7 +8,7 @@
 8743、_russian_Инок_Ларченко-Солонин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e30386a41ebc7c20291e2d5a46b158ba

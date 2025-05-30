@@ -8,7 +8,7 @@
 全国计算机技术与软件专业技术资格(水平)考试参考用书•系统架构设计师考试全程指导 (Publisher 清华大学出版社).azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d41d8cd98f00b204e9800998ecf8427e

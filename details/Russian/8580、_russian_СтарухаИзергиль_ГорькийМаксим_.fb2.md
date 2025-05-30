@@ -8,7 +8,7 @@
 8580、_russian_Старуха Изергиль_Горький Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29bd40a2c88c55ab6f450d767abb7f89

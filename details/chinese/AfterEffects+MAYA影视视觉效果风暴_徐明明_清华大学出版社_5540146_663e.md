@@ -8,7 +8,7 @@
 After Effects+MAYA 影视视觉效果风暴_徐明明_清华大学出版社_5540146_663e05b2ff5ab208d076e285dd910528.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 663e05b2ff5ab208d076e285dd910528

@@ -8,7 +8,7 @@
 11924、_russian_Улыбка Афродиты_Харрисон Стюарт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2823c7e555330576dc3b29bfeee7a278

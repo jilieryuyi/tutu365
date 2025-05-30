@@ -8,7 +8,7 @@
 7626、_russian_Аргонавты 98-го года_Сервис Роберт В_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c3f4d3efe24384892041c1b722df7d6

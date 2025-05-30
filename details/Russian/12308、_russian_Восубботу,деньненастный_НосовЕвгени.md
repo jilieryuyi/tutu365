@@ -8,7 +8,7 @@
 12308、_russian_Во субботу, день ненастный_Носов Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82678e8f66b3b2b0579a242a05ac2b2d

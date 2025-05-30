@@ -8,7 +8,7 @@
 1869、_russian_Планета имени шестого _Б__Запольских Вячеслав Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e0e017000fd2df60a73fc0c800e2b7e

@@ -8,7 +8,7 @@
 11485、_russian_Без ума от тебя_Дженсен Триш_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c389b38453f47b4a54c4845444cf5e09

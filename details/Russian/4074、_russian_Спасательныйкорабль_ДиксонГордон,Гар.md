@@ -8,7 +8,7 @@
 4074、_russian_Спасательный корабль_Диксон Гордон, Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c13f75db2ff693e6b3bfd32bba59d0bf

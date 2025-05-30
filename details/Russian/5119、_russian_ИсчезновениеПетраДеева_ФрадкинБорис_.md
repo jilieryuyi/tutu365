@@ -8,7 +8,7 @@
 5119、_russian_Исчезновение Петра Деева_Фрадкин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e85c9f6ee9571ac01b1d85d76cfd37e9

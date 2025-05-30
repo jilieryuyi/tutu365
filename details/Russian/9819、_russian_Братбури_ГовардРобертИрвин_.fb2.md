@@ -8,7 +8,7 @@
 9819、_russian_Брат бури_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f053018b491df94938070f101fe714e

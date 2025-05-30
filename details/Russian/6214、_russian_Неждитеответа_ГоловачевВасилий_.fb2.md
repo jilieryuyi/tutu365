@@ -8,7 +8,7 @@
 6214、_russian_Не ждите ответа_Головачев Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b186d27541954248adc248de8e27b40c

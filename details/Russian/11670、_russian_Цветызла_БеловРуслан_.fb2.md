@@ -8,7 +8,7 @@
 11670、_russian_Цветы зла_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec10b392c4d5e5e6177bb3a2b99e7aa9

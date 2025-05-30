@@ -8,7 +8,7 @@
 5495、_russian_Варианты виртуальной реальности_Менбек Влад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c1fdf7427cb390d0f9775ca5a4a224f

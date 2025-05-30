@@ -8,7 +8,7 @@
 14584、_russian_Бичо-Джан_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4436ed033c9189e602da5e7c333a426

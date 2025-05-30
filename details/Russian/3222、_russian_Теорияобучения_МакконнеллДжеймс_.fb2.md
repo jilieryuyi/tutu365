@@ -8,7 +8,7 @@
 3222、_russian_Теория обучения_Макконнелл Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26110c321a77d43aa99e4e789ef37983

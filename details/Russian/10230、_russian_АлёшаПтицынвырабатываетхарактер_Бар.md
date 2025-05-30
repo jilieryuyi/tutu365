@@ -8,7 +8,7 @@
 10230、_russian_Алёша Птицын вырабатывает характер_Барто Агния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a04ad22bbb9fedb6ef84f130c394f39

@@ -8,7 +8,7 @@
 我所缄默的事：一位叛逆女儿的回忆 Things I've Been Silent About_阿扎尔·纳菲西_三辉图书_外语教学与研究出版社_5449515_b9a4c38151990f9ccdde5805cd2bc111.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b9a4c38151990f9ccdde5805cd2bc111

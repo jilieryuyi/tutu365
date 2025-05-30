@@ -8,7 +8,7 @@
 6716、_russian_Дикий Волк_Диксон Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 931f0c85e8dad64beb522f7b7ae376aa

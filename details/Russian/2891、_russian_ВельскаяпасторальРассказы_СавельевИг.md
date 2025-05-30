@@ -8,7 +8,7 @@
 2891、_russian_Вельская пастораль Рассказы_Савельев Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a9b9ddbd2bc2d812bf8160f3fc6a215

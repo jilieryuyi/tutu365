@@ -8,7 +8,7 @@
 11026、_russian_Мышка за стенкой скребется всю ночь_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7962d1533ae3b825d92040bad0e090f1

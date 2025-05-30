@@ -8,7 +8,7 @@
 4534、_russian_Короли и королевы. Трагедии любви_Бенцони Жюльетта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 424b6b7717f9a652d66bf870b1146ac6

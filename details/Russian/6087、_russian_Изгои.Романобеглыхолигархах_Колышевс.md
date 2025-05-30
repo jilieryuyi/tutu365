@@ -8,7 +8,7 @@
 6087、_russian_Изгои. Роман о беглых олигархах_Колышевский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b057dda10708dd8d2d44d2d1fddd5b6

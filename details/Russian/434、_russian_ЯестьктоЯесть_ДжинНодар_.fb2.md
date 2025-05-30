@@ -8,7 +8,7 @@
 434、_russian_Я есть кто Я есть_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a8564267d9aca7002b62e0634ff916c

@@ -8,7 +8,7 @@
 反常识_邓肯·J.瓦茨 & ePUBw.COM [未知]__5287938_4f5dfc766c4f6b60af7139cf67567300.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4f5dfc766c4f6b60af7139cf67567300

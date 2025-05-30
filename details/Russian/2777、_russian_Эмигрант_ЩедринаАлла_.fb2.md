@@ -8,7 +8,7 @@
 2777、_russian_Эмигрант_Щедрина Алла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a3794d2473f30187aedda3410a96ee2

@@ -8,7 +8,7 @@
 2010、_russian_Рассмешить богов_Панкеева Оксана Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88f3e4b791dde9f887c0eacb9b72a539

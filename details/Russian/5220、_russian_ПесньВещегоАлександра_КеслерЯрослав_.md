@@ -8,7 +8,7 @@
 5220、_russian_Песнь Вещего Александра_Кеслер Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6f6a453ac2c95fd83f067d6a27311dc

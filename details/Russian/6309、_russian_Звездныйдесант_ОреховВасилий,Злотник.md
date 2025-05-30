@@ -8,7 +8,7 @@
 6309、_russian_Звездный десант_Орехов Василий, Злотников Роман Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7be6da03594b1c1553d3c6e3b0547d3b

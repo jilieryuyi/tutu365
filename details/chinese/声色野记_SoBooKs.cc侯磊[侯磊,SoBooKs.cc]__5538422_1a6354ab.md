@@ -8,7 +8,7 @@
 声色野记_SoBooKs.cc 侯磊 [侯磊, SoBooKs.cc]__5538422_1a6354abe7b884a9b43ffcc7a427a3e1.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a6354abe7b884a9b43ffcc7a427a3e1

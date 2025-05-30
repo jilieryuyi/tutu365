@@ -8,7 +8,7 @@
 8027、_russian_Судьба цивилизации. Путь Разума_Моисеев Н.Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffd571debd9732a0b965e1fb5f702bba

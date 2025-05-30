@@ -8,7 +8,7 @@
 8201、_russian_Звездная дорога_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f07179293a348b5cea418a673c4c291

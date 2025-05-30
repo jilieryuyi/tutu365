@@ -8,7 +8,7 @@
 [CoffeeScript：Accelerated.JavaScript.Development(2011.7)].Trevor.Burnham.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 24aad862991cfc1c9d620fb8597756a1

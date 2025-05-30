@@ -8,7 +8,7 @@
 8063、_russian_Рыбья кровь_Таганов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c5c318eb876bf07658ad992f15cdb3c

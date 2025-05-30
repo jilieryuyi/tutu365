@@ -8,7 +8,7 @@
 2949、_russian_Смерть лесничего_Клех Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bc431882c0f9a2e01eb58e513495f36

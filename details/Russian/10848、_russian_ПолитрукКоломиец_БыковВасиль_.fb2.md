@@ -8,7 +8,7 @@
 10848、_russian_Политрук Коломиец_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a869fb5a6137bb68534389e3dd59cb58

@@ -8,7 +8,7 @@
 13377、_russian_Хмельная почва_Янг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42ec147046f1b75669b78c72a1c774ce

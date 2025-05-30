@@ -8,7 +8,7 @@
 14149、_russian_Флинт_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0950a513343b8e8b2d8cdaa26370fbaa

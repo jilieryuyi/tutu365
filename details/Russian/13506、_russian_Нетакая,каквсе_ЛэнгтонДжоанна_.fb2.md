@@ -8,7 +8,7 @@
 13506、_russian_Не такая, как все_Лэнгтон Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4d7d00df663b3212d973690be4d79bd

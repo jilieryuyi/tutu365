@@ -8,7 +8,7 @@
 11117、_russian_Планшетка_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19353789655d83fe5640f023625e61d0

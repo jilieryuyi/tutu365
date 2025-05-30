@@ -8,7 +8,7 @@
 11179、_russian_Интеллигент-убийца_Тюдор Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec594967552f7e0054b57aba20d6495a

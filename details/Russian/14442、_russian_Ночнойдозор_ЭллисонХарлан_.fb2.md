@@ -8,7 +8,7 @@
 14442、_russian_Ночной дозор_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f938312b22c9eec7d89907514492a1db

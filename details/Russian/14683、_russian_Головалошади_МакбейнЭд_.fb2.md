@@ -8,7 +8,7 @@
 14683、_russian_Голова лошади_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5533cec6cc50c486963d2f4ceaf09545

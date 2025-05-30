@@ -8,7 +8,7 @@
 13223、_russian_Синие тюльпаны_Давыдов Юрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98b632987eb0bc7749d8c78a69207335

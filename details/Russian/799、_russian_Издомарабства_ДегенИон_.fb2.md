@@ -8,7 +8,7 @@
 799、_russian_Из дома рабства_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2409d5266f351ec3b2756121ca70ca8

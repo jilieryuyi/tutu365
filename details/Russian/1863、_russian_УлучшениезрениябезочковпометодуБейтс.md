@@ -8,7 +8,7 @@
 1863、_russian_Улучшение зрения без очков по методу Бейтса_Бейтс Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2344c38deae1d48dc7e0208a66c55636

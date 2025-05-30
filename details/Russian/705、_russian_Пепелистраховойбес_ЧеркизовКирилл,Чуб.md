@@ -8,7 +8,7 @@
 705、_russian_Пепел и страховой бес_Черкизов Кирилл, Чубаха Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04608e7088bcdbf0d15c442f4d0e26c5

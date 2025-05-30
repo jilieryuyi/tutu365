@@ -8,7 +8,7 @@
 13650、_russian_Большая игра_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acf4365a199fb3ea219c19098eafa4da

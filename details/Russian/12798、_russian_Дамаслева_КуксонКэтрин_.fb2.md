@@ -8,7 +8,7 @@
 12798、_russian_Дама слева_Куксон Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c39bfd3c506da978c47e473034367ce1

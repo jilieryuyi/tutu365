@@ -8,7 +8,7 @@
 2367、_russian_Раб Семеныч_Неклюдов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7630a2f569ba83fe60b9f3053327a510

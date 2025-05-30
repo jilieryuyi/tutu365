@@ -8,7 +8,7 @@
 15000、_russian_Суровые вампирьи будни_Елена Картур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4422679a34d4a51755093ed996aa264

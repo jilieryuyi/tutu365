@@ -8,7 +8,7 @@
 9773、_russian_Ульрих Вильгельм, пресс-секретарь Ангелы Меркель_Шарыпкина Марина, Гранде Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfb8ce15f4a0fe5014efac527db9db9a

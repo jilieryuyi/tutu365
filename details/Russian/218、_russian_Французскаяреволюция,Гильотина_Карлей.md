@@ -8,7 +8,7 @@
 218、_russian_Французская революция, Гильотина_Карлейль Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58844f9e214b55eb056bc825b2935a6a

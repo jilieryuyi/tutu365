@@ -8,7 +8,7 @@
 11525、_russian_Золотая шахта_Смит Уилбур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0dda25d86ae7f4b81f5daed6a4bd1440

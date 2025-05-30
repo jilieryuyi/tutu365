@@ -8,7 +8,7 @@
 8897、_russian_Логические игры для детей_Образцова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55fd3f77b49b5219d52752ba9a1e118a

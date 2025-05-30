@@ -8,7 +8,7 @@
 3971、_russian_За гранью игры_Никора Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14dd3c6c015546a427a669c87d4fb9f3

@@ -8,7 +8,7 @@
 11778、_russian_Благослови зверей и детей_Глендон Свортаут_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2230fc51c62acfd9f2d244f0ba2c8625

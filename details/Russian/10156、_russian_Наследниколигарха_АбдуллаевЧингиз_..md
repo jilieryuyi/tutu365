@@ -8,7 +8,7 @@
 10156、_russian_Наследник олигарха_Абдуллаев Чингиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf90f76a388c97e597fde546d67c7cc0

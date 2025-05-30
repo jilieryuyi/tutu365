@@ -8,7 +8,7 @@
 3854、_russian_Красные кони (сборник)_Щербаков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27b2f22cc4e4a7a55f2af294414f2b69

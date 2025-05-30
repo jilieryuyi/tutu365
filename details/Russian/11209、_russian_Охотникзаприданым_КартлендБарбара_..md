@@ -8,7 +8,7 @@
 11209、_russian_Охотник за приданым_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf4306a8fa58650078a68b1cf178c76f

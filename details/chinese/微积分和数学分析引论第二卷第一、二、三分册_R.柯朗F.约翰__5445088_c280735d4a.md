@@ -8,7 +8,7 @@
 微积分和数学分析引论  第二卷  第一、二、三分册_R.柯朗  F.约翰__5445088_c280735d4a178f1a980a5e5eb941f335.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c280735d4a178f1a980a5e5eb941f335

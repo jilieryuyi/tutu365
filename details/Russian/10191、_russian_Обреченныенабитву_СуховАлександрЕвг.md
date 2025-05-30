@@ -8,7 +8,7 @@
 10191、_russian_Обреченные на битву_Сухов Александр Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25f09d9cc7b98914843ce24aee95dbbb

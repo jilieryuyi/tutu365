@@ -8,7 +8,7 @@
 6036、_russian_Добыча_Матесон Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07ed7c28661811a1a2301e41543a4d6a

@@ -8,7 +8,7 @@
 13263、_russian_Глобос_Разумов Геннадий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9bcfd6dd46559b2f1b86492864c5d8f

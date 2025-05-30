@@ -8,7 +8,7 @@
 3740、_russian_Тексты песен БГ с аккоpдами_Гребенщиков Борис, 'Аквариум'_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d75fc7a8bed64828a493bcb3be040193

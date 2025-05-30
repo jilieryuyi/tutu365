@@ -8,7 +8,7 @@
 1870、_english_A Scot's Resolve_Sky Purington_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ef06ea9841c3a051589fe8f0fa5e7516

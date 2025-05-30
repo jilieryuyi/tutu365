@@ -8,7 +8,7 @@
 272、枪炮、病菌与钢铁：人类社会的命运_SoBooKs.cc 贾雷德·戴蒙德(Jared Diamond) [贾雷德·戴蒙德(Jared Diamond), SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bbd178b2496e149f99f245f579a0e5d4

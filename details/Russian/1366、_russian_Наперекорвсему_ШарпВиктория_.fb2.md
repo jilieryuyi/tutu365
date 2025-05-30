@@ -8,7 +8,7 @@
 1366、_russian_Наперекор всему_Шарп Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3286878b162b186b79f1968ef51f8bde

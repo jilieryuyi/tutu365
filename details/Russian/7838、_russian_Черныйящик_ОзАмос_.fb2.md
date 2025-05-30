@@ -8,7 +8,7 @@
 7838、_russian_Черный ящик_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74e3a4b45657feeaa51613668962d98a

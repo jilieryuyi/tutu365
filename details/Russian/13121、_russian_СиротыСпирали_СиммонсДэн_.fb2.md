@@ -8,7 +8,7 @@
 13121、_russian_Сироты Спирали_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f6b94b8f9e3267c02ebe0c4b54e6096

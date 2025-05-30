@@ -8,7 +8,7 @@
 12294、_russian_Пути любви_Тайхом Анжела_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fd26b91bc21aa6156b843b2ec15b047

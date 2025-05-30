@@ -8,7 +8,7 @@
 旧小说·历史风云人物（宋代篇）下 (Traditional_chinese Edition)_欧阳修, 曾巩, 刘跂__5476171_296a4a94f3303e4d3aec3a8c530b498b.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 296a4a94f3303e4d3aec3a8c530b498b

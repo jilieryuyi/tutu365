@@ -8,7 +8,7 @@
 11632、_russian_Затемнение в Грэтли_Пристли Джон Бойнтон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e60e94205a943e15399d1f92ff09120d

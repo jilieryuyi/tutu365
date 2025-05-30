@@ -8,7 +8,7 @@
 12028、_russian_Похвала глупости_Катаев Валентин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a78536c90e99f379f3c8878313ac3f60

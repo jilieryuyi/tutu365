@@ -8,7 +8,7 @@
 MySQL5.1参考手册.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 850173901b1965e57a0164ae54c6b977

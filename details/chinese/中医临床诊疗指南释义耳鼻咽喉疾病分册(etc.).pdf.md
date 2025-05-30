@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 耳鼻咽喉疾病分册 ( etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 344078fd5b5b73726da97633d25ab2aa

@@ -8,7 +8,7 @@
 6371、_russian_Неприличная страсть_Маккалоу Колин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8235ecebb7eaafb3d2a9c83df14e1f80

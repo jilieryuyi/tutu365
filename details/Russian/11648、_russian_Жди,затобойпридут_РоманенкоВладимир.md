@@ -8,7 +8,7 @@
 11648、_russian_Жди, за тобой придут_Романенко Владимир Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6b86aaaee70d41effee4d87e1f92552

@@ -8,7 +8,7 @@
 8933、_russian_Алгебра любви_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a4439610b5a0728b73d360b9e2da713

@@ -8,7 +8,7 @@
 8812、_russian_В крике от смерти_Бабкин Борис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61edfa3645324edddacb51f7349bce42

@@ -8,7 +8,7 @@
 6715、_russian_Риджар_Джой Дейра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c108c4c1fc2992ac6ea3dcbdc8a0333

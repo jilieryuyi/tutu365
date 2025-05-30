@@ -8,7 +8,7 @@
 7269、_russian_Летняя сказка_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60ac648ad8e6967f824951d392ba7b48

@@ -8,7 +8,7 @@
 12211、_russian_Калигула или После нас хоть потоп_Томан Йозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e728a90109bcd305535ab9fa48a4c88

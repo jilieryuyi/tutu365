@@ -8,7 +8,7 @@
 明智行动的艺术（《清醒思考的艺术》姊妹篇 精编图文版）_Rolf Dobelli, 〔德〕罗尔夫•多贝里__5520243_29bc8d7c538fd63f142e791162f1110e.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 29bc8d7c538fd63f142e791162f1110e

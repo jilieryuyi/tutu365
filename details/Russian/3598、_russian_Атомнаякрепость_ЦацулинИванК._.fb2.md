@@ -8,7 +8,7 @@
 3598、_russian_Атомная крепость_Цацулин Иван К._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e5d2d877e699b9f67a455c459a0ca23

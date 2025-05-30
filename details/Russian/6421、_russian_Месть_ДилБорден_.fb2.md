@@ -8,7 +8,7 @@
 6421、_russian_Месть_Дил Борден_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2e5f543460c06efc9fe843ba9f2ee97

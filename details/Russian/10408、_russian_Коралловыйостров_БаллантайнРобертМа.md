@@ -8,7 +8,7 @@
 10408、_russian_Коралловый остров_Баллантайн Роберт Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7655c0d05a77f9bcbc0804d1ab121bba

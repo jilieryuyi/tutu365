@@ -8,7 +8,7 @@
 1566、_russian_Предисловие к сборнику А. Балабухи _Чудо человека__Бугров Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5b3b1bb7c6af37d85b85bfc50dd6d5e

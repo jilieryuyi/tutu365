@@ -8,7 +8,7 @@
 12111、_russian_Фамильные ценности_Нэб Магдален_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7aa8da6f40e83b0a5636c0494f56c63

@@ -8,7 +8,7 @@
 10299、_russian_Апокалипсис Welcome_Зотов Г. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63ae5ba32aa7d3a0b7dd1786b35c4fa8

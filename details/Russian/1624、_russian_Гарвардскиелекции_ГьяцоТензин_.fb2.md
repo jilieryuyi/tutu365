@@ -8,7 +8,7 @@
 1624、_russian_Гарвардские лекции_Гьяцо Тензин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a708938a2f7ad92d24d48b959f706518

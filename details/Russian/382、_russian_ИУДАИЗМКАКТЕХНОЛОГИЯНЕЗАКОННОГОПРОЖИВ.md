@@ -8,7 +8,7 @@
 382、_russian_ИУДАИЗМ КАК ТЕХНОЛОГИЯ НЕЗАКОННОГО ПРОЖИВАНИЯ НА ЗЕМЛЕ_Русанов Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7295a83c800c9eb90bd107c6eaad3bce

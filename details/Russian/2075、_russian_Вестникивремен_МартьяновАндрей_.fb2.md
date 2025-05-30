@@ -8,7 +8,7 @@
 2075、_russian_Вестники времен_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ab52bf809f2ace46b44b34c6c621301

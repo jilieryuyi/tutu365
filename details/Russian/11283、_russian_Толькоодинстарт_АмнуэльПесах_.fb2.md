@@ -8,7 +8,7 @@
 11283、_russian_Только один старт_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35b5e6d054971c3d0eeab7c530db168b

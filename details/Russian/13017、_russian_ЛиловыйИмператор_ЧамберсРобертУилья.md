@@ -8,7 +8,7 @@
 13017、_russian_Лиловый Император_Чамберс Роберт Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77a464be7f31adc08a708371af44f879

@@ -8,7 +8,7 @@
 10201、_russian_Ход Снежной королевы_Вербинина Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4386babb3fbdb3d2d74c3a4923264de9

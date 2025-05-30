@@ -8,7 +8,7 @@
 9758、_russian_Поиграем в любовь_Эллиот Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f091d74298f29b9e8f0cbbb55f15bc56

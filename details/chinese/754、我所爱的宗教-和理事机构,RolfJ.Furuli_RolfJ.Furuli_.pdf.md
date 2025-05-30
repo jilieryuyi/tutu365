@@ -8,7 +8,7 @@
 754、我所爱的宗教 - 和理事机构, Rolf J. Furuli_Rolf J. Furuli_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0c66de2c2df96dfaef2226b571654dcb

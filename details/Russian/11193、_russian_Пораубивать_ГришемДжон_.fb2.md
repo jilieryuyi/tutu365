@@ -8,7 +8,7 @@
 11193、_russian_Пора убивать_Гришем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d858b61092db1a406adb5518b18ddd0e

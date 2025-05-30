@@ -8,7 +8,7 @@
 4745、_english_Devil's Moon_Amanda Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 21e82cd4a01835ea03afab1df9badb9a

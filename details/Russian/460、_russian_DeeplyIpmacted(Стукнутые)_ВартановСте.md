@@ -8,7 +8,7 @@
 460、_russian_Deeply Ipmacted (Стукнутые)_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c622fd00fc607f71243710e33f63eb06

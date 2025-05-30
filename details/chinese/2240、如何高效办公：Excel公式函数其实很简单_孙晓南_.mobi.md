@@ -8,7 +8,7 @@
 2240、如何高效办公：Excel公式 函数其实很简单_孙晓南_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bfed587a4c1e657b95ec035d127933d5

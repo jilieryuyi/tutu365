@@ -8,7 +8,7 @@
 1632、_russian_Слабая голова_Аверченко Аркадий Тимофеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1903e04c706fccc5a286d56d8f97d21

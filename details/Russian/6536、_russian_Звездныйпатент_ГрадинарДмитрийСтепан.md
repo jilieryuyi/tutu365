@@ -8,7 +8,7 @@
 6536、_russian_Звездный патент_Градинар Дмитрий Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7be3084154ffd1587f0a64951f35185

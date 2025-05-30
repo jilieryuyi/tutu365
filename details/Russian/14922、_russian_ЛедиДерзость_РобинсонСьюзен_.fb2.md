@@ -8,7 +8,7 @@
 14922、_russian_Леди Дерзость_Робинсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e03439e38fb9fe3c8ca7508019a5b364

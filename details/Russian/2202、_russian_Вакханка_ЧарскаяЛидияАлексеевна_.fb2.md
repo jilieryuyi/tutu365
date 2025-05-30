@@ -8,7 +8,7 @@
 2202、_russian_Вакханка_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdd8d7a754639266d848083c3ea72d1f

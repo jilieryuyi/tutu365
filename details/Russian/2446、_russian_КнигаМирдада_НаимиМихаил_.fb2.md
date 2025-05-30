@@ -8,7 +8,7 @@
 2446、_russian_Книга Мирдада_Наими Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34a8dd394971e5247c764b05f5e1df74

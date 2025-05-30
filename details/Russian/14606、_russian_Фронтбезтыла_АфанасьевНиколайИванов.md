@@ -8,7 +8,7 @@
 14606、_russian_Фронт без тыла_Афанасьев Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 272ca277d1366c780edf761d58a4efcf

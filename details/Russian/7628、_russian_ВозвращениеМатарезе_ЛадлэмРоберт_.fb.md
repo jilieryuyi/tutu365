@@ -8,7 +8,7 @@
 7628、_russian_Возвращение Матарезе_Ладлэм Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62d950c672b8936b990be76dc0ed7ec9

@@ -8,7 +8,7 @@
 2082、_russian_Who by fire_Пелевин Виктор Олегович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73e0fe71fffc6ca5b8a69d74b428946a

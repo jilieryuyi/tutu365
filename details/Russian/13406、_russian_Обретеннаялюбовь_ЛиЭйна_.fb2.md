@@ -8,7 +8,7 @@
 13406、_russian_Обретенная любовь_Ли Эйна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82b30e391e1b53e468cdf78b0a85d9b7

@@ -8,7 +8,7 @@
 209、_russian_Невероятные приключения в стране Зии и Фанты_Куксов Владлен Кононович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d9f7a9dba1526aa0e7cac73e690c5cb

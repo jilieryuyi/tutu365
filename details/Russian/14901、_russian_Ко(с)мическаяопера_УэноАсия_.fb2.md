@@ -8,7 +8,7 @@
 14901、_russian_Ко(с)мическая опера_Уэно Асия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 394861104f480a93217e57c2e56aea8f

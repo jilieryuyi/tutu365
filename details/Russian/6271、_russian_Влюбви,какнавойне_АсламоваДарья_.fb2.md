@@ -8,7 +8,7 @@
 6271、_russian_В любви, как на войне_Асламова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9faac7623fb293862b33a81bcbde4d3

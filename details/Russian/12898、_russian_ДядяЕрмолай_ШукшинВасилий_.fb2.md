@@ -8,7 +8,7 @@
 12898、_russian_Дядя Ермолай_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08256560741470333c96c5d26891f383

@@ -8,7 +8,7 @@
 3890、_russian_Человек - Луч. Фантастический роман с иллюстрациями_Ляшенко Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61db00bd7b575ecb7cbe0508b8806ddd

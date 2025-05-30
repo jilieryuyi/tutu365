@@ -8,7 +8,7 @@
 11065、_russian_Здесь обитают чудовища_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9cbee04fb73564c56c2a4ee0a5a87d3

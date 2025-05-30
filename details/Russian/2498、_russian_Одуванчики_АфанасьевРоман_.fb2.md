@@ -8,7 +8,7 @@
 2498、_russian_Одуванчики_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddecea3454a1259c22fa7679e54fac2f

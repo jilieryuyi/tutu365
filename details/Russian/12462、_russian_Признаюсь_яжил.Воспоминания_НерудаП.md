@@ -8,7 +8,7 @@
 12462、_russian_Признаюсь_ я жил. Воспоминания_Неруда Пабло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d52d3a843538dabe28692473a16ff95

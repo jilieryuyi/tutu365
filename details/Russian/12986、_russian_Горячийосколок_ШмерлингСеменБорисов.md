@@ -8,7 +8,7 @@
 12986、_russian_Горячий осколок_Шмерлинг Семен Борисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45e098ba5f42fa157ef5ebdafa59f002

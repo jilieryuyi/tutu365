@@ -8,7 +8,7 @@
 12186、_russian_Тайна утопленной рамы_Биргер Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8488975a043fcda174a271ec9e0c5f5f

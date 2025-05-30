@@ -8,7 +8,7 @@
 189、动物的“屁”事儿_尼克·卡鲁索 & SoBooKs.cc 达尼·拉巴奥蒂 [达尼·拉巴奥蒂, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f225e7a40a132f78bf0b65c37dd9ea73

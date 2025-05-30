@@ -8,7 +8,7 @@
 5698、_russian_Игра до победы_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5c3423129649e6ea7e2a60c4caafb88

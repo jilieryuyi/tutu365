@@ -8,7 +8,7 @@
 11149、_russian_Бурый волк_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43f0faa816ced0eba6e370b547d6ba91

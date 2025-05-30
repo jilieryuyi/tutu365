@@ -8,7 +8,7 @@
 10559、_russian_БЫТЬ СОВЕТСКИМ_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0e5b2551c3d9cfe1089f09741490aa7

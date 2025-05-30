@@ -8,7 +8,7 @@
 11970、_russian_Ким_Киплинг Редьярд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f136b10aaa0cc18f56d4c5c97987534

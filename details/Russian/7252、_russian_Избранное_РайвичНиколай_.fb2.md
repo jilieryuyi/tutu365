@@ -8,7 +8,7 @@
 7252、_russian_Избранное_Райвич Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19956d00778b59ad6a6cdf7f0fce6147

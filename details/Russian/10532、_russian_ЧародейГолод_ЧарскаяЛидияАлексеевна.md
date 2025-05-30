@@ -8,7 +8,7 @@
 10532、_russian_Чародей Голод_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63f6f76f3a8c63563fd23d37e8e0bca5

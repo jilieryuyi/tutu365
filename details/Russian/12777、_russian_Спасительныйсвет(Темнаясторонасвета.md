@@ -8,7 +8,7 @@
 12777、_russian_Спасительный свет (Темная сторона света)_Чемберлен Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f648fadf9a75f9ff5715969e7bfa41e3

@@ -8,7 +8,7 @@
 3723、_russian_Неделя безумств_Эш Стефания_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acc18234fceedd0232befb84406a2d38

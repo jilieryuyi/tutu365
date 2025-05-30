@@ -8,7 +8,7 @@
 916、张作霖和王永江：北洋军阀时代的奉天政府_薛龙(Ronald Suleski)_中央编译出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8e12fd729e9176ac7ee2708d198e95dc

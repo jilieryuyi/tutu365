@@ -8,7 +8,7 @@
 7674、_russian_Турнир в Блезуа_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4eaa5ee3c00ef7d26cd7dda308c6a67

@@ -8,7 +8,7 @@
 14539、_russian_Буратино ищет клад (с иллюстрациями)_Владимирский Леонид Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cab151bd8ccee0e2037bbd8dc89a5e87

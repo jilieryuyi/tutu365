@@ -8,7 +8,7 @@
 5470、_russian_Песнь крови_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 845a923b920907b32bfaf60c752c1b3c

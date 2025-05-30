@@ -8,7 +8,7 @@
 298、成为作家（创意写作书系）_多萝西娅·布兰德(Dorothea Brande)_中国人民大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f8b34d21b0e3028dda680b748a76f650

@@ -8,7 +8,7 @@
 5999、_russian_Красный бычок_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e2b4a16be38f5e61e3d8324a242fdbd

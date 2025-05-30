@@ -8,7 +8,7 @@
 437、_russian_Сын_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fd32a048a9e92aab2374307afb996e5

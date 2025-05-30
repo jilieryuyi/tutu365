@@ -8,7 +8,7 @@
 7256、_russian_Ступени к божественному_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c2b3b5641c1ff8739c7841a16d7c4b6

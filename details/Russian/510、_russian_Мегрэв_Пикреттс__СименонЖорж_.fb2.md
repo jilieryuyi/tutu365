@@ -8,7 +8,7 @@
 510、_russian_Мегрэ в _Пикреттс__Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9e47c9b4355d4b75e14b2eab46b882c

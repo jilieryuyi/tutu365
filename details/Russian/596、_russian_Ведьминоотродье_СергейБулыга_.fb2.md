@@ -8,7 +8,7 @@
 596、_russian_Ведьмино отродье_Сергей Булыга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b12c9cda1a7d89d2bc4955b1d80fee1

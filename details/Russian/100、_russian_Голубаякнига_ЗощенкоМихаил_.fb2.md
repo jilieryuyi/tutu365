@@ -8,7 +8,7 @@
 100、_russian_Голубая книга_Зощенко Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f51ad762df25c44539649b0d65f7d0fd

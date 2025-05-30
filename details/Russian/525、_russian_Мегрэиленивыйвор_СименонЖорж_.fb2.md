@@ -8,7 +8,7 @@
 525、_russian_Мегрэ и ленивый вор_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13f155906f300316ce336ee783774c4c

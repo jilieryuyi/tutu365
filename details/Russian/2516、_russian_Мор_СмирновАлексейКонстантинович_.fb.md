@@ -8,7 +8,7 @@
 2516、_russian_Мор_Смирнов Алексей Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6631fb747d85ac0be3308241083012b4

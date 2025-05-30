@@ -8,7 +8,7 @@
 11602、_russian_Братья по оружию_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 250844ae982e3d65d64c12624e3b6d7c

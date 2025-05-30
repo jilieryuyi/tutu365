@@ -8,7 +8,7 @@
 14477、_russian_Пули над сельвой_Степанычев Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a9fdaa7b0ad7721275e1527392e33aa

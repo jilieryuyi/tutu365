@@ -8,7 +8,7 @@
 12500、_russian_Тереза Дескейру_Мориак Франсуа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f24f65530a460fc0fb2cb7b04a72d43a

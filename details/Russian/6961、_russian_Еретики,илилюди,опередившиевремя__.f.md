@@ -8,7 +8,7 @@
 6961、_russian_Еретики, или люди, опередившие время__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae7340d0f8360f487caa9131d1516319

@@ -8,7 +8,7 @@
 6220、_russian_Любовь взаймы_Фокс Натали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9d94412dd44d3f25ee7b0b78aae70e2

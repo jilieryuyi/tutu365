@@ -8,7 +8,7 @@
 7527、_english_The Last Patriot_Thor Brad_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 46e5ab8d879aeec5c1b255bf2718a51d

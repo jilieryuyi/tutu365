@@ -8,7 +8,7 @@
 2706、_russian_Волшебная Школа Карандаша и Самоделкина_Дружков Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c2393faa6868fde52e8cc3cb10f5da7

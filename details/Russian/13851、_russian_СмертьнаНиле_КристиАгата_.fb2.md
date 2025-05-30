@@ -8,7 +8,7 @@
 13851、_russian_Смерть на Ниле_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f967b026c7ac43bf41b8b6df8a7d867c

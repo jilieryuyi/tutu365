@@ -8,7 +8,7 @@
 8460、_french_L'_le des femmes de la mer_Lisa See_Pygmalion.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 14ec075f3e1b2e36a25f6f98a7b6ba61

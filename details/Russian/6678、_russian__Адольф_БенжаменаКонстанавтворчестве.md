@@ -8,7 +8,7 @@
 6678、_russian__Адольф_ Бенжамена Констана в творчестве Пушкина_Ахматова Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ef5b2e71abd2362004c6ffb6d583efc

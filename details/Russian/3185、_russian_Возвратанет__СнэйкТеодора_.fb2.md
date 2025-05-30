@@ -8,7 +8,7 @@
 3185、_russian_Возврата нет__Снэйк Теодора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42f82d9b8abcee4434c68a0e5242563b

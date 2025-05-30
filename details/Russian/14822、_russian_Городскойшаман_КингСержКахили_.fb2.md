@@ -8,7 +8,7 @@
 14822、_russian_Городской шаман_Кинг Серж Кахили_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4138b903ebf02ac1cce9dec7ca1e3365

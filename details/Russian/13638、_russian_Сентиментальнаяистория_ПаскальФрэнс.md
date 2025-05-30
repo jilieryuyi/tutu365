@@ -8,7 +8,7 @@
 13638、_russian_Сентиментальная история_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed41a288205617a1b5cac7d389023eeb

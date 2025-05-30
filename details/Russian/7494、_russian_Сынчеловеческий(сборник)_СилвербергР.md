@@ -8,7 +8,7 @@
 7494、_russian_Сын человеческий (сборник)_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4254215c8c44a137136868a4acc43d2

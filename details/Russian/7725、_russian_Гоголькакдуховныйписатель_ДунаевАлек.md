@@ -8,7 +8,7 @@
 7725、_russian_Гоголь как духовный писатель_Дунаев Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff8e0c56592003f65a90280a5d24341e

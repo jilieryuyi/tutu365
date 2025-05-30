@@ -8,7 +8,7 @@
 1821、_russian_Жизнь в _Крематории_ и вокруг него_Троегубов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ca1d296a8932ffdd3db681967c6bd1b

@@ -8,7 +8,7 @@
 12740、_russian_Борис Годунов, или Жизнь за царевича_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a48ef11b27b1e7ba2be92db38675ceee

@@ -8,7 +8,7 @@
 6025、_russian_Предчувствие_Мергендаль Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 606547e10d14169dcf668d8b67f2e32c

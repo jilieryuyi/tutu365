@@ -8,7 +8,7 @@
 134、_russian_Охота за красоткой_Ховард Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 303628d6852fb3db5daaf37bbaa40ddc

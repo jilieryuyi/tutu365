@@ -8,7 +8,7 @@
 16125、_english_The Devil's Temptation_Kimberly Logan_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a66eaa906c707bb50ccecfaa14795465

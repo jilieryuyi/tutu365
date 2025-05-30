@@ -8,7 +8,7 @@
 9881、_russian_Пистолет с музыкой_Летем Джонатан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ed6969bab64241b1876c12b4db44c87

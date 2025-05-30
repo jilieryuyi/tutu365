@@ -8,7 +8,7 @@
 1657、大败局Ⅰ-吴晓波 nodrm_吴晓波_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bcc09402509c88a68bdc0c977991d273

@@ -8,7 +8,7 @@
 569、_russian_Братья Рико_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45b6118d257bb88769d201e16a75314e

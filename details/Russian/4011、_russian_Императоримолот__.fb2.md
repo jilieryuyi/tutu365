@@ -8,7 +8,7 @@
 4011、_russian_Император и молот__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ba9a2ea083284888a6b2b4b967eb333

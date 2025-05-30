@@ -8,7 +8,7 @@
 8383、_russian_Уддияна, или Путь искусства_Артемьев Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f134af9e389d27d914b712a798c0c7e8

@@ -8,7 +8,7 @@
 3747、_russian_Его благородная невеста_Брэдли Шелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 302b12fb21122b299a288a1cfe600644

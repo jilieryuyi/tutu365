@@ -8,7 +8,7 @@
 44、羊脂球 (译文名著精选)_居伊·德·莫泊桑(Guy de Maupassant)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 11e4764c6cb7ca301aae19a9e5fc4020

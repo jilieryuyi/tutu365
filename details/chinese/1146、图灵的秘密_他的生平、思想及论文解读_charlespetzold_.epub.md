@@ -8,7 +8,7 @@
 1146、图灵的秘密_他的生平、思想及论文解读_charles petzold_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cdda5b4a3a60ae8e2d077285f6f77294

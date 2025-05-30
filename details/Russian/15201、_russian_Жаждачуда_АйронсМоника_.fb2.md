@@ -8,7 +8,7 @@
 15201、_russian_Жажда чуда_Айронс Моника_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc04d9dbcf6ab3cce0dd99638463015b

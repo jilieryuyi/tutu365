@@ -8,7 +8,7 @@
 2735、_russian_Идет охота на _волков__Астапов Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8df7939524ac296c0c03b0530724ff14

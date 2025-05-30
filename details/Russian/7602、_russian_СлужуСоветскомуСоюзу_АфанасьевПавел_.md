@@ -8,7 +8,7 @@
 7602、_russian_Служу Советскому Союзу_Афанасьев Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ef912a3f233c002b7adc121290cb3cb

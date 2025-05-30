@@ -8,7 +8,7 @@
 黑桃皇后_普希金中短篇小说选(译文名著精选)_亚历山大·普希金(Aleksandr Pushkin)__5476334_dd78d89c3dce17c5dc66a648fc846cb0.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dd78d89c3dce17c5dc66a648fc846cb0

@@ -8,7 +8,7 @@
 7736、_russian_Роковое чувство_Helcesa_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00acbc2e79e452008a7f45b51f68a168

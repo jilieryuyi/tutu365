@@ -8,7 +8,7 @@
 13515、_russian_Рубиновый рыцарь_Эддингс Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5a2380e3d5ad5e86f63e8c96d466640

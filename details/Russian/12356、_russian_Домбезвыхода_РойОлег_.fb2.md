@@ -8,7 +8,7 @@
 12356、_russian_Дом без выхода_Рой Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3218843eb163b4454a50a08172895d36

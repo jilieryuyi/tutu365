@@ -8,7 +8,7 @@
 5623、_russian_Гоголь_Анненская Александра Никитична_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3734e7fb527bf0314c5388b749b6009

@@ -8,7 +8,7 @@
 8466、_russian_Детонатор для секс-бомбы_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbf5ca182a5a5863c304cd7e88b5424f

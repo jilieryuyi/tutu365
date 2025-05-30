@@ -8,7 +8,7 @@
 835、_russian_Крадись, ведьма!_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38317772c2903782f574f10ea2105e27

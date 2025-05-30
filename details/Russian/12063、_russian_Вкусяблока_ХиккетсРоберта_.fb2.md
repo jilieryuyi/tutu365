@@ -8,7 +8,7 @@
 12063、_russian_Вкус яблока_Хиккетс Роберта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37b4ff4ec70110a71446b9c09c13718c

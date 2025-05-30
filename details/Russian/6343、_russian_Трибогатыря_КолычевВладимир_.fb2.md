@@ -8,7 +8,7 @@
 6343、_russian_Три богатыря_Колычев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7dd51e358450a3a4f676f8a5cb65e690

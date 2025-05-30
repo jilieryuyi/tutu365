@@ -8,7 +8,7 @@
 12989、_russian_Туман идет по следу_Сорокин Василий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 358e2518b4a0c0baaa4991a9e697e3d1

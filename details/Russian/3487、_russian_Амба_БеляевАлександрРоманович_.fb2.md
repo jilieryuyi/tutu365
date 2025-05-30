@@ -8,7 +8,7 @@
 3487、_russian_Амба_Беляев Александр Романович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8e25c63d56b2c62b1ed2e0b5438c573

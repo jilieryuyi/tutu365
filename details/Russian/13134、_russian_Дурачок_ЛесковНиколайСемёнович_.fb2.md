@@ -8,7 +8,7 @@
 13134、_russian_Дурачок_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01c3ed72f338532880f484a7a60ab616

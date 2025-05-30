@@ -8,7 +8,7 @@
 5217、_russian_Счисление и календарь_Кеслер Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccb177ef2c77a73ce269283c606c5b35

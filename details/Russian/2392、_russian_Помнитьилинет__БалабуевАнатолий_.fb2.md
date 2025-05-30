@@ -8,7 +8,7 @@
 2392、_russian_Помнить или нет__Балабуев Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ffd1c4766194759bb234fb120a589c2

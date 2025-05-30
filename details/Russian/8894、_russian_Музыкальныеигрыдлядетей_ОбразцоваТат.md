@@ -8,7 +8,7 @@
 8894、_russian_Музыкальные игры для детей_Образцова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f05bff12abad2597cacef0bb627b3ef

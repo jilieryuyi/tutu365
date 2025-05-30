@@ -8,7 +8,7 @@
 7425、_russian_Чаша бурь. Научно-фантастический роман_Щербаков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9511af899121aca69fab00a07bbc7df2

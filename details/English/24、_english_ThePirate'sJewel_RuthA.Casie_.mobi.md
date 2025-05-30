@@ -8,7 +8,7 @@
 24、_english_The Pirate's Jewel_Ruth A. Casie_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2ae81eaea038ee90fccd347be9ec435a

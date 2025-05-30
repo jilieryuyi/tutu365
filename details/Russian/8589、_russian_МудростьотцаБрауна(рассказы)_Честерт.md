@@ -8,7 +8,7 @@
 8589、_russian_Мудрость отца Брауна (рассказы)_Честертон Гилберт Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa72803db1b27c0f90e36dcf8a675a5b

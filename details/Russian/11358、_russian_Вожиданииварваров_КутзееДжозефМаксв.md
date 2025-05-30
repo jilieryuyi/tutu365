@@ -8,7 +8,7 @@
 11358、_russian_В ожидании варваров_Кутзее Джозеф Максвелл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c25dc737c0581b3edaa0b45726ef7e83

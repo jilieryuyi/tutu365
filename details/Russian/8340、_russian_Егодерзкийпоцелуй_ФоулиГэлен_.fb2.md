@@ -8,7 +8,7 @@
 8340、_russian_Его дерзкий поцелуй_Фоули Гэлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8207f8ab12acc49b772f711ee28b3156

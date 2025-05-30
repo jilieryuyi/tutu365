@@ -8,7 +8,7 @@
 1166、_russian_Дар Нептуна_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb084dd18211caa57c31ed493b9bbdb2

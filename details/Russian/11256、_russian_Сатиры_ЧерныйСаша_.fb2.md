@@ -8,7 +8,7 @@
 11256、_russian_Сатиры_Черный Саша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6c5f25139fa046693b17fb8f624eca6

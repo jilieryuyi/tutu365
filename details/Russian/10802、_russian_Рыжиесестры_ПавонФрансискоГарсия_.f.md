@@ -8,7 +8,7 @@
 10802、_russian_Рыжие сестры_Павон Франсиско Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2dbc4e537848ca70119f6c9ac31f4e23

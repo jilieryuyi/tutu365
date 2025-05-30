@@ -8,7 +8,7 @@
 8886、_russian_Верблюжий клуб_Балдаччи Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2a0ba4c34de42231c0e55b16106a793

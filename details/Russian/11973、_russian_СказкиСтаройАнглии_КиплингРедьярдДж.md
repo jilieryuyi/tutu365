@@ -8,7 +8,7 @@
 11973、_russian_Сказки Старой Англии_Киплинг Редьярд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4edccb1d2ae9ced401f5ab73633b2fd

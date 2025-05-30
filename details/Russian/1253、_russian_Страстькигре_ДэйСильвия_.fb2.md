@@ -8,7 +8,7 @@
 1253、_russian_Страсть к игре_Дэй Сильвия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffbc08c88b6a4601d0208ab39a90e762

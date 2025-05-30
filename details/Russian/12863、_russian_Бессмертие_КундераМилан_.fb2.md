@@ -8,7 +8,7 @@
 12863、_russian_Бессмертие_Кундера Милан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f80735cd09ba74d185ee1bf0baf5d5c5

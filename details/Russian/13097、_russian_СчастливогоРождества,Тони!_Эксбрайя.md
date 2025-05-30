@@ -8,7 +8,7 @@
 13097、_russian_Счастливого Рождества, Тони!_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5da09c7f8253a86679b33725af1e9747

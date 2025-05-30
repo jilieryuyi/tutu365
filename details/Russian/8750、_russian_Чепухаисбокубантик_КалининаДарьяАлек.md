@@ -8,7 +8,7 @@
 8750、_russian_Чепуха и сбоку бантик_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69f8e359fa98adc6c7a0d8f2cf42e9f7

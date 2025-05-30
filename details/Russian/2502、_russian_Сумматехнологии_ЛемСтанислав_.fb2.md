@@ -8,7 +8,7 @@
 2502、_russian_Сумма технологии_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18d2d0de31a428c30042d85d4dcc626f

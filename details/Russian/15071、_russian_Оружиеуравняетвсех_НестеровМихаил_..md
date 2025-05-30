@@ -8,7 +8,7 @@
 15071、_russian_Оружие уравняет всех_Нестеров Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69e1a21798796dab297be3e1c83b6564

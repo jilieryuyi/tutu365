@@ -8,7 +8,7 @@
 3536、_russian_Флэшмен_Фрейзер Джордж Макдональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe4cc8ed7149643c54765320b82b6fc4

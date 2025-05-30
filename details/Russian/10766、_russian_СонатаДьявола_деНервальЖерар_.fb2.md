@@ -8,7 +8,7 @@
 10766、_russian_Соната Дьявола_де Нерваль Жерар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f82550d2d9047762b0080b17b7f8923

@@ -8,7 +8,7 @@
 7372、_russian_Шел по осени щенок_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65cbe55ecfb211d1c4f95d523e224339

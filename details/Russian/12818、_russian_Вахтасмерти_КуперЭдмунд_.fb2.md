@@ -8,7 +8,7 @@
 12818、_russian_Вахта смерти_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bcb457ec3f51acc56cf5e144c10d6bb

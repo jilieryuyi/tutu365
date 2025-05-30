@@ -8,7 +8,7 @@
 12135、_russian_Конец сказки_Хилтон Марджери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e85b956c2a4dc4d3d7f173769ec0e0c9

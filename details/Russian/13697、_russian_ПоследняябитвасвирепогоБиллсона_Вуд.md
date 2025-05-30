@@ -8,7 +8,7 @@
 13697、_russian_Последняя битва свирепого Биллсона_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acfaf171bccbc0889759c2d3139a6827

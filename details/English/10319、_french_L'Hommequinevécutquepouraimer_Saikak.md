@@ -8,7 +8,7 @@
 10319、_french_L'Homme qui ne vécut que pour aimer_Saikaku Ihara_Philippe Picquier.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 686c39142d03a788e951cb47193bf622

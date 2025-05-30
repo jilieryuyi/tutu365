@@ -8,7 +8,7 @@
 13005、_russian_Лоскутное одеяло, или Психотерапия в стиле дзэн_Соколов Дмитрий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcfbbb66c30797dab46acdfba464c3be

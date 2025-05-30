@@ -8,7 +8,7 @@
 545、我就要你好好的（Me Before You）_（英）乔乔·莫伊斯著：苏心一译_四川文艺出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f3f082546bb2d4814b6221fb1c9f77ae

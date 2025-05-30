@@ -8,7 +8,7 @@
 13592、_russian_Большое кино_Гаррисон Зоя_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 133f660c9732407a64719fbbd01a8326

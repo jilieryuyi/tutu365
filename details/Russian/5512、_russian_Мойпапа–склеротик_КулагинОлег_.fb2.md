@@ -8,7 +8,7 @@
 5512、_russian_Мой папа – склеротик_Кулагин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 829b410eafb9211e86fc78ab439bf061

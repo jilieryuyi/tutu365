@@ -8,7 +8,7 @@
 7977、_russian_Как изгибали сталь_Северцев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ea55f153b68377bb4179c740052699c

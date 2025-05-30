@@ -8,7 +8,7 @@
 5332、_russian_Курс теории трессировки собак. Военная собака_Языков Всеволод В._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e08a6ca07d00dd7db5c5d5ea9505d3eb

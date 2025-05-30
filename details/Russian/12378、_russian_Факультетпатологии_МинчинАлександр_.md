@@ -8,7 +8,7 @@
 12378、_russian_Факультет патологии_Минчин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3faef7f07457b0a1cecdf258c70e92d0

@@ -8,7 +8,7 @@
 6832、_russian_Пещера Лейхтвейса. Том второй_Редер В._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df8c89eea54be03595030458ac12bfba

@@ -8,7 +8,7 @@
 4307、_russian_Покушение на Еву_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f4b5ad2ba354d5590e91d2c597bab1e

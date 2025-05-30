@@ -8,7 +8,7 @@
 15067、_russian_Книга дракона (сборник)_Новак Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c1f9761264849855da1a71395b2e4c2

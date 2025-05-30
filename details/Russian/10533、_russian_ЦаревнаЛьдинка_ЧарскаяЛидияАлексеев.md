@@ -8,7 +8,7 @@
 10533、_russian_Царевна Льдинка_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6dbcca831d2c701b4514a5eedff73917

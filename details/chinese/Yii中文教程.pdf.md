@@ -8,7 +8,7 @@
 Yii中文教程.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2bd12d96c7c714f46d3bb8870efece5f

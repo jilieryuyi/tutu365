@@ -8,7 +8,7 @@
 15694、_english_The Adventurer's Bride_June Francis_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8d8bad3daa374cfb561a419562d2be7b

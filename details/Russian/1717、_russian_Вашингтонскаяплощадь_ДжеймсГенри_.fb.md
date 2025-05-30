@@ -8,7 +8,7 @@
 1717、_russian_Вашингтонская площадь_Джеймс Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9239ecf49bdda1f45ccef30f5937bda

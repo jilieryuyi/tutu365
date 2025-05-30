@@ -8,7 +8,7 @@
 10844、_russian_Зенитчица_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ad15b6a5470808bf266d2cfdd9acc2c

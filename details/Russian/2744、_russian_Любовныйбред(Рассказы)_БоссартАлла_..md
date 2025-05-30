@@ -8,7 +8,7 @@
 2744、_russian_Любовный бред ( Рассказы )_Боссарт Алла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06b974db67ab95575ffb7b3d445f53c7

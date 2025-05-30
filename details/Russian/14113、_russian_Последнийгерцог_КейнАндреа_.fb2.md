@@ -8,7 +8,7 @@
 14113、_russian_Последний герцог_Кейн Андреа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 868f2c33f2545593a88be9fdae5fb8d7

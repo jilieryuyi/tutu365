@@ -8,7 +8,7 @@
 5488、_russian_Спутник_Палий Сергей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e31dd7ce928d48f63852108f39bdb156

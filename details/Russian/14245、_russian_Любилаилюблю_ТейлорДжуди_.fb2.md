@@ -8,7 +8,7 @@
 14245、_russian_Любила и люблю_Тейлор Джуди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54c5481271eb7f4a744f7a69ef68c2bb

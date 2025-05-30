@@ -8,7 +8,7 @@
 11676、_russian_ШАЛЬ_Рой Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8742b39d72661ad88103732d3ed6bde

@@ -8,7 +8,7 @@
 7695、_russian_Дневник русского некроманта_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b05f4c237b96a2c57598e098ce3f1376

@@ -8,7 +8,7 @@
 9054、_russian_Батяня. Бой против своих_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ec69982cfadfdf12632862ec49e9d7d

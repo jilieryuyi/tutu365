@@ -8,7 +8,7 @@
 12188、_russian_Приглашение на бал_Мартин Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3c0639a702d6eebfed9ce29f905a099

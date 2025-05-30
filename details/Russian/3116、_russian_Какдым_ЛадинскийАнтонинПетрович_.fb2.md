@@ -8,7 +8,7 @@
 3116、_russian_Как дым_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cedf57601dcbef63f6c35bd37a04933

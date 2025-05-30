@@ -8,7 +8,7 @@
 508、_russian_Мегрэ забавляется_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c66a0a6f4d49d84b5c6caae2029ea7e

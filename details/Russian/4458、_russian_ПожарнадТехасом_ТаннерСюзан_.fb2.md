@@ -8,7 +8,7 @@
 4458、_russian_Пожар над Техасом_Таннер Сюзан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc486c48c7d23600e5408faa18f2f3bf

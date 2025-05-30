@@ -8,7 +8,7 @@
 7956、_russian_Что же случилось__Багдасарян Ара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56749f6114a93002aee24dbe7542689a

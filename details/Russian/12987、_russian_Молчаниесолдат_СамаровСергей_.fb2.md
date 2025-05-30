@@ -8,7 +8,7 @@
 12987、_russian_Молчание солдат_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 741dc32298646f5877120041e8cc007b

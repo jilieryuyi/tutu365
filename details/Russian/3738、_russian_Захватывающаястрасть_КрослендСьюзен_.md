@@ -8,7 +8,7 @@
 3738、_russian_Захватывающая страсть_Кросленд Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7d96e209cbf8b4234cf7ac318a1bd24

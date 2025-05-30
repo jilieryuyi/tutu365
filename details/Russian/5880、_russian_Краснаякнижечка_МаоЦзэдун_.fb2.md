@@ -8,7 +8,7 @@
 5880、_russian_Красная книжечка_Мао Цзэдун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07460617a09f03e9ad12f4be164a465e

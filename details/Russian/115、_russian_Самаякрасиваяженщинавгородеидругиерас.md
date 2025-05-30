@@ -8,7 +8,7 @@
 115、_russian_Самая красивая женщина в городе и другие рассказы_Буковски Чарлз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0da2ce486fa8af26f8b821471cd9191d

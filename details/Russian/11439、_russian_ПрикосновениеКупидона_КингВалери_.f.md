@@ -8,7 +8,7 @@
 11439、_russian_Прикосновение Купидона_Кинг Валери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63e88c1853f26ca9319d0e5bc8df8fc5

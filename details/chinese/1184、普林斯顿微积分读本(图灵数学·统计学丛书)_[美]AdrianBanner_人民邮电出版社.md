@@ -8,7 +8,7 @@
 1184、普林斯顿微积分读本 (图灵数学·统计学丛书)_[美]Adrian Banner_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 deb3d1fd7eff77ae1df0d3cd66aa9d5f

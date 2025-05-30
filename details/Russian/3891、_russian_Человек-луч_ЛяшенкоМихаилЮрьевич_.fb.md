@@ -8,7 +8,7 @@
 3891、_russian_Человек-луч_Ляшенко Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78ccc3490cd2c65d3dd7c1db0e598291

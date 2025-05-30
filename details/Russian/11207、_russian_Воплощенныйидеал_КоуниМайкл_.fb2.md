@@ -8,7 +8,7 @@
 11207、_russian_Воплощенный идеал_Коуни Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65e6b229d58f8fc7d511e3bae74bc63f

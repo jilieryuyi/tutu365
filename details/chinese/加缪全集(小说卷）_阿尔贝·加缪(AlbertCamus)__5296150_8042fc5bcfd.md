@@ -8,7 +8,7 @@
 加缪全集(小说卷）_阿尔贝·加缪(Albert Camus)__5296150_8042fc5bcfd102b2e0cdcb43dd1af9f9.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8042fc5bcfd102b2e0cdcb43dd1af9f9

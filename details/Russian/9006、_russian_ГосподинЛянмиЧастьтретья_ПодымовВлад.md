@@ -8,7 +8,7 @@
 9006、_russian_Господин Лянми Часть третья_Подымов Владлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c15f66e9cb48219036f76b6bf8bae0c0

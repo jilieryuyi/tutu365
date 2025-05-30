@@ -8,7 +8,7 @@
 8962、_russian_Евино стадо_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf772359611ba34ac3e78061dd6b8f9d

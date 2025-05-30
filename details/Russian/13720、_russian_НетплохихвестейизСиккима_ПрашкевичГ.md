@@ -8,7 +8,7 @@
 13720、_russian_Нет плохих вестей из Сиккима_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be158b05e9d59bf1a9058c271ace980f

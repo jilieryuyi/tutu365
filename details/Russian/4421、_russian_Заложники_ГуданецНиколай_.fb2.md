@@ -8,7 +8,7 @@
 4421、_russian_Заложники_Гуданец Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b344689ceb877d0d258119e94fa60cd2

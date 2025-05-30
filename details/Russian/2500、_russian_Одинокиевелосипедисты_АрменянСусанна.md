@@ -8,7 +8,7 @@
 2500、_russian_Одинокие велосипедисты_Арменян Сусанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bed980545c74e3062d82c43108c0f93c

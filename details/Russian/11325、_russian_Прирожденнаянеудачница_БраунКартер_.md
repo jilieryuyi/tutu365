@@ -8,7 +8,7 @@
 11325、_russian_Прирожденная неудачница_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94dd3aba9ffa76f78a77e610d80b1e82

@@ -8,7 +8,7 @@
 爆裂：未来社会的9大生存原则_【美】伊藤穰一, 【美】杰夫·豪, 张培, 吴建英, 周卓斌, ePUBw.COM [未知]__5287967_f54fe32077e84882f1b75b71a757979d.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f54fe32077e84882f1b75b71a757979d

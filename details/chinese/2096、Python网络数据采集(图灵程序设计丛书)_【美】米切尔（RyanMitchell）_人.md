@@ -8,7 +8,7 @@
 2096、Python网络数据采集 (图灵程序设计丛书)_【美】米切尔（Ryan Mitchell）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 da2189f6083567ce67847ff9c402d7da

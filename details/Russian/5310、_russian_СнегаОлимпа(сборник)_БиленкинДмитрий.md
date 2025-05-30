@@ -8,7 +8,7 @@
 5310、_russian_Снега Олимпа (сборник)_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8beff4f1ba3c94d0b5bec4143b3c7ad

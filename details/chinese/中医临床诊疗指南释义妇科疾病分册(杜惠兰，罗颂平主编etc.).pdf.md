@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 妇科疾病分册 (杜惠兰，罗颂平主编 etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b76d9ef0bd905d6e140303b0db3f375d

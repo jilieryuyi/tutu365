@@ -8,7 +8,7 @@
 7700、_russian_Адвокат черной королевы_Борохова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7827755202f6abec3ab0a918a1d2a935

@@ -8,7 +8,7 @@
 1348、_russian_Собачье счастье_Дейл Дженни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81c009f2fdefd77429b930850d9b5d97

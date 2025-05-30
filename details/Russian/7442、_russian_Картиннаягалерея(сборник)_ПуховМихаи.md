@@ -8,7 +8,7 @@
 7442、_russian_Картинная галерея (сборник)_Пухов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c1987848f44b7956385cb3e573d05b5

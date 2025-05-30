@@ -8,7 +8,7 @@
 5936、_russian_Гвиневера_ Королева Летних Звезд_Вулли Персия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f58c28081d5b26939c3997a3df9db27

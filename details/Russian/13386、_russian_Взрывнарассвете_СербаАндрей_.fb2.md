@@ -8,7 +8,7 @@
 13386、_russian_Взрыв на рассвете_Серба Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1c3134b874051253e8bd577b359f3ff

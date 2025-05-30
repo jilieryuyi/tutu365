@@ -8,7 +8,7 @@
 7003、_russian_Скверные истории Пети Камнева_Климонтович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d3130a71ca2a76e660fddff942c650f

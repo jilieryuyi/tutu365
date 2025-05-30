@@ -8,7 +8,7 @@
 8364、_english_Moonspun Magic_Catherine Coulter_Signet.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d84546674b50ed05a0e6b49ecd0e0982

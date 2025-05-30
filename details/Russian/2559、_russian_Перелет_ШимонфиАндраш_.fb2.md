@@ -8,7 +8,7 @@
 2559、_russian_Перелет_Шимонфи Андраш_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4e574856e3df081a7d7e43e05ce1211

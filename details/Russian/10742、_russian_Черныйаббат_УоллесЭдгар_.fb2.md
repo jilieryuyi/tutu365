@@ -8,7 +8,7 @@
 10742、_russian_Черный аббат_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3904b5e48212eb4953e7a11c704274ad

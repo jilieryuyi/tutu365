@@ -8,7 +8,7 @@
 6884、_russian_Большая барыня_Вонлярлярский Василий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9abbb1f966e3322e59216f2fb0010d57

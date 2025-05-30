@@ -8,7 +8,7 @@
 600、_russian_Алкоиммитатор_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 168dc31e4260fea2af1b66413af8757b

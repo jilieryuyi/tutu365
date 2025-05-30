@@ -8,7 +8,7 @@
 14226、_russian_Смысл жизни_Аппель Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f92b02dbfffe334504c18a55076aca1c

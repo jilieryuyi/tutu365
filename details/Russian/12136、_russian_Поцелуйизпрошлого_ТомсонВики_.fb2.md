@@ -8,7 +8,7 @@
 12136、_russian_Поцелуй из прошлого_Томсон Вики_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f93d8d11be8bcc4b9a7152a1e86496c

@@ -8,7 +8,7 @@
 4730、_russian_Золотая собака_Устинов Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee6fecf4f0866d668016b23fd04632c8

@@ -8,7 +8,7 @@
 7169、_russian_Ружья Авалона_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e029348325b9b4bd458777cf9a4dd26c

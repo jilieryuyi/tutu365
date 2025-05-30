@@ -8,7 +8,7 @@
 1710、_russian_Разбуженная поцелуем_Рокс Мелани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb50b16e4806e0d97fe327b08ba5e965

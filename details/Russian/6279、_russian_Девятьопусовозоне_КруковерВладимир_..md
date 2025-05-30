@@ -8,7 +8,7 @@
 6279、_russian_Девять опусов о зоне_Круковер Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a037e1c08991134c01d92105f42bc18c

@@ -8,7 +8,7 @@
 5870、_russian_Ангел_Брэдфорд Барбара Тейлор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d71cf3156a9bcfca9487a51a0d598de

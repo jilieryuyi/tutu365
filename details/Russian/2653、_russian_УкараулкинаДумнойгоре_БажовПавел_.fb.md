@@ -8,7 +8,7 @@
 2653、_russian_У караулки на Думной горе_Бажов Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea2fea0f31ed02056b941f076d514c33

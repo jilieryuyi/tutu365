@@ -8,7 +8,7 @@
 3519、_russian_Автобиография_Шварценеггер Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59c1b7ff2ee3477de7562afe63c0b5da

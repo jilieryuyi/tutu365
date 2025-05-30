@@ -8,7 +8,7 @@
 1158、美国和中国最初的相遇_DOLIN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 49f5970402259e8e4f07e9d0e08cfa4e

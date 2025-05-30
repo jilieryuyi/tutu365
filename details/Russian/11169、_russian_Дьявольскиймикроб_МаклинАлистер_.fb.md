@@ -8,7 +8,7 @@
 11169、_russian_Дьявольский микроб_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dc6c29b5b8ffbfb7480f76ca4c1570e

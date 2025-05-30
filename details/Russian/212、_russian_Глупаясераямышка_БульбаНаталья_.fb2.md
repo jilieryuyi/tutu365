@@ -8,7 +8,7 @@
 212、_russian_Глупая серая мышка_Бульба Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52f3d8e8eefca27d79a6c379ff1ad62e

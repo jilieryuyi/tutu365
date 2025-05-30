@@ -8,7 +8,7 @@
 吾国教育病理_郑也夫, ePUBw.COM [未知]__5287979_07380e4e19194777799a8e624c9bdfca.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 07380e4e19194777799a8e624c9bdfca

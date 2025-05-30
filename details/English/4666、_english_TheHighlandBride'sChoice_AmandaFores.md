@@ -8,7 +8,7 @@
 4666、_english_The Highland Bride's Choice_Amanda Forester_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5080e1db915f45da3fe560e3109c6d85

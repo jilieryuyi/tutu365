@@ -8,7 +8,7 @@
 10780、_russian_Выигрыш_Грин Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c022fad056baae6c509a51cc1506d4f

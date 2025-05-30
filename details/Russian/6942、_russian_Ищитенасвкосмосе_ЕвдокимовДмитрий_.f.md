@@ -8,7 +8,7 @@
 6942、_russian_Ищите нас в космосе_Евдокимов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f12cce8ab0e316a5c4bf07b72e9bb72

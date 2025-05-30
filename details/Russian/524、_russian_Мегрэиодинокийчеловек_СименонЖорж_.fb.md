@@ -8,7 +8,7 @@
 524、_russian_Мегрэ и одинокий человек_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54843da8d33818187cdddc40a6cfd519

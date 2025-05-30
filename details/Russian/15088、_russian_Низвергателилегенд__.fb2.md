@@ -8,7 +8,7 @@
 15088、_russian_Низвергатели легенд__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3296bd1c4ca5e36e3a681ae155d7476f

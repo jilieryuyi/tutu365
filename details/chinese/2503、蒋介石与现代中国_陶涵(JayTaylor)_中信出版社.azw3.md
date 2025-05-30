@@ -8,7 +8,7 @@
 2503、蒋介石与现代中国_陶涵(Jay Taylor)_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f2217b9a02d23fa3a504a789fd437382

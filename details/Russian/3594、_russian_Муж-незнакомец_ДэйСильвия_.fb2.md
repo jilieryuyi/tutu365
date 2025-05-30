@@ -8,7 +8,7 @@
 3594、_russian_Муж-незнакомец_Дэй Сильвия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfbe9b5c002864a432fb326856241e88

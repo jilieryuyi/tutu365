@@ -8,7 +8,7 @@
 6852、_russian_Завершение диалога_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d4b561ad19bbd4048f8e751e586aef1

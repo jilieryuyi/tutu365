@@ -8,7 +8,7 @@
 2971、_russian_Правитель мира_Долгопят Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23db91c7797c12447a3baf8232e3b3e5

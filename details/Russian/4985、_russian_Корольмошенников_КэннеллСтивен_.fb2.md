@@ -8,7 +8,7 @@
 4985、_russian_Король мошенников_Кэннелл Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d753a6e55786e155af63c01d0a162d4

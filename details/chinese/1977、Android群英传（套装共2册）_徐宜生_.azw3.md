@@ -8,7 +8,7 @@
 1977、Android群英传（套装共2册）_徐宜生_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 119ed4c85bda40e5ceff66c669ecbbd3

@@ -8,7 +8,7 @@
 837、_russian__АВИАКАТАСТРОФЫ И ПРИКЛЮЧЕНИЯ__Шуткин Николай Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bf93e9d86eabaa1227d97d2d383e433

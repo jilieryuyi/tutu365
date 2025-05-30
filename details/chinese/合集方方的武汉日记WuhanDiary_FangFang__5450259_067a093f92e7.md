@@ -8,7 +8,7 @@
 合集方方的武汉日记Wuhan Diary_Fang Fang__5450259_067a093f92e7e2e14e68ad88e81b5390.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 067a093f92e7e2e14e68ad88e81b5390

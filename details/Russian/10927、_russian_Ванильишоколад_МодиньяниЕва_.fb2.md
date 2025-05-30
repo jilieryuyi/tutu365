@@ -8,7 +8,7 @@
 10927、_russian_Ваниль и шоколад_Модиньяни Ева_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 384b5684a0c769a03b745cb5c5fa113c

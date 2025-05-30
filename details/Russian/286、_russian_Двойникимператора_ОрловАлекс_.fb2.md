@@ -8,7 +8,7 @@
 286、_russian_Двойник императора_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bda17b4bd3e0f23b7262cf6721a05bda

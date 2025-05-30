@@ -8,7 +8,7 @@
 2847、_russian_Отслоения дней (Дневниковые записи, письма)_Бажов Павел Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0adad1f0b57dd9de21945bac92b0c180

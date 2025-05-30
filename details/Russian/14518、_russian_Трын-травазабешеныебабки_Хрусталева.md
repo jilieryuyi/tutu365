@@ -8,7 +8,7 @@
 14518、_russian_Трын-трава за бешеные бабки_Хрусталева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf7ac0dd36619142c816d9d6797da611

@@ -8,7 +8,7 @@
 8484、_russian_Наслаждение смертью_Хлебникова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f67c38d9e1c5b53fd1f080420966ae2a

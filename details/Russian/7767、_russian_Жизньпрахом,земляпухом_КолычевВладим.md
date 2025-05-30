@@ -8,7 +8,7 @@
 7767、_russian_Жизнь прахом, земля пухом_Колычев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 535a46d95606db62fcac2a828f6e5fcd

@@ -8,7 +8,7 @@
 12613、_russian_Роковое кольцо_Виггз Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2335d5103a773569b466418141ce3725

@@ -8,7 +8,7 @@
 14562、_russian_После боя_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 659474bdb99074190867e9302df68572

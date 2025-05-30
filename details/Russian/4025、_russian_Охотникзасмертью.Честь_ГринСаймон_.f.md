@@ -8,7 +8,7 @@
 4025、_russian_Охотник за смертью. Честь_Грин Саймон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1c6e110e026b0c624eca3ccbb1f7417

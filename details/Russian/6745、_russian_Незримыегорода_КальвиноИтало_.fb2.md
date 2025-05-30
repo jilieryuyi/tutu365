@@ -8,7 +8,7 @@
 6745、_russian_Незримые города_Кальвино Итало_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 281bcee2b9317c3d0f449f4dfd969c56

@@ -8,7 +8,7 @@
 7299、_russian_Ответы на вопросы_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 677accad31bb284e1e88b91bc285492b

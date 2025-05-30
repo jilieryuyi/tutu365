@@ -8,7 +8,7 @@
 1704、_russian_Сто две водородные бомбы_Диш Томас Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9210050e3aee839f0d26953b7a3a9128

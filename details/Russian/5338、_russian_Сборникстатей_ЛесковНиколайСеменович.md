@@ -8,7 +8,7 @@
 5338、_russian_Сборник статей_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 810abd4a1aceed1b791393960c7fcee6

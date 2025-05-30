@@ -8,7 +8,7 @@
 1930、_russian_Картина без Иосифа_Джордж Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3c9bffaafe2fd1bc9b39fb05c767549

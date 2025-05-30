@@ -8,7 +8,7 @@
 1236、悖论：破解科学史上最复杂的9大谜团_吉姆·艾尔-哈利利 (Jim Al-Khalili)_中国青年出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 631f72cc69729bbc066f9108a72d32ae

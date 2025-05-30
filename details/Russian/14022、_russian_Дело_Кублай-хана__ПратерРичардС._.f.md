@@ -8,7 +8,7 @@
 14022、_russian_Дело _Кублай-хана__Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7053540bc830ef7611a897ac37568074

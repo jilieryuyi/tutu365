@@ -8,7 +8,7 @@
 新的综合_[美]E.O.威尔逊__5347104_55dae12344ed6567a350842411363e32.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 55dae12344ed6567a350842411363e32

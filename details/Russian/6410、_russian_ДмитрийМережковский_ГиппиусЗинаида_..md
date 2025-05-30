@@ -8,7 +8,7 @@
 6410、_russian_Дмитрий Мережковский_Гиппиус Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f0f6e05b77055366f0af75e04e11782

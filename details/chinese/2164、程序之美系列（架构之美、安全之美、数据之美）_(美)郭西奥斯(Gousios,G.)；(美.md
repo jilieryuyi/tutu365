@@ -8,7 +8,7 @@
 2164、程序之美系列（架构之美、安全之美、数据之美）_(美)郭西奥斯(Gousios,G.)； (美)斯宾耐立思(Spinellis）；John Viega；奥拉姆(Andy Oram) ；Jeff Hammerbacher； (美)Toby Segaran_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 833b241868fe1c4097aaf326863e1c45

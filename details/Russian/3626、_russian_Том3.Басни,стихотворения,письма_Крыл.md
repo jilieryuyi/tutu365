@@ -8,7 +8,7 @@
 3626、_russian_Том 3. Басни, стихотворения, письма_Крылов Иван Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e25812301e7c0de8c4db816deaca0380

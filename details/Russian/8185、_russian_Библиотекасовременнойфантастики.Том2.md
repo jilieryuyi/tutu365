@@ -8,7 +8,7 @@
 8185、_russian_Библиотека современной фантастики. Том 2. Абэ Кобо_Кобо Абэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a0757735ff04d3ac81fccf41f2f16f7

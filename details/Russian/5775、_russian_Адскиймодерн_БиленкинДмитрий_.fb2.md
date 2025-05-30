@@ -8,7 +8,7 @@
 5775、_russian_Адский модерн_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85808a24524e259ac165985af4be7868

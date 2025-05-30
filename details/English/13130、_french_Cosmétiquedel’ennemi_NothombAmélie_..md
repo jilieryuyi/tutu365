@@ -8,7 +8,7 @@
 13130、_french_Cosmétique de l’ennemi_Nothomb Amélie_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3c1b006fea7843e23a46534abc3bf9c3

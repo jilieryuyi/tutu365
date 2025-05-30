@@ -8,7 +8,7 @@
 4664、_english_The Highlander's Heart_Amanda Forester_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 09385a1000d16e0e499255f3ba9da447

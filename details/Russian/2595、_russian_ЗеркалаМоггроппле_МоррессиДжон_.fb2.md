@@ -8,7 +8,7 @@
 2595、_russian_Зеркала Моггроппле_Морресси Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35468971d69e2aa93c166b0b6100e4be

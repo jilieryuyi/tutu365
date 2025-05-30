@@ -8,7 +8,7 @@
 7859、_russian_Яд для живых_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b66ff0d555cf193e15843d131bd376a1

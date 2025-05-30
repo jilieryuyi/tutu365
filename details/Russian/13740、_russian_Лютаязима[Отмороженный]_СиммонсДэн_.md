@@ -8,7 +8,7 @@
 13740、_russian_Лютая зима [Отмороженный]_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ead33dcc753b45fe9f7f3ba39266465

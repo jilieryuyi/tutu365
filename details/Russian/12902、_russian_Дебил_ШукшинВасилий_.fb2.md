@@ -8,7 +8,7 @@
 12902、_russian_Дебил_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b187bc53bc4d6afc012f7f8a7765064a

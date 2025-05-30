@@ -8,7 +8,7 @@
 2110、_russian_Могильщик_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f74872f65570cac441eb4a73796ca845

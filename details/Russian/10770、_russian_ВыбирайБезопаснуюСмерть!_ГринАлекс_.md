@@ -8,7 +8,7 @@
 10770、_russian_Выбирай Безопасную Смерть!_Грин Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0fcae5a520f004374fe8e467d406779

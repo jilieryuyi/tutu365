@@ -8,7 +8,7 @@
 6881、_russian_Цена крови_Хафф Таня_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05eceaea8952360fbdaaffce1bcca010

@@ -8,7 +8,7 @@
 11850、_russian_Коллекционный жар_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d4c915e4ca1491515ca8bb1eb9f3b8e

@@ -8,7 +8,7 @@
 13165、_russian_Предисловие к сборнику _Клич__Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ffea9105677a2c9a1517e2b6e4cfc08

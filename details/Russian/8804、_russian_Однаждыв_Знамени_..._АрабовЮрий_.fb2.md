@@ -8,7 +8,7 @@
 8804、_russian_Однажды в _Знамени_..._Арабов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a9c1d75b46c0d1550d55524d70fb596

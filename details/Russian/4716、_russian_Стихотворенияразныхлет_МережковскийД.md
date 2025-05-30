@@ -8,7 +8,7 @@
 4716、_russian_Стихотворения разных лет_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f49d10b221d3d8e38864ab7af4d0b29

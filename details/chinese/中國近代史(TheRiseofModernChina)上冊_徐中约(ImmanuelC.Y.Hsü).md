@@ -8,7 +8,7 @@
 中國近代史  (The Rise of Modern China) 上冊_徐中约 (Immanuel C.Y.Hsü)_香港中文大學_5370214_81e31b90ecb33f3442fb4238dff40620.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 81e31b90ecb33f3442fb4238dff40620

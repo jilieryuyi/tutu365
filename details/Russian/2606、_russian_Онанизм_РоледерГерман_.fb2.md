@@ -8,7 +8,7 @@
 2606、_russian_Онанизм_Роледер Герман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06f755d8e8f05b38e6581d40e8d330b1

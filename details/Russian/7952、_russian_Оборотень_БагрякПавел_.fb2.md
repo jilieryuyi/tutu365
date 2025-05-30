@@ -8,7 +8,7 @@
 7952、_russian_Оборотень_Багряк Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9ab3b7ba8e2f576d9bcd7cbf7c1c351

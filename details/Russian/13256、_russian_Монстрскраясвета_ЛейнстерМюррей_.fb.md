@@ -8,7 +8,7 @@
 13256、_russian_Монстр с края света_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32b500ab66c28a32c35892e772710e3b

@@ -8,7 +8,7 @@
 10764、_russian_Назидательные новеллы_де Сервантес Мигель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8f56533529f6cbf44550516f3c140a5

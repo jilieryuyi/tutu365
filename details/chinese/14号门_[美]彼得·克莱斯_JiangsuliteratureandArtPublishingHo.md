@@ -8,7 +8,7 @@
 14号门_[美] 彼得·克莱斯_Jiangsu literature and Art Publishing House_5494101_bc90e1c44a15707aae437c9da58cbb96.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bc90e1c44a15707aae437c9da58cbb96

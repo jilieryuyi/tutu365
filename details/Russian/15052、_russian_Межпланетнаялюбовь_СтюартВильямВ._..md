@@ -8,7 +8,7 @@
 15052、_russian_Межпланетная любовь_Стюарт Вильям В._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcc09402509c88a68bdc0c977991d273

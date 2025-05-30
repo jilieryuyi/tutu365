@@ -8,7 +8,7 @@
 6062、_russian_Искривленное пространство (сборник)_Тесленко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e076e7b278f80ecebe8e3761a60483fe

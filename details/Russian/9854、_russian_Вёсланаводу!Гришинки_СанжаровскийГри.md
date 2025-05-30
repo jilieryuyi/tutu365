@@ -8,7 +8,7 @@
 9854、_russian_Вёсла на воду! Гришинки_Санжаровский Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72ea1a5c73fde7b601a2acac1ce4265c

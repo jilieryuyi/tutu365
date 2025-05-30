@@ -8,7 +8,7 @@
 5807、_russian_Влюбленный мститель_Линн Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4038e012dbeebf1071a9437a6726969

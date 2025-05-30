@@ -8,7 +8,7 @@
 4879、_russian_Классика от митьков_митьки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94737b922b8b72abcdbac099de76b088

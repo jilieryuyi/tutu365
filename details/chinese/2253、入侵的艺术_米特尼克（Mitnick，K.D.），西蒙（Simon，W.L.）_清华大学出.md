@@ -8,7 +8,7 @@
 2253、入侵的艺术_米特尼克（Mitnick，K.D.），西蒙（Simon，W.L.）_清华大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a547dbf0db5881262e18267f046c8b8a

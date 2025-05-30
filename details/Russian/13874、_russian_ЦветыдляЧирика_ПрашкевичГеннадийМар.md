@@ -8,7 +8,7 @@
 13874、_russian_Цветы для Чирика_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7be108d9496c33e0ac6bd98491a7f53

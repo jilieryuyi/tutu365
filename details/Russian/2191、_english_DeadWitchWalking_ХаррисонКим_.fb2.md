@@ -8,7 +8,7 @@
 2191、_english_Dead Witch Walking_Харрисон Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a75558410a79faacb337e7f1087cc088

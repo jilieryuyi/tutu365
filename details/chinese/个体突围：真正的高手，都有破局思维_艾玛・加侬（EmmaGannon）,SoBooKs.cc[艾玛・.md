@@ -8,7 +8,7 @@
 个体突围：真正的高手，都有破局思维_艾玛・加侬（Emma Gannon）, SoBooKs.cc [艾玛・加侬（Emma Gannon）, SoBooKs.cc]__5545008_c5efa3a1b13354023a848c282b43d7e9.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c5efa3a1b13354023a848c282b43d7e9

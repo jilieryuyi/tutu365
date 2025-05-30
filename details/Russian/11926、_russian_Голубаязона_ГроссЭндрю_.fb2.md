@@ -8,7 +8,7 @@
 11926、_russian_Голубая зона_Гросс Эндрю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ede1c4ac5bf4b704b397c7baa79327d

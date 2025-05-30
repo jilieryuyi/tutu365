@@ -8,7 +8,7 @@
 32、神曲 (译文名著精选)_但丁·阿利吉耶里 (Dante Alighieri)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 405dce9904e5672b2eae0934f4c4b60b

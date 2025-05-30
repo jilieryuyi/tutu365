@@ -8,7 +8,7 @@
 14146、_russian_Через пустыню_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4310b725cf87da5b171574c1eb21113

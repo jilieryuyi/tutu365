@@ -8,7 +8,7 @@
 5160、_russian_Один день…_Колышкин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ff9d105d03d494ce351f3e45f24b155

@@ -8,7 +8,7 @@
 7865、_russian_Эта милая Людмила_Давыдычев Лев Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c3c500a0e1d089343e133ce230b6180

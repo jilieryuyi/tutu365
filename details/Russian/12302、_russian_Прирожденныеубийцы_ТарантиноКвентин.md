@@ -8,7 +8,7 @@
 12302、_russian_Прирожденные убийцы_Тарантино Квентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15a8e9770b18f0694f1f827a47973f70

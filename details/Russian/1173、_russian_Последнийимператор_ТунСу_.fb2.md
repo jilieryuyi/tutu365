@@ -8,7 +8,7 @@
 1173、_russian_Последний император_Тун Су_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5521458732ee511fe90e05519ee552f4

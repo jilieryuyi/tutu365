@@ -8,7 +8,7 @@
 12930、_russian_Сны_Вырыпаев Иван Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa2a824e85fd57292ba07c3fc149e375

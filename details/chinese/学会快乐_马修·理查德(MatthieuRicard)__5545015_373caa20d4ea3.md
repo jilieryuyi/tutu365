@@ -8,7 +8,7 @@
 学会快乐_马修·理查德(Matthieu Ricard)__5545015_373caa20d4ea3dbbe18248c38288c105.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 373caa20d4ea3dbbe18248c38288c105

@@ -8,7 +8,7 @@
 3438、_russian_Футурологический конгресс_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8337b8cc7f7074b361f53a7dab05f334

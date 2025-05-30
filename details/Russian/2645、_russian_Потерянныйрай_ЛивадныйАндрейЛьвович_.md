@@ -8,7 +8,7 @@
 2645、_russian_Потерянный рай_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a488da92993831ea539c9652c5f1592b

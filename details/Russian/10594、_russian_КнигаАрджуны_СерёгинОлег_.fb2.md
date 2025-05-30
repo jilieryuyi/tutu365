@@ -8,7 +8,7 @@
 10594、_russian_Книга Арджуны_Серёгин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64767ee1f0f2e6d05c4a8cbe1eff6a31

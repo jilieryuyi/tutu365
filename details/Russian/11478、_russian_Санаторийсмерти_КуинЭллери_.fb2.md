@@ -8,7 +8,7 @@
 11478、_russian_Санаторий смерти_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04580f82bcb7d5f0b740ac56f39ac34a

@@ -8,7 +8,7 @@
 12800、_russian_По образу и подобию_Робертс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50468382244551cb2fe9aedd12333fea

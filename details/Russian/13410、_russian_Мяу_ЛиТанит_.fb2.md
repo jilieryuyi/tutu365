@@ -8,7 +8,7 @@
 13410、_russian_Мяу_Ли Танит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7bf8b8b67ed6e414219cb6425ba0a52

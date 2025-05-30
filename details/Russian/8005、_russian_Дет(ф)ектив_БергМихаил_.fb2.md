@@ -8,7 +8,7 @@
 8005、_russian_Дет(ф)ектив_Берг Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9aa9dbb56c309d67cca60ca249601cb9

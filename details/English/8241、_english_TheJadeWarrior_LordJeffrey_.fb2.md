@@ -8,7 +8,7 @@
 8241、_english_The Jade Warrior_Lord Jeffrey_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 062a065867950960346760aa358c62b2

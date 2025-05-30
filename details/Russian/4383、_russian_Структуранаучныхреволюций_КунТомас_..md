@@ -8,7 +8,7 @@
 4383、_russian_Структура научных революций_Кун Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 992126016b9f4f697c6ea5adb3826c18

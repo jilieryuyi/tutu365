@@ -8,7 +8,7 @@
 382、图说生活(畅销升级版)_识茶、泡茶、鉴茶(全图解)_Publisher           _ 上海科学普及出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 89212f4e92a6fd3c6780bda54fcedf64

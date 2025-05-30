@@ -8,7 +8,7 @@
 8662、_russian_Боец. Московский вояж_Угрюмов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8567c40f0f7afcd58d6cf03592b4b05f

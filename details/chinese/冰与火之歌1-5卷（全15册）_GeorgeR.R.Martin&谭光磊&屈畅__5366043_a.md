@@ -8,7 +8,7 @@
 冰与火之歌1-5卷（全15册）_George R.R. Martin & 谭光磊 & 屈畅__5366043_a31316aafeb8e1fe9033fec0a3e8dda4.azw.azw
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a31316aafeb8e1fe9033fec0a3e8dda4

@@ -8,7 +8,7 @@
 TCP-IP详解卷1.rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b7c4461aa6b38c801dd23df63c82ecbb

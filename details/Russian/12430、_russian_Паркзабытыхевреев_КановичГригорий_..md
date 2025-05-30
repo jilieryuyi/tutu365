@@ -8,7 +8,7 @@
 12430、_russian_Парк забытых евреев_Канович Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1dacd7c2d6c93847ddabaae0ac3f8010

@@ -8,7 +8,7 @@
 13798、_russian_Ход белой королевы_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 250482b07896a7c3aa91f62a895ff241

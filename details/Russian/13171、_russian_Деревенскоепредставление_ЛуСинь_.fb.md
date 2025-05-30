@@ -8,7 +8,7 @@
 13171、_russian_Деревенское представление_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11e8263e87f89c878f05b37c0125d40e

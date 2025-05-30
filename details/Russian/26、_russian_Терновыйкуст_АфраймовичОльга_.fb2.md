@@ -8,7 +8,7 @@
 26、_russian_Терновый куст_Афраймович Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e7c2bab3e6677aa8502b47ce4a573ed

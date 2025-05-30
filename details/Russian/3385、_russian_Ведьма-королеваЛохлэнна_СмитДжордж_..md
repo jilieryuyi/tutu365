@@ -8,7 +8,7 @@
 3385、_russian_Ведьма - королева Лохлэнна_Смит Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b21be0967ebd522c3fbbe782f0bb1dd

@@ -8,7 +8,7 @@
 4249、_russian_Адский расчет_Сэпир Ричард, Мерфи Уоррен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b3b86d04cd9f299ff49a9980123442b

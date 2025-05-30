@@ -8,7 +8,7 @@
 13545、_russian_Секретный дьяк_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a68e928a5fc36f0ade358e7269c155e3

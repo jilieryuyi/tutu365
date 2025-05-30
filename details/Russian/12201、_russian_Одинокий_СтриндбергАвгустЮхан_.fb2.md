@@ -8,7 +8,7 @@
 12201、_russian_Одинокий_Стриндберг Август Юхан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d0e87c23cdeb4a2df46c55885e95282

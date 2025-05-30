@@ -8,7 +8,7 @@
 11815、_russian_Смерть в Панама-сити_Кокс Джордж Х._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50dd245a6c3c31dd42e71660de6d0418

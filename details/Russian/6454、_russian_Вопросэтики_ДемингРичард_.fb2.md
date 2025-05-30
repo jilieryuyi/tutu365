@@ -8,7 +8,7 @@
 6454、_russian_Вопрос этики_Деминг Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4c60cf9efe8afd08cc8e8a6f298f640

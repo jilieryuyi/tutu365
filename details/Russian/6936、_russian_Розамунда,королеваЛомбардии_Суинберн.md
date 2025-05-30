@@ -8,7 +8,7 @@
 6936、_russian_Розамунда, королева Ломбардии_Суинберн Алджернон Чарлз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c336be99ce1e9c13438fd3981b12a34

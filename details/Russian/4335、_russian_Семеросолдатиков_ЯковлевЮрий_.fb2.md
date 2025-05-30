@@ -8,7 +8,7 @@
 4335、_russian_Семеро солдатиков_Яковлев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9a145782c0ba3ef979974c88856cae3

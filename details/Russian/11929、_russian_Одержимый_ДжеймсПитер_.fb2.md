@@ -8,7 +8,7 @@
 11929、_russian_Одержимый_Джеймс Питер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7edefcc6ce06ae4583f2e7ed18dd6469

@@ -8,7 +8,7 @@
 632、别再为小事抓狂：爱情篇 (读客睡前心灵文库)_理查德·卡尔森 (Richard Carlson) & 克瑞丝·卡尔森 (Kristine Carlson)_江苏文艺出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ef590b9c469dd3b4a1e0f59f1131ccbe

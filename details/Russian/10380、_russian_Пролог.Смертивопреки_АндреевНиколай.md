@@ -8,7 +8,7 @@
 10380、_russian_Пролог. Смерти вопреки_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e049a05d8b4c6084af437f0d2659e5b

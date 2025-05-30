@@ -8,7 +8,7 @@
 1120、_russian_Человек, потерявший лицо_Беляев Александр Романович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 191358c7ab84ba42fab5dec70b909935

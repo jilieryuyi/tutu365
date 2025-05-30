@@ -8,7 +8,7 @@
 14680、_russian_Киосан. Истинный мастер Дзен_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68c7ade51e19415a72f1dce38e2c3176

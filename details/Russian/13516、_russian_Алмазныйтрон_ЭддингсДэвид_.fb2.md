@@ -8,7 +8,7 @@
 13516、_russian_Алмазный трон_Эддингс Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75baab38caf642290fb354f6027b76dc

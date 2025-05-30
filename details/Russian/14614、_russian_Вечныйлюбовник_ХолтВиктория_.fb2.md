@@ -8,7 +8,7 @@
 14614、_russian_Вечный любовник_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 276fc690e081df43195dd6e2610fda7a

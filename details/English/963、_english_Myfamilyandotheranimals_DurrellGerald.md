@@ -8,7 +8,7 @@
 963、_english_My family and other animals_Durrell Gerald_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0964cd93591a65c694ef83397dd63e2b

@@ -8,7 +8,7 @@
 6701、_spanish_El Lago Sin Nombre_Liang Diane Wei_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4810a3d36c63fe817d45e2e707ec3dbf

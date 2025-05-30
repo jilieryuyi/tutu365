@@ -8,7 +8,7 @@
 4128、_other_Аватар_ Другая сторона правды_Михаил Валерьевич Садов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ff97fb8e705f3d25efd8e7e62ad2c3e

@@ -8,7 +8,7 @@
 1772、_russian_Путешествие домой. Майкл Томас и семь ангелов_Крайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 276ac825f704aeab060e2543e0834bbf

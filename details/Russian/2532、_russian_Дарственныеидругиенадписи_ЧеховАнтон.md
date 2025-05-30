@@ -8,7 +8,7 @@
 2532、_russian_Дарственные и другие надписи_Чехов Антон Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25d36a9f6fadf77679f582fcee7fe277

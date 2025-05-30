@@ -8,7 +8,7 @@
 4586、_russian_Демон и дева_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8001a0692d3cee9ac6ac0c10a90463a9

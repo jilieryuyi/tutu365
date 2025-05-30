@@ -8,7 +8,7 @@
 12529、_russian_Волчицы_Буало-Нарсежак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81001db52302d934e586a330d9e2157e

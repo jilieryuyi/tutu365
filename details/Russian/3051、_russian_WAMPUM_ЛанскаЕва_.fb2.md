@@ -8,7 +8,7 @@
 3051、_russian_WAMPUM_Ланска Ева_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b2252c1f22d99fb89f22bea9191dc08

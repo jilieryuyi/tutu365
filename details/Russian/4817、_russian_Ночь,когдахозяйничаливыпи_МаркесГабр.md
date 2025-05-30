@@ -8,7 +8,7 @@
 4817、_russian_Ночь, когда хозяйничали выпи_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6652cfbd7c6b03303be2f70e925f6406

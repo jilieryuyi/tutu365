@@ -8,7 +8,7 @@
 8764、_english_(87th Precinct 10) King_'s Ransom_Ed Mcbain_OXFORD UNIVERSITY PRESS.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3c052921df30438e0afcfe67b705b0d9

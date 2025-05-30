@@ -8,7 +8,7 @@
 12070、_russian_Ладан и слёзы_Рейслинк Вард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c737a704e03b6f86813106184d447a8

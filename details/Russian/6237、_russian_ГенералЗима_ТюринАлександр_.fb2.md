@@ -8,7 +8,7 @@
 6237、_russian_Генерал Зима_Тюрин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1b73539eac2e16be356703192b0cb32

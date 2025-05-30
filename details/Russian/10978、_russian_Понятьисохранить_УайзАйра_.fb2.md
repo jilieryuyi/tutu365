@@ -8,7 +8,7 @@
 10978、_russian_Понять и сохранить_Уайз Айра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51befcc23d328e411ba06d37e6183143

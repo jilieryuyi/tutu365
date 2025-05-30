@@ -8,7 +8,7 @@
 13049、_french_The Beast - Le baiser d'une rose enflammée_Armelle Hanotte [Hanotte, Armelle]_So Romance.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8c511e8146a6c9fd9610db22fbe2edb7

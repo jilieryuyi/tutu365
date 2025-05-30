@@ -8,7 +8,7 @@
 5722、_russian_Ни шагу назад!_Авраменко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02c92f127759948e17e2f620e44cc04b

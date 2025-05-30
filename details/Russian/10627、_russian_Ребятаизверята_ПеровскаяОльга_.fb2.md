@@ -8,7 +8,7 @@
 10627、_russian_Ребята и зверята_Перовская Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4e2e469ec45a8302c0b10e65eff2d81

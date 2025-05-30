@@ -8,7 +8,7 @@
 10864、_russian_Религия и наука_Франк Семен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 265d6562cc0c5930517a337e4479369a

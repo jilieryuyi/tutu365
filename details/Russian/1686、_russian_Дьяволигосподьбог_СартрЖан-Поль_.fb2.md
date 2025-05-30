@@ -8,7 +8,7 @@
 1686、_russian_Дьявол и господь бог_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5581697c89cf666cae039c72b05e7c08

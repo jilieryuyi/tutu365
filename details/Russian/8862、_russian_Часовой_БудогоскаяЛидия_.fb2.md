@@ -8,7 +8,7 @@
 8862、_russian_Часовой_Будогоская Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67c697391263846b5388fb8938e419ce

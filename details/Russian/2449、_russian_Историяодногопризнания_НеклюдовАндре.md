@@ -8,7 +8,7 @@
 2449、_russian_История одного признания_Неклюдов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18b1577e4030ca5f837a402e4105f606

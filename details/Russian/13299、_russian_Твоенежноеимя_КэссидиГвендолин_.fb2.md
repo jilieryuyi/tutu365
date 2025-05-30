@@ -8,7 +8,7 @@
 13299、_russian_Твое нежное имя_Кэссиди Гвендолин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42224c4603eb34233e4ba6170bbbd245

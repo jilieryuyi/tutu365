@@ -8,7 +8,7 @@
 爱上浪漫 (阿兰·德波顿文集)_阿兰·德波顿(Alain de Botton)__5476523_54428c9283c3a6b72674271a37677267.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 54428c9283c3a6b72674271a37677267

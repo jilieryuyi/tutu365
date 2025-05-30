@@ -8,7 +8,7 @@
 817、_russian_Стерильно чистые убийства_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7755638cf0e526e21e093f222e39da26

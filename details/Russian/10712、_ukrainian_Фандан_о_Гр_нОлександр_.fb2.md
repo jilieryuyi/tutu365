@@ -8,7 +8,7 @@
 10712、_ukrainian_Фандан_о_Гр_н Олександр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e689e790d16df09cce4fa0c9b849b2c

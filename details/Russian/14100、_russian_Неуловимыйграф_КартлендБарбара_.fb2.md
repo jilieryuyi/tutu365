@@ -8,7 +8,7 @@
 14100、_russian_Неуловимый граф_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c0e15550771d04f2354038e3c275ad9

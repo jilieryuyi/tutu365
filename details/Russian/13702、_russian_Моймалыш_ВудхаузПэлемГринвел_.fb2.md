@@ -8,7 +8,7 @@
 13702、_russian_Мой малыш_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0a517972ae82e471fa1e1c68b6e4aed

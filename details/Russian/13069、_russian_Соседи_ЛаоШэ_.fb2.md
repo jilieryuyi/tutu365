@@ -8,7 +8,7 @@
 13069、_russian_Соседи_Лао Шэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c401daa57c61c586654f6413ff973f2f

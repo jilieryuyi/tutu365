@@ -8,7 +8,7 @@
 13695、_russian_Сама жизнь_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7c0c5d64ac0920084e9cdb112879f26

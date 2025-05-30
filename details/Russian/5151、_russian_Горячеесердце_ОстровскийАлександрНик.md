@@ -8,7 +8,7 @@
 5151、_russian_Горячее сердце_Островский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ade78011c409411e82b5fdf27b0b28e5

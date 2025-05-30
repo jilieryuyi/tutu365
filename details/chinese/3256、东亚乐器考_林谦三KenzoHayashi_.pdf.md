@@ -8,7 +8,7 @@
 3256、东亚乐器考_林谦三 Kenzo Hayashi_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ad80cdff2e41f2df37ca73c234bfa470

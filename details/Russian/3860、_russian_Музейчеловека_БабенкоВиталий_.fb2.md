@@ -8,7 +8,7 @@
 3860、_russian_Музей человека_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d5dd0c7a8ddc3799c0829627a11f996

@@ -8,7 +8,7 @@
 15283、_russian_Грешная вдова_Квик Аманда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 463905fabae4b97388d032634c036d9c

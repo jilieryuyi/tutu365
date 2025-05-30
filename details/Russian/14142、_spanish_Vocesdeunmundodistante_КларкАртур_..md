@@ -8,7 +8,7 @@
 14142、_spanish_Voces de un mundo distante_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3abb6bc03980de61ae9968fb997a0d4c

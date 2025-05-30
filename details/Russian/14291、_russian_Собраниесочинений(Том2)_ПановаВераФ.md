@@ -8,7 +8,7 @@
 14291、_russian_Собрание сочинений (Том 2)_Панова Вера Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 913349ffffe49ddc568ae80b43e4dc10

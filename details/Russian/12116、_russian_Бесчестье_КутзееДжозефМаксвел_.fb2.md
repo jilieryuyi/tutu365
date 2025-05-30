@@ -8,7 +8,7 @@
 12116、_russian_Бесчестье_Кутзее Джозеф Максвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e43a3d2620c6860e7563e3e6bcdc866

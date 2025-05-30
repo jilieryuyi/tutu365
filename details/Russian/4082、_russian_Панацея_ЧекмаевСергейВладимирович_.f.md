@@ -8,7 +8,7 @@
 4082、_russian_Панацея_Чекмаев Сергей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07ca47287065167f01c89f304623c9de

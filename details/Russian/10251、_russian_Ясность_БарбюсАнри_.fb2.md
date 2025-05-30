@@ -8,7 +8,7 @@
 10251、_russian_Ясность_Барбюс Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 367f64fd7f4de42adfa2fddabdb2f1f6

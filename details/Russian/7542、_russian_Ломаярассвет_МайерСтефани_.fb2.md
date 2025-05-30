@@ -8,7 +8,7 @@
 7542、_russian_Ломая рассвет_Майер Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10ef36ef4ecf3cfcf3952309d5b9ada1

@@ -8,7 +8,7 @@
 10172、_russian_Дом за пустырем._Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e845eb3651a6261ca365cddc4a5b1be

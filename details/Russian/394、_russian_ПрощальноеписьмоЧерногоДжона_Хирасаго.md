@@ -8,7 +8,7 @@
 394、_russian_Прощальное письмо Черного Джона_Хирасаго Сёго_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45b4a2ed176c26921adfb2cf193c8bd4

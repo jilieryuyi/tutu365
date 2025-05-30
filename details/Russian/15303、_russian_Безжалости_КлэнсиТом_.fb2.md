@@ -8,7 +8,7 @@
 15303、_russian_Без жалости_Клэнси Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0c78ac57ebe9554a77d69051b6bcdd7

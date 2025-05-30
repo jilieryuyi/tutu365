@@ -8,7 +8,7 @@
 6132、_russian_Сокровище ювелира_Шеноа Август_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a14371945b72e1aa8560251a0d59cafe

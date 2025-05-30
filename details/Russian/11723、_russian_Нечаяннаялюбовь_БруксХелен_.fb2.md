@@ -8,7 +8,7 @@
 11723、_russian_Нечаянная любовь_Брукс Хелен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73e785e94b13a02b1000ed1f3f877c94

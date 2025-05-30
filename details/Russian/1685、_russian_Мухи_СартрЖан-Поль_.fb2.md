@@ -8,7 +8,7 @@
 1685、_russian_Мухи_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55e4558bb1770a827aa71862dc1b1427

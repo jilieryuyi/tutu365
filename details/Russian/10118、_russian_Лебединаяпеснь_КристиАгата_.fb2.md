@@ -8,7 +8,7 @@
 10118、_russian_Лебединая песнь_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a81bbfa95f5e77bf72598f1719546d4

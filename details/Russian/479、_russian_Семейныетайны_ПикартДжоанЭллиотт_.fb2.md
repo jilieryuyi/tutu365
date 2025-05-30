@@ -8,7 +8,7 @@
 479、_russian_Семейные тайны_Пикарт Джоан Эллиотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d8b72308ccad743b9bcba1bd3eeee2a

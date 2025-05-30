@@ -8,7 +8,7 @@
 15273、_russian_Нежданная любовь_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94cb0d30545458ec12baf45c1ec5a2b1

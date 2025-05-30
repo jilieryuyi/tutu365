@@ -8,7 +8,7 @@
 3770、_russian_Воители трех миров_Фёдоров В Н_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d96ebe7a6f0cf1b832691c26dfc436d9

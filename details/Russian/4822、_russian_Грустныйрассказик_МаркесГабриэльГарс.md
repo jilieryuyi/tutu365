@@ -8,7 +8,7 @@
 4822、_russian_Грустный рассказик_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c99c65c5d620c09dbb9628efb336805

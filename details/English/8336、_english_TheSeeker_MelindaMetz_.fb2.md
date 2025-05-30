@@ -8,7 +8,7 @@
 8336、_english_The Seeker_Melinda Metz_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e760c5d8bf39e6357655c4b675e657ac

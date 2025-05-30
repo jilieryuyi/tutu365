@@ -8,7 +8,7 @@
 嵌入式系统设计师考试大纲 (全国计算机技术与软件专业技术资格（水平）考试办公室编 etc.) .pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 07a04af6df240517bbf38e8d8c633e2f

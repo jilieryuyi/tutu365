@@ -8,7 +8,7 @@
 8889、_russian_Гетика_Иордан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1104c1b51eb59fd5ec698f68d65d502b

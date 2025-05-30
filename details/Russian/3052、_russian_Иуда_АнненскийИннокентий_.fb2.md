@@ -8,7 +8,7 @@
 3052、_russian_Иуда_Анненский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f7b18c237abca5c2b18415575ea1697

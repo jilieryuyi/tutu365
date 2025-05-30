@@ -8,7 +8,7 @@
 2872、_russian_Поминки_Тимофеев Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3ba778a68e11a848e96bc8dee1c19da

@@ -8,7 +8,7 @@
 13207、_russian_Параллельный мир_Разумов Геннадий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1b1d013b2bc5230bd49ad13f903d939

@@ -8,7 +8,7 @@
 1277、_russian_Дунькин пуп_Александров Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 581c7d1b7b0291cd7606e2b56a179606

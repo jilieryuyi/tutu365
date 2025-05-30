@@ -8,7 +8,7 @@
 11093、_russian_Воздушный шантаж_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c43bb4ddd75f3009cb71ad3e3e95cfd

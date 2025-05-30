@@ -8,7 +8,7 @@
 7297、_russian_Доктор, научите меня пить умеренно_Еникеева Диля_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3d1e7db2ecb487c07e4ddb6c781c63c

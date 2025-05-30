@@ -8,7 +8,7 @@
 10721、_russian_Тайна яхты _Полианта__Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac8e23c02e3ff4246d478bed72b646e6

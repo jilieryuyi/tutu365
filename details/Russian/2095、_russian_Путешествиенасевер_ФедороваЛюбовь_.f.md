@@ -8,7 +8,7 @@
 2095、_russian_Путешествие на север_Федорова Любовь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9822b2b24e9b56a33f12d7f9e45791e6

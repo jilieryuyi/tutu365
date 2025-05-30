@@ -8,7 +8,7 @@
 8593、_russian_Эммануэль_Арсан Эммануэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7c752118ab584b7ee66fa9123f08631

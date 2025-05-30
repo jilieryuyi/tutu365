@@ -8,7 +8,7 @@
 11153、_russian_Бесстыжая_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4b6f973c5299b103c488aabed9ab4c5

@@ -8,7 +8,7 @@
 15262、_russian_Прекрасная спасительница_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e43ee57c74cbe89dd78c684eb75e4a2

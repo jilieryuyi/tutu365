@@ -8,7 +8,7 @@
 2052、_russian_Поражение_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fc331cb1376419ad8a04cc1514c0672

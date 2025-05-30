@@ -8,7 +8,7 @@
 13142、_russian_Какого цвета любовь__Рощина Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43497e1d01c58ecbea1aa6f521f69557

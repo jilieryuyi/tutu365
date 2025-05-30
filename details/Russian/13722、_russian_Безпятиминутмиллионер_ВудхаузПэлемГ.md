@@ -8,7 +8,7 @@
 13722、_russian_Без пяти минут миллионер_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39304daee8535e9f2049510b022c5f82

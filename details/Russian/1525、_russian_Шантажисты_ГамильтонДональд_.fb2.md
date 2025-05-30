@@ -8,7 +8,7 @@
 1525、_russian_Шантажисты_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff9048ccac6ae6ffa0a63fe3402533d9

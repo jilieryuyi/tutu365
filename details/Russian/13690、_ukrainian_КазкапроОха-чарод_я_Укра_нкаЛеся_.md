@@ -8,7 +8,7 @@
 13690、_ukrainian_Казка про Оха-чарод_я_Укра_нка Леся_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89db664bc025b68781752893a8307490

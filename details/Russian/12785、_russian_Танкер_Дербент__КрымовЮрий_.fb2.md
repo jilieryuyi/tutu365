@@ -8,7 +8,7 @@
 12785、_russian_Танкер _Дербент__Крымов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e874da7138f4eae38c215e6763c4846d

@@ -8,7 +8,7 @@
 1065、_russian_Любовь побеждает все_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ae48ce092446bf6e1e03cc484dab93b

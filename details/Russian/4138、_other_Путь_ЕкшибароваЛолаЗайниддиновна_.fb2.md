@@ -8,7 +8,7 @@
 4138、_other_Путь_Екшибарова Лола Зайниддиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1471c974e0ed031ba8d0fa1ad4afd249

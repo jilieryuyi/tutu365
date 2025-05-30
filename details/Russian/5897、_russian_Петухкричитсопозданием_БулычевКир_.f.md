@@ -8,7 +8,7 @@
 5897、_russian_Петух кричит с опозданием_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ef7a6f6ed9dd1b3169a1ed8e7bf1ce2

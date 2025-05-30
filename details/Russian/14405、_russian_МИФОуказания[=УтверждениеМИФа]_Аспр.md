@@ -8,7 +8,7 @@
 14405、_russian_МИФОуказания [= Утверждение МИФа]_Асприн Роберт Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd58caa92d9521b2069ecfe0338fcd2c

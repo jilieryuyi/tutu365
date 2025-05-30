@@ -8,7 +8,7 @@
 7369、_russian_Последний Бастион_Werewolf_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d535aa85c7544162e6f6392f434d06bc

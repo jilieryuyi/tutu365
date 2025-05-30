@@ -8,7 +8,7 @@
 8635、_russian_Закон популярности_Усачева Елена Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c1ab46579e843cbd8fbf540b5e4a9f5

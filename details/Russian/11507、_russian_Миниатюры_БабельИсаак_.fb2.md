@@ -8,7 +8,7 @@
 11507、_russian_Миниатюры_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1821f38d7f7ed59f3a4fa76dc15ea58a

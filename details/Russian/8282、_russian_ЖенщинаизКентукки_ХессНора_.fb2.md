@@ -8,7 +8,7 @@
 8282、_russian_Женщина из Кентукки_Хесс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bf36659c3dba84f4cd73e3d12697db1

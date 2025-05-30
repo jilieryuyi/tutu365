@@ -8,7 +8,7 @@
 10248、_russian_Кэллахэн и его черепашки_Барр Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0474e2305bf592dba89eb68ed98eff9

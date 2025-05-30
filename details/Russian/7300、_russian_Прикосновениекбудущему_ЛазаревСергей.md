@@ -8,7 +8,7 @@
 7300、_russian_Прикосновение к будущему_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35451aeca726a0b822d684a8c6b07be9

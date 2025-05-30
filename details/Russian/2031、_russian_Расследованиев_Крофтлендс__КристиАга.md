@@ -8,7 +8,7 @@
 2031、_russian_Расследование в _Крофтлендс__Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdfd9d2968d7b0be32fd20973e084d61

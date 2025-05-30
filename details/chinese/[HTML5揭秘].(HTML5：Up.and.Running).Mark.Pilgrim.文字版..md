@@ -8,7 +8,7 @@
 [HTML5揭秘].(HTML5：Up.and.Running).Mark.Pilgrim.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 43a8b3f12431464040cf40dfb15a9f1d

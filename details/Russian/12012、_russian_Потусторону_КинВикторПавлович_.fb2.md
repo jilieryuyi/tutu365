@@ -8,7 +8,7 @@
 12012、_russian_По ту сторону_Кин Виктор Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9527a317f7286ba54f1274d6b59b1122

@@ -8,7 +8,7 @@
 14157、_russian_Пустая земля_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b28618a63fc6bad5f5649e25947889b3

@@ -8,7 +8,7 @@
 3313、_russian_Третий глаз-алмаз_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d9a1c60df17b83a93ea54f9844e8760

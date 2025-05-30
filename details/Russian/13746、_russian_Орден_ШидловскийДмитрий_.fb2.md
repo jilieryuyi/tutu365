@@ -8,7 +8,7 @@
 13746、_russian_Орден_Шидловский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25f990d696aadee910a2586705dc025b

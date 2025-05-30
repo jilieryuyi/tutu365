@@ -8,7 +8,7 @@
 8607、_english_The Light of the Oracle_Victoria Hanley _Random House Children's Books.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dfc5507ced52d61a097d2da54c57cdca

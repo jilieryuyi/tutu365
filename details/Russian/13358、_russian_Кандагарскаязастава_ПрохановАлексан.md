@@ -8,7 +8,7 @@
 13358、_russian_Кандагарская застава_Проханов Александр Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7c52f462d922dfdb99ec4aa85b345f7

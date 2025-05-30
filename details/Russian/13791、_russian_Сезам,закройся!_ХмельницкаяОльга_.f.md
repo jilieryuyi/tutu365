@@ -8,7 +8,7 @@
 13791、_russian_Сезам, закройся!_Хмельницкая Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 211262158d7066866e9bc757f91cc2a6

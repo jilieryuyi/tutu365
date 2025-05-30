@@ -8,7 +8,7 @@
 4466、_russian_Обрученная с мечтой_Скотт Тереза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52b77883cd491cc619f62ec21b37aa4b

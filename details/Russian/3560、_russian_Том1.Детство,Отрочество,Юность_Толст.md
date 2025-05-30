@@ -8,7 +8,7 @@
 3560、_russian_Том 1. Детство, Отрочество, Юность_Толстой Лев Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a7313a01a766a12a3fbbc358a590cc2

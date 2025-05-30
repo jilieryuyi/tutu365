@@ -8,7 +8,7 @@
 7749、_russian_Фантастические басни_Бирс Амброз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44ccda7b716547a8ba059bcd2b93d4e1

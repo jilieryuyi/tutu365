@@ -8,7 +8,7 @@
 13912、_russian_Сингомэйкеры_Никитин Юрий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 018d859f05b9bad4a309fcd05a11ebef

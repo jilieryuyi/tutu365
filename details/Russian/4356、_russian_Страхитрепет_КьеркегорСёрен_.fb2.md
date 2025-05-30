@@ -8,7 +8,7 @@
 4356、_russian_Страх и трепет_Кьеркегор Сёрен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 308ef109e725d829a7e682217c5b52c7

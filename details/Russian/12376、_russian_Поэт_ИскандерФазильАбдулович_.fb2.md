@@ -8,7 +8,7 @@
 12376、_russian_Поэт_Искандер Фазиль Абдулович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43e30a25b56f11a537bf8f0e0bda3c88

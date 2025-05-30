@@ -8,7 +8,7 @@
 2297、_russian_Тайный путь_Посняков Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5daa1fb79732782f32611eeda76fae94

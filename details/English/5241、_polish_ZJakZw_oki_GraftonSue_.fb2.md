@@ -8,7 +8,7 @@
 5241、_polish_Z Jak Zw_oki_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c8ac519721a5955ed8e224f1e693f1c3

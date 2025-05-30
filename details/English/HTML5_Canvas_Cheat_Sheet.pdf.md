@@ -8,7 +8,7 @@
 HTML5_Canvas_Cheat_Sheet.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 59510028561daf62e00bf9f6f066b033

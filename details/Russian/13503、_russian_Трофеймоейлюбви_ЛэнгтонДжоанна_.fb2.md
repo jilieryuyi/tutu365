@@ -8,7 +8,7 @@
 13503、_russian_Трофей моей любви_Лэнгтон Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4410005127cdef540fd6afe39ca44cd4

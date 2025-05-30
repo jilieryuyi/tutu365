@@ -8,7 +8,7 @@
 11433、_russian_Ночная смена (сборник)_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc58c0cd38c77f4e721d46269aa52867

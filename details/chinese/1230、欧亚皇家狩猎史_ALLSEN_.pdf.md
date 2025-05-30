@@ -8,7 +8,7 @@
 1230、欧亚皇家狩猎史_ALLSEN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1064a0f1082b2a88569e992bf72b706f

@@ -8,7 +8,7 @@
 15206、_russian_Белый город_Па Марго_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be63ebe9ec4f7389300c419a28e92f3e

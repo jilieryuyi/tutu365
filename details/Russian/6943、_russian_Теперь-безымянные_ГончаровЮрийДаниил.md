@@ -8,7 +8,7 @@
 6943、_russian_Теперь-безымянные_Гончаров Юрий Даниилович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9900c5161c3c8b00b6a47f2a436c6f0

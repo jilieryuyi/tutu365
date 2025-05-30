@@ -8,7 +8,7 @@
 房間裡最有智慧的人_湯瑪斯•吉洛維奇,李•羅斯,Thomas Gilovich,Lee Ross_先覺出版社_5499009_c685ffe58c5d6dbf887d5e8b7695360f.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c685ffe58c5d6dbf887d5e8b7695360f

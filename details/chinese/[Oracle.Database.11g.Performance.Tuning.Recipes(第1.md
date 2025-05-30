@@ -8,7 +8,7 @@
 [Oracle.Database.11g.Performance.Tuning.Recipes(第1版)].(Oracle.Database.11g.Performance.Tuning.Recipes).Sam.Alapati.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1ca241701dd961b5813b2455462eb885

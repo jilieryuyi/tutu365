@@ -8,7 +8,7 @@
 3573、_russian_Академия обольщения_Арсеньева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1022f2b0eb9a97bb4db4475eb7a6327b

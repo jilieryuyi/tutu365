@@ -8,7 +8,7 @@
 1610、_russian_Один год счастья__Росс Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88e56ca4c74f9a4a309510c7238d709c

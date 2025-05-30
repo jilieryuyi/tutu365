@@ -8,7 +8,7 @@
 6515、_russian_Операция _Цхинвал__Байкалов Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97ab2ce1005100d3f08e5d85b24a7754

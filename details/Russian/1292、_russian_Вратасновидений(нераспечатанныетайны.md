@@ -8,7 +8,7 @@
 1292、_russian_Врата сновидений (нераспечатанные тайны тольтеков)_Странник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ddd1ca2ace516820cd1e2aaf9dac996

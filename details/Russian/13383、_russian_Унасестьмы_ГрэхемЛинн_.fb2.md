@@ -8,7 +8,7 @@
 13383、_russian_У нас есть мы_Грэхем Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 badc0e1c490a4a09bf72c46752f34345

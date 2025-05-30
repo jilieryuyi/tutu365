@@ -8,7 +8,7 @@
 11312、_russian_Академия на краю гибели_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3c56ff21f64bd7fa9f806a12c38de04

@@ -8,7 +8,7 @@
 10378、_english_Sara's Game_Ernie Lindsey_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a7c9f947466451e00619a6d3f7d1e302

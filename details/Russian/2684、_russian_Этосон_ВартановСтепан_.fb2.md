@@ -8,7 +8,7 @@
 2684、_russian_Это сон_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57f139de81ceb2204ab41b8a76a03fb6

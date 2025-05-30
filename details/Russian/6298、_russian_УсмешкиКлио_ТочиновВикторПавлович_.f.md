@@ -8,7 +8,7 @@
 6298、_russian_Усмешки Клио_Точинов Виктор Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3139d1c17a8503200c242abe99eea9ba

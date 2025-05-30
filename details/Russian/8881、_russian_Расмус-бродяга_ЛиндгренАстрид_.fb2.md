@@ -8,7 +8,7 @@
 8881、_russian_Расмус-бродяга_Линдгрен Астрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d85738271d0ebd1271c73f12f898fe4c

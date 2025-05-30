@@ -8,7 +8,7 @@
 827、_russian__Джулия, Джулия...__Вуд Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61d066966c80166ca48923eeb39579a4

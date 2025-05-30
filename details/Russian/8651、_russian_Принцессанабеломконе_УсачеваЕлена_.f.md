@@ -8,7 +8,7 @@
 8651、_russian_Принцесса на белом коне_Усачева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f86a2599d79f5b7ea2df95e1f34730cb

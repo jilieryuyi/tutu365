@@ -8,7 +8,7 @@
 8974、_russian_Рабы свободы_Вольнов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8acff243ab2c3d9c36adb0fea15ed54a

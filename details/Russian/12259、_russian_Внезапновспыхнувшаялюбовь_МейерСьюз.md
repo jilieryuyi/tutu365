@@ -8,7 +8,7 @@
 12259、_russian_Внезапно вспыхнувшая любовь_Мейер Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cd83969e5327f4cd781ffbe0231b5cd

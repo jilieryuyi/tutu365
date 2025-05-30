@@ -8,7 +8,7 @@
 11846、_russian_Манна небесная_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a25832376248aa693e511ab30317f16c

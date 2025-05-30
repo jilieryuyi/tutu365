@@ -8,7 +8,7 @@
 6652、_russian_Тайна _Aрхелона_ (Крик дельфина)_Черкашин Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b5ddbc86b3d4f462a84e9b732a0bb7c

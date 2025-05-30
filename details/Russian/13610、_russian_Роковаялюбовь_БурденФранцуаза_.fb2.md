@@ -8,7 +8,7 @@
 13610、_russian_Роковая любовь_Бурден Француаза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d37d76aff25e39d6477c6cb4563af5d

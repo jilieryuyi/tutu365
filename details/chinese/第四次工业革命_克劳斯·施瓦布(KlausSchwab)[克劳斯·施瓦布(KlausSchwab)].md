@@ -8,7 +8,7 @@
 第四次工业革命_克劳斯·施瓦布(Klaus Schwab) [克劳斯·施瓦布(Klaus Schwab)]__5371390_dac0f8a112ff156ae3a4e8f3bdee7eeb.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dac0f8a112ff156ae3a4e8f3bdee7eeb

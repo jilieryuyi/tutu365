@@ -8,7 +8,7 @@
 6504、_russian_Stephanos_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bae1cf6d0f2b0bf1ec2e1eed57a18a63

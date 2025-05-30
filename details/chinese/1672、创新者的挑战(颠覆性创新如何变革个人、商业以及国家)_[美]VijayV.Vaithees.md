@@ -8,7 +8,7 @@
 1672、创新者的挑战(颠覆性创新如何变革个人、商业以及国家)_[美]Vijay V. Vaitheeswaran（范思杰）_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f5a566ca6962a7e6fd47a8c69fe91778

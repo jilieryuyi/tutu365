@@ -8,7 +8,7 @@
 14705、_english_The Warrior's Bride Prize_Jenni Fletcher_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b9d428a316d463a64a4da252c87db119

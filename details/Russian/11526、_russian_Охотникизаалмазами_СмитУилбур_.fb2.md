@@ -8,7 +8,7 @@
 11526、_russian_Охотники за алмазами_Смит Уилбур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0aafa489505bb6a21f6ac64aa58e4388

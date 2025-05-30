@@ -8,7 +8,7 @@
 美国少年学霸超级笔记：英語 = Everything You Need to Ace English Language Arts in One Big Fat Notebook (美国沃克曼出版公司 (Workman Publishing)).azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d27e3bc838dc2b89c8cca459239cc22b

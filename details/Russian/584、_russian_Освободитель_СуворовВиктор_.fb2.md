@@ -8,7 +8,7 @@
 584、_russian_Освободитель_Суворов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff0e4e12f62bd6a9cf0cf300a6a54fcd

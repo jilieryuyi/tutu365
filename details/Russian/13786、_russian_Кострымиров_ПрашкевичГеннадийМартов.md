@@ -8,7 +8,7 @@
 13786、_russian_Костры миров_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 219b16fac40a9f63432ccfdec77f5b08

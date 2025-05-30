@@ -8,7 +8,7 @@
 2551、_russian_Туманность Ориона_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 277103e63ce33a4294701bd75d1a6a9a

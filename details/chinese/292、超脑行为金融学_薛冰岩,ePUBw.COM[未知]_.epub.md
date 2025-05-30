@@ -8,7 +8,7 @@
 292、超脑行为金融学_薛冰岩, ePUBw.COM [未知]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e84482e805fbe9fd74575b5fb00876a

@@ -8,7 +8,7 @@
 7544、_russian_Разорванный круг_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f225eb371a6bb031dca188f8579478b

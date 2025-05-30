@@ -8,7 +8,7 @@
 1569、_russian_Мурка-моряк_Смуул Юхан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65170ee70835df55a44eaa308802443e

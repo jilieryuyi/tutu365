@@ -8,7 +8,7 @@
 75、_russian_Der Untergang des abendlandesmenschen_Уолдроп Говард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 998f53b1a1a6661874803241843089bc

@@ -8,7 +8,7 @@
 6460、_russian_Тот самый непобедимый_Льгов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0533bcfb00f3e85733b95480f80d7a3

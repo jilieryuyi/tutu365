@@ -8,7 +8,7 @@
 6141、_russian_История безумия в Классическую эпоху_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 751ee8b50bdc18ca62ae3efa5199e810

@@ -8,7 +8,7 @@
 5716、_ukrainian_Байки Харк_вськ__Сковорода Григор_й Савич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 418ab25a34d9baf015368e7fcdbd46af

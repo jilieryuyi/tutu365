@@ -8,7 +8,7 @@
 8564、_russian_Цезарь Каскабель_Верн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbc4f8e04040b6d41a21069366a20aaf

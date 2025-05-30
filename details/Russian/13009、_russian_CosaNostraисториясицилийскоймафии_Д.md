@@ -8,7 +8,7 @@
 13009、_russian_Cosa Nostra история сицилийской мафии_Дикки Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3699154a567bf6a8d2c3aa64d5265994

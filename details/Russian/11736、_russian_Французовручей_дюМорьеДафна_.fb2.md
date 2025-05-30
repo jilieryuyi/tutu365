@@ -8,7 +8,7 @@
 11736、_russian_Французов ручей_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ed46afeab4151b365b5663f0fe7aa8c

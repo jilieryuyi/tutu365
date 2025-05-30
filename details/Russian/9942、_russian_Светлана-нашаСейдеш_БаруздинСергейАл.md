@@ -8,7 +8,7 @@
 9942、_russian_Светлана - наша Сейдеш_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 185c0f0d41d849e23efd614b48ffdc7d

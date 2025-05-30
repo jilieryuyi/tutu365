@@ -8,7 +8,7 @@
 13837、_ukrainian_Ф_аско_Лем Стан_слав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca7cd53fd6c7b0db54c916b382168844

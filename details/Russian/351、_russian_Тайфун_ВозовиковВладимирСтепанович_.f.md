@@ -8,7 +8,7 @@
 351、_russian_Тайфун_Возовиков Владимир Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d971ac2d473306d9b6afb91f1fad3f5

@@ -8,7 +8,7 @@
 11868、_russian_Путевые заметки_Ильф Илья, Петров Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85fa7cf87d3452db117b4860cf541686

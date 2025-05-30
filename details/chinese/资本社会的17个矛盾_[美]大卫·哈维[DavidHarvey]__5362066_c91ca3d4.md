@@ -8,7 +8,7 @@
 资本社会的17个矛盾_[美]大卫·哈维 [David Harvey]__5362066_c91ca3d4bfafdc9fc2d885536cd7af80.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c91ca3d4bfafdc9fc2d885536cd7af80

@@ -8,7 +8,7 @@
 3301、_russian_Посмертный образ_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24955bd7431fb3729ce05c4ccc4fcfe7

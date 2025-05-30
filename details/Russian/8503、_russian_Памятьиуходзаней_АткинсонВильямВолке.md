@@ -8,7 +8,7 @@
 8503、_russian_Память и уход за ней_Аткинсон Вильям Волкер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40ae6c273dd04d99d6d2bef0633b3928

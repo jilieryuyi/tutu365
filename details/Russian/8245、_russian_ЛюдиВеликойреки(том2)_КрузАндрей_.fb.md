@@ -8,7 +8,7 @@
 8245、_russian_Люди Великой реки (том 2)_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b307033426babd5b8c71c6f2a54d9da

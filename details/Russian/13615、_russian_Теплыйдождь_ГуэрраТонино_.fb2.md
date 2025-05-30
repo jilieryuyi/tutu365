@@ -8,7 +8,7 @@
 13615、_russian_Теплый дождь_Гуэрра Тонино_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9a25ff6a5d75322fddbd6382c15fdd8

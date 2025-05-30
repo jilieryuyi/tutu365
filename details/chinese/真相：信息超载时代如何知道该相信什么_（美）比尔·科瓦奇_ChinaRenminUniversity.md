@@ -8,7 +8,7 @@
 真相：信息超载时代如何知道该相信什么_（美）比尔·科瓦奇_China Renmin University Press_5353827_c71ad94b58c3ea59d3f858c11b240c9d.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c71ad94b58c3ea59d3f858c11b240c9d

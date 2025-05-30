@@ -8,7 +8,7 @@
 4711、_russian_Шесть серебряных пуль_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c85651351e5e5e3425ab50055591316

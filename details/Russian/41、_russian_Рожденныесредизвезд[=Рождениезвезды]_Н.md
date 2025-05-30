@@ -8,7 +8,7 @@
 41、_russian_Рожденные среди звезд [= Рождение звезды]_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c96f6b3e7b5391cd9b571cc5eaf2e993

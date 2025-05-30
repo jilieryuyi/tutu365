@@ -8,7 +8,7 @@
 4247、_russian_Есть ли Бог_Циолковский Константин Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82646675f0c5385530d56b4734d4eede

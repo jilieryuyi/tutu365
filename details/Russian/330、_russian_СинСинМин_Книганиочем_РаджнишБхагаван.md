@@ -8,7 +8,7 @@
 330、_russian_Син Син Мин_ Книга ни о чем_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 274fb49f6e4b8c5d45bd4679dfdb31a6

@@ -8,7 +8,7 @@
 14043、_russian_Путь уцелевшего_Зан Тимоти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ded265d680e72a70c83a29202eee1b38

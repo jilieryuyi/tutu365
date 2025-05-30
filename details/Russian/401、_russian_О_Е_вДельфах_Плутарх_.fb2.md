@@ -8,7 +8,7 @@
 401、_russian_О _Е_ в Дельфах_Плутарх_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e968b4b39ee53877d7e2b976af2cf738

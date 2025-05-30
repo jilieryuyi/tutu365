@@ -8,7 +8,7 @@
 15978、_english_Heart's War_Kathryn Loch_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1bc2bdd74416ad1637aad55d4f794643

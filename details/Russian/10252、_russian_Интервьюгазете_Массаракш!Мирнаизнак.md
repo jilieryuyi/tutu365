@@ -8,7 +8,7 @@
 10252、_russian_Интервью газете _Массаракш! Мир наизнаку__Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62c00cc0a432aef33d578cc71a50a0c3

@@ -8,7 +8,7 @@
 13462、_russian_Брат_Макаллистер Брюс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00943763692e3885ee417972a230f224

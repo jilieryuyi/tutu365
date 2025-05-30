@@ -8,7 +8,7 @@
 715、_english_Fight Club_Palahniuk Chuck_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 887e07db762de5978be361d191e86693

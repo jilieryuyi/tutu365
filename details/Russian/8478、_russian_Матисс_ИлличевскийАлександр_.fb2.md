@@ -8,7 +8,7 @@
 8478、_russian_Матисс_Илличевский Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60111fac463073f44a40825fe941f7df

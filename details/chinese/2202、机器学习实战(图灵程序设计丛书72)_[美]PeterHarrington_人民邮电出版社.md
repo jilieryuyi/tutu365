@@ -8,7 +8,7 @@
 2202、机器学习实战 (图灵程序设计丛书 72)_[美]Peter Harrington_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 73e13c0534877725cb591ffd7de1f15f

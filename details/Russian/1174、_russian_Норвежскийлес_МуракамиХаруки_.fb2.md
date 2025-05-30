@@ -8,7 +8,7 @@
 1174、_russian_Норвежский лес_Мураками Харуки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d48ddee8231933c28629f2f969c29c0f

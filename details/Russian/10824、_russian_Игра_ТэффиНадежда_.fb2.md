@@ -8,7 +8,7 @@
 10824、_russian_Игра_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 748d78257efe4cad226f229ca3f95f5f

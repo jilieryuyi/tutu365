@@ -8,7 +8,7 @@
 954、_russian_РАВНЕНИЕ НА ЗНАМЯ_БУШКОВ Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24fad05f4cb1183bcb10026f16421f68

@@ -8,7 +8,7 @@
 13696、_english_Border Lord's Bride_Gerri Russell_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2d8f49b37d79e0bfa60515a661edb84a

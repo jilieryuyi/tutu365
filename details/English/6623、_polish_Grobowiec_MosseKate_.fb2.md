@@ -8,7 +8,7 @@
 6623、_polish_Grobowiec_Mosse Kate_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ff34e3ed50d01b99a1cd4f72acc32b0c

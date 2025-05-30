@@ -8,7 +8,7 @@
 15254、_russian_Алмазный тигр_Максвелл Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c05fe2f39f8db9a28b9f99f725a9ae07

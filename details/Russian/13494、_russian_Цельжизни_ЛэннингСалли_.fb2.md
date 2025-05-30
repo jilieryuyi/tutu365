@@ -8,7 +8,7 @@
 13494、_russian_Цель жизни_Лэннинг Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06dfe6d09d370aa7d3e1a99fd811caa7

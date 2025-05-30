@@ -8,7 +8,7 @@
 13344、_russian_Зимняя роза_Рот Эмили_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2152dff277dbd1b138f340044e9faed1

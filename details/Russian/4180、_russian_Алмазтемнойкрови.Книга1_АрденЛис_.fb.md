@@ -8,7 +8,7 @@
 4180、_russian_Алмаз темной крови. Книга 1_Арден Лис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b1baee14550f5ec54b2c6586f5164a1

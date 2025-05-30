@@ -8,7 +8,7 @@
 【中医】中医诊断学 （供中医类专业用）(OCR).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bcfcebad57bbf4731ccfa8835a5899a1

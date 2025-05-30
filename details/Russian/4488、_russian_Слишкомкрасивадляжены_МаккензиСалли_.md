@@ -8,7 +8,7 @@
 4488、_russian_Слишком красива для жены_Маккензи Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baf1044183edada58a193aec445ca4da

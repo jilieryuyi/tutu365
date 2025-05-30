@@ -8,7 +8,7 @@
 1048、_russian_Это и моя война_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e301f246dc2ec1ceb47f8b693e516b51

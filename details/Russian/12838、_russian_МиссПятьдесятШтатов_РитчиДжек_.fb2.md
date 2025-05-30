@@ -8,7 +8,7 @@
 12838、_russian_Мисс Пятьдесят Штатов_Ритчи Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e0d930224252d6f1216193deb0a9589

@@ -8,7 +8,7 @@
 3400、_russian_Академия_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02eca0ac5bcc5db885e27594ffcc34ef

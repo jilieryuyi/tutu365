@@ -8,7 +8,7 @@
 2965、_russian_Холст_Ермаков Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f95a152bdce1922b5f33e898553d410

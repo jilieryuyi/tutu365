@@ -8,7 +8,7 @@
 5019、_russian_Неприрожденные убийцы_Оперской Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aac5fc8670db69ed30843e0f5343dd73

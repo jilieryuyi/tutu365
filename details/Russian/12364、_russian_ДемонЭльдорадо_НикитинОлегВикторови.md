@@ -8,7 +8,7 @@
 12364、_russian_Демон Эльдорадо_Никитин Олег Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b587a962188f1ab6cd6f2c00075904df

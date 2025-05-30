@@ -8,7 +8,7 @@
 6947、_russian_Ключ из желтого металла_Фрай Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 027cc2f28be500837a70d94aaef649d4

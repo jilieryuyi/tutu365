@@ -8,7 +8,7 @@
 3785、_russian_За пределами мозга_Гроф Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c66c66988d725f652c965df88808554

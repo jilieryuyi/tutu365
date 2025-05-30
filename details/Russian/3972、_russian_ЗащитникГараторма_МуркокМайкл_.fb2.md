@@ -8,7 +8,7 @@
 3972、_russian_Защитник Гараторма_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3fbf840e4c6b2e2f313090d93998857

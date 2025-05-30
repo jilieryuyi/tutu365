@@ -8,7 +8,7 @@
 像哲学家一样生活_斯多葛哲学的生活艺术_威廉·B. 欧文 (William B. Irvine) [欧文, 威廉·B.]__5520244_b8520371ec88ab5aab81d1f0b752ef75.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b8520371ec88ab5aab81d1f0b752ef75

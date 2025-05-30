@@ -8,7 +8,7 @@
 2472、_english_The King's Favorite_Tanya Anne Crosby_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1b4004066fb5634a4828e6e664e42b87

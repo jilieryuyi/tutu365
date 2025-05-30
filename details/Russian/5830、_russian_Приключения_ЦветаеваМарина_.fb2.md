@@ -8,7 +8,7 @@
 5830、_russian_Приключения_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e30f3ae00b7035e382e0d612a9ca096

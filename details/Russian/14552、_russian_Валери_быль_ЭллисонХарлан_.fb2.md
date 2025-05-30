@@ -8,7 +8,7 @@
 14552、_russian_Валери_ быль_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14c73e315db388f068e3408753bccf3f

@@ -8,7 +8,7 @@
 10282、_russian_Знатная плутовка_Басби Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc48db09044417f6f1998eb49f68cee0

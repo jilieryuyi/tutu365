@@ -8,7 +8,7 @@
 7427、_english_For the Earl's Pleasure_Anne Mallory_HarperCollins.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e2c01532d2cc05ef3c1695da1a0de887

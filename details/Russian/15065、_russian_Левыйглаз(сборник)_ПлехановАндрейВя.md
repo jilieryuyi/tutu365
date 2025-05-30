@@ -8,7 +8,7 @@
 15065、_russian_Левый глаз (сборник)_Плеханов Андрей Вячеславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fc970ab8f27ef73c3ba4f6bed84a4dc

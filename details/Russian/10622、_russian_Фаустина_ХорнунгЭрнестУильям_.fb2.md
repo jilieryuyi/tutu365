@@ -8,7 +8,7 @@
 10622、_russian_Фаустина_Хорнунг Эрнест Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba69310b48306bb3e87a4baaf2605d14

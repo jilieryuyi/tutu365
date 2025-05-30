@@ -8,7 +8,7 @@
 1117、_russian_Фонарь Диогена_Брикер Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 080d80badb679b2a5b19f7ec2969b97b

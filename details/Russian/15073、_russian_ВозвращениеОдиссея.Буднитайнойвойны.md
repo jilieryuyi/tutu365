@@ -8,7 +8,7 @@
 15073、_russian_Возвращение Одиссея. Будни тайной войны_Надеждин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e7401bfb38be4fb15b40ae7f26fbc43

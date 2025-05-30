@@ -8,7 +8,7 @@
 2647、_english_The Scandalous Duke Takes a Bride_Tiffany Clare_St. Martin's Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 48a3ae0d0b8988dcc184ba1457a3abf8

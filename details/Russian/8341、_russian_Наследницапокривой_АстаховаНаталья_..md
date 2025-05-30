@@ -8,7 +8,7 @@
 8341、_russian_Наследница по кривой_Астахова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 580e4f37b402707c1762e7b9c9a79d51

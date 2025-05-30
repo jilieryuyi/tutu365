@@ -8,7 +8,7 @@
 5437、_russian_Кувырков_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4204eac1a2d8267299c315e96514b5cf

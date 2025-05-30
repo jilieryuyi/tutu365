@@ -8,7 +8,7 @@
 8575、_english_Proverbs (Baker Commentary on the Old Testament Wisdom and Psalms)_Tremper Longman III_Baker Academic.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 02bb89e27b90ed895d2565f97e2302a6

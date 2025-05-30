@@ -8,7 +8,7 @@
 13428、_russian_Динохромный_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfdaf3e854773c438f990fcc7862cf28

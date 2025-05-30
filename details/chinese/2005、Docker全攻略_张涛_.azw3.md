@@ -8,7 +8,7 @@
 2005、Docker全攻略_张涛_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a697478bff26199077d53d5842b59336

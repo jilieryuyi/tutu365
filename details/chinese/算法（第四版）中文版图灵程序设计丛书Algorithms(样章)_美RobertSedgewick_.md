@@ -8,7 +8,7 @@
 算法（第四版）中文版 图灵程序设计丛书 Algorithms (样章)_美 Robert Sedgewick _美 Kevin Wayne_译 谢路云_人民邮电出版社_5342760_660883ad8b29172663327d4a93dab77d.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 660883ad8b29172663327d4a93dab77d

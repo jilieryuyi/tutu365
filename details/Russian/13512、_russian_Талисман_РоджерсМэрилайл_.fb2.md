@@ -8,7 +8,7 @@
 13512、_russian_Талисман_Роджерс Мэрилайл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e32f9a7ecfff0c71d867649f5cebabfa

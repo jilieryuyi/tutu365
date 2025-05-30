@@ -8,7 +8,7 @@
 12744、_russian_Рожденный править_Резник Майкл (Майк) Даймонд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59a8e052408f1dad79a09974bcf4ea63

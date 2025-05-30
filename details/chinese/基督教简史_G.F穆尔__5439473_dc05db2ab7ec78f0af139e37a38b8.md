@@ -8,7 +8,7 @@
 基督教简史_G.F穆尔__5439473_dc05db2ab7ec78f0af139e37a38b8461.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dc05db2ab7ec78f0af139e37a38b8461

@@ -8,7 +8,7 @@
 3261、印度对华战争·插图版_[澳]内维尔·马克斯韦尔 & HI-PDA_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2dfa032da46541a3ecde71c957dedd6d

@@ -8,7 +8,7 @@
 660、_russian_Уровень ноль_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e09c3728ffa7c877629ab28e88a72b90

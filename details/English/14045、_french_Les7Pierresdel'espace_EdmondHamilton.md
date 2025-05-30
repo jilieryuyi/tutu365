@@ -8,7 +8,7 @@
 14045、_french_Les 7 Pierres de l'espace_Edmond Hamilton_Le Bélial'.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ffa20258c90dc2320d4ad030d32674cc

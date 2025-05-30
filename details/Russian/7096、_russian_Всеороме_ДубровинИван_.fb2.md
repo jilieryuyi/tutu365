@@ -8,7 +8,7 @@
 7096、_russian_Все о роме_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbe5ed6d8f44815d277c28be8eac2896

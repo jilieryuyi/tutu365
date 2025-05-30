@@ -8,7 +8,7 @@
 313、_russian_Смертельные годы_Блиш Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b2e6ac544f3215e5274673be20a47d0

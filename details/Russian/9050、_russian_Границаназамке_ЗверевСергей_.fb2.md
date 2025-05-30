@@ -8,7 +8,7 @@
 9050、_russian_Граница на замке_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0d6c20872f116d77321d2d0e99c1511

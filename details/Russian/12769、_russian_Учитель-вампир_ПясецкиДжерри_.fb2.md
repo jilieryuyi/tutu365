@@ -8,7 +8,7 @@
 12769、_russian_Учитель-вампир_Пясецки Джерри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ffcc78b875b1eaab45aab8f7a355024

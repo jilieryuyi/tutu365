@@ -8,7 +8,7 @@
 11185、_russian_Ася_Тургенев Иван Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6691385794d24fa7064aee2ebb460d2

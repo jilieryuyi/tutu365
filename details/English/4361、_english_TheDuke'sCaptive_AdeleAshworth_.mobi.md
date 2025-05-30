@@ -8,7 +8,7 @@
 4361、_english_The Duke's Captive_Adele Ashworth_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 95bef6b74027a0703f4c349c31b79af0

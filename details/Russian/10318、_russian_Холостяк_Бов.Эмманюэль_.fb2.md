@@ -8,7 +8,7 @@
 10318、_russian_Холостяк_Бов. Эмманюэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a27eeece187404b6d882dce7cbcddce

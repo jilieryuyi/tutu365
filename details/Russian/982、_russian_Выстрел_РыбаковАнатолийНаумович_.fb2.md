@@ -8,7 +8,7 @@
 982、_russian_Выстрел_Рыбаков Анатолий Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d29273053be8baaf1df088dfa78d7dd

@@ -8,7 +8,7 @@
 14962、_russian_Подходящее оружие_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03ad5cc5ce234f85905d1beafd0b01d5

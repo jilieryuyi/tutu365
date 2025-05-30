@@ -8,7 +8,7 @@
 10678、_russian_Не рой мне могилу_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90fe74d6de8735f56286b0c742d36ba0

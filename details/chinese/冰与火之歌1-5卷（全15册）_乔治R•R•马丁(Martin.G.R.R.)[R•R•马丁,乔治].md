@@ -8,7 +8,7 @@
 冰与火之歌1-5卷（全15册）_乔治 R•R•马丁(Martin.G.R.R.) [R•R•马丁, 乔治]__5371376_ada7a8600be3cd9fc258c8cd66b0523a.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ada7a8600be3cd9fc258c8cd66b0523a

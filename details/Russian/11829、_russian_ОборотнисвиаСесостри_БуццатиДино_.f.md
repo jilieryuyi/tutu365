@@ -8,7 +8,7 @@
 11829、_russian_Оборотни с виа Сесостри_Буццати Дино_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e6db795033f7d9e82a875680baaa9a6

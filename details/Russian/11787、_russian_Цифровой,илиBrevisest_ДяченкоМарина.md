@@ -8,7 +8,7 @@
 11787、_russian_Цифровой, или Brevis est_Дяченко Марина, Дяченко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddf406b7d7bfe1e38822c83b4e35a1ac

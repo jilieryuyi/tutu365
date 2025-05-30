@@ -8,7 +8,7 @@
 203、为什么精英都是清单控_宝拉·里佐 (paula Rizzo)_湖南文艺出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b9d834a8630cef2486313bce04a93797

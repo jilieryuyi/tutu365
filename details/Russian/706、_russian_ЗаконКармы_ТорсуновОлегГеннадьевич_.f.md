@@ -8,7 +8,7 @@
 706、_russian_Закон Кармы_Торсунов Олег Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58f8d406ae6c04d12fbcd754736860ef

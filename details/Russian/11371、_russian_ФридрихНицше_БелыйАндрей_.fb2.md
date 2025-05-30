@@ -8,7 +8,7 @@
 11371、_russian_Фридрих Ницше_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f9db7ce255a98c2df85e373678de93a

@@ -8,7 +8,7 @@
 1665、_russian_Как убить золотого соловья_Стеклач Войтек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3976188d5fbcd8f977e1ea6386b900d

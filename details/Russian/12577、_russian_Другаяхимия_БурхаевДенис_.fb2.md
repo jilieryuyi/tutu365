@@ -8,7 +8,7 @@
 12577、_russian_Другая химия_Бурхаев Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa85367a2bbce4b81fb863581d127d78

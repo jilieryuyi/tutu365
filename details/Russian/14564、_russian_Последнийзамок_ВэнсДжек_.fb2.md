@@ -8,7 +8,7 @@
 14564、_russian_Последний замок_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d00483d08734b3ebab8d7c88ccb2c2e

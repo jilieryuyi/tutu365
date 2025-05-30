@@ -8,7 +8,7 @@
 15074、_russian_Моя цель - очищение_Андерсон Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b95710dafd5ec809779668b10071f7ff

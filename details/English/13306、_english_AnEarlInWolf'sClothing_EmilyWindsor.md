@@ -8,7 +8,7 @@
 13306、_english_An Earl In Wolf's Clothing_Emily Windsor_Emily Windsor.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 389fb192642abcd80d5c8b8406ea7120

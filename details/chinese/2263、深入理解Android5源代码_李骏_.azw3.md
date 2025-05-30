@@ -8,7 +8,7 @@
 2263、深入理解Android 5 源代码_李骏_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e1af1218b3b25cb27edead49d1db4a7

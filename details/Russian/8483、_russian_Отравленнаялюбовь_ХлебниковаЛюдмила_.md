@@ -8,7 +8,7 @@
 8483、_russian_Отравленная любовь_Хлебникова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91c1a6a4cbc626a507a9d0074413472f

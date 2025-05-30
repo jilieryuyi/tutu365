@@ -8,7 +8,7 @@
 7126、_russian_Зороастризм за 90 минут_Успенская Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce3e0f1a7e8653e974bb065452ad4440

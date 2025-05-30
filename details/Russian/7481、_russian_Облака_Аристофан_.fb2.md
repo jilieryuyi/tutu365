@@ -8,7 +8,7 @@
 7481、_russian_Облака_Аристофан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51b73d122cdc528edc086c9ead67f8d4

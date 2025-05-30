@@ -8,7 +8,7 @@
 7851、_russian_Беглянка_Грэм Хизер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 465fa68397a11d49901ce4006a00b7ed

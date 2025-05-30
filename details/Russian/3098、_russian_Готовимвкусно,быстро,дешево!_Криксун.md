@@ -8,7 +8,7 @@
 3098、_russian_Готовим вкусно, быстро, дешево!_Криксунова Инна А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e46dc4cd6428dc702ea8eb4da1fb771

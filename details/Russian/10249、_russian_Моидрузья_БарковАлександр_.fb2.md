@@ -8,7 +8,7 @@
 10249、_russian_Мои друзья_Барков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9bc1367762492689707973e39404caf

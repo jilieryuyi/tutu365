@@ -8,7 +8,7 @@
 12699、_russian_Село Городище_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bab3fffcc0f977de6ca4ab6c7a70ed3b

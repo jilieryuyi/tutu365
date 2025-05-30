@@ -8,7 +8,7 @@
 6212、_russian_Чудовище _ The Monster_Вогт Альфред Ван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad1c8ca4d4bbb179696a0e8e8661d048

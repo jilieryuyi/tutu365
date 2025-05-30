@@ -8,7 +8,7 @@
 12773、_russian_Ночные бульвары_Райнов Богомил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 211eed8bfd57eebc9d22de8b6f99d8bc

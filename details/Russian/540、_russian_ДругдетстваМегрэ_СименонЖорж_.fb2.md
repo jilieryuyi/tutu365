@@ -8,7 +8,7 @@
 540、_russian_Друг детства Мегрэ_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c11cb6255b4877902c0ab0975e80b4e

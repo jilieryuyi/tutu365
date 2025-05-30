@@ -8,7 +8,7 @@
 8821、_russian_Долина_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a1250253267f00a54cfe746ca565e7f

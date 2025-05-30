@@ -8,7 +8,7 @@
 3829、_ukrainian_Зайва ланка_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3de4e4e51a11d75d4cdb0cb6791144eb

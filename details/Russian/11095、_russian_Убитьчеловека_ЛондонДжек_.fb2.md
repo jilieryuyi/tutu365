@@ -8,7 +8,7 @@
 11095、_russian_Убить человека_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1d4af8b7e0da6e31a9374c2dcba0a59

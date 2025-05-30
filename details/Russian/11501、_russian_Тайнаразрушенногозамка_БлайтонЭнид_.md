@@ -8,7 +8,7 @@
 11501、_russian_Тайна разрушенного замка_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c0cdaa9a54bd3469df6035333a688b6

@@ -8,7 +8,7 @@
 13645、_russian_Не все то золото, что блестит_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bb6b6585c2b6325153be8b3b2e3ea11

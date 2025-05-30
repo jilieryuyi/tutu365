@@ -8,7 +8,7 @@
 1592、_russian_Гонки_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74d570dcd1cd09d95aa491d1948ac745

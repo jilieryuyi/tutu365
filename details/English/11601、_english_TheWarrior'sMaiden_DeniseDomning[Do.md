@@ -8,7 +8,7 @@
 11601、_english_The Warrior's Maiden_Denise Domning [Domning, Denise]_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a63fea23089d0e96522f9780fc196258

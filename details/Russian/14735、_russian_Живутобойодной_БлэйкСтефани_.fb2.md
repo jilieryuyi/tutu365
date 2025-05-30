@@ -8,7 +8,7 @@
 14735、_russian_Живу тобой одной_Блэйк Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41c15036cb7c750b47201dd6cb3dee0a

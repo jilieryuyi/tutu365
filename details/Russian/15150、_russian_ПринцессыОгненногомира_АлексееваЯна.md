@@ -8,7 +8,7 @@
 15150、_russian_Принцессы Огненного мира_Алексеева Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c62c6db84a3005cf59277c475ed3d5a2

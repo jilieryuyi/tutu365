@@ -8,7 +8,7 @@
 11106、_russian_Сэмюэль_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a61651ab3a44644c831d044cbc163dc5

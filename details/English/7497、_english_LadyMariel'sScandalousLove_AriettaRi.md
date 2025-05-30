@@ -8,7 +8,7 @@
 7497、_english_Lady Mariel's Scandalous Love_Arietta Richmond_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 629029261b7a5cd0a1920dd834f63690

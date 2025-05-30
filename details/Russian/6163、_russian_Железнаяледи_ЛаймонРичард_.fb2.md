@@ -8,7 +8,7 @@
 6163、_russian_Железная леди_Лаймон Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fcaf440a40ee681991fcdb8444321e1

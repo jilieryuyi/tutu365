@@ -8,7 +8,7 @@
 5739、_russian_Черный принц_Мердок Айрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d07b847df82db4700859b314ee578176

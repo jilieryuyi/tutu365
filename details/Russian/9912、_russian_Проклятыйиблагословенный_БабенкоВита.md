@@ -8,7 +8,7 @@
 9912、_russian_Проклятый и благословенный_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b227e9c0eab47c832cd8243ba64d21e

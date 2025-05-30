@@ -8,7 +8,7 @@
 11404、_russian_Планета динозавров II_Маккефри Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8ebfc118f16e1595e53d46880e01986

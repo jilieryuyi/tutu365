@@ -8,7 +8,7 @@
 96、《Understanding ECMAScript 6》中文翻译_sagittarius-rev_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 32b5c4058695fa4fec5d885e344fed38

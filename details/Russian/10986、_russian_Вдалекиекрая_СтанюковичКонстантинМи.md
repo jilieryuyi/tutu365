@@ -8,7 +8,7 @@
 10986、_russian_В далекие края_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3089e12134c78813f9f99cc26e9b69a

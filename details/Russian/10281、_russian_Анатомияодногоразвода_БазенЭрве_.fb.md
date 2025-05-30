@@ -8,7 +8,7 @@
 10281、_russian_Анатомия одного развода_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca41ead4596245c1221a3e1ad59408b2

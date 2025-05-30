@@ -8,7 +8,7 @@
 7459、_russian_Эныч__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbc3168bf863f03440c2c37beaa46e3e

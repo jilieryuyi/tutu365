@@ -8,7 +8,7 @@
 6345、_russian_Смерть букиниста_Камински Стюарт Мелвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6c72685bc523ed41fdf25da01c9ad44

@@ -8,7 +8,7 @@
 13789、_russian_Вампир. История лорда Байрона_Холланд Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e35f23f843ff9b75475d1c3fb7743735

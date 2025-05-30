@@ -8,7 +8,7 @@
 6081、_russian_Письма М. И. Цветаевой_Эфрон Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a073a6cd4fce1e861bea5ef3f9d7e3f

@@ -8,7 +8,7 @@
 1162、_russian_Родники любви_Арчер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4df6a1b430ff76d5f7bc78882a13b3e1

@@ -8,7 +8,7 @@
 11702、_russian_Дом обновленных_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb191778503d7004bebd214a82fc0ad9

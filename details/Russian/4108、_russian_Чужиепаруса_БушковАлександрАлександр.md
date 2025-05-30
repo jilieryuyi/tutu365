@@ -8,7 +8,7 @@
 4108、_russian_Чужие паруса_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78aba0e817d37066ffafdeeb92049f97

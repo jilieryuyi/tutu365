@@ -8,7 +8,7 @@
 8260、_russian_Академик_Земляной Андрей Борисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 556f1ac2ac3d813e2a88b756134db367

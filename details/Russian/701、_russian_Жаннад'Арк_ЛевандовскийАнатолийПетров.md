@@ -8,7 +8,7 @@
 701、_russian_Жанна д'Арк_Левандовский Анатолий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fa6c2ab88042e93d5edbd1c08401f3a

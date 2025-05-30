@@ -8,7 +8,7 @@
 12118、_russian_Истинный мудрец_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f0f7b469fc9eb9958c9629f63912148

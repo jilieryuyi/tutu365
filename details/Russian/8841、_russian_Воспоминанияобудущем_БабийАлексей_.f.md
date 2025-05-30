@@ -8,7 +8,7 @@
 8841、_russian_Воспоминания о будущем_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bbca235152be8118ef1dcb568ea303f

@@ -8,7 +8,7 @@
 2670、_russian_Poждение ИИ_Вард Синтия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 746edc74896b700ccee3eaa7447e9946

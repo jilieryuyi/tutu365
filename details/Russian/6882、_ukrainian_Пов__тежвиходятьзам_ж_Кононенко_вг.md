@@ -8,7 +8,7 @@
 6882、_ukrainian_Пов__ теж виходять зам_ж_Кононенко _вген_я_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 978f657d8efce33db5a4b9675c8a8f3c

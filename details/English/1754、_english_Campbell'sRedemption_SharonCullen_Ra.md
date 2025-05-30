@@ -8,7 +8,7 @@
 1754、_english_Campbell's Redemption_Sharon Cullen_Random House Publishing Group.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b2a8f1a97a4d1c91b7bb8d5d72445d3a

@@ -8,7 +8,7 @@
 7973、_russian_Власть-2_Гасанов Эльчин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90f48af8e1b97dd3a05dcdb33c62cffc

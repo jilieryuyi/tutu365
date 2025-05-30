@@ -8,7 +8,7 @@
 554、_russian_Стриптиз_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a85dc65ad613a80df065f707df1274e

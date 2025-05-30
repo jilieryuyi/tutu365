@@ -8,7 +8,7 @@
 4687、_english_Love's Legacy_Amanda Mariel_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 72efa3054b5996314e5dde804dda7e0b

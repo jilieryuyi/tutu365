@@ -8,7 +8,7 @@
 9733、_russian_Крушение Америки . Возмездие_Козенков Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31626434e5449fbb9bed8ff168c49857

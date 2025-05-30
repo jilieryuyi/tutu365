@@ -8,7 +8,7 @@
 4765、_english_The Knight's Temptress_Amanda Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 90224ed692fdda56054f36866f13270f

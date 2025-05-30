@@ -8,7 +8,7 @@
 1038、_russian_Нежная стерва, или Исход великой любви_Крамер Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc00cae93747d3de4e52c3e2b5bde6df

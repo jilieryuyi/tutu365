@@ -8,7 +8,7 @@
 14154、_russian_Серебряный каньон_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2827b87de7816b8211550b69ef344bc

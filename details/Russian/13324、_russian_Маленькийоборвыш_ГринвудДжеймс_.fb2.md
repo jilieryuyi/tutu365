@@ -8,7 +8,7 @@
 13324、_russian_Маленький оборвыш_Гринвуд Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fce84c507c384689155791dcadc138d2

@@ -8,7 +8,7 @@
 HTML DOM 参考手册.CHM.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6a928cf508b6f0d5127462c749598038

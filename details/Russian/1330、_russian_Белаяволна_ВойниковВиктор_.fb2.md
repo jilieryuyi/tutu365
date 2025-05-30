@@ -8,7 +8,7 @@
 1330、_russian_Белая волна_Войников Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b680e5e6b159bcb1d6196548733d836

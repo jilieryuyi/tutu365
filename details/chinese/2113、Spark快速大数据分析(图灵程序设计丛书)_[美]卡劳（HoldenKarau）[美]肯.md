@@ -8,7 +8,7 @@
 2113、Spark快速大数据分析 (图灵程序设计丛书)_[美] 卡劳（Holden Karau）[美] 肯维尼斯科（Andy Konwinski）[美] 温德尔（Patrick Wendell）[加] 扎哈里亚（Matei Zaharia）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4cff2f8f6e7add573068b475673dc00d

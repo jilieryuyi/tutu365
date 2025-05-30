@@ -8,7 +8,7 @@
 1702、_ukrainian_Конотоп_Кожелянко Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffb508eb90d2b9e2a1de4ba222721a1a

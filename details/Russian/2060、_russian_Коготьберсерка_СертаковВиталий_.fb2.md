@@ -8,7 +8,7 @@
 2060、_russian_Коготь берсерка_Сертаков Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2ab65e615bdc82f9c4b5e406c0d8b92

@@ -8,7 +8,7 @@
 7842、_russian_Возвращение в Форност_Петров Сергей, Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d0d6fecacb4f3832be6aac2d1bdad28

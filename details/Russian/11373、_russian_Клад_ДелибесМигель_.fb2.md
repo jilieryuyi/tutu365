@@ -8,7 +8,7 @@
 11373、_russian_Клад_Делибес Мигель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb1c3796d7cabd357773326f01355957

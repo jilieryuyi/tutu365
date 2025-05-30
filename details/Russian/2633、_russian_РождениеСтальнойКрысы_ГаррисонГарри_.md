@@ -8,7 +8,7 @@
 2633、_russian_Рождение Стальной Крысы_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cda6568a97b83e7c98a3f70a4bfb1b90

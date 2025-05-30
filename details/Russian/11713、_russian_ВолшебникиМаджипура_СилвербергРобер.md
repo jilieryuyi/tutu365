@@ -8,7 +8,7 @@
 11713、_russian_Волшебники Маджипура_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e66aabf435d664a2313d3a4c59471d17

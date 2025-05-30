@@ -8,7 +8,7 @@
 14077、_russian_Иван-чай_Куклин Лев Валерианович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 925fc69b6dbcb90b14089b2178f558f4

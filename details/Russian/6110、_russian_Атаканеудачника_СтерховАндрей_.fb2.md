@@ -8,7 +8,7 @@
 6110、_russian_Атака неудачника_Стерхов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cce7a6417ed72b3f4f1ef7785668b718

@@ -8,7 +8,7 @@
 6384、_russian_Лукоморье. Курс боевого мага_Бодей Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cca111b0bac98c5bd255574dd23a5fad

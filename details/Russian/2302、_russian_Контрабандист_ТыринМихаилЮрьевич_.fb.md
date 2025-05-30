@@ -8,7 +8,7 @@
 2302、_russian_Контрабандист_Тырин Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 816cb948aadf00ca6d633d80c319009f

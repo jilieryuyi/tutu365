@@ -8,7 +8,7 @@
 8470、_russian_Дама со злой собачкой_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e9f086fe67e855a02bd403865d87ecc

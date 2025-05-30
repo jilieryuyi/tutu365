@@ -8,7 +8,7 @@
 3682、_russian_Перед заморозками_Манкелль Хеннинг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18b0a10a3c91c3fe0e4cc12a51007993

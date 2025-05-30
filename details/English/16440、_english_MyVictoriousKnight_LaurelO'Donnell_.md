@@ -8,7 +8,7 @@
 16440、_english_My Victorious Knight_Laurel O'Donnell_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6142e765a9b405e59851da55007dd2ec

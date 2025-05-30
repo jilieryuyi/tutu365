@@ -8,7 +8,7 @@
 8770、_russian_Гонцы в Ньямаголе_Галанина Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fea583fcde889052a714176bd01a948

@@ -8,7 +8,7 @@
 11889、_russian_Докучливый собеседник_Гор Геннадий Самойлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bac51bd21dd1f4d34adb2876d0b5d390

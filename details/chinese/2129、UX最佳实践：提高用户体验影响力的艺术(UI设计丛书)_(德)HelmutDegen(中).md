@@ -8,7 +8,7 @@
 2129、UX最佳实践：提高用户体验影响力的艺术 (UI设计丛书)_(德)Helmut Degen    (中)袁小伟_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7e31a998b95a25a7d4d239f858120b89

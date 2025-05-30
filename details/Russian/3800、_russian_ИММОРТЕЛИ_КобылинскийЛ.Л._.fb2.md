@@ -8,7 +8,7 @@
 3800、_russian_ИММОРТЕЛИ_Кобылинский Л. Л._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36628354e3328f038ab9f419d26e496d

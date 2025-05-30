@@ -8,7 +8,7 @@
 8686、_russian_Бой капитанов_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9f59c4ff5f762a45879195a3b80a620

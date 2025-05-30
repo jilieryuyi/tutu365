@@ -8,7 +8,7 @@
 15701、_english_Love's Intrigue_June Francis_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c58269d798cf5163b784cd17969c16ff

@@ -8,7 +8,7 @@
 12078、_russian_Кресло Дракулы_Питер Тримэйн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 859e1b7cc96eb58c726ca334867b8553

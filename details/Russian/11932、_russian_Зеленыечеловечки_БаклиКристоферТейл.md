@@ -8,7 +8,7 @@
 11932、_russian_Зеленые человечки_Бакли Кристофер Тейлор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5246fff9015c5c49a353b122b8d3c96

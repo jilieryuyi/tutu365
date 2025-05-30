@@ -8,7 +8,7 @@
 298、给年轻人的极简金融课_SoBooKs.cc 童哲 [童哲, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d3ffc13fbb6f4799973c4ef5b2158055

@@ -8,7 +8,7 @@
 12881、_russian_Кукушкины слезки_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 054ae6a9751f001e72624289305fae90

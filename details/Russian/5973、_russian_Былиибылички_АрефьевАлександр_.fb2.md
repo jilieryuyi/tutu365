@@ -8,7 +8,7 @@
 5973、_russian_Были и былички_Арефьев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34b28ad5ea40c0d6ba0a2461ba3d4461

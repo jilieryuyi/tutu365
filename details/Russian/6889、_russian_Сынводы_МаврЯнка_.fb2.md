@@ -8,7 +8,7 @@
 6889、_russian_Сын воды_Мавр Янка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fb3beebbfc756f9762addf2c3c5ac2d

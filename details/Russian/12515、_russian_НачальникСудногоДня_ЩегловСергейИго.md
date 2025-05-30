@@ -8,7 +8,7 @@
 12515、_russian_Начальник Судного Дня_Щеглов Сергей Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81354c4c60cbc3a408b9de98c32ddd94

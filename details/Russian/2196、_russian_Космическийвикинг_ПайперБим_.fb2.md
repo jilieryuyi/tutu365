@@ -8,7 +8,7 @@
 2196、_russian_Космический викинг_Пайпер Бим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e98ab512460f2685c11f32e94bde2b4

@@ -8,7 +8,7 @@
 13480、_english_The Captain's Bluestocking Mistress_Erica Ridley_Intrepid Reads.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dedb6ae9e998347f4df26df2f98000c7

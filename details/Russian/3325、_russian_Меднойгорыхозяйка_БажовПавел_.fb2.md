@@ -8,7 +8,7 @@
 3325、_russian_Медной горы хозяйка_Бажов Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbae789fe1f001004d67d3b5aa9b6253

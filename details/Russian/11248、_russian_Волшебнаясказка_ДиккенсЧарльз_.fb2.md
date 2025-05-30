@@ -8,7 +8,7 @@
 11248、_russian_Волшебная сказка_Диккенс Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 259e2c285a5ce19577b26f067e911b8e

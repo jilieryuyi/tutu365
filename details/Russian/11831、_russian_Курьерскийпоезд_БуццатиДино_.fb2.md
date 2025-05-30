@@ -8,7 +8,7 @@
 11831、_russian_Курьерский поезд_Буццати Дино_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51709fc3375e05036cde0bcdebc5574c

@@ -8,7 +8,7 @@
 3006、_russian_Обручальные кольца ( рассказы )_Белецкий Родион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f38985f3670da6006a25917fca5310e3

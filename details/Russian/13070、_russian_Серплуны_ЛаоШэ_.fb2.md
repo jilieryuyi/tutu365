@@ -8,7 +8,7 @@
 13070、_russian_Серп луны_Лао Шэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3c1f48a11af025b7963dddb500859bf

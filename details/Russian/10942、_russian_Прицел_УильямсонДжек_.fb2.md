@@ -8,7 +8,7 @@
 10942、_russian_Прицел_Уильямсон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc22bb6a76b28be0d4f0b8220c7190e8

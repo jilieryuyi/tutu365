@@ -8,7 +8,7 @@
 个体：论描述的形而上学_P.F. 斯特劳森_中国人民大学出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 90339b5bc682e2deede9a1b5faff2a96

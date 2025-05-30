@@ -8,7 +8,7 @@
 2733、_russian_Женщина на проселочной дороге_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d53da3885ba1a4e3325f33f52a10a36

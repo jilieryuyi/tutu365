@@ -8,7 +8,7 @@
 3440、_russian_Апрель в Париже_Ле Гуин Урсула_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c84f1bbdf3efaa2e2a003b306e2ad37f

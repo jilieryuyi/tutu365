@@ -8,7 +8,7 @@
 1372、_russian_Приключения Свиньи Агаты_Фротсак Анита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9742a118adf6fb6b53343d5275ce3f86

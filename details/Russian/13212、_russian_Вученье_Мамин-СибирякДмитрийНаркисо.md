@@ -8,7 +8,7 @@
 13212、_russian_В ученье_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40dffd81d792144f7b37ec04c3289625

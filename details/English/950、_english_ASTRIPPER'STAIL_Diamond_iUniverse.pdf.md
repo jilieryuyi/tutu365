@@ -8,7 +8,7 @@
 950、_english_A STRIPPER'S TAIL_Diamond_iUniverse.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 91cdbba2393945a1a1821c0376a5dad6

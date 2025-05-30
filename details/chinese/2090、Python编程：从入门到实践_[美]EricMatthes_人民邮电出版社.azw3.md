@@ -8,7 +8,7 @@
 2090、Python编程：从入门到实践_[美] Eric Matthes_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 74e3a4b45657feeaa51613668962d98a

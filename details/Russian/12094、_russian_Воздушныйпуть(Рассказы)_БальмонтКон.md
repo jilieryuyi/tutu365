@@ -8,7 +8,7 @@
 12094、_russian_Воздушный путь (Рассказы)_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0eaf041cb3fb048bc57426ffaa431a65

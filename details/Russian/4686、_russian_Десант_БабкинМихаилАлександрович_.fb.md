@@ -8,7 +8,7 @@
 4686、_russian_Десант_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6282fe7fd1d9fac1d4529afe23dfa286

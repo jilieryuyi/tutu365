@@ -8,7 +8,7 @@
 3409、_russian_Просто Марио_Антонов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c563cf57eee936471517922f0741f5e2

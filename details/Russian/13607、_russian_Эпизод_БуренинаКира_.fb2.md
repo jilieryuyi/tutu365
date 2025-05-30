@@ -8,7 +8,7 @@
 13607、_russian_Эпизод_Буренина Кира_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e165f1ca93f6733b45109f894942db6

@@ -8,7 +8,7 @@
 13013、_russian_Конь-призрак_Ходжсон Уильям Хоуп_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f847e17678e51441c47d4a98afb35d49

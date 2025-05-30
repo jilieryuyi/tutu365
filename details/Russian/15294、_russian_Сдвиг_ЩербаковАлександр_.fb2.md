@@ -8,7 +8,7 @@
 15294、_russian_Сдвиг_Щербаков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83b8c102b9b3b566adb5efb0bd84b38a

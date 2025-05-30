@@ -8,7 +8,7 @@
 8358、_polish_Bez Skrupu_ów_Coben Harlan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 23efdf24e23a9e04eb65ea7901f92359

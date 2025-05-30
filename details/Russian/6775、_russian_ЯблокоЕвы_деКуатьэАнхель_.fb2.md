@@ -8,7 +8,7 @@
 6775、_russian_Яблоко Евы_де Куатьэ Анхель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b669e7b04b86a1427daac01571d004a6

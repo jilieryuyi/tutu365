@@ -8,7 +8,7 @@
 9795、_english_Living at the Feet of the Guru_ A Season's Harvest 77_Swami Venkatesananda_Chiltern Yoga Trust.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 68c845d08659ae9e09fe8de36633259c

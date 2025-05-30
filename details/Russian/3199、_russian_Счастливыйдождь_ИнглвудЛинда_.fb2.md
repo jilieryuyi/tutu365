@@ -8,7 +8,7 @@
 3199、_russian_Счастливый дождь_Инглвуд Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f62ac87ac023404fdd767db2d09f080

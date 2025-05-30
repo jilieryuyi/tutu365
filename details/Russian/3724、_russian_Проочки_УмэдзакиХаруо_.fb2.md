@@ -8,7 +8,7 @@
 3724、_russian_Про очки_Умэдзаки Харуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5172c83961f5f12096ceeb2c6f25ddbb

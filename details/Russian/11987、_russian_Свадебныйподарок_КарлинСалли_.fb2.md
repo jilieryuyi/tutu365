@@ -8,7 +8,7 @@
 11987、_russian_Свадебный подарок_Карлин Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc24c20b5fd2e0589e23279b92452867

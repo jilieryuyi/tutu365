@@ -8,7 +8,7 @@
 2748、_russian_Птичья драма_Редвуд Стив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ab60688f346b80f971b24970d635dd5

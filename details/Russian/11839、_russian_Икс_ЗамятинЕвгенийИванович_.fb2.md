@@ -8,7 +8,7 @@
 11839、_russian_Икс_Замятин Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10648d4a99dd234958612fba1531e873

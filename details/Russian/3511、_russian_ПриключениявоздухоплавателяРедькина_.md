@@ -8,7 +8,7 @@
 3511、_russian_Приключения воздухоплавателя Редькина_Треер Леонид Яковлевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b25cffaf6accdf4519aaeb4e3d972f25

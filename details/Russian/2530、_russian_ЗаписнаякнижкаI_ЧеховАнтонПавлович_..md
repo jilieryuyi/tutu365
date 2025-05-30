@@ -8,7 +8,7 @@
 2530、_russian_Записная книжка I_Чехов Антон Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bab6c417e0d7e3a85237be6758683cda

@@ -8,7 +8,7 @@
 2698、_russian_Тупик_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9865e9a7843f0ad167191db9ccef4bfd

@@ -8,7 +8,7 @@
 4494、_russian_Век любви_Кэссиди Гвендолин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e190eb70bf70203f032dbbe08354c83c

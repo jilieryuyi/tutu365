@@ -8,7 +8,7 @@
 1107、_russian_Осиная фабрика_Бэнкс Иэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34c1f07b6dd30b16dbf47590b2ce5a91

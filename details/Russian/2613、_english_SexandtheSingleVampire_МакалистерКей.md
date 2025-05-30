@@ -8,7 +8,7 @@
 2613、_english_Sex and the Single Vampire_Макалистер Кейти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bbef96527846393edfb94481d17a3b0

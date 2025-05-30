@@ -8,7 +8,7 @@
 1514、_russian_Разрушители_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 773448a005eaa9d8d95426dc4bb01a96

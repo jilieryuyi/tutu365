@@ -8,7 +8,7 @@
 mysql协议分析.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1ffe7d58bf8e1330d21d530002c09847

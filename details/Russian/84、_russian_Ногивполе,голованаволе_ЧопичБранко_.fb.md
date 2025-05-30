@@ -8,7 +8,7 @@
 84、_russian_Ноги в поле, голова на воле_Чопич Бранко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0764aa7eb85233d822fc46618a49fe4

@@ -8,7 +8,7 @@
 1222、_russian_В сетях страсти_Армстронг Линдсей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b599f7b269ad2d6962f5be6e7f36e174

@@ -8,7 +8,7 @@
 5124、_russian_Хакербол_Запольских Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c94a9206d42b401624ca1f7aecb81af6

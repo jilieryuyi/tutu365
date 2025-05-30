@@ -8,7 +8,7 @@
 8728、_russian_Княжна Острожская_Соловьев Всеволод Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 824fd86e9f584e76edacdab3310c62d3

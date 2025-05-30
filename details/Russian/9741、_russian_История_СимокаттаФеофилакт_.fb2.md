@@ -8,7 +8,7 @@
 9741、_russian_История_Симокатта Феофилакт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c46c414f7d614e18f08fdaf8dd6a78e4

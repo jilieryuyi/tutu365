@@ -8,7 +8,7 @@
 10195、_russian_В плавнях_Галина Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f0bfada205f82da49d6ff87887a2a03

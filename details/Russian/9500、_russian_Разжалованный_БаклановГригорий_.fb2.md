@@ -8,7 +8,7 @@
 9500、_russian_Разжалованный_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12bc6f5006964b424f008a469cc7c12f

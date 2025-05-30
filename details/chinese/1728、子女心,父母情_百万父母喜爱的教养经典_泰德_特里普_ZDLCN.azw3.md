@@ -8,7 +8,7 @@
 1728、子女心,父母情_百万父母喜爱的教养经典_泰德_特里普_ZDLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e5655054063237981831ebad3bb1bfa3

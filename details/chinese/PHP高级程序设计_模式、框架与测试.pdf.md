@@ -8,7 +8,7 @@
 PHP高级程序设计_模式、框架与测试.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8fe69079d4916ae4ea700e1517ebc4f6

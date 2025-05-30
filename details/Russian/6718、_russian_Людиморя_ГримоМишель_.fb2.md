@@ -8,7 +8,7 @@
 6718、_russian_Люди моря_Гримо Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b9f950271ef58f20920ba4735e0da4b

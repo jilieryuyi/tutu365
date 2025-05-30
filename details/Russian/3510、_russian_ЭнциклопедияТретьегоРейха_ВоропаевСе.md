@@ -8,7 +8,7 @@
 3510、_russian_Энциклопедия Третьего Рейха_Воропаев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd945e1a43c6eecc5ecaed5e99c8c92a

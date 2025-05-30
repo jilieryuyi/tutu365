@@ -8,7 +8,7 @@
 setInterval全面的介绍.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9139880c2da9f1f88f9702ce86cebb86

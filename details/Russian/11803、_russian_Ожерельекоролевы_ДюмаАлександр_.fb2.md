@@ -8,7 +8,7 @@
 11803、_russian_Ожерелье королевы_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2c0a5337328f80133bbc6919766c03c

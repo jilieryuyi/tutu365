@@ -8,7 +8,7 @@
 199、_russian_Талисман__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7646a9fda27026bef399e7741507830f

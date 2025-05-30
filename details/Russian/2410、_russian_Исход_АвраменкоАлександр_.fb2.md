@@ -8,7 +8,7 @@
 2410、_russian_Исход_Авраменко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eabfa70af5ebc09fa93bc73f18505ef5

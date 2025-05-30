@@ -8,7 +8,7 @@
 13855、_russian_Непорочное зачатие_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0eebbd0a2cae0530578113fd19a33956

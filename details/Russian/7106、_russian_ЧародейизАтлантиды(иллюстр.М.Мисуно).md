@@ -8,7 +8,7 @@
 7106、_russian_Чародей из Атлантиды (иллюстр. М. Мисуно)_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37df55af2d9001ebf874d6efce1f82ae

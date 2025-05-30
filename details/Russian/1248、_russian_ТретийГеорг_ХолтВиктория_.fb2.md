@@ -8,7 +8,7 @@
 1248、_russian_Третий Георг_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27f4901ee398fe236b3a94984129625c

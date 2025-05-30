@@ -8,7 +8,7 @@
 12224、_french_L'héritage impossible_Anne B. Ragde_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2dd0a6bdadf0ff19c05d477ebf36448c

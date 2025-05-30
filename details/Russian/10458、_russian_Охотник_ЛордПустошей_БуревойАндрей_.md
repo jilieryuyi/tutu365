@@ -8,7 +8,7 @@
 10458、_russian_Охотник_ Лорд Пустошей_Буревой Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e05877f2e8b05160294f1dea4bc756e

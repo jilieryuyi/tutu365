@@ -8,7 +8,7 @@
 6801、_russian_Мороз_Тевекелян Варткес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cc58fa9563cd9866c92d6a5e95c7668

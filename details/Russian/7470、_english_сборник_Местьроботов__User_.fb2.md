@@ -8,7 +8,7 @@
 7470、_english_сборник _Месть роботов__User_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26513f5ee2690214cc3f0b802cf2527a

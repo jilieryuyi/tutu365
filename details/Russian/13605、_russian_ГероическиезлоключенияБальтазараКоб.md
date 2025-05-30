@@ -8,7 +8,7 @@
 13605、_russian_Героические злоключения Бальтазара Кобера_Тристан Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f234c2b979595858091bc91dfabdaea6

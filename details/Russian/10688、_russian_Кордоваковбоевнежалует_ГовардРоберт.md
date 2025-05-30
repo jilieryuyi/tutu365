@@ -8,7 +8,7 @@
 10688、_russian_Кордова ковбоев не жалует_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40063c2ca95ac397bcd6a2d22398eeb6

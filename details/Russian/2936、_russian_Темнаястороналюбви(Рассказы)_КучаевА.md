@@ -8,7 +8,7 @@
 2936、_russian_Темная сторона любви ( Рассказы )_Кучаев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63983fb091a0b05ee06ab29e25036604

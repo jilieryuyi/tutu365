@@ -8,7 +8,7 @@
 14467、_russian_Мятная полночь_Тихонова Карина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eee918decc86d4e4d5a9f9c3f1d4c229

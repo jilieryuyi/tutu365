@@ -8,7 +8,7 @@
 3370、_russian_Казак и ведьма_Белянин Андрей Олегович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b134d379bab7804a2baf277d0354c797

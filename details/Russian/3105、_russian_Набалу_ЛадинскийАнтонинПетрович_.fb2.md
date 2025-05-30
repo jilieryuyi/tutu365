@@ -8,7 +8,7 @@
 3105、_russian_На балу_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02e73b0ff8eec5484e28aaf546e27b41

@@ -8,7 +8,7 @@
 2337、_russian_Дама с рубинами_Марлитт Евгения_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7426ad7eb888eba546ec367430495234

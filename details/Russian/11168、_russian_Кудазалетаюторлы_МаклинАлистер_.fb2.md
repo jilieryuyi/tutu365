@@ -8,7 +8,7 @@
 11168、_russian_Куда залетают орлы_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22f84fa727d1080a86d2151b30d2ef59

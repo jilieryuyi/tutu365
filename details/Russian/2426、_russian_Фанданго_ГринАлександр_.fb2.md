@@ -8,7 +8,7 @@
 2426、_russian_Фанданго_Грин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0daece72aea73ad5843a657a97f15fdd

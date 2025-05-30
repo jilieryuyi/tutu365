@@ -8,7 +8,7 @@
 4135、_other_Выбор павшего. По следу памяти_Дарья Гущина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dddcf089421414b14dd7668cc6c54762

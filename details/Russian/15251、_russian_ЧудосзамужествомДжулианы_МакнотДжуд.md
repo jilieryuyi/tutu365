@@ -8,7 +8,7 @@
 15251、_russian_Чудо с замужеством Джулианы_Макнот Джудит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b7b250dcd2a1d39bc7ed376cd2b168e

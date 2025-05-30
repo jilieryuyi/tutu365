@@ -8,7 +8,7 @@
 2797、玛格丽特·杜拉斯电子书系列套装（套装共14本）_玛格丽特·杜拉斯(Marguerite Duras)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bfe9d8a9bb021ec4a6ee6ed950ea73f1

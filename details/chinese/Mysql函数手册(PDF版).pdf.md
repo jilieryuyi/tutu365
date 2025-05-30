@@ -8,7 +8,7 @@
 Mysql函数手册(PDF版).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a64fbf8f131f29b63aba9fe2a10413a

@@ -8,7 +8,7 @@
 8002、_russian_Красношейка_Несбё Ю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e62fc17cccd1e1f201a56e2674de1d2

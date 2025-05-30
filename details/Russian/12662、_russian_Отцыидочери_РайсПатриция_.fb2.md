@@ -8,7 +8,7 @@
 12662、_russian_Отцы и дочери_Райс Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4a7b97e22b1d9213ff0b930b29628f7

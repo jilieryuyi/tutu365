@@ -8,7 +8,7 @@
 12303、_russian_Бешеные псы_Тарантино Квентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4e4f82085fbb161325ceff891303109

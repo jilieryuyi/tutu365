@@ -8,7 +8,7 @@
 8291、_russian_Песнь надежды_Линк Гейл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf903b181d9135c0e6bc2d90fd35ed98

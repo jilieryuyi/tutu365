@@ -8,7 +8,7 @@
 10096、_russian_Парный циклон (фрагмент)_Лилли Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d540760669e92029cd15a694519a532b

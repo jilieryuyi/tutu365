@@ -8,7 +8,7 @@
 9705、_russian_Седьмое измерение_Житинский Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 feedea05d0ab1f24c718fdf5fb12ae7a

@@ -8,7 +8,7 @@
 8899、_russian_Люди и гусеницы_Искандер Фазиль Абдулович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 925958f706ecfc60034043cbd0f8161f

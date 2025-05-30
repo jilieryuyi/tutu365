@@ -8,7 +8,7 @@
 13295、_english_Roderick's Widow_Emily Royal_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f0aa4322c7e1e66cd652b049740870a6

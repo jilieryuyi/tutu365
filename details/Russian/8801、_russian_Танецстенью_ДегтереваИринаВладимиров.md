@@ -8,7 +8,7 @@
 8801、_russian_Танец с тенью_Дегтерева Ирина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 920e70ed81c29c2e3567e4456f6bdfda

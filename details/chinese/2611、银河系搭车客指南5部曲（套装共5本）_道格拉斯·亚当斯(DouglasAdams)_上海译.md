@@ -8,7 +8,7 @@
 2611、银河系搭车客指南5部曲（套装共5本）_道格拉斯·亚当斯 (Douglas Adams)_上海译文出版社,Y_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 388e5e463badb5bb0d3ddeb73a3a54ee

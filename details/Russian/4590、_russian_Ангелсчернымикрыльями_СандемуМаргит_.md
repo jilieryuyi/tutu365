@@ -8,7 +8,7 @@
 4590、_russian_Ангел с черными крыльями_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cb9e73a9eaab93b7f845e8f545a0226

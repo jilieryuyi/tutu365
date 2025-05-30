@@ -8,7 +8,7 @@
 2399、_english_A Scot's Surrender_Tammy Andresen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cf647996400e5f970398336da2ddfa3f

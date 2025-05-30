@@ -8,7 +8,7 @@
 12567、_russian_История Доктора Дулитла_Лофтинг Хью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b4dc00a56f3634e5c5e7a581e53fd93

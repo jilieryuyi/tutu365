@@ -8,7 +8,7 @@
 6239、_russian_Танцовщица_Хади Русва Мирза Мухаммад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59424ce18f52dd55e51288ccd50b5002

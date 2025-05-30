@@ -8,7 +8,7 @@
 10843、_russian_Желтый песочек_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51241b23bb712dec436e28bbbae3cf3e

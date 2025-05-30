@@ -8,7 +8,7 @@
 13442、_russian_Известность любви не помеха_Лоренс Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0a5d3a03ef641bf59ae29b2b5be5b16

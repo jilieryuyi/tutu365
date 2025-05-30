@@ -8,7 +8,7 @@
 2115、_russian_Трагические самоубийства_Останина Екатерина Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a869a92ab6c22d53bff41b6ba207eef3

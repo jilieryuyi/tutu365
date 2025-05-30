@@ -8,7 +8,7 @@
 4285、_russian_Встречный катаклизм_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7dba2455b2b7441ea51dc9950de61ac

@@ -8,7 +8,7 @@
 12346、_russian_Прощай, друг!_Жапризо Себастьян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ded322b15d09ebc76397044685e96ab0

@@ -8,7 +8,7 @@
 5162、_russian_Друзья_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d75546d6ae1d44c3be7692a27d3c7548

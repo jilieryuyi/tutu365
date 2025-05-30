@@ -8,7 +8,7 @@
 【中医】温病学讲义(OCR).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 435493cce3bed323116b662b2ab412c3

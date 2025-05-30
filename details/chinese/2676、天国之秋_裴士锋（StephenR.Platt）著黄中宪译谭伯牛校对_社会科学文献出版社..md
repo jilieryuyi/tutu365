@@ -8,7 +8,7 @@
 2676、天国之秋_裴士锋（Stephen R. Platt） 著 黄中宪 译 谭伯牛 校对_社会科学文献出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 84efde4bb9066cae885b70159c9b3ef7

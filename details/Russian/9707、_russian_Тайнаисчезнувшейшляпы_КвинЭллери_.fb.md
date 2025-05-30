@@ -8,7 +8,7 @@
 9707、_russian_Тайна исчезнувшей шляпы_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b58ce1a7f3dbe6d918df82d1eae0f41

@@ -8,7 +8,7 @@
 6843、_russian_Сделка с дьяволом_Гуларт Рон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78d493d7c5535446530ca8f4ff0129ec

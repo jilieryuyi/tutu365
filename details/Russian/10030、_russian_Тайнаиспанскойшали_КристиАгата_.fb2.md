@@ -8,7 +8,7 @@
 10030、_russian_Тайна испанской шали_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3206f89f2771b5c9e9556fa9ae1e88d

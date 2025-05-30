@@ -8,7 +8,7 @@
 1532、_russian_Предатели_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 292172a06a3b5b153d7d347f89377ee5

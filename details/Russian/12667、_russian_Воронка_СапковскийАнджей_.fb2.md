@@ -8,7 +8,7 @@
 12667、_russian_Воронка_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41ec4ead21caac8b534c297f7f7ab566

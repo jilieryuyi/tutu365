@@ -8,7 +8,7 @@
 10106、_russian_Пропавшие чертежи_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8510f7b72947e851ea248a476beb3b14

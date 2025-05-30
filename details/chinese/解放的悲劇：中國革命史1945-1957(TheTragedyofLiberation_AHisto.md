@@ -8,7 +8,7 @@
 解放的悲劇：中國革命史1945-1957 (The Tragedy of Liberation_ A History of the Communist Revolution, 1945–1957)_馮客(Frank Dikötter)_聯經_5342330_99eb117b6056f28bf1687983eacf9743.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 99eb117b6056f28bf1687983eacf9743

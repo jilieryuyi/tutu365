@@ -8,7 +8,7 @@
 12328、_russian_Наука или удача_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c90a85c0a80864c267df6eafe833d0d8

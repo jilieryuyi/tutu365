@@ -8,7 +8,7 @@
 5497、_russian_Кадавр_Менбек Влад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78d8080dd4eebddecc01e1ff5056ae28

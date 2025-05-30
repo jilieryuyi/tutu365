@@ -8,7 +8,7 @@
 4665、_english_The Highlander's Bride_Amanda Forester_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 69663fd5f613e9a8fc59a8f1ae6f7911

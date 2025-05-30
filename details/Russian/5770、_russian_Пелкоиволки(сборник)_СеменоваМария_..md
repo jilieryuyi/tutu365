@@ -8,7 +8,7 @@
 5770、_russian_Пелко и волки (сборник)_Семенова Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d334663255953b9bc090bf91f4f20fd

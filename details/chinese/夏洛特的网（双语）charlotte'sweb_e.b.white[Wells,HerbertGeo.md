@@ -8,7 +8,7 @@
 夏洛特的网（双语）charlotte's web_e.b.white [Wells, Herbert George]__5470600_8d4ba81317e29f8a1eabe0b57e8d759b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8d4ba81317e29f8a1eabe0b57e8d759b

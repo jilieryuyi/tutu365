@@ -8,7 +8,7 @@
 12401、_russian_Испытание_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cf1469db16e9a3d8d9132681678e978

@@ -8,7 +8,7 @@
 Being Successful_ Things That Successful People Do That You Could Learn From_Burba, Brian & Travis, Tracy [Burba, Brian]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8686f7afca8919f801eb722e0800d1c7

@@ -8,7 +8,7 @@
 5064、_russian_Змеиное гнездо_Гиффорд Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5f5b2c11223b00519fa3e08217d2d9f

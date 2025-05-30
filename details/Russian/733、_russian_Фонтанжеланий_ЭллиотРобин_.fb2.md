@@ -8,7 +8,7 @@
 733、_russian_Фонтан желаний_Эллиот Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4eb6b7efe6b206484a96b54fedc12d9c

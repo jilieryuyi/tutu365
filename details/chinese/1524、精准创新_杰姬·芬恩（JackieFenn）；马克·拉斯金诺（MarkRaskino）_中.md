@@ -8,7 +8,7 @@
 1524、精准创新_杰姬·芬恩（Jackie Fenn）；马克·拉斯金诺（Mark Raskino）_中国财富出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c9bcfd6dd46559b2f1b86492864c5d8f

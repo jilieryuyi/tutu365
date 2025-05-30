@@ -8,7 +8,7 @@
 5047、_russian_Осень_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe1acfebd940f5d7b14777884e0021d7

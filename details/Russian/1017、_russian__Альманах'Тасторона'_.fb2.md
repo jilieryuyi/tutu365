@@ -8,7 +8,7 @@
 1017、_russian__Альманах 'Та сторона'_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2478f0d55f2207a774eeb181facbaec0

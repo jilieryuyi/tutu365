@@ -8,7 +8,7 @@
 2632、_russian_Стальная Крыса идет в армию_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac9c733c28a4118fc5bff6ca5feb7ecd

@@ -8,7 +8,7 @@
 6869、_russian_Что случилось с Гудини__Рюкер Руди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b40f4664ae2eb641761557d56aeb726

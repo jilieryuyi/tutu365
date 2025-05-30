@@ -8,7 +8,7 @@
 12445、_russian_Долгий путь в лабиринте_Насибов Александр Ашотович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6badda0d94bb1d05907643917a00864

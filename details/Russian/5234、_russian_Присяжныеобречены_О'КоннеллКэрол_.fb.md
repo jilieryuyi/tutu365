@@ -8,7 +8,7 @@
 5234、_russian_Присяжные обречены_О'Коннелл Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72704fcebee3651bbc8186762829108e

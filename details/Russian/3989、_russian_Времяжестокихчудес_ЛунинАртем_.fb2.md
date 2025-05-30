@@ -8,7 +8,7 @@
 3989、_russian_Время жестоких чудес_Лунин Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dda5f645b410bc1d3e0a4cfd6a429038

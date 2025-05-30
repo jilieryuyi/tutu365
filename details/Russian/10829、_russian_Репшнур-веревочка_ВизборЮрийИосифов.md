@@ -8,7 +8,7 @@
 10829、_russian_Репшнур-веревочка_Визбор Юрий Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a68aaadb921c8d16d8a229db5e4cac8

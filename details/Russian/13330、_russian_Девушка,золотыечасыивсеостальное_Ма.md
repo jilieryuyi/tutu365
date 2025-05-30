@@ -8,7 +8,7 @@
 13330、_russian_Девушка, золотые часы и все остальное_Макдональд Джон Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 238a162daefcf03c569c4b532552b193

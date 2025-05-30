@@ -8,7 +8,7 @@
 4793、_russian_Изумруд Люцифера_Дроздов Анатолий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b99769d2f5316245385ca20f52cbc3f7

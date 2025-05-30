@@ -8,7 +8,7 @@
 6633、_english_Rabbit Is Rich_Updike John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a7eb05ef4d9e10f903c37f694a125c46

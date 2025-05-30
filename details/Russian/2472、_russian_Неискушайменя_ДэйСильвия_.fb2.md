@@ -8,7 +8,7 @@
 2472、_russian_Не искушай меня_Дэй Сильвия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 149edf99c38a0af6e26aa70b025b8a4c

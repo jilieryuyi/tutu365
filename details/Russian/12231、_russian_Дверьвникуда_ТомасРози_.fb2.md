@@ -8,7 +8,7 @@
 12231、_russian_Дверь в никуда_Томас Рози_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc12d2e615bf8de3fda5d0ddddc63c0d

@@ -8,7 +8,7 @@
 8439、_spanish_Informe Brennan_Reichs Kathy_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 98e2353306c5bcc2ac78c35122107782

@@ -8,7 +8,7 @@
 5261、_russian_Лизанькин сон (сказка)_Чудинова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 440e73f389690080738cec72d60e600a

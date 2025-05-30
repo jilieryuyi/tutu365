@@ -8,7 +8,7 @@
 6411、_russian_Мой класс_Вигдорова Фрида Абрамовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbee6ef480ff8a7a8e5c8976864078d9

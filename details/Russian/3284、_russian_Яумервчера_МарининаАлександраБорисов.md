@@ -8,7 +8,7 @@
 3284、_russian_Я умер вчера_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 621b6e6d9d6f14a76b26017606b926bf

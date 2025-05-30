@@ -8,7 +8,7 @@
 5508、_russian_Наемник_Кумин Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb1fed4cf772f60318600ef28d008412

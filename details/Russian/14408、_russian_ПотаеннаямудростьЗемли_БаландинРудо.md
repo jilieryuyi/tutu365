@@ -8,7 +8,7 @@
 14408、_russian_Потаенная мудрость Земли_Баландин Рудольф Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10a9638ffdd4a054044bb745d35faedb

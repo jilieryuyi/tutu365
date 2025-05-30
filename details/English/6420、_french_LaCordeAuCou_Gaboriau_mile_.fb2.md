@@ -8,7 +8,7 @@
 6420、_french_La Corde Au Cou_Gaboriau _mile_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 761247a81c27ce70dd3b2b436cd93892

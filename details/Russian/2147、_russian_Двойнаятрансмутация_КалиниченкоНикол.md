@@ -8,7 +8,7 @@
 2147、_russian_Двойная трансмутация_Калиниченко Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b882910145a1c9bbe7216d7d4de5b715

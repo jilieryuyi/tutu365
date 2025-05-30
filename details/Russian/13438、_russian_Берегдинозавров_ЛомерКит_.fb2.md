@@ -8,7 +8,7 @@
 13438、_russian_Берег динозавров_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0ba67fa8ad3e7b69f192e0868c4ff6f

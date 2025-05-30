@@ -8,7 +8,7 @@
 6617、_russian_Миров двух между..._Пищенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b09e4f35ef7dc1a9501a0d7b1aae3d3

@@ -8,7 +8,7 @@
 14986、_russian_Дети Атлантиды_Сигел Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3077560eca433bfae524975883df626d

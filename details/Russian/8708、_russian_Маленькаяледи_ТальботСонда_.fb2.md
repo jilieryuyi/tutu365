@@ -8,7 +8,7 @@
 8708、_russian_Маленькая леди_Тальбот Сонда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28a5ada41e3a21fb8fc0441a632de89c

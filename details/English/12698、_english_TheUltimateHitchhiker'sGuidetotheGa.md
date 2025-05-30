@@ -8,7 +8,7 @@
 12698、_english_The Ultimate Hitchhiker's Guide to the Galaxy_Douglas Adams_Del Rey.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e8d862d84e6482becac0191e3241bf2d

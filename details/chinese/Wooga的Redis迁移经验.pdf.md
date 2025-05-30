@@ -8,7 +8,7 @@
 Wooga的Redis迁移经验.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ed43425cb89a221662c1bbda39de79a4

@@ -8,7 +8,7 @@
 1927、_russian_Неестественный свет_Морган Фиделис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bc6f84869c2ed11b6b1b3eb27a27336

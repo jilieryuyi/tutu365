@@ -8,7 +8,7 @@
 8809、_russian_По ту сторону света_Багров Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9be27810fb99f69304dc0685b7c01904

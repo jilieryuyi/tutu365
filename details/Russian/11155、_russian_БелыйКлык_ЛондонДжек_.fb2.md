@@ -8,7 +8,7 @@
 11155、_russian_Белый Клык_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37fa432731cbe26653af58c9985c6f7d

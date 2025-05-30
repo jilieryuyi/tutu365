@@ -8,7 +8,7 @@
 1417、_russian_Ключи к полуночи_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ac171699275622329fca8585dfcf964

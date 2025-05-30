@@ -8,7 +8,7 @@
 11253、_russian_Час Черной звезды_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bee96c5250c584dd871962548d2e466b

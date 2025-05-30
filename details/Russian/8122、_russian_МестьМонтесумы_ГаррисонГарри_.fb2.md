@@ -8,7 +8,7 @@
 8122、_russian_Месть Монтесумы_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6302480bad2353be45da098891e28e32

@@ -8,7 +8,7 @@
 6200、_russian_Книга для таких, как я_Фрай Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c00657ba6377003df4fbe908092e9d3a

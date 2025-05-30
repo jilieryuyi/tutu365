@@ -8,7 +8,7 @@
 8324、_english_Scoundrel's Kiss_Carrie Lofty_ZEBRA.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 63b5105430c23c2d9d8c864eef6a3ee6

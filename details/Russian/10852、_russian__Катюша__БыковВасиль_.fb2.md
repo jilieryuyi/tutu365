@@ -8,7 +8,7 @@
 10852、_russian__Катюша__Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e96ad7d088cc2d331f54a817446a84f

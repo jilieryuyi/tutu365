@@ -8,7 +8,7 @@
 2223、零基础学HTML+CSS 第2版_张熠_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 547a21a63a878f4699aaba17b509cab0

@@ -8,7 +8,7 @@
 人人都该懂的互联网思维_【阿根廷】伯纳多·A.胡伯曼;李晓明译 [【阿根廷】伯纳多·A.胡伯曼;李晓明译]__5541092_6d27e6e28ded68dbd869c017ec8ce5c6.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6d27e6e28ded68dbd869c017ec8ce5c6

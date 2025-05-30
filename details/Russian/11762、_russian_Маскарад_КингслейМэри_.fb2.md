@@ -8,7 +8,7 @@
 11762、_russian_Маскарад_Кингслей Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 646a0c2a571490250109d86a44d53443

@@ -8,7 +8,7 @@
 7295、_english_Where's Scoodles__Scholastic [Scholastic]_Scholastic Inc..epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e96fd96b6cfcc7eeac505a920297a524

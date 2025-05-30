@@ -8,7 +8,7 @@
 11054、_russian_Оборотень_Стайл Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d6e18b189a993e80467bd386d4b7da6

@@ -8,7 +8,7 @@
 5888、_russian_ЗАКЛИНАТЕЛЬ ЗМЕЙ_Явдат Ильясов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bc56ff8360b0009bb3ee169ca393786

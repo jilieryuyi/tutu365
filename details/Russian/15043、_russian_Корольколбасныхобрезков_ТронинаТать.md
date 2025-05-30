@@ -8,7 +8,7 @@
 15043、_russian_Король колбасных обрезков_Тронина Татьяна Михайловна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd982aebb344e37e7c1ed46bbc5b9839

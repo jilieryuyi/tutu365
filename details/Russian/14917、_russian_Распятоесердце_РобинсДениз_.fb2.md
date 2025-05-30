@@ -8,7 +8,7 @@
 14917、_russian_Распятое сердце_Робинс Дениз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3b18eb2b96640a6467d1fb5d7ba3420

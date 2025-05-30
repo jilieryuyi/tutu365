@@ -8,7 +8,7 @@
 3281、_russian__Baby blues__Грей Мари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0823cf4c0dff21a0c1659bbbacd0274

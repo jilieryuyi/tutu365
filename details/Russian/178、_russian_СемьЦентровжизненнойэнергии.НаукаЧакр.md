@@ -8,7 +8,7 @@
 178、_russian_Семь Центров жизненной энергии. Наука Чакр_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fcb8ae6af2caa44f12d257dcadee54c

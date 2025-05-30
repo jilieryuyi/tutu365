@@ -8,7 +8,7 @@
 2071、_russian_Акция возмездия_Свонн Эндрю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b55c9b1fab63ddcaa67bcc64eb5dd5e

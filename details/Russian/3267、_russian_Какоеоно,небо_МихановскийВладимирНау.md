@@ -8,7 +8,7 @@
 3267、_russian_Какое оно, небо_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa37b2230857dc7b420b25961e80c09f

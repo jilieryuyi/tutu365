@@ -8,7 +8,7 @@
 6781、_russian_Война в Ираке глазами украинского миротворца. Без цензуры и прикрас_Phantom695_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8732dd63e0e518ab0fc61f3ffadb94a6

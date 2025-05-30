@@ -8,7 +8,7 @@
 11989、_russian_Странник_Вельтман Александр Фомич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 063fd74d7bf1f470dba0f07321c4aef2

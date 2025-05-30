@@ -8,7 +8,7 @@
 16486、_english_The Duelist's Seduction_Lauren Smith_Lauren Smith.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 550e6e7a24da6a6257d22258881bf5a0

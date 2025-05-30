@@ -8,7 +8,7 @@
 增长黑客手册：如何用数据驱动爆发式增长？增长黑客PDF下载 (1).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 501548cba89c2943bc21aa888e2672c6

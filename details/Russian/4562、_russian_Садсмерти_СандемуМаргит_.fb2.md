@@ -8,7 +8,7 @@
 4562、_russian_Сад смерти_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2250c881e69ea11c483dbe2fb2dc1fdc

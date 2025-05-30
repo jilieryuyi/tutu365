@@ -8,7 +8,7 @@
 13647、_russian_Когда умирает любовь_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d28d10b3bdd6e2c4a59feed6cbb8d819

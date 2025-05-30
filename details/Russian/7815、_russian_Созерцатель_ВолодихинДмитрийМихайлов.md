@@ -8,7 +8,7 @@
 7815、_russian_Созерцатель_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa0e9c85469ea6be616fa5bd78c5955c

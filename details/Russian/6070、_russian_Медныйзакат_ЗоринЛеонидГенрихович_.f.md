@@ -8,7 +8,7 @@
 6070、_russian_Медный закат_Зорин Леонид Генрихович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06e760c501d9f4c76045845d7931d92e

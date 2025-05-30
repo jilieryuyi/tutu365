@@ -8,7 +8,7 @@
 10259、_russian_Счастливая звезда Агафокла-младшего_Громов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38755cce13fc2af961cfe20aebd147a6

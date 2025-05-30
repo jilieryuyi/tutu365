@@ -8,7 +8,7 @@
 8931、_russian_Частный детектив_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d62b21d482235ffd7813a35624578689

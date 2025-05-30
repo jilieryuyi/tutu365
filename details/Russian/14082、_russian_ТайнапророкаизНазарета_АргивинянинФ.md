@@ -8,7 +8,7 @@
 14082、_russian_Тайна пророка из Назарета_Аргивинянин Фалес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c98d2c3e4a10c658bfffc37109617220

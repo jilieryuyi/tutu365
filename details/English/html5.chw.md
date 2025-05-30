@@ -8,7 +8,7 @@
 html5.chw.chw
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ab875a740be8cc9a92d211fae509283c

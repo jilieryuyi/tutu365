@@ -8,7 +8,7 @@
 14429、_russian_ЗАПИСКИ С МЕРТВОЙ СТАНЦИИ_Савиных Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ba1be7da24c42ab4e24905c9c049f5f

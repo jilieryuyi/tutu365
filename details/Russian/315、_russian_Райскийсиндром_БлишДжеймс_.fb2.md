@@ -8,7 +8,7 @@
 315、_russian_Райский синдром_Блиш Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08c506aa5038e9ebd7ccfc1b10ccbfd8

@@ -8,7 +8,7 @@
 1040、_russian_Волшебник Земноморья_ле Гуин Урсула Крёбер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 259a5267f3a8b304d9f570fe9059042a

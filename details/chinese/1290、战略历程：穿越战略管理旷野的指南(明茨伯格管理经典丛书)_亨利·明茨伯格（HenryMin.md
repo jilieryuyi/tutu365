@@ -8,7 +8,7 @@
 1290、战略历程：穿越战略管理旷野的指南 (明茨伯格管理经典丛书)_亨利·明茨伯格（Henry Mintzberg） 布鲁斯·阿尔斯特兰德（Bruce Ahlstrand） 约瑟夫·兰佩尔（Joseph Lampel）_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1616fc80d2ba78666134ba8797441a5e

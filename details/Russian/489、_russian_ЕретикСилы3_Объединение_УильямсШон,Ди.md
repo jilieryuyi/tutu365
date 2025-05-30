@@ -8,7 +8,7 @@
 489、_russian_Еретик Силы 3_ Объединение_Уильямс Шон, Дикс Шейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9393b8c05b5453a9ac0919c57e17ef3a

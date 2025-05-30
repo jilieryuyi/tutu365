@@ -8,7 +8,7 @@
 7462、_russian_Журналюга_Левашов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b88454fa3050a04fb5b9da83bda6b4be

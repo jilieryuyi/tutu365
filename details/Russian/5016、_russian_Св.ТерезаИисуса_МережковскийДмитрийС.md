@@ -8,7 +8,7 @@
 5016、_russian_Св. Тереза Иисуса_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac6b20ad1d9b9355cc2b204087e5e372

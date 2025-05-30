@@ -8,7 +8,7 @@
 8707、_russian_Мечты цвета мокко_Тальбот Сонда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd40a802314a31d29c5db24ade08469d

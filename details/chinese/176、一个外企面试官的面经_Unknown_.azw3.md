@@ -8,7 +8,7 @@
 176、一个外企面试官的面经_Unknown_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c0ae354c59d3770fd970c3475fa2ce8e

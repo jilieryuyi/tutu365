@@ -8,7 +8,7 @@
 偏微分方程讲义_O.A.奥列尼克_郭思旭 译_高等教育出版社_5545063_90049af4b0d3f08991a2cee1fc1aa56a.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 90049af4b0d3f08991a2cee1fc1aa56a

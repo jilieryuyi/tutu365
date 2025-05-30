@@ -8,7 +8,7 @@
 12504、_russian_Разводящий Апокалипсиса_Щеглов Сергей Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23c6b334ca1ade38f638645d2b7fc3c5

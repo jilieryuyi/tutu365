@@ -8,7 +8,7 @@
 605、_russian_За пригоршню астрала_Чубаха Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7202c03f4556c8a22c9dff018cadbb6

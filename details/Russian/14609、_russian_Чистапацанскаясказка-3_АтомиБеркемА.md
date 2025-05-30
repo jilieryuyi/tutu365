@@ -8,7 +8,7 @@
 14609、_russian_Чиста пацанская сказка - 3_Атоми Беркем Аль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3114bbf1e986d9b7b5fa2363a9a8ba3

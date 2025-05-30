@@ -8,7 +8,7 @@
 3853、_russian_Дальние родственники. Фантастический роман_Юрьев Зиновий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e74a173ce7fee93cd64892fd5330a232

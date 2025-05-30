@@ -8,7 +8,7 @@
 5663、_russian_Манипулирование личностью_Грачев Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19b164c2266b3b346c4180e0ceb7a254

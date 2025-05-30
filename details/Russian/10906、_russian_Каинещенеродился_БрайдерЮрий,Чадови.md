@@ -8,7 +8,7 @@
 10906、_russian_Каин еще не родился_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5cdff55f4d11c68ce5f4414b5c96a52

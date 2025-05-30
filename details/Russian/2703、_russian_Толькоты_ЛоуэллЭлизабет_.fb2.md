@@ -8,7 +8,7 @@
 2703、_russian_Только ты_Лоуэлл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fb455bbce7a4b6a7565f436f58ccb80

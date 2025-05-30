@@ -8,7 +8,7 @@
 3330、_russian_Печать Капетингов_Сомов Кирилл Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47a0f50b12be5f59abe2e8ca3fa1349a

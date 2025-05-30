@@ -8,7 +8,7 @@
 8722、_russian_Четки фортуны_Сосницкая Маргарита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd606ab75f6de8c71eacd6ffba13862e

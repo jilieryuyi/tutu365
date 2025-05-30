@@ -8,7 +8,7 @@
 5818、_russian_Квартирант_Осинский Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4348f6f1a478e2127a32fdb7db25c782

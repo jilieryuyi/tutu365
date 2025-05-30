@@ -8,7 +8,7 @@
 13464、_russian_Бельчонок и ёлочка_Сван Анни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b8f64597e67f4fc82a4589fdf3b8510

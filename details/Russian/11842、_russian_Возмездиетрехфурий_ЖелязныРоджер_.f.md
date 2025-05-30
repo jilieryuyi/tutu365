@@ -8,7 +8,7 @@
 11842、_russian_Возмездие трех фурий_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4d3c6c06eea768727604e5a3be9c568

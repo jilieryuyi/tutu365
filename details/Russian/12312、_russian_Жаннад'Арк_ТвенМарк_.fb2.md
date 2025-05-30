@@ -8,7 +8,7 @@
 12312、_russian_Жанна д'Арк_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec678c215764015b970df20b657f4239

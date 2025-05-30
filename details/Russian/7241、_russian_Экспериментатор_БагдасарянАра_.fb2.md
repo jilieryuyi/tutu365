@@ -8,7 +8,7 @@
 7241、_russian_Экспериментатор_Багдасарян Ара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69c7c2c0db05f2ffeabecc9d01a88af3

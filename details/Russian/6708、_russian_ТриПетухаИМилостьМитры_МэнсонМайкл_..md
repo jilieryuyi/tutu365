@@ -8,7 +8,7 @@
 6708、_russian_Три Петуха И Милость Митры_Мэнсон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df0aac0b72ac2e50bd63d3bfe6fef242

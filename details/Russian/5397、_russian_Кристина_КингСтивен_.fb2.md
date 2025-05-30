@@ -8,7 +8,7 @@
 5397、_russian_Кристина_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b101a8c0d8f4d222a6f19c059637024

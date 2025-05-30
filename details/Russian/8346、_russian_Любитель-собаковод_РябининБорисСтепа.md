@@ -8,7 +8,7 @@
 8346、_russian_Любитель-собаковод_Рябинин Борис Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b024f6ec8da8084dfe7e6d16f2315c96

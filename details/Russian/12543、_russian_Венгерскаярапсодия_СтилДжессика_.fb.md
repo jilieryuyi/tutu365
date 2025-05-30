@@ -8,7 +8,7 @@
 12543、_russian_Венгерская рапсодия_Стил Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d0afaee0d1618eededcf75ce61b4b78

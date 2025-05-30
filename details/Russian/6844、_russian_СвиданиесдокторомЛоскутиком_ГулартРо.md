@@ -8,7 +8,7 @@
 6844、_russian_Свидание с доктором Лоскутиком_Гуларт Рон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecee6db0c7a1661bb467641d01437c9a

@@ -8,7 +8,7 @@
 10505、_english_Water's Edge_G R Jordan _G R Jordan.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4e10b12ddd47ae3e8aad9f52f461f1dc

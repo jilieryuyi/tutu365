@@ -8,7 +8,7 @@
 10481、_english_The Crusader's Bride_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 12c1917e3a38ee47fadbb940371e4bd1

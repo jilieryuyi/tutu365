@@ -8,7 +8,7 @@
 3801、_russian_АРГО_Кобылинский Л. Л._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fee0f3abe57ceaa6d268e512b7cbd026

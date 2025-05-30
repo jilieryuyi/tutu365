@@ -8,7 +8,7 @@
 11692、_russian_Свалка_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eacc1fb64b059a4e378ae02a6c3dae8d

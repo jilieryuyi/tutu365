@@ -8,7 +8,7 @@
 英格兰宪政史 _ 梅特兰专题讲义_[英] F. W. 梅特兰_中国政法大学出版社_5345187_890368281d40c9cfd2b60aba8c53b9c7.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 890368281d40c9cfd2b60aba8c53b9c7

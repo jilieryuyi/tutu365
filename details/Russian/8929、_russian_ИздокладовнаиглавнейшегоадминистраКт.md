@@ -8,7 +8,7 @@
 8929、_russian_Из докладов наиглавнейшего администраКтора_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bcd229e145dac0a4c26f4f36f10dc79

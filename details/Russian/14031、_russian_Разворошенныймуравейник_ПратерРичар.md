@@ -8,7 +8,7 @@
 14031、_russian_Разворошенный муравейник_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 140a681b91eb262704c30d4568995dcd

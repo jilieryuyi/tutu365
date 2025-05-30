@@ -8,7 +8,7 @@
 6355、_russian_Almost blue_Лукарелли Карло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c6589132fcf3f9670cc95473f15d5db

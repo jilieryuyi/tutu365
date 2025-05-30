@@ -8,7 +8,7 @@
 15030、_russian_Незваные гости_Триоле Эльза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6af1acfe71baf4686351fefbde7fe228

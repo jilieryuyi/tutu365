@@ -8,7 +8,7 @@
 牛津通识读本：叔本华（中文版）_贾纳韦(Christopher Janaway)__5366083_06746ec285e39bf4847424c242f47d29.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 06746ec285e39bf4847424c242f47d29

@@ -8,7 +8,7 @@
 10044、_russian_Торжество справедливости_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca6439b052093606630d876bdef81413

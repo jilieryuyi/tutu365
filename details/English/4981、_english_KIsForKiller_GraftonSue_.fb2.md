@@ -8,7 +8,7 @@
 4981、_english_K Is For Killer_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b658173b6440d4e1897d93c917fff549

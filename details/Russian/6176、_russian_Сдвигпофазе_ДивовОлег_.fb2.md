@@ -8,7 +8,7 @@
 6176、_russian_Сдвиг по фазе_Дивов Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41001cc4a25b87e9e7e4ccd50c4c1538

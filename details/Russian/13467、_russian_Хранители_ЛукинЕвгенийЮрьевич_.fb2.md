@@ -8,7 +8,7 @@
 13467、_russian_Хранители_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3665f7bec8498df84f7d0258791a556

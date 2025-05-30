@@ -8,7 +8,7 @@
 11166、_russian_Кукла на цепи_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe83af654fc0445b5beaa1a626009993

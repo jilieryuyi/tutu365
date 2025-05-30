@@ -8,7 +8,7 @@
 2028、_russian_Ветерок_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca19b455165ba423558189aa1d291a52

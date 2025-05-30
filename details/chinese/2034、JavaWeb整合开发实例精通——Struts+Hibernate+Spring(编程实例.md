@@ -8,7 +8,7 @@
 2034、Java Web整合开发实例精通——Struts+Hibernate+Spring (编程实例大讲堂)_闫术卓 & 吴峻申_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 352f63f6448df63965db0bc0f9af8a23

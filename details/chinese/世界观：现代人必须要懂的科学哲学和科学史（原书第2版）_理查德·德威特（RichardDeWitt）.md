@@ -8,7 +8,7 @@
 世界观：现代人必须要懂的科学哲学和科学史（原书第2版）_理查德·德威特（Richard DeWitt）__5450125_28be235558147948a1c35ab68352be62.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 28be235558147948a1c35ab68352be62

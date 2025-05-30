@@ -8,7 +8,7 @@
 426、_russian_Колдовской сапфир_Дельвиг Антонина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09598792e1621ce0d37b1ae9b3ee09a1

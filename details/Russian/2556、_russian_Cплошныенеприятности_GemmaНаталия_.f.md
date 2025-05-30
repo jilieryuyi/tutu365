@@ -8,7 +8,7 @@
 2556、_russian_Cплошные неприятности_Gemma Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66593f42572fd02a7f3bbb8ddc9f8156

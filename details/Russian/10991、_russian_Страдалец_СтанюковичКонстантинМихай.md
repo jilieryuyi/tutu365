@@ -8,7 +8,7 @@
 10991、_russian_Страдалец_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b114f4de6d4c5a294167a174484f686d

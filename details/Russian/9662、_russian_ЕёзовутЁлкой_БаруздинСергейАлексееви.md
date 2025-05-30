@@ -8,7 +8,7 @@
 9662、_russian_Её зовут Ёлкой_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16dd6f5207cc0c131c19cc547b465798

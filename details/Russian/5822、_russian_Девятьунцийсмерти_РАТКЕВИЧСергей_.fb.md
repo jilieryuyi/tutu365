@@ -8,7 +8,7 @@
 5822、_russian_Девять унций смерти_РАТКЕВИЧ Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0941b66d041550b94af08e58b72cc8f

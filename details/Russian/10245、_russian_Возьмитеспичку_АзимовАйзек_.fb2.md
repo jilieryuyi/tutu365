@@ -8,7 +8,7 @@
 10245、_russian_Возьмите спичку_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa180b09d16d6f50c8c7faca7adf480a

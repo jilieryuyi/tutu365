@@ -8,7 +8,7 @@
 1、_spanish_Un Bel Morir_Mutis _lvaro_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 470bc0d79d13afb0c457f2bcab3a5355

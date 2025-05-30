@@ -8,7 +8,7 @@
 3725、_russian_Роковые цветы_Спайс Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 947e20caf19ca2ceed70e4e9b0c4bccf

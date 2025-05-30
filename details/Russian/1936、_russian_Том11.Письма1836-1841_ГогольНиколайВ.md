@@ -8,7 +8,7 @@
 1936、_russian_Том 11. Письма 1836-1841_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88e8ab29c7a07ddde37332332ad5e105

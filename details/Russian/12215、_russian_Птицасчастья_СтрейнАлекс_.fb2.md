@@ -8,7 +8,7 @@
 12215、_russian_Птица счастья_Стрейн Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef2809de50b2c8c4f8a1b57dbe49baa4

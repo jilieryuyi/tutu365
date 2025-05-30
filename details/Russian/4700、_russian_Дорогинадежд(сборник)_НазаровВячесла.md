@@ -8,7 +8,7 @@
 4700、_russian_Дороги надежд (сборник)_Назаров Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 284f544bbd2d72a57b57c8fc48442f53

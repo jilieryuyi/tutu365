@@ -8,7 +8,7 @@
 1325、_russian_Просчет_Накадзато Кисё_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21437de7d194892ddf35d7dfcf5d4dd2

@@ -8,7 +8,7 @@
 5328、_russian_Ум свое, а черт свое_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6943c18a4bf0bb50966b7179841eb1cd

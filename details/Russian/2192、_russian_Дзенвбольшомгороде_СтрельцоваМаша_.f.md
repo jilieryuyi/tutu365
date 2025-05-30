@@ -8,7 +8,7 @@
 2192、_russian_Дзен в большом городе_Стрельцова Маша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d5919475f0395841022c152d7a56ddb

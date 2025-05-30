@@ -8,7 +8,7 @@
 13216、_english_The Duke's Gamble _Elyse Huntington_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 530e9161cbe120142f2a1e65babd418b

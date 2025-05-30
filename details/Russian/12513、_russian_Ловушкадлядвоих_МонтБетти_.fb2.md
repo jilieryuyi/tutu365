@@ -8,7 +8,7 @@
 12513、_russian_Ловушка для двоих_Монт Бетти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 675b65bc5bac5c7142af5e2b4ba73c40

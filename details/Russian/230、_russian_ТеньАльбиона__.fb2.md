@@ -8,7 +8,7 @@
 230、_russian_Тень Альбиона__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e426d39f51d7195ba1c12ec5fbf184fc

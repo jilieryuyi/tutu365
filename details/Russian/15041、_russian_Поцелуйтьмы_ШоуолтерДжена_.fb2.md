@@ -8,7 +8,7 @@
 15041、_russian_Поцелуй тьмы_Шоуолтер Джена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47f7faf4a5a3ea65e0d557007ec345f6

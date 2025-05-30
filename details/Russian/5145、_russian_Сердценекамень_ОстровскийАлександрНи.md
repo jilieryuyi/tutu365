@@ -8,7 +8,7 @@
 5145、_russian_Сердце не камень_Островский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32d319aa1d7d94101cc27aa81ffb0cdc

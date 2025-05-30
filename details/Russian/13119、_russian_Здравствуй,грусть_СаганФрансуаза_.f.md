@@ -8,7 +8,7 @@
 13119、_russian_Здравствуй, грусть_Саган Франсуаза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3828e6123c55f1c1323d68e429b7108a

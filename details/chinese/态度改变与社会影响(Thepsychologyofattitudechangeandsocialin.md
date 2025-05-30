@@ -8,7 +8,7 @@
 态度改变与社会影响 (The psychology of attitude change and social influence)_菲利普·津巴多, 迈克尔·利佩_人民邮电出版社_5312650_7f77f4c1ef3312d66154301a40bd5f70.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7f77f4c1ef3312d66154301a40bd5f70

@@ -8,7 +8,7 @@
 2865、_russian_Любовь в противогазе_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe403a60b7dcd35e1e1f150d8b4960c9

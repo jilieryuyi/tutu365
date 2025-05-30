@@ -8,7 +8,7 @@
 7536、_russian_Солнце полуночи_Майер Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93392d7e4f05977c6f820fa2d7427e04

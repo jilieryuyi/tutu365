@@ -8,7 +8,7 @@
 2599、_russian_Враг Короны_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 150ea7b7de430df0bcadea97c04f34e7

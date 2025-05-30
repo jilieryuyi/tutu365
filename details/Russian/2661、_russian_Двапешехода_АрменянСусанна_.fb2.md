@@ -8,7 +8,7 @@
 2661、_russian_Два пешехода_Арменян Сусанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ee629995d50ca5ba82ec8cac43299cc

@@ -8,7 +8,7 @@
 8775、_russian_Бухта радужных струй_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 611fa438f27d3512f7ea2cd5b9ba47d0

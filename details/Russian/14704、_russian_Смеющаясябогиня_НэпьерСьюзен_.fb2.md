@@ -8,7 +8,7 @@
 14704、_russian_Смеющаяся богиня_Нэпьер Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 277420e625efd9f811176113b0af9ce6

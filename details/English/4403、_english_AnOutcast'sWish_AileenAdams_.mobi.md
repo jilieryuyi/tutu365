@@ -8,7 +8,7 @@
 4403、_english_An Outcast's Wish_Aileen Adams_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 072a8f19ba07f3a25067776c5149e18a

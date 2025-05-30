@@ -8,7 +8,7 @@
 5991、_russian_Новогоднее_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c08ecd6422bcd951bf60acfed90b9aa

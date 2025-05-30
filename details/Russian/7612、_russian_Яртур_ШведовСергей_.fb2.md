@@ -8,7 +8,7 @@
 7612、_russian_Яртур_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d46d3bf54460913731261faebb5ce04

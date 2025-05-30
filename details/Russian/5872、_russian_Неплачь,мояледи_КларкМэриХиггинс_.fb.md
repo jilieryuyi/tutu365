@@ -8,7 +8,7 @@
 5872、_russian_Не плачь, моя леди_Кларк Мэри Хиггинс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 128fb332b1563bac232b023a8c26a55c

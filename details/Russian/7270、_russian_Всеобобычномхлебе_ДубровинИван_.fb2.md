@@ -8,7 +8,7 @@
 7270、_russian_Все об обычном хлебе_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae174d29e73e67922cec0a61e11f23a2

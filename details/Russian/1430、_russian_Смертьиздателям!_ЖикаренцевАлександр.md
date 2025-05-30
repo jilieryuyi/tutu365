@@ -8,7 +8,7 @@
 1430、_russian_Смерть издателям!_Жикаренцев Александр Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 460a8a7e5722d6f612ce960ac1aae673

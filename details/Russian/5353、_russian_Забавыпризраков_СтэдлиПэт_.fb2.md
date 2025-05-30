@@ -8,7 +8,7 @@
 5353、_russian_Забавы призраков_Стэдли Пэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37525a2879ecab79601db9a1844fd3ed

@@ -8,7 +8,7 @@
 2108、_russian_Наблюдатель_Большаков Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1310f8092f245bd5d011c94243e57c0c

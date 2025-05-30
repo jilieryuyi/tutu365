@@ -8,7 +8,7 @@
 11483、_russian_Черный Пенни_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfe7383aa84a6fc356eb4c08df8bb1ac

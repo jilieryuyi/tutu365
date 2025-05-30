@@ -8,7 +8,7 @@
 1528、_russian_Дилетанты_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8a62ee7e77eb525501ef5ac5deeb138

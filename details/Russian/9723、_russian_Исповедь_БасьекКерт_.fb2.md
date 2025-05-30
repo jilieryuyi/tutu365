@@ -8,7 +8,7 @@
 9723、_russian_Исповедь_Басьек Керт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34edd4655dc5bab11daf71484b15e637

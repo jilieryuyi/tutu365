@@ -8,7 +8,7 @@
 5679、_russian_Тетрадь четвертая_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e740a27a2a9f3f014a1d208a3fc60b30

@@ -8,7 +8,7 @@
 10294、_russian_Огонь_Барбюс Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f3629186b30f3245aed7556f6257d59

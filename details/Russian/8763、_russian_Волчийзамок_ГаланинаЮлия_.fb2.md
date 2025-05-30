@@ -8,7 +8,7 @@
 8763、_russian_Волчий замок_Галанина Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f319d9e53bbd4c1730682f36a6626190

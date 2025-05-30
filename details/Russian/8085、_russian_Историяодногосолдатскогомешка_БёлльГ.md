@@ -8,7 +8,7 @@
 8085、_russian_История одного солдатского мешка_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac8715dfe367326da50acfd221fce525

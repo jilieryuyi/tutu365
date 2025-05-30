@@ -8,7 +8,7 @@
 6415、_russian_Гибель России_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02802dd435b7c65820692b3626f69a6b

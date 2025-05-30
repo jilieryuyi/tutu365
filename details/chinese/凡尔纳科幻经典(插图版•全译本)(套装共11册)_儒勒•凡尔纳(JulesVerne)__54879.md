@@ -8,7 +8,7 @@
 凡尔纳科幻经典(插图版•全译本)(套装共11册)_儒勒•凡尔纳 (Jules Verne)__5487976_daa08e2d7778d35d08cfa4dbbfa16582.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 daa08e2d7778d35d08cfa4dbbfa16582

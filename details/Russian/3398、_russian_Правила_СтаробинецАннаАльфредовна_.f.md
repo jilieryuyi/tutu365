@@ -8,7 +8,7 @@
 3398、_russian_Правила_Старобинец Анна Альфредовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 162d39b511840b331821e8ff0a748518

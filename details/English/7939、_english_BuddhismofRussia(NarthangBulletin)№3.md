@@ -8,7 +8,7 @@
 7939、_english_Buddhism of Russia (Narthang Bulletin) №3 (1992)__.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 26b8534f53204eb294cdb34195e6ee7b

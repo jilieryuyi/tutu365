@@ -8,7 +8,7 @@
 8619、_russian_Корень зла_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22231bcea1f27535d345696b14890988

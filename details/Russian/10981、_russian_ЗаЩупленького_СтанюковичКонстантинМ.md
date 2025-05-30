@@ -8,7 +8,7 @@
 10981、_russian_За Щупленького_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e4d8e7bd6493350ae0ac9341be9da2f

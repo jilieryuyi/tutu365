@@ -8,7 +8,7 @@
 12833、_russian_Проверено_ мин нет!_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7eaab6c1c79bab4e90ae070159c6ff3a

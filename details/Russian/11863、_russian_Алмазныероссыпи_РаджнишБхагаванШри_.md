@@ -8,7 +8,7 @@
 11863、_russian_Алмазные россыпи_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a58d13b148b01fe6c50cce4eecfaed5

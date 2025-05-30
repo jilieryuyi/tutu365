@@ -8,7 +8,7 @@
 11203、_russian_Особый дар_Коуни Майкл Грейтрекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f07f15fdb1ef328ef6981c24b2452e80

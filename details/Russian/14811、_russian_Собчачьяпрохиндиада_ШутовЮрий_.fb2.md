@@ -8,7 +8,7 @@
 14811、_russian_Собчачья прохиндиада_Шутов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b919d93107be3a6c07162a0e99685f55

@@ -8,7 +8,7 @@
 12013、_russian_Подарки феи_Перро Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0adf3c643c5d98f10dc63b34b497b617

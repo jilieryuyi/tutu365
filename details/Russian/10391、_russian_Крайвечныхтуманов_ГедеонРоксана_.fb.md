@@ -8,7 +8,7 @@
 10391、_russian_Край вечных туманов_Гедеон Роксана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 997e74983f4446f5bff783372b2ffe5e

@@ -8,7 +8,7 @@
 10134、_russian_Отравленная маска_Вербинина Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e0bf8529e7bcc9e9bd3a032589c1352

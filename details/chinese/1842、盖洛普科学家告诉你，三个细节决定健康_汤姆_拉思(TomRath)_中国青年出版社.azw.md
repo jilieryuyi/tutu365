@@ -8,7 +8,7 @@
 1842、盖洛普科学家告诉你，三个细节决定健康_汤姆_拉思 (Tom Rath)_中国青年出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d2b4f844d68e05f854fc406a10b935a0

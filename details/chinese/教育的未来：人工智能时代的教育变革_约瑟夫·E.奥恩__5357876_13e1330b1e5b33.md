@@ -8,7 +8,7 @@
 教育的未来：人工智能时代的教育变革_约瑟夫·E.奥恩__5357876_13e1330b1e5b33db1fd2bd8d153e2d0c.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 13e1330b1e5b33db1fd2bd8d153e2d0c

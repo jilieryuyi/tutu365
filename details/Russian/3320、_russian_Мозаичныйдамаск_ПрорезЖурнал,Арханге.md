@@ -8,7 +8,7 @@
 3320、_russian_Мозаичный дамаск_Прорез Журнал, Архангельский Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f27b79ba13e305ea687e79f62c9f8ab

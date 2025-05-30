@@ -8,7 +8,7 @@
 11565、_russian_Разрушитель_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e78f091fc6cd214a708e2ac30c942385

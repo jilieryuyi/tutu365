@@ -8,7 +8,7 @@
 11368、_russian_Чудо в Пираньясе_Амаду Жоржи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 540f1798895f633ac0352ceda3e680d4

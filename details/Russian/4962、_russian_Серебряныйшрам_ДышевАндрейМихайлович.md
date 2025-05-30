@@ -8,7 +8,7 @@
 4962、_russian_Серебряный шрам_Дышев Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac620427b15b465b2b5f7b8a7112e4f9

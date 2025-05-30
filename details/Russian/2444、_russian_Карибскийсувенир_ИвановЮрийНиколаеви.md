@@ -8,7 +8,7 @@
 2444、_russian_Карибский сувенир_Иванов Юрий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35c480bcb7c1b6e4c17fd009d9506328

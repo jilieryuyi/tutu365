@@ -8,7 +8,7 @@
 11974、_russian_Мамонт_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 096f4133b62d7ad4d39e7f2a74cb0124

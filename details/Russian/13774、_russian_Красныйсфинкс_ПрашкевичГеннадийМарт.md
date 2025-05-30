@@ -8,7 +8,7 @@
 13774、_russian_Красный сфинкс_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e41133e0c60eb88ca3223cabd644f852

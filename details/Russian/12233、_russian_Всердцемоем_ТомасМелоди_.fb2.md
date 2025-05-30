@@ -8,7 +8,7 @@
 12233、_russian_В сердце моем_Томас Мелоди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0ac6897b3bb1900ccc2c3f791a7ec01

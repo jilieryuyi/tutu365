@@ -8,7 +8,7 @@
 13106、_russian_Болонская кадриль_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dedb400fabe761cce6f839de3b1abba6

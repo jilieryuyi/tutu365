@@ -8,7 +8,7 @@
 2353、_russian_Дельтоплан  над грозным_Семёнов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b416a39e6d377fa88778be0f49cc6a5

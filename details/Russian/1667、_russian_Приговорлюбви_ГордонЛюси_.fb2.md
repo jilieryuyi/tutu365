@@ -8,7 +8,7 @@
 1667、_russian_Приговор любви_Гордон Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67f23b3766f0600d4e4f8f8f25a7e867

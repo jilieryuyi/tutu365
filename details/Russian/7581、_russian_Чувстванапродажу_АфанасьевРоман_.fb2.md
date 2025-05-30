@@ -8,7 +8,7 @@
 7581、_russian_Чувства на продажу_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae54d92a671d83b78ec4fb44b752d76f

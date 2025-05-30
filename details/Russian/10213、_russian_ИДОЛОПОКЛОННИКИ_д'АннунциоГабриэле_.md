@@ -8,7 +8,7 @@
 10213、_russian_ИДОЛОПОКЛОННИКИ_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a1e1fc659568056e942674ce759ebe5

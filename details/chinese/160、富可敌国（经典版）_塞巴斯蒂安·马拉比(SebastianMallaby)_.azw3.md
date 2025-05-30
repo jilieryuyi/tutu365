@@ -8,7 +8,7 @@
 160、富可敌国（经典版）_塞巴斯蒂安·马拉比(Sebastian Mallaby)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 58e6b7fef67085e83c26328c08fd1c71

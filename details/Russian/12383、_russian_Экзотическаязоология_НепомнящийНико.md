@@ -8,7 +8,7 @@
 12383、_russian_Экзотическая зоология_Непомнящий Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3be2812bfd37754eefa888eaefe73a95

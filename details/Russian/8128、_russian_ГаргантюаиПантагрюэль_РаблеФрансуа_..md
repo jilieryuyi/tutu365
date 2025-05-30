@@ -8,7 +8,7 @@
 8128、_russian_Гаргантюа и Пантагрюэль_Рабле Франсуа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7730a1db482669dd1372531cbb003753

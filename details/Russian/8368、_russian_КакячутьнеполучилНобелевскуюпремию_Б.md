@@ -8,7 +8,7 @@
 8368、_russian_Как я чуть не получил Нобелевскую премию_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be3f4f427f0000e422d16fa103ef2be5

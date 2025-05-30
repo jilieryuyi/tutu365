@@ -8,7 +8,7 @@
 233、_russian_Мародер_Атоми Беркем аль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a844bbd861090daecc5cc51aac31b4c

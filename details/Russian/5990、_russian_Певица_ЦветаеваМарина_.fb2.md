@@ -8,7 +8,7 @@
 5990、_russian_Певица_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6891fdbee1ff0277f676136fe5e4c40

@@ -8,7 +8,7 @@
 2968、_russian_Тонкие стекла_Долгопят Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03f7e477843f31a4cb51da24867d8dd2

@@ -8,7 +8,7 @@
 8572、_russian_Честное медведевское, или Плюшевый гарант_Суворов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d98586fb8c009cff879f0f32164bd84e

@@ -8,7 +8,7 @@
 7234、_russian_Операция _Первое свидание__Джонс Аллан Ф._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a50a7b6782cf82d9a0ca0549a176dbe7

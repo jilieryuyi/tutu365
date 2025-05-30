@@ -8,7 +8,7 @@
 13960、_russian_Падший ангел_Харт Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84119a37310215045ee9b27bd9cdf49a

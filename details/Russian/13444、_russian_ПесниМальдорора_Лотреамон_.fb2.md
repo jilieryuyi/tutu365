@@ -8,7 +8,7 @@
 13444、_russian_Песни Мальдорора_Лотреамон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4af89fb99457360acde7faf002a52886

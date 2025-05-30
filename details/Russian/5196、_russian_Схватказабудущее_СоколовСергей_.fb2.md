@@ -8,7 +8,7 @@
 5196、_russian_Схватка за будущее_Соколов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60fc3b35c8b1d342c5dac2de7e83de71

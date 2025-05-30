@@ -8,7 +8,7 @@
 7780、_russian_Огненный перевал_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b46e7bd355fe13bf01070faddc16bb14

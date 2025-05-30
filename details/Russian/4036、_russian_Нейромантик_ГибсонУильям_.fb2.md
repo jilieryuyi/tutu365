@@ -8,7 +8,7 @@
 4036、_russian_Нейромантик_Гибсон Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c41ad2a4f1c644095e85c8903731c13

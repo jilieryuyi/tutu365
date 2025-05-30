@@ -8,7 +8,7 @@
 3922、_russian_Улитка на склоне_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b540af0b19c9f75191a0b9ffdc9327d

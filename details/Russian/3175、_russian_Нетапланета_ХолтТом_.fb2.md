@@ -8,7 +8,7 @@
 3175、_russian_Не та планета_Холт Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc72caa110d0e4bc98ab8339cc818aff

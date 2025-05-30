@@ -8,7 +8,7 @@
 500、_russian_Подпись _Пикпюс__Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e86d7b1d09e8fa621d84547171cf1711

@@ -8,7 +8,7 @@
 13105、_russian_Ее все любили_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ed7dfe1a4ce25d2ad67361e000fdc2c

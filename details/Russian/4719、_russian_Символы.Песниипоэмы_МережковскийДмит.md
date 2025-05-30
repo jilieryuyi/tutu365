@@ -8,7 +8,7 @@
 4719、_russian_Символы. Песни и поэмы_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75db2629ad471e198a1cdfe871da6e83

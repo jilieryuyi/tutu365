@@ -8,7 +8,7 @@
 2927、_russian_Жесткокрылый насекомый_Лукьянов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4e11456c4d795e043f5f39ba01b2108

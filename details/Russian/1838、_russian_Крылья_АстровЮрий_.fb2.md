@@ -8,7 +8,7 @@
 1838、_russian_Крылья_Астров Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4604c5b5118289496d0bc6d25aade424

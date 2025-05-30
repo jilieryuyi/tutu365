@@ -8,7 +8,7 @@
 决策与判断_斯科特·普劳斯 (Scott Plous) [斯科特·普劳斯 (Scott Plous)]__5288012_8ccfe9e764f38ec86df06f7b19b32ada.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8ccfe9e764f38ec86df06f7b19b32ada

@@ -8,7 +8,7 @@
 2560、_russian_В небе и на земле_Громов Михаил Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdf309d7af1bb2658514ddc7fd13cd27

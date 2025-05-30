@@ -8,7 +8,7 @@
 4039、_russian_М значит Магия_Гейман Нил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7d1e26e7337b513c90bac69a52055c9

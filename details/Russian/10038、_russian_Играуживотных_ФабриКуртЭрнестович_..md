@@ -8,7 +8,7 @@
 10038、_russian_Игра у животных_Фабри Курт Эрнестович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8da6180c05afa913eeb91d564e2dd9b7

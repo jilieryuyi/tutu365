@@ -8,7 +8,7 @@
 515、_russian_Мегрэ колеблется_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7fb96ffd3a69794d3709fc0c6cce961d

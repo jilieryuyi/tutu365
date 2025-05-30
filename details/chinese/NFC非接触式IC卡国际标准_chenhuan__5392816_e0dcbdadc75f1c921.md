@@ -8,7 +8,7 @@
 NFC  非接触式IC卡国际标准_chenhuan__5392816_e0dcbdadc75f1c921c8a8f05354ebdd2.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e0dcbdadc75f1c921c8a8f05354ebdd2

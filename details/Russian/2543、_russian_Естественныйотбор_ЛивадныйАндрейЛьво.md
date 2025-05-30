@@ -8,7 +8,7 @@
 2543、_russian_Естественный отбор_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 733ba335ba5de18241fd87f33ce7b62e

@@ -8,7 +8,7 @@
 11434、_russian_Детки в клетке_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c47b7aaf8b6ea3ef3aed5649aa0b6c41

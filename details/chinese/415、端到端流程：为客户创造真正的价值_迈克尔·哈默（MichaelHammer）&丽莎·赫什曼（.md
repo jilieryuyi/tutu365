@@ -8,7 +8,7 @@
 415、端到端流程：为客户创造真正的价值_迈克尔·哈默（Michael Hammer） & 丽莎·赫什曼（Lisa Hershman） [Hammer）, 迈克尔·哈默（Michael & Hershman）, 丽莎·赫什曼（Lisa]_北京华章图文信息有限公司.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 56009d823ef1fac87b7026db47fbaa19

@@ -8,7 +8,7 @@
 9808、_russian_Выпускной роман_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd31b396ea2c22667464b69250afefee

@@ -8,7 +8,7 @@
 6260、_english_The Duke's Mistress_Ann Elizabeth Cree_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0a4b65a87332ee8db93484f3630fc075

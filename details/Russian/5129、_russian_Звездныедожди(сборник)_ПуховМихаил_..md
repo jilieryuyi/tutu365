@@ -8,7 +8,7 @@
 5129、_russian_Звездные дожди (сборник)_Пухов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a770789d578413cf4d5621aa10114d3

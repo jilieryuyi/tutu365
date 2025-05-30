@@ -8,7 +8,7 @@
 14224、_russian_Ислам вчера, сегодня и завтра_Апшерони Али_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 319da5e581d8021443b4776ce5ada882

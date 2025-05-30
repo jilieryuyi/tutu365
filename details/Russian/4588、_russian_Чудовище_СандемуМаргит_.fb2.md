@@ -8,7 +8,7 @@
 4588、_russian_Чудовище_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d37a4a50269812428c228a6ea6dd1aa2

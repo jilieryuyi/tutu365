@@ -8,7 +8,7 @@
 3286、_russian_Светлый лик смерти_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9104e17d08a8ae86a0e9820f7fc116c

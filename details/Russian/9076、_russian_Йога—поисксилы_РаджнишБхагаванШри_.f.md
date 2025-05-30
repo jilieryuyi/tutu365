@@ -8,7 +8,7 @@
 9076、_russian_Йога — поиск силы_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c47a40d66e6b4334b80fa39a54e1560

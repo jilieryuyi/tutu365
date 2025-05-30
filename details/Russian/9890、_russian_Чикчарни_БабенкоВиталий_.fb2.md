@@ -8,7 +8,7 @@
 9890、_russian_Чикчарни_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9aed1dc1751b329d341cb7e79c7e0ed8

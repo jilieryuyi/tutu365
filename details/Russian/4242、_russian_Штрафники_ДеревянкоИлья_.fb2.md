@@ -8,7 +8,7 @@
 4242、_russian_Штрафники_Деревянко Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 361e561440bdcf8c0eed7e04d6611402

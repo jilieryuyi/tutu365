@@ -8,7 +8,7 @@
 西方语言学名著选读 (Selected Readings of Western Linguistics)_胡明扬_中国人民大学出版社_5496263_b0b2df954b5887a18b0ea580c09049f8.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b0b2df954b5887a18b0ea580c09049f8

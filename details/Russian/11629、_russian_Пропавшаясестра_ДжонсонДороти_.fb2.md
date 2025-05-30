@@ -8,7 +8,7 @@
 11629、_russian_Пропавшая сестра_Джонсон Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1eb8cb958673710fdd6612be41d4fe5d

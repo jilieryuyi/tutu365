@@ -8,7 +8,7 @@
 10111、_russian_Осиное гнездо_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fed7c17a235ff50ce6dd84ef17acfbdd

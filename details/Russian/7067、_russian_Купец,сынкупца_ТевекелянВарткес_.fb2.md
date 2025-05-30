@@ -8,7 +8,7 @@
 7067、_russian_Купец, сын купца_Тевекелян Варткес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c13f402ee828d199cf2d60584f1582b6

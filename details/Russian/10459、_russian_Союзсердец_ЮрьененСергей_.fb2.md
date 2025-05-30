@@ -8,7 +8,7 @@
 10459、_russian_Союз сердец_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec997c33193957bf8a413e00d3bf88d5

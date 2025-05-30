@@ -8,7 +8,7 @@
 10120、_russian_Пятиэтажная Россия_Пищикова Евгения_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8547d2ee1c8fdfc931348d4d8f129987

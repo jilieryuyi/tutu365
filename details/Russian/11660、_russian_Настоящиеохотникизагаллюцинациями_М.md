@@ -8,7 +8,7 @@
 11660、_russian_Настоящие охотники за галлюцинациями_Мансуров Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbe1ccb563aa08c100923d4105b6a3fc

@@ -8,7 +8,7 @@
 4571、_russian_Закономерный исход_Бадрис Элгис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed4d9bd13f85805d99fa6699ff06c58c

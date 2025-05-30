@@ -8,7 +8,7 @@
 3432、_russian_Драконье горе, или Дело о пропавшем менте_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01bdbc31b58bdca19d0905956f52f853

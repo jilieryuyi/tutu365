@@ -8,7 +8,7 @@
 4069、_russian_Как огонь от огня_Дворецкая Елизавета_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00327720bbfd09124d8b6a87373a2ac7

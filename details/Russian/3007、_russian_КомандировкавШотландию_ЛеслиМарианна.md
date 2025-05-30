@@ -8,7 +8,7 @@
 3007、_russian_Командировка в Шотландию_Лесли Марианна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb22583d1f20ea378dea06c2b017d77d

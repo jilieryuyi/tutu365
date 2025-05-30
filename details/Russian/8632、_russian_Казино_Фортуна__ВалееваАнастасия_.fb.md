@@ -8,7 +8,7 @@
 8632、_russian_Казино _Фортуна__Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 174be10675ce4fbefd34773e42b80718

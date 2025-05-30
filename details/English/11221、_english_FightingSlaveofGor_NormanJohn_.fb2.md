@@ -8,7 +8,7 @@
 11221、_english_Fighting Slave of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0420902f131ed02b6a635c425bd5394e

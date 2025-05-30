@@ -8,7 +8,7 @@
 15260、_russian_Черный рыцарь_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c9cdd9133eba680a094e8ba3b8116fd

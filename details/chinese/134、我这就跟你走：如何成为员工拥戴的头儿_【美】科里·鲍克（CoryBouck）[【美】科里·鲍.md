@@ -8,7 +8,7 @@
 134、我这就跟你走：如何成为员工拥戴的头儿_【美】科里·鲍克（Cory Bouck） [【美】科里·鲍克（Cory Bouck）]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6f6cd745c4a5c0b3fa4b9744170ecf94

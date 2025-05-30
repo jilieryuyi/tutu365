@@ -8,7 +8,7 @@
 欧亨利短篇小说集_William Sydney Porter__5470630_a7f6f9ce359f83bed9161406e4c38758.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a7f6f9ce359f83bed9161406e4c38758

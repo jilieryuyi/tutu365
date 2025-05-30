@@ -8,7 +8,7 @@
 2989、_russian_Алфавита. Книга соответствий_Волос Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12eecca713fb7dfc9d9bc443a6375377

@@ -8,7 +8,7 @@
 4390、_russian_И это только начало_Ре Никола_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1badea9ae53c0167c49d1dd9dc70461e

@@ -8,7 +8,7 @@
 10330、_russian_Среди звезд_Михайлов Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5fbe479a07448eb6ae55a524decc5c6

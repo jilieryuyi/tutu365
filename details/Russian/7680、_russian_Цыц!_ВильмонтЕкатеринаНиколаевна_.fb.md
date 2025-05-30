@@ -8,7 +8,7 @@
 7680、_russian_Цыц!_Вильмонт Екатерина Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 409faabeeb81e012bb64e22b81edbde5

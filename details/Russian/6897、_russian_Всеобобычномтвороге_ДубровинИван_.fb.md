@@ -8,7 +8,7 @@
 6897、_russian_Все об обычном твороге_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9750e7f88ff56f86a06d0e25a2786df7

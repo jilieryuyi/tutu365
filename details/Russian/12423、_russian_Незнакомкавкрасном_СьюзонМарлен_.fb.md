@@ -8,7 +8,7 @@
 12423、_russian_Незнакомка в красном_Сьюзон Марлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b78916a00208d63b4f45d9e5a2a9102

@@ -8,7 +8,7 @@
 10045、_russian_Случай в Маркет-Бейсинге_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf6967c1d0066ca76cf7ab31f0575d0d

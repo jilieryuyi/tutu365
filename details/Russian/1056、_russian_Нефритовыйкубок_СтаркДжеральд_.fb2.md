@@ -8,7 +8,7 @@
 1056、_russian_Нефритовый кубок_Старк Джеральд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98d4b6a113bdb77e9a59ced3000cb998

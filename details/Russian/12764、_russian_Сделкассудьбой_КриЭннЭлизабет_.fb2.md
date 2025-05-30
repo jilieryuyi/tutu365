@@ -8,7 +8,7 @@
 12764、_russian_Сделка с судьбой_Кри Энн Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f383fd89ca26e4d5b8bb566bb6ab019

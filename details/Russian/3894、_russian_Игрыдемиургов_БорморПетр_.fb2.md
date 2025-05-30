@@ -8,7 +8,7 @@
 3894、_russian_Игры демиургов_Бормор Петр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e4b5751a11471ff0ae7235163bf2402

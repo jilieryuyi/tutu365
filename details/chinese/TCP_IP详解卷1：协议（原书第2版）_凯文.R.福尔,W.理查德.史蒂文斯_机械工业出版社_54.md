@@ -8,7 +8,7 @@
 TCP_IP详解 卷1：协议（原书第2版）_凯文.R.福尔,W.理查德.史蒂文斯_机械工业出版社_5442192_96ddf73d3c77189dfb73a7dbe4d7a625.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 96ddf73d3c77189dfb73a7dbe4d7a625

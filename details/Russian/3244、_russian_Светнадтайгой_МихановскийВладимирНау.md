@@ -8,7 +8,7 @@
 3244、_russian_Свет над тайгой_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6ab9197dc43382f7e8f9eb3e08cc6e0

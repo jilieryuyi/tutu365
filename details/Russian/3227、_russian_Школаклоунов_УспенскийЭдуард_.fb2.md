@@ -8,7 +8,7 @@
 3227、_russian_Школа клоунов_Успенский Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6d208bfad24bb47d1be067fa83d49d2

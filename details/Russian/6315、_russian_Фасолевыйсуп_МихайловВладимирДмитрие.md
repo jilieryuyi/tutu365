@@ -8,7 +8,7 @@
 6315、_russian_Фасолевый суп_Михайлов Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79162130eac19b6a769bfd170084c702

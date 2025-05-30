@@ -8,7 +8,7 @@
 9718、_russian_Вежливый бычок_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e1428a45e406613abb3291d901a5c5b

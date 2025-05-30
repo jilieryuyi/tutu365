@@ -8,7 +8,7 @@
 1608、_russian_На Лазурном берегу_Хегган Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a51b9f1d28c3fa1ab23c1dd0cf228a56

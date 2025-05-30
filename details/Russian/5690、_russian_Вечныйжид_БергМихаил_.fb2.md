@@ -8,7 +8,7 @@
 5690、_russian_Вечный жид_Берг Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e261c5c667b1cd6f26e18fa79a5f9bed

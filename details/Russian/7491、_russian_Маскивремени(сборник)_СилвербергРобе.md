@@ -8,7 +8,7 @@
 7491、_russian_Маски времени (сборник)_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbde9c10b9e5adfd9b4f71a6f4a0d760

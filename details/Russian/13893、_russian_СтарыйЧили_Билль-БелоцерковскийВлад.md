@@ -8,7 +8,7 @@
 13893、_russian_Старый Чили_Билль-Белоцерковский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b7bc35a1a90fb928f1d9d6aed751be7

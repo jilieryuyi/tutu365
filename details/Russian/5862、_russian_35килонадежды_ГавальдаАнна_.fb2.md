@@ -8,7 +8,7 @@
 5862、_russian_35 кило надежды_Гавальда Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8445a8a0fcd55a6dc177aae498a7f7c

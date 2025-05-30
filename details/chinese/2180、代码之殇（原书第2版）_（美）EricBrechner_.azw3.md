@@ -8,7 +8,7 @@
 2180、代码之殇（原书第2版）_（美）EricBrechner_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2ae11c2f617acf00ec9b0dee60b32ffa

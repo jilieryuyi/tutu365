@@ -8,7 +8,7 @@
 13621、_russian_Знакомый солдат_Балашявичус Бангуолис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7e8294b716e70921a65dbcd6eb62d1e

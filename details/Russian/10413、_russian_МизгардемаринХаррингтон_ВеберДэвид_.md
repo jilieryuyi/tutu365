@@ -8,7 +8,7 @@
 10413、_russian_Миз гардемарин Харрингтон_Вебер Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27a1a3eb8df08cd2bd050167cee3e1c1

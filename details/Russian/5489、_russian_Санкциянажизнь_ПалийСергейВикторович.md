@@ -8,7 +8,7 @@
 5489、_russian_Санкция на жизнь_Палий Сергей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 838c789b849680511ea01e8af92ab812

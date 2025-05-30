@@ -8,7 +8,7 @@
 696、_russian_Питерские контрабандистки_Амфитеатров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a50e4ee4a8fc9fe3a4fad845ee3969d

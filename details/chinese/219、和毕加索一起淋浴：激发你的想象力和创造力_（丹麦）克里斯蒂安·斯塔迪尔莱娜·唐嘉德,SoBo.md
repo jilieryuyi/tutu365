@@ -8,7 +8,7 @@
 219、和毕加索一起淋浴：激发你的想象力和创造力_（丹麦）克里斯蒂安·斯塔迪尔 莱娜·唐嘉德, SoBooKs.cc [莱娜·唐嘉德, （丹麦）克里斯蒂安·斯塔迪尔, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 27935d515c7ca7760bd3f5ba8c632ae8

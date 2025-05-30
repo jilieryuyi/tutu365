@@ -8,7 +8,7 @@
 12471、_russian_Чужаки на острове фей_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 310bb77af37b6eeb0b6a87793e644098

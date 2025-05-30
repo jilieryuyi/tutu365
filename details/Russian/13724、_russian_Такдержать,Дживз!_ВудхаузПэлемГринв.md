@@ -8,7 +8,7 @@
 13724、_russian_Так держать, Дживз!_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a672f2028a97527984e04dc43766e6a

@@ -8,7 +8,7 @@
 9132、_russian_Тинто ретто_Гуцко Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3e099df8d5daece9f9b3cb8e0b66582

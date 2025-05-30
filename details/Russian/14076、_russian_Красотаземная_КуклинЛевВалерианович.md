@@ -8,7 +8,7 @@
 14076、_russian_Красота земная_Куклин Лев Валерианович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d9e565eb91ef1b218418ae51f8526f4

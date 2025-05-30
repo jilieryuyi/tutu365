@@ -8,7 +8,7 @@
 6260、_russian_Последняя газета_Николай Климонтович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 491655ce71eb5a90a9478e4c4ff87d29

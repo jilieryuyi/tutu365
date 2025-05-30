@@ -8,7 +8,7 @@
 13181、_russian_Любовь феминистки_Лэм Шарлотта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d272506bb1e3f369452d9d7fa41de37

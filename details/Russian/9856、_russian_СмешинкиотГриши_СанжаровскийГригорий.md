@@ -8,7 +8,7 @@
 9856、_russian_Смешинки от Гриши_Санжаровский Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71502a425646011f49bf3df100ccddf9

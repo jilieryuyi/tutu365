@@ -8,7 +8,7 @@
 8516、_russian_Психушка_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95029d7477c91ce6b5ea0d1a08289bbb

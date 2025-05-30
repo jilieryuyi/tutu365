@@ -8,7 +8,7 @@
 9026、_english_The Chair of Philanthromathematics_Henry O._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 49f2d6db4053adccba141f547b022081

@@ -8,7 +8,7 @@
 5257、_english_D is for Deadbeat_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1976f3534d64faf5a7c8fab73142655e

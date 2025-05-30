@@ -8,7 +8,7 @@
 1398、索罗斯模式_世纪危机启示录_乔治·索罗斯 (George Soros)_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 be49b2d43c61cd2a304e8f524875caa9

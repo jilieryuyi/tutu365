@@ -8,7 +8,7 @@
 1384、_russian_Альдана Потерянная принцесса_Кархалёва Надежда Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc70f18dead3c6a1bf7f8e78137e570d

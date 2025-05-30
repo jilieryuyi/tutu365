@@ -8,7 +8,7 @@
 1798、_russian_Посетите город Горький_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2cb95c877c63faf52ed35f9809dc688

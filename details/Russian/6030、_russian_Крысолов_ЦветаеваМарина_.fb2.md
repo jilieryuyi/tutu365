@@ -8,7 +8,7 @@
 6030、_russian_Крысолов_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec2101f8a89111c3d539dfa2f736d862

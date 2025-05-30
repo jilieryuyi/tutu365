@@ -8,7 +8,7 @@
 2487、李清照_人生不过一场绚烂花事_卫淇_XZXCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cda98755c843669c50764052b0589fa6

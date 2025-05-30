@@ -8,7 +8,7 @@
 11646、_russian_Адъютант Бонапарта_Брандыс Мариан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43ad644d91992b37244b776cfd2b5f17

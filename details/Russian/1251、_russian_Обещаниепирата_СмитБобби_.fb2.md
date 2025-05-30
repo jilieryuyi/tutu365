@@ -8,7 +8,7 @@
 1251、_russian_Обещание пирата_Смит Бобби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91256c8414e0259460fbb69bd63337c3

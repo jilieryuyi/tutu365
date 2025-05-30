@@ -8,7 +8,7 @@
 1447、_russian_Ночь в одиноком октябре_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6dcea9e0b302c1d7f2920c227726c31

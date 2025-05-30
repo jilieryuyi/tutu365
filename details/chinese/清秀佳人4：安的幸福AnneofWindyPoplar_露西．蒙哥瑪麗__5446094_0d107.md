@@ -8,7 +8,7 @@
 清秀佳人4：安的幸福 Anne of Windy Poplar_露西．蒙哥瑪麗__5446094_0d1077d9a3c32e0b6c8b45e15e336ba2.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0d1077d9a3c32e0b6c8b45e15e336ba2

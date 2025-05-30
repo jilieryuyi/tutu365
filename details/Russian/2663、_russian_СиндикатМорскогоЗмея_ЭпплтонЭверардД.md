@@ -8,7 +8,7 @@
 2663、_russian_Синдикат Морского Змея_Эпплтон Эверард Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9017ad71f331fd80f8eeb4ba04b09410

@@ -8,7 +8,7 @@
 2732、_russian_Звезда полынь_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccc4f4583d7d3aca9e80ce19c9ba69c9

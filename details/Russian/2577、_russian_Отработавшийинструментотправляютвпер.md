@@ -8,7 +8,7 @@
 2577、_russian_Отработавший инструмент отправляют в переплавку_Михайлов Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3a32bfc27b782bffbc13e48bdc4bfd7

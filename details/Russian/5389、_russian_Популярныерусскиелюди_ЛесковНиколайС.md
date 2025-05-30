@@ -8,7 +8,7 @@
 5389、_russian_Популярные русские люди_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79bfd91fcef616cfbeadc8d67379e07e

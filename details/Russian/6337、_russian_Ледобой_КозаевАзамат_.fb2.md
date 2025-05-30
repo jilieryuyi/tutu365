@@ -8,7 +8,7 @@
 6337、_russian_Ледобой_Козаев Азамат_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 976631a57dde41d73304bdb27923ed02

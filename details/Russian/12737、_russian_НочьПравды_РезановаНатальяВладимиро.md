@@ -8,7 +8,7 @@
 12737、_russian_Ночь Правды_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7e60f6e9b7af276aabd8e34452ad3e5

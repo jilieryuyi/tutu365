@@ -8,7 +8,7 @@
 12703、_russian_Жестокий рикошет_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 231f444389c4d6dfc723df0968be333a

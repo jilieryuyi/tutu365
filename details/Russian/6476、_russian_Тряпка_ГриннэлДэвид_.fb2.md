@@ -8,7 +8,7 @@
 6476、_russian_Тряпка_Гриннэл Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e53240ccb06f8f28f3a4d9ad3427a2aa

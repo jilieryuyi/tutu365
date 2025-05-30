@@ -8,7 +8,7 @@
 4560、_russian_Скрытые следы_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22d0b8e67afd13557936ba33647efbd8

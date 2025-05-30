@@ -8,7 +8,7 @@
 14749、_russian_Игра престолов. Книга II_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a391c4806cd7ee23933290cb5363d05

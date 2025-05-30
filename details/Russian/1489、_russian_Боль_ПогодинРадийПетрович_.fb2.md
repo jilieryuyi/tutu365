@@ -8,7 +8,7 @@
 1489、_russian_Боль_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2154a42b30ba52937f974316e619c0ae

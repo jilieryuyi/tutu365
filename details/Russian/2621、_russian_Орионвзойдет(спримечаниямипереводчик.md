@@ -8,7 +8,7 @@
 2621、_russian_Орион взойдет (с примечаниями переводчика)_Андерсон Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d693808ac1cfd4d7f078d08934761bad

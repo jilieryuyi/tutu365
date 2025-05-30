@@ -8,7 +8,7 @@
 2236、你就是极客！软件开发人员生存指南_Michael Lopp_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c1d9f99f74c31a7ff0529c1e72ff3ec7

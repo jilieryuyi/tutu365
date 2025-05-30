@@ -8,7 +8,7 @@
 11522、_russian_Пора любви_Браунинг Аманда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 381b259a390b8395db61a9eabf65e218

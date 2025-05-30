@@ -8,7 +8,7 @@
 6333、_russian_Жестокие звезды_Кривцун Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 100cb2614ca9820b9240a80d97773913

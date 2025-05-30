@@ -8,7 +8,7 @@
 12236、_russian_Яик – светлая река_Есенжанов Хамза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4a34fbe09743a8dfcde3a12dfd8babb

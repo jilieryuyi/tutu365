@@ -8,7 +8,7 @@
 9722、_russian_Эпоха мертвых. Начало_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fa18c80b2a47d93812389829207e513

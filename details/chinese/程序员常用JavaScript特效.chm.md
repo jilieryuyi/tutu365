@@ -8,7 +8,7 @@
 程序员常用JavaScript特效.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dd88aa690726593a7986b1cb2ea53c14

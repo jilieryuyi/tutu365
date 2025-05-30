@@ -8,7 +8,7 @@
 10518、_russian_Принцесса-беглянка_Ли Ребекка Хэган_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9f12c1d99ae3e43c45c556118b133c8

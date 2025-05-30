@@ -8,7 +8,7 @@
 1029、_russian_Проклятие Некроманта_Жильцова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eeea6144bed992ea8dc73bacd8f9ed90

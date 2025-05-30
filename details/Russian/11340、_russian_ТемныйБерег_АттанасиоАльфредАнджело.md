@@ -8,7 +8,7 @@
 11340、_russian_Темный Берег_Аттанасио Альфред Анджело_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 458b849d2882a29a56004f405be599ed

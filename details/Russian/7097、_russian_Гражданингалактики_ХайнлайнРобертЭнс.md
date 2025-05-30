@@ -8,7 +8,7 @@
 7097、_russian_Гражданин галактики_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf1eaf0b249a2971ddfb1bde3f240f00

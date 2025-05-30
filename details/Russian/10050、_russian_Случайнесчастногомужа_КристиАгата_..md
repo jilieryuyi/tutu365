@@ -8,7 +8,7 @@
 10050、_russian_Случай несчастного мужа_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e46bb7df7d834904418c4d7e49c852f

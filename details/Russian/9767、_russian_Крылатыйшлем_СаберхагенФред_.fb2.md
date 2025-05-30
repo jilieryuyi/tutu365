@@ -8,7 +8,7 @@
 9767、_russian_Крылатый шлем_Саберхаген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0539ed5df793f4ae5550357d3e6306e

@@ -8,7 +8,7 @@
 6043、_russian_Город мертвых_Перри С Д_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fdf29cd2c55ac3051ac1ce3ca1d0941

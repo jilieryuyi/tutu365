@@ -8,7 +8,7 @@
 2898、_russian_Фенечка для фиолетовой феи_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 814ef9555c18d144524e87bc4c035798

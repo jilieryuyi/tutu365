@@ -8,7 +8,7 @@
 14800、_russian_Хронополь_Баллард Джеймс Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7fe2cff0c3e7f4eb5008fc97866fa6c

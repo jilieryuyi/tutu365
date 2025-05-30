@@ -8,7 +8,7 @@
 13435、_russian_Великий Краббен_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b98365d892747dfd98f7d2099cd75bad

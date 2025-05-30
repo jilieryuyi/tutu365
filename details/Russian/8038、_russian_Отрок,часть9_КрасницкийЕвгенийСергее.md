@@ -8,7 +8,7 @@
 8038、_russian_Отрок, часть 9_Красницкий Евгений Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87a99a7cc80c25cfacd02b1bb506493c

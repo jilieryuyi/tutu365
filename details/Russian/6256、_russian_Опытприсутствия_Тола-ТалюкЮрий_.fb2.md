@@ -8,7 +8,7 @@
 6256、_russian_Опыт присутствия_Тола-Талюк Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64cc01393d4dad9b396d2745807295d4

@@ -8,7 +8,7 @@
 7946、_russian_Русская баня_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a490125ec31d3ffab1c2a5dbe40b2bff

@@ -8,7 +8,7 @@
 13175、_russian_Старое фото_Разумов Геннадий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 836584a4deb96da640c022db3bb2749c

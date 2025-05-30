@@ -8,7 +8,7 @@
 4072、_russian_Правда в три короба_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81a051d66bffed262c3e5b9cc64f865d

@@ -8,7 +8,7 @@
 3450、_russian_Чайки над Кремлем_Клугер Даниэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69b340bf240e767c4048c9f50c83a79a

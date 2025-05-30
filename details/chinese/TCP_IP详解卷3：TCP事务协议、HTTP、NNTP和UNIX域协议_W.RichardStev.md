@@ -8,7 +8,7 @@
 TCP_IP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议_W.Richard Stevens_机械工业出版社_5442188_72fe94e84dceb636c50b37854d76535f.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 72fe94e84dceb636c50b37854d76535f

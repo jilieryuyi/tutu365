@@ -8,7 +8,7 @@
 13871、_ukrainian_Туманн_сть Андромеди__фремов _ван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd75002333941b2b12d92dadad1e124a

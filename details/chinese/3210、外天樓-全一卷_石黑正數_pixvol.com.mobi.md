@@ -8,7 +8,7 @@
 3210、外天樓 - 全一卷_石黑正數_pixvol.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7002f96e0ddfe6a62c4c84c6e3ed2898

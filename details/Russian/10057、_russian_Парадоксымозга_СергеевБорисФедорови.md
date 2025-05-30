@@ -8,7 +8,7 @@
 10057、_russian_Парадоксы мозга_Сергеев Борис Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0ad88e2b7e4953883a5b5fdb4bcf81b

@@ -8,7 +8,7 @@
 7186、_russian_Беркли за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cc41a442bae0e863684e1c99a1bb947

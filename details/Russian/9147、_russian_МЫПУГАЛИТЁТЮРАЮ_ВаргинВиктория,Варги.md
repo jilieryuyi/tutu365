@@ -8,7 +8,7 @@
 9147、_russian_МЫ ПУГАЛИ ТЁТЮ РАЮ_Варгин Виктория, Варгин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 485f0d14a9a41ac1e0be64ce0f35a252

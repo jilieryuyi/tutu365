@@ -8,7 +8,7 @@
 2348、怀孕圣经(超值白金版)_Unknown_吉林出版集团，吉林科学技术出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e780c8b41a228bf7ccb8e9e3043b356e

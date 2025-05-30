@@ -8,7 +8,7 @@
 5781、_russian_Моя жизнь_Циолковский Константин Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dab507642c4d49b1a85520c0f4d38c01

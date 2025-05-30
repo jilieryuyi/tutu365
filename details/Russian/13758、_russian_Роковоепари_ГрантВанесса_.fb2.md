@@ -8,7 +8,7 @@
 13758、_russian_Роковое пари_Грант Ванесса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fd6700f90ae460ceccc8f9970a5630a

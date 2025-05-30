@@ -8,7 +8,7 @@
 14807、_russian_Война Невменяемого_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ece19f2e94a0fdeddaafc5764bcc5dd

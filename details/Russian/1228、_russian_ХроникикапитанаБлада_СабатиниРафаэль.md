@@ -8,7 +8,7 @@
 1228、_russian_Хроники капитана Блада_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e74e7565ba68cadae57ade51fae39b5a

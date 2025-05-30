@@ -8,7 +8,7 @@
 10655、_russian_Сын белого волка_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e7f7532a657a457261c818e93790bbf

@@ -8,7 +8,7 @@
 4615、_russian_Изменения_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ee8456a88dbec2e8e76424c8c9dbce7

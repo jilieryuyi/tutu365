@@ -8,7 +8,7 @@
 8818、_russian_Глоб-Футурум_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77cea19a83563e92d42ce93183f7a293

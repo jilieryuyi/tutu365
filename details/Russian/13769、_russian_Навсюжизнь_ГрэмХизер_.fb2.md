@@ -8,7 +8,7 @@
 13769、_russian_На всю жизнь_Грэм Хизер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c6a6e4bb16d559f8038f1db67f587a9

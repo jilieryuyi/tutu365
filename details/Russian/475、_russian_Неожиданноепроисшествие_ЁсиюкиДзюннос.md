@@ -8,7 +8,7 @@
 475、_russian_Неожиданное происшествие_Ёсиюки Дзюнноскэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bc8dfcc9f1cdd16fd5f8222fe154243

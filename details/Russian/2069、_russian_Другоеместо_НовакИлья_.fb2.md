@@ -8,7 +8,7 @@
 2069、_russian_Другое место_Новак Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78b9c1ce705672e750bdb9bdb3b1a6aa

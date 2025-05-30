@@ -8,7 +8,7 @@
 2365、_russian_Зеркальный коридор_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccb9537a362fec3d43557a64aa0d5667

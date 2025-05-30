@@ -8,7 +8,7 @@
 922、_russian_Полковник Шабер_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b50e4b08738d82ee35738e877c469d51

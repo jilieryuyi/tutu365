@@ -8,7 +8,7 @@
 6306、_russian_Малышкина и Карлос. Магические врата_Старкова Елена, Денисов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 837289f78ed7fc2e8cba92ede1bbc3bb

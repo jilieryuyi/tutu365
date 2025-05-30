@@ -8,7 +8,7 @@
 14729、_russian_Меня зовут Лис_Семендяев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e48e97baac81c3f3d93186be0e72ffed

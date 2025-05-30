@@ -8,7 +8,7 @@
 3026、_russian_Частная жизнь кардинала Ришелье_Липовска Алиция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc66d9f50296fcc2335f798abedc8294

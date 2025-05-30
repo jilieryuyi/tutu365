@@ -8,7 +8,7 @@
 6267、_russian_Черная черта_Гасанов Эльчин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bae4dda6628d205fd744546719de4fc

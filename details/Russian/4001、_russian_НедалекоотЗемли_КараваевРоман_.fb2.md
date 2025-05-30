@@ -8,7 +8,7 @@
 4001、_russian_Недалеко от Земли_Караваев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 797e1bc9625370fd9e08d22f9362d9a1

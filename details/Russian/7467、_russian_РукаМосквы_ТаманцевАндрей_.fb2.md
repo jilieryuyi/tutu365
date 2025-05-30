@@ -8,7 +8,7 @@
 7467、_russian_Рука Москвы_Таманцев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4de7fe25f17a12a33e4bbdfb46b1f2d

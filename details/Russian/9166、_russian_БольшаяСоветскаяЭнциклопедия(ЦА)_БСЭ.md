@@ -8,7 +8,7 @@
 9166、_russian_Большая Советская Энциклопедия (ЦА)_БСЭ БСЭ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1dfcacbeca32d1317293ab46670caf0

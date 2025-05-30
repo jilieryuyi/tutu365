@@ -8,7 +8,7 @@
 14738、_russian_Химера_Барт Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ece8b02f43ccbae0734f019457b95830

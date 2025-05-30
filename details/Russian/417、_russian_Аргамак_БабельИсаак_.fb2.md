@@ -8,7 +8,7 @@
 417、_russian_Аргамак_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f409bf84a48a0119d9c627c6925c3349

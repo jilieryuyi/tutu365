@@ -8,7 +8,7 @@
 15200、_russian_Сладкое вино любви_Делински Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aea8b22a01eaf022bb8cb3950d5b53a2

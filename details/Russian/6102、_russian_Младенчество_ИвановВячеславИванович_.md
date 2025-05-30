@@ -8,7 +8,7 @@
 6102、_russian_Младенчество_Иванов Вячеслав Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26c51507ac5de723479ea472774002b7

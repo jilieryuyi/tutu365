@@ -8,7 +8,7 @@
 4964、_russian_Рууг_Дик Филип_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d38813734e4faf4989a4f54b16c14b41

@@ -8,7 +8,7 @@
 11620、_polish_Ostrze Darwina_Simmons Dan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 aacbe7a0c2c6b2e745b9cd33459cfbdc

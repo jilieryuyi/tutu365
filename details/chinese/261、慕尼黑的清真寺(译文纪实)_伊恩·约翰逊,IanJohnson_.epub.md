@@ -8,7 +8,7 @@
 261、慕尼黑的清真寺 (译文纪实)_伊恩·约翰逊, Ian Johnson_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 27167ac7f5b28cf7c4f39a3b8c1b7e9e

@@ -8,7 +8,7 @@
 4000、_russian_Варторн_ Воскрешение_Карло Эрик Дель, Асприн Роберт Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e58d90ddfba9a1c9f0aefc55e2841c3f

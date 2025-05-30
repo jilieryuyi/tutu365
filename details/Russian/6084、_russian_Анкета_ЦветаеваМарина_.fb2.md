@@ -8,7 +8,7 @@
 6084、_russian_Анкета_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b929215ca80fcb85e7c8f4ead558e05

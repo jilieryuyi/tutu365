@@ -8,7 +8,7 @@
 3718、_russian_Тонкая струна_Пермяк Евгений Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2920de898b47fea8d55ce041b5ae58e2

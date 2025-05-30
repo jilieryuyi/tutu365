@@ -8,7 +8,7 @@
 3390、_russian_Оборотная сторона 'Даунсайд'_Гуларт Рон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16b657c661f0d5aa216342dd16d00036

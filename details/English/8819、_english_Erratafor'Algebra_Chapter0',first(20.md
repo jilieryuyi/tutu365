@@ -8,7 +8,7 @@
 8819、_english_Errata for 'Algebra_ Chapter 0', first (2009) printing_Paolo Aluffi_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1bcaf8706cb7a4b6341752ad6c0d613b

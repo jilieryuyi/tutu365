@@ -8,7 +8,7 @@
 13568、_russian_Игра_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 641f3fde406eea25210569e482be1060

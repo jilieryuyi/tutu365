@@ -8,7 +8,7 @@
 10263、_russian_РАЙ ГДЕ-ТО РЯДОМ_Флэгг Фэнни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6b9eed423febb1beee30bc627fa6216

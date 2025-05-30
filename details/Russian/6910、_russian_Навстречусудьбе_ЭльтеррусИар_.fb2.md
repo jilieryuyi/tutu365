@@ -8,7 +8,7 @@
 6910、_russian_Навстречу судьбе_Эльтеррус Иар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db049c8dfb47717a60e2bac7ae0ae532

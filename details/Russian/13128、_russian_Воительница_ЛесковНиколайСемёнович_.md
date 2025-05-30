@@ -8,7 +8,7 @@
 13128、_russian_Воительница_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5990093b589c21ce68269ed48fa22774

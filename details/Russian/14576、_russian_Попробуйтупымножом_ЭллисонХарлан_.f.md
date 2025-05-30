@@ -8,7 +8,7 @@
 14576、_russian_Попробуй тупым ножом_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f09249d2e506de26165ac3dd33b6e74

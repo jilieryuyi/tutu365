@@ -8,7 +8,7 @@
 6912、_russian_Песочные часы (с комментариями автора)_Недоруб Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41926c199e2b864f8b344edd37dff70c

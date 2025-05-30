@@ -8,7 +8,7 @@
 11582、_russian_Небольшие эссе относительно истины_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db0c235195d7927f3e1c63d7ab9124c4

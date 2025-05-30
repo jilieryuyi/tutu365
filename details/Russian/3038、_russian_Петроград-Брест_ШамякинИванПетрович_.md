@@ -8,7 +8,7 @@
 3038、_russian_Петроград-Брест_Шамякин Иван Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3568a4d4054cf6704454012e7846d07e

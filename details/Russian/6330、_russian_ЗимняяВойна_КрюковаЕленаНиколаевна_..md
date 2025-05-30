@@ -8,7 +8,7 @@
 6330、_russian_Зимняя Война_Крюкова Елена Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1239d8cab31e170703ba9f63ac7b5c3e

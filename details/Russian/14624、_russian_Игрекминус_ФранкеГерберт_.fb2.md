@@ -8,7 +8,7 @@
 14624、_russian_Игрек минус_Франке Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 655a1126e683cf2580501d235b4b688b

@@ -8,7 +8,7 @@
 14591、_russian_По Руси_Горький Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64d9dfa745077557816356b2f6b76616

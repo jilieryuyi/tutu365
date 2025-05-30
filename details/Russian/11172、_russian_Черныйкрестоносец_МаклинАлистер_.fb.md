@@ -8,7 +8,7 @@
 11172、_russian_Черный крестоносец_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 463d3a0a782f1b056024056079d8ed79

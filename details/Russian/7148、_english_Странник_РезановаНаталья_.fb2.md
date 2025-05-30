@@ -8,7 +8,7 @@
 7148、_english_Странник_Резанова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22ea82ebcb2af63806df8278fbcab0b8

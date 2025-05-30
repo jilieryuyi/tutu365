@@ -8,7 +8,7 @@
 6789、_russian_Обручальное кольцо_Холлидей Сильвия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69bcac8bfcda7352cc7d06ff647e44c5

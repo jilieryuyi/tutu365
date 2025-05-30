@@ -8,7 +8,7 @@
 13580、_russian_Великолепие_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 083bbd9f2149ea44d3336e2d1ed165b7

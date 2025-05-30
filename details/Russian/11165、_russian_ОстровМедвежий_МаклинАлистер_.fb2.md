@@ -8,7 +8,7 @@
 11165、_russian_Остров Медвежий_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61c927444d168abf92e3de98d4792051

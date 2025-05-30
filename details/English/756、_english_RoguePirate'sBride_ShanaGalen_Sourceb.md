@@ -8,7 +8,7 @@
 756、_english_Rogue Pirate's Bride_Shana Galen_Sourcebooks, Inc..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1332ca9f50a9982ae97d4ad37b3460ed

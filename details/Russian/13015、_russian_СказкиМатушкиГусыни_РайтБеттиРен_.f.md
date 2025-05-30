@@ -8,7 +8,7 @@
 13015、_russian_Сказки Матушки Гусыни_Райт Бетти Рен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 241719459f3aebba63ea8ecb8c8702ee

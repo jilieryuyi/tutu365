@@ -8,7 +8,7 @@
 8570、_russian_Культурный обмен_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fdde0876e9311e6dd065405b0e50b8b

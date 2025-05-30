@@ -8,7 +8,7 @@
 4040、_russian_Жуки_Гаркушев Евгений Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2d7a8da68511b3040b1866e7f37fb06

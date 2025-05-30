@@ -8,7 +8,7 @@
 11701、_russian_Дурак в поход собрался_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7ee8dcffd343793ceeea541334e193a

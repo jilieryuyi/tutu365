@@ -8,7 +8,7 @@
 8776、_english_Learning React Native_Bonnie Eisenman_O'Reilly Media, Inc..epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 521b8900b2c8cddee1bf2ca0a0c06cec

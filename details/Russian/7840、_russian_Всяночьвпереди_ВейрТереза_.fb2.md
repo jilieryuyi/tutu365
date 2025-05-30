@@ -8,7 +8,7 @@
 7840、_russian_Вся ночь впереди_Вейр Тереза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93f84ea62818622e5f10ba6ad29105fa

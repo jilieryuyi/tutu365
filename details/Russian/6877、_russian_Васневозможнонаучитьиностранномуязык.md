@@ -8,7 +8,7 @@
 6877、_russian_Вас невозможно научить иностранному языку_Замяткин Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3c4a2f7142873b726b68a6e7ac9fab0

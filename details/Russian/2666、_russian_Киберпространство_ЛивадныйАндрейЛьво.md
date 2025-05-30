@@ -8,7 +8,7 @@
 2666、_russian_Киберпространство_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a41a263bcc6054f122a3bc3b041b681

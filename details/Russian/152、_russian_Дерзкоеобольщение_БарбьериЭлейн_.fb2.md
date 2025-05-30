@@ -8,7 +8,7 @@
 152、_russian_Дерзкое обольщение_Барбьери Элейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 067df2c20f39da823a6b68a6b8855b8e

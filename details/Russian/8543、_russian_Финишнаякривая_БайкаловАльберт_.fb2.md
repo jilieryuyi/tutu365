@@ -8,7 +8,7 @@
 8543、_russian_Финишная кривая_Байкалов Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f51db7af558ad78ff4646e5aacd138d

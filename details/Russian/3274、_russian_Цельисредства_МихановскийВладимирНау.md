@@ -8,7 +8,7 @@
 3274、_russian_Цель и средства_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eefae567d36255c053b1ac0b8ba69e99

@@ -8,7 +8,7 @@
 10237、_russian_Планета Мечты_Власов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3bbcb692acbd536294619d140b76a9d

@@ -8,7 +8,7 @@
 11352、_russian_Лукоморье. Каникулы боевого мага_Бадей Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73c1bcf8bae7c30c2caa3fc5cc6f3374

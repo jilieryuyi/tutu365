@@ -8,7 +8,7 @@
 14642、_russian_Трудное счастье_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bbde69a1e2a71b0192b6a4f0b7bd1e9

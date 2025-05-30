@@ -8,7 +8,7 @@
 3442、_russian_Сладкозвучный серебряный блюз_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29b3d274cd4def4305020edf25f6784c

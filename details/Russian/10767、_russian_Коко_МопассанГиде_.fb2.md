@@ -8,7 +8,7 @@
 10767、_russian_Коко_Мопассан Ги де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9e167855a8ade9320f67af8e94d8244

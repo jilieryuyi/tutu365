@@ -8,7 +8,7 @@
 4608、_russian_Внеклассное чтение. Том 2_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 011b8f56646350b28f581da8652e00e5

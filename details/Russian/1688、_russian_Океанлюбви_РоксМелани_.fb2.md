@@ -8,7 +8,7 @@
 1688、_russian_Океан любви_Рокс Мелани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 411b885be968c5d07b7cd8806074eee4

@@ -8,7 +8,7 @@
 5904、_russian_Протокол_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce59c6dd4a49a6de72c805ffd622e2ff

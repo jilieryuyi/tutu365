@@ -8,7 +8,7 @@
 信息系统监理师教程 (柳纯录主编, 柳纯录主编 , 全国计算机技术与软件专业技术资格 (水平) 考试办公室组编 etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5a8aa6ca29e04867d1d17d5aabe2c474

@@ -8,7 +8,7 @@
 11883、_russian_Синее окно Феокрита_Гор Геннадий Самойлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6520a3fced2efb8fb2458a240c96bc6f

@@ -8,7 +8,7 @@
 3167、_russian_Спpеднеталитянские легенды_Антонов (Грасси) Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a6ea01fab15dd9d3beb89fa8e24ee37

@@ -8,7 +8,7 @@
 11826、_russian_Влияние звезд_Буццати Дино_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd3a4695ffe4f7b06e78b5fb53091970

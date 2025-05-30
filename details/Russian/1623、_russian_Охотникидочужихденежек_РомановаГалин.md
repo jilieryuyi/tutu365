@@ -8,7 +8,7 @@
 1623、_russian_Охотники до чужих денежек_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e289ad34c467af5e89d97c4b04f7f14

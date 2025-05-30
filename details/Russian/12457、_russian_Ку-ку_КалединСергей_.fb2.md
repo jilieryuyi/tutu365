@@ -8,7 +8,7 @@
 12457、_russian_Ку-ку_Каледин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 887a240a9b831a31117d509c6b70954d

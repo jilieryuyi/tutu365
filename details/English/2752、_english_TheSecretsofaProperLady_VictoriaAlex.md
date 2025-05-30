@@ -8,7 +8,7 @@
 2752、_english_The Secrets of a Proper Lady_Victoria Alexander_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2581acecf052cdb6ad4d83ac34e2ccfb

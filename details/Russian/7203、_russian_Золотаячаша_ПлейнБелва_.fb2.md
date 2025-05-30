@@ -8,7 +8,7 @@
 7203、_russian_Золотая чаша_Плейн Белва_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 039a367abfabc91f8830fc823795ca68

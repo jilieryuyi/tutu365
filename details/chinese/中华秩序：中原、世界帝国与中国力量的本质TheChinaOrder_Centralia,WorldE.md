@@ -8,7 +8,7 @@
 中华秩序：中原、世界帝国与中国力量的本质   The China Order_ Centralia, World Empire, and the Nature of Chinese Power _王飞凌_八旗文化出版社_5495130_6af885ade183e0fba5f30829301f2c7b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6af885ade183e0fba5f30829301f2c7b

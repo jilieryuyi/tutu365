@@ -8,7 +8,7 @@
 13443、_russian_Мечты Сбываются…_Лоринг Эмили_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74e1487f4737a13c4fee27f1fe4454fa

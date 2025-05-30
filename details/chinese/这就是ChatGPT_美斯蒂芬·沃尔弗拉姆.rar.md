@@ -8,7 +8,7 @@
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3d173d7554edc5684583cea1520df18d

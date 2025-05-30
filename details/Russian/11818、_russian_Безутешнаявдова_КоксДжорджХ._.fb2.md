@@ -8,7 +8,7 @@
 11818、_russian_Безутешная вдова_Кокс Джордж Х._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6ecc4958761d31d0721c61daf77e5f7

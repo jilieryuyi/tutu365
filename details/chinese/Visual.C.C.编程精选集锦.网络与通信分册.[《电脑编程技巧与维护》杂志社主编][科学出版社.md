@@ -8,7 +8,7 @@
 Visual.C.C.编程精选集锦.网络与通信分册.[《电脑编程技巧与维护》杂志社主编][科学出版社][2003].pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 38fcc53b36a4a6471d8e48f19bb35dc7

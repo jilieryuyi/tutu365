@@ -8,7 +8,7 @@
 11067、_english_Outlaw of Gor_Норман Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 418bdb0298ffab7d8665b434abed8e79

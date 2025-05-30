@@ -8,7 +8,7 @@
 262、_russian_Счастливый каллиграф Тайдзан_Мусянокодзи Санэацу_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3709023d77a9e38dd01df4b60ff5790

@@ -8,7 +8,7 @@
 13719、_russian_Бинго и пекинесы_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd62ce003af632306b554dcae7d1099f

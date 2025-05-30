@@ -8,7 +8,7 @@
 15232、_russian_Сумчатые баллады_Antrekot_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06af7083f00af8687a2b35ffeb4003b7

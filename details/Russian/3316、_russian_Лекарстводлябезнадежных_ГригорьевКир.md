@@ -8,7 +8,7 @@
 3316、_russian_Лекарство для безнадежных_Григорьев Кирилл Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37c764422bed1999a2345f3ee36cdac1

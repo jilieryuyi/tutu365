@@ -8,7 +8,7 @@
 6073、_russian_Про Иону_Хемлин Маргарита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebd7e9bcd94562da1ce5ae63b3602d1a

@@ -8,7 +8,7 @@
 11393、_russian_Ублюдок Баннермен_Спиллейн Микки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3175b9c16d8901d25becb0c0ba142fbc

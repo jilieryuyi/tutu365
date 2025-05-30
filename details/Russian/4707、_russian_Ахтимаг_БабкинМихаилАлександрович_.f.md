@@ -8,7 +8,7 @@
 4707、_russian_Ахтимаг_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 640ecdfe897798c89cc9a4aabd39d28d

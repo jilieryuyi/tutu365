@@ -8,7 +8,7 @@
 11272、_russian_Дневник Сатаны_Андреев Леонид Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4629c067166b93ba4ff295d464e82bc0

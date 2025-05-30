@@ -8,7 +8,7 @@
 2631、学习之道_芭芭拉·奥克利（Barbara Oakley）_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 714f0848be174dd4f7efd5b1cbc5b3a1

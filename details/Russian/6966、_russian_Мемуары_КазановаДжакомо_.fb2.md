@@ -8,7 +8,7 @@
 6966、_russian_Мемуары_Казанова Джакомо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ce0a1fe9c2b6445a2b939f201d6f5bc

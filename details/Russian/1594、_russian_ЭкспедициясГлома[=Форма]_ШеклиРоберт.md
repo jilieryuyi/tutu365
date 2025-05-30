@@ -8,7 +8,7 @@
 1594、_russian_Экспедиция с Глома [= Форма]_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a82dd85dccdd96bf85d3214dc3bc96c

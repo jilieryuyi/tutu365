@@ -8,7 +8,7 @@
 6615、_russian_Приключения скряги (Хаджи-Гара)_Ахундов Мирза Фатали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cabc24893514a4cc32252b966c5e4b5

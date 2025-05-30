@@ -8,7 +8,7 @@
 6090、_russian_Золотая колыбель_Кузьмин Лев Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 531d69010f55777c5fcbc1f54987dc6f

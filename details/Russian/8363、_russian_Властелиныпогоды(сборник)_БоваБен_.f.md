@@ -8,7 +8,7 @@
 8363、_russian_Властелины погоды (сборник)_Бова Бен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75ef434ba5f7057c1eafdf8c3f41e1c1

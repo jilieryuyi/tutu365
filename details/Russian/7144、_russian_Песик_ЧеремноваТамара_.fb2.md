@@ -8,7 +8,7 @@
 7144、_russian_Песик_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 717a1012be64a592ea2987bfa0c94182

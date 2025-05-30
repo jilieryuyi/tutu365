@@ -8,7 +8,7 @@
 14914、_russian_Дюна_Герберт Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3bf2c33828b056a2adddd268d5a667b7

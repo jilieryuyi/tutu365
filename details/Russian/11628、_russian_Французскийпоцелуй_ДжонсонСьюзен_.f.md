@@ -8,7 +8,7 @@
 11628、_russian_Французский поцелуй_Джонсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1658be31977bc0e2c44f26bdd9cd0fc2

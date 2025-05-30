@@ -8,7 +8,7 @@
 12917、_russian_Хвост_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1dc51829d995f1107081b299e1859229

@@ -8,7 +8,7 @@
 6131、_russian_Золотое королевство_Виггз Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40956d4930d3f20a3f2630d470259fcf

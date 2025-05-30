@@ -8,7 +8,7 @@
 1496、_russian_Одинокая на ветру_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9877e9887a1e7702d9fb173c55197b77

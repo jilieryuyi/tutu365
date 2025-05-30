@@ -8,7 +8,7 @@
 195、我最想要的化妆书2 (My Wannabe系列)_边惠玉_广西科学技术出版社有限公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 856fd0d63171b91ca95a00fc9e814e84

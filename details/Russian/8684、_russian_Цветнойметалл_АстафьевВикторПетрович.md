@@ -8,7 +8,7 @@
 8684、_russian_Цветной металл_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a4a497c6fc26901e6f825d00c1c816d

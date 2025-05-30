@@ -8,7 +8,7 @@
 14883、_russian_Сообщение Броуди (сборник)_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be11942f4a7446eb0ddfe46bfbd7b555

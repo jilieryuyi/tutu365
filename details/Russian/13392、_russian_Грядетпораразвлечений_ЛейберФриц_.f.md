@@ -8,7 +8,7 @@
 13392、_russian_Грядет пора развлечений_Лейбер Фриц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2c2b9744b35095cd16d4932b3c0710a

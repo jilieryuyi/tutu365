@@ -8,7 +8,7 @@
 1906、_russian_Турецкий гамбит_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b40526d88f42eeb0da1b40e59f60236

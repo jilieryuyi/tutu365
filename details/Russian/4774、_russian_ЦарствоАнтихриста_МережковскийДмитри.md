@@ -8,7 +8,7 @@
 4774、_russian_Царство Антихриста_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6349fdea42f43a9f3d5e3cf30f6f5173

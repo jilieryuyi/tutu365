@@ -8,7 +8,7 @@
 4208、_russian_Механизм Времени_Олди Генри Лайон, Валентинов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64d043dec8d72d8fae3a148ad375228d

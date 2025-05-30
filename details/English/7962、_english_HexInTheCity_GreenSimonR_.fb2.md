@@ -8,7 +8,7 @@
 7962、_english_Hex In The City_Green Simon R_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a5998d4f1cb99ba2f89395590e500310

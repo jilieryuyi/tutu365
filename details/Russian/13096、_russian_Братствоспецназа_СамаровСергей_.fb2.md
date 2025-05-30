@@ -8,7 +8,7 @@
 13096、_russian_Братство спецназа_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3804d376da990d09588c45b6d9e2014

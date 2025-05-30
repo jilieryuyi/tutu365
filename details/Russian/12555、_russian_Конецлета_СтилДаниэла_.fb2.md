@@ -8,7 +8,7 @@
 12555、_russian_Конец лета_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b2676c949cd0c8b2e6a399396e427f2

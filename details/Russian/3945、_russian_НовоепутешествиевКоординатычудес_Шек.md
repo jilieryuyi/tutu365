@@ -8,7 +8,7 @@
 3945、_russian_Новое путешествие в Координаты чудес_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d051da0a4033dfec09f9b6047556aadd

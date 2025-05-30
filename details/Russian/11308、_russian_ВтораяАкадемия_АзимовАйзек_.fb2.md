@@ -8,7 +8,7 @@
 11308、_russian_Вторая Академия_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eaa0b53cf5f08aed9dd7d941b26b079d

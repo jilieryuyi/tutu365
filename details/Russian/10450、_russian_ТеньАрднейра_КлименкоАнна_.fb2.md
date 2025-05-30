@@ -8,7 +8,7 @@
 10450、_russian_Тень Арднейра_Клименко Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af0cee95fc5367187813a7e49eb27f53

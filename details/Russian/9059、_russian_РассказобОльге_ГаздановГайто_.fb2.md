@@ -8,7 +8,7 @@
 9059、_russian_Рассказ об Ольге_Газданов Гайто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c8ba0110c94c490662633fbce65cdcb

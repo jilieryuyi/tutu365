@@ -8,7 +8,7 @@
 13744、_russian_Заговор ведьм_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2786acf0a820468840ca28c3e9c2d630

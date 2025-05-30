@@ -8,7 +8,7 @@
 11663、_russian_Особые поручения_ Пиковый валет_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a92bdf8ef0eb2f68e9c556bac87c3594

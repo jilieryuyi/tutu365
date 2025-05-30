@@ -8,7 +8,7 @@
 9058、_russian_Критика чистого разума_Кант Иммануил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef12bd23e1c332660a23e927de4c6873

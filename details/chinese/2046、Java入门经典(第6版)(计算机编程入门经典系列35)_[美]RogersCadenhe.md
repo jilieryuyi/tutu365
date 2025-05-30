@@ -8,7 +8,7 @@
 2046、Java入门经典(第6版) (计算机编程入门经典系列 35)_[美]Rogers Cadenhead_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 224c8f520d0296b7671be9e83c20783e

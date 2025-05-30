@@ -8,7 +8,7 @@
 488、_russian_Темный Улей -1_ Король-Примкнувший_Деннинг Трой_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f380b2838ef289bd398c478300f51ad

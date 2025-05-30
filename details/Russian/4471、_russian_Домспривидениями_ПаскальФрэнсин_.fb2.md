@@ -8,7 +8,7 @@
 4471、_russian_Дом с привидениями_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fcbf345b4c4915489c344795ef5397e

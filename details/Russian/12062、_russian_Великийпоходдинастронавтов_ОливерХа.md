@@ -8,7 +8,7 @@
 12062、_russian_Великий поход династронавтов_Оливер Хаим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 642e0d10f609fa3fe731288859df0da3

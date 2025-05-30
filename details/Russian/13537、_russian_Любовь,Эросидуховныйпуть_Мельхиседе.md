@@ -8,7 +8,7 @@
 13537、_russian_Любовь, Эрос и духовный путь_Мельхиседек Друнвало_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f1fbb2040c85b6a89d7909d6248b0a5

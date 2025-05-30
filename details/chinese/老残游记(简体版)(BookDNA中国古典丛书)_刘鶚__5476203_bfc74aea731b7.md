@@ -8,7 +8,7 @@
 老残游记(简体版) (BookDNA中国古典丛书)_刘鶚__5476203_bfc74aea731b760ef256aec61a409f9e.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bfc74aea731b760ef256aec61a409f9e

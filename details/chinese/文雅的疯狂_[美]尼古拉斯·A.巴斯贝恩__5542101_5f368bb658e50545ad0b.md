@@ -8,7 +8,7 @@
 文雅的疯狂_[美] 尼古拉斯·A. 巴斯贝恩__5542101_5f368bb658e50545ad0bcdfd9dcf1fd1.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5f368bb658e50545ad0bcdfd9dcf1fd1

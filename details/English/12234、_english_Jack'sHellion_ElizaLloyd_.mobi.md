@@ -8,7 +8,7 @@
 12234、_english_Jack's Hellion_Eliza Lloyd_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0b1a78aa6ab9610d5d9321fb6541e231

@@ -8,7 +8,7 @@
 7064、_russian_Герой должен быть один_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d61ba569520eb8f549b9d75851729f9f

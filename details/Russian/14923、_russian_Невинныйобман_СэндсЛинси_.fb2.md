@@ -8,7 +8,7 @@
 14923、_russian_Невинный обман_Сэндс Линси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ce20b155bedd8c175aa6aaf2dd6af71

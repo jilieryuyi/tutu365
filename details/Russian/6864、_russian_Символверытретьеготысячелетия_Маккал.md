@@ -8,7 +8,7 @@
 6864、_russian_Символ веры третьего тысячелетия_Маккалоу Колин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 820f13971abd02b8ab1f5bd824f1cd59

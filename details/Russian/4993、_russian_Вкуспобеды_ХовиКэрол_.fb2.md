@@ -8,7 +8,7 @@
 4993、_russian_Вкус победы_Хови Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6125081a1453cb339537fb2e15d2a569

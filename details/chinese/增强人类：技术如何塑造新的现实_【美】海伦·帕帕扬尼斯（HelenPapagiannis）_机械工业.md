@@ -8,7 +8,7 @@
 增强人类：技术如何塑造新的现实_【美】海伦·帕帕扬尼斯 （Helen Papagiannis） _机械工业出版社_5346894_37873c25cf0665b323498f86e8d37c3b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 37873c25cf0665b323498f86e8d37c3b

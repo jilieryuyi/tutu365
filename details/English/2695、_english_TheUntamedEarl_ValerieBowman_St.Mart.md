@@ -8,7 +8,7 @@
 2695、_english_The Untamed Earl_Valerie Bowman_St. Martin's Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bdc05fe6d86ad753206a079e3e9c33c1

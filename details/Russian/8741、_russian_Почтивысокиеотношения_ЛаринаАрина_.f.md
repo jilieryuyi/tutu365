@@ -8,7 +8,7 @@
 8741、_russian_Почти высокие отношения_Ларина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1523b7693ced05b22489dec4662b3095

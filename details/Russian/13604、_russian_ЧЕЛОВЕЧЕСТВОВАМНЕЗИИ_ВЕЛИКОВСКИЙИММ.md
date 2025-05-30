@@ -8,7 +8,7 @@
 13604、_russian_ЧЕЛОВЕЧЕСТВО В АМНЕЗИИ_ВЕЛИКОВСКИЙ ИММАНУИЛ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cedcb632b0c4d70cd4003cedd5a205f

@@ -8,7 +8,7 @@
 1527、_russian_Отравители_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f92ca0b721727a1b8a49365640235f05

@@ -8,7 +8,7 @@
 6671、_russian_И огонь пожирает огонь_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9656d8d097213dbf0e0e2dc9b37184d

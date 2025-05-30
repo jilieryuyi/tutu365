@@ -8,7 +8,7 @@
 8734、_russian_Сокровище Китеж-града_Солнцева Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e114c41292c778dd4dfbaefaac922a3f

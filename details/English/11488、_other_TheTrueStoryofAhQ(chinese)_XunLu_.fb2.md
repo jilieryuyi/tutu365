@@ -8,7 +8,7 @@
 11488、_other_The True Story of Ah Q (chinese)_Xun Lu_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9abf4533f94c6a09995d0f959d032ebb

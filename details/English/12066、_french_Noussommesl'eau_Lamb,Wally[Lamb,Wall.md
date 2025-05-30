@@ -8,7 +8,7 @@
 12066、_french_Nous sommes l'eau_Lamb, Wally [Lamb, Wally]_Belfond.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ffaa555a73916d0bbe2eaf65e8b031a0

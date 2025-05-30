@@ -8,7 +8,7 @@
 10665、_russian_Повелитель Самарканда_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7267a47b8552e1ba450a3a881e7b2e85

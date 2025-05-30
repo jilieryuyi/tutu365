@@ -8,7 +8,7 @@
 12249、_english_The Count's Charade_Elizabeth Bailey_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9eeb270798d1b8db73e7a7a624806ffd

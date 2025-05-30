@@ -8,7 +8,7 @@
 9066、_russian_Последний портал_Орлов Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efa84c4aec796da717a10302d7a4a401

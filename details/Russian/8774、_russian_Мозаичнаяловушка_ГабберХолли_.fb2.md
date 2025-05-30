@@ -8,7 +8,7 @@
 8774、_russian_Мозаичная ловушка_Габбер Холли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecb399de80d81ab84f26be7db8feb20e

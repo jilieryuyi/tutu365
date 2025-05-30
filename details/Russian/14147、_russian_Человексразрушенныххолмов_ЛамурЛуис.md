@@ -8,7 +8,7 @@
 14147、_russian_Человек с разрушенных холмов_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a76cfe522608d3b151ecaff200fc8292

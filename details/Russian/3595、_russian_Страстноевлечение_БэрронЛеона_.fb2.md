@@ -8,7 +8,7 @@
 3595、_russian_Страстное влечение_Бэррон Леона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8162c48f4bf56a7493de5717018a71c3

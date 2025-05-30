@@ -8,7 +8,7 @@
 gopl-zh Go语言圣经.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 41231cb8daa4d7b1feb9d397cd4e455f

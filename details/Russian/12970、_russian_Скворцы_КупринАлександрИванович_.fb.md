@@ -8,7 +8,7 @@
 12970、_russian_Скворцы_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5045702ef5878fc32522430c7d6194df

@@ -8,7 +8,7 @@
 1991、_russian_Цыганы_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c26fc8088cf22aa72cc1f4b6f5a99a1

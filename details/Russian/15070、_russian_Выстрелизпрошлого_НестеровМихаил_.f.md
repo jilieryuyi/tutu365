@@ -8,7 +8,7 @@
 15070、_russian_Выстрел из прошлого_Нестеров Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0997bee0dbd52a5af0132a8d7479f803

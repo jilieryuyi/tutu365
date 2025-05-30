@@ -8,7 +8,7 @@
 11887、_russian_Гости с Уазы_Гор Геннадий Самойлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc072d4ddacfca38d27ef52e92b766d2

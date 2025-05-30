@@ -8,7 +8,7 @@
 9747、_russian_Трактирщица_Гольдони Карло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c82f5dbf3b6b7bf38f23be4021096e20

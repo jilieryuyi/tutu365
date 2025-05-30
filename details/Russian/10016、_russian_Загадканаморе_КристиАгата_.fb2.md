@@ -8,7 +8,7 @@
 10016、_russian_Загадка на море_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea86be5a8fc51bf193932547eaf47aa9

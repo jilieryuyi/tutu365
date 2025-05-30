@@ -8,7 +8,7 @@
 304、_russian_Весна'96_Александров Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6607cac4bbdb09a6aa8228e3c4614e95

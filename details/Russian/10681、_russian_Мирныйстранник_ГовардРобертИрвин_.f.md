@@ -8,7 +8,7 @@
 10681、_russian_Мирный странник_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed0acd15970ebcfc23b165b157ef7a21

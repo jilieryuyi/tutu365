@@ -8,7 +8,7 @@
 12823、_english_A Breath of Scandal_Elizabeth Essex_St. Martin's Paperbacks.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9fb08cac374c8e3e1ec00004271272e1

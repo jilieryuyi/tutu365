@@ -8,7 +8,7 @@
 15136、_russian_Никто, кроме президента_Гурский Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23f4c9ecb0447aa5453666169c2c2293

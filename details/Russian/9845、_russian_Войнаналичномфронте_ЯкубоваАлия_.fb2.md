@@ -8,7 +8,7 @@
 9845、_russian_Война на личном фронте_Якубова Алия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c30b1fd7dc064811e82d6355311886ab

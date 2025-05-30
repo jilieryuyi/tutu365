@@ -8,7 +8,7 @@
 9112、_russian_Соловьиное эхо_Ким Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5f7689879f4b6cf00290f43e16ba74c

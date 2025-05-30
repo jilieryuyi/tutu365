@@ -8,7 +8,7 @@
 572、_russian_Транзитом до Скорпиона_Балмер Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3daf5455154a9f1a139f3901e39cddaf

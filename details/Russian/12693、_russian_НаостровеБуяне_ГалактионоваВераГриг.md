@@ -8,7 +8,7 @@
 12693、_russian_На острове Буяне_Галактионова Вера Григорьевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6df0aff12ec674d0cbba2543d23461c

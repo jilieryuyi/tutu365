@@ -8,7 +8,7 @@
 4839、__Ventajas competitivas empresariales_Amado Olivares Leal_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a09f0f307bd2a6641aec43e08287dee7

@@ -8,7 +8,7 @@
 1377、_russian_Три любви Маши Передреевой_Щербакова Галина Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b44ef7e16ee3af132cc623069b00f83c

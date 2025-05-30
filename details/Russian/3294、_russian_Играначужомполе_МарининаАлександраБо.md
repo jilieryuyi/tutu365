@@ -8,7 +8,7 @@
 3294、_russian_Игра на чужом поле_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b679f6c90587a04fae3764d4da3781dc

@@ -8,7 +8,7 @@
 2970、_russian_Рассказы_Долгопят Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2634b0aa39efe8f2a1b9e1200bdbea30

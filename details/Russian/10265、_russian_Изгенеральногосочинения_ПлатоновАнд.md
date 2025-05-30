@@ -8,7 +8,7 @@
 10265、_russian_Из генерального сочинения_Платонов Андрей Платонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44c441ec3ac1cf87204ebe394f122334

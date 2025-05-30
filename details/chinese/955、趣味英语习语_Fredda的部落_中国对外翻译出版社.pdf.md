@@ -8,7 +8,7 @@
 955、趣味英语习语_Fredda 的部落_中国对外翻译出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 aa989d0efd7fc2f77bb798b8d73cd8d9

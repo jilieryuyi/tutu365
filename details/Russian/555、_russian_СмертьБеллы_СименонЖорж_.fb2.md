@@ -8,7 +8,7 @@
 555、_russian_Смерть Беллы_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c88871d6eef787ada78ca50b323c8bbe

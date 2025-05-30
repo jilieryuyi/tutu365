@@ -8,7 +8,7 @@
 340、_russian_Круги руин_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d42bcca0f6841b6430ff3ac3bad79857

@@ -8,7 +8,7 @@
 8386、_russian_Книга размышлений (афоризмы)_Апшерони Али_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41474a931f536d820dd144d444beeb46

@@ -8,7 +8,7 @@
 14029、_russian_Защита Гурова_Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7acd1f63e5f3bad5389a051ce3665e3b

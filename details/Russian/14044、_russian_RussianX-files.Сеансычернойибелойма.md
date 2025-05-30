@@ -8,7 +8,7 @@
 14044、_russian_Russian X-files. Сеансы черной и белой магии с разоблачением_Никонов Александр Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e89740fb81248a21933e41042c5b50b7

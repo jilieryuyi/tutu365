@@ -8,7 +8,7 @@
 7497、_english_Gold Coast_Demille Nelson_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 488313359d53f8b84c354566b362824a

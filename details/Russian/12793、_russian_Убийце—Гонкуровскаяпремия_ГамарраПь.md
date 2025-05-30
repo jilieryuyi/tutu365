@@ -8,7 +8,7 @@
 12793、_russian_Убийце — Гонкуровская премия_Гамарра Пьер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4592705fbcb3efd820d26fffa5d4ed2d

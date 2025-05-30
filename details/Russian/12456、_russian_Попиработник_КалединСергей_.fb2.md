@@ -8,7 +8,7 @@
 12456、_russian_Поп и работник_Каледин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a147325077c97c95cce6b0e502c76db

@@ -8,7 +8,7 @@
 毛泽东传_名著珍藏版(插图本)（图文版） (国外毛泽东研究译丛)_罗斯·特里尔 (Ross Terrill)__5475995_2703024d93fd7b80ad8ccd6867254ece.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2703024d93fd7b80ad8ccd6867254ece

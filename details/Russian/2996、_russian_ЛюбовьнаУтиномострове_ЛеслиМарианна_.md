@@ -8,7 +8,7 @@
 2996、_russian_Любовь на Утином острове_Лесли Марианна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58ea3e12d3524330803190b0eb492195

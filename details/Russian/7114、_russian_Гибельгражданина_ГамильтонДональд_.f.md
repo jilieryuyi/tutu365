@@ -8,7 +8,7 @@
 7114、_russian_Гибель гражданина_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9bb64c70c3160a89ea1d750e9cf42ca

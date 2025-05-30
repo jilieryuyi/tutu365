@@ -8,7 +8,7 @@
 3245、_russian_Стрела и колос_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 529b821c5cd6e6263d0edc95180abd0c

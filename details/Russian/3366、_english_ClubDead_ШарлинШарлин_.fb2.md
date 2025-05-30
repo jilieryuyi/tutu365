@@ -8,7 +8,7 @@
 3366、_english_Club Dead_Шарлин Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ee8e95088a477c5892a6b156daeb2d0

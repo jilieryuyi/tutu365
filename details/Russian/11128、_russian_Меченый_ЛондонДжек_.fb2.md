@@ -8,7 +8,7 @@
 11128、_russian_Меченый_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32f097a3a4af7e6c9393987a21660ef6

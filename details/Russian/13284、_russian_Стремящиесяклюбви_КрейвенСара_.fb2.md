@@ -8,7 +8,7 @@
 13284、_russian_Стремящиеся к любви_Крейвен Сара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfa69573c5875495af062dcae98323c9

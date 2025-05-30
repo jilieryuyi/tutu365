@@ -8,7 +8,7 @@
 10657、_russian_Серенада Жеваного Уха_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d1d72f5168a88504b8d80448a111d44

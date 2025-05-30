@@ -8,7 +8,7 @@
 8571、_russian_Святое дело_Суворов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffa8b8b94ba53706d74979f637114ae1

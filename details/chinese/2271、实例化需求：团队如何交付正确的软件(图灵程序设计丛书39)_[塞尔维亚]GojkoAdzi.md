@@ -8,7 +8,7 @@
 2271、实例化需求：团队如何交付正确的软件 (图灵程序设计丛书 39)_[塞尔维亚] Gojko Adzic_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5f78fd6b8aa57615fdc9a51239905990

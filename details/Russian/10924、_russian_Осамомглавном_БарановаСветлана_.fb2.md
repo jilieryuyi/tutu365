@@ -8,7 +8,7 @@
 10924、_russian_О самом главном_Баранова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a04e1fe2cb87bf8739ad2b26e1faf5f

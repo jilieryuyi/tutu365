@@ -8,7 +8,7 @@
 13835、_ukrainian_Нащадки ск_ф_в_Владко Володимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8023c4b002bcb31e4d885cfedbdb9c3b

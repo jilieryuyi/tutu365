@@ -8,7 +8,7 @@
 7671、_russian_Жизнь, которой не было_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf9974ce2cdd0fc5015bf6db7ea61398

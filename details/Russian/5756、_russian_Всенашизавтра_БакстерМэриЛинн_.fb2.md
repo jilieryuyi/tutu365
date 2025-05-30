@@ -8,7 +8,7 @@
 5756、_russian_Все наши завтра_Бакстер Мэри Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfe9d8a9bb021ec4a6ee6ed950ea73f1

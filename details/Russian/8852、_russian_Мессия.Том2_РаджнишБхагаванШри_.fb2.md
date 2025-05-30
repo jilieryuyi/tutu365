@@ -8,7 +8,7 @@
 8852、_russian_Мессия. Том 2_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9464e77c1e964cc1f77fe72b263af682

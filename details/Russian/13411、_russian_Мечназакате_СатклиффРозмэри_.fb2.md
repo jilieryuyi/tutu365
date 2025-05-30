@@ -8,7 +8,7 @@
 13411、_russian_Меч на закате_Сатклифф Розмэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2197368be625a34e37352e50555df176

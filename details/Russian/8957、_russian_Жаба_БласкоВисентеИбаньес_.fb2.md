@@ -8,7 +8,7 @@
 8957、_russian_Жаба_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5e23fc590932062a59a0f2409230c84

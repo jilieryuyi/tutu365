@@ -8,7 +8,7 @@
 1660、_russian_Первая жертва_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5af114c4478b01ae2adb586080885658

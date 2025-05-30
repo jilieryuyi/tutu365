@@ -8,7 +8,7 @@
 1789、_russian_Тайны гибели цивилизаций_Иванов Виктор Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d0d5cc7a1a46b8659c6a7f8bc39dbab

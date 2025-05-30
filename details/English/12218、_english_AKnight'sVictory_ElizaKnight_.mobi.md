@@ -8,7 +8,7 @@
 12218、_english_A Knight's Victory_Eliza Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 877be66f74fd14dad854631840f27234

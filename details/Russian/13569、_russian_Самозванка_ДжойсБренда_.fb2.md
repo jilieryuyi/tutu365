@@ -8,7 +8,7 @@
 13569、_russian_Самозванка_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5436af19f7d01a6f6046f5c4b2b08f8d

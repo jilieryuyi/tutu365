@@ -8,7 +8,7 @@
 10974、_russian_Смертельное правосудие_Бернхардт Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7b0aabf5bd15fcfa2a44ac7a1c8a790

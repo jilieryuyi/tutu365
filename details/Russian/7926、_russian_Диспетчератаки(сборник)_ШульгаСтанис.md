@@ -8,7 +8,7 @@
 7926、_russian_Диспетчер атаки (сборник)_Шульга Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 180e5374fa20667c8b4751d7f6ef0625

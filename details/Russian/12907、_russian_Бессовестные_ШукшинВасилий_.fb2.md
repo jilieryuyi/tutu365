@@ -8,7 +8,7 @@
 12907、_russian_Бессовестные_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 252fc8030a02368cb0c79dc0cc23f412

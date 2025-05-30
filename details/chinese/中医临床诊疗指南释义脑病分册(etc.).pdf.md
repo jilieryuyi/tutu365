@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 脑病分册 ( etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fcef6af4f1e3855e377c81b398501af9

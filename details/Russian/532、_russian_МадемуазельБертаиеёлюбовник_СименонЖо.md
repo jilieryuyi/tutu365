@@ -8,7 +8,7 @@
 532、_russian_Мадемуазель Берта и её любовник_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e9fa26f16cbeef5e36321197c96335f

@@ -8,7 +8,7 @@
 11043、_russian_Пламя страсти_Флурной Шерил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e50215714c98ec6510c6a05045c79829

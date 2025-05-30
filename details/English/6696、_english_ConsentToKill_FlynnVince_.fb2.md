@@ -8,7 +8,7 @@
 6696、_english_Consent To Kill_Flynn Vince_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f19b21d83c3be33ebbcd31f5f96f07bd

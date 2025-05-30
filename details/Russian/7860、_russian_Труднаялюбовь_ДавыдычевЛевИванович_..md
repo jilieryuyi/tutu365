@@ -8,7 +8,7 @@
 7860、_russian_Трудная любовь_Давыдычев Лев Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e058cd64ca146e5f6c8ec90f5f947e8

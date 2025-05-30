@@ -8,7 +8,7 @@
 13973、_english_The Diary of a Serial Killer's Daughter_L.A. Detwiler _Lindsay Detwiler.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1fbef6fb0597d695b58102e7fc45880f

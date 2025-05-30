@@ -8,7 +8,7 @@
 1659、餐巾纸系列套装：餐巾纸的背面+打开餐巾纸（中信商业经典）_[美]丹_罗姆(Dan Roam)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b95710dafd5ec809779668b10071f7ff

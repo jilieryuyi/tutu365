@@ -8,7 +8,7 @@
 4535、_russian_Страсть и сомнения_Бартон Беверли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9b6473c21ff13a21ea434de32bc3d76

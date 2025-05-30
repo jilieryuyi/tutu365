@@ -8,7 +8,7 @@
 9113、_russian_Собачонка Оори_Ким Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd61ea9ce54d292fb6c7a869df764a05

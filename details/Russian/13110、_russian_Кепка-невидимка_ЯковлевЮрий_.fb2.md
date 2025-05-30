@@ -8,7 +8,7 @@
 13110、_russian_Кепка-невидимка_Яковлев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7068ff153c6e16aaecfcb34807e13f28

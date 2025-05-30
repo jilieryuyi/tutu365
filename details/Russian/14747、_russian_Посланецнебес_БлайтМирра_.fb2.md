@@ -8,7 +8,7 @@
 14747、_russian_Посланец небес_Блайт Мирра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 591f7556cea44781cbfaa689e2ec00c3

@@ -8,7 +8,7 @@
 自下而上 (悦读经济学)_马特·里德利（Matt Ridley） [Ridley）, 马特·里德利（Matt]__5287971_1499c1f05db670e1bd53d0ed9137d5d4.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1499c1f05db670e1bd53d0ed9137d5d4

@@ -8,7 +8,7 @@
 2198、_english_Lord Devere's Ward_Sue Swift_Etopia Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 48d4e42737f4de03cb2d15fa1b5d5970

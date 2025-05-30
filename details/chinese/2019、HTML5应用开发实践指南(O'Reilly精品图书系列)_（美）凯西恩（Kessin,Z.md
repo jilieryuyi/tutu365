@@ -8,7 +8,7 @@
 2019、HTML 5应用开发实践指南 (O'Reilly精品图书系列)_（美）凯西恩（Kessin,Z.）_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 819087e2607d45d69f665bbfab93f4ff

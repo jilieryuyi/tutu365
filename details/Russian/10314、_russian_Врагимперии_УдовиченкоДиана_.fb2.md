@@ -8,7 +8,7 @@
 10314、_russian_Враг империи_Удовиченко Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d321b3a3e28c57ccd6aff07938541049

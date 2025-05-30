@@ -8,7 +8,7 @@
 14456、_russian_Золотой утенок_Жмуриков Кондратий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a131bd9a0a8554d46b04766a16cdf750

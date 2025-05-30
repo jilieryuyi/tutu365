@@ -8,7 +8,7 @@
 8014、_russian_Академия волшебства_Смирнов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90935cc2f0ccbf9450e37de391d961b9

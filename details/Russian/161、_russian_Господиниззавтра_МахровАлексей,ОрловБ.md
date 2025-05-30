@@ -8,7 +8,7 @@
 161、_russian_Господин из завтра_Махров Алексей, Орлов Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c78543c50a60d3ba5c0d0de2f579eb0

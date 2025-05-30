@@ -8,7 +8,7 @@
 11505、_russian_Тайна лесного дома_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2157bec01dc39a267d0ed57560fbb334

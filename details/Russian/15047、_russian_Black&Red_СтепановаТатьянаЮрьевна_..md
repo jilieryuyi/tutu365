@@ -8,7 +8,7 @@
 15047、_russian_Black & Red_Степанова Татьяна Юрьевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57d66b91757383602a313c891a03510a

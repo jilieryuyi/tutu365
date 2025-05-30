@@ -8,7 +8,7 @@
 2384、_russian_Цветок соллы_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c17c6dcf6a314561dc98bedfab5b6ab8

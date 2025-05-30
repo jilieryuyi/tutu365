@@ -8,7 +8,7 @@
 11204、_russian_Дети зимы_Коуни Майкл Грейтрекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fe9848bd4d7fcd656f072b39c0e744e

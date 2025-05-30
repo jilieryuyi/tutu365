@@ -8,7 +8,7 @@
 593、_russian_Путь шута_Бенедиктов Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be27a1e7b5269ed9ae1191b6acb7d307

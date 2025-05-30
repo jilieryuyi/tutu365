@@ -8,7 +8,7 @@
 4780、_russian_Лица_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42b9497dccca4389f03b2267ee149860

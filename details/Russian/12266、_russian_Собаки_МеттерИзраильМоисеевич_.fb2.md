@@ -8,7 +8,7 @@
 12266、_russian_Собаки_Меттер Израиль Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b4c3368ccde8e1967079b909f769100

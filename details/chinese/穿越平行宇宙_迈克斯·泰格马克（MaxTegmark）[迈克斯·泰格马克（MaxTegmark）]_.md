@@ -8,7 +8,7 @@
 穿越平行宇宙_迈克斯·泰格马克 （Max Tegmark） [迈克斯·泰格马克 （Max Tegmark）]__5287957_8061090d9cd8aa8d324e3f43428fae4c.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8061090d9cd8aa8d324e3f43428fae4c

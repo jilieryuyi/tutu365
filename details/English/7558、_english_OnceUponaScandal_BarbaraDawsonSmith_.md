@@ -8,7 +8,7 @@
 7558、_english_Once Upon a Scandal_Barbara Dawson Smith_St. Martin's Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9b8f313ccd762d41e34840da156868b3

@@ -8,7 +8,7 @@
 2443、_russian_Из дневника боксёра_Конецкий Виктор Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09f6f7393e124b04ed04a0c740e8aebe

@@ -8,7 +8,7 @@
 8401、_russian_Разум. Творческий отклик на сейчас_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e1f17cd61ca5ae6af2f1ee71579be42

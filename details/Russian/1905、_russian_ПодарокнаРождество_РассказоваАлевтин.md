@@ -8,7 +8,7 @@
 1905、_russian_Подарок на Рождество_Рассказова Алевтина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f04509dbe06b0bbd60ab72de5bc382eb

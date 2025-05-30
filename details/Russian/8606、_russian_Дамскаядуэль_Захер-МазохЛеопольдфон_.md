@@ -8,7 +8,7 @@
 8606、_russian_Дамская дуэль_Захер-Мазох Леопольд фон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae890cc79fd9be85eb89aa8d2c7ab3bb

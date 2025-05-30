@@ -8,7 +8,7 @@
 6368、_russian_Волшебный дар_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 570a9334b494789b43933e09de0d7dfd

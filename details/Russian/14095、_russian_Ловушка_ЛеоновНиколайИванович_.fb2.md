@@ -8,7 +8,7 @@
 14095、_russian_Ловушка_Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef861545314c7460300f755cce8e89ab

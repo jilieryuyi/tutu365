@@ -8,7 +8,7 @@
 8594、_russian_Из Америки – с любовью_Серебряков Владимир, Уланов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1064034f4dc2e4b19cf156e2d81c9dfd

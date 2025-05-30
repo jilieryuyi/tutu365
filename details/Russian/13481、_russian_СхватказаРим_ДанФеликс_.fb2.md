@@ -8,7 +8,7 @@
 13481、_russian_Схватка за Рим_Дан Феликс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4b78a24363d4b75c067345dcfade95a

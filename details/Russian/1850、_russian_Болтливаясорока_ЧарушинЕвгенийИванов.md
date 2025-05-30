@@ -8,7 +8,7 @@
 1850、_russian_Болтливая сорока_Чарушин Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7bca800ed55a235316113d8e7d6d529

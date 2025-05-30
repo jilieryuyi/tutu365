@@ -8,7 +8,7 @@
 199、我家的阳台小天地_朴熙兰 (Vaki)_中国轻工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0c831a991bc50a0ca7d456e0fc1543bb

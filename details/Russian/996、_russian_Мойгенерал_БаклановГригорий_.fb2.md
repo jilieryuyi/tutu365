@@ -8,7 +8,7 @@
 996、_russian_Мой генерал_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6733364d3df1dc57a6d71726c10e58fe

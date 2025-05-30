@@ -8,7 +8,7 @@
 12767、_russian_Снова в моем сердце_Чапмэн Джуди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 744a9ac2d93ec396687254f144abf83e

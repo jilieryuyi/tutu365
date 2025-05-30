@@ -8,7 +8,7 @@
 5511、_russian_Русская кровь_Кулагин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68278e6911676b8e2d102e8e69dfed42

@@ -8,7 +8,7 @@
 12170、_russian_Предел желаний_Торп Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d11a4d99aed3e8b9a13124c0210967d1

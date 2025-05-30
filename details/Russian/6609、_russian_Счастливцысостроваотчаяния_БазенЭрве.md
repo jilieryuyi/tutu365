@@ -8,7 +8,7 @@
 6609、_russian_Счастливцы с острова отчаяния_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67e636bad263cd3094b515f5f3b324e1

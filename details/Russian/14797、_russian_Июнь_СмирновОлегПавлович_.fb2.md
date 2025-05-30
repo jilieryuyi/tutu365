@@ -8,7 +8,7 @@
 14797、_russian_Июнь_Смирнов Олег Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ed5cbb4d6f10e6ae96d9cbadc45da40

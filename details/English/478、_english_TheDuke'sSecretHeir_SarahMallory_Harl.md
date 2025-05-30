@@ -8,7 +8,7 @@
 478、_english_The Duke's Secret Heir_Sarah Mallory_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 313e84028fc6d7bf8f9296ec5bbe4353

@@ -8,7 +8,7 @@
 13127、_russian_Загадочный человек_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ec6ff526f0d33a8f6adfd1826c1764f

@@ -8,7 +8,7 @@
 11760、_russian_Подозрительная личность_Нушич Бранислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef075f60f0b183d563173fc6f92de3d1

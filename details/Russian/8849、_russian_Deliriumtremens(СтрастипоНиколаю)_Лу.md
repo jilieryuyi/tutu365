@@ -8,7 +8,7 @@
 8849、_russian_Delirium tremens (Страсти по Николаю)_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef77e6c89c51624a4c7eb99d17380b3a

@@ -8,7 +8,7 @@
 5、MBA教不了的创富课_老雕 [老雕]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 166d87a60f2557945d9d6fcd81a395e0

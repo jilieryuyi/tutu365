@@ -8,7 +8,7 @@
 8216、_english_Lord Gawain's Forbidden Mistress_Carol Townend_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 54df0d6b24784ebbbda2daa59c2de1fc

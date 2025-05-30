@@ -8,7 +8,7 @@
 348、_russian_Потерянное одиночество_Пушкарева Любовь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2c57b0db43fe2ecea71a1ccccab4be0

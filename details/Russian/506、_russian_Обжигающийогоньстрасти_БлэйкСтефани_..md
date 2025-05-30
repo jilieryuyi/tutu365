@@ -8,7 +8,7 @@
 506、_russian_Обжигающий огонь страсти_Блэйк Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8740217019bf4e502a2dc0753777146

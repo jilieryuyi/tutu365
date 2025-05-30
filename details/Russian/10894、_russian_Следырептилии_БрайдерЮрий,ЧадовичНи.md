@@ -8,7 +8,7 @@
 10894、_russian_Следы рептилии_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4a4c90853d45d83f4900a6b40c4ff2e

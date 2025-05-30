@@ -8,7 +8,7 @@
 15170、_russian_Душа оборотня__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3cc5873ad71fc7768ccf1ceaa551b0a

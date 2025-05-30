@@ -8,7 +8,7 @@
 3177、_russian_Истории оборотней_Черная Галина, Белянин Андрей Олегович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d9b19b4ddae1f0b00a1c9da64af0137

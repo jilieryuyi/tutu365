@@ -8,7 +8,7 @@
 4486、_russian_Козырная карта_Мейер Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8587363c6aeea5cff54f3a0281f8395d

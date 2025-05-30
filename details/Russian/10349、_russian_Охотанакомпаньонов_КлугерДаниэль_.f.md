@@ -8,7 +8,7 @@
 10349、_russian_Охота на компаньонов_Клугер Даниэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8e2f87ff9f1e0f9ec74f1c413b1b2f1

@@ -8,7 +8,7 @@
 1162、时间重生_李·斯莫林 （Lee Smolin）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f83c8eadc91ea664c77948a2b877922e

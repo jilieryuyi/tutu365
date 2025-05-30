@@ -8,7 +8,7 @@
 2849、_russian_Ваш автор_Афанасьев Роман Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6924f5c61a38dd9cee2228c366ab9fe

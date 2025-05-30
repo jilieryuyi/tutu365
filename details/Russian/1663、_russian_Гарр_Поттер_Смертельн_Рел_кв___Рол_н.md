@@ -8,7 +8,7 @@
 1663、_russian_Гарр_ Поттер _ Смертельн_ Рел_кв___Рол_н_ Джоан Кетл_н_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a9ceec6796fc7474f65e22242ebe79d

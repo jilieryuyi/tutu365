@@ -8,7 +8,7 @@
 407、追忆似水年华_[法]Marcel Proust_译林出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ff2d5a80361f4bf0f64647b8bf412e66

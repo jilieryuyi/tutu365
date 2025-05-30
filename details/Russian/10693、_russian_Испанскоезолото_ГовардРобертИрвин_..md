@@ -8,7 +8,7 @@
 10693、_russian_Испанское золото_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b54b1e2e8c1ee404d851ee5ebe1af18

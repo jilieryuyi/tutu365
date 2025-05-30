@@ -8,7 +8,7 @@
 3125、_russian_Посадил дед репку_Мищенко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea373f43f5cd53fd13b74feb3cb187bf

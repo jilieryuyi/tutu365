@@ -8,7 +8,7 @@
 2714、_russian_Алый цикламен_Удо Тосио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c39f700942d140fb03c6caef46b29513

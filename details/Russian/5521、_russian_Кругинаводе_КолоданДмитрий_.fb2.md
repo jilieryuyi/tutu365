@@ -8,7 +8,7 @@
 5521、_russian_Круги на воде_Колодан Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ef615df075093ea38bd7a55a1b5d4bc

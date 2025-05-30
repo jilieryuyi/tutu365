@@ -8,7 +8,7 @@
 273、_english_Сталин после войны. 1945 -1953 годы_А.Б. Мартиросян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac7eb556452ab5996ea274d34cb191ac

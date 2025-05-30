@@ -8,7 +8,7 @@
 1339、_russian_Абсолютное оружие_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18339644b9e4ad81766d840b220a16a8

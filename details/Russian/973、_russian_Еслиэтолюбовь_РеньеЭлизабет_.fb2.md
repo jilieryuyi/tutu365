@@ -8,7 +8,7 @@
 973、_russian_Если это любовь_Ренье Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7190bf1379ae3d0f8bf1dbc45b914ee

@@ -8,7 +8,7 @@
 9746、_russian_Танец смерти__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98424144a404fa2d9365a75be4cb0115

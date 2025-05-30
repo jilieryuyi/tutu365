@@ -8,7 +8,7 @@
 6204、_russian_Сусанна и старцы_Муравьева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcbe6feba14a0bd8215d139380c666fc

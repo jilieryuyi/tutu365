@@ -8,7 +8,7 @@
 14992、_russian_Ложись_де ла Регера Рикардо Фернандес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c39ca6443fad2c0fb2d8b90ca974f71d

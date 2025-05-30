@@ -8,7 +8,7 @@
 wireshark_中文手册.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c5c365a7e65adc4e03976248226bf1f4

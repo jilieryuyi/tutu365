@@ -8,7 +8,7 @@
 1342、_russian_КУТУЗОВ_Раковский Леонтий Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7df6f6268f0e4f9003a95b2295fa0bf7

@@ -8,7 +8,7 @@
 7525、_russian_Миры без конца_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c311a36e821d537bc28fe38e0e3c233d

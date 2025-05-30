@@ -8,7 +8,7 @@
 1649、_russian_Дайте им умереть_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 751481a4ec1d6d38b82e74b58a61910c

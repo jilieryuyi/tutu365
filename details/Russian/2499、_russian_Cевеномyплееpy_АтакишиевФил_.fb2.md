@@ -8,7 +8,7 @@
 2499、_russian_Cевеномy плееpy_Атакишиев Фил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89807f1209ba9adedd544e484e398fb7

@@ -8,7 +8,7 @@
 10586、_russian_Личное время_Мирамар Хуан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0073b6ed695d037b0874eb971f16bad8

@@ -8,7 +8,7 @@
 14555、_russian_Заметки, не нуждающиеся в сюжете_Залыгин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dce86fd037f66913b448e1d704dde7c5

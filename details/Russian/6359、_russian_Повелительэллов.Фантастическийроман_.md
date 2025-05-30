@@ -8,7 +8,7 @@
 6359、_russian_Повелитель эллов. Фантастический роман_Юрьев Зиновий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dca6371faf787b186c3774b1730aa929

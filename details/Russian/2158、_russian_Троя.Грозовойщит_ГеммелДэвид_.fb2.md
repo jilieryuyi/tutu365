@@ -8,7 +8,7 @@
 2158、_russian_Троя. Грозовой щит_Геммел Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0976a4dcfd75acddfc23c2098461f70a

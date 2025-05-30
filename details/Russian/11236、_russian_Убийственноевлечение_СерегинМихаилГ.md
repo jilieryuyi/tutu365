@@ -8,7 +8,7 @@
 11236、_russian_Убийственное влечение_Серегин Михаил Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96c281bdf0688e455bcc31613039f5bb

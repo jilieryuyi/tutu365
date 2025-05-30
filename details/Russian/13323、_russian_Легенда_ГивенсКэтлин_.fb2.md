@@ -8,7 +8,7 @@
 13323、_russian_Легенда_Гивенс Кэтлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b112ffff6c6a72ab0c6bd28048bff3e

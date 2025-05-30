@@ -8,7 +8,7 @@
 14132、_russian_Октавия_Купер Джилли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80ab5aa63a67b8d7d1b77d0f9b595bcd

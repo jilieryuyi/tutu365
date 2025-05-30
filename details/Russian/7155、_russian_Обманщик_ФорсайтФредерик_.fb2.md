@@ -8,7 +8,7 @@
 7155、_russian_Обманщик_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11ae517a4c68e4eb064bc094e2a23a43

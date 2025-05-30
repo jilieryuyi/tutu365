@@ -8,7 +8,7 @@
 6245、_russian_Легион_Эльтеррус Иар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3cf7a5925f08bc1f98749bf0285334e

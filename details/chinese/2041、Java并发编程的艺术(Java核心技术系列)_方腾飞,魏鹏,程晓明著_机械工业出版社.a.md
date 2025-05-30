@@ -8,7 +8,7 @@
 2041、Java并发编程的艺术 (Java核心技术系列)_方腾飞,魏鹏,程晓明 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1706b0b4ec08f38b9bbf2a5f2c0201f8

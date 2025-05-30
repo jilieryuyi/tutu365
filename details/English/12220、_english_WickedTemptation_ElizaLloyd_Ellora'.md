@@ -8,7 +8,7 @@
 12220、_english_Wicked Temptation_Eliza Lloyd_Ellora's Cave.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 804f95c5d5b3cf2ed3c5d401b204dcd3

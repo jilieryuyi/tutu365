@@ -8,7 +8,7 @@
 11998、_russian_Загадочное ночное убийство собаки_Хэддон Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2848a478725f83478c6aa38ec408d0ca

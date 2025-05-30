@@ -8,7 +8,7 @@
 6002、_russian_Немецкий курцхаар от А до Я_Малов Олег Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e24cd568166086e6bfcb555c0daa1c79

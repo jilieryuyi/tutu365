@@ -8,7 +8,7 @@
 3729、_russian_Аутогенная тренировка для вас_Петров Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d51b663e019aa8a1d5850e3c1940be7b

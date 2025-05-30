@@ -8,7 +8,7 @@
 12450、_russian_Педант Берль_Зингер Исаак Башевис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11601103b04dff6725999205dba0ce08

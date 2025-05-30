@@ -8,7 +8,7 @@
 1720、_russian_Последняя улика_Арестова Любовь Львовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b617fb2189ea66b9f6365cd1b0e9e07d

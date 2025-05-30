@@ -8,7 +8,7 @@
 9945、_russian_Возвращение Утренней Звезды_Гутман Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c19a8bd642d5156573955e222c31d3e3

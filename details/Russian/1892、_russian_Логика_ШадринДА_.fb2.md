@@ -8,7 +8,7 @@
 1892、_russian_Логика_Шадрин Д А_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f67e72e6b29ece3ccd95f0ad803c5e12

@@ -8,7 +8,7 @@
 12415、_russian_Мистер Совершенство_Нельсон Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f10cb59c9ed6f5c9bde7908adf3708cf

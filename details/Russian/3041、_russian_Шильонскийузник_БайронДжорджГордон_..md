@@ -8,7 +8,7 @@
 3041、_russian_Шильонский узник_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6708385773d2288c783679d41aa5e78

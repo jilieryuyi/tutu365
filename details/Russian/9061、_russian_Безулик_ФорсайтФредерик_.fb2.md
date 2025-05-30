@@ -8,7 +8,7 @@
 9061、_russian_Без улик_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f173af9dba8686b04437d887b8326cc4

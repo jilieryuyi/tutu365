@@ -8,7 +8,7 @@
 12598、_russian_Соседка_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a9d5bc94c886d22e7c8507f574080af

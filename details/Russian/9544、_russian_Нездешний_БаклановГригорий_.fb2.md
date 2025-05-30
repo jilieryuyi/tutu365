@@ -8,7 +8,7 @@
 9544、_russian_Нездешний_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d4b7a7c17e6ab67122f9adc46745b72

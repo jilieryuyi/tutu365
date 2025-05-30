@@ -8,7 +8,7 @@
 833、_russian_Вояж на Гавайи_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6db0433db65f20a004fde5404410260

@@ -8,7 +8,7 @@
 529、_russian_Мегрэ и дело Наура_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55bd0d73f29fe72e687c60b8042bad0e

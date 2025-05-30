@@ -8,7 +8,7 @@
 6500、_russian_Дали_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2217b9a02d23fa3a504a789fd437382

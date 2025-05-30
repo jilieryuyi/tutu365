@@ -8,7 +8,7 @@
 1151、_russian_Дагги-тиц_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b9e8ff8e3191295ceeb199d14e5f20e

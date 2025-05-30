@@ -8,7 +8,7 @@
 8061、_english_TAIKO_ AN EPIC NOVEL OF WAR AND GLORY IN FEUDAL JAPAN_Yoshikawa Eiji_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8dab649324a949c03529f51108d7094a

@@ -8,7 +8,7 @@
 6692、_russian_Чудовище (сборник)_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 102612b38fe1d1eaf5a6c2a4485c8b39

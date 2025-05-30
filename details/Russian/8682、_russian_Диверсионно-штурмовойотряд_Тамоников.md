@@ -8,7 +8,7 @@
 8682、_russian_Диверсионно-штурмовой отряд_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b9a18797a768a324ebd83ceba2946d3

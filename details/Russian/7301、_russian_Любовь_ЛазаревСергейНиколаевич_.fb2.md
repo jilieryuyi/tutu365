@@ -8,7 +8,7 @@
 7301、_russian_Любовь_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24821efd72c7fefce37959d6f63652b5

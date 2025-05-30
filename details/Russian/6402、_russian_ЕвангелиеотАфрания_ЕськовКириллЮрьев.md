@@ -8,7 +8,7 @@
 6402、_russian_Евангелие от Афрания_Еськов Кирилл Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c34980444e476097e3f5af45e557e30d

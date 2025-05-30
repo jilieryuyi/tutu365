@@ -8,7 +8,7 @@
 8932、_russian_Сталкер_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e11b7ed2535a54d2115480603a983691

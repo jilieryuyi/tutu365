@@ -8,7 +8,7 @@
 13432、_russian_Выкуп за Ретифа_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d24a09695e6eccdc263f01a8ed418719

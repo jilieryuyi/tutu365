@@ -8,7 +8,7 @@
 不如去飞 (旅游传记系列)_克里斯托弗•J.A.史密斯__5476575_5ea9465778f939e097e3f178187b43cb.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5ea9465778f939e097e3f178187b43cb

@@ -8,7 +8,7 @@
 6736、_russian_Виновный_Димов Димитр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61a82fa8f5fb3242c801e7ddd9e453b1

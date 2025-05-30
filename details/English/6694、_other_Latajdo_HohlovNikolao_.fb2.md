@@ -8,7 +8,7 @@
 6694、_other_La tajdo_Hohlov Nikolao_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9113b52e78eaa71a49581cc865f2f578

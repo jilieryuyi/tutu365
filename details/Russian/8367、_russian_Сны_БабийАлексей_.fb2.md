@@ -8,7 +8,7 @@
 8367、_russian_Сны_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 110de7e766954f994517613ea5284e85

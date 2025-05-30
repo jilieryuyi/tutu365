@@ -8,7 +8,7 @@
 10241、_russian_Твари_Вершовский Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1967e1c22299c52bb6bd5eebeeb492b4

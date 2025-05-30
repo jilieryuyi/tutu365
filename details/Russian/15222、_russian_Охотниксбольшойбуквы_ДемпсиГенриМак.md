@@ -8,7 +8,7 @@
 15222、_russian_Охотник с большой буквы_Демпси Генри Максвелл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a35349b50c26f67fca2671b2f86384b7

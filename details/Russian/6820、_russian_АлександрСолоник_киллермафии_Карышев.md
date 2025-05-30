@@ -8,7 +8,7 @@
 6820、_russian_Александр Солоник_ киллер мафии_Карышев Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8aa288a865c5ee72fd3fe1dcf7903e16

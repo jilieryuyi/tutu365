@@ -8,7 +8,7 @@
 8749、_russian_Скотоугонщица_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3cf871109b915e3efb95712fba49fd06

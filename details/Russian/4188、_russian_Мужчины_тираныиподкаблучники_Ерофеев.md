@@ -8,7 +8,7 @@
 4188、_russian_Мужчины_ тираны и подкаблучники_Ерофеев Виктор Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32b90b076aa84cdfa6ba810a9ffd3bbb

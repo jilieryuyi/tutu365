@@ -8,7 +8,7 @@
 7925、_russian_Я жил в суровый век__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c243065deabfab745c8021fa65acfa2b

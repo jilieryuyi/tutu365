@@ -8,7 +8,7 @@
 追寻历史的印记_yang tianshi__3604362_217cce2ce17fde62ab8dc07c942e02ee.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 217cce2ce17fde62ab8dc07c942e02ee

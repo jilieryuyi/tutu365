@@ -8,7 +8,7 @@
 8870、_english_The Marquess's Final Fling_Cerise DeLand_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 959dc44a8db37abe80c23aee210e44d0

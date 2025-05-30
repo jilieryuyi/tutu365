@@ -8,7 +8,7 @@
 4396、_russian_Завтра_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcdc2c23aa3eec240d4467a7368d4c57

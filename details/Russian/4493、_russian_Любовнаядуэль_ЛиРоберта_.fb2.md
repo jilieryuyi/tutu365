@@ -8,7 +8,7 @@
 4493、_russian_Любовная дуэль_Ли Роберта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22e8fc417d5df0f6f55f897dac65a506

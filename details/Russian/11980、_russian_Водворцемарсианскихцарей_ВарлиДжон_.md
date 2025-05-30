@@ -8,7 +8,7 @@
 11980、_russian_Во дворце марсианских царей_Варли Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82002525c6b846e7bb9a7793fcd09571

@@ -8,7 +8,7 @@
 7294、_russian_Необыкновенный подарок_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0de210ffe725183f9c52d774f7292e1

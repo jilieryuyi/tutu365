@@ -8,7 +8,7 @@
 10112、_russian_ПЕТР III_Сахаров (редактор) А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8babd7214dfa4a52cb2bf03a6aadcfa2

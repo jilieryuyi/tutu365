@@ -8,7 +8,7 @@
 13550、_russian_Прекрасная наставница_Деверо Джуд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b30a4dfcbd1e211e3e6c6cf6e34f81a

@@ -8,7 +8,7 @@
 13150、_russian_Можно любить и лысых_Сан-Антонио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 736d0a173bd9ad60ea70b5936407b498

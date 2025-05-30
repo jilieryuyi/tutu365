@@ -8,7 +8,7 @@
 2319、_russian_Лекарство_Новоселов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66b6b144fb15fec94325a8ad8e0516b7

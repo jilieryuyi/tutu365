@@ -8,7 +8,7 @@
 13547、_russian_НАРОДЫ МОРЯ_ВЕЛИКОВСКИЙ ИММАНУИЛ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9a22cde1fa37601ef1e13fac4504864

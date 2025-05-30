@@ -8,7 +8,7 @@
 Openfire+Administration.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 070440bd4b3f768d29973e8558b568f2

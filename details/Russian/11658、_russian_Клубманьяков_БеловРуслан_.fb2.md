@@ -8,7 +8,7 @@
 11658、_russian_Клуб маньяков_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 717ec1f3cf64ca425c90af4961c4a69d

@@ -8,7 +8,7 @@
 4682、_english_N Is For Noose_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 daacef5b0750adafd276eaf03e83e5bf

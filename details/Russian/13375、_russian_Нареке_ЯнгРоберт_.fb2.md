@@ -8,7 +8,7 @@
 13375、_russian_На реке_Янг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50c8275c190400d69ef32ccd2d33f6c5

@@ -8,7 +8,7 @@
 5428、_russian_ЖЕПЬ ЕБРИЛО (Про БКА)_, Овчинников Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb57ea0581e9d37ec189ec3a2aee4dd1

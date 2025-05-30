@@ -8,7 +8,7 @@
 1638、_russian_Сестра моего брата_Парфенова Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d33108f466da7f4da27292c94c2527f

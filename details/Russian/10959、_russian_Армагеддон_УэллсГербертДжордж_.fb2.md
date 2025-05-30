@@ -8,7 +8,7 @@
 10959、_russian_Армагеддон_Уэллс Герберт Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 611ab4ffa66060a4e4a38c23c6af18eb

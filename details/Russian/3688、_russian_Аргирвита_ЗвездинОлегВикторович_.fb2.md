@@ -8,7 +8,7 @@
 3688、_russian_Аргирвита_Звездин Олег Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 839e9ca7a6b4ca8328166b4654da3450

@@ -8,7 +8,7 @@
 13145、_russian_Мирабель_Линдгрен Астрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 654828e68b1150502af9892793d5a1e8

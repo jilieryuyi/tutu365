@@ -8,7 +8,7 @@
 10565、_russian_Огненный лис_Воронов Никита, Петров Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4b8d456d44de889e55f71aade3063ac

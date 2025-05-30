@@ -8,7 +8,7 @@
 13938、_russian_Пуаро ведет следствие_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11143c3167f6867adbfb5ee56e3900b5

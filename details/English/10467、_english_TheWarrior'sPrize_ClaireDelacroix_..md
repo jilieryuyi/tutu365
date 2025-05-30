@@ -8,7 +8,7 @@
 10467、_english_The Warrior's Prize_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e374f719341e8a4f0764baf090c9d699

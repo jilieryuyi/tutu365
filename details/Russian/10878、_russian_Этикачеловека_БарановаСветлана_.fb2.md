@@ -8,7 +8,7 @@
 10878、_russian_Этика человека_Баранова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 302642ad3e3ddcb2bb1c28ae74448fe7

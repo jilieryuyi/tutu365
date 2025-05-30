@@ -8,7 +8,7 @@
 3265、越剧戏考_Unknown_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 13085de8eef2414a4fc62c01458d4aba

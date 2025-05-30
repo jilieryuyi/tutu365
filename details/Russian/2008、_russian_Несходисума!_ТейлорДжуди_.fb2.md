@@ -8,7 +8,7 @@
 2008、_russian_Не сходи с ума!_Тейлор Джуди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9e1faae3c76525cd6878dc7a44ea69d

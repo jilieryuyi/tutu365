@@ -8,7 +8,7 @@
 4930、_russian_Франциск Ассизский_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3779679e4a0c586a81df29f1dc195e3

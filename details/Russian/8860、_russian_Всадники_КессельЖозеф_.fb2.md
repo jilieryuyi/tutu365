@@ -8,7 +8,7 @@
 8860、_russian_Всадники_Кессель Жозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c56ef8c253c80957cce0efd43de36584

@@ -8,7 +8,7 @@
 13777、_russian_Черная вдова, или Ученица Аль Капоне_Крамер Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df9426da763cb0f5bfd99318b6609cbe

@@ -8,7 +8,7 @@
 20、哈佛MBA经典课程大全集_彭正强_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6eb89ea750d34a2a91130319788b7bcc

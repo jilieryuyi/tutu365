@@ -8,7 +8,7 @@
 曲线与曲面的微分几何_Manfredo P.do Carmo著  田畴  忻元龙  姜国英  彭家贵  潘养廉译  胡和生  姜国英校__5444887_95b2b14ad39aaa7ca5c050e1b29bb1d1.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 95b2b14ad39aaa7ca5c050e1b29bb1d1

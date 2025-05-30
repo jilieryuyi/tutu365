@@ -8,7 +8,7 @@
 [锋利的jQuery].pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a20f6c86d90498f11ea356e0a1d7976d

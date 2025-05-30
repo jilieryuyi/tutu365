@@ -8,7 +8,7 @@
 大数据银行：创新者、颠覆者、企业家们正在重塑银行业_（美）金（King.B.） __5439832_5908dbb8e0e8375959f76a63990e3cb7.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5908dbb8e0e8375959f76a63990e3cb7

@@ -8,7 +8,7 @@
 1792、_russian_Следы богов_Хэнкок Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68dfbdaee5273c251c004347d5e7ad1e

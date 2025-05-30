@@ -8,7 +8,7 @@
 13913、_russian_Маска бога_Ходжилл Пэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 917b3662d860f27e5ef8805ca924097c

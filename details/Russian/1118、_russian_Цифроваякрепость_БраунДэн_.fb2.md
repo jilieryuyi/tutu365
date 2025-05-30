@@ -8,7 +8,7 @@
 1118、_russian_Цифровая крепость_Браун Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 518bec09602924c98254eceed7d7a300

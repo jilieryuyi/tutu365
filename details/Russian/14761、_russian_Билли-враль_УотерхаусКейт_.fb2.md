@@ -8,7 +8,7 @@
 14761、_russian_Билли-враль_Уотерхаус Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d2250ac7120c07b5e9429e1b004d42f

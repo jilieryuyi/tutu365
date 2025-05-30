@@ -8,7 +8,7 @@
 7770、_russian_Пещера_Роллинс Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5529858b2a36ca3a5012e5888d07a05f

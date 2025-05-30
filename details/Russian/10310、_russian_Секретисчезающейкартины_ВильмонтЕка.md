@@ -8,7 +8,7 @@
 10310、_russian_Секрет исчезающей картины_Вильмонт Екатерина Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a92fe40cdcf37c5e6aafe47cdc54bf45

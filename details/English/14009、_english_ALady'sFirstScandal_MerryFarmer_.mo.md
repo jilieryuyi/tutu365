@@ -8,7 +8,7 @@
 14009、_english_A Lady's First Scandal_Merry Farmer_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 65fc9bda099ece475b4b6baadfe6ae01

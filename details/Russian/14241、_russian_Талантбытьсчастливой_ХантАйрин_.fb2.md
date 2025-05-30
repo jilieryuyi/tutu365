@@ -8,7 +8,7 @@
 14241、_russian_Талант быть счастливой_Хант Айрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc8390cafc723fd4fc6a0be5f2f1b964

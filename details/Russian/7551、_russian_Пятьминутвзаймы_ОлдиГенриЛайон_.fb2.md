@@ -8,7 +8,7 @@
 7551、_russian_Пять минут взаймы_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 785b93eaf3e6dfab7c04aff8afdabf68

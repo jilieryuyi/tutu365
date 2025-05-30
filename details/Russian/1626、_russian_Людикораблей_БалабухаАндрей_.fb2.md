@@ -8,7 +8,7 @@
 1626、_russian_Люди кораблей_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66c557c8d340d502e0ca0077c5a4e5d8

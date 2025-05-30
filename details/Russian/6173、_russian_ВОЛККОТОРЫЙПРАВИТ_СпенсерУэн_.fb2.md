@@ -8,7 +8,7 @@
 6173、_russian_ВОЛК КОТОРЫЙ ПРАВИТ_Спенсер Уэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd10cb507eaa197008a4a151fcae0685

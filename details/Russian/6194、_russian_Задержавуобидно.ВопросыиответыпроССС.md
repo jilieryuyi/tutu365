@@ -8,7 +8,7 @@
 6194、_russian_За державу обидно. Вопросы и ответы про СССР_Пучков Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b4ff9e1a5f264dfdfa5b88648065d3d

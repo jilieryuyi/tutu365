@@ -8,7 +8,7 @@
 4393、_russian_ВИЗУАЛЬНЫЕ ОБРАЗЫ МИРА В СИБИРСКОМ ШАМАНИЗМЕ. Часть 1__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c8a88a23406dcf6efd9c97ae268d9d9

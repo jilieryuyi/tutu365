@@ -8,7 +8,7 @@
 8813、_russian_Сто баксов на похороны_Бабкин Борис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76e13f7067c8a425e1cf782e4fe7763c

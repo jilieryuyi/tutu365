@@ -8,7 +8,7 @@
 6313、_russian_Люди Истины_Могилевцев Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7567f3c5d1ae016b7a8f0bec19e450a

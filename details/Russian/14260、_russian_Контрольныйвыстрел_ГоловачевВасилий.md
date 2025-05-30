@@ -8,7 +8,7 @@
 14260、_russian_Контрольный выстрел_Головачев Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1dde5601d1443f0a5a29cb48c56648bf

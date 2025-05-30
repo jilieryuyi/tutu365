@@ -8,7 +8,7 @@
 2032、iOS应用逆向工程(第2版)pdf_沙梓社 吴航 著_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4f73153c03a8329d78c7042251b82705

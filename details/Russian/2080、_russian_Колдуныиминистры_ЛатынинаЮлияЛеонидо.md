@@ -8,7 +8,7 @@
 2080、_russian_Колдуны и министры_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1997d83b80ff64cb01dfa60765946e25

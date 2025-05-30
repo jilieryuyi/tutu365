@@ -8,7 +8,7 @@
 12282、_russian_Большой Джо и энное поколение_Миллер-младший Уолтер Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d9a8afe531ad1cdd5a5b57d6e61fe90

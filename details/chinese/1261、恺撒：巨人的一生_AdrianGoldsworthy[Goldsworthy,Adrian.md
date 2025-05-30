@@ -8,7 +8,7 @@
 1261、恺撒：巨人的一生_Adrian Goldsworthy [Goldsworthy, Adrian]_社会科学文献出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d458cfcf7037ac7198113dff070ca379

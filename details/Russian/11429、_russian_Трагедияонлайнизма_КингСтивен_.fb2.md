@@ -8,7 +8,7 @@
 11429、_russian_Трагедия онлайнизма_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebd20d921115d968d56eea9f41f4c551

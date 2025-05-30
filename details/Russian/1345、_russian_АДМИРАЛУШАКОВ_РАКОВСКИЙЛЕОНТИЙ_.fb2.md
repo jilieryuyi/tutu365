@@ -8,7 +8,7 @@
 1345、_russian_АДМИРАЛ УШАКОВ_РАКОВСКИЙ ЛЕОНТИЙ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52acc55accfbd7eac4403a3017a87895

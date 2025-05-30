@@ -8,7 +8,7 @@
 2044、Java并发编程实战华章专业开发者书库_Tim Peierls 等 [美]Brian Goetz_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1ea55f153b68377bb4179c740052699c

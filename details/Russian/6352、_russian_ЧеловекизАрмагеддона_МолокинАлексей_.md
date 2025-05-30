@@ -8,7 +8,7 @@
 6352、_russian_Человек из Армагеддона_Молокин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87a566a016d2e9ecad88bdb202b26d66

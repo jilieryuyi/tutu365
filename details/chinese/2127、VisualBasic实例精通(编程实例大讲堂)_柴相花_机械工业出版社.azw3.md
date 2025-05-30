@@ -8,7 +8,7 @@
 2127、Visual Basic实例精通 (编程实例大讲堂)_柴相花_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c30d035f9a5db38183ce9b372a12af95

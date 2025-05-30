@@ -8,7 +8,7 @@
 7292、_polish_Pami_tnik znaleziony w wannie_Lem Stanis_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8fc1e9ba56359ec05935d52a30c66273

@@ -8,7 +8,7 @@
 2665、_russian_Игры в жизнь_Чубарьян Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f059a57337b5a45cfa4be958d07e829e

@@ -8,7 +8,7 @@
 5336、_russian_Специалисты по женской части_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffecc02164a39b201ac19229c8ff3c49

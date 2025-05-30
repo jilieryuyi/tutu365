@@ -8,7 +8,7 @@
 冯康文集 1 (Collected works of Feng kang)_冯康 (Feng, Kang)_国防工业出版社_5334240_a4c9bb095a7189e361a49aea242ee762.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a4c9bb095a7189e361a49aea242ee762

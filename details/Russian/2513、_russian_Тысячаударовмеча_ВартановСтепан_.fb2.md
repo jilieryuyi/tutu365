@@ -8,7 +8,7 @@
 2513、_russian_Тысяча ударов меча_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4abdadabf8a4015dc800785d29fbcf28

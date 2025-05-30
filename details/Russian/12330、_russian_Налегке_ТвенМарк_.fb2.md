@@ -8,7 +8,7 @@
 12330、_russian_Налегке_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4db0543b755c24e964e604c3342546d

@@ -8,7 +8,7 @@
 2875、_russian_Енисей, отпусти!_Тарковский Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c225000d1cc960d2c9b9024a72fb28fa

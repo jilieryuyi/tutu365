@@ -8,7 +8,7 @@
 9988、_russian_Первобытный человек будущего_Зерзан Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10c25d905e3ffd9d97678b8e43a4df19

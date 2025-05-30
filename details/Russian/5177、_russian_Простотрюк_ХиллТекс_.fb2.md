@@ -8,7 +8,7 @@
 5177、_russian_Просто трюк_Хилл Текс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16655143c85fefbba21025e1ca54edc9

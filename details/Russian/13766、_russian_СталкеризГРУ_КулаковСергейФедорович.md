@@ -8,7 +8,7 @@
 13766、_russian_Сталкер из ГРУ_Кулаков Сергей Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3b0d0f834f6378a2d87cd8d5e800103

@@ -8,7 +8,7 @@
 4769、_russian_Черный день_Доронин Алексей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3c4d612119a973c5a673cd31de410e6

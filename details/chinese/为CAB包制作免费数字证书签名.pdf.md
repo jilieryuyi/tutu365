@@ -8,7 +8,7 @@
 为CAB包制作免费数字证书签名.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a61e37de8382a6f2f1c8e2a5cbd2d5f

@@ -8,7 +8,7 @@
 12143、_russian_Роман_Сорокин Владимир Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62011efcf2f90e4647fbb3f2ef92966f

@@ -8,7 +8,7 @@
 8836、_russian_Стасу_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98079f6c6dcb1b007c05e021bf3b895f

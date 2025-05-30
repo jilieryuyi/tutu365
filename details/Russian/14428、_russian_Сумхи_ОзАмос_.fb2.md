@@ -8,7 +8,7 @@
 14428、_russian_Сумхи_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae60eb59910daac0668935b86cd11d31

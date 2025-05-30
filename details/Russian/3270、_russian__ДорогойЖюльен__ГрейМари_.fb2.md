@@ -8,7 +8,7 @@
 3270、_russian__Дорогой Жюльен__Грей Мари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27487825b35035b80bdade1bca0d23ed

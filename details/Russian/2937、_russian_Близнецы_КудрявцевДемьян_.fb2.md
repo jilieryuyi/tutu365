@@ -8,7 +8,7 @@
 2937、_russian_Близнецы_Кудрявцев Демьян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ccd94a2f6441770b0fdb3eaf01199b4

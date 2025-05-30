@@ -8,7 +8,7 @@
 金匮要略 (张仲景 [张仲景]) (Z-Library).epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 059748bf2f5e4c35dd3146f951affed3

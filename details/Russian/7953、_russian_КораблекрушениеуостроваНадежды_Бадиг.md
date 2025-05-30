@@ -8,7 +8,7 @@
 7953、_russian_Кораблекрушение у острова Надежды_Бадигин Константин Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdb65f6246bf909ea3a3af0bdf6210a3

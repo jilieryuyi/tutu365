@@ -8,7 +8,7 @@
 11133、_english_Dancer of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7c72be08891ae2d6b3626d110d965335

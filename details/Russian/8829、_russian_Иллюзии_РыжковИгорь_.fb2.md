@@ -8,7 +8,7 @@
 8829、_russian_Иллюзии_Рыжков Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91c85206d5d55c7d0e354c5cd6530bdc

@@ -8,7 +8,7 @@
 1016、_russian_Полковник Ростов_Азольский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0685246d38e050e3b5794d2e1803b8af

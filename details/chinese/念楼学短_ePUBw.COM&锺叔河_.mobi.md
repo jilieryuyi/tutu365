@@ -8,7 +8,7 @@
 念楼学短_ePUBw.COM & 锺叔河_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a174df051c88cde298451df9df2f3838

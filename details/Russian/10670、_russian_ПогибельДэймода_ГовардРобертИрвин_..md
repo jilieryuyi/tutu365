@@ -8,7 +8,7 @@
 10670、_russian_Погибель Дэймода_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e8a90a0594a1dc14ed4c9d6125d538d

@@ -8,7 +8,7 @@
 12267、_russian_Мухтар_Меттер Израиль Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 990ce50add9506c3f2bc946a865b6bb5

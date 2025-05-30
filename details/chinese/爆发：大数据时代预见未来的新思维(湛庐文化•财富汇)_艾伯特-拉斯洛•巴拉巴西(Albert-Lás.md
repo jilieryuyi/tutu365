@@ -8,7 +8,7 @@
 爆发：大数据时代预见未来的新思维 (湛庐文化•财富汇)_艾伯特-拉斯洛•巴拉巴西 (Albert-László Barabási) [艾伯特-拉斯洛•巴拉巴西 (Albert-László Barabási)]__5297128_6e841611013acb8b8500024577fbff09.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6e841611013acb8b8500024577fbff09

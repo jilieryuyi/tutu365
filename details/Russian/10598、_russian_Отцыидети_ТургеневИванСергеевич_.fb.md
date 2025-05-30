@@ -8,7 +8,7 @@
 10598、_russian_Отцы и дети_Тургенев Иван Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68c4893d5c7823934efc9005b526663f

@@ -8,7 +8,7 @@
 走向未来丛书 社会生物学---新的综合  节译本_E.O.威尔逊 __5299786_f9d82c535d13c0288845abf35be90d92.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f9d82c535d13c0288845abf35be90d92

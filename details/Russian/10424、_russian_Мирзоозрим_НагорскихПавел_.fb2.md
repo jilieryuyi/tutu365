@@ -8,7 +8,7 @@
 10424、_russian_Мир зоо зрим_Нагорских Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32784deb9283f67dcbd919bb1decfd4a

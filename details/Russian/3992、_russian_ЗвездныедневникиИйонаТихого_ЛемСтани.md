@@ -8,7 +8,7 @@
 3992、_russian_Звездные дневники Ийона Тихого_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20fb38c9e4dbac5e84bfc21b0f67cde1

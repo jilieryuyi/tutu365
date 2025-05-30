@@ -8,7 +8,7 @@
 8255、_russian_Взлетка_Бабченко Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5653c797c28c4afd1c5fc0c59d7d0351

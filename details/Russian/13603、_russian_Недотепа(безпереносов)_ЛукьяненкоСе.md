@@ -8,7 +8,7 @@
 13603、_russian_Недотепа (без переносов)_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cca20a1e3f5d4407aeacb8c9535364f9

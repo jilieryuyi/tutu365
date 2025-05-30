@@ -8,7 +8,7 @@
 7899、_russian_Борзые и охота с ними_Шерешевский Э И_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3e31f1b29b35daccff94bd429cb7be8

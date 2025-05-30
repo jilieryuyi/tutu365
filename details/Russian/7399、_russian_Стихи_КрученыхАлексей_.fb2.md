@@ -8,7 +8,7 @@
 7399、_russian_Стихи_Крученых Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b85510a31ec2bb7a2e9bb4e07f29761

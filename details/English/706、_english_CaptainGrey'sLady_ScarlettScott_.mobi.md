@@ -8,7 +8,7 @@
 706、_english_Captain Grey's Lady_Scarlett Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ffc3a4bd7771585d949ccad0695edd6b

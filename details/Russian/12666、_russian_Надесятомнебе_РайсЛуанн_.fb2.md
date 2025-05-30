@@ -8,7 +8,7 @@
 12666、_russian_На десятом небе_Райс Луанн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3cb29ff0829d1bfd13754e7ccae97b8

@@ -8,7 +8,7 @@
 930、_russian_Стихотворения, не вошедшие в авторские сборники_Анненский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd31ef503bbb66dcf7b1d85a9b6dd4b8

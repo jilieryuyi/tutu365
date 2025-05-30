@@ -8,7 +8,7 @@
 15275、_russian_Конан и Посланник мрака_Локнит Олаф Бьорн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4d34b45f2103fac167ab374ce2d29fd

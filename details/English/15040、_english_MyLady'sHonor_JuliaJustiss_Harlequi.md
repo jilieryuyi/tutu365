@@ -8,7 +8,7 @@
 15040、_english_My Lady's Honor_Julia Justiss_Harlequin Books.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 63fa360732b0e79361254687833da798

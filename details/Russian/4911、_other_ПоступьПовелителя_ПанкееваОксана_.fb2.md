@@ -8,7 +8,7 @@
 4911、_other_Поступь Повелителя_Панкеева Оксана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38e3093e94fb057cc5e92597b244b52b

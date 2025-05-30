@@ -8,7 +8,7 @@
 10867、_russian_Власть без славы_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e799329110ba5e096991f0996d1b4ba3

@@ -8,7 +8,7 @@
 1497、_russian_Пьедестал для принцессы_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 701070661c4c8cad67c82e7e268387fc

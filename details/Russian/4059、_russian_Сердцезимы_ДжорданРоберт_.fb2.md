@@ -8,7 +8,7 @@
 4059、_russian_Сердце зимы_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79df12d66c81b72eb916163a99e8557f

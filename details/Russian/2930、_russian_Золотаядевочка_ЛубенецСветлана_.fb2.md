@@ -8,7 +8,7 @@
 2930、_russian_Золотая девочка_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6accf0e30d192760def8d1c27a3bf708

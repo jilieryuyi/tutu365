@@ -8,7 +8,7 @@
 8768、_russian_Лев пустыни_Галанина Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b21f93e9236851b57201a6b76f15364c

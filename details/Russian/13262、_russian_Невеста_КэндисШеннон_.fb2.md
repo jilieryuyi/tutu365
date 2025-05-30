@@ -8,7 +8,7 @@
 13262、_russian_Невеста_Кэндис Шеннон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98922a93a18373e870f73409ce40f63f

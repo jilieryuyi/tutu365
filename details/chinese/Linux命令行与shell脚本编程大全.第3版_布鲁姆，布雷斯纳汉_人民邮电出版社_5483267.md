@@ -8,7 +8,7 @@
 Linux命令行与shell脚本编程大全.第3版_布鲁姆，布雷斯纳汉_人民邮电出版社_5483267_aca94139c3d1867461a25beef3def0f1.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 aca94139c3d1867461a25beef3def0f1

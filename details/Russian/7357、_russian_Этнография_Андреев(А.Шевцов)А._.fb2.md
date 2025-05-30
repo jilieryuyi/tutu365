@@ -8,7 +8,7 @@
 7357、_russian_Этнография_Андреев(А.Шевцов) А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 828a36564eb15f7cba7f281076b76f41

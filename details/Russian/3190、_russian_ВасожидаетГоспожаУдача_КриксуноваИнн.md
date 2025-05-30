@@ -8,7 +8,7 @@
 3190、_russian_Вас ожидает Госпожа Удача_Криксунова Инна А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbb2bc61a71a864bf0f52624e63114db

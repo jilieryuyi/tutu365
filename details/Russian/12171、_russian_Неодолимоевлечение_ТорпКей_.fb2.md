@@ -8,7 +8,7 @@
 12171、_russian_Неодолимое влечение_Торп Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93724395b8a6e58d3c2a031d60781102

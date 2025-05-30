@@ -8,7 +8,7 @@
 2116、Spring实战（第4版）_[美] Craig Walls 沃尔斯_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 38e57caedef64dd01e1134c2c6e7311f

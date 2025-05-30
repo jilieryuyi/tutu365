@@ -8,7 +8,7 @@
 4772、_russian_Золотые апостолы_Дроздов Анатолий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9072474846dcb45301fdab8278effd9f

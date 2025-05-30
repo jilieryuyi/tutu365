@@ -8,7 +8,7 @@
 3814、_russian_Примечания к драмам_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02ea22eda90d0d29f37ddd4671be1537

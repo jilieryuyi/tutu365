@@ -8,7 +8,7 @@
 10912、_russian_Администрация леса_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3f3f030fcc58ef974b6e0057b113e5a

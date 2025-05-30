@@ -8,7 +8,7 @@
 9720、_russian__ЛАХТАК__ТРУБЛАИНИ Николай Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bce28556af77e5161d201d46e06ea2c

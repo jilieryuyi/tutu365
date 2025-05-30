@@ -8,7 +8,7 @@
 11619、_russian_Безумная страсть_Роллингз Лайза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89349fe7f2b1d15c8b0d301569be7671

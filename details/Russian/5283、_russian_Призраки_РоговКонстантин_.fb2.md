@@ -8,7 +8,7 @@
 5283、_russian_Призраки_Рогов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4550b4812ab13ba3b25953e4ff38d3c

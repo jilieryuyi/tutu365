@@ -8,7 +8,7 @@
 35、YOU身体锻炼手册_真实年龄健身计划_迈克尔·罗伊森 & 罗伊森_江苏科学技术出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2d73b9c24871d7625890470581da659f

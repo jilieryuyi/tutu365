@@ -8,7 +8,7 @@
 17238、_english_Adrian's Pearl_Julia Blaine_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 32e21d68505045a4a7687ae73994338e

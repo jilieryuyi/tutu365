@@ -8,7 +8,7 @@
 14435、_russian_Шкаф_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d83eff241da6e3851976e65c9f366d69

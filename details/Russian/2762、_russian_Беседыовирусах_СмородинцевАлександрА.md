@@ -8,7 +8,7 @@
 2762、_russian_Беседы о вирусах_Смородинцев Александр Анатольевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b02631fb365dee42c5d5d3a197f2b2e3

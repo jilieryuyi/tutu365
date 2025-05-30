@@ -8,7 +8,7 @@
 4952、_russian_Свет вечный_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f90326e6ca51d6f603da80612d72d714

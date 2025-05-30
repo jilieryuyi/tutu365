@@ -8,7 +8,7 @@
 14292、_russian_Солдатский долг_Рокоссовский Константин Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2847868f4a4cbbb8cb56a6317694dc1

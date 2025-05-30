@@ -8,7 +8,7 @@
 7456、_russian_Младенцы Медника_Синякин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b06a397a698cfcfc4f4ea8197f17d865

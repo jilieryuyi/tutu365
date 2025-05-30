@@ -8,7 +8,7 @@
 10860、_russian_С Новым годом, с новым счастьем!_Уильямс Кэтти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52f479c9783b37eadd81d1dd7baafabe

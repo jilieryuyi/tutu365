@@ -8,7 +8,7 @@
 2631、_russian_Стальная Крыса_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 397c1b0e1e376662b9e9dd616d5f8860

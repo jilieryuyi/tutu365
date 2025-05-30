@@ -8,7 +8,7 @@
 5599、_russian_Великая узурпация_Кеслер Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04e9f259dae4954e192608ca70896734

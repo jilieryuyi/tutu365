@@ -8,7 +8,7 @@
 4018、_russian_Мама_Гравицкий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77b56decc3a05ae9794396235650b6ee

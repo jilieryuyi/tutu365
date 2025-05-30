@@ -8,7 +8,7 @@
 13564、_russian_Чудо_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2a6783180656d1a8479b18132a81068

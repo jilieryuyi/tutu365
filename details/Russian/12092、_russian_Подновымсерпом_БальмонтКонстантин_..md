@@ -8,7 +8,7 @@
 12092、_russian_Под новым серпом_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b10c7323cf5c29e9d6d6a47573a1c7ea

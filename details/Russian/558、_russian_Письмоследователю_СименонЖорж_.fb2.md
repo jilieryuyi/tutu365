@@ -8,7 +8,7 @@
 558、_russian_Письмо следователю_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42a17844cee7e509db9b6ab64c57a77d

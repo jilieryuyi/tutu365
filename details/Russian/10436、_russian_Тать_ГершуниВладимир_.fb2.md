@@ -8,7 +8,7 @@
 10436、_russian_Тать_Гершуни Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8291bfaeb2349de4e6ac6f9b5f782e8a

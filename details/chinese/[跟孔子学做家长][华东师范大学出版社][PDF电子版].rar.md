@@ -8,7 +8,7 @@
 [跟孔子学做家长][华东师范大学出版社][PDF电子版].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e65a1322aca9b2bc0d9b12e31a6dcdb0

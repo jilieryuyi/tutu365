@@ -8,7 +8,7 @@
 12440、_russian_Рассказы, очерки, фельетоны_Ильф Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 882e9a1e1a8e0dee23599bbe29981db6

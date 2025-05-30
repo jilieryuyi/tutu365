@@ -8,7 +8,7 @@
 2495、_russian_Дельфийский оракул_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 920d4859640c8c2aa0397bdfff4c72be

@@ -8,7 +8,7 @@
 14234、_russian_Приезжайте вместе с Констанс!_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ecb1f666ffc9e6d02d5eda9154ae278

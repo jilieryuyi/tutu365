@@ -8,7 +8,7 @@
 610、高效能人士的时间和个人管理法则_希鲁姆·W·史密斯 (Hyrum W.Smith)_中国青年出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5e96212ed1da10290e5ae811bdf26a03

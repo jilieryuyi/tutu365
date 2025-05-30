@@ -8,7 +8,7 @@
 10、_russian_Избранник Пентакля_Вильгоцкий Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64a9f595ce18e782be68e586e2eec2af

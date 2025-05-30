@@ -8,7 +8,7 @@
 9241、_italian_L'Ultimo Dei Mohicani_James Fenimore Cooper_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9467c80ce7f1d82d5e7abc3d2d5a4d0c

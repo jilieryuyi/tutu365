@@ -8,7 +8,7 @@
 14620、_russian_Я ищу тебя_Мэйджер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb5e0cf9e0f7e756fa213ce1a5aec20d

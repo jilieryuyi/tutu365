@@ -8,7 +8,7 @@
 2993、_russian_Рассказы_Варламов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19261bb9ec83edd3f71da9fb1d223cf8

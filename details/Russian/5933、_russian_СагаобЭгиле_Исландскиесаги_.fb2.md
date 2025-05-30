@@ -8,7 +8,7 @@
 5933、_russian_Сага об Эгиле_Исландские саги_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71a2452bd624b5682c38f93e6a34cf2c

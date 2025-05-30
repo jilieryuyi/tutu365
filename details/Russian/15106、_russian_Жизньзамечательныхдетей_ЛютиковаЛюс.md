@@ -8,7 +8,7 @@
 15106、_russian_Жизнь замечательных детей_Лютикова Люся_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 590f033d0d7814b309f854deec98eaf9

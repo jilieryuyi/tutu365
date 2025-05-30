@@ -8,7 +8,7 @@
 7082、_russian_Рязанский _американец__Пикуль Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69b065713b851c1e3b60e1de595214dc

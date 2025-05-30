@@ -8,7 +8,7 @@
 736、_russian_Крестная мать_Модиньяни Ева_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13b7efa90d773527c725158cf41c0d91

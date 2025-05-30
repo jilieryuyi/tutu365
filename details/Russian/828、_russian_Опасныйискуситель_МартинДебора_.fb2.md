@@ -8,7 +8,7 @@
 828、_russian_Опасный искуситель_Мартин Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd82f90c2ad3f348d74c4b5e039ae34d

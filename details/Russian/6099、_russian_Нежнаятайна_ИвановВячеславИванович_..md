@@ -8,7 +8,7 @@
 6099、_russian_Нежная тайна_Иванов Вячеслав Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7af2426ef9afd4c494f9c1c7b514747a

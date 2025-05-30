@@ -8,7 +8,7 @@
 10296、_russian_МОИ ДРУЗЬЯ_БОВ Эмманюэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 639056cf114816e15dcfe9b77feb49ad

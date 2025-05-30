@@ -8,7 +8,7 @@
 5613、_russian_ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ ПРОЛОГ_Клоксин У, Меллиш К_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57c68579cfad22e2aa171f6b97eebad5

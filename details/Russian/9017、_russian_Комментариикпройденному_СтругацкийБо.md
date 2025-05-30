@@ -8,7 +8,7 @@
 9017、_russian_Комментарии к пройденному_Стругацкий Борис Натанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4b7581d85b6fee146ab8b421c2b83b2

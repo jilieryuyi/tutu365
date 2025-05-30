@@ -8,7 +8,7 @@
 5169、_russian_Хождение по треугольнику_Любимова Алена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ccef121c801142b265b2439615d0945

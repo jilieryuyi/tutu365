@@ -8,7 +8,7 @@
 11338、_russian_Прима Белладонна_Баллард Джеймс Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94b85edd4141c611ad8b3700579510f4

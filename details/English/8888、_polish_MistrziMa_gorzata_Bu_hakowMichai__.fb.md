@@ -8,7 +8,7 @@
 8888、_polish_Mistrz i Ma_gorzata_Bu_hakow Michai__.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2c9ce4c806058421176fc05d7d0b673e

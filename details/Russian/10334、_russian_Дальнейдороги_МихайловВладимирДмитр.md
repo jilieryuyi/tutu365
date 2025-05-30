@@ -8,7 +8,7 @@
 10334、_russian_Дальней дороги_Михайлов Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54819377484dda88065cc76f8ac497b8

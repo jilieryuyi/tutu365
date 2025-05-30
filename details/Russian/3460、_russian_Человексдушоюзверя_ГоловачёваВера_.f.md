@@ -8,7 +8,7 @@
 3460、_russian_Человек с душою зверя_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 679f14ed07dc27ff1e3556ca108123e7

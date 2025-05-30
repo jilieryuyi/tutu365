@@ -8,7 +8,7 @@
 4404、_russian_Секс-пуля_Серегин Михаил Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f5adf5ca5f756e0b59d7392d5581792

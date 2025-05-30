@@ -8,7 +8,7 @@
 5449、_ukrainian__стор__ в дев'яти книгах. КнигаVII_ Пол_мн_я_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfedd77cf9d01fb8ceb16444998a0909

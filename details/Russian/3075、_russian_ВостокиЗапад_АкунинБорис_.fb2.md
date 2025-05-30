@@ -8,7 +8,7 @@
 3075、_russian_Восток и Запад_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8ef154825cea79b5e240ba2c553b705

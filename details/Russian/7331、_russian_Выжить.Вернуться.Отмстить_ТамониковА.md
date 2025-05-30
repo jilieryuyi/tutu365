@@ -8,7 +8,7 @@
 7331、_russian_Выжить. Вернуться. Отмстить_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b59f066c125ee927df1eaa18faba1cb3

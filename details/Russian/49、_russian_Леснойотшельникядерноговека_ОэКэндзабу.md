@@ -8,7 +8,7 @@
 49、_russian_Лесной отшельник ядерного века_Оэ Кэндзабуро_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5edd7cf17d2b970f95900001705eea56

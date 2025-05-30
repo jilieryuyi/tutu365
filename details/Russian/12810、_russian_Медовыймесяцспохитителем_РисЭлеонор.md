@@ -8,7 +8,7 @@
 12810、_russian_Медовый месяц с похитителем_Рис Элеонора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 779abdec6ff442d44cdc454c6a3cb272

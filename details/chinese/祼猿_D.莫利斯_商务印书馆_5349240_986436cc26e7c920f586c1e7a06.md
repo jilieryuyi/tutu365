@@ -8,7 +8,7 @@
 祼猿_D.莫利斯_商务印书馆_5349240_986436cc26e7c920f586c1e7a06deb45.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 986436cc26e7c920f586c1e7a06deb45

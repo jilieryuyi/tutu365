@@ -8,7 +8,7 @@
 13155、_russian_Провал операции _Z__Дар Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 833bb7926f97d59b7b5f414938d75b5a

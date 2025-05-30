@@ -8,7 +8,7 @@
 3739、_russian_Красивая_Ито Сэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 071086c64b8cbb99c6f49be82085947a

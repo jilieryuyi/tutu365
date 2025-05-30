@@ -8,7 +8,7 @@
 9829、_russian_Апокалиптичность в фантастике_Громов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 326ea4b27cfeacd6f3968ec931261897

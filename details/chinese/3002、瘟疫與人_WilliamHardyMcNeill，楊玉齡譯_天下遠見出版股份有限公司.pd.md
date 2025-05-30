@@ -8,7 +8,7 @@
 3002、瘟疫與人_William Hardy McNeill，楊玉齡譯_天下遠見出版股份有限公司.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 008fbd0d6a6128556ee1b0978dc37139

@@ -8,7 +8,7 @@
 963、最后一个汉人皇帝：崇祯大败局（套装2册全）_晏青_calibre.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0b88f6cbabb382d031c5acc27017c1aa

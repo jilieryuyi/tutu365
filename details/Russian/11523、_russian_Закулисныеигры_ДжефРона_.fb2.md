@@ -8,7 +8,7 @@
 11523、_russian_Закулисные игры_Джеф Рона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 294114bbeb2a6a4cc599d35fb116cd01

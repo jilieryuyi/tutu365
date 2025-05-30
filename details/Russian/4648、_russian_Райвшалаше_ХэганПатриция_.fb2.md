@@ -8,7 +8,7 @@
 4648、_russian_Рай в шалаше_Хэган Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd19a6eff1a7d58033b203277cedeea8

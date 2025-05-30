@@ -8,7 +8,7 @@
 12776、_russian_Грозная дружина_Чарская Л.А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d28386de35caecded600776e73302e07

@@ -8,7 +8,7 @@
 3896、_russian_Собака Баскервилей (и)_Конан Дойл Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1c85123ba3f14848b861126e661c07d

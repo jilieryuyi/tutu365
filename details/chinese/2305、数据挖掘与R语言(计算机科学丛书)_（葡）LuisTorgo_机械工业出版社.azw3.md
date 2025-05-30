@@ -8,7 +8,7 @@
 2305、数据挖掘与R语言 (计算机科学丛书)_（葡）Luis Torgo_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b6db066b57e2b17e791b1522ee544461

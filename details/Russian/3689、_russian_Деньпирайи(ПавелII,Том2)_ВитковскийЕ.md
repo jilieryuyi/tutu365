@@ -8,7 +8,7 @@
 3689、_russian_День пирайи (Павел II, Том 2)_Витковский Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed5d8bdbe8c697aae7cd1b891709ffec

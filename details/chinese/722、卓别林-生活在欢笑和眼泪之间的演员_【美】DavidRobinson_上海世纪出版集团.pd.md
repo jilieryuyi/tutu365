@@ -8,7 +8,7 @@
 722、卓别林-生活在欢笑和眼泪之间的演员_【美】David Robinson_上海世纪出版集团.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 276120c8959ce431613969a201d7cb38

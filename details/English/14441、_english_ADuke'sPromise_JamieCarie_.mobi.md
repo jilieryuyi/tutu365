@@ -8,7 +8,7 @@
 14441、_english_A Duke's Promise_Jamie Carie_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9f8d45d97c02789a2cff624216d4ae4c

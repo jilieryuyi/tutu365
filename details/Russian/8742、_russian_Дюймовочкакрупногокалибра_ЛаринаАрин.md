@@ -8,7 +8,7 @@
 8742、_russian_Дюймовочка крупного калибра_Ларина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc2ae1c541c1912f038436cb33309ca4

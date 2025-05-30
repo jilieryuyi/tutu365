@@ -8,7 +8,7 @@
 8560、_russian_Класс Америка_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eda7d4ddc38c12c8ce3046ee0475d1b9

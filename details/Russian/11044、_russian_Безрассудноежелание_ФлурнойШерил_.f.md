@@ -8,7 +8,7 @@
 11044、_russian_Безрассудное желание_Флурной Шерил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bec86d83c9d13c47c44739aa99178df2

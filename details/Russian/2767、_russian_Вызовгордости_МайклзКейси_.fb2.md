@@ -8,7 +8,7 @@
 2767、_russian_Вызов гордости_Майклз Кейси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0142733075073d42c48bf1b530bc5e64

@@ -8,7 +8,7 @@
 13203、_russian_Малиновые горы_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6aceaa1205c6c64cd9c2536ccd29cab

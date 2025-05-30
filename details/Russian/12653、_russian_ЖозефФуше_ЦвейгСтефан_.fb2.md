@@ -8,7 +8,7 @@
 12653、_russian_Жозеф Фуше_Цвейг Стефан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfce95ba2d24607feec8863df1267189

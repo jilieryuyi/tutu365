@@ -8,7 +8,7 @@
 7087、_russian_Вне всяких сомнений_Хайнлайн Роберт Энсон, Вентц Элма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffb888a654a8a6c559bf22c6ed6c5d87

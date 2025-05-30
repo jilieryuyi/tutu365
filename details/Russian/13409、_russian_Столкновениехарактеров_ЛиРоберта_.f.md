@@ -8,7 +8,7 @@
 13409、_russian_Столкновение характеров_Ли Роберта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5563ee0162cf040a12186544c3dd4d9

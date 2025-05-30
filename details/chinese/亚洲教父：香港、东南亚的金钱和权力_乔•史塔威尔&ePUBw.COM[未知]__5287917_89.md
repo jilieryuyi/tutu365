@@ -8,7 +8,7 @@
 亚洲教父：香港、东南亚的金钱和权力_乔•史塔威尔 & ePUBw.COM [未知]__5287917_8924e731163332cae28655c1ab2cdd73.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8924e731163332cae28655c1ab2cdd73

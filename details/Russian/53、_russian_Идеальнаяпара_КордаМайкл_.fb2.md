@@ -8,7 +8,7 @@
 53、_russian_Идеальная пара_Корда Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20d7f793af9414cda8d62e3063638f9c

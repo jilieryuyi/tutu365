@@ -8,7 +8,7 @@
 619、_russian_В баню_Сато Кимико_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55e24eafb73607d9db64a719bdaf237e

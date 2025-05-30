@@ -8,7 +8,7 @@
 2049、_russian_Паж Черной королевы_Суслин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63216c70e1c81b03720885d28e127d25

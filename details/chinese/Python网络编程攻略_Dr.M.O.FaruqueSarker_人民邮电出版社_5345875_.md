@@ -8,7 +8,7 @@
 Python网络编程攻略_Dr. M. O. Faruque Sarker _人民邮电出版社_5345875_179dbc233e68c4d48027e2671c40f883.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 179dbc233e68c4d48027e2671c40f883

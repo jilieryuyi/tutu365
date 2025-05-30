@@ -8,7 +8,7 @@
 8777、_russian_Атолл Факаофо_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e6f8a9644b07cca3c2b843377411ca4

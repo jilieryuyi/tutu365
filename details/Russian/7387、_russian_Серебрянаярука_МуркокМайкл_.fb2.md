@@ -8,7 +8,7 @@
 7387、_russian_Серебряная рука_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cf634a139f9f45e89541678b4491a2d

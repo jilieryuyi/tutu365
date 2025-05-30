@@ -8,7 +8,7 @@
 12255、_russian_Череп колдуна_Мэйсон Девид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e6e7e557a4ea72976841ea99e05b40e

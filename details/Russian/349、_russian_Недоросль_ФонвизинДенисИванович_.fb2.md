@@ -8,7 +8,7 @@
 349、_russian_Недоросль_Фонвизин Денис Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 497352de4e3d45b13b0aacc748977a28

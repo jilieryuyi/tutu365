@@ -8,7 +8,7 @@
 9702、_russian_Художник зыбкого мира_Исигуро Кадзуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d10349cdad917251374a9ef85fae814c

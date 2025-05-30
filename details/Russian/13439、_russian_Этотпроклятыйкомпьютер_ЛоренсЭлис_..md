@@ -8,7 +8,7 @@
 13439、_russian_Этот проклятый компьютер_Лоренс Элис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 795cdd2f6a9ed76a89bc1d26b067aa9f

@@ -8,7 +8,7 @@
 175、_russian_Диалектическая психология_Колташов Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4d9731dfb5b5401dfaa50dc912cf16e

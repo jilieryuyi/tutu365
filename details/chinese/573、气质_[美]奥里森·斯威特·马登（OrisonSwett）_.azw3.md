@@ -8,7 +8,7 @@
 573、气质_[美]奥里森·斯威特·马登（Orison Swett）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1c78af478d3293fdfbb9ef900990bedb

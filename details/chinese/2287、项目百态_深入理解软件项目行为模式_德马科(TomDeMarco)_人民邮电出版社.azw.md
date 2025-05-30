@@ -8,7 +8,7 @@
 2287、项目百态_深入理解软件项目行为模式_德马科(Tom DeMarco)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 082ff004186110943d71700a8cf55055

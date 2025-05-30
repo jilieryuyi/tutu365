@@ -8,7 +8,7 @@
 12689、_russian_Коротенький отпуск мистера Лавдэя_Во Ивлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 916da2abc0a69bae0bfec814ed684280

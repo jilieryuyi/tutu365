@@ -8,7 +8,7 @@
 9051、_russian_Трое за те же деньги_Баллард У. Т._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bce013abd65199cf6eaf5ecf5da9067

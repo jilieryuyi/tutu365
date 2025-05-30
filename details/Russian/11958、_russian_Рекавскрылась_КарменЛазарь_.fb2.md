@@ -8,7 +8,7 @@
 11958、_russian_Река вскрылась_Кармен Лазарь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2278aa3ff4b44c1755fe755b8920ba89

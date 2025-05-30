@@ -8,7 +8,7 @@
 455、_russian_Повесть о любви и суете_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8cb7740a5b26101b4fdcb8c943b133e

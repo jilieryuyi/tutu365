@@ -8,7 +8,7 @@
 5692、_russian_Письмо президенту_Берг Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acfeaa973c8b5c32dda367b2f32a1d4a

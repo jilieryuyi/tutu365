@@ -8,7 +8,7 @@
 8234、_english_The Tyranny of the Night_Cook Glen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0d8a1cde2b9c006a5d9a8a9aba3bebbd

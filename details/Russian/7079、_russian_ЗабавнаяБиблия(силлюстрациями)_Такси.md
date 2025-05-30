@@ -8,7 +8,7 @@
 7079、_russian_Забавная Библия (с иллюстрациями)_Таксиль Лео_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06ce11dd2b6ee63b410e3c2d48e4b405

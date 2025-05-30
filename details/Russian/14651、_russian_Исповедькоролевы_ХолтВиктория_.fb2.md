@@ -8,7 +8,7 @@
 14651、_russian_Исповедь королевы_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3a0d9d06113f3bae89fb28751b70682

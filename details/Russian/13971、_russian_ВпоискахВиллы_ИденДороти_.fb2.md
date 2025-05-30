@@ -8,7 +8,7 @@
 13971、_russian_В поисках Виллы_Иден Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 189609638b5dc1617db783a88d18c74e

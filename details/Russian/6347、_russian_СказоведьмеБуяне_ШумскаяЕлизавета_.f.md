@@ -8,7 +8,7 @@
 6347、_russian_Сказ о ведьме Буяне_Шумская Елизавета_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e45a6b673f2675691faf3d17475bd39e

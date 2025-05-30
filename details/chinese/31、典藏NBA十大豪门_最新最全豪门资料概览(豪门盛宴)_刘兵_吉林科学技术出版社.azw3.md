@@ -8,7 +8,7 @@
 31、典藏NBA十大豪门_最新最全豪门资料概览 (豪门盛宴)_刘兵_吉林科学技术出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 432b14b21c4444a9a7d95458a85c1114

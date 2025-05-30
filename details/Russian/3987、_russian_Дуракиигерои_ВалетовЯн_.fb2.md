@@ -8,7 +8,7 @@
 3987、_russian_Дураки и герои_Валетов Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6ac6204a61d0c510bc81947df75a09b

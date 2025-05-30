@@ -8,7 +8,7 @@
 9366、_russian_Белая невеста_Дегтев Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54c278e9123e980dc23f9001482c7b15

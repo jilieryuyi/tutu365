@@ -8,7 +8,7 @@
 14820、_russian_Анна_Анненская Александра Никитична_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5fbf5cac18384056dcac7fd65f2e028

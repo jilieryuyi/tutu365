@@ -8,7 +8,7 @@
 12129、_russian_Золотые самородки_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e69d7ddf92fd84c719d429995e821db4

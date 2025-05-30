@@ -8,7 +8,7 @@
 4237、_russian_Немые и проклятые_Уилсон Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 610a6ed352520e227c96d7df81232e6c

@@ -8,7 +8,7 @@
 2615、_russian_Йо-Хо-Хока!_Андерсон Пол, Диксон Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dcb5e7305182b4d3b032c91bdddc38e

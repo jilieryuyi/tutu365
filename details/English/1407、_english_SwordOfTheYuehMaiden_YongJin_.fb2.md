@@ -8,7 +8,7 @@
 1407、_english_Sword Of The Yueh Maiden_Yong Jin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 613b62f94e9c8fd76cce7320229de0f6

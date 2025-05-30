@@ -8,7 +8,7 @@
 11956、_russian_Сын колодца_Кармен Лазарь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b9d3702cc5e77967e37d4fb331315cb

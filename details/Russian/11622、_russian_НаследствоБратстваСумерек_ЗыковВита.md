@@ -8,7 +8,7 @@
 11622、_russian_Наследство Братства Сумерек_Зыков Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7df9b1feadeb3515885ad7c5c5520ff3

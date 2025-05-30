@@ -8,7 +8,7 @@
 11586、_russian_Лунное дитя_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3bbf99b9bea2c3b2a1c4967970fca9b

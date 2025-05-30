@@ -8,7 +8,7 @@
 3229、回憶愛瑪儂 - 全一册_梶尾真治×鶴田謙二_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e6f3519f5ab88e0961894cd485c0527c

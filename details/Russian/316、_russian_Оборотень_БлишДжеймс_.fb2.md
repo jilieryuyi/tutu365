@@ -8,7 +8,7 @@
 316、_russian_Оборотень_Блиш Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e4abd3e0e3466f480d29f22ae8710bf

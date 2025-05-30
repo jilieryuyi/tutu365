@@ -8,7 +8,7 @@
 9745、_russian_Рассказы из разных сборников_Керет Этгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbe573e2d3230bee039275508eae31db

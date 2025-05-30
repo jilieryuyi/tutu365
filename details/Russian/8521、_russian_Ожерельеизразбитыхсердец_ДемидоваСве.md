@@ -8,7 +8,7 @@
 8521、_russian_Ожерелье из разбитых сердец_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21424398ff1557cf50eb097b4ebd05fc

@@ -8,7 +8,7 @@
 国家的视角：那些试图改善人类状况的项目是如何失败的_[美]詹姆斯·C.斯科特 _社会科学文献出版社_5341820_99f1900bb1eedeac2ad7c871ac8671d0.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 99f1900bb1eedeac2ad7c871ac8671d0

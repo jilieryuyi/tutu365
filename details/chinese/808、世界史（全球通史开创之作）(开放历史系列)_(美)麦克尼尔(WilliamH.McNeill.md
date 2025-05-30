@@ -8,7 +8,7 @@
 808、世界史（全球通史开创之作） (开放历史系列)_(美) 麦克尼尔(William H. McNeill)_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 405041a7a4f70aa90370a901e355463e

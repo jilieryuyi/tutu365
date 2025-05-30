@@ -8,7 +8,7 @@
 6172、_english_The Duke's Double_Anita Mills_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ef9ea7683e1eb8b14d1efab19d76c0c8

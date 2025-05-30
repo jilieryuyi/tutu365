@@ -8,7 +8,7 @@
 8504、_russian_Путешествие Баурджеда_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5d3bf3c60df9942a1a85f9f8bfea4f7

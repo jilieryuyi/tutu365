@@ -8,7 +8,7 @@
 10797、_russian_Не покидай меня_Уил Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61f4ae92df33b1d9b66fb363bc07cdca

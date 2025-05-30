@@ -8,7 +8,7 @@
 3061、_russian_Тюрьмой Варяга не сломить_Сухов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 040288528b0f7a48628a39728a8f885f

@@ -8,7 +8,7 @@
 10021、_russian_Жемчужный орден_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89566709617d727124c92eb718d0d83c

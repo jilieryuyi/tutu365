@@ -8,7 +8,7 @@
 Netkiller Java 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526996_adcf5b93a65449f9a6a4ee5a5db5ff4d.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 adcf5b93a65449f9a6a4ee5a5db5ff4d

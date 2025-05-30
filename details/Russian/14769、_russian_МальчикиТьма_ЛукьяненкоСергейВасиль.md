@@ -8,7 +8,7 @@
 14769、_russian_Мальчик и Тьма_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1379e0a8fe4802baf81159b6049170bc

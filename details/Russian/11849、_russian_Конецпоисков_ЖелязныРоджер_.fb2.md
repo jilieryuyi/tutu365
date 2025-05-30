@@ -8,7 +8,7 @@
 11849、_russian_Конец поисков_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8eba93c522e493e4a4355745b4d87a3f

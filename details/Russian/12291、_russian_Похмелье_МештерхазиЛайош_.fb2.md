@@ -8,7 +8,7 @@
 12291、_russian_Похмелье_Мештерхази Лайош_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e5d23fae2aa92d30d73d9784613c665

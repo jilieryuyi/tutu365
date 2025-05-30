@@ -8,7 +8,7 @@
 3825、_russian_Как преодолеть чувство беспокойства_Карнеги Дейл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25eee0e1d86f2fc0ef0f37ea88288e03

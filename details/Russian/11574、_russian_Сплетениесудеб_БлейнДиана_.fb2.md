@@ -8,7 +8,7 @@
 11574、_russian_Сплетение судеб_Блейн Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54a2cf3d52ddc0c8f1f2744cd0e20fe9

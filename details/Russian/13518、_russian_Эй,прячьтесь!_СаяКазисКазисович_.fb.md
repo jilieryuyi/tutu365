@@ -8,7 +8,7 @@
 13518、_russian_Эй, прячьтесь!_Сая Казис Казисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc540fa1417115ce10ffd2a843585abe

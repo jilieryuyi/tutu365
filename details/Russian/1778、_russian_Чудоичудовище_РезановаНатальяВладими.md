@@ -8,7 +8,7 @@
 1778、_russian_Чудо и чудовище_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddadae889ac2c8f75a547bc14c9f787a

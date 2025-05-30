@@ -8,7 +8,7 @@
 940、_russian_О, этот дивный, юный мир_Абердин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91a83175660dce81b721eb0c893d2ae2

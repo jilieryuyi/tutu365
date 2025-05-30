@@ -8,7 +8,7 @@
 7855、_russian_Золото Российской Федерации_Басов Николай Владленович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbc439da87171ee095b1925f42d66df5

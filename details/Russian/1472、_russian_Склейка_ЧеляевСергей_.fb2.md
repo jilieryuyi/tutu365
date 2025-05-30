@@ -8,7 +8,7 @@
 1472、_russian_Склейка_Челяев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ec53651d9d35bcc1b82b12753ef9ecc

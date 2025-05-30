@@ -8,7 +8,7 @@
 2049、jQuery开发权威指南：jQuery权威指南（第2版）、jQuery Mobile权威指南_陶国荣_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 669a373c2ff306f1991fae39f94259cd

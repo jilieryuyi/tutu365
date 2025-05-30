@@ -8,7 +8,7 @@
 2895、_russian_Долина смертной тени_Приставкин Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ee278954e24603fb6caa51b4ada9ec5

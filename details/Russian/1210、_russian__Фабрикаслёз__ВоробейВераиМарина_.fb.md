@@ -8,7 +8,7 @@
 1210、_russian__Фабрика слёз__Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec1551e90eb33ac929e5494af89539ef

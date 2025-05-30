@@ -8,7 +8,7 @@
 7089、_russian_Присаживайтесь, джентльмены!_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c7dc1752c0afb3ec20f23692227f1bf

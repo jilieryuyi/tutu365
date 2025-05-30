@@ -8,7 +8,7 @@
 12、_russian_Тело_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e57578fa1b45582d13c18d078f84abe9

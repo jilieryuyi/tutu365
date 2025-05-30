@@ -8,7 +8,7 @@
 605、关键20小时，快速学会任何技能！_（美）考夫曼（Kaufman,J.） 著_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b594df0b2fb6b9c277ab60ed076edd91

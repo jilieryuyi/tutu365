@@ -8,7 +8,7 @@
 3099、_russian_Богатым быть не вредно_Гунько Василий И._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af766fa6e9e5c95c81e0d04ae576a96f

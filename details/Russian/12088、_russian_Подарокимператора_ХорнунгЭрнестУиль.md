@@ -8,7 +8,7 @@
 12088、_russian_Подарок императора_Хорнунг Эрнест Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd91636a8b0d1e7c46644aefd1cd702d

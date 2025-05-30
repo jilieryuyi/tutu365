@@ -8,7 +8,7 @@
 1648、_russian_Путь меча_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 552bee3c4f607f3f52af3c67a87be0a0

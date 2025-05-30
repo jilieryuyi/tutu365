@@ -8,7 +8,7 @@
 13523、_russian_Шпион в Юрском периоде_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a3cb107fb36f3bc7631efda56b07c13

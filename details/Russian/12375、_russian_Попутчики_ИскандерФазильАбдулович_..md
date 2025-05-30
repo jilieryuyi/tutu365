@@ -8,7 +8,7 @@
 12375、_russian_Попутчики_Искандер Фазиль Абдулович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7b9bd9fc5debb2aad0f8d18bab754d0

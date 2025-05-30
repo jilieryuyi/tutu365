@@ -8,7 +8,7 @@
 10628、_other_Рызыка пiсьменства_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 009e1b91b2bc243a22497ce2008306e2

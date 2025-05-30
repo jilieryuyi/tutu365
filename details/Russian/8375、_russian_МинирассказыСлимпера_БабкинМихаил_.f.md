@@ -8,7 +8,7 @@
 8375、_russian_Мини рассказы Слимпера_Бабкин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54824e0af8a9741ff945df97648f1982

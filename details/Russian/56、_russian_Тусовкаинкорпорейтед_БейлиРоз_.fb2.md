@@ -8,7 +8,7 @@
 56、_russian_Тусовка инкорпорейтед_Бейли Роз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a34b95108b090de5c6a76635867f9914

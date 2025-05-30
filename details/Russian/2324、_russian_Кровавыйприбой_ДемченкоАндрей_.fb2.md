@@ -8,7 +8,7 @@
 2324、_russian_Кровавый прибой_Демченко Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66b99988e19de099df7deae4eb193593

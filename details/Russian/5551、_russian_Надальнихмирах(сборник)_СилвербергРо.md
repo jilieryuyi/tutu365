@@ -8,7 +8,7 @@
 5551、_russian_На дальних мирах (сборник)_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a94c00bcbaf004c8e3032a0896f55ab

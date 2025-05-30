@@ -8,7 +8,7 @@
 14670、_russian_Невеста дьявола_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a08d9bf847465f241f91e573e83caa4a

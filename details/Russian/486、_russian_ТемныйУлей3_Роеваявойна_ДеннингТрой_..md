@@ -8,7 +8,7 @@
 486、_russian_Темный Улей 3_ Роевая война_Деннинг Трой_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5f1c5c688c77c48f0ade7252467678f

@@ -8,7 +8,7 @@
 5144、_russian_Пакости дракона Алекса_Холдинг Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb4eed2a313fa2f344de613e9e43c605

@@ -8,7 +8,7 @@
 11671、_russian_Кол Будды_Белов Руслан Альбертович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f819a97e80776044b5df708065ee01c

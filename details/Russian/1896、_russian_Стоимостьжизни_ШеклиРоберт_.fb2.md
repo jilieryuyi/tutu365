@@ -8,7 +8,7 @@
 1896、_russian_Стоимость жизни_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a581835b55bc5f2910692e0ead0d34f4

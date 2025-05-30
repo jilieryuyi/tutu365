@@ -8,7 +8,7 @@
 14577、_russian_Утонувший великан_Боллард Джеймс Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c60e9e59fc219187bf2eddf237f74f0

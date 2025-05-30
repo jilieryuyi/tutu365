@@ -8,7 +8,7 @@
 8581、_russian_Тайна отца Брауна (рассказы)_Честертон Гилберт Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d55fb4d1935e477f2c6838f4333dd10d

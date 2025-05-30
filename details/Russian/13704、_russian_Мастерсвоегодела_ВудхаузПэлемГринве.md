@@ -8,7 +8,7 @@
 13704、_russian_Мастер своего дела_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 003df0a771e0fed5a539838fd18ee3f0

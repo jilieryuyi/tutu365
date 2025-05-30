@@ -8,7 +8,7 @@
 6971、_english_Shock_Cook Robin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5e96212ed1da10290e5ae811bdf26a03

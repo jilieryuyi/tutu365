@@ -8,7 +8,7 @@
 十亿消费者_James McGregor__5488012_608df46c2ea7aea9efd01146f0801fa9.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 608df46c2ea7aea9efd01146f0801fa9

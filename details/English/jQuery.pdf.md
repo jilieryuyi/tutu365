@@ -8,7 +8,7 @@
 jQuery.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e9be9e1f383ebadf0e1f42b9760a8141

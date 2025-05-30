@@ -8,7 +8,7 @@
 1510、_russian_Трикотажный костюм_Аббасзаде Гусейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b27ebf4d2b82100904d829c96ad014d

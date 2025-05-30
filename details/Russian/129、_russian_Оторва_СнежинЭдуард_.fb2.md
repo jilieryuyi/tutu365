@@ -8,7 +8,7 @@
 129、_russian_Оторва_Снежин Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6565bf71c7107caaf4d6a1e301b64e60

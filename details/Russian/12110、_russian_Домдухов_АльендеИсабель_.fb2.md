@@ -8,7 +8,7 @@
 12110、_russian_Дом духов_Альенде Исабель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 338f735e9ed85b5b2521cf86e1816e22

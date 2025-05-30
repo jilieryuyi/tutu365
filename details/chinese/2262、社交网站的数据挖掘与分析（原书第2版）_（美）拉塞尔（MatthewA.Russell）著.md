@@ -8,7 +8,7 @@
 2262、社交网站的数据挖掘与分析（原书第2版）_（美）拉塞尔（Matthew A. Russell）著 & 苏统华 等译_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f25ff2471e252e8e62de21143a73d271

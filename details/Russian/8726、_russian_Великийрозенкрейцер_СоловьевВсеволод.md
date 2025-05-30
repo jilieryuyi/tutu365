@@ -8,7 +8,7 @@
 8726、_russian_Великий розенкрейцер_Соловьев Всеволод Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da1fd479ca7c33bb3597fb517a9bd38b

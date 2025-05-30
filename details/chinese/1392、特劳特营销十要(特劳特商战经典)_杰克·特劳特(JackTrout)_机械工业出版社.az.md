@@ -8,7 +8,7 @@
 1392、特劳特营销十要 (特劳特商战经典)_杰克·特劳特(Jack Trout)_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b0dd6fd11f9df04129de70e5aef6cdec

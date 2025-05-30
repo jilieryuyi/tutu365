@@ -8,7 +8,7 @@
 6463、_english_Blowback_Thor Brad_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 978afbff8dbad225648615491957af74

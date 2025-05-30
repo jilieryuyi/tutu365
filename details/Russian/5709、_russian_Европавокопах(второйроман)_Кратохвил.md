@@ -8,7 +8,7 @@
 5709、_russian_Европа в окопах (второй роман)_Кратохвил Милош В_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21343caa05a02e20143ff482e06c1c9d

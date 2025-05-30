@@ -8,7 +8,7 @@
 5262、_russian_Гардарика (историческая сказка)_Чудинова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 613696b3e9f83c9845fc886ee1d13233

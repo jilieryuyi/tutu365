@@ -8,7 +8,7 @@
 8303、_russian_На всю жизнь_Райан Нэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13e52bec6abd4bab7c3a5fc85656f40c

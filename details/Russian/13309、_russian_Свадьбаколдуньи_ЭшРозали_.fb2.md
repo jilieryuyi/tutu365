@@ -8,7 +8,7 @@
 13309、_russian_Свадьба колдуньи_Эш Розали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2aa8c72135396721c9eb14f75427f2d0

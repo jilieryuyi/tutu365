@@ -8,7 +8,7 @@
 11464、_russian_Защита Эренграфа_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b21cd3abdf6d1fc6de62a54970c2855

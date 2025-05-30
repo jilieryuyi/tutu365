@@ -8,7 +8,7 @@
 10926、_russian_Соперницы_Мэннинг Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc25d045655f4ef2ad8d5845a82a40e7

@@ -8,7 +8,7 @@
 8403、_russian_Путь мистика_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86cfe04a496fa234caed6760b5faeb81

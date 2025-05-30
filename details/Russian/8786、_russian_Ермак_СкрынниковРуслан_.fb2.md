@@ -8,7 +8,7 @@
 8786、_russian_Ермак_Скрынников Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6105b15f82913e08fd552fcb2861c071

@@ -8,7 +8,7 @@
 9941、_russian_Светлана-пионерка_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00da92bae495fa9689452409834f13c4

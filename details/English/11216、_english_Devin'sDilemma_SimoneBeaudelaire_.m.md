@@ -8,7 +8,7 @@
 11216、_english_Devin's Dilemma_Simone Beaudelaire_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 aee10afc32ad69934e7f13a975b44572

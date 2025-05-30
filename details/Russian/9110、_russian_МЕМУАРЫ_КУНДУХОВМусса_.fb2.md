@@ -8,7 +8,7 @@
 9110、_russian_МЕМУАРЫ_КУНДУХОВ Мусса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5495e3bc766cc152f74c63d815a84d9

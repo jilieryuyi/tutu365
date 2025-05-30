@@ -8,7 +8,7 @@
 VC++学习笔记.docx.docx
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a194d7a4dd118e1faa3b9924f9f7f00

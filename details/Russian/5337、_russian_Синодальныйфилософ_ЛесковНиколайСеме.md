@@ -8,7 +8,7 @@
 5337、_russian_Синодальный философ_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9a13865f45e12d2de1b00cc98cd07b6

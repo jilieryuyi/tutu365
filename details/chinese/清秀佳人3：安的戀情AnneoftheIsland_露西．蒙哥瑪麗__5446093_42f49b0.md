@@ -8,7 +8,7 @@
 清秀佳人3：安的戀情 Anne of the Island_露西．蒙哥瑪麗__5446093_42f49b08afbd182219821fc7d8576b15.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 42f49b08afbd182219821fc7d8576b15

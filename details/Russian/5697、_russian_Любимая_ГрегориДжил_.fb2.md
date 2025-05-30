@@ -8,7 +8,7 @@
 5697、_russian_Любимая_Грегори Джил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8a76395d07060cf0266a2edf20f31e2

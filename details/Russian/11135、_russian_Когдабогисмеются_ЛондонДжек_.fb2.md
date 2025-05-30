@@ -8,7 +8,7 @@
 11135、_russian_Когда боги смеются_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2d933c7bf3610ef9ea0762c8a37c28b

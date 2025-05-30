@@ -8,7 +8,7 @@
 学会写作：自我进阶的高效方法_粥左罗 & huibixx.com__5538237_5a23340fffcf3054f03739924cf85ad5.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5a23340fffcf3054f03739924cf85ad5

@@ -8,7 +8,7 @@
 9743、_russian_БУПШ действует!_Сальников Юрий Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aee5d608aa3b1c076655530edda9b4c0

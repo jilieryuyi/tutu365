@@ -8,7 +8,7 @@
 5816、_russian_Работа по распределению_Шедогуб Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3cc0950d562e41e47c51734f954d34c

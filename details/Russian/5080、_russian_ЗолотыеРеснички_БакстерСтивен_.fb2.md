@@ -8,7 +8,7 @@
 5080、_russian_Золотые Реснички_Бакстер Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 922936cbbbbef7f504c2efbf5cf42592

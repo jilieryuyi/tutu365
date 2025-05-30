@@ -8,7 +8,7 @@
 6898、_russian_Мурманские отголоски_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4929a99c91863d2004aca8cd955eee6

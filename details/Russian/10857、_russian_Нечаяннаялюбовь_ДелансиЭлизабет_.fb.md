@@ -8,7 +8,7 @@
 10857、_russian_Нечаянная любовь_Деланси Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbe76de0956e87517fab480747524ea0

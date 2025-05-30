@@ -8,7 +8,7 @@
 1130、_russian_$амки_Анохин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d005c38505bc96d69a4c9a0ebc211c50

@@ -8,7 +8,7 @@
 15232、_english_The Lion's Lady_Julie Garwood_Pocket Star.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0d82c5c6a52d90838a578ce1bd7e4c26

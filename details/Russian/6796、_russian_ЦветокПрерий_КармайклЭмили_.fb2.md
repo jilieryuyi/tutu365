@@ -8,7 +8,7 @@
 6796、_russian_Цветок Прерий_Кармайкл Эмили_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a7227928abee21d65a66c466a957e2f

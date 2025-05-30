@@ -8,7 +8,7 @@
 5125、_russian_Война с бабаноландией_Запольских Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91dd892ed0b82f30bc7d19b8c4c82a3b

@@ -8,7 +8,7 @@
 7808、_russian_Все, что я знаю о войне_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cfe97bdc5e32a9cc55c8808ddd16bf0

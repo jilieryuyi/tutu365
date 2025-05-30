@@ -8,7 +8,7 @@
 313、对冲_SoBooKs.cc [美]阿莉森·施拉格 [[美]阿莉森·施拉格, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 74053798ba9e8b94e50ae35dbf4b0781

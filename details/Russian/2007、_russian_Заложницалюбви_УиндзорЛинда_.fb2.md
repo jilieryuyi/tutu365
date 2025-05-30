@@ -8,7 +8,7 @@
 2007、_russian_Заложница любви_Уиндзор Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 381d6f8ca2aef06d07325c91153cf33f

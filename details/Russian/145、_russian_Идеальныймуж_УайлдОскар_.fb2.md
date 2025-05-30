@@ -8,7 +8,7 @@
 145、_russian_Идеальный муж_Уайлд Оскар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d40bd9873f4b1f9d82781119c065413

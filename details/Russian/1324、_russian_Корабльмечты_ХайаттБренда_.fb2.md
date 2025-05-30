@@ -8,7 +8,7 @@
 1324、_russian_Корабль мечты_Хайатт Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7081f88305a67663d6291bb771dc0f80

@@ -8,7 +8,7 @@
 14181、_russian_Быстрый и мертвый_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 618a5ae1b7fc8bc4cb166454d8927685

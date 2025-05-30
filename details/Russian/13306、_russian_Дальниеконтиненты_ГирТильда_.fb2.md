@@ -8,7 +8,7 @@
 13306、_russian_Дальние континенты_Гир Тильда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 724c3ab012863ca6330cab1d7e709198

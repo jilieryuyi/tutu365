@@ -8,7 +8,7 @@
 7168、_ukrainian_В_нн_-Пух та його друз__М_лн Алан Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6db066b57e2b17e791b1522ee544461

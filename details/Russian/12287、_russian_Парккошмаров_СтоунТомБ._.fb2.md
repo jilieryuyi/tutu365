@@ -8,7 +8,7 @@
 12287、_russian_Парк кошмаров_Стоун Том Б._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29f4353e83a834479754e28a955b9823

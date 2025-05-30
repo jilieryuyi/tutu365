@@ -8,7 +8,7 @@
 3882、_russian_Баллада о встречном ветре (сборник)_Пищенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca4144b252f96ac23fa2b8323559acaf

@@ -8,7 +8,7 @@
 11296、_russian_Эти славные шестидесятые_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89645e24ce36e9b353ed3a816d9bcee2

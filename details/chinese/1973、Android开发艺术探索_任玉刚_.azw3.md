@@ -8,7 +8,7 @@
 1973、Android开发艺术探索_任玉刚_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 05f1d544f08fa76099bf947d68d5a3d3

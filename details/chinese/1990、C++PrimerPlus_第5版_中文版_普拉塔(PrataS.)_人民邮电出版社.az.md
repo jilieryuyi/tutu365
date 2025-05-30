@@ -8,7 +8,7 @@
 1990、C++Primer Plus_第5版_中文版_普拉塔 (Prata S.)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 61c18388c89edae4bb487b2d4eb38ec4

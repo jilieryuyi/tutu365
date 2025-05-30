@@ -8,7 +8,7 @@
 1188、迷茫的旅行商：一个无处不在的计算机算法问题_William J.Cook_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e257a47c1b45d7a9dde1f1ac743d0602

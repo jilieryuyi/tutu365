@@ -8,7 +8,7 @@
 11645、_russian_Племянник короля_Брандыс Мариан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca66e7d0bb4dcb67b13108370879610f

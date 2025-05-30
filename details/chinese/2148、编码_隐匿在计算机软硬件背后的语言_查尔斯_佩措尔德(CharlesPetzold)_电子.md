@@ -8,7 +8,7 @@
 2148、编码_隐匿在计算机软硬件背后的语言_查尔斯_佩措尔德 (Charles Petzold)_电子工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bf9974ce2cdd0fc5015bf6db7ea61398

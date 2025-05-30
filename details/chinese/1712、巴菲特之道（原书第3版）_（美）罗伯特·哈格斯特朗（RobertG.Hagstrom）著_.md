@@ -8,7 +8,7 @@
 1712、巴菲特之道（原书第3版）_（美）罗伯特·哈格斯特朗（Robert G. Hagstrom） 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 664fe920710e3f8408ce0f279883530a

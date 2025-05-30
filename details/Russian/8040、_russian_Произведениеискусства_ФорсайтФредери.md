@@ -8,7 +8,7 @@
 8040、_russian_Произведение искусства_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0e1b9fed4bf32c78a3519ed0dcf1fd4

@@ -8,7 +8,7 @@
 4518、_russian_Великосветский прием_Фэнтон Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb8137bb4d146eab1af57d0deb96892b

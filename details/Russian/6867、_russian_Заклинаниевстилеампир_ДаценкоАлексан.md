@@ -8,7 +8,7 @@
 6867、_russian_Заклинание в стиле ампир_Даценко Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c51dc3105e0a1241851d7de879de1f9

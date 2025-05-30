@@ -8,7 +8,7 @@
 8706、_russian_Тают снега_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a49a7d0ef30f5ac5ea7e05aec2a9d68

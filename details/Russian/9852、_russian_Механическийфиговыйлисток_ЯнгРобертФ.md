@@ -8,7 +8,7 @@
 9852、_russian_Механический фиговый листок_Янг Роберт Франклин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d104a1ed13c7e8b6d997e68f13d3af6

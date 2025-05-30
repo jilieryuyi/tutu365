@@ -8,7 +8,7 @@
 7142、_russian_Бабушкины оладушки_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2556bb70fbaf24c88cda24f58970f4e8

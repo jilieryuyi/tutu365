@@ -8,7 +8,7 @@
 6506、_russian_Juvenilia_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72b2efbc80009e9890232d75afebe3bf

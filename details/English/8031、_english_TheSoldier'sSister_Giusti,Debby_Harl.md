@@ -8,7 +8,7 @@
 8031、_english_The Soldier's Sister_Giusti, Debby_Harlequin Sales Corp.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 79a40d6799fa47b5317733f09dd63a58

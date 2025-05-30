@@ -8,7 +8,7 @@
 8033、_russian_Письмо президенту_Берг Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a5b3d2cdf1b51a677181043b146575e

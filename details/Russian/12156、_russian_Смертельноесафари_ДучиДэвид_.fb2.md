@@ -8,7 +8,7 @@
 12156、_russian_Смертельное сафари_Дучи Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84b0785697584c8d9a7b23a3bfefa371

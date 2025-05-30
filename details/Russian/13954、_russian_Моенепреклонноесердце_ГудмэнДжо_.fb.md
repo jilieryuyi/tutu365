@@ -8,7 +8,7 @@
 13954、_russian_Мое непреклонное сердце_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90e769467e85f70d6a25acbbd60bd259

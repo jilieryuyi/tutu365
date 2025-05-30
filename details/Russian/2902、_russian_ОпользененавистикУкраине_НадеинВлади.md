@@ -8,7 +8,7 @@
 2902、_russian_О пользе ненависти к Украине_Надеин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96b97be2861eeffadcdc0eb3d1982c92

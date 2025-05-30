@@ -8,7 +8,7 @@
 5366、_english_McQuail's Mass Communication Theory_Denis McQuail_Sage.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b219a9d4bd9a9a1bd0e849cce542218a

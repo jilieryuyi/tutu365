@@ -8,7 +8,7 @@
 3041、_russian__Лимберлост__Ле Гуин Урсула_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87ba8912921841f63528af9402b1c882

@@ -8,7 +8,7 @@
 12546、_russian_Подходящий муж_Стил Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0d5074a61aafbe1610b55107df9a183

@@ -8,7 +8,7 @@
 7829、_russian_Все, что нам дорого_Листфилд Эмили_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfe6967af2eb7c4659fa21255f682388

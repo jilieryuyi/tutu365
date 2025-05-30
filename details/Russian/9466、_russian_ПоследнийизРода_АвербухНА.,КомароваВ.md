@@ -8,7 +8,7 @@
 9466、_russian_Последний из Рода_Авербух Н А., Комарова В А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8831e2c688f5c8c11101db990ce39c9

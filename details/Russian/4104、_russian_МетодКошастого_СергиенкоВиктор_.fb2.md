@@ -8,7 +8,7 @@
 4104、_russian_Метод Кошастого_Сергиенко Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e27edc46ea9bf0e88e9ab0226464b56

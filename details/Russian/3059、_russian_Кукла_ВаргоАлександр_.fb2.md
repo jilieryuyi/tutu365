@@ -8,7 +8,7 @@
 3059、_russian_Кукла_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4beb6d568eac5d5d79fa2f09cbaed125

@@ -8,7 +8,7 @@
 12563、_russian_Леди на монете_Барнс Маргарет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60ad1d71a0af2cdb2171cdf402f5eb5a

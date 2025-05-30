@@ -8,7 +8,7 @@
 9965、_russian_АКАДЕМИЯ РОДНАЯ_Ломачинский Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14534ad5eb8d9e46b6c2f2c189b9e4ce

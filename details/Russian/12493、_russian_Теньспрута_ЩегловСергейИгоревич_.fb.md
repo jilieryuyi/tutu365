@@ -8,7 +8,7 @@
 12493、_russian_Тень спрута_Щеглов Сергей Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf774bb9901658934195a10d07cde45a

@@ -8,7 +8,7 @@
 7701、_russian_Пятница, тринадцатое_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 edf3acd2623cabd2bac02998b1430634

@@ -8,7 +8,7 @@
 12131、_russian_Вечный огонь страстей_Хесс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2421281ba60a4493b2b1f2d10e527e38

@@ -8,7 +8,7 @@
 14676、_russian_Эпидемия_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fd19de655ec1e10f08125d225efeaf4

@@ -8,7 +8,7 @@
 9355、_russian_Четыре года_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c14bf93db98669a50934d0ff49da592a

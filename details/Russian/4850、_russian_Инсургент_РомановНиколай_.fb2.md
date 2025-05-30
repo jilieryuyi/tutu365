@@ -8,7 +8,7 @@
 4850、_russian_Инсургент_Романов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e752dfaa95b33e81f1800cd860d09543

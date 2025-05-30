@@ -8,7 +8,7 @@
 16813、_english_Lady Emily's Exotic Journey_Lillian Marek_Sourcebooks, Inc.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e9cada105e648bd15af3a021c042a406

@@ -8,7 +8,7 @@
 8052、_russian_Принц Галлии_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f87326f3e6bd886be94f2281b51857a2

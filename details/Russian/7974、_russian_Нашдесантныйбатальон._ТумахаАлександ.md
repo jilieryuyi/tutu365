@@ -8,7 +8,7 @@
 7974、_russian_Наш десантный батальон._Тумаха Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e63fe969d26d306e59285c21734dd2a

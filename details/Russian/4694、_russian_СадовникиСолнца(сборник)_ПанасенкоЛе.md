@@ -8,7 +8,7 @@
 4694、_russian_Садовники Солнца (сборник)_Панасенко Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 49cea75f654f93e8cbdd2b4d12b4adf9

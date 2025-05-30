@@ -8,7 +8,7 @@
 4314、_russian_Альсим_Соловьев Всеволод Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90bb8541f8002c24b78b09fcad8f5727

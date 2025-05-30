@@ -8,7 +8,7 @@
 4270、_russian_Томление_Такахаси Такако_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9928a46b817684302360e36d34f172b3

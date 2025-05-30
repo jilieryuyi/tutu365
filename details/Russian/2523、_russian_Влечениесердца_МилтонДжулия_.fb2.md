@@ -8,7 +8,7 @@
 2523、_russian_Влечение сердца_Милтон Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e9a3f0f6d834868e50e7a65465ec4e2

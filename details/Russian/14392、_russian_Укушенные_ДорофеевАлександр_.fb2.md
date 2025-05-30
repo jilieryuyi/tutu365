@@ -8,7 +8,7 @@
 14392、_russian_Укушенные_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d5fb802c518fd7d13bc0557a1dece58

@@ -8,7 +8,7 @@
 10851、_russian_На болотной стежке_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d0ee144ba13e96a508f85715774d4f4

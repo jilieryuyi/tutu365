@@ -8,7 +8,7 @@
 7160、_russian_Все о виски_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2cf1b4ff10c7740fd1ee8cda9812b29

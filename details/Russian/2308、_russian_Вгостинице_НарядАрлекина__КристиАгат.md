@@ -8,7 +8,7 @@
 2308、_russian_В гостинице _Наряд Арлекина__Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7d1a59c2441833de740fa7be4f52240

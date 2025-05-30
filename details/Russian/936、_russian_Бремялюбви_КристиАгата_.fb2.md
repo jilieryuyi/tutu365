@@ -8,7 +8,7 @@
 936、_russian_Бремя любви_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 537a4a3ab50c21c01440dd392e4afd52

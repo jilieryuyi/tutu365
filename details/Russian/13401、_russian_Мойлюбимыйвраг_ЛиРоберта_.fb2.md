@@ -8,7 +8,7 @@
 13401、_russian_Мой любимый враг_Ли Роберта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12a1935cc1ead3bb1bbdb1e66177137e

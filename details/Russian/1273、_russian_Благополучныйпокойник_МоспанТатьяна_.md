@@ -8,7 +8,7 @@
 1273、_russian_Благополучный покойник_Моспан Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f65618cbcaf2e9218e517980046b9fe

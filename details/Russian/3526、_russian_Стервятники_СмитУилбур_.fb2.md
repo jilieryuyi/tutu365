@@ -8,7 +8,7 @@
 3526、_russian_Стервятники_Смит Уилбур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 067d7622df880c842ee8b3f98f76d138

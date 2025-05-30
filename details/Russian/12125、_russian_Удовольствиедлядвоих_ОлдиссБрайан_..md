@@ -8,7 +8,7 @@
 12125、_russian_Удовольствие для двоих_Олдисс Брайан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 059d4c87353ec7fe401198f57164edfe

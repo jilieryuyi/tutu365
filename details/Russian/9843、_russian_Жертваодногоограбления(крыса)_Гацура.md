@@ -8,7 +8,7 @@
 9843、_russian_Жертва одного ограбления (крыса)_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 225ff19324a444e50d2388da5fd55b0e

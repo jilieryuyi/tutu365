@@ -8,7 +8,7 @@
 539、_russian_Бунтарка_Макголдрик Мэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e976309ed58e1352e38f5537f5f6e2d

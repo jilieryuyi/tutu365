@@ -8,7 +8,7 @@
 13、_russian_Старик и кошка_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57353afd3912a963be55960963cde1c4

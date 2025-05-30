@@ -8,7 +8,7 @@
 14484、_russian_Суженый к Рождеству_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 370ac970fbdb1af0090e360f300bf0d3

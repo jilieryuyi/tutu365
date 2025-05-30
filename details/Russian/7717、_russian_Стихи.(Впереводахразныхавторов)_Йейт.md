@@ -8,7 +8,7 @@
 7717、_russian_Стихи. (В переводах разных авторов)_Йейтс Уильям Батлер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55b919023df3d1af01c6cd9fc02cadf4

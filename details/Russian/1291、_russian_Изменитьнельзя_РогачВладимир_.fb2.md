@@ -8,7 +8,7 @@
 1291、_russian_Изменить нельзя_Рогач Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8603f620e8ba51539544fd68b48bb2d

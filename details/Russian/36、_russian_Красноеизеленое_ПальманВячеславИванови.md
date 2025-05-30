@@ -8,7 +8,7 @@
 36、_russian_Красное и зеленое_Пальман Вячеслав Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0dfdf5e9fd400c2c99c124e168f3eb0d

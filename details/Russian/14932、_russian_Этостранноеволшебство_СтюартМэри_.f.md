@@ -8,7 +8,7 @@
 14932、_russian_Это странное волшебство_Стюарт Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0a9ce240589e6394f25630a5a2740cd

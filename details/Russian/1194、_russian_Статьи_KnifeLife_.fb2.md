@@ -8,7 +8,7 @@
 1194、_russian_Статьи_KnifeLife_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 059bdb19e1cfbf17ba4aa04bb2711344

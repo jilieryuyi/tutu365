@@ -8,7 +8,7 @@
 907、_russian_Как мы писали рассказ_Джером Джером Клапка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 161db37aaac1b9216eb222ade1cbec92

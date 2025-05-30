@@ -8,7 +8,7 @@
 1539、_russian_Устранители_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff7ded1c648a205d9dbe4d09459d5bed

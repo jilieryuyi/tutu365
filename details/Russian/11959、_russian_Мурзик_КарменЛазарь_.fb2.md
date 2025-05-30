@@ -8,7 +8,7 @@
 11959、_russian_Мурзик_Кармен Лазарь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 106d66b4d0952032a23918f78f5465dd

@@ -8,7 +8,7 @@
 7461、_russian_Убийство Михоэлса_Левашов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b89d413d2127a917e1449a0972534bd

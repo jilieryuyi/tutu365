@@ -8,7 +8,7 @@
 8802、_russian_Девственная земля_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1fb31e7dc506770089c019e97cf2830

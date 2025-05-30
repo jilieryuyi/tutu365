@@ -8,7 +8,7 @@
 12413、_russian__Золотое руно__Бонч-Осмоловская Марина Андреевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3405ca7c609b58750bce3b6a03c0ee7

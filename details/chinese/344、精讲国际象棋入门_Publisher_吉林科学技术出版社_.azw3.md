@@ -8,7 +8,7 @@
 344、精讲国际象棋入门_Publisher           _ 吉林科学技术出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 04c6930b06bf751dfc53f0468025671d

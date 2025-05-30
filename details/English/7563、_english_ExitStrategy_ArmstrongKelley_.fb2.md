@@ -8,7 +8,7 @@
 7563、_english_Exit Strategy_Armstrong Kelley_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3a5ca49f34a24929f41f05a669fdb3d0

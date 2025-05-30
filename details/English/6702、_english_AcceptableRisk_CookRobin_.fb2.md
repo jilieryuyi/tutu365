@@ -8,7 +8,7 @@
 6702、_english_Acceptable Risk_Cook Robin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3c50ad6524a578a3612bd154633c6bdd

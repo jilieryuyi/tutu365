@@ -8,7 +8,7 @@
 14586、_russian_Герои_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8008053cce2da26be72b76a5fc69b0f6

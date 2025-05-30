@@ -8,7 +8,7 @@
 4545、_russian_Заколдованная луна_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21ea4cd6fe5ef0385123f8bf8c9faa01

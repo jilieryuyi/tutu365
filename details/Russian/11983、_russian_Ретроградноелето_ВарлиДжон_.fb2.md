@@ -8,7 +8,7 @@
 11983、_russian_Ретроградное лето_Варли Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abb6c8c6cd7910413f1f1d357babb279

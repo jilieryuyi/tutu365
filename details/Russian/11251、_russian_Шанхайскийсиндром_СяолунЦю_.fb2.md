@@ -8,7 +8,7 @@
 11251、_russian_Шанхайский синдром_Сяолун Цю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3f74810ac30e8c5940831589f632736

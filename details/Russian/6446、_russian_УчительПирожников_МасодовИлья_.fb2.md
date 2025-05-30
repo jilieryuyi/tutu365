@@ -8,7 +8,7 @@
 6446、_russian_Учитель Пирожников_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 960a7949c8905ca8881ceded119ee97c

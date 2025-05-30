@@ -8,7 +8,7 @@
 11389、_russian_Расплата_Джексон Лиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 347b8ab4db2af324022c88d5d8dc08b6

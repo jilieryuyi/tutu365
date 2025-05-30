@@ -8,7 +8,7 @@
 10269、_russian_Белые звезды_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11145472b401458a79c75e7f7f79e8d3

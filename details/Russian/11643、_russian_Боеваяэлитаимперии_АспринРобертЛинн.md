@@ -8,7 +8,7 @@
 11643、_russian_Боевая элита империи_Асприн Роберт Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d599df2125d617f550b35006f1a9559

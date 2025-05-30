@@ -8,7 +8,7 @@
 13291、_russian_Остров_Лаймон Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 851efe95076d7b6099c554000721fadd

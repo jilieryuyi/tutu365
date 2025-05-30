@@ -8,7 +8,7 @@
 声色野记_SoBooKs.cc 侯磊 [侯磊, SoBooKs.cc]__5538424_fcd4e7ea33bf29c79ae313bc454b32c7.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fcd4e7ea33bf29c79ae313bc454b32c7

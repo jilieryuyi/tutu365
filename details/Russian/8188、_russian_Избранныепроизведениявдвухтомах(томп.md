@@ -8,7 +8,7 @@
 8188、_russian_Избранные произведения в двух томах (том первый)_Андронников Ираклий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68db26d215bad4add1657bfbd2fa370f

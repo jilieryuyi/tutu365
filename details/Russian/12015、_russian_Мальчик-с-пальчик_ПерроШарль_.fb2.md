@@ -8,7 +8,7 @@
 12015、_russian_Мальчик-с-пальчик_Перро Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 939a29b84a4f82d03131498eaaa11528

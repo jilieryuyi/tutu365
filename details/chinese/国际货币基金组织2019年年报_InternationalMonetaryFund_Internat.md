@@ -8,7 +8,7 @@
 国际货币基金组织2019年年报_International Monetary Fund_International Monetary Fund_5452876_037c5f4b925fd2685eeb1a67fb224abf.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 037c5f4b925fd2685eeb1a67fb224abf

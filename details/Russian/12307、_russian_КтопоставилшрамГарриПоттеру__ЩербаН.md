@@ -8,7 +8,7 @@
 12307、_russian_Кто поставил шрам Гарри Поттеру__Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3162c71b4cffe7f9c2fa308c99e762f2

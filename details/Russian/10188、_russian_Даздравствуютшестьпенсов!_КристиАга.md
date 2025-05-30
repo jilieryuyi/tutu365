@@ -8,7 +8,7 @@
 10188、_russian_Да здравствуют шесть пенсов!_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab497f107afd3220b28bd3bdffeaa65f

@@ -8,7 +8,7 @@
 424、_russian_Последний бой адмирала Керченского_Клубков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2eb85d6686e4ceda479ec66ef8d8cd4

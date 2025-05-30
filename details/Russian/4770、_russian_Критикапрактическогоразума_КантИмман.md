@@ -8,7 +8,7 @@
 4770、_russian_Критика практического разума_Кант Иммануил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2a00da900301741e823a1655ae3e041

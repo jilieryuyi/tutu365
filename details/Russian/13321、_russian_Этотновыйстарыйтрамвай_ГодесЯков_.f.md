@@ -8,7 +8,7 @@
 13321、_russian_Этот новый старый трамвай_Годес Яков_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 712f59ffbc09e2f2adec17daa498ed09

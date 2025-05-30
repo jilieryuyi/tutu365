@@ -8,7 +8,7 @@
 698、_russian_Белый охотник_Амфитеатров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31458ea5b3e23f86ded5b07215993e85

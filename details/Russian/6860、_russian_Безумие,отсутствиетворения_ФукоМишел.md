@@ -8,7 +8,7 @@
 6860、_russian_Безумие, отсутствие творения_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95a42ead8c766a6d0675b6bdb4cdbb75

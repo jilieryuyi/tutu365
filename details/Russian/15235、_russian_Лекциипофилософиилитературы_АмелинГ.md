@@ -8,7 +8,7 @@
 15235、_russian_Лекции по философии литературы_Амелин Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b76fd22dd52eb2ce7210d7204e5e932

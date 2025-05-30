@@ -8,7 +8,7 @@
 14019、_russian_Проснуться живым_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3dbb7d84f825904d37a15701df8b5db

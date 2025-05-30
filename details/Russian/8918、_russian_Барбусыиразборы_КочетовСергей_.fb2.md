@@ -8,7 +8,7 @@
 8918、_russian_Барбусы и разборы_Кочетов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 055ba7e8a56706c1d43bd14d14a6ca88

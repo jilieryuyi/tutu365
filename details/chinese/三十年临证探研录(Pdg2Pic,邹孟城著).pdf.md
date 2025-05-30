@@ -8,7 +8,7 @@
 三十年临证探研录 (Pdg2Pic, 邹孟城著).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e04a3363a5d749ac3c42380fee460f2c

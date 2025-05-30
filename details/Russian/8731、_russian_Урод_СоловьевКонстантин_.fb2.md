@@ -8,7 +8,7 @@
 8731、_russian_Урод_Соловьев Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b80711eb06410af531036129f6a99bb3

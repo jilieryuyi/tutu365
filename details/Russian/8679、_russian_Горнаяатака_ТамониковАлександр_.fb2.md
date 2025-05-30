@@ -8,7 +8,7 @@
 8679、_russian_Горная атака_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce4530adff5f410e10cb3fb77532831f

@@ -8,7 +8,7 @@
 6151、_russian_Бегом к алтарю_Линц Кэти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07bbcacc502e8270ec5f8278a7c8e3d5

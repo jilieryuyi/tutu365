@@ -8,7 +8,7 @@
 10123、_russian_Конец света_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e387b01bed87acbd7a43e1d0d8cc294

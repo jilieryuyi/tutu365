@@ -8,7 +8,7 @@
 5575、_english_Dark Rider_Johansen Iris_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c78fac88e6972ce78f711e19759afe6d

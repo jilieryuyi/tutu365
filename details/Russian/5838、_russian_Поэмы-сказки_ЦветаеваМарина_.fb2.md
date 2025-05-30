@@ -8,7 +8,7 @@
 5838、_russian_Поэмы-сказки_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 221f97cb47e87697855d3a232ae57776

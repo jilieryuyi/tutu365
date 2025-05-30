@@ -8,7 +8,7 @@
 14669、_russian_Венок из звёзд (сборник)_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b851bd997246d2471b78d0cea1b6e208

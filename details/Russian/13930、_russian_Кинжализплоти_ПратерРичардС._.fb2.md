@@ -8,7 +8,7 @@
 13930、_russian_Кинжал из плоти_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c48baeb911021befd10273e390029ddf

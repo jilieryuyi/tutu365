@@ -8,7 +8,7 @@
 4439、_russian_Туз_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7aa07df90a776ab6ea07029b313b3ec

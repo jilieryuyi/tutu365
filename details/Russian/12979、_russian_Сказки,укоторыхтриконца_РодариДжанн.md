@@ -8,7 +8,7 @@
 12979、_russian_Сказки, у которых три конца_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81b72101c34a08c7aa45ad8386d11d05

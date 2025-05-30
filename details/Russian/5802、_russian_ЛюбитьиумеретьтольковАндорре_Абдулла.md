@@ -8,7 +8,7 @@
 5802、_russian_Любить и умереть только в Андорре_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88be9c1260aeb56c6f37036e0c6f5e09

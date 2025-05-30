@@ -8,7 +8,7 @@
 1519、_russian_На зависть королеве_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b49070db85332df5c5cdc663921ebb88

@@ -8,7 +8,7 @@
 10284、_russian_Леди-цыганка_Басби Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7820139d496258c7d16ecec050465b6e

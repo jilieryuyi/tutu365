@@ -8,7 +8,7 @@
 5578、_russian_От диктатуры к демократии_Шарп Джин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43e0826a5b94ea33766a992da9c17fc8

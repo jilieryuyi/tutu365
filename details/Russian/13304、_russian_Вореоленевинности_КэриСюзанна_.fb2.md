@@ -8,7 +8,7 @@
 13304、_russian_В ореоле невинности_Кэри Сюзанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a9b5b2fc52531de6128bbf033c2adee

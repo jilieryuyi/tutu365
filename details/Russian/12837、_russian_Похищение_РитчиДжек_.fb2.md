@@ -8,7 +8,7 @@
 12837、_russian_Похищение_Ритчи Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f54b9e72192b2f7969ea48f166f10a28

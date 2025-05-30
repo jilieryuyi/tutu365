@@ -8,7 +8,7 @@
 11056、_russian_Жизнь и труды Спинозы_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a18a6407126b06cf134afb6dcc1c317b

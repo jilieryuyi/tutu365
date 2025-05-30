@@ -8,7 +8,7 @@
 3263、_russian_Малыш и Грубиян_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7501098538c137beb201b2344b15ad2

@@ -8,7 +8,7 @@
 12665、_russian_Талисман любви_Райс Луанн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 003d8e467c9c54ba86fd34460f3c61c8

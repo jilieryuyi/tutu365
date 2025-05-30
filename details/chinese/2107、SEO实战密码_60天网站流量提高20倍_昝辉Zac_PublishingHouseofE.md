@@ -8,7 +8,7 @@
 2107、SEO实战密码_60天网站流量提高20倍_昝辉Zac_Publishing House of Electronics Industry.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 21ebb5113143fbc54a38c4c2735ad04b

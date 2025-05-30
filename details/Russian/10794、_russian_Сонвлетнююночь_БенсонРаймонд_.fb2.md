@@ -8,7 +8,7 @@
 10794、_russian_Сон в летнюю ночь_Бенсон Раймонд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 417659d2a45934e55e91505ec194c78a

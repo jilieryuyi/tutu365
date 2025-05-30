@@ -8,7 +8,7 @@
 11864、_russian_Моя до полуночи_Клейпас Лиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e508653d3ec91d698cfc4d3cac565fb0

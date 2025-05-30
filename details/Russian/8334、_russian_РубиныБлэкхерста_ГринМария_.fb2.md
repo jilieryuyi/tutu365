@@ -8,7 +8,7 @@
 8334、_russian_Рубины Блэкхерста_Грин Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f742a2e132325af9daae9d33d7f2b33

@@ -8,7 +8,7 @@
 972、_russian_Чертополох и роза_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5dbbb8ef5225066b938c780e2c48a8d

@@ -8,7 +8,7 @@
 422、_russian_Колдун_Клубков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10f06f7c9038347e597e14b6bdcd0110

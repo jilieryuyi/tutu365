@@ -8,7 +8,7 @@
 2104、_russian_Приложение к фотоальбому_Отрошенко Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e0cd00064dfe7f0e8a319e37d24c3d2

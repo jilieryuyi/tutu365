@@ -8,7 +8,7 @@
 7194、_russian_Лейбниц за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0ffd8ea8452bfc15f2a3dee7ed8d9ea

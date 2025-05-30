@@ -8,7 +8,7 @@
 5138、_russian_Тяжелые дни_Островский. Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 190c8905c538ef75ebb12cf0876d56be

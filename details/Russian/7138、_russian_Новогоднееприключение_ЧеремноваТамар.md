@@ -8,7 +8,7 @@
 7138、_russian_Новогоднее приключение_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 979cbbb55477f50482ffc92d883efee3

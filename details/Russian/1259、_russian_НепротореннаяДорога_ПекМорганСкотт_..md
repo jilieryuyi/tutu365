@@ -8,7 +8,7 @@
 1259、_russian_Непроторенная Дорога_Пек Морган Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8d624d126ffd4d3dd3bc200b3a41417

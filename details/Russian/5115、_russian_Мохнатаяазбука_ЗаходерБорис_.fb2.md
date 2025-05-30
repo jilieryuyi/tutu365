@@ -8,7 +8,7 @@
 5115、_russian_Мохнатая азбука_Заходер Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 966bff229d83c6e7718a4671545da8a5

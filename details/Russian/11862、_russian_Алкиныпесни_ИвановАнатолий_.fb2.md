@@ -8,7 +8,7 @@
 11862、_russian_Алкины песни_Иванов Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ef777a37b42647fb66dd52d7effa67b

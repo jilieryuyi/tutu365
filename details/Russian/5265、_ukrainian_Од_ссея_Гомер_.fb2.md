@@ -8,7 +8,7 @@
 5265、_ukrainian_Од_ссея_Гомер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fae94f2eca886d69dd358c5068686bb

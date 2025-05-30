@@ -8,7 +8,7 @@
 9839、_russian_Дрозд_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c610e2fb16c9556897e61517e66d7fef

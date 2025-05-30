@@ -8,7 +8,7 @@
 1701、不懂带人，你就自己干到死：把身边的庸才变干将_路易斯·卡夫曼（Louis Cauffman）_印刷工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 274fb49f6e4b8c5d45bd4679dfdb31a6

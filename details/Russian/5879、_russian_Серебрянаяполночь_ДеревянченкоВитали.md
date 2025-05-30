@@ -8,7 +8,7 @@
 5879、_russian_Серебряная полночь_Деревянченко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4decd429a1b2d0eb498db00a0dab3458

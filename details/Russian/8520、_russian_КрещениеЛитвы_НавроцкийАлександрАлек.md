@@ -8,7 +8,7 @@
 8520、_russian_Крещение Литвы_Навроцкий Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94dff1ad4c9ef14c8309a1eec0dcc8a3

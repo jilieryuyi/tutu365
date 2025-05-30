@@ -8,7 +8,7 @@
 2442、_russian_Чувство долга (Планета проклятых)_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f49327f98e7a3cf23bbd0205cb005dc4

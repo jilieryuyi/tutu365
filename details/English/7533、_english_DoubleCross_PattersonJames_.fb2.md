@@ -8,7 +8,7 @@
 7533、_english_Double Cross_Patterson James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9db9575a3aafd3f0f6abfbdf744716a3

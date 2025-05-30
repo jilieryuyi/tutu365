@@ -8,7 +8,7 @@
 12578、_russian_Сегодня, мама!_Буркин Юлий, Лукьяненко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fc2bb6e9936625e6c61e709e5ea1f9c

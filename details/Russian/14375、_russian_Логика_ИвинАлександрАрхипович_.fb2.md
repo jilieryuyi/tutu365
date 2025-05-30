@@ -8,7 +8,7 @@
 14375、_russian_Логика_Ивин Александр Архипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71519c55bd0301e27fa76b430dc2d6b7

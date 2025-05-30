@@ -8,7 +8,7 @@
 8681、_russian_Гнев ликвидатора_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8869458e3a53543f278ac9fd5bf8d53

@@ -8,7 +8,7 @@
 2314、_english_Brogan's Promise_Suzan Tisdale_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5dfb06500d2ddab679729ca0c7c60d4a

@@ -8,7 +8,7 @@
 7353、_russian_Золотые яблоки солнца (The Golden Apples of the Sun), 1953_Бредбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a547dbf0db5881262e18267f046c8b8a

@@ -8,7 +8,7 @@
 1201、金雀花王朝_jones_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c352ed85d5b5a24e051cb07a92a45b0e

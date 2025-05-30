@@ -8,7 +8,7 @@
 15138、_russian_Баллада о несчастной Си-мелл_Смит Кордвайнер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75ab786c6aabd324225406a7f880ec02

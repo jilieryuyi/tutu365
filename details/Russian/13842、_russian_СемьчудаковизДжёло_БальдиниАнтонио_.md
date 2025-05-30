@@ -8,7 +8,7 @@
 13842、_russian_Семь чудаков из Джёло_Бальдини Антонио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b26ebff804e80e0f4f7faeb9aadb92c

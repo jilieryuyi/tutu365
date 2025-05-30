@@ -8,7 +8,7 @@
 5720、_russian_Сила безмолвия_Минделл Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a24bf5f02bb0224b72d7aa393f9520a3

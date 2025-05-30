@@ -8,7 +8,7 @@
 12920、_english_The Baron's Quest_Elizabeth Rose_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 eac6fa80e7ab09529c38034c08b79760

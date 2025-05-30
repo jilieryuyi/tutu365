@@ -8,7 +8,7 @@
 11774、_russian_Дьявольская альтернатива_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e625b4aa4cee58cdef00dca813b3b26f

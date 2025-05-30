@@ -8,7 +8,7 @@
 6206、_russian_Неделя из жизни Дорес_Муравьева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9adf770d982c298993cbe6aa0c0594a

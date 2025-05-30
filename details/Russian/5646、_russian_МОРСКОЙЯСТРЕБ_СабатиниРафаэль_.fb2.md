@@ -8,7 +8,7 @@
 5646、_russian_МОРСКОЙ ЯСТРЕБ_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3deeab5b549b2692bd494b46240cf5a8

@@ -8,7 +8,7 @@
 15226、_russian_Смерть в чужой стране_Леон Донна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebd464ac0da9824241599cfb088caebf

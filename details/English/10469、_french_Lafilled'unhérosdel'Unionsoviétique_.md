@@ -8,7 +8,7 @@
 10469、_french_La fille d'un héros de l'Union soviétique_Makine Andre__.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b3ae6839d3c897c9f339c95003ae50e1

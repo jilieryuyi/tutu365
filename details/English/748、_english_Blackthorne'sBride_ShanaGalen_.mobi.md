@@ -8,7 +8,7 @@
 748、_english_Blackthorne's Bride_Shana Galen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7404d8fc18f86c982ca59641d9d85f28

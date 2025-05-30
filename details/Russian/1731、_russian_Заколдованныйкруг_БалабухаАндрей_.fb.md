@@ -8,7 +8,7 @@
 1731、_russian_Заколдованный круг_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbc9f2b73d78fb46f6faef484efc2ab4

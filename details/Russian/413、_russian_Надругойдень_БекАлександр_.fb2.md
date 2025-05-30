@@ -8,7 +8,7 @@
 413、_russian_На другой день_Бек Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f8c55eae3c2533ff3b867e8b2fbdd9c

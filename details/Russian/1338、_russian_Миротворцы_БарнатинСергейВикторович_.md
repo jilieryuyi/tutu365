@@ -8,7 +8,7 @@
 1338、_russian_Миротворцы_Барнатин Сергей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43a8adbc85f2b50df41ee99ff49a6af9

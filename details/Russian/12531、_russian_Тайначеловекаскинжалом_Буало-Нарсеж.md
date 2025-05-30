@@ -8,7 +8,7 @@
 12531、_russian_Тайна человека с кинжалом_Буало-Нарсежак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bad82c0b25c97ab010ebb8d16bc3004c

@@ -8,7 +8,7 @@
 2646、_russian_Роза для киборга_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ad74160b9a87b415b9b25130826badc

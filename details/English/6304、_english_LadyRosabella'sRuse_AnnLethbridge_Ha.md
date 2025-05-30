@@ -8,7 +8,7 @@
 6304、_english_Lady Rosabella's Ruse_Ann Lethbridge_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 947342d191b2a5831a078fef7054b20c

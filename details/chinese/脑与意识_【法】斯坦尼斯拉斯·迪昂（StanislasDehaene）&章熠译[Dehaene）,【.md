@@ -8,7 +8,7 @@
 脑与意识_【法】斯坦尼斯拉斯·迪昂（Stanislas Dehaene） & 章熠译 [Dehaene）, 【法】斯坦尼斯拉斯·迪昂（Stanislas & 章熠译]__5294591_3cf6a5bf25c3a01b7040f0ab722219ba.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3cf6a5bf25c3a01b7040f0ab722219ba

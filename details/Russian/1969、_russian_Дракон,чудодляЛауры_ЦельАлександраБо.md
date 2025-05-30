@@ -8,7 +8,7 @@
 1969、_russian_Дракон, чудо для Лауры_Цель Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eaf70c6a097674a490adf69b4eb5bad1

@@ -8,7 +8,7 @@
 594、_russian_Теледжиннсовщина_Мансуров Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5cb0579c2f8edaffc2a2c9ee13e9b54

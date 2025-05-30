@@ -8,7 +8,7 @@
 后物欲时代的来临_郑也夫, ePUBw.COM [未知]__5287978_ba9f7b033a403dca43008cd7987a5a26.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ba9f7b033a403dca43008cd7987a5a26

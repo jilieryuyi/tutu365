@@ -8,7 +8,7 @@
 2456、_russian_О космолетах_Феоктистов Константин, Бубнов Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc2a276dfd12fcb8ea6b476c9d606f7e

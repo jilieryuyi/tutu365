@@ -8,7 +8,7 @@
 14141、_ukrainian_Майже н_коли не навпаки_Мат_ос Мар_я_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e894d5bb8ad27e8029cf4b4d5ba765a

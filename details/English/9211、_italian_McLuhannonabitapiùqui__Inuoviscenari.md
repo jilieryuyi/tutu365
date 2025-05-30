@@ -8,7 +8,7 @@
 9211、_italian_McLuhan non abita più qui__ I nuovi scenari della comunicazione nell'era della costante attenzione parziale_Alberto Contri_Bollati Boringhieri.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 faf18266b7e7ba8315bb66adde8d271a

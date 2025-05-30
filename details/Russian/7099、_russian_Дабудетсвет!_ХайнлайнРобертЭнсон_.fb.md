@@ -8,7 +8,7 @@
 7099、_russian_Да будет свет!_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d07ef1cc8a737b301228c144b699c844

@@ -8,7 +8,7 @@
 4289、_russian_Дружелюбный человек_Диксон Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98ae3aa8f812e2a27525c4ec8e2d34da

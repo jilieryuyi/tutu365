@@ -8,7 +8,7 @@
 2162、程序员修炼之道_Josh Carter_机械工业出版社华章公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 660835806cf393c24375264017332764

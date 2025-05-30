@@ -8,7 +8,7 @@
 2261、社交网站界面设计_克拉姆利什(Christian Crumlish)_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 353cb8f07bf862d24405d2d6d8770b3e

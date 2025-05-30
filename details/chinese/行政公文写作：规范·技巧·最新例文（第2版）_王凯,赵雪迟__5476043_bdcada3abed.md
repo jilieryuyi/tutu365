@@ -8,7 +8,7 @@
 行政公文写作：规范·技巧·最新例文（第2版）_王凯, 赵雪迟__5476043_bdcada3abed257ed6c551275dc6de22d.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bdcada3abed257ed6c551275dc6de22d

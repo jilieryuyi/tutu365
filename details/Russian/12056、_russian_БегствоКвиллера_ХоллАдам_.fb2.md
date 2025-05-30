@@ -8,7 +8,7 @@
 12056、_russian_Бегство Квиллера_Холл Адам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4270d8d7bd013b743d2b7b81e8d22c37

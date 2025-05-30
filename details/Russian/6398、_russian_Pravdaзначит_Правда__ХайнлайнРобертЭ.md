@@ -8,7 +8,7 @@
 6398、_russian_Pravda значит _Правда__Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28d55372b9b45f04a85e58406f9167f1

@@ -8,7 +8,7 @@
 2083、_russian_Инсайдер_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fdf6f0db5ab44e0a7df2eaa7d5ac322

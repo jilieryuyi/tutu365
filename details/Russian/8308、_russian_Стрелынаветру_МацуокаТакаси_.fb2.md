@@ -8,7 +8,7 @@
 8308、_russian_Стрелы на ветру_Мацуока Такаси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c40579f78587e49e963e6942d16d8b0

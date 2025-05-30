@@ -8,7 +8,7 @@
 12760、_russian_Пес с ушами-крыльями_Врочек Шимун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b575add0efc7bcaff74c72d9f54a2cb

@@ -8,7 +8,7 @@
 11231、_russian_Улыбка любви_Лестер Джулиус_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07e24c27f742b8526d24491efbe3b05f

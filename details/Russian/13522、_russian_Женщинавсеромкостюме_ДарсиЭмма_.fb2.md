@@ -8,7 +8,7 @@
 13522、_russian_Женщина в сером костюме_Дарси Эмма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42ecef86e24e942430671425eff64d58

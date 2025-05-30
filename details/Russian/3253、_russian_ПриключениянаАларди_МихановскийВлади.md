@@ -8,7 +8,7 @@
 3253、_russian_Приключения на Аларди_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6bfd92359d9fa2d2205e4993c87c133

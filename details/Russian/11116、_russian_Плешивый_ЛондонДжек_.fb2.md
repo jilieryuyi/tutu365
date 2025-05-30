@@ -8,7 +8,7 @@
 11116、_russian_Плешивый_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f507ef5b086cf7d49def80b37da1b8bf

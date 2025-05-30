@@ -8,7 +8,7 @@
 2227、_russian_Тайна регаты_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a610b88208dc37246c01263cbc18094

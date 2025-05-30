@@ -8,7 +8,7 @@
 3836、_ukrainian_Овс_й_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ae8a06486d5a578666994612ab98453

@@ -8,7 +8,7 @@
 2501、_russian_Мой Михаэль_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2188ba64874522fee5786f17ba0c97b7

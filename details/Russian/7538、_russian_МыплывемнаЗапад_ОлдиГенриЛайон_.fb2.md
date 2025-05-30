@@ -8,7 +8,7 @@
 7538、_russian_Мы плывем на Запад_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83ae10f7f6a9907352fcf42fb8f7e320

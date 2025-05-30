@@ -8,7 +8,7 @@
 12652、_russian_Мясная лавка в Раю_Хэвок Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b7cf79a90a9a119b828dbea284ba04d

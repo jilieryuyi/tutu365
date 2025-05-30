@@ -8,7 +8,7 @@
 13389、_russian_Требуется неприятель_Лейбер Фриц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97fcb5037f2631a13e2db21fcb35a025

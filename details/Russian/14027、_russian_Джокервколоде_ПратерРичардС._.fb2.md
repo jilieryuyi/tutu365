@@ -8,7 +8,7 @@
 14027、_russian_Джокер в колоде_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52b2f143f33fa9f7bb132afb7e9d2d79

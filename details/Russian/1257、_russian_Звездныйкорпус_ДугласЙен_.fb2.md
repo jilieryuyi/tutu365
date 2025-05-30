@@ -8,7 +8,7 @@
 1257、_russian_Звездный корпус_Дуглас Йен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 193b50b51a03ad7f6e1f48a1ed1e8829

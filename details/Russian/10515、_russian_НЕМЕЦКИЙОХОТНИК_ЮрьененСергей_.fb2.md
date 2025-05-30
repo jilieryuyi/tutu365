@@ -8,7 +8,7 @@
 10515、_russian_НЕМЕЦКИЙ ОХОТНИК_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 130d24ad1584c959c23c65f563f3f33f

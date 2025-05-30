@@ -8,7 +8,7 @@
 10612、_russian_Тень Земли_Сыченко Игорь Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57f68ddb121bdb8c7699080c22be474d

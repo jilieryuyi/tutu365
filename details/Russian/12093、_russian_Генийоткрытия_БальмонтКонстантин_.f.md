@@ -8,7 +8,7 @@
 12093、_russian_Гений открытия_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9b3e65f3bbb1543125d4fa8c821389e

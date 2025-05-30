@@ -8,7 +8,7 @@
 2066、_russian_Сила слова_Пронин Виктор Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9dffd876a82ec7a4f9a93df797aa5836

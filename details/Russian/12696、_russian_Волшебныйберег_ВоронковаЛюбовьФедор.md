@@ -8,7 +8,7 @@
 12696、_russian_Волшебный берег_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4723ca94f6cb2c6a372ac8f3f19aedce

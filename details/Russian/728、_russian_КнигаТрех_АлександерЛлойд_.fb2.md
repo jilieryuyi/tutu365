@@ -8,7 +8,7 @@
 728、_russian_Книга Трех_Александер Ллойд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2d1adae2bb7d074f5231418a09c0ba1

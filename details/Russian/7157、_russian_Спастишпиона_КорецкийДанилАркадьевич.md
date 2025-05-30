@@ -8,7 +8,7 @@
 7157、_russian_Спасти шпиона_Корецкий Данил Аркадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 971f8e666fd9192cd0daa71b47fc5c07

@@ -8,7 +8,7 @@
 4740、_russian_Денарий кесаря_Дроздов Анатолий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 259f2b51e38dc1939e9307d09cf00193

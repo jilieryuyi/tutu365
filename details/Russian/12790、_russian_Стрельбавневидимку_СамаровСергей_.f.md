@@ -8,7 +8,7 @@
 12790、_russian_Стрельба в невидимку_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32bd229d2b07420300893c43bb599586

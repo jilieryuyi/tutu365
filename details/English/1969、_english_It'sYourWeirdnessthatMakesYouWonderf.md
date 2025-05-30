@@ -8,7 +8,7 @@
 1969、_english_It's Your Weirdness that Makes You Wonderful_Kate Allan [Allan, Kate]_Mango Media.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e27c26766f87bd279b130349fe8977fc

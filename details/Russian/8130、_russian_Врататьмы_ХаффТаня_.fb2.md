@@ -8,7 +8,7 @@
 8130、_russian_Врата тьмы_Хафф Таня_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89d9023728374227a18ff870de659950

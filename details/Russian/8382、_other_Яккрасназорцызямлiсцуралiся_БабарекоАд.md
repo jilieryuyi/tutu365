@@ -8,7 +8,7 @@
 8382、_other_Як красназорцы зямлi сцуралiся_Бабареко Адам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44c558af7fe113ce49badf65bcf7c3ae

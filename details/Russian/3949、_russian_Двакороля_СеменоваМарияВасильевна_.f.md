@@ -8,7 +8,7 @@
 3949、_russian_Два короля_Семенова Мария Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3d4ad3f02308a538fba94f61884ea67

@@ -8,7 +8,7 @@
 7858、_russian_Нам тоже нужны чудовища_Астахов Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 787492d3bc99e661f7472bbb26340037

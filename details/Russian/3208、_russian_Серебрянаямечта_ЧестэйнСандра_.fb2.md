@@ -8,7 +8,7 @@
 3208、_russian_Серебряная мечта_Честэйн Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77e035291c6808cd7d40f9712a03a140

@@ -8,7 +8,7 @@
 12247、_russian_Жюль Верн_Борисов Леонид Ильич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fee648a0d832cf6fbf64a29ddb021db2

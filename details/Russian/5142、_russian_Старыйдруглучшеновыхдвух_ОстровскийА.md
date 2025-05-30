@@ -8,7 +8,7 @@
 5142、_russian_Старый друг лучше новых двух_Островский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec5134999f8c31e2f51add5ea9c1847f

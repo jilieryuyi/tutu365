@@ -8,7 +8,7 @@
 天空的孩子（The Children of the Sky）_弗诺·文奇__5475971_892c0fc2cf8ba89e0c7b8807b5d464b1.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 892c0fc2cf8ba89e0c7b8807b5d464b1

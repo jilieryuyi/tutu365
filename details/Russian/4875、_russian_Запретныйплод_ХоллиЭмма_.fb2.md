@@ -8,7 +8,7 @@
 4875、_russian_Запретный плод_Холли Эмма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 810fbf5afc13f2a173b09d6a53edac0f

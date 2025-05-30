@@ -8,7 +8,7 @@
 12997、_russian_Голубая сойка Заратустры_Ян Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6961aef263557cc2273849958834ebc9

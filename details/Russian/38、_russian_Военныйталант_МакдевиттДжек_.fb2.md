@@ -8,7 +8,7 @@
 38、_russian_Военный талант_Макдевитт Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3984edf880c2d8ab3bced9ba98543ebd

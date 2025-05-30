@@ -8,7 +8,7 @@
 1269、_russian_Как начинаются наводнения_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fba7604a89f956a9d7a2233644b5f188

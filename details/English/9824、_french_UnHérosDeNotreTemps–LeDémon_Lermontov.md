@@ -8,7 +8,7 @@
 9824、_french_Un Héros De Notre Temps – Le Démon_Lermontov Mikha_l Iourievitch_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ac52241dd80d7afbf66b63ca22935561

@@ -8,7 +8,7 @@
 195、_russian_Соитие (Альманах эротической литературы)_Армалинский Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53f4dc0fd5f47b5f2db1cf7c9abf365f

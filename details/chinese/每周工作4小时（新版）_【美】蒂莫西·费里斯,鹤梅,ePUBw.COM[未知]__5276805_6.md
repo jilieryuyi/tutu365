@@ -8,7 +8,7 @@
 每周工作4小时（新版）_【美】蒂莫西·费里斯, 鹤梅, ePUBw.COM [未知]__5276805_632bf9e59e5c3660f284faf78c04f453.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 632bf9e59e5c3660f284faf78c04f453

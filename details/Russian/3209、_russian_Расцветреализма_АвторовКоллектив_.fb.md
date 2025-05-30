@@ -8,7 +8,7 @@
 3209、_russian_Расцвет реализма_Авторов Коллектив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dceaf47b00999fb5699f5698f21c5a0

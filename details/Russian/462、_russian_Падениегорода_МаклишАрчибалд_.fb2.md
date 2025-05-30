@@ -8,7 +8,7 @@
 462、_russian_Падение города_Маклиш Арчибалд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 333281e063f0b7d9edc0d683aa2381d1

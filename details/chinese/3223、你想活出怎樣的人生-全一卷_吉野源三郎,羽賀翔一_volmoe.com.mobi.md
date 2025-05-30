@@ -8,7 +8,7 @@
 3223、你想活出怎樣的人生 - 全一卷_吉野源三郎,羽賀翔一_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 da78d0cf2a4f88211ced652b19a644fc

@@ -8,7 +8,7 @@
 2023、HTML5 Canvas核心技术：图形、动画与游戏开发_（美）基瑞（Geary，D.）著_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a2ede5defacd426c4c7aa7f3b5701ddf

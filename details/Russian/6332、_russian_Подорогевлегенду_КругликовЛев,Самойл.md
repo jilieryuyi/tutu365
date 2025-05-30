@@ -8,7 +8,7 @@
 6332、_russian_По дороге в легенду_Кругликов Лев, Самойлова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7f512c7caaa01444278362b49ac4b0e

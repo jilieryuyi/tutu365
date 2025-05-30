@@ -8,7 +8,7 @@
 7480、_russian_Чужие паруса_Бадигин Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ef9ddbbb585153da72b0893e868374e

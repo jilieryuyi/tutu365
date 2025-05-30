@@ -8,7 +8,7 @@
 12478、_russian_Укрощенная любовью_Монтегю Жанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b144b14030a2e7969d60bd3abb53a91a

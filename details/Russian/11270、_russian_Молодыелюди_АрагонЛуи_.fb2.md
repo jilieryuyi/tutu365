@@ -8,7 +8,7 @@
 11270、_russian_Молодые люди_Арагон Луи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87764c67241e7726996303ab9dd282c0

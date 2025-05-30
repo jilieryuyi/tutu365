@@ -8,7 +8,7 @@
 1373、_russian_Рассказы_Фротсак Анита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 569ab8036e9332b896c2116459b216d2

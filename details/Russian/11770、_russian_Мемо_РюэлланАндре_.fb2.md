@@ -8,7 +8,7 @@
 11770、_russian_Мемо_Рюэллан Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c02382fd9122e7001ba22cb2dbe9e30

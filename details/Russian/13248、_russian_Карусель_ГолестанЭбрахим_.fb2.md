@@ -8,7 +8,7 @@
 13248、_russian_Карусель_Голестан Эбрахим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b965e8e453b710fa90d05cf1729e717

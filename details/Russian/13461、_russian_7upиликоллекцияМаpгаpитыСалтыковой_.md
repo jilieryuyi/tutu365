@@ -8,7 +8,7 @@
 13461、_russian_7up или коллекция Маpгаpиты Салтыковой_Салтыкова Маргарита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b18126711d8cdcbb989f7dfbc6b453d

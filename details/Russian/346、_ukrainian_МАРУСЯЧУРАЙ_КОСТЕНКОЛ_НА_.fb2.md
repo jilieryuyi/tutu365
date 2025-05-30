@@ -8,7 +8,7 @@
 346、_ukrainian_МАРУСЯ ЧУРАЙ_КОСТЕНКО Л_НА_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29e79bf803fd120e0dece1a518993c58

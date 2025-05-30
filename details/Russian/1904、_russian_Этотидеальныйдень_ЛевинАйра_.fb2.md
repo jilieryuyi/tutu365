@@ -8,7 +8,7 @@
 1904、_russian_Этот идеальный день_Левин Айра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f3ad11cf1a65b10959e87e78cd94d64

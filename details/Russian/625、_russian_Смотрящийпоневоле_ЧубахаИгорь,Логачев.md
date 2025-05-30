@@ -8,7 +8,7 @@
 625、_russian_Смотрящий по неволе_Чубаха Игорь, Логачев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ede582dd94a29a4294247242f14b2a6

@@ -8,7 +8,7 @@
 10167、_russian_Сказка про бабочку_Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42ff1155ba82a10fc1f5cf71dd20996f

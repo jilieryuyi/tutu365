@@ -8,7 +8,7 @@
 11126、_russian_Местный колорит_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3d68cfab00817880cff3cbf4d1b786a

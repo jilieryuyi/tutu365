@@ -8,7 +8,7 @@
 3419、_russian_Буревестник_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 340a3bef35a63c196203d2adc76a81d8

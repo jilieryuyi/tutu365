@@ -8,7 +8,7 @@
 4341、_russian_День их возвращения_Андерсон Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f0dfab644cf0fa84749ddeccca389d9

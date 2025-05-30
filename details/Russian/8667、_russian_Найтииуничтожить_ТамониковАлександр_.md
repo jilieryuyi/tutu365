@@ -8,7 +8,7 @@
 8667、_russian_Найти и уничтожить_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b861b15767406fcbf0dec6a1563f7d9e

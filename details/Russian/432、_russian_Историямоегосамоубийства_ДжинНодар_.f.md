@@ -8,7 +8,7 @@
 432、_russian_История моего самоубийства_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bebaa6b4063c897ffcfb6551bff119d0

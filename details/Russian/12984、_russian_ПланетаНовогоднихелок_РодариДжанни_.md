@@ -8,7 +8,7 @@
 12984、_russian_Планета Новогодних елок_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c90cad7c13c1c43d30f9e29488ba5f47

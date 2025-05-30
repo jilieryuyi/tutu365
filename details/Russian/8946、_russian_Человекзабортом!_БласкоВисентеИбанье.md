@@ -8,7 +8,7 @@
 8946、_russian_Человек за бортом!_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22ef96496b51706be1826a4ba444ac5e

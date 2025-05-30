@@ -8,7 +8,7 @@
 13776、_english_Lady Maggie's Secret Scandal_Grace Burrowes_Sourcebooks.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7557f0ef38e9718e655e770cff858c6a

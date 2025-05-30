@@ -8,7 +8,7 @@
 5799、_russian_Выбери себе смерть_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fce83f05468bc866cd66acd9ecb4bb2

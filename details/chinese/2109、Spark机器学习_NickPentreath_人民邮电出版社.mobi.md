@@ -8,7 +8,7 @@
 2109、Spark机器学习_Nick Pentreath_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eba8f5981b329558afed9a4452cea4d4

@@ -8,7 +8,7 @@
 2123、TCP_IP路由技术(第2卷)(全新翻译版) (CCIE职业发展系列)_Jeff Doyle_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 301193a0115c9581b40f369356dade41

@@ -8,7 +8,7 @@
 7373、_russian_Библиотека современной фантастики. Том 11. Карел Чапек_Чапек Карел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b68c2cd83254aa602fc2cf374ad611cb

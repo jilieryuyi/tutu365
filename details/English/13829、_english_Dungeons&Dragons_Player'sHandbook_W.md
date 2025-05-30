@@ -8,7 +8,7 @@
 13829、_english_Dungeons & Dragons_ Player's Handbook_Wizards RPG Team; James Wyatt, Robert J. Schwalb, Bruce R. Cordell_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 67acec782aadcda23cc77c98b445df89

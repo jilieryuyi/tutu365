@@ -8,7 +8,7 @@
 3921、_russian_Возвращение_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85ca64d08836f4d335e061fb51b8bd66

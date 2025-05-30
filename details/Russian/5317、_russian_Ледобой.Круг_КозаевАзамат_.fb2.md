@@ -8,7 +8,7 @@
 5317、_russian_Ледобой. Круг_Козаев Азамат_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a472831b8409b83105f2cbc564f5aed0

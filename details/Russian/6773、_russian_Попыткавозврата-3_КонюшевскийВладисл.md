@@ -8,7 +8,7 @@
 6773、_russian_Попытка возврата - 3_Конюшевский Владислав Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aeedd7cc8f4345df578dc2dfee862143

@@ -8,7 +8,7 @@
 自由的进化_【美】丹尼尔·丹内特, ePUBw.COM [未知]__5288016_daa161218fa1c13090a9794c64de725d.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 daa161218fa1c13090a9794c64de725d

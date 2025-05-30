@@ -8,7 +8,7 @@
 9344、_russian_Крест(сборник рассказов)_Дегтев Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b0b4b304d992b794ec8d260591889ec

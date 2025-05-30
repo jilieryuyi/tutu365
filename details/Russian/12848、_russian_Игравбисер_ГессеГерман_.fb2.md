@@ -8,7 +8,7 @@
 12848、_russian_Игра в бисер_Гессе Герман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2707d82f5e3c11cd8593fee8fe5b7f9

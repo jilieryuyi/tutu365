@@ -8,7 +8,7 @@
 5887、_french_Monsieur Lecoq_Gaboriau _mile_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6029fe01b5ab596c3cbb82d55371c0c7

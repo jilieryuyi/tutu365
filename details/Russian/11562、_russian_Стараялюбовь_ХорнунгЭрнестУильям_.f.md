@@ -8,7 +8,7 @@
 11562、_russian_Старая любовь_Хорнунг Эрнест Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 285ff495773816c0fa0d70bdd8f2b571

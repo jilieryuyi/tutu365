@@ -8,7 +8,7 @@
 9588、_russian_Кондратий_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db1a1b6017f30537e65009e277f60e00

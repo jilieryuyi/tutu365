@@ -8,7 +8,7 @@
 11996、_russian_Звезды на крыльях_Бабак Иван Ильич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c7aa77f770e0c17158bb59cb14e8a52

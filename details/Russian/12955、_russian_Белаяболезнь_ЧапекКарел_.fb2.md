@@ -8,7 +8,7 @@
 12955、_russian_Белая болезнь_Чапек Карел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcce47f0d896df111126ac428f419d61

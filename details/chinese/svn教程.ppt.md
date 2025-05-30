@@ -8,7 +8,7 @@
 svn教程.ppt.ppt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1c971e2014134bc6df6695a76d94a103

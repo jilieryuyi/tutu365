@@ -8,7 +8,7 @@
 13261、_russian_Миллионер_Кэндис Шеннон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b2ebed7c4f50ee477cd1b72e04800f8

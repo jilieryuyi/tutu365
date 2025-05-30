@@ -8,7 +8,7 @@
 6208、_russian_Неизданный Достоевский_Муравьева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95ac3998ba83c21d5e786c15d82afd3e

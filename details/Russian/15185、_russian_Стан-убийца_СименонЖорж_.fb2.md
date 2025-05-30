@@ -8,7 +8,7 @@
 15185、_russian_Стан-убийца_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3e1d8aebd2714ee8231c6418ceecea9

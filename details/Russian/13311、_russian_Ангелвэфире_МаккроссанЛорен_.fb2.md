@@ -8,7 +8,7 @@
 13311、_russian_Ангел в эфире_Маккроссан Лорен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccdd8fe14ee140d8748057d306257fee

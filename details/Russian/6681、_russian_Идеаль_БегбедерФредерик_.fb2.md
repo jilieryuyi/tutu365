@@ -8,7 +8,7 @@
 6681、_russian_Идеаль_Бегбедер Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66490fec8aefbaf23b5012e95ffa39e5

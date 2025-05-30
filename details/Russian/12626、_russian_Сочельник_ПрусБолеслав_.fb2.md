@@ -8,7 +8,7 @@
 12626、_russian_Сочельник_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f44b8759efaaaa6565f747cac9f81d1

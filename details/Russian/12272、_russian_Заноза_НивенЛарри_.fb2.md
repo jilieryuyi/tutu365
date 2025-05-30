@@ -8,7 +8,7 @@
 12272、_russian_Заноза_Нивен Ларри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b69cf9074ed7d9c2e0cea1742fac8734

@@ -8,7 +8,7 @@
 7422、_russian_Печорный день (сборник)_Шашурин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26022c21e854c013c3390d5e32fb2860

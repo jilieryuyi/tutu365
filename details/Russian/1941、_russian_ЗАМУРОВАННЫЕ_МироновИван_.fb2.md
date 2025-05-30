@@ -8,7 +8,7 @@
 1941、_russian_ЗАМУРОВАННЫЕ_Миронов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4026138331cc7159a252950dcfdfef70

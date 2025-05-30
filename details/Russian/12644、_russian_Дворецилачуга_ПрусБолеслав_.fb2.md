@@ -8,7 +8,7 @@
 12644、_russian_Дворец и лачуга_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 347337a745000dbc3830fc88b27a4fa5

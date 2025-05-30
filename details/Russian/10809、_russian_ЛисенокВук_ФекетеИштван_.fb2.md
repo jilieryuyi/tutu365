@@ -8,7 +8,7 @@
 10809、_russian_Лисенок Вук_Фекете Иштван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4434c40b59b2c0cd31dba737f1022e16

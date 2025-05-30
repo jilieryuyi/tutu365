@@ -8,7 +8,7 @@
 15157、_russian_Помнишь Сашу__Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef7dfd0cfd4823c8fd0ed82d136e4317

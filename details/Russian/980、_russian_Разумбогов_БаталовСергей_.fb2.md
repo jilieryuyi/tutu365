@@ -8,7 +8,7 @@
 980、_russian_Разум богов_Баталов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a63a3f592841be7130075e0a2f0e3f52

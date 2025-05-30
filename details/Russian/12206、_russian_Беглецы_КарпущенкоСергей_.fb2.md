@@ -8,7 +8,7 @@
 12206、_russian_Беглецы_Карпущенко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a90167a567166f75a26caf2d2304dfc

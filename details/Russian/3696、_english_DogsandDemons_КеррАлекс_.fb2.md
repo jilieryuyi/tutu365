@@ -8,7 +8,7 @@
 3696、_english_Dogs and Demons_Керр Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8aedd0f34a2df525f2253c474139e61d

@@ -8,7 +8,7 @@
 2085、_russian_Осколки четырех миров_Кондаурова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36466a57d6c6eb06217bcafbdba5d6a6

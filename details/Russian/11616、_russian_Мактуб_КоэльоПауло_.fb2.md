@@ -8,7 +8,7 @@
 11616、_russian_Мактуб_Коэльо Пауло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d4e12ee783fbe99d5cf8846a1da1850

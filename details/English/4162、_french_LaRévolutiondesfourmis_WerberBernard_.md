@@ -8,7 +8,7 @@
 4162、_french_La Révolution des fourmis_Werber Bernard_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9682028445c03561fae2aca7946cb313

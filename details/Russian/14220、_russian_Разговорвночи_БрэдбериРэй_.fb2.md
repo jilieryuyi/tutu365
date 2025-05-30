@@ -8,7 +8,7 @@
 14220、_russian_Разговор в ночи_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ab008e946bfa18ca251eb1ac0dad30b

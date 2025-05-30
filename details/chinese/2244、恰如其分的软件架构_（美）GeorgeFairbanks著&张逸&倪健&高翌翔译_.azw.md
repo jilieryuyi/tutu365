@@ -8,7 +8,7 @@
 2244、恰如其分的软件架构_（美）George Fairbanks 著 & 张逸 & 倪健 & 高翌翔 译_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a866896589cf696a40bc24f350deff78

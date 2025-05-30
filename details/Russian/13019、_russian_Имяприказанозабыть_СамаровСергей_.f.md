@@ -8,7 +8,7 @@
 13019、_russian_Имя приказано забыть_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4421a41c0836d3f9dfe4f5c773f6797f

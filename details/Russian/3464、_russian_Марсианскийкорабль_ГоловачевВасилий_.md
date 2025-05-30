@@ -8,7 +8,7 @@
 3464、_russian_Марсианский корабль_Головачев Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f189db451414a558a164e8b34be9ed74

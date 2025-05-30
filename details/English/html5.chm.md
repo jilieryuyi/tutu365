@@ -8,7 +8,7 @@
 html5.chm.chm
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c0d09d7c074ce4dfcf1fd91465685bc5

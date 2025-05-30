@@ -8,7 +8,7 @@
 12940、_russian_Пикантная история_Шоу Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a667cde6dcf730a6ecb93aaa819f9e3a

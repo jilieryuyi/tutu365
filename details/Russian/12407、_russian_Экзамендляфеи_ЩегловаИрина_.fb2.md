@@ -8,7 +8,7 @@
 12407、_russian_Экзамен для феи_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc81335e095d7d2a0081517ed64c2e4e

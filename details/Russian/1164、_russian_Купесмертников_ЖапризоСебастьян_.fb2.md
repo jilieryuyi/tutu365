@@ -8,7 +8,7 @@
 1164、_russian_Купе смертников_Жапризо Себастьян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37b3cc855adbafe6b8dd3699cce67a58

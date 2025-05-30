@@ -8,7 +8,7 @@
 10048、_russian_Случай скучающего солдата_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c73ba8eb5621e9c55969485fb5330729

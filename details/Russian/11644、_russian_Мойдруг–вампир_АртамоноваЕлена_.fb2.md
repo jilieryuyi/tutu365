@@ -8,7 +8,7 @@
 11644、_russian_Мой друг – вампир_Артамонова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 613c867dd7418c133b58f5c63a709422

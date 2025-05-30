@@ -8,7 +8,7 @@
 14201、_russian_Евдокия_Панова Вера Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67739e8593bb2da2630009b283b95cc9

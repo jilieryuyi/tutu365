@@ -8,7 +8,7 @@
 7106、_english_How Obama Embraces Islam's Sharia Agenda_McCarthy, Andrew C. [McCarthy, Andrew C.]_Perseus Books Group.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b3d5d1f4782ae63987854ab68887d514

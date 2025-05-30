@@ -8,7 +8,7 @@
 662、_english_Romance of the Three Kingdoms (vol. 3)_Guanzhong Luo_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 67511eb70d2b5ed8a0dfdcdc14b9bddf

@@ -8,7 +8,7 @@
 15230、_russian_Социокультурный словарь_Ахиезер А. С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3b0507708825e11dac15d13ede2b86e

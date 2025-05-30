@@ -8,7 +8,7 @@
 14441、_russian_Бегство к звёздам_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9af467791689df7ee7b0a46760a0b30

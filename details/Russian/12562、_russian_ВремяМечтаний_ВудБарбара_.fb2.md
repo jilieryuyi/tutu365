@@ -8,7 +8,7 @@
 12562、_russian_Время Мечтаний_Вуд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6f23e1679b24ddb531fdcfbd24d04db

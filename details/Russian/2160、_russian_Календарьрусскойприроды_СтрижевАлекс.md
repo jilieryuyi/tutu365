@@ -8,7 +8,7 @@
 2160、_russian_Календарь русской природы_Стрижев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 210505d3c27bc3247c5cb1bafa3887c4

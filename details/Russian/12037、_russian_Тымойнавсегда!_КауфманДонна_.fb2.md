@@ -8,7 +8,7 @@
 12037、_russian_Ты мой навсегда!_Кауфман Донна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a980fab2a6718423ae3c7716aed4da5

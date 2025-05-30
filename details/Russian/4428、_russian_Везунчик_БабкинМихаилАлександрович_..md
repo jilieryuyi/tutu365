@@ -8,7 +8,7 @@
 4428、_russian_Везунчик_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d65a2071ad726447395099537bf48cc7

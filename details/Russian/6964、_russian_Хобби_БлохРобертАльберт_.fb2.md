@@ -8,7 +8,7 @@
 6964、_russian_Хобби_Блох Роберт Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af3e5e86e3b0cccbc177f0275ec6fbce

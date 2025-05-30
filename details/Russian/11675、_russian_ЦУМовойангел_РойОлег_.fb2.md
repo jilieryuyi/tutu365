@@ -8,7 +8,7 @@
 11675、_russian_ЦУМовой ангел_Рой Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c46703083538d8e4e29d8309151f09bf

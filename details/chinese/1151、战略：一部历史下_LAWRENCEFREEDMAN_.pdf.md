@@ -8,7 +8,7 @@
 1151、战略：一部历史下_LAWRENCE FREEDMAN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4792f8ff9e36dcf01abd3ba6ddb18e87

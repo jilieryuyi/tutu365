@@ -8,7 +8,7 @@
 1647、第五项修炼_实践篇(上)_彼得_圣吉 (Peter Senge)_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5797f910261f759b92bc636117390538

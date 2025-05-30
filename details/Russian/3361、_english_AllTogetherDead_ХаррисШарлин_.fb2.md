@@ -8,7 +8,7 @@
 3361、_english_All Together Dead_Харрис Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c4f33b8179391bd9f8adebcbd35ba3c

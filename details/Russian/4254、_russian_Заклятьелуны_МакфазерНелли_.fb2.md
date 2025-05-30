@@ -8,7 +8,7 @@
 4254、_russian_Заклятье луны_Макфазер Нелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d543ba3daf78c6875d75957a59f7822

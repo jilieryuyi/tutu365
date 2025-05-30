@@ -8,7 +8,7 @@
 12775、_russian_Близнецы_Рампо Эдогава_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fb85310c48a06a6dbfca4f86fe9b084

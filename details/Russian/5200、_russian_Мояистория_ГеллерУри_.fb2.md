@@ -8,7 +8,7 @@
 5200、_russian_Моя история_Геллер Ури_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9439ae8054910c45ba8dd27f6c43c094

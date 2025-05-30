@@ -8,7 +8,7 @@
 2720、少数派报告The Minority Report (译林幻系列)_菲利普_迪克_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e3ce047861033f83ea0732b3d955661e

@@ -8,7 +8,7 @@
 13633、_russian_Всю ночь напролет_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d4cd9d6ef7cacaa07ce9feaa4c89156

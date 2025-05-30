@@ -8,7 +8,7 @@
 13652、_russian_Подножье тьмы_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 def5eeb08478ecd3246ae8049b703a1b

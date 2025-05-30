@@ -8,7 +8,7 @@
 9976、_russian_Власть пришельцев_Энтони Пирс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02b8510e31951eb5e4d301cebcd49bcc

@@ -8,7 +8,7 @@
 2202、_english_Bride of the Beast_Sue-Ellen Welfonder_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 97e76ace13d68b457b2722439da0c586

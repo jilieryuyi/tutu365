@@ -8,7 +8,7 @@
 14678、_russian_Преследователь_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23e63122aa28711a9ca41d0d7e18fa7a

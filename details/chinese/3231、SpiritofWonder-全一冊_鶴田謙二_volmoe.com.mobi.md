@@ -8,7 +8,7 @@
 3231、SpiritofWonder - 全一冊_鶴田謙二_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f797fc83db3b7a56647ded84ff4d1a4d

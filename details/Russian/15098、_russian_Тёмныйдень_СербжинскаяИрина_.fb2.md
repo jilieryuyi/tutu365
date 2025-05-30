@@ -8,7 +8,7 @@
 15098、_russian_Тёмный день_Сербжинская Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c54c7acc2c97208486bf21b62b7cc34d

@@ -8,7 +8,7 @@
 1926、_russian_Сорок имен скорби_Блант Джайлс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fda111918ead0541dd195027d725bb09

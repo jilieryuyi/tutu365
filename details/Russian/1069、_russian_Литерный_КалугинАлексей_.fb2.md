@@ -8,7 +8,7 @@
 1069、_russian_Литерный_Калугин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45a9c734a314e58ebd5582fc922f5232

@@ -8,7 +8,7 @@
 3856、_russian_Южный квартал_Ньюмен Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0f0da5401316769868e80ffbd43327a

@@ -8,7 +8,7 @@
 4779、_russian_Не мир, но меч_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e43bb1b962ad04049b3f88142899f76

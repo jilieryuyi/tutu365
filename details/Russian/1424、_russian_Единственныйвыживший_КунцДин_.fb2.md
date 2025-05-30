@@ -8,7 +8,7 @@
 1424、_russian_Единственный выживший_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74a3e593d2f6347720cc056ed3040591

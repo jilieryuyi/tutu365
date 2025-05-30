@@ -8,7 +8,7 @@
 10374、_russian_Работа по призванию_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b95ed30f4b2ff8d43b32b76b8f31546

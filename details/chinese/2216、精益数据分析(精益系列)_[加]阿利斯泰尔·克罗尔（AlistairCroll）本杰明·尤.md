@@ -8,7 +8,7 @@
 2216、精益数据分析 (精益系列)_[加]阿利斯泰尔·克罗尔（Alistair Croll）本杰明·尤科维奇（Benjamin Yoskovitz）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b06a397a698cfcfc4f4ea8197f17d865

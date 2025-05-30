@@ -8,7 +8,7 @@
 保持饥渴：不断获取新知识，升级底层操作能力【比尔·盖茨、乔布斯等入选的全球顶级商业组织Thinkers50的50封亲笔信】_Thinkers50__5543416_5c0c3c198edff464768c0fdbf0178e8b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5c0c3c198edff464768c0fdbf0178e8b

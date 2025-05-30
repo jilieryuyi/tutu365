@@ -8,7 +8,7 @@
 5059、_russian_Алмаз _Шах_ (сборник)_Ахметов Спартак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3166c5f106a5781ac8c68e0f23897601

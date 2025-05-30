@@ -8,7 +8,7 @@
 1231、_russian_Очередной эксперимент_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a50f8042a7e24586e04f8093a7391a0

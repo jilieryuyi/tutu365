@@ -8,7 +8,7 @@
 1690、_russian_Комната_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b90d1ce836c2c2ff2df64e2135329293

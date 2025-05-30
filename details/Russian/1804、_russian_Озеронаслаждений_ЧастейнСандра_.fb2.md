@@ -8,7 +8,7 @@
 1804、_russian_Озеро наслаждений_Частейн Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b56e51e6f086625bd2f438c096c82810

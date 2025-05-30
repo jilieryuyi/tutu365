@@ -8,7 +8,7 @@
 6769、_russian_Современной хозяйке_Молоховец Елена Ивановна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c45c9440f0951e9ec71db170d5d5e996

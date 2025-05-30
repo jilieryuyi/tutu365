@@ -8,7 +8,7 @@
 9835、_russian_Феномен Всадников_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5997f31174b752fbae03c6c910333ba5

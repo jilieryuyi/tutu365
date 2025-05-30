@@ -8,7 +8,7 @@
 2186、_english_A Fistful of Charms_Харрисон Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02940085ead17313b1843e725c72908c

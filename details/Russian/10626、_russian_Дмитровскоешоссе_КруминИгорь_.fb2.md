@@ -8,7 +8,7 @@
 10626、_russian_Дмитровское шоссе_Крумин Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4e5f8b9e5a9baa6cbcc7de0a29d0242

@@ -8,7 +8,7 @@
 12719、_russian_Желтый цветок_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 440b445e18b211b89ce5d9f89898c035

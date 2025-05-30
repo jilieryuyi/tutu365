@@ -8,7 +8,7 @@
 6983、_russian_Паутина судеб_Самойлова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2a3922a5e9098a53e383f929bcab73e

@@ -8,7 +8,7 @@
 8977、_russian_Чужой. Научно-фантастический роман_Фостер Алан Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a3bdaa8e002d555acedec7c5728bc5e

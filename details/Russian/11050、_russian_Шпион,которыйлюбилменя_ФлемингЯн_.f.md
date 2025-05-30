@@ -8,7 +8,7 @@
 11050、_russian_Шпион, который любил меня_Флеминг Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af1fa1aa5e32fa2bc39b53ffc1fad86c

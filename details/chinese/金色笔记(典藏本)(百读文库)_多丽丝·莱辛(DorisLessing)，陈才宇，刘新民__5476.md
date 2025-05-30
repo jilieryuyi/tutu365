@@ -8,7 +8,7 @@
 金色笔记(典藏本)(百读文库)_多丽丝·莱辛(Doris Lessing)，陈才宇，刘新民__5476496_0defd9daea918c24ce69c38a026e30ee.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0defd9daea918c24ce69c38a026e30ee

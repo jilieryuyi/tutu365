@@ -8,7 +8,7 @@
 8089、_russian_Тучи и пламя_Райт Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a77deec14960a0509c70fa5e7bf7b3e

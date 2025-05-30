@@ -8,7 +8,7 @@
 481、_russian_Избранное общество_Андрушка Петер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a267bb89bdb6204a781769dac71b829

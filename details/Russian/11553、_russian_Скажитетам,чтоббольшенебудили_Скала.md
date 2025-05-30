@@ -8,7 +8,7 @@
 11553、_russian_Скажите там, чтоб больше не будили_Скаландис Ант_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd914943070b3bee0e977eb1fe56814d

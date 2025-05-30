@@ -8,7 +8,7 @@
 1973、_russian_Блондинка или брюнетка__Конн Фиби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fccd130dc49569af6344af477f10261c

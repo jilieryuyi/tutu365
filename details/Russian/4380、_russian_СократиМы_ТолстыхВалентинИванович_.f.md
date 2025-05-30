@@ -8,7 +8,7 @@
 4380、_russian_Сократ и Мы_Толстых Валентин Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25b469ba1d47c4841917c384b3c5a577

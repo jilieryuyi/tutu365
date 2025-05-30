@@ -8,7 +8,7 @@
 3056、_russian_Месть Цезаря_Кендрик Шэрон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7190a7d3db78456849ac8745a73bd885

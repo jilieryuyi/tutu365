@@ -8,7 +8,7 @@
 10103、_russian_Пирамиды астрала_Кувшинов Виктор Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21509b3c8a35f6124e698177f9b633e4

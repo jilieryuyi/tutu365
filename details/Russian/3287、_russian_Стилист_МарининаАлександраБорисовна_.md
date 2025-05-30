@@ -8,7 +8,7 @@
 3287、_russian_Стилист_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f8a8d6bb6eddd61df5f9b345e0432c1

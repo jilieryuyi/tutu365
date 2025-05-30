@@ -8,7 +8,7 @@
 6033、_russian_Дневниковая проза_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fb126719b81f30381349772bd715290

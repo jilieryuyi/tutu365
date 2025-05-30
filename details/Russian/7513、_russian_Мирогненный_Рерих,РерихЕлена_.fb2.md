@@ -8,7 +8,7 @@
 7513、_russian_Мир огненный_Рерих, Рерих Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19f25dc47727859d7a42db5ececb5b8c

@@ -8,7 +8,7 @@
 2184、_english_The Outlaw Demon Wails_Харрисон Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b1bba57f364d207cb90d23e027bb5f3

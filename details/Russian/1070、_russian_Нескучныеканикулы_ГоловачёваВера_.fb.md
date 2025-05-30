@@ -8,7 +8,7 @@
 1070、_russian_Нескучные каникулы_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15d01dbab8971b9ff9fdc43305aca879

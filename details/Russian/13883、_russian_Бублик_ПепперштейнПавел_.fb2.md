@@ -8,7 +8,7 @@
 13883、_russian_Бублик_Пепперштейн Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10301fc4e4fba12794fbee1ae66da0c1

@@ -8,7 +8,7 @@
 1515、_russian_Несущие грозу_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3dde3a664119ec7f3fa4e814744beeba

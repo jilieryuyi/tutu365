@@ -8,7 +8,7 @@
 12789、_russian_Чудеса не понарошку_Крюкова Тамара Шамильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 777f45040ac335fcb3f6fa02592a800f

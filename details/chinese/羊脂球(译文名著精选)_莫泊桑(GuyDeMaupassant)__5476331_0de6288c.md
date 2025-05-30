@@ -8,7 +8,7 @@
 羊脂球 (译文名著精选)_莫泊桑(Guy De Maupassant)__5476331_0de6288c4a076458111afcbd4e08ac0a.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0de6288c4a076458111afcbd4e08ac0a

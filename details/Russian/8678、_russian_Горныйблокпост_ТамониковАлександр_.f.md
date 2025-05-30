@@ -8,7 +8,7 @@
 8678、_russian_Горный блокпост_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7dfa4727b0193d21e8f6f87399dc3752

@@ -8,7 +8,7 @@
 3728、_russian_Лениниана_Ромм Михаил Ильич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1adcbf167b97701ab593b740dbccbf15

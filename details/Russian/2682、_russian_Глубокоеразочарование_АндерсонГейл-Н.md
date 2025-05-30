@@ -8,7 +8,7 @@
 2682、_russian_Глубокое разочарование_Андерсон Гейл-Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6af1eb1492cc14459864d5dd8df3ae84

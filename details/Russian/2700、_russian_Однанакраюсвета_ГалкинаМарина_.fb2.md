@@ -8,7 +8,7 @@
 2700、_russian_Одна на краю света_Галкина Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35c687a13b5b716b555b9f2555383de8

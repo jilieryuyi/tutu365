@@ -8,7 +8,7 @@
 407、_russian_Тюрьма_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d6bc2367cecd7727be00a46c67cd16b

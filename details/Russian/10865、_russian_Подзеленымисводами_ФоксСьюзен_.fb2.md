@@ -8,7 +8,7 @@
 10865、_russian_Под зелеными сводами_Фокс Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62bd79df96839b7f5c21e59caee0c9a5

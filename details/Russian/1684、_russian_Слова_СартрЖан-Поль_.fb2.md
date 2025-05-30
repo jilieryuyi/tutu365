@@ -8,7 +8,7 @@
 1684、_russian_Слова_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3e62a0f9e881d9dd6f1a8c93fb41090

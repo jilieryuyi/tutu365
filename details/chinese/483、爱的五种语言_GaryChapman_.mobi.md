@@ -8,7 +8,7 @@
 483、爱的五种语言_Gary Chapman_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1706beeb51c3bea7ed80351506affe65

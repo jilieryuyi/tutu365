@@ -8,7 +8,7 @@
 9895、_russian_Подводные рифы Практики Осознанного Сновидения_Смирнов Терентий Леонидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d5efd1ae41ad07a7bf004a30e8cec9a

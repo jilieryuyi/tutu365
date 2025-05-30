@@ -8,7 +8,7 @@
 2715、_russian_Ставка на темную лошадку_Мартин Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ba2c556fe9c51846d306ef813e9c821

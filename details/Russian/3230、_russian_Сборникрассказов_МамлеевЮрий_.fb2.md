@@ -8,7 +8,7 @@
 3230、_russian_Сборник рассказов_Мамлеев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fef7b6551c19ca164a85d7105b31e44f

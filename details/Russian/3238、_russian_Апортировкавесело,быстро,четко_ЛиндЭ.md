@@ -8,7 +8,7 @@
 3238、_russian_Апортировка весело, быстро, четко_Линд Экард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9adde57366fe00f05b457bbf4bda88df

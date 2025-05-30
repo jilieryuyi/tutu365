@@ -8,7 +8,7 @@
 2942、_russian_Мемуары Михаила Мичмана_Костюков Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a586bb99065ee98a0e581f6a85471a6b

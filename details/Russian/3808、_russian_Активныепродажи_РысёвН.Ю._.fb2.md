@@ -8,7 +8,7 @@
 3808、_russian_Активные продажи_Рысёв Н. Ю._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48ef283a95c0468c15e5d0471fe5c449

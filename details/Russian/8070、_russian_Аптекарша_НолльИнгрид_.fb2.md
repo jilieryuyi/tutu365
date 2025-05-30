@@ -8,7 +8,7 @@
 8070、_russian_Аптекарша_Нолль Ингрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bdb15774e3602957bd2c974690ba6fc

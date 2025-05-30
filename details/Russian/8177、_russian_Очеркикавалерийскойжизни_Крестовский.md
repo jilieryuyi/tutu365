@@ -8,7 +8,7 @@
 8177、_russian_Очерки кавалерийской жизни_Крестовский Всеволод_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89eb097942fbd74af9e031bd4d9a629c

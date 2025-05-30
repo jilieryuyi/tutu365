@@ -8,7 +8,7 @@
 10393、_russian_Смерть среди айсбергов_Херцог Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7315f598c82ff3a33b2d0a82c5cea700

@@ -8,7 +8,7 @@
 7154、_russian_Риона_Максимушкин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9a004322456622b08b415bcdd3de444

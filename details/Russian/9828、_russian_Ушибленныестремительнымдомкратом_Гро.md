@@ -8,7 +8,7 @@
 9828、_russian_Ушибленные стремительным домкратом_Громов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acd2f6f2087606f0e086a08a44701c8b

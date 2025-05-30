@@ -8,7 +8,7 @@
 10300、_russian_Беглый огонь_Зорич Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22c8a5fad4a6af4711c2a3dea7118dfc

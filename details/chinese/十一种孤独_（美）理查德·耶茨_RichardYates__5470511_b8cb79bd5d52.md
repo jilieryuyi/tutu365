@@ -8,7 +8,7 @@
 十一种孤独_（美）理查德·耶茨_Richard Yates__5470511_b8cb79bd5d52bb1783388e71575796ff.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b8cb79bd5d52bb1783388e71575796ff

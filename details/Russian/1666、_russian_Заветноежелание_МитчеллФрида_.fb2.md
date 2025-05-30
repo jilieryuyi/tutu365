@@ -8,7 +8,7 @@
 1666、_russian_Заветное желание_Митчелл Фрида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 637f2359458204c4bf2da06ccd1fb219

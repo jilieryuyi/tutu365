@@ -8,7 +8,7 @@
 11832、_russian_Как убили дракона_Буццати Дино_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13dfb3756c1db3bd0a016c529c6d085a

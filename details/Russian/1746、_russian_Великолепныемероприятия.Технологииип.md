@@ -8,7 +8,7 @@
 1746、_russian_Великолепные мероприятия. Технологии и практика event management._Шумович Александр Вячеславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1b2daaf491e539115f600f2c75a6471

@@ -8,7 +8,7 @@
 10539、_russian_Меч королевы_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd1dfd6761247a24019afe03f4ef75a0

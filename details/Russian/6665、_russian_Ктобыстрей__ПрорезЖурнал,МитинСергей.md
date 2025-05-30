@@ -8,7 +8,7 @@
 6665、_russian_Кто быстрей__Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baf18bd6e93486f484e16952f9a69319

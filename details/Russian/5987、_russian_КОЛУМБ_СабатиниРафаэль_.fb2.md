@@ -8,7 +8,7 @@
 5987、_russian_КОЛУМБ_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9c97dcfde066ed6c6ffff3fd725f2f4

@@ -8,7 +8,7 @@
 2876、_russian_Любовь из легенды_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc30211cd0335112fdbebc22ca2ea50f

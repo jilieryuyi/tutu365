@@ -8,7 +8,7 @@
 7909、_russian_Сердце тьмы_Конрад Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e6cc7ca564e93b753c3a1ba5542f6ae

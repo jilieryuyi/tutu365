@@ -8,7 +8,7 @@
 10250、_russian_Об Эмманюэле Бове_Крэмер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35e4732261d414ece68fe292c3c71230

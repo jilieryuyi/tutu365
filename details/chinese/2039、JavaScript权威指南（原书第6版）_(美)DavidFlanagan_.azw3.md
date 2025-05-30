@@ -8,7 +8,7 @@
 2039、JavaScript权威指南（原书第6版）_(美)David Flanagan_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a649761f28f8597ea3e28813110e443

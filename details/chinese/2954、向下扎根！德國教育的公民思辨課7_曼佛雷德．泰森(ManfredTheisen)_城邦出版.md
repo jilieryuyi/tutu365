@@ -8,7 +8,7 @@
 2954、向下扎根！德國教育的公民思辨課7_曼佛雷德．泰森(Manfred Theisen)_城邦出版集團 麥田出版.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bc608c07aa4b5e8d96599bb9bb485ad8

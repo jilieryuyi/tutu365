@@ -8,7 +8,7 @@
 9858、_russian_Пленник зелёной комнаты_Санжаровский Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c59337b58e66529e90f7df5c4c38acc

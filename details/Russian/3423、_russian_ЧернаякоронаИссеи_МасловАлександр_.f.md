@@ -8,7 +8,7 @@
 3423、_russian_Черная корона Иссеи_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed73ca57c0107a6cc92e9aecdce76eb4

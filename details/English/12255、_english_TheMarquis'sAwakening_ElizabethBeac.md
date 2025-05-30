@@ -8,7 +8,7 @@
 12255、_english_The Marquis's Awakening_Elizabeth Beacon_Harlequin Historical.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 760f189e76543d4475f82535240186a1

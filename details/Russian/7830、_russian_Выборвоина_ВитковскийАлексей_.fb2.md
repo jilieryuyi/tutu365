@@ -8,7 +8,7 @@
 7830、_russian_Выбор воина_Витковский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f409d005dd6bde658476666ca863a458

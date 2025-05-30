@@ -8,7 +8,7 @@
 Bagua Zhang Chinese Martial Art Manual_Unknown_Unknown_5535488_1b9295eb96c4fdebddbcc1f930182aa6.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1b9295eb96c4fdebddbcc1f930182aa6

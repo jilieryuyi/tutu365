@@ -8,7 +8,7 @@
 9043、_russian_Генерал Крузо_Суслин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74fe68daf1c62ec058ce43ad0ffd6f80

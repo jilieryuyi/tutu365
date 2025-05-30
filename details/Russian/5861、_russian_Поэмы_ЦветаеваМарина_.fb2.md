@@ -8,7 +8,7 @@
 5861、_russian_Поэмы_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f29d239a2e792d5104d95b7fa401810

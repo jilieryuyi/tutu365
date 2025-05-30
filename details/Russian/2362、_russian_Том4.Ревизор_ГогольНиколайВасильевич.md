@@ -8,7 +8,7 @@
 2362、_russian_Том 4. Ревизор_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d2b82b37616dbba3d7ffa25b07a9e89

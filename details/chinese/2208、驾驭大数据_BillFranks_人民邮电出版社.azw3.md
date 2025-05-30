@@ -8,7 +8,7 @@
 2208、驾驭大数据_Bill Franks_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 697d88aabd123db1475bd89f485d7472

@@ -8,7 +8,7 @@
 3980、_russian_Око Арсиды_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27aa917eba1ce636afe1ddc4f86410c3

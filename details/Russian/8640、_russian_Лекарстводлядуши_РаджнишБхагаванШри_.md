@@ -8,7 +8,7 @@
 8640、_russian_Лекарство для души_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f033c6e4663cb8329d6727e15d35fbf

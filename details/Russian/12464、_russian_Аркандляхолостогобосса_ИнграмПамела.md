@@ -8,7 +8,7 @@
 12464、_russian_Аркан для холостого босса_Инграм Памела_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cca2e4b0e3e5fe0d93f7657e99e979fc

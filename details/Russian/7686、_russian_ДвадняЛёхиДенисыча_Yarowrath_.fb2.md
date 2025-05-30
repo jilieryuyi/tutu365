@@ -8,7 +8,7 @@
 7686、_russian_Два дня Лёхи Денисыча_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e49562848c660553baedc82c75822ed6

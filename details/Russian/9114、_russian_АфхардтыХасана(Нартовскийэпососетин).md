@@ -8,7 +8,7 @@
 9114、_russian_Афхардты Хасана(Нартовский эпос осетин)_Кубалов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f75e695a52fda3d34bff3ff3ffbed9d

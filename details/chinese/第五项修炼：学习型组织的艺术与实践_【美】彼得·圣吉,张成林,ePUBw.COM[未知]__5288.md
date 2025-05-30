@@ -8,7 +8,7 @@
 第五项修炼：学习型组织的艺术与实践_【美】彼得·圣吉, 张成林, ePUBw.COM [未知]__5288005_ec7ae1030a90798fd1ebeda2861f3d90.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ec7ae1030a90798fd1ebeda2861f3d90

@@ -8,7 +8,7 @@
 1537、_russian_Закоулок убийц_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efe122a6d160649f010395c582ef2d5c

@@ -8,7 +8,7 @@
 10561、_russian_Изабель_Жид Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db15025e9e01a487904fd0197bf79cdb

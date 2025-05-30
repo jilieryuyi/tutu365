@@ -8,7 +8,7 @@
 13052、_russian_Диверсант № 1_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a468eca580616197fd25365e9c9a5d13

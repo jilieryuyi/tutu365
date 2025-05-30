@@ -8,7 +8,7 @@
 11412、_russian_Оседлавшие свет_Демют Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f373e33aa3860b5fcb7115198a72f9b

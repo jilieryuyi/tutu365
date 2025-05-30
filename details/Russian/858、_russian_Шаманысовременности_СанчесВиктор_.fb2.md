@@ -8,7 +8,7 @@
 858、_russian_Шаманы современности_Санчес Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d94c3ecdd6103d6badc52230bcb8ae5

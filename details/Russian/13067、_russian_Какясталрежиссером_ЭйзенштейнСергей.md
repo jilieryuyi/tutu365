@@ -8,7 +8,7 @@
 13067、_russian_Как я стал режиссером_Эйзенштейн Сергей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c47efbff2688080fa3e630e89144383

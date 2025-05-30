@@ -8,7 +8,7 @@
 6606、_russian_Нож для хорошей драки!_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c75f2eb56457144a58bae5ce9629dcf3

@@ -8,7 +8,7 @@
 4045、_russian_Неостывшее сердце_Фомин Олег Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d65aef61c9334868d57858840d0810a

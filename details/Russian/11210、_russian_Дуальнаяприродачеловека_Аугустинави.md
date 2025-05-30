@@ -8,7 +8,7 @@
 11210、_russian_Дуальная природа человека_Аугустинавичюте Аушра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 def0cb0ea29a54d5715546e106b25ff1

@@ -8,7 +8,7 @@
 12237、_russian_Жемчужная маска_Мей Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa624e7f4374bb2e2b1458db38402b54

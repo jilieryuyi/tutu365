@@ -8,7 +8,7 @@
 10522、_russian_Двести веков сомнений_Бояндин Константин Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f03a54a2a71076291b5e01edbb5faad

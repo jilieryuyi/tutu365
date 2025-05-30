@@ -8,7 +8,7 @@
 10025、_russian_Улица Арлекина_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ac73371aa8c8feeaa258e8c8fa172c0

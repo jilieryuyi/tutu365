@@ -8,7 +8,7 @@
 516、_russian_Мегрэ и виноторговец_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c83813ddb2431b4aa0af4ba7382caa5b

@@ -8,7 +8,7 @@
 12347、_russian_Бег зайца через поля_Жапризо Себастьян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f489ef788476c31e4e7f16774c8f1ae

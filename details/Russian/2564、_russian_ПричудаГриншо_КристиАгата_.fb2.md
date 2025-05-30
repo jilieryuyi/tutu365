@@ -8,7 +8,7 @@
 2564、_russian_Причуда Гриншо_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b092edc9bd317da1a80c8070c34e9f5e

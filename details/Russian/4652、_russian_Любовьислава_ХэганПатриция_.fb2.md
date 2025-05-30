@@ -8,7 +8,7 @@
 4652、_russian_Любовь и слава_Хэган Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c3921e8d847d5627039c9fdf4942b43

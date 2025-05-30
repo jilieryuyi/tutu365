@@ -8,7 +8,7 @@
 6178、_russian_Англия, Англия_Барнс Джулиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0d69224b89d90594a00d093ec6109b4

@@ -8,7 +8,7 @@
 1980、App研发录：架构设计、Crash分析和竞品技术分析 (移动开发)_包建强 著_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9e8d4a4e00b9f8c9e5a82e0d83a51dcf

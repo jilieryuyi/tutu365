@@ -8,7 +8,7 @@
 ActiveX控件打包成Cab置于网页中自动下载安装.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 17785fa5340d121490d57d10f24ba944

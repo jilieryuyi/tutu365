@@ -8,7 +8,7 @@
 2343、桂林古本傷寒雜病論 (Traditional_chinese Edition)_張仲景_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5f722aac876508552cb8a53042e4a52f

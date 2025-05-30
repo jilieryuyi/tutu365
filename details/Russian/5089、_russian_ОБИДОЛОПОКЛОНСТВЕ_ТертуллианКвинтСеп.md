@@ -8,7 +8,7 @@
 5089、_russian_ОБ ИДОЛОПОКЛОНСТВЕ_Тертуллиан Квинт Септимий Флорент_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8128bf2d711f3d8a7e9d311f9bdf7635

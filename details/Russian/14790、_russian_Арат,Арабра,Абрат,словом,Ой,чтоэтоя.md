@@ -8,7 +8,7 @@
 14790、_russian_Арат, Арабра, Абрат, словом, Ой, что это я_Антонов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c612c1f23d912f48e81d5a299cbe488f

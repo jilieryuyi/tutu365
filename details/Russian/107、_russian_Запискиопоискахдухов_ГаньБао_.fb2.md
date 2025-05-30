@@ -8,7 +8,7 @@
 107、_russian_Записки о поисках духов_Гань Бао_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d28d559d8472475225632734e1c5ddc

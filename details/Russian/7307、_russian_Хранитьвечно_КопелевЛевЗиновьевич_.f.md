@@ -8,7 +8,7 @@
 7307、_russian_Хранить вечно_Копелев Лев Зиновьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cfc177f6ec4ac99443714e4287af8b3

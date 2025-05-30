@@ -8,7 +8,7 @@
 11022、_russian_Без вариантов_Калугин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34aba2135c9d8033744d03833f6cf953

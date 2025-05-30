@@ -8,7 +8,7 @@
 14650、_russian_Кирклендские услады_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32e2501f36a9216276e9bbb5480bd881

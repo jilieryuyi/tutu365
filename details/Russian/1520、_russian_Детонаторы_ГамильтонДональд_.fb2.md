@@ -8,7 +8,7 @@
 1520、_russian_Детонаторы_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 124749c40fc7502992c4bb8534d283f6

@@ -8,7 +8,7 @@
 3727、_russian_Старики и молодежь_Сата Инэко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 818c90de79b1398d7c7ca34f94d0d46b

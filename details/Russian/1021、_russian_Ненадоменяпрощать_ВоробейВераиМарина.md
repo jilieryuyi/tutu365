@@ -8,7 +8,7 @@
 1021、_russian_Не надо меня прощать_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7156d9805d05fc8a05cf59e2c61da1c

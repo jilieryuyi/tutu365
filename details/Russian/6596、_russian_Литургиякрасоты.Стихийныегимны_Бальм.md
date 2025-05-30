@@ -8,7 +8,7 @@
 6596、_russian_Литургия красоты. Стихийные гимны_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9142772c2270b910c24fe1cbccee0990

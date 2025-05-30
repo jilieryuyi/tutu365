@@ -8,7 +8,7 @@
 7633、_russian_Время героев_ рассказы, эссе_Минаев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46b20a9a23cfaaf9850fc3f2de50435e

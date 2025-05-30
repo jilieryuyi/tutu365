@@ -8,7 +8,7 @@
 8780、_english_High Performance Images_Colin Bendell, Tim Kadlec, Yoav Weiss, Guy Podjarny, Nick Doyle, and Mike McCall_O'Reilly Media, Inc..epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c307bad88423d29912f3b29da23c80df

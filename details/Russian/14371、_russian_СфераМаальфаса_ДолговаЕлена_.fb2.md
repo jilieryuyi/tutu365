@@ -8,7 +8,7 @@
 14371、_russian_Сфера Маальфаса_Долгова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52664a18bd6aa2e153c05921bf307b81

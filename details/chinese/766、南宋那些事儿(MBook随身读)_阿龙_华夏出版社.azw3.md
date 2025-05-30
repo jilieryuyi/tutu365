@@ -8,7 +8,7 @@
 766、南宋那些事儿 (MBook随身读)_阿龙_华夏出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fd5d6f62782c288ac742dbf391bc1187

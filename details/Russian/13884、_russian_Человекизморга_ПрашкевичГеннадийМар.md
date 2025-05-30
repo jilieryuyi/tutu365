@@ -8,7 +8,7 @@
 13884、_russian_Человек из морга_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6dfb634577858adcf355d0b9b1ce84bd

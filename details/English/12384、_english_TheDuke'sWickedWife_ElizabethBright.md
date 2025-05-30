@@ -8,7 +8,7 @@
 12384、_english_The Duke's Wicked Wife_Elizabeth Bright_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b676f503e584235787cc417fc54da164

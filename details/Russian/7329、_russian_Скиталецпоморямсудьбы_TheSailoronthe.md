@@ -8,7 +8,7 @@
 7329、_russian_Скиталец по морям судьбы _ The Sailor on the Seas of Fate [= Моря судьбы]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc95adbfe2ca54cb427ab0a15bd501f2

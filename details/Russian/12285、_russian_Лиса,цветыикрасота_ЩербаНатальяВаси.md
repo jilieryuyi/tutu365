@@ -8,7 +8,7 @@
 12285、_russian_Лиса, цветы и красота_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7a185d79ccabac8b60fd2d2caf3ec8f

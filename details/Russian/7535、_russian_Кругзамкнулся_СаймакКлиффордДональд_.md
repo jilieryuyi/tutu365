@@ -8,7 +8,7 @@
 7535、_russian_Круг замкнулся_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e5b43f090c6c3256d96d4def4dcf20d

@@ -8,7 +8,7 @@
 8125、_russian_Кровавый отпуск_Кнут Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1ae5c87e86cbe16d8419849a86d284f

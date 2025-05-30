@@ -8,7 +8,7 @@
 14852、_russian_Успех гарантируется_Федотов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec72e5abedcfbcd9a00904238c2157c0

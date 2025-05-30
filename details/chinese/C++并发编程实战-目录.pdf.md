@@ -8,7 +8,7 @@
 C++并发编程实战-目录.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 49d01568491a1bb1fb7752c4a097337b

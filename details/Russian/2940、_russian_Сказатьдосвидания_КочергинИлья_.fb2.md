@@ -8,7 +8,7 @@
 2940、_russian_Сказать до свидания_Кочергин Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4766d44e2c2054169f60a396323a057c

@@ -8,7 +8,7 @@
 4444、_russian_Мечты прекрасных дам_Корделл Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae35fd1013c71bcd7721f27686b8d527

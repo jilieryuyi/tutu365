@@ -8,7 +8,7 @@
 1841、怀孕圣经(升级版)(超值典藏)_Publisher           _ 上海科学普及出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7bd98d27e96c0994751e76e98560663b

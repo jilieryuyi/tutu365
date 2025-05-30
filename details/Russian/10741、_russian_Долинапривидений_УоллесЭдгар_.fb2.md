@@ -8,7 +8,7 @@
 10741、_russian_Долина привидений_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef15d16a5fd6c0ba1981b67bbf899023

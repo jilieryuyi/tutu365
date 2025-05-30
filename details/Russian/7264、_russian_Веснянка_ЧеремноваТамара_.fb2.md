@@ -8,7 +8,7 @@
 7264、_russian_Веснянка_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a58659b8d7c3e231f2d849d19670706

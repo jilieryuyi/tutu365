@@ -8,7 +8,7 @@
 12637、_russian_Михалко_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 346a5ee3856d3c7b070a4496d6675d24

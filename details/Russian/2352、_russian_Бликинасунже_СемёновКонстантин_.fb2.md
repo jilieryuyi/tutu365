@@ -8,7 +8,7 @@
 2352、_russian_Блики на сунже_Семёнов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2b4d843b837a021664f36f300f5a5e6

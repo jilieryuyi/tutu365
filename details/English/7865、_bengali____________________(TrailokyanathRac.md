@@ -8,7 +8,7 @@
 7865、_bengali_____________ _______ (Trailokyanath Rachanabali)_Trailokyanath Mukhopadhyay (____________ ___________)_Patra's publication.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cfdb33ccb6e0960c3702c7ae86992056

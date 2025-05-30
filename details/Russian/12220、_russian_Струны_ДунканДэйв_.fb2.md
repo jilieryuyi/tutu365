@@ -8,7 +8,7 @@
 12220、_russian_Струны_Дункан Дэйв_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d7811f482ba0b7eb22410a5ebc88af6

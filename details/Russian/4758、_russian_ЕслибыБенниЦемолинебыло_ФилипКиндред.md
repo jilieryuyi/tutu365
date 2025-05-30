@@ -8,7 +8,7 @@
 4758、_russian_Если бы Бенни Цемоли не было_Филип Киндред Дик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efe6a577b1879dd54c918ed6b7a7c5cd

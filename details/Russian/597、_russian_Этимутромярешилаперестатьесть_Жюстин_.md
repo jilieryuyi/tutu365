@@ -8,7 +8,7 @@
 597、_russian_Этим утром я решила перестать есть_Жюстин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a1c57cfeec0815b166238d99017971d

@@ -8,7 +8,7 @@
 6356、_russian_Безумный снайпер_Дэвидсон Аврам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4459532795e8cb57286edd66c11e04e

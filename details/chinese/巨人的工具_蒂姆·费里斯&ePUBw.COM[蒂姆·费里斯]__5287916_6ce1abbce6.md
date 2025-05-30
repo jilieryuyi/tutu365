@@ -8,7 +8,7 @@
 巨人的工具_蒂姆·费里斯 & ePUBw.COM [蒂姆·费里斯]__5287916_6ce1abbce6f74e294a455fd719083666.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6ce1abbce6f74e294a455fd719083666

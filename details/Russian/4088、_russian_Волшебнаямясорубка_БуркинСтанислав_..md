@@ -8,7 +8,7 @@
 4088、_russian_Волшебная мясорубка_Буркин Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd4256edb5e511654098252dd47bbad2

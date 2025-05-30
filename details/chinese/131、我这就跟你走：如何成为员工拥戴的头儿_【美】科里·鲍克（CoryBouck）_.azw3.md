@@ -8,7 +8,7 @@
 131、我这就跟你走：如何成为员工拥戴的头儿_【美】科里·鲍克（Cory Bouck）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4829406b4dfbc805494b3dc969917f13

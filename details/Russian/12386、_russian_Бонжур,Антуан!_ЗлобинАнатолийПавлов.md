@@ -8,7 +8,7 @@
 12386、_russian_Бонжур, Антуан!_Злобин Анатолий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c26d41beb00d73885280b5cb681f4c26

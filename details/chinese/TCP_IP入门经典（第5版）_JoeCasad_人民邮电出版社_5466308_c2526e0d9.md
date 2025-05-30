@@ -8,7 +8,7 @@
 TCP_IP入门经典（第5版）_Joe Casad_人民邮电出版社_5466308_c2526e0d9350e18bdeb633ef60d5bb05.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c2526e0d9350e18bdeb633ef60d5bb05

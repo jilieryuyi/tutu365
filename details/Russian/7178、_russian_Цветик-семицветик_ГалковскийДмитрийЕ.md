@@ -8,7 +8,7 @@
 7178、_russian_Цветик-семицветик_Галковский Дмитрий Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf8e28fe9f866158f43ffd1bc0dece22

@@ -8,7 +8,7 @@
 3938、_russian_Песнь Кали_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5367c4c6bc4c62c2198106c55fbe8397

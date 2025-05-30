@@ -8,7 +8,7 @@
 13491、_russian_Стрела Аримана_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0da1da11ff37abfbcb83f96e12583b5

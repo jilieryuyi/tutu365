@@ -8,7 +8,7 @@
 14278、_english_The Green Magician_Лайон Спрэг Де Камп, Флетчер Спрэг Прэтт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0e230cce87f7acc3d5d011bede4ae1e

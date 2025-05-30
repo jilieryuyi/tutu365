@@ -8,7 +8,7 @@
 6251、_russian_Бойня_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bc75fdd71f9630e1d7113fe925cceb5

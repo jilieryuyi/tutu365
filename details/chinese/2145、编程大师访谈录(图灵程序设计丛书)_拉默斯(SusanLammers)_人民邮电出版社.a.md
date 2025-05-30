@@ -8,7 +8,7 @@
 2145、编程大师访谈录 (图灵程序设计丛书)_拉默斯 (Susan Lammers)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5e5d4cc41d556af81a7f8f8d9f1c7479

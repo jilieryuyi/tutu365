@@ -8,7 +8,7 @@
 8713、_russian_Раскрой мне объятия_Спрингер Дженис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5f8df0dd2f538cc31267ac4417c0a56

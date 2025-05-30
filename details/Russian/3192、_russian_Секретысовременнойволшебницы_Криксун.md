@@ -8,7 +8,7 @@
 3192、_russian_Секреты современной волшебницы_Криксунова Инна А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65f4ade6fbcdb961298573bc0112b1b3

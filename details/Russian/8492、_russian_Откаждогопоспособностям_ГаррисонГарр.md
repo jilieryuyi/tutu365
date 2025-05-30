@@ -8,7 +8,7 @@
 8492、_russian_От каждого по способностям_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24062af3314b4337992c1de08deb0cd6

@@ -8,7 +8,7 @@
 4325、_english_Highlander's Moonlight Seduction_Adamina Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 045fec46721afd323e12f06cb385a5d3

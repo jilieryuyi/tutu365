@@ -8,7 +8,7 @@
 12217、_russian_Вечная любовь_Такер Шелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9237f42c8f16d293844b089b503219ab

@@ -8,7 +8,7 @@
 7191、_russian_Локк за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25bd23ebc93ea6df558aef275cd652dc

@@ -8,7 +8,7 @@
 15089、_english_A Courtesan's Scandal_Julia London_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 79d59f06796cace971f1c659ae4df6f4

@@ -8,7 +8,7 @@
 7572、_russian_Уолден, или Жизнь в лесу_Торо Генри Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b20b142c93a900f4b5a38c1963329ea8

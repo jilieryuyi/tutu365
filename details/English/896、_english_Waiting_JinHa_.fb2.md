@@ -8,7 +8,7 @@
 896、_english_Waiting_Jin Ha_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8bcf32ef2090184bea38f51df6aa70c7

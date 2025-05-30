@@ -8,7 +8,7 @@
 [高性能MySQL(第2版)中文版].施瓦茨.扫描版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cca7834b70e5d17377e6b200e81de4ec

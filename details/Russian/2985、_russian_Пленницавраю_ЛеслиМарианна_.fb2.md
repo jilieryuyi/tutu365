@@ -8,7 +8,7 @@
 2985、_russian_Пленница в раю_Лесли Марианна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 704d0df325d9a8381dd5c074202bf2de

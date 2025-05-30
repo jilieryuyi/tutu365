@@ -8,7 +8,7 @@
 6610、_russian_Супружеская жизнь_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11ff6ab3a9dff83fcbe53f4333b891e4

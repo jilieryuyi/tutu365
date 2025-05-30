@@ -8,7 +8,7 @@
 12451、_russian_Кунигунда_Зингер Исаак Башевис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a13bc8557fcf5b76ab24da7578387ca

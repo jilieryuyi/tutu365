@@ -8,7 +8,7 @@
 2094、Python数据分析与挖掘实战 (大数据技术丛书)_张良均 等著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d325020f59ff6fcaac4c2948ca40d308

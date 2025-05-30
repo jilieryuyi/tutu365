@@ -8,7 +8,7 @@
 实用性思考的艺术_SoBooKs.cc 小理查德·威尔 __5520247_50ba83017b1ca985c4d72a098c303ff4.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 50ba83017b1ca985c4d72a098c303ff4

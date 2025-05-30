@@ -8,7 +8,7 @@
 4127、_other_Планета-мечта_Баимбетова Лилия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d498b9d8143da10a038e63269a1a924

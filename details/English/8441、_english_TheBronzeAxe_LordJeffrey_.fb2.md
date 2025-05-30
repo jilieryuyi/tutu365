@@ -8,7 +8,7 @@
 8441、_english_The Bronze Axe_Lord Jeffrey_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6ef4f00b7739be18b185e3369e209a0c

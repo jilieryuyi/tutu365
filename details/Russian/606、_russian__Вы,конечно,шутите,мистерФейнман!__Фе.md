@@ -8,7 +8,7 @@
 606、_russian__Вы, конечно, шутите, мистер Фейнман!__Фейнман Ричард Филлипс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33b4672d6efe2008c8ecb2abba409c36

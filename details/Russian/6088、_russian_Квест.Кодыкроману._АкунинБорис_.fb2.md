@@ -8,7 +8,7 @@
 6088、_russian_Квест. Коды к роману._Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a434ebf0d18a284ad7622d120b18000d

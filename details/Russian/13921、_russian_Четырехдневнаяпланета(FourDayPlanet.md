@@ -8,7 +8,7 @@
 13921、_russian_Четырехдневная планета (Four Day Planet)_Пайпер Бим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6d17633c6a243c6e3639bfc7f40a38b

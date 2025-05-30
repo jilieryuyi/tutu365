@@ -8,7 +8,7 @@
 3362、_english_Definitely Dead_Харрис Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cecadd1db7d7925d3936f63d4e5b9bfe

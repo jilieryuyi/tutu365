@@ -8,7 +8,7 @@
 13035、_russian_Безумный день или женитьба Фигаро_Бомарше Пьер Огюстен Карон Де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf32c136df014e04d047c0ea11f8efa6

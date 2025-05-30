@@ -8,7 +8,7 @@
 14971、_russian_Картонное сердце_Сергиенко Константин Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bcada51846db7c71c0a5a3cd7925b16

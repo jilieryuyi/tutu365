@@ -8,7 +8,7 @@
 10489、_russian_Побег из гламура_Александрова Наталья Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e4ad57d972c806bcc4d8a5a43870498

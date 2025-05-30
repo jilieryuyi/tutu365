@@ -8,7 +8,7 @@
 14558、_russian_Березовое пугало_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 747e0cd8503795410391f23bf23533c7

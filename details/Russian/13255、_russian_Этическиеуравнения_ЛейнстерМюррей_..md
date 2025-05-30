@@ -8,7 +8,7 @@
 13255、_russian_Этические уравнения_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1d5eea023e30826f49cd3f0828154fe

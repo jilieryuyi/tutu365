@@ -8,7 +8,7 @@
 2066、Linux系统命令及Shell脚本实践指南 (Linux_Unix技术丛书)_王军著_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bb7b875cd54e47cfe47c5e13583b917a

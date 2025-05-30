@@ -8,7 +8,7 @@
 10756、_russian_Великосветский скандал_Паркер Юна-Мари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f28b27a86ef34d305d74901d7476257

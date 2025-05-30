@@ -8,7 +8,7 @@
 2168、_russian_Часы без лружины (сборник)_Юрьев Зиновий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0de4a8674a1b66f044e00c3078ba392

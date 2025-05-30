@@ -8,7 +8,7 @@
 2534、_russian_Зашвырнуть ключи_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cc45ff5beffd5499a993e5bc612e992

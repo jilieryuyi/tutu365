@@ -8,7 +8,7 @@
 4605、_russian_Чудесная реликвия_Мэллори Тэсс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05482f464ae3c0a1e06e6382fdf2e01f

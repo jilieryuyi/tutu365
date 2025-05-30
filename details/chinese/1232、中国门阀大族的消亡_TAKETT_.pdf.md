@@ -8,7 +8,7 @@
 1232、中国门阀大族的消亡_TAKETT_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 529c5e06f5188cc299fcb1f63db2ae62

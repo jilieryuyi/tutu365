@@ -8,7 +8,7 @@
 2097、Python学习手册（原书第4版）_(美)MarkLutz_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fa0e9c85469ea6be616fa5bd78c5955c

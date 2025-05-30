@@ -8,7 +8,7 @@
 2012、_russian_Почти твоя_Дулиган Венди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b529648e616a162499e37e50b783ff72

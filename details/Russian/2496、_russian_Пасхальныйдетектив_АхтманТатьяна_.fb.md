@@ -8,7 +8,7 @@
 2496、_russian_Пасхальный детектив_Ахтман Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18bd5318dcdb166dd6a0fa336ae96d7b

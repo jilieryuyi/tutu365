@@ -8,7 +8,7 @@
 10692、_russian_Каирн на мысе_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6ec7f019a4046f892ef8a419fd75e7c

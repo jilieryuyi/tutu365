@@ -8,7 +8,7 @@
 11339、_russian_Вадимка_Алпатов Михаил Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bb0b064988c140d4ca90e7150078d51

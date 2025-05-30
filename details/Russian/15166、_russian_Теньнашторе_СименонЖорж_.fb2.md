@@ -8,7 +8,7 @@
 15166、_russian_Тень на шторе_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c37c5b003adbcf0dad3ea5b18a7477aa

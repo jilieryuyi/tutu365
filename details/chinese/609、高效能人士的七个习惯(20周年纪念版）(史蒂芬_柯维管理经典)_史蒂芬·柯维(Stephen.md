@@ -8,7 +8,7 @@
 609、高效能人士的七个习惯(20周年纪念版） (史蒂芬_柯维管理经典)_史蒂芬·柯维 (Stephen R.Covey)_中国青年出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c8514e4783b9c101571e1e66403b6daf

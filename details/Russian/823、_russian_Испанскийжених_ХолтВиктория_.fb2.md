@@ -8,7 +8,7 @@
 823、_russian_Испанский жених_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09840ef806f226d3483bed5e92a2ea12

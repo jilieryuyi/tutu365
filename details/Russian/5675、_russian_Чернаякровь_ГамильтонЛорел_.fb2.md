@@ -8,7 +8,7 @@
 5675、_russian_Черная кровь_Гамильтон Лорел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe6760c12cefcfa5d57d0c98e19a3d74

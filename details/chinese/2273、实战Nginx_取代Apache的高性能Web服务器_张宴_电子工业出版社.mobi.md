@@ -8,7 +8,7 @@
 2273、实战Nginx_取代Apache的高性能Web服务器_张宴_电子工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 11f272e7f2e9efc97bb9173af09b1f32

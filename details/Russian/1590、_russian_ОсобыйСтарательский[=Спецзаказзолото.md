@@ -8,7 +8,7 @@
 1590、_russian_Особый Старательский [= Спецзаказ золотоискателя]_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcb44080bb7f088fac57fc96fc8244f5

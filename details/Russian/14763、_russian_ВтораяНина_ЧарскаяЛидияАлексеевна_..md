@@ -8,7 +8,7 @@
 14763、_russian_Вторая Нина_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3a3d5c258f2baa87f2af180c6c177bf

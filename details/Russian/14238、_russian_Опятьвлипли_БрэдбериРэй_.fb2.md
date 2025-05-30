@@ -8,7 +8,7 @@
 14238、_russian_Опять влипли_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 240bcc8deee6e96e8bfc677229c2ed68

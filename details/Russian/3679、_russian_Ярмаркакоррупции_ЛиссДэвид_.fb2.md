@@ -8,7 +8,7 @@
 3679、_russian_Ярмарка коррупции_Лисс Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e0c63204d955f857cf4252eb58385a7

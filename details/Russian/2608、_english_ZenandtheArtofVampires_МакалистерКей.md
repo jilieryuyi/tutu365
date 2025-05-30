@@ -8,7 +8,7 @@
 2608、_english_Zen and the Art of Vampires_Макалистер Кейти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e04e6372252762898e7c8397ca37c3e

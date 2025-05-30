@@ -8,7 +8,7 @@
 4106、_russian_Железные паруса_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2c217e161a5bd137813f94e183c4bd7

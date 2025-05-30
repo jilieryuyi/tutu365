@@ -8,7 +8,7 @@
 5826、_russian_Тело шамана_Минделл Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f25eea673fe7c441812115d48620ae8f

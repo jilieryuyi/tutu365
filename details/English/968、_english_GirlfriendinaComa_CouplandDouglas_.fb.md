@@ -8,7 +8,7 @@
 968、_english_Girlfriend in a Coma_Coupland Douglas_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4a2a834640c05901d2d5cd1f3a2da858

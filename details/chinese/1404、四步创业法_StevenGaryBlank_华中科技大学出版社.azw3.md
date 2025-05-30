@@ -8,7 +8,7 @@
 1404、四步创业法_Steven Gary Blank_华中科技大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dcfb401383ecf0e7703a9b692bf1c27f

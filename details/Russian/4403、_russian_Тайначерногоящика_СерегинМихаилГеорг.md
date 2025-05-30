@@ -8,7 +8,7 @@
 4403、_russian_Тайна черного ящика_Серегин Михаил Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a6d6bf71be42bd82ed2f19118e640c9

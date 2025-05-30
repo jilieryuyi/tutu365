@@ -8,7 +8,7 @@
 14485、_russian_Соперница с обложки_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8d124814e96003a7514ffbb5815f26f

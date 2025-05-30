@@ -8,7 +8,7 @@
 7934、_russian_Испытание любви_Ховард Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07d53ba768fde91c11d2ef4da17ab328

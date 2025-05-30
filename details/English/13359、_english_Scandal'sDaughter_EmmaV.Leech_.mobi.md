@@ -8,7 +8,7 @@
 13359、_english_Scandal's Daughter_Emma V. Leech_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 58b87d9d941b921234d30604866ea77d

@@ -8,7 +8,7 @@
 10145、_russian_Испытание Эдварда Робинсона_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05362de8456cab4a8393c133a91638e4

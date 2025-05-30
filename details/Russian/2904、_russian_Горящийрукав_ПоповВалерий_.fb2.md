@@ -8,7 +8,7 @@
 2904、_russian_Горящий рукав_Попов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3df85fedd13cf4dd4de6d0760583eabe

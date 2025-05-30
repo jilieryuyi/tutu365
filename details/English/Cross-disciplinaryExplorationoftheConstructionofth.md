@@ -8,7 +8,7 @@
 Cross-disciplinary Exploration of the Construction of the Historiography of Information_Wang Xudong__5304223_8349569f7378d49614a2a026ee206a67.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8349569f7378d49614a2a026ee206a67

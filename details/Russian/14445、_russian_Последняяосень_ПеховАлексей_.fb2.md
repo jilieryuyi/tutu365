@@ -8,7 +8,7 @@
 14445、_russian_Последняя осень_Пехов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fc7790dff22f34b5c798c12a0296123

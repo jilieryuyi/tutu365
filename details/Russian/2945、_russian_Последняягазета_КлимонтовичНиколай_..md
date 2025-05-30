@@ -8,7 +8,7 @@
 2945、_russian_Последняя газета_Климонтович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac5749ad4f4650ffc2b8854c1a45e327

@@ -8,7 +8,7 @@
 4474、_russian_Гонки на выживание_Норман Хилари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c050d37660420eaa98029c25b1084a88

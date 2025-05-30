@@ -8,7 +8,7 @@
 1571、_english_The Amulet of Samarkand_Stroud Jonathan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 216adf9092d516122bbe87379c271e7e

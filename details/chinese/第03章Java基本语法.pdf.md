@@ -8,7 +8,7 @@
 第03章 Java基本语法.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4b1dd53e5c1fd2326e2cb3f850c85180

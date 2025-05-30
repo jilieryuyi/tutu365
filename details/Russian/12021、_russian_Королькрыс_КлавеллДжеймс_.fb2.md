@@ -8,7 +8,7 @@
 12021、_russian_Король крыс_Клавелл Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09f32fa84ba31264f3b216725f2341f4

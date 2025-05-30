@@ -8,7 +8,7 @@
 8646、_russian_Гусь снаружи_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb5ab3f5a6a5fb448278395ed31291f0

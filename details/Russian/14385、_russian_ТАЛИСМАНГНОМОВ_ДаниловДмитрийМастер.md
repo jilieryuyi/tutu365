@@ -8,7 +8,7 @@
 14385、_russian_ТАЛИСМАН ГНОМОВ_Данилов Дмитрий Мастерович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e7894dabef9ab9e47139b631ac6b4f2

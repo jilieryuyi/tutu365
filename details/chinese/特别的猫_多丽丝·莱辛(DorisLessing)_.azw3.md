@@ -8,7 +8,7 @@
 特别的猫_多丽丝·莱辛(Doris Lessing)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 41f1ad02ae2d03a43cdbe8dfb1c2b5e4

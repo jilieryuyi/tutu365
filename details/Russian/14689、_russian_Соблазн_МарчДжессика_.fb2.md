@@ -8,7 +8,7 @@
 14689、_russian_Соблазн_Марч Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdb9f127941d24633bc84fa1b80b4cb8

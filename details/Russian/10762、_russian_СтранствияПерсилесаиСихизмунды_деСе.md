@@ -8,7 +8,7 @@
 10762、_russian_Странствия Персилеса и Сихизмунды_де Сервантес Мигель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8cdd913068b74f523de1c493cb665d8

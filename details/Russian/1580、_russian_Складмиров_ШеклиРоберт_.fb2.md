@@ -8,7 +8,7 @@
 1580、_russian_Склад миров_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d166f37b8159a368dd279a969b1250f5

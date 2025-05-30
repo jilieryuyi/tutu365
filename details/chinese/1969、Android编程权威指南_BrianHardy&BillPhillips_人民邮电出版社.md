@@ -8,7 +8,7 @@
 1969、Android编程权威指南_Brian Hardy & Bill Phillips_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c07b6a166b12ee08ff91a7191acdfc36

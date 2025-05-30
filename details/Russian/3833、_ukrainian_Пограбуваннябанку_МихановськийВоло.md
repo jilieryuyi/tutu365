@@ -8,7 +8,7 @@
 3833、_ukrainian_Пограбування банку_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b29af043aee377433bfa9fd68b06fd9b

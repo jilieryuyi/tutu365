@@ -8,7 +8,7 @@
 8082、_russian_Мое грустное лицо_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f3bbd9fe01aac3cfb4389d86e6e3ef9

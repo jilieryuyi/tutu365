@@ -8,7 +8,7 @@
 12508、_russian_Конан и грот Дайомы_Мэнсон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82ef06ba009343e659e94d19c92c5a6c

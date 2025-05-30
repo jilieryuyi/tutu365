@@ -8,7 +8,7 @@
 3189、_russian_Черный кот_Кэнсаку Симаки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1afbbd442f798269c54fb5c5e4d46785

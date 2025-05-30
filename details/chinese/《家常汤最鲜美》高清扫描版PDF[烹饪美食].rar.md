@@ -8,7 +8,7 @@
 《家常汤最鲜美》高清扫描版PDF[烹饪美食].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ded638a146a6156e72174b18f5eb2f9d

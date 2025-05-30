@@ -8,7 +8,7 @@
 1724、_russian_Пограничник_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 268f0b66ccbc7d8efdc570918e45cdbf

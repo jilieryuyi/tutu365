@@ -8,7 +8,7 @@
 3040、_french_Dictionnaire Argot-Fran_ais_Hayard Napoléon_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c891b89af7e75407107442e063c96c82

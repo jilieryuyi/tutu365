@@ -8,7 +8,7 @@
 3427、_russian_Белая акула_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bf718f7f534a0d7b31d31a901c7dcc5

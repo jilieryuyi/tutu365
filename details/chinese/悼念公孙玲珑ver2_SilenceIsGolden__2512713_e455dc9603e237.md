@@ -8,7 +8,7 @@
 悼念公孙玲珑ver2_Silence Is Golden__2512713_e455dc9603e2376144eef05f8a8d8c05.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e455dc9603e2376144eef05f8a8d8c05

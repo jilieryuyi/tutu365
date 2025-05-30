@@ -8,7 +8,7 @@
 7094、_russian_Кот, проходящий сквозь стены_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd8eb123fe636171527fb1ca759b91a1

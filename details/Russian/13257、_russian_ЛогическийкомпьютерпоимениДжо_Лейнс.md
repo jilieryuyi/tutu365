@@ -8,7 +8,7 @@
 13257、_russian_Логический компьютер по имени Джо_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 955d2dad628a5ea6e648b1d256c40a0d

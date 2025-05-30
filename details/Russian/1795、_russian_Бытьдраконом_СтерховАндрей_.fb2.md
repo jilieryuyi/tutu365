@@ -8,7 +8,7 @@
 1795、_russian_Быть драконом_Стерхов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03f66b77460eab9971312a2ac1741428

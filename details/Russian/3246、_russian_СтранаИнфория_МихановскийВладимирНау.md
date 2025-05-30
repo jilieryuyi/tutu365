@@ -8,7 +8,7 @@
 3246、_russian_Страна Инфория_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8404e5c96c90aa02722e6b4227177aa7

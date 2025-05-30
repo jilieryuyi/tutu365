@@ -8,7 +8,7 @@
 9115、_russian_Поселок кентавров_Ким Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0d8bda4dbbc7835f3a11cf6ce5102e8

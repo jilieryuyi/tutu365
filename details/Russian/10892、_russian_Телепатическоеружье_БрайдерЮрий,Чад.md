@@ -8,7 +8,7 @@
 10892、_russian_Телепатическое ружье_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bdfee208b87ed6fd3e45fbbcd27963c

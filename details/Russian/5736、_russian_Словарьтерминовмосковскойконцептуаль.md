@@ -8,7 +8,7 @@
 5736、_russian_Словарь терминов московской концептуальной школы_Пеппершнейн Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aadcd6caf49cc8372d230ed1c865f92c

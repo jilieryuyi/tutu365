@@ -8,7 +8,7 @@
 493、_russian_Жомон, остановка 51 минуту_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85e34a27389e9b14a4915711c73d3046

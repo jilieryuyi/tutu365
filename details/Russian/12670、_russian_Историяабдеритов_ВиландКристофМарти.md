@@ -8,7 +8,7 @@
 12670、_russian_История абдеритов_Виланд Кристоф Мартин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9d9909e4ec1cf2103bd4d7c103a4ed2

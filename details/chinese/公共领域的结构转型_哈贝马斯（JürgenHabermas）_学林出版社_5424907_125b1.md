@@ -8,7 +8,7 @@
 公共领域的结构转型_哈贝马斯（Jürgen Habermas）_学林出版社_5424907_125b11182db6789a75c4ee600720872b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 125b11182db6789a75c4ee600720872b

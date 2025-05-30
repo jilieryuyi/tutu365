@@ -8,7 +8,7 @@
 7443、_russian_Космические браконьеры_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ebd6e895c3495fa6f28c59ada95f7b3

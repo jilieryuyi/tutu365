@@ -8,7 +8,7 @@
 2716、_russian_Путеец_Асада Дзиро_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ed26b5298e591ebfadd7d6a3abbeb5d

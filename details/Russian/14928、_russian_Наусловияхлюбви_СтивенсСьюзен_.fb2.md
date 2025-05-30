@@ -8,7 +8,7 @@
 14928、_russian_На условиях любви_Стивенс Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf5f251bdb4f5834f286025e8fc8a1d4

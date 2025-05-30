@@ -8,7 +8,7 @@
 4218、_russian_Блеф_Тертлдав Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40a75459d487e03a99db6f1142a524aa

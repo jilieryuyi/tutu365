@@ -8,7 +8,7 @@
 错误之书：改变你一生的9个秘密_斯基普·普里查德_CITIC Press Corporation.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2528ed188f5c25807aeb6b1afb0e43ba

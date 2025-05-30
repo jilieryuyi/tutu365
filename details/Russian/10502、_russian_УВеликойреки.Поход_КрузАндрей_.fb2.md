@@ -8,7 +8,7 @@
 10502、_russian_У Великой реки. Поход_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85abbc759f2865916f97afa1b931454d

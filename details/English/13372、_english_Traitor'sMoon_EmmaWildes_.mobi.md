@@ -8,7 +8,7 @@
 13372、_english_Traitor's Moon_Emma Wildes_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 996d7506487e7b043489aab36bcef628

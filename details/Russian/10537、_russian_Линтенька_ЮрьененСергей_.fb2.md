@@ -8,7 +8,7 @@
 10537、_russian_Линтенька_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13122ffcd22472c9fbbd23623b70408e

@@ -8,7 +8,7 @@
 1206、机器人叛乱：在达尔文时代找到意义_（加）斯坦诺维奇（Stanovich,K.E.） 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6bfaeb93c49704bd79386674f55f3911

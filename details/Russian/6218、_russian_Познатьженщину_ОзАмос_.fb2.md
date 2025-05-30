@@ -8,7 +8,7 @@
 6218、_russian_Познать женщину_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63176d0b5cf4e8c50fc86f0448943447

@@ -8,7 +8,7 @@
 13039、_russian_Сорок изыскателей_Голицын Сергей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1b93a3a1bd43a41626cd6d628070fa7

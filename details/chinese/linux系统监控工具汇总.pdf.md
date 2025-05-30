@@ -8,7 +8,7 @@
 linux系统监控工具汇总.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6a846e4746a99ad9be5ea787e53dcdfa

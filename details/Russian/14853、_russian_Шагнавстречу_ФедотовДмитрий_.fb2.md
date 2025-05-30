@@ -8,7 +8,7 @@
 14853、_russian_Шаг навстречу_Федотов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf752f5510539cd62cf4bc4826ce2588

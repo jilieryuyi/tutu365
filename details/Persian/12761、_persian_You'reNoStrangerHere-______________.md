@@ -8,7 +8,7 @@
 12761、_persian_You're No Stranger Here - ___ __ _____ _______Houshang Moradi Kermani, _____ _____ ___________.pdf.pdf
 
 ## 语言(language)
-Persian
+persian
 
 ## MD5
 a6ef69fd57d8ee6db1831aa9c9421ef2

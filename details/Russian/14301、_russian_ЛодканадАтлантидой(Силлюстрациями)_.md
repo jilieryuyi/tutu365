@@ -8,7 +8,7 @@
 14301、_russian_Лодка над Атлантидой (С иллюстрациями)_Кернбах Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce5f86404991a7b88820a3cb5d0cb6ff

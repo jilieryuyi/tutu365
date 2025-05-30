@@ -8,7 +8,7 @@
 8385、_russian_Как правильно обустроить рабочее место_Артамонов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f90b172865ca81d0f59d43bf7d6a723b

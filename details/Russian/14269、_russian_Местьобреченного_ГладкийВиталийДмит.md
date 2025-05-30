@@ -8,7 +8,7 @@
 14269、_russian_Месть обреченного_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa6bfb147cb69a43a8a5197d244bf223

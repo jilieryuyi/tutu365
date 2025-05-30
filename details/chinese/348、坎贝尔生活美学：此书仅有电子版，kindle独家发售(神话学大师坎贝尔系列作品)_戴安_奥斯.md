@@ -8,7 +8,7 @@
 348、坎贝尔生活美学：此书仅有电子版，kindle独家发售 (神话学大师坎贝尔系列作品)_戴安_奥斯本_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bb5588bee01c086f94e31527fa34d42f

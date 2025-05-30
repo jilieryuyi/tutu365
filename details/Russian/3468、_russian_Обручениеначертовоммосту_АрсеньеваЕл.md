@@ -8,7 +8,7 @@
 3468、_russian_Обручение на чертовом мосту_Арсеньева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ef2a99c5dd78cfd56a47efd2a3fb18c

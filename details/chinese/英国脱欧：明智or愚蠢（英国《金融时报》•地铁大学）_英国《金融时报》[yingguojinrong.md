@@ -8,7 +8,7 @@
 英国脱欧：明智or愚蠢（英国《金融时报》•地铁大学）_英国《金融时报》 [yingguojinrongshibao]__5487933_eb0fcccb002ebc2b83fea9cca9087272.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eb0fcccb002ebc2b83fea9cca9087272

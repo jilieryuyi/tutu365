@@ -8,7 +8,7 @@
 3639、_russian_Корабль, который пел_Маккефри Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8629fdc4016108d876f0e95f09ac4576

@@ -8,7 +8,7 @@
 7646、_english_A Reckless Bargain_Powell Elizabeth_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 000157a5e867762dba60e1039b78d7cd

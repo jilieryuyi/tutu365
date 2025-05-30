@@ -8,7 +8,7 @@
 3892、_russian_Непрошеная повесть_Нидзё_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93f2d01da9cd932346961753596909fd

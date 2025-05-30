@@ -8,7 +8,7 @@
 11023、_russian_Люди-монстры_Берроуз Эдгар райс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a3c815831ba20d2c554c52a4b210b58

@@ -8,7 +8,7 @@
 3028、_russian_Голая обезьяна_Моррис Десмонд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb854ef84826e8b5533dbbe5bedd40f7

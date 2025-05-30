@@ -8,7 +8,7 @@
 3261、_russian_Место в жизни_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cec941d669d43bf5e9384edc622d566e

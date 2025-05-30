@@ -8,7 +8,7 @@
 4182、_russian_Эффект Геллера_Геллер Ури, Плэйфайр Гай Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5082c4b9cf6798dc8125e2e16219eb6

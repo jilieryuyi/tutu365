@@ -8,7 +8,7 @@
 14566、_russian_Время умирать_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b418be72fda1d706d271762d1e56dd0

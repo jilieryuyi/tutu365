@@ -8,7 +8,7 @@
 12074、_russian_Гавайская рапсодия_Тернер Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 147eb06306d491fa18ef5faeb1b7700f

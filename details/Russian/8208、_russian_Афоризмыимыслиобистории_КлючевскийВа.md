@@ -8,7 +8,7 @@
 8208、_russian_Афоризмы и мысли об истории_Ключевский Василий Осипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d94eaac86fe69408aaed16c41817e303

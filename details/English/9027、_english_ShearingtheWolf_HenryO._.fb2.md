@@ -8,7 +8,7 @@
 9027、_english_Shearing the Wolf_Henry O._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1f52a5a638290e77618b8a503411f10d

@@ -8,7 +8,7 @@
 13649、_russian_Деньги и коварство_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c45a37d0dcb96178b50a94ac26f4d0a

@@ -8,7 +8,7 @@
 7902、_russian_Вкус блаженства_Джеймс Элоиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f42ed6fdb57717e646f5557ec4c8dfc

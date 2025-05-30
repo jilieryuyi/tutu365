@@ -8,7 +8,7 @@
 新药的故事_梁贵柏 & ePUBw.COM [未知]__5343841_06fcfe1441ba5c3cf828705a7e4f6c16.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 06fcfe1441ba5c3cf828705a7e4f6c16

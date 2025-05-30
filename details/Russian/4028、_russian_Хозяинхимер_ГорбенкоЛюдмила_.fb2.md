@@ -8,7 +8,7 @@
 4028、_russian_Хозяин химер_Горбенко Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 deed526c116cc4830159b6fec2c5bf5a

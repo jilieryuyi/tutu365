@@ -8,7 +8,7 @@
 5655、_russian_Эзотерическая философия любви и брака_Форчун Дион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4493df6e9f5f549f1ee8898243638a3

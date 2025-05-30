@@ -8,7 +8,7 @@
 8901、_russian_Рама II. Научно-фантастический роман_Кларк Артур, Ли Джентри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c170b85dbae9f3e3a6b8be8f15e5a309

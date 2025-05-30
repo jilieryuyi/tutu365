@@ -8,7 +8,7 @@
 11213、_russian_Гигиена убийцы_Нотомб Амели_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b22c8e4062ce7151738e25c34509a47

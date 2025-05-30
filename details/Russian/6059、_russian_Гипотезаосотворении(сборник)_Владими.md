@@ -8,7 +8,7 @@
 6059、_russian_Гипотеза о сотворении (сборник)_Владимир Рыбин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efd7a19c61e883b3e0fffa1935e5457e

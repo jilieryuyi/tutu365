@@ -8,7 +8,7 @@
 3622、_russian_Том 4_Сталин Иосиф Виссарионович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd46d1d519dbbe313371dd94117c7b54

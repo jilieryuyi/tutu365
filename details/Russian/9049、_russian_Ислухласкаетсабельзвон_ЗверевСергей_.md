@@ -8,7 +8,7 @@
 9049、_russian_И слух ласкает сабель звон_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6496975798fea7ccafb4afe3fe57c20a

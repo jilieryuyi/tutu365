@@ -8,7 +8,7 @@
 3300、_russian_Все не так_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d1473d543dfbf65e6add1289117ceea

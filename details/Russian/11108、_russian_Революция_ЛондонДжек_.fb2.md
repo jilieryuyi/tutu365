@@ -8,7 +8,7 @@
 11108、_russian_Революция_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3d123fd5aa8951d0df3927d667be8df

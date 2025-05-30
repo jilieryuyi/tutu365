@@ -8,7 +8,7 @@
 8310、_russian_Замок скрещенных судеб_Кальвино Итало_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08cad7533647a6c9baebe9997eee1043

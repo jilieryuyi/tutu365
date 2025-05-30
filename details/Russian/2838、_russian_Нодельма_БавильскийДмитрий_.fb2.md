@@ -8,7 +8,7 @@
 2838、_russian_Нодельма_Бавильский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf5f9f7856cab0299bd983c19254254f

@@ -8,7 +8,7 @@
 10934、_russian_Очарованный принц_Соловьев Леонид Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 002373feb6bffe1e8a3b01e9509ffb52

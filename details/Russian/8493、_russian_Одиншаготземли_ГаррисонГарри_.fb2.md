@@ -8,7 +8,7 @@
 8493、_russian_Один шаг от земли_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e3f38d84e9ddf981ea9c8aa4ef390e4

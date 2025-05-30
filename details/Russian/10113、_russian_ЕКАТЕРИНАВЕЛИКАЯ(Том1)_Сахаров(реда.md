@@ -8,7 +8,7 @@
 10113、_russian_ЕКАТЕРИНА ВЕЛИКАЯ (Том 1)_Сахаров (редактор) А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cbe9106c222636b92b6e0a39a497d72

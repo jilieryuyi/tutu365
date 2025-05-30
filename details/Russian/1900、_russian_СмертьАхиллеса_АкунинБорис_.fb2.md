@@ -8,7 +8,7 @@
 1900、_russian_Смерть Ахиллеса_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2bbbfba69d6b878260b4215671c55a3

@@ -8,7 +8,7 @@
 1834、_russian_Путешествие через кратер_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75cf32367d97e5867bb8c69b8b27b7dd

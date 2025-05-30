@@ -8,7 +8,7 @@
 310、增长五线：数字化时代的企业增长地图_SoBooKs.cc 王赛 [王赛, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5b7e67b73aeff9bb2b3d6ecaf60130d6

@@ -8,7 +8,7 @@
 9250、_italian_L'amore del bandito_Massimo Carlotto_E_O.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7264d6689f011eabf2cd3ebdae6dd9eb

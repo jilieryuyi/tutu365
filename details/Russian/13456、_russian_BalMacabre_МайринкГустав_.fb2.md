@@ -8,7 +8,7 @@
 13456、_russian_Bal Macabre_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bf93aae3c4f0b2746f2e6429d885c84

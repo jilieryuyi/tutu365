@@ -8,7 +8,7 @@
 12388、_russian_Залив Дохлого Кита_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccbbe5d3d1c0c949822400b528ad6122

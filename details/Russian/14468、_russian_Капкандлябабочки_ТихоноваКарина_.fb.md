@@ -8,7 +8,7 @@
 14468、_russian_Капкан для бабочки_Тихонова Карина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 183fd0091bc904b60a9c9af768a8d93c

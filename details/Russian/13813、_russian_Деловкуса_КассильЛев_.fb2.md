@@ -8,7 +8,7 @@
 13813、_russian_Дело вкуса_Кассиль Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 426764bbb82033db3d479b396b16d3b8

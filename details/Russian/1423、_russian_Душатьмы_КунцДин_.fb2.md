@@ -8,7 +8,7 @@
 1423、_russian_Душа тьмы_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8323ba1152b041e062c0a6e1f702093e

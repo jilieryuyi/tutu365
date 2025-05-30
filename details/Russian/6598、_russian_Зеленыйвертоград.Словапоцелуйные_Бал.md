@@ -8,7 +8,7 @@
 6598、_russian_Зеленый вертоград. Слова поцелуйные_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d947fd816428c1ee4c8ce9b052fa6ee6

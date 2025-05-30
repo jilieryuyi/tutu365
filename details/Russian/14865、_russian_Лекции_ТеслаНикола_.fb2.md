@@ -8,7 +8,7 @@
 14865、_russian_Лекции_Тесла Никола_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7013b5532bae562af915665d6c5df71

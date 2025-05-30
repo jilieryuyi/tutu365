@@ -8,7 +8,7 @@
 656、_russian_Джек Восьмеркин американец_Смирнов Николай Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82a1686efcc18e8e1b2f331bbd5d55ff

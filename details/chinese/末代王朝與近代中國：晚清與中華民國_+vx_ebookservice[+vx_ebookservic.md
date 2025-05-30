@@ -8,7 +8,7 @@
 末代王朝與近代中國：晚清與中華民國_+vx_ebookservice [+vx_ebookservice]__5366100_13a4afcc74f64d9e8d6a06276ba1a54f.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 13a4afcc74f64d9e8d6a06276ba1a54f

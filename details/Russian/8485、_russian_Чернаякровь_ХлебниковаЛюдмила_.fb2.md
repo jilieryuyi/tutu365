@@ -8,7 +8,7 @@
 8485、_russian_Черная кровь_Хлебникова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a03193d78a709fe913c3fc2e792e6ac

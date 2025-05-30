@@ -8,7 +8,7 @@
 12257、_russian_Обыкновенная мемба_Мелентьев Виталий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ed984a13ede87b6819ccb6b617cc523

@@ -8,7 +8,7 @@
 2059、Linux高性能服务器编程_游双_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c243065deabfab745c8021fa65acfa2b

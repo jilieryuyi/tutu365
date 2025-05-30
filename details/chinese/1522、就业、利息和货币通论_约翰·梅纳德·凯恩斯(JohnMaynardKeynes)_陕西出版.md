@@ -8,7 +8,7 @@
 1522、就业、利息和货币通论_约翰·梅纳德·凯恩斯(John Maynard Keynes)_陕西出版集团，陕西人民出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 11748315a73c9b48b64d805922d85f45

@@ -8,7 +8,7 @@
 663、_russian_Научно о лженауке_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 089cf2f50a49170899e314dbb7ee2668

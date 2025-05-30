@@ -8,7 +8,7 @@
 4051、_russian_Возвращение_Ежов Михаил, Новиков Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16a6f78fc6250c3208114571deb54460

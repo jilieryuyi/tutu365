@@ -8,7 +8,7 @@
 城的灯（第九届茅盾文学家获奖作家李佩甫作品） (共和国作家文库)_李佩甫_Writers Publishing House_5475862_36523027e485db88edf1f4114bc70e0f.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 36523027e485db88edf1f4114bc70e0f

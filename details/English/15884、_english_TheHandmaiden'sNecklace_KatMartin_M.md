@@ -8,7 +8,7 @@
 15884、_english_The Handmaiden's Necklace_Kat Martin_MIRA.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 443552d6b5f2e75daf07e9c0b62917ba

@@ -8,7 +8,7 @@
 3790、_russian_Гиперборея_Белкина Наталья Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c2cd41d55a610ec66d94711ccd71f70

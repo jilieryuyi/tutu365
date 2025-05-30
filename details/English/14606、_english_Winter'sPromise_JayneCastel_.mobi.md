@@ -8,7 +8,7 @@
 14606、_english_Winter's Promise_Jayne Castel_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 877e43e767fc518d457626da4e44f1d0

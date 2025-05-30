@@ -8,7 +8,7 @@
 15308、_russian_Маленькие человечки_Кристофер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47d4fec4eaeb34f7fbf249dffeb6b537

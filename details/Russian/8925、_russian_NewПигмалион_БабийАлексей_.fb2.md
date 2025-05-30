@@ -8,7 +8,7 @@
 8925、_russian_New Пигмалион_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b17c293ce4cb7351d681cafaf41d220

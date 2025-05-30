@@ -8,7 +8,7 @@
 1260、_russian_Мост птиц_Хьюарт Барри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc79d19ea5ab043af7c0d773ac879820

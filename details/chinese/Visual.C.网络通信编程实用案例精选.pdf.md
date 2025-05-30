@@ -8,7 +8,7 @@
 Visual.C.网络通信编程实用案例精选.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 925512aa84563d80145392060463b08d

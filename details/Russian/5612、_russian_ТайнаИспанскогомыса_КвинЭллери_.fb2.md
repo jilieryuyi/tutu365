@@ -8,7 +8,7 @@
 5612、_russian_Тайна Испанского мыса_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc4dbf5341908cf88ca5b73621a14fb8

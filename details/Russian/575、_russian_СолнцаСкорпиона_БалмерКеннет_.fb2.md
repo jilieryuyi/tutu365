@@ -8,7 +8,7 @@
 575、_russian_Солнца Скорпиона_Балмер Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6aa466521f5d9d478400e812124f79e8

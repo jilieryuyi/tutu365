@@ -8,7 +8,7 @@
 3387、_russian_Хроники ЛИАПа или Сказки о потерянном времени_Точинов Виктор Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fd9649eae0abc47cd3b7b8f05ffc63d

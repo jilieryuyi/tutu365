@@ -8,7 +8,7 @@
 14044、_french_Capitaine Futur [4] Le Triomphe_Edmond Hamilton _LE B_LIAL'.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 24f65a70c4d2ddf738ae54dd4cccf330

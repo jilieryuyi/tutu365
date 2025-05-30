@@ -8,7 +8,7 @@
 3380、_russian_Остров_Бондаренко Борис Егорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53aa52a139ca14a988e14ebeef5770ab

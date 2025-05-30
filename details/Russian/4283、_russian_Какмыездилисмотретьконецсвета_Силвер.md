@@ -8,7 +8,7 @@
 4283、_russian_Как мы ездили смотреть конец света_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c0ea897638c156ea1258681b7fbac24

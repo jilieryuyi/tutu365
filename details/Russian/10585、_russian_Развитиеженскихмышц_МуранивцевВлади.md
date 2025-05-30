@@ -8,7 +8,7 @@
 10585、_russian_Развитие женских мышц_Муранивцев Владимир Леонидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26f33c48c59b2c6a134753d6ff7dd265

@@ -8,7 +8,7 @@
 17106、_english_Blackthorne's Bride_Joan Johnston_Dell.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9b18a63700154bb01b0fa47e9427a075

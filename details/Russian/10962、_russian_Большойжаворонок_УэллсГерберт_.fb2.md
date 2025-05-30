@@ -8,7 +8,7 @@
 10962、_russian_Большой жаворонок_Уэллс Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4d12ad714b18a7b78fc9fe96162401d

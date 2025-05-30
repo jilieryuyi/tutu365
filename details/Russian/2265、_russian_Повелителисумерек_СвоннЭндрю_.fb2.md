@@ -8,7 +8,7 @@
 2265、_russian_Повелители сумерек_Свонн Эндрю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2eeadca36136a25b3ee1455e5c8072a

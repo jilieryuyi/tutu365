@@ -8,7 +8,7 @@
 2935、_russian_Восемь дней до рассвета_Лавриненко Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3ebf93764517bcac802a2a75366e78a

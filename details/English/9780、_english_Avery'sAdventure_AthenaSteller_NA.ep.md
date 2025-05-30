@@ -8,7 +8,7 @@
 9780、_english_Avery's Adventure_Athena Steller_NA.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4181569d639f3a020122491e8af8c716

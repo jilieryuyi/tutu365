@@ -8,7 +8,7 @@
 11604、_russian_Репортаж о вредине_Джонс Аллан Фревин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efd0b55d87b29eae6c9d67e4a6fe36b9

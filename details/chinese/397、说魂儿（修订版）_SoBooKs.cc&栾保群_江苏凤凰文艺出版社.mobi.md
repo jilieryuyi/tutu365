@@ -8,7 +8,7 @@
 397、说魂儿（修订版）_SoBooKs.cc & 栾保群_江苏凤凰文艺出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a53b3054b228ca535dd2880deb6a19af

@@ -8,7 +8,7 @@
 10631、_russian_Китайский омар_Байетт А. С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b4dad74b60f60f280e341219c102663

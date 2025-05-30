@@ -8,7 +8,7 @@
 12087、_spanish_Guianeya_Martinov Gueorgui_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2e805b6678739146bf065d37f2112703

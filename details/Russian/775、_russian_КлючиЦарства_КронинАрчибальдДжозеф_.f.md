@@ -8,7 +8,7 @@
 775、_russian_Ключи Царства_Кронин Арчибальд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24d225fd326fe15d8047b66e252a14f9

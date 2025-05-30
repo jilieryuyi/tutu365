@@ -8,7 +8,7 @@
 3003、_russian_Новый русский бестиарий_Боссарт Алла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 319ca70a5c9092292a95f785f672120e

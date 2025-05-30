@@ -8,7 +8,7 @@
 32、_russian_Стихи_Прутков Козьма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e9f054f9cc9d4ec9fbaa5b448c52099

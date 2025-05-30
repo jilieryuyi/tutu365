@@ -8,7 +8,7 @@
 13066、_russian_На Красном дворе_Равита Францишек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b243ccf86d0468b3f049bd2bb8fc067a

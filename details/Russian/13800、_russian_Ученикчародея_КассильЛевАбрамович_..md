@@ -8,7 +8,7 @@
 13800、_russian_Ученик чародея_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efd69a87ee12630637013ad9957b056c

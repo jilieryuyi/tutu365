@@ -8,7 +8,7 @@
 4522、_russian_Сделка с боссом_Джордж Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfee763640de5f54f0ddea4c3086cc4d

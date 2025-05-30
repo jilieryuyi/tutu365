@@ -8,7 +8,7 @@
 6286、_russian_ЗА ДЕРЖАВУ ОБИДНО. Вопросы и ответы про СССР_Пучков Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aaff358a3bd64db5204191da3f876d7f

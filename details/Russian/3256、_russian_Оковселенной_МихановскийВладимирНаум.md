@@ -8,7 +8,7 @@
 3256、_russian_Око вселенной_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d85bce31d741be63a75ffcf355dc3860

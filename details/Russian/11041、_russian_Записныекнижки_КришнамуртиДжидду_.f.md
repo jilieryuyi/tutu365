@@ -8,7 +8,7 @@
 11041、_russian_Записные книжки_Кришнамурти Джидду_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5280ec50267471d0b50e5e22c904025b

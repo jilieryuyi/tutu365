@@ -8,7 +8,7 @@
 1739、_russian_Не бойся сказать _люблю__Джохансон Инид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29562a003f9f7a4c3e7e11188e6614e4

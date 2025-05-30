@@ -8,7 +8,7 @@
 9042、_russian_Судный день американских финансов_ мягкая депрессия XXI в._Боннер Уильям, Уиггин Эддисон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ced76da61a351ed0ae26cb2fea12f3db

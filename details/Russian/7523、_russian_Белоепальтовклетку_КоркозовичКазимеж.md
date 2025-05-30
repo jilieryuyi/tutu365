@@ -8,7 +8,7 @@
 7523、_russian_Белое пальто в клетку_Коркозович Казимеж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92eaf350d61940c9eb93bdbb2e08ed04

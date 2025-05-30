@@ -8,7 +8,7 @@
 1799、_russian_Метаполитика_Ефимов Игорь Маркович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e3c5ca6ea9faefea988318bcf9b62bb

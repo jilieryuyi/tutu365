@@ -8,7 +8,7 @@
 4568、_russian_Охота на ведьм_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eed97b9c96a7fd2fefa598a0778a9a30

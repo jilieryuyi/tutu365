@@ -8,7 +8,7 @@
 1882、_russian_Осторожно HOT DOG! (с иллюстрациями)_Голденков Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68be5de20402945e2ee5ff37e984c774

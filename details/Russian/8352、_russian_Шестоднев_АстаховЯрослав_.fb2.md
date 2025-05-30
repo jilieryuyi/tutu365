@@ -8,7 +8,7 @@
 8352、_russian_Шестоднев_Астахов Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bf915e6efc88f1c5123c626dec994c9

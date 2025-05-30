@@ -8,7 +8,7 @@
 6265、_russian_Святая Грета_Славнейшева Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bf4b09d9513fc8a96a123a3999b16aa

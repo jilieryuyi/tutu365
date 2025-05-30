@@ -8,7 +8,7 @@
 13885、_russian_Just for fun. Рассказ нечаянного революционера__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b92ab8cfb1194147960f5aa7d2d19a9e

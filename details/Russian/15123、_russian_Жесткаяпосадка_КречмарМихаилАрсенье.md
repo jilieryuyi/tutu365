@@ -8,7 +8,7 @@
 15123、_russian_Жесткая посадка_Кречмар Михаил Арсеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d8dc046e18c4059903ad45884be9550

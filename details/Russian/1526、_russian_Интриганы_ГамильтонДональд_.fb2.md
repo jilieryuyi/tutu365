@@ -8,7 +8,7 @@
 1526、_russian_Интриганы_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5297c6b3c21f3726c7ebd9ef1475a064

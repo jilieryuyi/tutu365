@@ -8,7 +8,7 @@
 3155、硬球_Chris Matthews [Matthews, Chris]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 532ec11b8c9319eab12e8fd1f53cfceb

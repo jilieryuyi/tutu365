@@ -8,7 +8,7 @@
 2462、_russian_Властелин неба_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91bf8949341d8314f6f6e4e940ef0edc

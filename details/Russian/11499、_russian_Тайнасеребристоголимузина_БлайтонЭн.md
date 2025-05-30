@@ -8,7 +8,7 @@
 11499、_russian_Тайна серебристого лимузина_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5068291583ce629ef3d7d9b5b815e5d6

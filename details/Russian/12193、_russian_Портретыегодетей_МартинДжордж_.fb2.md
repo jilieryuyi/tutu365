@@ -8,7 +8,7 @@
 12193、_russian_Портреты его детей_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c060d4e4f3956e4056f460be8d5fdac3

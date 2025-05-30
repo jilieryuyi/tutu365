@@ -8,7 +8,7 @@
 14035、_russian_Убийца - Лис_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf8bb6281221c6c49fb9121925d818f3

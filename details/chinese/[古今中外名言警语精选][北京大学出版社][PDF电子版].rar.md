@@ -8,7 +8,7 @@
 [古今中外名言警语精选][北京大学出版社][PDF电子版].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 91cd051f816cfb2621e7c3fecf2d555c

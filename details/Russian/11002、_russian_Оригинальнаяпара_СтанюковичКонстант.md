@@ -8,7 +8,7 @@
 11002、_russian_Оригинальная пара_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 461277e835cf543e733a96acae75a1e3

@@ -8,7 +8,7 @@
 2204、_russian_Жертва Сименона_Никольская Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa091a8a0df304cecdb3ced92c89018c

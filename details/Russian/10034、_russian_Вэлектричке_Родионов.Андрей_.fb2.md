@@ -8,7 +8,7 @@
 10034、_russian_В электричке_Родионов. Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9a61c673fdbd5afa7499292ffa6ee0e

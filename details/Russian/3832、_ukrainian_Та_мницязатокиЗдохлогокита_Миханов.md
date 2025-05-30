@@ -8,7 +8,7 @@
 3832、_ukrainian_Та_мниця затоки Здохлого кита_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f9592abc291c1181f62ae2cba230fba

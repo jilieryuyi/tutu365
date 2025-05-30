@@ -8,7 +8,7 @@
 1859、_russian_Проклятое столетие_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39d63cd12744a63fc839621a05d2b4f3

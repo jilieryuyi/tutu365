@@ -8,7 +8,7 @@
 6050、_russian_Запри замок на Monolock_Прорез Журнал, Мещеряков Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50157a17cd941260bdee842dd76a8a6d

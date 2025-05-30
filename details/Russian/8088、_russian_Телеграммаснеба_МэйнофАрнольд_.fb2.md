@@ -8,7 +8,7 @@
 8088、_russian_Телеграмма с неба_Мэйноф Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c060fd8b79d16750aea7c4fc45218a1d

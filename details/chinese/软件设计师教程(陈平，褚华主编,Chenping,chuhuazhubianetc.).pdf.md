@@ -8,7 +8,7 @@
 软件设计师教程 (陈平，褚华主编, Chen ping, chu hua zhu bian etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7dbd2bbf10efb25e481ec217a0f8c06b

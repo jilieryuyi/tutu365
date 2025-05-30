@@ -8,7 +8,7 @@
 2199、_russian_Объединенные разумом_Шеффилд Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80766cec255969da78f6f3c722888a8a

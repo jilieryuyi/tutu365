@@ -8,7 +8,7 @@
 10616、_russian_Фанат Казановы_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbd777eb22b07321d80ece34a3575438

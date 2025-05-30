@@ -8,7 +8,7 @@
 《新手菜最好学》高清扫描版[PDF][烹饪美食].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 16a2dda6365e73321e02d233edc3ea83

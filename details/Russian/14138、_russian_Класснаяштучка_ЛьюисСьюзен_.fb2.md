@@ -8,7 +8,7 @@
 14138、_russian_Классная штучка_Льюис Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2618b18cc38c8688c472b5d53b05f84a

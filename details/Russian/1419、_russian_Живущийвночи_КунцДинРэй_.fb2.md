@@ -8,7 +8,7 @@
 1419、_russian_Живущий в ночи_Кунц Дин Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c065ef0f5fb95cb578a1186aa40af47

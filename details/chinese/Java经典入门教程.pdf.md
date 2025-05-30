@@ -8,7 +8,7 @@
 Java经典入门教程.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dd1e36b8a7e4b971f96310d7d5c53103

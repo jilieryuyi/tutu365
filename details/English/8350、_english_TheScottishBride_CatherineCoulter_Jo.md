@@ -8,7 +8,7 @@
 8350、_english_The Scottish Bride_Catherine Coulter_Jove.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 55339c13bb907d423154fe1637111c2f

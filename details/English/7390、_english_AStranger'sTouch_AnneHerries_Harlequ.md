@@ -8,7 +8,7 @@
 7390、_english_A Stranger's Touch_Anne Herries_HarlequinUKLtd.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b714b26bb990d2b355597198fa06a93b

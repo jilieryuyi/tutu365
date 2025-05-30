@@ -8,7 +8,7 @@
 9580、_russian_Большая Советская Энциклопедия (ГП)_БСЭ БСЭ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 255fb0a40444a2b8a3b1cecd373f0a9f

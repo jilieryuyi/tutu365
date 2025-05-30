@@ -8,7 +8,7 @@
 9928、_english_Distress_Иган Грег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b864db388090db1daa07c9c772a1dff

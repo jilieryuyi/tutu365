@@ -8,7 +8,7 @@
 970、_russian_Пришествие Мрака_Уильямс Шон, Дикс Шейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6a5eb43b09c2335248cb0fcc2bf1d4a

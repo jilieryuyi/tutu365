@@ -8,7 +8,7 @@
 14480、_russian_Крылатые слова_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b92aefa6ffaaa1e7f8ed730ed8aaa90c

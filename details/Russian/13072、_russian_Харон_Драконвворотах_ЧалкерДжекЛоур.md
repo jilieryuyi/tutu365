@@ -8,7 +8,7 @@
 13072、_russian_Харон_ Дракон в воротах_Чалкер Джек Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baed0531f844343607abf7ed6eccf5ac

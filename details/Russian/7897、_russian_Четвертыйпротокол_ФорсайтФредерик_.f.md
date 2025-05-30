@@ -8,7 +8,7 @@
 7897、_russian_Четвертый протокол_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 965dd4d40a8e65ee39cfbc30292505ce

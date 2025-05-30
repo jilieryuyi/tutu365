@@ -8,7 +8,7 @@
 11742、_russian_Техническая ошибка_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b770576e6b44c1ea08012501604f5520

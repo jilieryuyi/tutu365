@@ -8,7 +8,7 @@
 7147、_russian_Осенний день_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85f265b2286cc4e75f340a1f09151e9e

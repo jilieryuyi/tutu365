@@ -8,7 +8,7 @@
 17036、_english_Pretender's Game_Louise Clark_ePublishing Works!.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b813478b8e320d8b91e7fee1425fe513

@@ -8,7 +8,7 @@
 5800、_russian_Осуждение истины_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a2e8c81f2adc0ae4bd51d34a03a05f7

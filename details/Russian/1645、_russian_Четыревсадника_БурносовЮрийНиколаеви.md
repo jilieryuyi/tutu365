@@ -8,7 +8,7 @@
 1645、_russian_Четыре всадника_Бурносов Юрий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebbc271590ed06c77ac5920ae5816f57

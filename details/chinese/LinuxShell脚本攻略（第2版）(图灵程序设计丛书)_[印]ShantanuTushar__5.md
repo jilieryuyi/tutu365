@@ -8,7 +8,7 @@
 Linux Shell脚本攻略（第2版） (图灵程序设计丛书)_[印]Shantanu Tushar__5476643_a9c7460b447ddf097f5d8d2c652a6a5a.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a9c7460b447ddf097f5d8d2c652a6a5a

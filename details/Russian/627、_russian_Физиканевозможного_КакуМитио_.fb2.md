@@ -8,7 +8,7 @@
 627、_russian_Физика невозможного_Каку Митио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0df86e4e0baaf0e786b6aa8621f62de8

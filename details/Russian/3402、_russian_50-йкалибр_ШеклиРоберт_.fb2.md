@@ -8,7 +8,7 @@
 3402、_russian_50-й калибр_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a2c6ac87483ddb7f224d3c295e9c879

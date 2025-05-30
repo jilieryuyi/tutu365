@@ -8,7 +8,7 @@
 1365、沃顿商学院最受欢迎的成功课_Adam M. Grant_中信出版股份有限公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 418bdb0298ffab7d8665b434abed8e79

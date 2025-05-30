@@ -8,7 +8,7 @@
 5786、_russian_Тайны Истинного мира_Ефиминюк Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54256a7235e28f9f7553001b186c4a66

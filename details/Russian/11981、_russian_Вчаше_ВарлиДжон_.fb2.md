@@ -8,7 +8,7 @@
 11981、_russian_В чаше_Варли Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41991ea442521739719c597ff3fdaaf5

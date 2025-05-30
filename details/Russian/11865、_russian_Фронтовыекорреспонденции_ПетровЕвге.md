@@ -8,7 +8,7 @@
 11865、_russian_Фронтовые корреспонденции_Петров Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8211802e7a6e9b4d40a03b4b3e0ba4ad

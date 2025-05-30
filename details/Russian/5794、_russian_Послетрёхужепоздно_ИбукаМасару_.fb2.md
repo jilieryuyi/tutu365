@@ -8,7 +8,7 @@
 5794、_russian_После трёх уже поздно_Ибука Масару_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a21d867b3627ef6bd88273388d1292e

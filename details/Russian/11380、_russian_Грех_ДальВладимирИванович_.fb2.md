@@ -8,7 +8,7 @@
 11380、_russian_Грех_Даль Владимир Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b275c1d8a958467f90342454bfdfcf56

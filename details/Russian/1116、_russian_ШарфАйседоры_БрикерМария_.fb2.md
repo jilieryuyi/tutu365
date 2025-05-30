@@ -8,7 +8,7 @@
 1116、_russian_Шарф Айседоры_Брикер Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3cc77148201b538324dd7095421c1f4

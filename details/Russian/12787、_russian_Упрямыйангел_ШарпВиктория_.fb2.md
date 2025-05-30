@@ -8,7 +8,7 @@
 12787、_russian_Упрямый ангел_Шарп Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f37ea785fbe99538ce1a67654f15478

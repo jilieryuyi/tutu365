@@ -8,7 +8,7 @@
 8351、_russian_Пособие для начинающего мага_Шумская Елизавета_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ea8180bf79039ae02a323381fb7dd04

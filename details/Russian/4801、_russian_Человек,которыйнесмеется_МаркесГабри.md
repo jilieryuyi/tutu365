@@ -8,7 +8,7 @@
 4801、_russian_Человек, который не смеется_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2afc9e86e1effcef97bd54f00c2ddd9d

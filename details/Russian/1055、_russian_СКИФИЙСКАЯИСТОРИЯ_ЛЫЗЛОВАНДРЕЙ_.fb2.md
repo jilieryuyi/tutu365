@@ -8,7 +8,7 @@
 1055、_russian_СКИФИЙСКАЯ ИСТОРИЯ_ЛЫЗЛОВ АНДРЕЙ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f919538ca8ff9514cb3748c11f52747b

@@ -8,7 +8,7 @@
 5406、_other_Сумерки__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7883ad9d5a84c7155f345ed70ddaf14e

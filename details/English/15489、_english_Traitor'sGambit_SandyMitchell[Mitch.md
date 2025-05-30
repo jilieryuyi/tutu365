@@ -8,7 +8,7 @@
 15489、_english_Traitor's Gambit_Sandy Mitchell [Mitchell, Sandy]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c5a29155f0b74fc598a755ee0cc22419

@@ -8,7 +8,7 @@
 7036、_russian_Кот без дураков (пер. В.Ланчиков)_Пратчетт Теренс Дэвид Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58f043673bae7373fba7bf9f83f0ed03

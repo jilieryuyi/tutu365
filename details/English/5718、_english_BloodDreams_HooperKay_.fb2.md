@@ -8,7 +8,7 @@
 5718、_english_Blood Dreams_Hooper Kay_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3018a86d74c9b2ba4751b18fa58a79d4

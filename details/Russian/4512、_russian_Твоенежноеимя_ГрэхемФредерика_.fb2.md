@@ -8,7 +8,7 @@
 4512、_russian_Твое нежное имя_Грэхем Фредерика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8011d6204ea2f04d55fee606505cc948

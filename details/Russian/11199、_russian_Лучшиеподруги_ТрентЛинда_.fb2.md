@@ -8,7 +8,7 @@
 11199、_russian_Лучшие подруги_Трент Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 faa127f3b7328af63c5c2588a29b96b9

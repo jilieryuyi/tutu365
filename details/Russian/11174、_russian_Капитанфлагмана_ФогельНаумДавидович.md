@@ -8,7 +8,7 @@
 11174、_russian_Капитан флагмана_Фогель Наум Давидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f16b1cc6efc4a8fdf3ee953ca04d8530

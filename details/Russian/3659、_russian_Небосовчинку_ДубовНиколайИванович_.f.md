@@ -8,7 +8,7 @@
 3659、_russian_Небо с овчинку_Дубов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83f229fa8af735f9cc43bcd39107b66b

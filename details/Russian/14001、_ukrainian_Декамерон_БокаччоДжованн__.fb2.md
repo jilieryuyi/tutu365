@@ -8,7 +8,7 @@
 14001、_ukrainian_Декамерон_Бокаччо Джованн__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 746ec6dd8c3de0821b71d048e1970249

@@ -8,7 +8,7 @@
 11633、_russian_Та сторона, где ветер_Крапивин Владислав Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbe0f5a80de009e974ed6bc355accc92

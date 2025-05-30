@@ -8,7 +8,7 @@
 8391、_russian_Человек, как лезвие бритвы_Быков Дмитрий Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a34de3806550cc9b10e03f0dd33604c5

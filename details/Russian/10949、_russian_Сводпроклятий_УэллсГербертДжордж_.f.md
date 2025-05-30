@@ -8,7 +8,7 @@
 10949、_russian_Свод проклятий_Уэллс Герберт Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a61f5417e19436ec562698418bc1d09

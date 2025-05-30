@@ -8,7 +8,7 @@
 11525、_english_The Duke's Marriage Mission_Deborah Hale_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5f4b20708adb2401e4dd01c408d63b29

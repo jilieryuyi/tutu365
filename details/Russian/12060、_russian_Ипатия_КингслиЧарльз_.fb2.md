@@ -8,7 +8,7 @@
 12060、_russian_Ипатия_Кингсли Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f41218f4aa1b6b0959f0717009514b42

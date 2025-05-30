@@ -8,7 +8,7 @@
 8926、_russian_Мана-72_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d845fd109176eb34e43e4c46ad9cbdb

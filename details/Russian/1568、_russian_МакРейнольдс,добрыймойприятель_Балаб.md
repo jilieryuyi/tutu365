@@ -8,7 +8,7 @@
 1568、_russian_Мак Рейнольдс, добрый мой приятель_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f869e9ab54e7594a6d44ee664bc3e8dc

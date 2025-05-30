@@ -8,7 +8,7 @@
 7320、_russian_Буреносец _ Stormbringer [= Буревестник, Приносящий бурю, Несущий бурю]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b3a956eb7957af45f68985ea135d253

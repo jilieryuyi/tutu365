@@ -8,7 +8,7 @@
 13106、_english_The Duke's Darkest Desire_Ella Edon_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7317b1df55b1c5f733dfbfd811405fd0

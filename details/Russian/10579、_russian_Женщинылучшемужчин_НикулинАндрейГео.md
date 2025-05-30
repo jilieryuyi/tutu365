@@ -8,7 +8,7 @@
 10579、_russian_Женщины лучше мужчин_Никулин Андрей Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e276e5dad948d3ed75a426aa560e87d

@@ -8,7 +8,7 @@
 15130、_russian_Смягчающее обстоятельство_Кивинов Андрей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25dcda24e52ebd98b70a7254238fed2d

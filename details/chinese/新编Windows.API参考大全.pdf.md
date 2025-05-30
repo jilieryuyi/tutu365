@@ -8,7 +8,7 @@
 新编Windows.API参考大全.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bd1229cee122f261cfe102ba1edfa602

@@ -8,7 +8,7 @@
 12124、_russian_Горная кошка_Стаут Рекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6593f3b27825a2f0b2b14125f961631d

@@ -8,7 +8,7 @@
 2151、编写高质量代码：改善Objective-C程序的61个建议 (Effective系列丛书)_刘一道 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 44034e39550c6419fe4aa6dae2b29cfc

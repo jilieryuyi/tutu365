@@ -8,7 +8,7 @@
 深入浅出密码学——常见加密技术原理与应用_Christof Paar, Jan Pelzl_清华大学出版社_5539602_1e86d19b8ee26b09f5713c8fd90678a1.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e86d19b8ee26b09f5713c8fd90678a1

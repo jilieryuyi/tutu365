@@ -8,7 +8,7 @@
 3786、_russian_Зов ягуара_Гроф Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3327a4fd25511558d9e5e00dc1139c3

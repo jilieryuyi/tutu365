@@ -8,7 +8,7 @@
 7903、_ukrainian__стор__ в дев'яти книгах. КнигаVIII_ Уран_я_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1753eb81a47e7bc90c6b711f1a949628

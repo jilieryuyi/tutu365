@@ -8,7 +8,7 @@
 1358、_russian_Звёздный дар_Абердин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 350c6bca56c06df7da985f6aeee14b6e

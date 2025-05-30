@@ -8,7 +8,7 @@
 10701、_russian_Дети тьмы_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f14cb8dc9410ce8bfd2e560e7bb15dcb

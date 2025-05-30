@@ -8,7 +8,7 @@
 14880、_russian_Семь вечеров_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 680531937ced672fbe9faa9af3de1c50

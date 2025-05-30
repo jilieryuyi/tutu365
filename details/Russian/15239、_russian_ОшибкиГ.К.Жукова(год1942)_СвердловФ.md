@@ -8,7 +8,7 @@
 15239、_russian_Ошибки Г. К. Жукова(год 1942)_Свердлов Фёдор Давыдович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca3e2e26810babe5fd4b3ff4e182b4a0

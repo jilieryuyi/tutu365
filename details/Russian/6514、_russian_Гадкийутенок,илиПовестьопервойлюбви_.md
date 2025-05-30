@@ -8,7 +8,7 @@
 6514、_russian_Гадкий утенок, или Повесть о первой любви_Баклина Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c22acc84c7a0ccf0efb06a6054bb0f2e

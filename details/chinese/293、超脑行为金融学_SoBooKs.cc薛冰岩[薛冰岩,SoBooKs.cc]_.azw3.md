@@ -8,7 +8,7 @@
 293、超脑行为金融学_SoBooKs.cc 薛冰岩 [薛冰岩, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d9595f698ca447e672be5c2a3d983486

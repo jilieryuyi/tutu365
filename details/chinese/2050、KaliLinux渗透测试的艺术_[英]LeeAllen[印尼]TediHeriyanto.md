@@ -8,7 +8,7 @@
 2050、Kali Linux渗透测试的艺术_[英]Lee Allen [印尼]Tedi Heriyanto & [英]Shakeel Ali_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0f9976be66485b722dbaeda20aecd1a6

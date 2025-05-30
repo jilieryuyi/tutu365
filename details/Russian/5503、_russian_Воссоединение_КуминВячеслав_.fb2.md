@@ -8,7 +8,7 @@
 5503、_russian_Воссоединение_Кумин Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1faf7cbe49e559c9c30f417d416e9498

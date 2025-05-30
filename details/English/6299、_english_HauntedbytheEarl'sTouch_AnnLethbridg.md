@@ -8,7 +8,7 @@
 6299、_english_Haunted by the Earl's Touch_Ann Lethbridge_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a93f1d50c345ba703eafc6447704b8db

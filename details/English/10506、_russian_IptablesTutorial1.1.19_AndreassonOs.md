@@ -8,7 +8,7 @@
 10506、_russian_Iptables Tutorial 1.1.19_Andreasson Oskar_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5d97028af107d6b5840425dcc15ab31c

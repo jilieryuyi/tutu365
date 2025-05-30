@@ -8,7 +8,7 @@
 5657、_russian_Наследники империи_Молитвин Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee8c4b3fcb1c4fbe241f249106614948

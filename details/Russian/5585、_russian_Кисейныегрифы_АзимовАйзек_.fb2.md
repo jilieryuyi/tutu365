@@ -8,7 +8,7 @@
 5585、_russian_Кисейные грифы_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4952e80f6a49b3efccdfc86f21e642f

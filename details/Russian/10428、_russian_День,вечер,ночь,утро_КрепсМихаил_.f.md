@@ -8,7 +8,7 @@
 10428、_russian_День, вечер, ночь, утро_Крепс Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acc908b662eb7d034ce2084c3d832856

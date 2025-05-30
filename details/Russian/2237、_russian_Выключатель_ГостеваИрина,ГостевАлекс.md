@@ -8,7 +8,7 @@
 2237、_russian_Выключатель_Гостева Ирина, Гостев Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e707ae9bfe3ca8e7277440655247907

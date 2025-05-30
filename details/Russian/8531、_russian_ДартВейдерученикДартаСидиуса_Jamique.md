@@ -8,7 +8,7 @@
 8531、_russian_Дарт Вейдер ученик Дарта Сидиуса_Jamique_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e65db8ec6c0cf3018387c2c27c583fcd

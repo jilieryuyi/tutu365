@@ -8,7 +8,7 @@
 12345、_russian_Козёл-Круторог_Нурман Серине Регине_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17da0a33e2fa8363ef8417132cc04107

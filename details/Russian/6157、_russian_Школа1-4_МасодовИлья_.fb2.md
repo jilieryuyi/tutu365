@@ -8,7 +8,7 @@
 6157、_russian_Школа 1-4_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38ebf7903e11e0a9729ccd787d5a6a38

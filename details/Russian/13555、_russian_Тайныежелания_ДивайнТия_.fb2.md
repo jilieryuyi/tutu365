@@ -8,7 +8,7 @@
 13555、_russian_Тайные желания_Дивайн Тия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 132c2dd0c9fbf429107b8492627bc1b2

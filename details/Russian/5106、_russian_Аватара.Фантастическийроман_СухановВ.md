@@ -8,7 +8,7 @@
 5106、_russian_Аватара. Фантастический роман_Суханов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5a0db466c8ff93c9a59e21634974d7e

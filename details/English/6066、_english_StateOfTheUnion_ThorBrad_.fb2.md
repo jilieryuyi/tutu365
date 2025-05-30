@@ -8,7 +8,7 @@
 6066、_english_State Of The Union_Thor Brad_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4fc66f0950b07b0f4496c2e7fbb64ee8

@@ -8,7 +8,7 @@
 5230、_russian_Фаза Монстра_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec7492e3957015376b0782db74cf7f29

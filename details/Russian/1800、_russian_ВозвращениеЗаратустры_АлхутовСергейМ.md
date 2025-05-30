@@ -8,7 +8,7 @@
 1800、_russian_Возвращение Заратустры_Алхутов Сергей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff1f3e6d29f8b18766c2a334eee70584

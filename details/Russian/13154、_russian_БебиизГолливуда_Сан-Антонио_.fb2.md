@@ -8,7 +8,7 @@
 13154、_russian_Беби из Голливуда_Сан-Антонио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e708238b724cba4d7dd2c96c50d62377

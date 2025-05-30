@@ -8,7 +8,7 @@
 3452、_russian_Деграданс_Калугин Алексей, Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54e1c8f0ae3b0bd32361fe384af3d677

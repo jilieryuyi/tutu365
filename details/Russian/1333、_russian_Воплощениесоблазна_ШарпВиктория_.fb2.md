@@ -8,7 +8,7 @@
 1333、_russian_Воплощение соблазна_Шарп Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10c931adb793c09e280dea0328beca1d

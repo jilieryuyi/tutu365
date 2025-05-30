@@ -8,7 +8,7 @@
 1668、创业团队管理系列大套装（从全球最大教育集团-培生教育集团引进）_Jenny Nabben；Douglas Miller；Mike Clayton；Robbie Steinhouse等_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c755f8551f55b46bb7f00696811807f8

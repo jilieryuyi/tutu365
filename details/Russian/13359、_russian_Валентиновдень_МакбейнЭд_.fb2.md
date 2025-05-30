@@ -8,7 +8,7 @@
 13359、_russian_Валентинов день_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57a5dfa0ef1b65d46b09412ed7a5fc0b

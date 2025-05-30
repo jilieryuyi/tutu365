@@ -8,7 +8,7 @@
 9804、_russian_Узник моего желания_Линдсей Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d02ef1c43c2478e8603f958437dfb456

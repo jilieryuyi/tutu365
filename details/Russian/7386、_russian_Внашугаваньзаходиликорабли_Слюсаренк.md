@@ -8,7 +8,7 @@
 7386、_russian_В нашу гавань заходили корабли_Слюсаренко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8822f0f656d814811c5e586acccf40ba

@@ -8,7 +8,7 @@
 12099、_russian_Стихи_Балхи Шахид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4593918a013e64527ded0233f73942ed

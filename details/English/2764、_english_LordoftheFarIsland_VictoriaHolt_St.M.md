@@ -8,7 +8,7 @@
 2764、_english_Lord of the Far Island_Victoria Holt_St. Martin's Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ffd4d980d6d5a7bdbe522a18e0ecba57

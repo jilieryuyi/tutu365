@@ -8,7 +8,7 @@
 3097、_russian_Рог изобилия_Леклер Дэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb6adee94e096f1ca7ceb0af9353e178

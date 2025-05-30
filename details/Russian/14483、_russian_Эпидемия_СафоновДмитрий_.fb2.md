@@ -8,7 +8,7 @@
 14483、_russian_Эпидемия_Сафонов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3c2e60961e3e19980210d95ed11f664

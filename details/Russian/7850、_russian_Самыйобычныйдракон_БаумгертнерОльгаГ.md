@@ -8,7 +8,7 @@
 7850、_russian_Самый обычный дракон_Баумгертнер Ольга Гартвиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2201ec17fec917ae29b3c782e3978ff

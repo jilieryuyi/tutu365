@@ -8,7 +8,7 @@
 4448、_russian_Ржавое море_Ёсиюки Дзюнноскэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f349ec7f64e885005a57c993773d1bd

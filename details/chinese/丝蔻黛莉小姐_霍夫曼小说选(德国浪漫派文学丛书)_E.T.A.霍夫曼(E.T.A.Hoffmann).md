@@ -8,7 +8,7 @@
 丝蔻黛莉小姐_霍夫曼小说选 (德国浪漫派文学丛书)_E.T.A.霍夫曼 (E.T.A.Hoffmann)__5476488_a957690b979bd3b28e15763d24af4b70.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a957690b979bd3b28e15763d24af4b70

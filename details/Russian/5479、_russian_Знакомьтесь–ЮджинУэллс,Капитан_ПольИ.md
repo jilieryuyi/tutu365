@@ -8,7 +8,7 @@
 5479、_russian_Знакомьтесь – Юджин Уэллс, Капитан_Поль Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8308aa09972b34cf1a85ae811b69a28c

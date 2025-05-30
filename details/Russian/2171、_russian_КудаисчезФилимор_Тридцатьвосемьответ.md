@@ -8,7 +8,7 @@
 2171、_russian_Куда исчез Филимор_ Тридцать восемь ответов на загадку сэра Артура Конан Дойля_Фрай Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8cefef80c5b8dda91d5d4cfb2ea1a2b

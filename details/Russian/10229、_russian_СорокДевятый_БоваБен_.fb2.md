@@ -8,7 +8,7 @@
 10229、_russian_Сорок Девятый_Бова Бен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3bd55eb8309c252a997e1fc4974c722

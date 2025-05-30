@@ -8,7 +8,7 @@
 学会快乐_SoBooKs.cc 马修·理查德(Matthieu Ricard) [马修·理查德(Matthieu Ricard), SoBooKs.cc]__5545013_3528de162ce7d458747d777bfaa3b23b.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3528de162ce7d458747d777bfaa3b23b

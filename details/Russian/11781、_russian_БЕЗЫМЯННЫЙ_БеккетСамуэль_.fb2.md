@@ -8,7 +8,7 @@
 11781、_russian_БЕЗЫМЯННЫЙ_Беккет Самуэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5392c7b1df77f459170c134e71a4c70

@@ -8,7 +8,7 @@
 9841、_russian_Жертвенный лицедей_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2627da2325e05c548d847ae547448be

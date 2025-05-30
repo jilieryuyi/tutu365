@@ -8,7 +8,7 @@
 6287、_russian_Жизнь так коротка_Зябнев Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a058c3beb37cef2e5d8a9b44a145a258

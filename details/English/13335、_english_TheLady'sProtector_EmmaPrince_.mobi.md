@@ -8,7 +8,7 @@
 13335、_english_The Lady's Protector_Emma Prince_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6c1e81c496b681415296ffb29fe28219

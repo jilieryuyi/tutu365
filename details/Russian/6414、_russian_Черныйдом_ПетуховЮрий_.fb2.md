@@ -8,7 +8,7 @@
 6414、_russian_Черный дом_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f1750d4a224223e991979be5b784260

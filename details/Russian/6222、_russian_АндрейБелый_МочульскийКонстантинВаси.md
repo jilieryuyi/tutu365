@@ -8,7 +8,7 @@
 6222、_russian_Андрей Белый_Мочульский Константин Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1783f57785629add1a64c174729af1dd

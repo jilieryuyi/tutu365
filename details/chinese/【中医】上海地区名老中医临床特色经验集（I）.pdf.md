@@ -8,7 +8,7 @@
 【中医】上海地区名老中医临床特色经验集（I）.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ced8d848d5cb196ffe6f9523dd0b9f63

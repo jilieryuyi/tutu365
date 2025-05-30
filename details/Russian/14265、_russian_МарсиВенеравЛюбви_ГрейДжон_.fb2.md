@@ -8,7 +8,7 @@
 14265、_russian_Марс и Венера в Любви_Грей Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fce3e5137fbf898b5ba2384c2a23aba2

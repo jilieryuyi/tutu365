@@ -8,7 +8,7 @@
 14569、_french_Rêves de gloire_Roland C. Wagner [Wagner, Roland C.]_L'Atalante.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dce07beee0779a8727dc7fe2d4928043

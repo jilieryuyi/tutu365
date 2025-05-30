@@ -8,7 +8,7 @@
 14203、_russian_Баллада о Кольце_Высоцкий Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da78d0cf2a4f88211ced652b19a644fc

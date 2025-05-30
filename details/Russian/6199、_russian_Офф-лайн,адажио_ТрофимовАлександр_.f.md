@@ -8,7 +8,7 @@
 6199、_russian_Офф-лайн, адажио_Трофимов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6c481fd23e92d36ffdcd652b2d62886

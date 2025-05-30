@@ -8,7 +8,7 @@
 11160、_russian_Каменец-подольская мужская гимназия_Китлинский_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a5e66356fcf7fb58b627c8d641d09b3

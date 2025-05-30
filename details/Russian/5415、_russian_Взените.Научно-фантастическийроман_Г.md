@@ -8,7 +8,7 @@
 5415、_russian_В зените. Научно-фантастический роман_Гуревич Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4791e6eab3dc7d4c0cf2545160f14f5

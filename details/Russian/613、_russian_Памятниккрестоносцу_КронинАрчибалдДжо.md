@@ -8,7 +8,7 @@
 613、_russian_Памятник крестоносцу_Кронин Арчибалд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e28e17f4313a2172d1c2b4d9e9163ff

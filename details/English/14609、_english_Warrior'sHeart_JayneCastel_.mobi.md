@@ -8,7 +8,7 @@
 14609、_english_Warrior's Heart_Jayne Castel_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 32753f63adf52af67c7b9c13be17447c

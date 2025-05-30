@@ -8,7 +8,7 @@
 4506、_russian_Сеанс_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99aa8d5051b83c3845ccd3115efc8f5d

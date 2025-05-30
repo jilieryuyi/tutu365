@@ -8,7 +8,7 @@
 1821、_english_My Beautiful Enemy_Sherry Thomas_Headline.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bed1b4849a57a2ecbf2b0fccee6f68f3

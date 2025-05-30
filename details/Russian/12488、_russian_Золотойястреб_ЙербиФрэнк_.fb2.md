@@ -8,7 +8,7 @@
 12488、_russian_Золотой ястреб_Йерби Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25ac763fbfd3d4d348b5d554165d3085

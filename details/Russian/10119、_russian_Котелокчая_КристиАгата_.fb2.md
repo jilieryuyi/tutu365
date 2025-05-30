@@ -8,7 +8,7 @@
 10119、_russian_Котелок чая_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc75909caa658243796cdcec7e93b532

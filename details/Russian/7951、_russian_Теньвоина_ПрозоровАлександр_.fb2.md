@@ -8,7 +8,7 @@
 7951、_russian_Тень воина_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7bbedd7142266cbab3c1d4306c6e160

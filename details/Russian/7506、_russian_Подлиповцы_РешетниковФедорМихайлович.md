@@ -8,7 +8,7 @@
 7506、_russian_Подлиповцы_Решетников Федор Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b72c7a385c116e45253ffb76902dfc0e

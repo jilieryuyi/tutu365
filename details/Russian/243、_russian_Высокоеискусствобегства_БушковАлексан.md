@@ -8,7 +8,7 @@
 243、_russian_Высокое искусство бегства_Бушков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6c562f901acbf8e29024e27ed9a6eb3

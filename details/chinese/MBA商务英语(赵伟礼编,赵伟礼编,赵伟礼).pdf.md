@@ -8,7 +8,7 @@
 MBA商务英语 (赵伟礼编, 赵伟礼编, 赵伟礼) .pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 60cf4f08bb417c35516640c3b5cc6d7c

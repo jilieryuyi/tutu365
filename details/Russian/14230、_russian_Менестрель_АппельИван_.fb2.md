@@ -8,7 +8,7 @@
 14230、_russian_Менестрель_Аппель Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1177e13630a973b8bbdcdd768afc8a65

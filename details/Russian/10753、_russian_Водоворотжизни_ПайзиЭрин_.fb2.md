@@ -8,7 +8,7 @@
 10753、_russian_Водоворот жизни_Пайзи Эрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d641cf5065bf4b4bfe4912d7a25c4a7

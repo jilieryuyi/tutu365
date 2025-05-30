@@ -8,7 +8,7 @@
 553、_russian_Суд присяжных_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad744bdd2b3968efa3cae357ff5f2b02

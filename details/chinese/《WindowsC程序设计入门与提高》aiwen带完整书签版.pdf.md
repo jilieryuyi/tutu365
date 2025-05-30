@@ -8,7 +8,7 @@
 《WindowsC程序设计入门与提高》aiwen带完整书签版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 52854e22978df900f5e4a2b582ac8769

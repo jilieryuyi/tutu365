@@ -8,7 +8,7 @@
 8674、_russian_Карательный отряд_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1151adc5c35334bda61c0e6c9f5c430

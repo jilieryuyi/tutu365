@@ -8,7 +8,7 @@
 12911、_russian_Парни в бронежилетах_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb8660fff4eeac2a78532fb042851cbc

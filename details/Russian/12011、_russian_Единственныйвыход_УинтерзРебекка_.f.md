@@ -8,7 +8,7 @@
 12011、_russian_Единственный выход_Уинтерз Ребекка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b23bdddc1e7f078c2ef62f5aa013473c

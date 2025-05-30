@@ -8,7 +8,7 @@
 10913、_russian_Ад на Венере_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fb2d623ff72a19a02a695d4cc32eb53

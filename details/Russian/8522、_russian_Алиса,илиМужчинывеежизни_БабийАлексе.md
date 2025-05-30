@@ -8,7 +8,7 @@
 8522、_russian_Алиса, или Мужчины в ее жизни_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e89b69cf33c74abb409b1d52cafb5fe4

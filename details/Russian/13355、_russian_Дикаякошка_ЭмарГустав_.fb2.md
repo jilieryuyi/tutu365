@@ -8,7 +8,7 @@
 13355、_russian_Дикая кошка_Эмар Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36dad786f57319a567a72cdc4eced1f7

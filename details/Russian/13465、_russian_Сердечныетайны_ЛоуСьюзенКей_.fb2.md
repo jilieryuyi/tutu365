@@ -8,7 +8,7 @@
 13465、_russian_Сердечные тайны_Лоу Сьюзен Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd1c35f21f5bfca052c5608e40aa9494

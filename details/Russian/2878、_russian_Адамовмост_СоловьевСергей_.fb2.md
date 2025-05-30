@@ -8,7 +8,7 @@
 2878、_russian_Адамов мост_Соловьев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 436a1b6644008350f6d75627fa647e3d

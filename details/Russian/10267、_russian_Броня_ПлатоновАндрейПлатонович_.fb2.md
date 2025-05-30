@@ -8,7 +8,7 @@
 10267、_russian_Броня_Платонов Андрей Платонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab8891979eff2f3a73ed77fa9ed0f225

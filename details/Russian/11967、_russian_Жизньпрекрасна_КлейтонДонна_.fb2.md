@@ -8,7 +8,7 @@
 11967、_russian_Жизнь прекрасна_Клейтон Донна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47c9a394bb4d82ce336d7137fae739c1

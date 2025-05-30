@@ -8,7 +8,7 @@
 1631、_russian_Парусные корабли_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b63e0789a87948b255b56cbc4e381985

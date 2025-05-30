@@ -8,7 +8,7 @@
 12834、_russian_Красная Шапочка_Шварц Евгений Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e19a8b20db192713e9f5ad7d0060ff1

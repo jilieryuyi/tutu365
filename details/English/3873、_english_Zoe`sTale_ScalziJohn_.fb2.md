@@ -8,7 +8,7 @@
 3873、_english_Zoe`s Tale_Scalzi John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e83749071c87533b6c5fb080d26a9c8f

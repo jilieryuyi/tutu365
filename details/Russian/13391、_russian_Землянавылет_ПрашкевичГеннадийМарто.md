@@ -8,7 +8,7 @@
 13391、_russian_Земля навылет_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9bc661b361fce83cd4e5dbce6b300e5

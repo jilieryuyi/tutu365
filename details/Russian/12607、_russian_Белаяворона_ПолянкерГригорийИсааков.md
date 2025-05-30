@@ -8,7 +8,7 @@
 12607、_russian_Белая ворона_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f74e25feb43db7b03952bbb6deb32d9

@@ -8,7 +8,7 @@
 假想的_满大人__ 同情、现代性与中国疼痛_韩瑞(Eric Hayot)著 袁剑译_江苏人民出版社_5448961_10169d321de8f486009b19029e080d2e.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 10169d321de8f486009b19029e080d2e

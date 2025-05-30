@@ -8,7 +8,7 @@
 2590、_english_Twice Tempted by a Rogue_Tessa Dare_ePub Bud (www.epubbud.com).mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 36f7af02ba2392118253c5e6f1fe9fb5

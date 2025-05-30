@@ -8,7 +8,7 @@
 8200、_russian_Учебник логики_Челпанов Георгий Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53775ddff0a72ab2868793ae38b613ac

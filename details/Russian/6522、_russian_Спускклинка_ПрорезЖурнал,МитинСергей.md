@@ -8,7 +8,7 @@
 6522、_russian_Спуск клинка_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f223a3053a0dadbaa967c49736af9e31

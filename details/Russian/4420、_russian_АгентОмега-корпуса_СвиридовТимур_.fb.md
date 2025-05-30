@@ -8,7 +8,7 @@
 4420、_russian_Агент Омега-корпуса_Свиридов Тимур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbd5814ef61c577cd1da94f47f057fc2

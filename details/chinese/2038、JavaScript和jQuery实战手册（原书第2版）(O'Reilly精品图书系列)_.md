@@ -8,7 +8,7 @@
 2038、JavaScript和jQuery实战手册（原书第2版） (O'Reilly精品图书系列)_(美)麦克法兰_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b29677bbb4b746f795e5f3614d9a8c7f

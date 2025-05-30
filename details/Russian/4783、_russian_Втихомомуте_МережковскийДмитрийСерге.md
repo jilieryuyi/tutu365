@@ -8,7 +8,7 @@
 4783、_russian_В тихом омуте_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1286c46f7ffb12ec44085b4f5b7f79c1

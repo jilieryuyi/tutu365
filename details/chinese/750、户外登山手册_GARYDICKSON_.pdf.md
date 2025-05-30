@@ -8,7 +8,7 @@
 750、户外登山手册_GARY DICKSON_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5c6937c8ee0cf38b2c058589207c0514

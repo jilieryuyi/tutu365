@@ -8,7 +8,7 @@
 1090、_russian_Дотянуть до точки встречи_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfe79ef757a6b8f3e2d1dc06c47b3459

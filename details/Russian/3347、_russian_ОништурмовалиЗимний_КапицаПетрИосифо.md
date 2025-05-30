@@ -8,7 +8,7 @@
 3347、_russian_Они штурмовали Зимний_Капица Петр Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e642fede8f82ff6879f5760e74d1991

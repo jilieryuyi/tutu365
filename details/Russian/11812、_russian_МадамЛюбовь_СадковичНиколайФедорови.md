@@ -8,7 +8,7 @@
 11812、_russian_Мадам Любовь_Садкович Николай Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e15246962bc8c806beacfd699edb13e6

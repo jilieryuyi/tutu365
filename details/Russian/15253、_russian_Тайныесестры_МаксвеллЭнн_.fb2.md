@@ -8,7 +8,7 @@
 15253、_russian_Тайные сестры_Максвелл Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 148b2b5c2b682d3d72c06d2765ce1f97

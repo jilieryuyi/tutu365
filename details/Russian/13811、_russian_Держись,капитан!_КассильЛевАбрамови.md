@@ -8,7 +8,7 @@
 13811、_russian_Держись, капитан!_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 feb55b16978ded2d27f852b3df0b698f

@@ -8,7 +8,7 @@
 1316、_russian_Мама Стифлера_Раевская Лидия Вячеславовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f971498097db7fec39a493932a354322

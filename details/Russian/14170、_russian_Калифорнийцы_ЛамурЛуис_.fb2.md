@@ -8,7 +8,7 @@
 14170、_russian_Калифорнийцы_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86ce3c6e3df28a3a663146b84375497e

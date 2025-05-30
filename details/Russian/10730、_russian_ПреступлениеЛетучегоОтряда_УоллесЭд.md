@@ -8,7 +8,7 @@
 10730、_russian_Преступление Летучего Отряда_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 793f5742f18370450f1edecf9afc58fc

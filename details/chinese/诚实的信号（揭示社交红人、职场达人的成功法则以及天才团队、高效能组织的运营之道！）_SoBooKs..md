@@ -8,7 +8,7 @@
 诚实的信号（揭示社交红人、职场达人的成功法则以及天才团队、高效能组织的运营之道！）_SoBooKs.cc & 【美】阿莱克斯·彭特兰 & 张子柯译__5538245_c46baef74899d5c232c15da4691f7c67.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c46baef74899d5c232c15da4691f7c67

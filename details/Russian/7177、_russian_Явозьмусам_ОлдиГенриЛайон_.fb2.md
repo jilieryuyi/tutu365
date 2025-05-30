@@ -8,7 +8,7 @@
 7177、_russian_Я возьму сам_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e8103daa6cc89d3c80e754249ed18f0

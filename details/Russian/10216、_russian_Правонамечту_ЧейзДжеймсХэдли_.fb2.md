@@ -8,7 +8,7 @@
 10216、_russian_Право на мечту_Чейз Джеймс Хэдли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db9c03d47e1fbfda0bedcf8177549c48

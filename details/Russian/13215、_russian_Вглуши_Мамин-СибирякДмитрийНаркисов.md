@@ -8,7 +8,7 @@
 13215、_russian_В глуши_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4438f66b999955e1d06e6f5bc17de2c0

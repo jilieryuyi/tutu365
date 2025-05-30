@@ -8,7 +8,7 @@
 7553、_russian_Тигр_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 189ac86497d68070eaa27372523735a4

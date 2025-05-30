@@ -8,7 +8,7 @@
 12623、_russian_Возвратная волна_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d3e2c28d5067a792e94ce67ab5119ca

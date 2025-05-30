@@ -8,7 +8,7 @@
 高性能javascript.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a6d9a7df4b83911ed5da3c37c5fc2ba1

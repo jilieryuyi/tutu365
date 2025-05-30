@@ -8,7 +8,7 @@
 13568、_english_Lord Grenville's Choice_G.G. Vandagriff_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 02f6a603ad8da4f8f2f42f9f7a2bfd3b

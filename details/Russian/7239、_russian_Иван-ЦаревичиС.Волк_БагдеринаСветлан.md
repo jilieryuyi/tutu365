@@ -8,7 +8,7 @@
 7239、_russian_Иван-Царевич и С. Волк_Багдерина Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b0c67782c111d2b410eea41a69e6910

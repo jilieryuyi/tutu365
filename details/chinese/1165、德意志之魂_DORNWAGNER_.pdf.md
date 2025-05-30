@@ -8,7 +8,7 @@
 1165、德意志之魂_DORN WAGNER_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c04e11542d17112aaf473e69cb431b04

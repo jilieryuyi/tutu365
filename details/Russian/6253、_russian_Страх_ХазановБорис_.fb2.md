@@ -8,7 +8,7 @@
 6253、_russian_Страх_Хазанов Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9f3400ad36a59e876e34501233ca480

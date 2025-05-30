@@ -8,7 +8,7 @@
 Lucene.Net基本用法.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7ef9acde123624c6648a5d0e87c25cd5

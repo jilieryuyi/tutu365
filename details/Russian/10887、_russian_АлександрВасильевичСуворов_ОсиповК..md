@@ -8,7 +8,7 @@
 10887、_russian_Александр Васильевич Суворов_Осипов К._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0065f7e064134f3fa7e1a479c31f697c

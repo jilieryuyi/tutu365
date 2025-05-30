@@ -8,7 +8,7 @@
 8090、_russian_Пасифая.doc_Зорич Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d691f3ed73ee58a33e2eebde113a60b

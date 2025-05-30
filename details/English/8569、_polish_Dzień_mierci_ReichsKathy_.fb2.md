@@ -8,7 +8,7 @@
 8569、_polish_Dzień _mierci_Reichs Kathy_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 952e2a09922ebbefa9f84c3fbdf1f846

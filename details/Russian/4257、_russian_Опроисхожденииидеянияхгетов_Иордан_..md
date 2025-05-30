@@ -8,7 +8,7 @@
 4257、_russian_О происхождении и деяниях гетов_Иордан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f883565f9de5cda14d518833c3437ecb

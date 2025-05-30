@@ -8,7 +8,7 @@
 505、_russian_Небывалый господин Оуэн_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24c41f8e56f610f43afcff9e74dfbed1

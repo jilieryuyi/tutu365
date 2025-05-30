@@ -8,7 +8,7 @@
 5934、_russian_Принцесса ждет_Кэбот Мэг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b657b6f0518044575c8667eb232b0a85

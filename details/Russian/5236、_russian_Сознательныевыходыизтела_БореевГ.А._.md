@@ -8,7 +8,7 @@
 5236、_russian_Сознательные выходы из тела_Бореев Г. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a977d45d3596230c648873eddd8aaee

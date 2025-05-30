@@ -8,7 +8,7 @@
 1429、社会化营销_人人参与的营销力量 (湛庐文化_财富汇)_陈亮途_ZHLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 40c96e4960e667f229ea1880050d1500

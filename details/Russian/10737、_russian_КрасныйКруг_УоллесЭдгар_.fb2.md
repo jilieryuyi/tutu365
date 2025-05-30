@@ -8,7 +8,7 @@
 10737、_russian_Красный Круг_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8bb30af02594092d9b45968bcf8b6d2

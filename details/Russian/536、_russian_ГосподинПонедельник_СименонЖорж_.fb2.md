@@ -8,7 +8,7 @@
 536、_russian_Господин Понедельник_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ebec0fa16a5f62a6e87e288ba71dee8

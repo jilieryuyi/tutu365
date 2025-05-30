@@ -8,7 +8,7 @@
 狼的智慧：我的25年荒野观狼之旅_埃莉·H·拉丁格 [[de]aili·H.ladingge]__5537962_0689723c0619fcd69cc9aff71085f51c.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0689723c0619fcd69cc9aff71085f51c

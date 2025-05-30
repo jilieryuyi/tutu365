@@ -8,7 +8,7 @@
 9555、_russian_Надя_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71e60bb00d375bd8ce040930db00c8d7

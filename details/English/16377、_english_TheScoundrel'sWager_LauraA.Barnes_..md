@@ -8,7 +8,7 @@
 16377、_english_The Scoundrel's Wager_Laura A. Barnes_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2989ef616b26c30d2836b429238dc720

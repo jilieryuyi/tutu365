@@ -8,7 +8,7 @@
 6878、_russian_Кирпичи_Сугралинов Данияр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebe0bc7e2a4c396b73433d24f80bfc8d

@@ -8,7 +8,7 @@
 871、_russian_Госпожа Фирмиани_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 283b4d08222217456751b2fcb022992b

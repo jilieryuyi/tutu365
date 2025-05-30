@@ -8,7 +8,7 @@
 14195、_russian_Медосмотр-forever! или Гимн человеческому телу!_Avangard_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f514605dea4c127f1c7869db7cde6259

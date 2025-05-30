@@ -8,7 +8,7 @@
 10695、_russian_Голос Эль-Лила_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdd7631947bca4a544869a104acb5197

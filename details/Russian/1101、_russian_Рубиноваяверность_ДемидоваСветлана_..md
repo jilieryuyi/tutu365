@@ -8,7 +8,7 @@
 1101、_russian_Рубиновая верность_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa0753cccb98566ef946c470e56cc0eb

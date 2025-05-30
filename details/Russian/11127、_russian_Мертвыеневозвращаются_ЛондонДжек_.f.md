@@ -8,7 +8,7 @@
 11127、_russian_Мертвые не возвращаются_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8aa2cb969e9657eae623dc11cedc47e4

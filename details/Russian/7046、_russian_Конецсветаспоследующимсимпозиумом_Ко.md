@@ -8,7 +8,7 @@
 7046、_russian_Конец света с последующим симпозиумом_Копит Артур Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86ef2a3ca42851ce12f5a62603736b76

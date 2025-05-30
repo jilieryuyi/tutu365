@@ -8,7 +8,7 @@
 4626、_english_The Archer's Paradox_Ally Broadfield_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3d5691c403f0829a20a147dc24c9d6c6

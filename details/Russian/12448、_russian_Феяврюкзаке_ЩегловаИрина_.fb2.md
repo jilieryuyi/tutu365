@@ -8,7 +8,7 @@
 12448、_russian_Фея в рюкзаке_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abf01a1fb8f3860cb5cafbef880c6b33

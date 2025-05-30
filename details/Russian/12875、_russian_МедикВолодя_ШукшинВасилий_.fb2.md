@@ -8,7 +8,7 @@
 12875、_russian_Медик Володя_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98fbb33eb60fd6e5ee517a85134acc0a

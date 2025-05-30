@@ -8,7 +8,7 @@
 6842、_russian_Твоя пекарня_Маслякова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cc0b8eef131d7ef85e23607fd720507

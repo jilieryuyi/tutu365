@@ -8,7 +8,7 @@
 13578、_russian_Наследница страсти_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2446f58b665f63c284c52a43db559210

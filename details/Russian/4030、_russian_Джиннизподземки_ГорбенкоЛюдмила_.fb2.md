@@ -8,7 +8,7 @@
 4030、_russian_Джинн из подземки_Горбенко Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8be252ebbe341f7bc953b3da4d0af38b

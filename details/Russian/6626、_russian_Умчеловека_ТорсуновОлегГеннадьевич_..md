@@ -8,7 +8,7 @@
 6626、_russian_Ум человека_Торсунов Олег Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30e8730fef497587c501689167fcbe69

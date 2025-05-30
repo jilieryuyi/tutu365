@@ -8,7 +8,7 @@
 12465、_russian_Когда ты рядом_Монро Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93e28c4bbd85614928e6eac0ae180e31

@@ -8,7 +8,7 @@
 2117、SQL必知必会（第4版） (图灵程序设计丛书 80)_[美]Ben Forta_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 535a46d95606db62fcac2a828f6e5fcd

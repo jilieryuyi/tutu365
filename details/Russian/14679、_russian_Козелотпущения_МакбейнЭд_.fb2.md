@@ -8,7 +8,7 @@
 14679、_russian_Козел отпущения_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a37e1ee5a8d7e1165a23726a68428515

@@ -8,7 +8,7 @@
 13184、_russian_Янко-музыкант_Сенкевич Генрик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e2ed2d5ccc87edc3a179b51e346b9d6

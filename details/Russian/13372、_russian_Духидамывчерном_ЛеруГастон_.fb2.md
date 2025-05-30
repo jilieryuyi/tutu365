@@ -8,7 +8,7 @@
 13372、_russian_Духи дамы в черном_Леру Гастон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab836ef0833ccd7b6ef538343e31705c

@@ -8,7 +8,7 @@
 11455、_russian_Энди_Сноу Бредли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6ad633f0aac30a7b9a0bbbbeb84a152

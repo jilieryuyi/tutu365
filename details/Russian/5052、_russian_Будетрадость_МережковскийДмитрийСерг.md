@@ -8,7 +8,7 @@
 5052、_russian_Будет радость_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0943fd4e8a61fc5c6903aa540a356ab

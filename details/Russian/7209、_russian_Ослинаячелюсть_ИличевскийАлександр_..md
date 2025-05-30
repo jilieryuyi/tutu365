@@ -8,7 +8,7 @@
 7209、_russian_Ослиная челюсть_Иличевский Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6701ea8e70ddde1481d2d433a4b1e7d

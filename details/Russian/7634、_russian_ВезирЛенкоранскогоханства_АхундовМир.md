@@ -8,7 +8,7 @@
 7634、_russian_Везир Ленкоранского ханства_Ахундов Мирза Фатали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f4c0cf1ab778fa571b2a92f93d0358e

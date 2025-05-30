@@ -8,7 +8,7 @@
 1621、_russian_Традиция Махамудры Гелуг и Кагью_Гьяцо Тензин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0223aec172cd0dff152e52cd4fe6669

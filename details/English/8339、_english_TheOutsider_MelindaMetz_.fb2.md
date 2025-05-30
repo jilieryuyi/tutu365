@@ -8,7 +8,7 @@
 8339、_english_The Outsider_Melinda Metz_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2b0f06bfaa4135be47e263096eefcee5

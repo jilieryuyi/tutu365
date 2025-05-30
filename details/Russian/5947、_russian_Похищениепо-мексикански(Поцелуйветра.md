@@ -8,7 +8,7 @@
 5947、_russian_Похищение по-мексикански (Поцелуй ветра)_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 127c92f4a64a4be48a62f4bba1e67b17

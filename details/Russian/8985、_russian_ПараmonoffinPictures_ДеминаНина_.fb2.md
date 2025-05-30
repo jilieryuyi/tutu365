@@ -8,7 +8,7 @@
 8985、_russian_Параmonoff in Pictures_Демина Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccd32e9d18d4bafb926f803b8df366ca

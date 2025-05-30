@@ -8,7 +8,7 @@
 15281、_russian_Золото тигров (сборник)_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d05921299adc2b5bf05df5aead420ec

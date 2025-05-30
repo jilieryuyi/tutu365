@@ -8,7 +8,7 @@
 12724、_russian_Менады_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71f8aa6c868bb9f64201ff99cb50d42a

@@ -8,7 +8,7 @@
 14698、_russian_Грешные обещания_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdc6798e6028cfae0e04fdc14a847578

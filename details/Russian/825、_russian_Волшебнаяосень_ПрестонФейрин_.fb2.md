@@ -8,7 +8,7 @@
 825、_russian_Волшебная осень_Престон Фейрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3ed6842e1b0cd6cfbc9381fa0b45fee

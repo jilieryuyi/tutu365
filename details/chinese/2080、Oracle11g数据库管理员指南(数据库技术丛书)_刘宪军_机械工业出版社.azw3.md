@@ -8,7 +8,7 @@
 2080、Oracle 11g数据库管理员指南 (数据库技术丛书)_刘宪军_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d3752de72268e5173dfa5809165fcee5

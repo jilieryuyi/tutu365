@@ -8,7 +8,7 @@
 3396、_russian_Щель_Старобинец Анна Альфредовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f990eca29b62352352dc21735a1de903

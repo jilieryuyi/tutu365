@@ -8,7 +8,7 @@
 29、_russian_Избранные произведения в двух томах (том первый)_Андроников Ираклий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3420a3fb4f25a33aed48d7fb48fde6a3

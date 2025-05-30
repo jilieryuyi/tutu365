@@ -8,7 +8,7 @@
 2634、_russian_Ножны_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d97e6632977ad1aac79bfe10b6f584e5

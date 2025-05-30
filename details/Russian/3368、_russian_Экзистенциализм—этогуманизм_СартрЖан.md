@@ -8,7 +8,7 @@
 3368、_russian_Экзистенциализм — это гуманизм_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45716b2bc80ab7929e9a709e6d02edfa

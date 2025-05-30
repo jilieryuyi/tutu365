@@ -8,7 +8,7 @@
 12049、_english_The Highlander's Forbidden Bride_Donna Fletcher_HarperCollins.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 566d68de4301d0429e7afa4a1aa007e5

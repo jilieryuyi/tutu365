@@ -8,7 +8,7 @@
 5699、_russian_Любовь и Рим_Бекитт Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0233956f0358108ebf153503a31c889

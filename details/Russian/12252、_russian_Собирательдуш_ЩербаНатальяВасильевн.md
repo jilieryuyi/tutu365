@@ -8,7 +8,7 @@
 12252、_russian_Собиратель душ_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8488041c875ee8d147dfabc3d7c423cd

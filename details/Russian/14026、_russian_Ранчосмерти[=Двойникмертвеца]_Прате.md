@@ -8,7 +8,7 @@
 14026、_russian_Ранчо смерти [= Двойник мертвеца]_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 980b5774b90cc127cf084afa140c0c8b

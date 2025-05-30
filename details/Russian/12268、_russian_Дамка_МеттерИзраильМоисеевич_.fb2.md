@@ -8,7 +8,7 @@
 12268、_russian_Дамка_Меттер Израиль Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6912547d3e2a10cad2e7f8e8e5f6f001

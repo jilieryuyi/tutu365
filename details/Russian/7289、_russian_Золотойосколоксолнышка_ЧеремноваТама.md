@@ -8,7 +8,7 @@
 7289、_russian_Золотой осколок солнышка_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32ee7d7aff65c7bbc8031c5ad01fb517

@@ -8,7 +8,7 @@
 7105、_russian_Чародей из Атлантиды_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cacc0036c550f1ec33929a73deb58b9e

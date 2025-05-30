@@ -8,7 +8,7 @@
 2398、_english_A Girl's Guide to Vampires_Макалистер Кейти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a26f56a83cc5dbe4d1bdc2b5e69916b

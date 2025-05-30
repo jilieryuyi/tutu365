@@ -8,7 +8,7 @@
 11206、_russian_Сизигия_Коуни Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5856679ca3d649c88070d18669b56623

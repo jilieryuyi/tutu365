@@ -8,7 +8,7 @@
 7921、_russian_Поход_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bf1e1088738ca2661c43af842b78b0a

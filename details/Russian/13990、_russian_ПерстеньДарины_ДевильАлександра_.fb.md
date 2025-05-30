@@ -8,7 +8,7 @@
 13990、_russian_Перстень Дарины_Девиль Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f1ba14ed094583b58df390592e2d9a7

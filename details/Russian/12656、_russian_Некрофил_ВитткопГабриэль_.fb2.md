@@ -8,7 +8,7 @@
 12656、_russian_Некрофил_Витткоп Габриэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b62c6c88b777d89e3f93cbd539e91e7

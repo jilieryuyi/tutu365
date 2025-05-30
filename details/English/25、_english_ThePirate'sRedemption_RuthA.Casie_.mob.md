@@ -8,7 +8,7 @@
 25、_english_The Pirate's Redemption_Ruth A. Casie_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 18749d98d4042e2c9ae9fb535e21d70c

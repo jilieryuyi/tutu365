@@ -8,7 +8,7 @@
 1671、_ukrainian_Гарр_ Поттер _ нап_вкровний принц_Рол_н_ Джоан К._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 536871dd2ff01cf47065a36bd0280156

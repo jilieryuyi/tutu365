@@ -8,7 +8,7 @@
 1775、_russian_Хроники амбициозной брюнетки_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6e4daddf6ea55604eddec9f23a59229

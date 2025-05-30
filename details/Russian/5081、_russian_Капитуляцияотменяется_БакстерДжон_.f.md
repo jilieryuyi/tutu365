@@ -8,7 +8,7 @@
 5081、_russian_Капитуляция отменяется_Бакстер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 457021f65e7796a51f5bdf2f549d42d2

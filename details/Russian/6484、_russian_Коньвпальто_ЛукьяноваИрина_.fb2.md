@@ -8,7 +8,7 @@
 6484、_russian_Конь в пальто_Лукьянова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b33c7ba8727d47ad6a9e40a306215c03

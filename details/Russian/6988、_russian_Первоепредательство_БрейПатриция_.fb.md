@@ -8,7 +8,7 @@
 6988、_russian_Первое предательство_Брей Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11cdc02bc895b26b346568876a0bf11a

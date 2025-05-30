@@ -8,7 +8,7 @@
 218、和毕加索一起淋浴：激发你的想象力和创造力_SoBooKs.cc （丹麦）克里斯蒂安·斯塔迪尔 莱娜·唐嘉德 [（丹麦）克里斯蒂安·斯塔迪尔 莱娜·唐嘉德, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 908b208d19911df75ffab7e5e07eb135

@@ -8,7 +8,7 @@
 13182、_russian_Строптивая невеста_Лэм Арнетта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92b6dee24c17f8fd40cedb519f6a46e1

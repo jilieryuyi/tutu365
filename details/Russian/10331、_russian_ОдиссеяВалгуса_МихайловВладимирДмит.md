@@ -8,7 +8,7 @@
 10331、_russian_Одиссея Валгуса_Михайлов Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58febb10c4171e00d4eccf840483e85d

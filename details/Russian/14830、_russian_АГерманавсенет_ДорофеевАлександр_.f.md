@@ -8,7 +8,7 @@
 14830、_russian_А Германа все нет_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68c0062dda3775fcfafd4f18c54bf1bd

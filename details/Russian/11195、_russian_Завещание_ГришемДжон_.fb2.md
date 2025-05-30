@@ -8,7 +8,7 @@
 11195、_russian_Завещание_Гришем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2f97b4e2282a53d2934712a38d02b0d

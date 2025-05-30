@@ -8,7 +8,7 @@
 14439、_russian_Сокровища Валькирии. Книга 1_Алексеев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8afe88344ab2df33fe5ac66c384b0f88

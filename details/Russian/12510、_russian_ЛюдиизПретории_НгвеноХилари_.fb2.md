@@ -8,7 +8,7 @@
 12510、_russian_Люди из Претории_Нгвено Хилари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b79da1e050f12e8962d89197154ca0a

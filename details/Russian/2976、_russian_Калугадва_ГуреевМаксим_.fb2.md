@@ -8,7 +8,7 @@
 2976、_russian_Калугадва_Гуреев Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ba52333a043e4000bf8ff880af735a2

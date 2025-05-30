@@ -8,7 +8,7 @@
 7088、_english_Satanta's Woman_Cynthia Haseloff_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4fbd3aef48b27379a181b0f85c28f83b

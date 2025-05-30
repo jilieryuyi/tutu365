@@ -8,7 +8,7 @@
 10727、_russian_Руки вверх!_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1f5f035f7c9291cd05621a64daf407f

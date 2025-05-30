@@ -8,7 +8,7 @@
 10279、_russian_ТВАРИ_Вершовский Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 676e85ad4c496d77b1c8aed5c6f41600

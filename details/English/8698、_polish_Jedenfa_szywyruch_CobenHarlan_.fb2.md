@@ -8,7 +8,7 @@
 8698、_polish_Jeden fa_szywy ruch_Coben Harlan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5fa4239b513a3d8e6daf9fb2d59e840c

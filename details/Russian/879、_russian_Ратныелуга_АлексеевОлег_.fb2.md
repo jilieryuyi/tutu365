@@ -8,7 +8,7 @@
 879、_russian_Ратные луга_Алексеев Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d4e2b0703b31a7f7c35cce74c280d3f

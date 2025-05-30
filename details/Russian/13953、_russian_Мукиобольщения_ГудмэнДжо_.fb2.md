@@ -8,7 +8,7 @@
 13953、_russian_Муки обольщения_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e201453c1e1301a769ae36fe49d4fa4d

@@ -8,7 +8,7 @@
 5615、_russian_Уроки любви_Харт Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cfc99dfccdd69ea1a71f94384819052

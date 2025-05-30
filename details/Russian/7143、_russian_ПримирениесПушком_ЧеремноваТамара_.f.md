@@ -8,7 +8,7 @@
 7143、_russian_Примирение с Пушком_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5de4322bbfbe183bf19a3c1a49e3388e

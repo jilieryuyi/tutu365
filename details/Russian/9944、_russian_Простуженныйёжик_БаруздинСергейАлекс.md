@@ -8,7 +8,7 @@
 9944、_russian_Простуженный ёжик_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90a67e5eec371e809b5737b976532be2

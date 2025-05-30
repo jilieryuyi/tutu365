@@ -8,7 +8,7 @@
 13981、_russian_Опасная игра_Брокуэй Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28096154f7b804b6fcdd1dbc0a30b27d

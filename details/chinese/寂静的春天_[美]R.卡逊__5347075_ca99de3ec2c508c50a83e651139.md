@@ -8,7 +8,7 @@
 寂静的春天_[美]R.卡逊__5347075_ca99de3ec2c508c50a83e65113982399.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ca99de3ec2c508c50a83e65113982399

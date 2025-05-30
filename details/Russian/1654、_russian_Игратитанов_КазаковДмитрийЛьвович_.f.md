@@ -8,7 +8,7 @@
 1654、_russian_Игра титанов_Казаков Дмитрий Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b91fc8f2f1a6670a13fc1289f2f0273

@@ -8,7 +8,7 @@
 3768、_russian_Магия в вашем доме_Каннингем Скотт, Харрисон Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14976eed822eface6c27e0f0ff36c130

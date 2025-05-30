@@ -8,7 +8,7 @@
 646、_russian_Кама Сутра_Малланага Ватсьяяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02d9a0217258a79b7aca61b22c391b96

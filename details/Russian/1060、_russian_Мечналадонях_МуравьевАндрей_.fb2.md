@@ -8,7 +8,7 @@
 1060、_russian_Меч на ладонях_Муравьев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0dd4ca452946b456f10ac8b4dd45df5

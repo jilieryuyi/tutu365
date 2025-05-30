@@ -8,7 +8,7 @@
 2092、Python科学计算_张若愚_清华大学出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f6971e5d44d8eaa3b98b59cd3086a5b0

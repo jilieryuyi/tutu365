@@ -8,7 +8,7 @@
 13618、_russian_Уйду я от неё!_Балуев Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a605b83534fb8f2ea6faa4a0a73fe33

@@ -8,7 +8,7 @@
 3280、法律篇 The Law_柏拉图 Plato_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b2dd9082e793e84ac31820ea9ba498ca

@@ -8,7 +8,7 @@
 8883、_russian_Мисо-суп_Мураками Рю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5464b4b14445d4143cfdb278fb700287

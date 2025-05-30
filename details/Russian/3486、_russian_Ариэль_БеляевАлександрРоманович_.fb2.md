@@ -8,7 +8,7 @@
 3486、_russian_Ариэль_Беляев Александр Романович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d73a482e9c42a11b5b3becf927e2ab0a

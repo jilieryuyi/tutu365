@@ -8,7 +8,7 @@
 5874、_other_Герман Матвеев После бури__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb3c8c4db562fad1fe01729012129f27

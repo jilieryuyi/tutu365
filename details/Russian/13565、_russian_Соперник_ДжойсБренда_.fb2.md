@@ -8,7 +8,7 @@
 13565、_russian_Соперник_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a60fe2f77ae7190a7968ea3f3aa41421

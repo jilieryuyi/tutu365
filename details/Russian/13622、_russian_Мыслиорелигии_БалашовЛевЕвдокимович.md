@@ -8,7 +8,7 @@
 13622、_russian_Мысли о религии_Балашов Лев Евдокимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 537a05a67e775bc6982a68418bda5e1b

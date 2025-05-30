@@ -8,7 +8,7 @@
 93、_russian_Сердце в броне_Степной Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5203e185e7cec32444c762e8a8502bc3

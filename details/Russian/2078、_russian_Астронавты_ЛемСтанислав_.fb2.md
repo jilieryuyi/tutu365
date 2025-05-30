@@ -8,7 +8,7 @@
 2078、_russian_Астронавты_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac4259acbb441e58568d7b39ad193f5b

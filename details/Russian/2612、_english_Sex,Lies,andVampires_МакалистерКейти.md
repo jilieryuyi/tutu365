@@ -8,7 +8,7 @@
 2612、_english_Sex, Lies, and Vampires_Макалистер Кейти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c158bc89a05f3c4f36b8cb0287dfecb

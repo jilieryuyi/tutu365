@@ -8,7 +8,7 @@
 5702、_russian_Спутники Волкодава_Молитвин Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 410e5ef38968d3793213e67da3cc68d1

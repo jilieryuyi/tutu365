@@ -8,7 +8,7 @@
 8941、_russian_Крадущийся в тени_Пехов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ff579aded14d5f5c6984381ed912f59

@@ -8,7 +8,7 @@
 11573、_russian_Оранжевая книга - (Техники)_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57f430f4bad93ffde4706575eb420671

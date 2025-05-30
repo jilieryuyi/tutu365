@@ -8,7 +8,7 @@
 php官网文档.rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 71e7bf9611fabb18ed9f559c61821ee3

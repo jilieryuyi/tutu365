@@ -8,7 +8,7 @@
 8209、_russian_Пять лет среди евреев и мидовцев_Бовин Александр Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bd2c1cacc2608373f65df32de7adab8

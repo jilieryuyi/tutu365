@@ -8,7 +8,7 @@
 7250、_russian_Инспектор Вест и дорожные катастрофы_Кризи Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60fcc9f2bfc51586dda6232941dea1ab

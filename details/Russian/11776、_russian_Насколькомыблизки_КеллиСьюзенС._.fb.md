@@ -8,7 +8,7 @@
 11776、_russian_Насколько мы близки_Келли Сьюзен С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0793685d6857a0e29c27eb98736cd906

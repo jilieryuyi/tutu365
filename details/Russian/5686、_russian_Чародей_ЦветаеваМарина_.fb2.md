@@ -8,7 +8,7 @@
 5686、_russian_Чародей_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4094224b50f3f239c528ec0e6383c7ac

@@ -8,7 +8,7 @@
 716、人性的枷锁_【英】William Somerset Maugham(毛姆)_文学出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6e4302ca6237e78e1db4f021fc6f0348

@@ -8,7 +8,7 @@
 1650、_russian_Свободомыслие и официальная пропаганда_Рассел Бертран_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e00d8e1e8a4d80ca0afd00ebf97c4bb

@@ -8,7 +8,7 @@
 2010、_russian_Необычная история_Нилс Бетти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01167d52d9e11d2bd62ae93f8c3cb676

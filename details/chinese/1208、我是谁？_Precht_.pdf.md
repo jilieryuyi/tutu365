@@ -8,7 +8,7 @@
 1208、我是谁？_Precht_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fd80b58ee67ace60af88616f26e963ab

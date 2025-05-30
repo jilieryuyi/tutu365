@@ -8,7 +8,7 @@
 6579、_russian_Собор_Демилль Нельсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d75ee9d0451f523dfbcc915b7f454277

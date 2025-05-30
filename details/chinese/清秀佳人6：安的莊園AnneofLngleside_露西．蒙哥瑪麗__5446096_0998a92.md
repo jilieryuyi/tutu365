@@ -8,7 +8,7 @@
 清秀佳人6：安的莊園 Anne of Lngleside_露西．蒙哥瑪麗__5446096_0998a92bd3526a76d548e2218603db87.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0998a92bd3526a76d548e2218603db87

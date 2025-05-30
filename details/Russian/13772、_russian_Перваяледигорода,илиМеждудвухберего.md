@@ -8,7 +8,7 @@
 13772、_russian_Первая леди города, или Между двух берегов_Крамер Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0ab2290b644eb3755d2eb80d21a1a61

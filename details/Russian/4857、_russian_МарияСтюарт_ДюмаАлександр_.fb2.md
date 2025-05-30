@@ -8,7 +8,7 @@
 4857、_russian_Мария Стюарт_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99563fde3407d0527bb74f101e36d88c

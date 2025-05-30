@@ -8,7 +8,7 @@
 13832、_russian_Bash.org.ru 2008.04-06_Bash.org.ru_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd9f43af29768de565b851ebac386d78

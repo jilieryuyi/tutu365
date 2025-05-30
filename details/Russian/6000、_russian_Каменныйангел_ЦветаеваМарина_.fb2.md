@@ -8,7 +8,7 @@
 6000、_russian_Каменный ангел_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d21be13461171d16f2072fe9767a08e0

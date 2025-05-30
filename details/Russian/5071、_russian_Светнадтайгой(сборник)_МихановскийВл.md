@@ -8,7 +8,7 @@
 5071、_russian_Свет над тайгой (сборник)_Михановский Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86041819cdcb35bbc289dc6fda72c28e

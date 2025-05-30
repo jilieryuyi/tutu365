@@ -8,7 +8,7 @@
 3124、_russian_Конан И Небесная Секира_Ахманов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57ab7a4d9750d3d8c8ee6d70094d3ee3

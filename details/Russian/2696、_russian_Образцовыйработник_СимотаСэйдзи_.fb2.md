@@ -8,7 +8,7 @@
 2696、_russian_Образцовый работник_Симота Сэйдзи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4074a5e23dd9e41ca14a81e3090e703b

@@ -8,7 +8,7 @@
 13797、_russian_Кормчая книга_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c175c96412d8d0ae5f30499bd746439

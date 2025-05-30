@@ -8,7 +8,7 @@
 17147、_english_The Prince's Bride_Joanne Wadsworth_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4a37580e6bc1fbc957c1cfd22def8c81

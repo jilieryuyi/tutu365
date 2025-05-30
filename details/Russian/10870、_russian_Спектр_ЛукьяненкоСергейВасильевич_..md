@@ -8,7 +8,7 @@
 10870、_russian_Спектр_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed3cb474a3a811766307795212ba0140

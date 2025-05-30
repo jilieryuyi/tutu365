@@ -8,7 +8,7 @@
 9878、_russian_Поцелуй под омелой_Сандерс Эллен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72a6a87de39970f25440428d9cfe365e

@@ -8,7 +8,7 @@
 1880、_russian_Офелия и Брут_Ермак Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 079e389bf15ee143cea86a639be77d35

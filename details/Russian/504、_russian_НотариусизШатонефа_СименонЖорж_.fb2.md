@@ -8,7 +8,7 @@
 504、_russian_Нотариус из Шатонефа_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27007067a6ae1c444b2317e465a5869a

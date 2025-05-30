@@ -8,7 +8,7 @@
 9849、_russian_Почтовая служба Доктора Дулитла_Лофтинг Хью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b700efed7c86bc7a778f38e0deb9a499

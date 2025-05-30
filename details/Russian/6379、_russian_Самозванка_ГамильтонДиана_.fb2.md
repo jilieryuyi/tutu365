@@ -8,7 +8,7 @@
 6379、_russian_Самозванка_Гамильтон Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87c679ea9dce463a6562ec08869be944

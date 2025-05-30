@@ -8,7 +8,7 @@
 11051、_russian_Казино _Руаяль__Флеминг Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 458ab8c4e981a5464cd784754358e8fb

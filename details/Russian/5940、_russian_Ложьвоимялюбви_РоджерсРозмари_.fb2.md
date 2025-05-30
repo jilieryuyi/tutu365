@@ -8,7 +8,7 @@
 5940、_russian_Ложь во имя любви_Роджерс Розмари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03e3e4cd4baff79c31fcc09605a94f59

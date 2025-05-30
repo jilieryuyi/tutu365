@@ -8,7 +8,7 @@
 10644、_russian_Золото пустыни_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60ef36708de2e8bdb870e1e2ad8b50c4

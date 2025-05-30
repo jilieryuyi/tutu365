@@ -8,7 +8,7 @@
 314、增长五线：数字化时代的企业增长地图_王赛 [wangsai]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7f2d75cba5660ff04d1197dc4a2382b9

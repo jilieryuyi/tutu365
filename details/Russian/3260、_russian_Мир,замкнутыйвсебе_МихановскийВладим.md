@@ -8,7 +8,7 @@
 3260、_russian_Мир, замкнутый в себе_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 178ee0526b6febb414159024d2e012e7

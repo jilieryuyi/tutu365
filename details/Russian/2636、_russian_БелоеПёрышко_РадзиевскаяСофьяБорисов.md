@@ -8,7 +8,7 @@
 2636、_russian_Белое Пёрышко_Радзиевская Софья Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a94246c293ae7c59a9d9f4b434813848

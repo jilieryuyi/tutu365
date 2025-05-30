@@ -8,7 +8,7 @@
 11088、_russian_Золотой каньон_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1e28e224b7cda8fb884ecffea9b257c

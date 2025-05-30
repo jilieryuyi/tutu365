@@ -8,7 +8,7 @@
 309、_other_Corel Ventura - BUSH-5.CHP_Administrator_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 28792344dbd1e097255e7a0e2f4b1ee5

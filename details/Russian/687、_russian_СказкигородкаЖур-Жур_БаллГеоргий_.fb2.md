@@ -8,7 +8,7 @@
 687、_russian_Сказки городка Жур-Жур_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 257135f9dc651ee5d963f47aa8c03f3d

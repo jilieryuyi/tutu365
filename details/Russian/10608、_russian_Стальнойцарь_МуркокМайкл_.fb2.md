@@ -8,7 +8,7 @@
 10608、_russian_Стальной царь_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac8a79522ab670af4ac0d4d463ed04ba

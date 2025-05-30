@@ -8,7 +8,7 @@
 7834、_russian_Пятно кровавой луны_Веркин Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f543d23824d9e5cd2e9bc09c689e977

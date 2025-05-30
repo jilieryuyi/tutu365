@@ -8,7 +8,7 @@
 8337、_english_The Wild One_Melinda Metz_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6ffc29795c868e6583192b15679c2828

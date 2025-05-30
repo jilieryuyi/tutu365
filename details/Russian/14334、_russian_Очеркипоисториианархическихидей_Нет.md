@@ -8,7 +8,7 @@
 14334、_russian_Очерки по истории анархических идей_Неттлау Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 503868f2f2d08b43ab7be7bf8891f86f

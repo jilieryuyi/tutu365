@@ -8,7 +8,7 @@
 13111、_russian_Остров Панданго_Капица Петр Иосифович, Яковлев Николай Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b541b40e8620aa9dbc9615d2eb75aebc

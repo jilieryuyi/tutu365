@@ -8,7 +8,7 @@
 2070、Maven实战_许晓斌_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6daca53e412ea97d2a9a16b2a698bd01

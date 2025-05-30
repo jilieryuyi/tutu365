@@ -8,7 +8,7 @@
 7028、_russian_Проблема культуры (сборник очерков и статей)_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef590b9c469dd3b4a1e0f59f1131ccbe

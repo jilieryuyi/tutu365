@@ -8,7 +8,7 @@
 10231、_russian_Крылом к крылу_Барсуков Василий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21316a999e78a77d02f049fb3697ffb5

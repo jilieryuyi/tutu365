@@ -8,7 +8,7 @@
 Redis学习笔记整理.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0976f5ae50e9afae17b76e7425a9a674

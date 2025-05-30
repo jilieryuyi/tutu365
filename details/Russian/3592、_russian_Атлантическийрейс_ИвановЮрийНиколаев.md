@@ -8,7 +8,7 @@
 3592、_russian_Атлантический рейс_Иванов Юрий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcc7d7401a2024726dc31aaefd2bd2a8

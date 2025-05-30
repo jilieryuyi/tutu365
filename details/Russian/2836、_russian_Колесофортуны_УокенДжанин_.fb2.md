@@ -8,7 +8,7 @@
 2836、_russian_Колесо фортуны_Уокен Джанин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39949c14041e78719b0090a79cc4404b

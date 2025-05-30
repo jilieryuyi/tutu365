@@ -8,7 +8,7 @@
 3748、_russian_Потерянное мной_Бондаренко Борис Егорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc598c8e3e92ce83565d1b4cd78bfeb7

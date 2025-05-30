@@ -8,7 +8,7 @@
 13654、_russian_Сокровища Валькирии. Звёздные раны_Алексеев Сергей Трофимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef2aa184ea11fbfbda9b21eb3e0d336b

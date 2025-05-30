@@ -8,7 +8,7 @@
 3296、_russian_Черный список_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 166e13fa0a94b317948b9a0e43e572f9

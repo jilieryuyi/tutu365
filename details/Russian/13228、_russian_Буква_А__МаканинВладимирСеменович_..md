@@ -8,7 +8,7 @@
 13228、_russian_Буква _А__Маканин Владимир Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c2a9c0553b1c4340d240567d3cd0ed9

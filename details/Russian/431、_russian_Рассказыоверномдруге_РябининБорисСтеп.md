@@ -8,7 +8,7 @@
 431、_russian_Рассказы о верном друге_Рябинин Борис Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c90cddc53391c932f426466a76a2166f

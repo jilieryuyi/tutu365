@@ -8,7 +8,7 @@
 13551、_russian_Мне просто любопытно_Деверо Джуд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70c4158a55dd7b4402eea0bba1ba4a89

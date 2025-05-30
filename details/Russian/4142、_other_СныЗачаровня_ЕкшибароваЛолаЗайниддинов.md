@@ -8,7 +8,7 @@
 4142、_other_Сны Зачаровня_Екшибарова Лола Зайниддиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c1a9bef89c72f554cbbb945aeca15fb

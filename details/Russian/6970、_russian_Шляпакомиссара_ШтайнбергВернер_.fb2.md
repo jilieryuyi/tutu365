@@ -8,7 +8,7 @@
 6970、_russian_Шляпа комиссара_Штайнберг Вернер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c0d5efa84cbc997a0a9932996b52d05

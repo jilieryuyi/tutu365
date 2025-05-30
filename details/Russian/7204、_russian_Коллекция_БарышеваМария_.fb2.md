@@ -8,7 +8,7 @@
 7204、_russian_Коллекция_Барышева Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b082df904a13472a015ed7606ef14f9

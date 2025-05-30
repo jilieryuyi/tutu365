@@ -8,7 +8,7 @@
 12872、_russian_Мнение_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71c4c54ef95bec0020412598a1a6b3d0

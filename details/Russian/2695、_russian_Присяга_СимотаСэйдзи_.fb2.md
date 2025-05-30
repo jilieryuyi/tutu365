@@ -8,7 +8,7 @@
 2695、_russian_Присяга_Симота Сэйдзи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f924d5939b3fdb7f1e4cc1876f768360

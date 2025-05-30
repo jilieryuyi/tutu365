@@ -8,7 +8,7 @@
 465、_russian_Кандар из Ферраноза_Балмер Генри Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc4777f0884b98fb6707890a60fb5490

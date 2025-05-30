@@ -8,7 +8,7 @@
 14204、_russian_Слава в вышних Дориану_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58e71d2c77d1c350a8be12bc6dc80764

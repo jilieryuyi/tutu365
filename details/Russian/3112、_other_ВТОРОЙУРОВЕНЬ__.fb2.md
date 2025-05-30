@@ -8,7 +8,7 @@
 3112、_other_ВТОРОЙ УРОВЕНЬ__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2aec46cf31c996ce1828995281a5a32

@@ -8,7 +8,7 @@
 127、_russian_Книга о табу на знание о том, кто ты_Уотс Алан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aca8e0cf85ba6a7673e1ef47d7ae0afd

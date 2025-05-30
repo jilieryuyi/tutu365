@@ -8,7 +8,7 @@
 3009、_russian_Страх, который меня убил_Алексеев Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3272c544dbdd566f2541c83f9ee1d78

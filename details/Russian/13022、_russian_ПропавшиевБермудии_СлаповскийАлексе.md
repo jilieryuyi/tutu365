@@ -8,7 +8,7 @@
 13022、_russian_Пропавшие в Бермудии_Слаповский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4504fb9c956b6de57e4005ab0d0fc6c

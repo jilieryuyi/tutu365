@@ -8,7 +8,7 @@
 11589、_russian_Книга Лжей_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00b509134cfeaa3928f99fe2c4b12919

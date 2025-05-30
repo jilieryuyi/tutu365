@@ -8,7 +8,7 @@
 3726、_russian_Поверь в любовь_Спайс Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d3b0f44a9a747cdec51bfe9c792186b

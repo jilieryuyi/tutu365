@@ -8,7 +8,7 @@
 8330、_russian_Погонщик мулов с бульвара Клавы_Астахова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f233ce98e62e47032fb83394813fda95

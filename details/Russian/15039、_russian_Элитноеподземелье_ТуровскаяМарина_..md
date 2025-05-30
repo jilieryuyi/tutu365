@@ -8,7 +8,7 @@
 15039、_russian_Элитное подземелье_Туровская Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af333de46a77d018eba3043000b0225b

@@ -8,7 +8,7 @@
 11780、_russian_Мэлон умирает_Беккет Сэмюэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60689a4749725b31d45bb0836ec53cf4

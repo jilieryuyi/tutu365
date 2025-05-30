@@ -8,7 +8,7 @@
 1774、_russian_Кредиты и займы_Шляпников А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efb80100c551bf19f027fbd4a03540ee

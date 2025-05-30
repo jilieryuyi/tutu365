@@ -8,7 +8,7 @@
 1185、斯大林战争_ROBERTS_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 817cb4ad8d250d37d6b835ac3324ea33

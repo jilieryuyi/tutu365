@@ -8,7 +8,7 @@
 4014、_russian_Звездная вахта_Громов Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d0cc8d43b2cddd637054df7cea3a844

@@ -8,7 +8,7 @@
 10710、_russian_Черви Земли_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82085e99d7247af5cd7f1eba62052201

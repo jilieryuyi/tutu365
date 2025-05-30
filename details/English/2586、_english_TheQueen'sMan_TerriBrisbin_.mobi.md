@@ -8,7 +8,7 @@
 2586、_english_The Queen's Man_Terri Brisbin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 30bab3c11ebebcc52afb7e70f31f7fe4

@@ -8,7 +8,7 @@
 11036、_russian_Касторка_Сотник Юрий Вячеславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f14902ce08a924cf6845e9bdde93332

@@ -8,7 +8,7 @@
 14589、_french_Nuit Magique-T1.5-Caramel & Chocolat_EL, LAUR' [EL, LAUR]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 13ed91e272dbea1a4a1d049fa721284d

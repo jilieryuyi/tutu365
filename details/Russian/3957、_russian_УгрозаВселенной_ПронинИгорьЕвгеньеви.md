@@ -8,7 +8,7 @@
 3957、_russian_Угроза Вселенной_Пронин Игорь Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbc86d3745ca85deaf4a67ae7456980a

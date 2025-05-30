@@ -8,7 +8,7 @@
 13205、_russian_Кормилец_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f40ba4ff5a2fbd2b6d21a659555cf502

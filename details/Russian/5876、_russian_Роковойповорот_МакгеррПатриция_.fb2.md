@@ -8,7 +8,7 @@
 5876、_russian_Роковой поворот_Макгерр Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f8ee07adfe489f1c2e2f29d6cfdaffe

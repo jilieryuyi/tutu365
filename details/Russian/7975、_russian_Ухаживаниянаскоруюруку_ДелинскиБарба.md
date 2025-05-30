@@ -8,7 +8,7 @@
 7975、_russian_Ухаживания на скорую руку_Делински Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31b8b97f8500aac65b70507be9bb0fc2

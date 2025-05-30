@@ -8,7 +8,7 @@
 12674、_russian_Опрометчивое пари_Крейг Джэсмин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe4be506a9b42a591dbf07d5c54d1976

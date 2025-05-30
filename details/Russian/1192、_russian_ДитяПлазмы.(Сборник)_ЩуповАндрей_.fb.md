@@ -8,7 +8,7 @@
 1192、_russian_Дитя Плазмы. (Сборник)_Щупов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21bb68f07c5a6d2b33e3c7a39450ff32

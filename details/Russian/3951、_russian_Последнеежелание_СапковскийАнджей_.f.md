@@ -8,7 +8,7 @@
 3951、_russian_Последнее желание_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a14d6ce2073a5d4b086bda6da86ec11e

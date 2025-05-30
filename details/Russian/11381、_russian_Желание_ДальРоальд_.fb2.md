@@ -8,7 +8,7 @@
 11381、_russian_Желание_Даль Роальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1f1adb0cec46e3ea935c19f20d1d787

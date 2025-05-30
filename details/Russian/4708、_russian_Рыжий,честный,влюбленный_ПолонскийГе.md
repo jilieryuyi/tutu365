@@ -8,7 +8,7 @@
 4708、_russian_Рыжий, честный, влюбленный_Полонский Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ff2641cbf1405c5ca8c39805c4341b3

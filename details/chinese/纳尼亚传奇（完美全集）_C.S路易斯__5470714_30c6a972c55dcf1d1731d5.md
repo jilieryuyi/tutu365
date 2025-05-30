@@ -8,7 +8,7 @@
 纳尼亚传奇（完美全集）_C.S 路易斯__5470714_30c6a972c55dcf1d1731d5269a5e027b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 30c6a972c55dcf1d1731d5269a5e027b

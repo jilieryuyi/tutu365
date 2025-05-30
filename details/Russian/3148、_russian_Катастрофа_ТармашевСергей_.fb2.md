@@ -8,7 +8,7 @@
 3148、_russian_Катастрофа_Тармашев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acf7eb51acb40a4ca1935b7e19384cd9

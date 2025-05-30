@@ -8,7 +8,7 @@
 12772、_russian_Утро — еще не день_Райнов Богомил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2ad639ae9c6cbf3122ad0c44cd54ed3

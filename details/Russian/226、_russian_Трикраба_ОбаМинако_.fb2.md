@@ -8,7 +8,7 @@
 226、_russian_Три краба_Оба Минако_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a717f3a1fe1616df55e5e5972d11b01

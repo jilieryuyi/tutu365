@@ -8,7 +8,7 @@
 2113、_russian_Банши_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c25fee76a19163a36f613812d619753

@@ -8,7 +8,7 @@
 14121、_russian_Пропала стриптизерша_Кин Дей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f7282de44e8ec740131900bba2702fd

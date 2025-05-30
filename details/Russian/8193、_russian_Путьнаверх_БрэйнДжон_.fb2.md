@@ -8,7 +8,7 @@
 8193、_russian_Путь наверх_Брэйн Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccfd972d1b06abf70bc699a3aaadf311

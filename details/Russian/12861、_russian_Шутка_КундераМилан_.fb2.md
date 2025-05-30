@@ -8,7 +8,7 @@
 12861、_russian_Шутка_Кундера Милан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa60d1807a7e2eac87881a9db03296ca

@@ -8,7 +8,7 @@
 redis-cli.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d4f2675255c9c58128ccbdd13c031c14

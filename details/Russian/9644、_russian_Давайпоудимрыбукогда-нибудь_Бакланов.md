@@ -8,7 +8,7 @@
 9644、_russian_Давай поудим рыбу когда-нибудь_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 942b34e809916bec8a5d7bc8dc1e64a8

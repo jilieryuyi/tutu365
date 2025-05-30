@@ -8,7 +8,7 @@
 16996、_english_Last Night's Scandal_Loretta Chase_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 06ad3c24e232e8342020df6ff74cc7e1

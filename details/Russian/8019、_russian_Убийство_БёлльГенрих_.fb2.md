@@ -8,7 +8,7 @@
 8019、_russian_Убийство_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9c2e8f4fa28fd10a806b2a22a312ca3

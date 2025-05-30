@@ -8,7 +8,7 @@
 12749、_russian_Новый премьер_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e286c60b358bff14fbf7aeb56293a28

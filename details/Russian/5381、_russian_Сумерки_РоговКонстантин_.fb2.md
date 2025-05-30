@@ -8,7 +8,7 @@
 5381、_russian_Сумерки_Рогов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a10e02a568b6e2451c48b05f648fdda

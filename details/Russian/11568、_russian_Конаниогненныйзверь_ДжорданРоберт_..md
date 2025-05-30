@@ -8,7 +8,7 @@
 11568、_russian_Конан и огненный зверь_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5370f18e6189a1668b84b7d3d30285a

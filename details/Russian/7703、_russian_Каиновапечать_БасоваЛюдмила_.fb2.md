@@ -8,7 +8,7 @@
 7703、_russian_Каинова печать_Басова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 613d949cddb6d3679039499b188d51fc

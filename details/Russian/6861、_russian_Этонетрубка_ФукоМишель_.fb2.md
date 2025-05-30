@@ -8,7 +8,7 @@
 6861、_russian_Это не трубка_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38fb1c7181127f89461788185c803a5e

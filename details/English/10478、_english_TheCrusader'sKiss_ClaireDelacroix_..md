@@ -8,7 +8,7 @@
 10478、_english_The Crusader's Kiss_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dcda598a9f6380051903b642a1fda937

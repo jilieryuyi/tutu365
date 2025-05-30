@@ -8,7 +8,7 @@
 4668、_russian_Гонец_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4311acf703131ebe6695ab55e4c5785

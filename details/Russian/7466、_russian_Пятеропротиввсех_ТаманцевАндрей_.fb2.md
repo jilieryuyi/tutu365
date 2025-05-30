@@ -8,7 +8,7 @@
 7466、_russian_Пятеро против всех_Таманцев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17f8f1f344108fc8952dbac47b8d4354

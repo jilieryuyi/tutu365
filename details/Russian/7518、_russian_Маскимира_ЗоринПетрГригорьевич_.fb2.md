@@ -8,7 +8,7 @@
 7518、_russian_Маски мира_Зорин Петр Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86fb1825e3428ebcb808dfbb24818617

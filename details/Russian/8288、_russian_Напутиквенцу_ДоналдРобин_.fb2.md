@@ -8,7 +8,7 @@
 8288、_russian_На пути к венцу_Доналд Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abe08099338eb9775b3c87a232f316e9

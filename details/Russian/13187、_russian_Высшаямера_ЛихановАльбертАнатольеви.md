@@ -8,7 +8,7 @@
 13187、_russian_Высшая мера_Лиханов Альберт Анатольевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 009ee2eeb6b4580fb477b6c671d9e865

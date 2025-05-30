@@ -8,7 +8,7 @@
 1857、_russian_Иван_Богомолов Владимир Осипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0585fe396487968724a0abf0172592ba

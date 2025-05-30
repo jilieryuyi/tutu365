@@ -8,7 +8,7 @@
 改变世界的机器_James P. Womack _ Daniel T. Jones _ Daniel Roos_商务印书馆.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 04dfd077f579a6fc610be0ec91cb9e8c

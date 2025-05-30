@@ -8,7 +8,7 @@
 9713、_russian_Кант за 90 минут_Введение_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cf859c844c93147ffb78f6b0fcc0330

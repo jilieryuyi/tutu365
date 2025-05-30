@@ -8,7 +8,7 @@
 12123、_russian_Погоня за матерью_Стаут Рекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57cde2ce4225d90c81d1fc90e76cf11f

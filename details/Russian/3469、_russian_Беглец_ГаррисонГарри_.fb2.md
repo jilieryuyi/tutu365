@@ -8,7 +8,7 @@
 3469、_russian_Беглец_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5200b13929a23545691a23c4b8849041

@@ -8,7 +8,7 @@
 12473、_russian_Ритианский террор_Найт Дэймон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 323fa98f0791d6b0eb1a7c4f0af889d4

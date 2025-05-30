@@ -8,7 +8,7 @@
 11985、_russian_На днях землетрясение в Лигоне_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 739e0fa756c3554d9391074d50f836b6

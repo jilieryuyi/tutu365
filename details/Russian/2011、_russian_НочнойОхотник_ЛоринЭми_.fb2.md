@@ -8,7 +8,7 @@
 2011、_russian_Ночной Охотник_Лорин Эми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af84c4c5966dca6609c5286cc3b94a8c

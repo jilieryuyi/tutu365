@@ -8,7 +8,7 @@
 8373、_russian_Виртуалка_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a59852b63b039f5d81c2a5b1c1f15437

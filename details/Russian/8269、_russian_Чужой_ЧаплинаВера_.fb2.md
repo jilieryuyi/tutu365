@@ -8,7 +8,7 @@
 8269、_russian_Чужой_Чаплина Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 575f1fa9eb20a58a5504a883cecf2fca

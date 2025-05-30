@@ -8,7 +8,7 @@
 消失中的江城_何偉 Peter Hessler_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 873760a59514e04b043f69f3858e316d

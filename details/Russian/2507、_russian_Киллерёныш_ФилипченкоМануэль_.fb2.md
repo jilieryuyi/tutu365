@@ -8,7 +8,7 @@
 2507、_russian_Киллерёныш_Филипченко Мануэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82417933289a1f4efbe507018ab10384

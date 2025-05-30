@@ -8,7 +8,7 @@
 4967、_russian_День, когда пришли марсиане_Пол Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a66ea33b3867bbd034ed7b0b2648ed42

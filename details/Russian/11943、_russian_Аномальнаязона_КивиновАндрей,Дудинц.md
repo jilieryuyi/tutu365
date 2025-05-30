@@ -8,7 +8,7 @@
 11943、_russian_Аномальная зона_Кивинов Андрей, Дудинцев Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18391138e7aee3924bfd0d06ea02f7ac

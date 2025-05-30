@@ -8,7 +8,7 @@
 8365、_russian_Пальчики оближешь!_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f47a281ce7c75b6656d006e0e774df8

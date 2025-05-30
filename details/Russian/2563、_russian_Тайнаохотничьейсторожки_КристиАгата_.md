@@ -8,7 +8,7 @@
 2563、_russian_Тайна охотничьей сторожки_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b11609cb902a70218868151dd1601cc

@@ -8,7 +8,7 @@
 531、_russian_Маньяк из Бержерака_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2aa00650e374ad9481cec41ef3b56d4e

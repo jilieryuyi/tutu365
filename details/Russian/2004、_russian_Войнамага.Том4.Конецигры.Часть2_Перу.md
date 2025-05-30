@@ -8,7 +8,7 @@
 2004、_russian_Война мага. Том 4. Конец игры. Часть 2_Перумов Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80ebc685c09a67b7ea3884c6b07f7ac7

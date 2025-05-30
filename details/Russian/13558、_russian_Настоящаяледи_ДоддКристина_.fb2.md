@@ -8,7 +8,7 @@
 13558、_russian_Настоящая леди_Додд Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5316f24b315bbaa6699c593f73b5fc1

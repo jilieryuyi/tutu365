@@ -8,7 +8,7 @@
 C标准库.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5bfcf082a3f78bf36f33c76a774ec4a8

@@ -8,7 +8,7 @@
 4498、_russian_Угадай, кто_.._Коллинз Коллин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 946df8ef10bf974878bbd9d1f54f227b

@@ -8,7 +8,7 @@
 6543、_russian_Небесная соль (сборник)_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f17ea967fdee554a1c4263aa183f37c

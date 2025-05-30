@@ -8,7 +8,7 @@
 12643、_russian_Эхо музыки_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a0bdea9a937da5dbb931602067bab0f

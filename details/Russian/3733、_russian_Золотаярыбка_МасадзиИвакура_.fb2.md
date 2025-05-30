@@ -8,7 +8,7 @@
 3733、_russian_Золотая рыбка_Масадзи Ивакура_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f492e5f2be84999d4853eb80da58d2fa

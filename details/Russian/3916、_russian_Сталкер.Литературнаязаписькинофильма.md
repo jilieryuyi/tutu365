@@ -8,7 +8,7 @@
 3916、_russian_Сталкер. Литературная запись кинофильма.__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce6d8b49aa236aadf86854af5025b6a4

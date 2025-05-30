@@ -8,7 +8,7 @@
 12470、_french_Mercure_Nothomb Amélie_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0bc8ff3c3ad21065ad9fdf5ce1e56047

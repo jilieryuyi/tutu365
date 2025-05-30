@@ -8,7 +8,7 @@
 12545、_russian_Риск – хорошее дело!_Стил Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48649c0f7760e5b8bb778bb01574f287

@@ -8,7 +8,7 @@
 1420、_spanish_Lejos De Aquel Instante_Abasolo José Javier_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0d6c7be330ed7772a4e89c217d59b779

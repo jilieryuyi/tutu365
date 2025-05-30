@@ -8,7 +8,7 @@
 11873、_russian_Размышления о гильотине_Камю Альбер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 506a25bc881cf47b2ae45bf9009fd257

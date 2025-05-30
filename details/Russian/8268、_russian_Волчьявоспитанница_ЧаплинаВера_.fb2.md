@@ -8,7 +8,7 @@
 8268、_russian_Волчья воспитанница_Чаплина Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33098c2403dd39a9c69e32abc779e1a6

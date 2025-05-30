@@ -8,7 +8,7 @@
 10810、_ukrainian_Зоряний Корсар_Бердник Олесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fd136930c8fd5c9ece636b3a49c3ea5

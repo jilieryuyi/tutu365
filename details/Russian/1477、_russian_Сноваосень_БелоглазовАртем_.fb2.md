@@ -8,7 +8,7 @@
 1477、_russian_Снова осень_Белоглазов Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cbadd819af9cba6586efb8d0ebb1745

@@ -8,7 +8,7 @@
 7616、_english_The Ruins_Smith Scott_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 405041a7a4f70aa90370a901e355463e

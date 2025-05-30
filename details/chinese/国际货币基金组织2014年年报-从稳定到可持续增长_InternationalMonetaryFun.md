@@ -8,7 +8,7 @@
 国际货币基金组织 2014年年报 - 从稳定到可持续增长_International Monetary Fund_International Monetary Fund_5487269_bda0d562d9356a5d0a0a97310a867fea.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bda0d562d9356a5d0a0a97310a867fea

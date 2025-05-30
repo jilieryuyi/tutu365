@@ -8,7 +8,7 @@
 1627、_russian_Усть-уртское диво_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37ebc8543d81c9571bc581cbe5b7775e

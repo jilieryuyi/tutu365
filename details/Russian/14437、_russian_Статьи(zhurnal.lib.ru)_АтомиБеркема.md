@@ -8,7 +8,7 @@
 14437、_russian_Статьи (zhurnal.lib.ru)_Атоми Беркем аль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cbfe58b3920a84ec188a45b99d63352

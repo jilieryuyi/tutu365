@@ -8,7 +8,7 @@
 10929、_russian_Кандидат в женихи_Лондон Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18b2c6f2d2a9688374567298f4fde684

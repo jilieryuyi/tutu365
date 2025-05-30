@@ -8,7 +8,7 @@
 14597、_russian_Дорога, откуда не возвращаются_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b617ecf6d5301d6523afa4533079c9e

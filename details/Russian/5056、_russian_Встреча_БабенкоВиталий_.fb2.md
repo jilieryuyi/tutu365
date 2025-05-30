@@ -8,7 +8,7 @@
 5056、_russian_Встреча_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d73b0512e999bf46ef5b4af994db1d7c

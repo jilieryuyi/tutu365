@@ -8,7 +8,7 @@
 6497、_russian_Зеркало теней_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6cac8d4fc4dfdcf48ccdd0013489369

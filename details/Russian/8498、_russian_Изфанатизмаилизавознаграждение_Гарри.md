@@ -8,7 +8,7 @@
 8498、_russian_Из фанатизма или за вознаграждение_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36ca0b93a5a0fc1f8f0d1be7a08688a3

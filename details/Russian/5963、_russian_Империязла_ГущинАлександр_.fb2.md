@@ -8,7 +8,7 @@
 5963、_russian_Империя зла_Гущин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 032726f8ec93903faae5fcf01e461d19

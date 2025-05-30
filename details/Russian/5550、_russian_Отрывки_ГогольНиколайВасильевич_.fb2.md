@@ -8,7 +8,7 @@
 5550、_russian_Отрывки_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ba91f8e6a8614d392b9798210a0b329

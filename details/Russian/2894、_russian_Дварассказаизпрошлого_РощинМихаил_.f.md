@@ -8,7 +8,7 @@
 2894、_russian_Два рассказа из прошлого_Рощин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6dfef27484b4e0511007466ff99319ae

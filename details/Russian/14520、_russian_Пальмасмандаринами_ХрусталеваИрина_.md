@@ -8,7 +8,7 @@
 14520、_russian_Пальма с мандаринами_Хрусталева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a774e325af6359ff5226ece1a951e6f5

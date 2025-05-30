@@ -8,7 +8,7 @@
 JavaScript使用手册.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ee958b0dc4fd489adfbd71c359521b8b

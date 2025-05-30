@@ -8,7 +8,7 @@
 12421、_russian_Полночный гость_Сьюзон Марлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcd869c0ac7aa62df16bc2cb713d8ade

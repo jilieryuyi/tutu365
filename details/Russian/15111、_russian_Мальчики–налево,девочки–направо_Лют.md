@@ -8,7 +8,7 @@
 15111、_russian_Мальчики – налево, девочки – направо_Лютикова Люся_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5348db2ed3543fc16ec2e367c852c28

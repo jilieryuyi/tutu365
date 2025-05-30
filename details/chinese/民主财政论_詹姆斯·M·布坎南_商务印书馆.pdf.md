@@ -8,7 +8,7 @@
 民主财政论_詹姆斯·M·布坎南_商务印书馆.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fab6a609e664a8b1779d6d989c7e3c79

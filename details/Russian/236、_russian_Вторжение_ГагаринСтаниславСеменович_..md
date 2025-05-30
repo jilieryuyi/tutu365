@@ -8,7 +8,7 @@
 236、_russian_Вторжение_Гагарин Станислав Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e8d1d1e170ff030c8727d845091a10d

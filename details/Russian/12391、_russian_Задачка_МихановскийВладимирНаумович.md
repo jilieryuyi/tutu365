@@ -8,7 +8,7 @@
 12391、_russian_Задачка_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab46a442f9413e66be723a15164aa6ef

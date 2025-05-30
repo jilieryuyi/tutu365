@@ -8,7 +8,7 @@
 6187、_russian_Бабы Яги, кто они__Шемшук Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d953c4ecb622c49ab67b129ef69ac96

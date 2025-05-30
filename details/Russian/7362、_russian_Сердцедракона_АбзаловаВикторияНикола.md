@@ -8,7 +8,7 @@
 7362、_russian_Сердце дракона_Абзалова Виктория Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75fa02fdc0d2fc82a0f07a892ef2c066

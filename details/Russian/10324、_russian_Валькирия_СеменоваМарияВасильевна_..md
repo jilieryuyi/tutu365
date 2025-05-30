@@ -8,7 +8,7 @@
 10324、_russian_Валькирия_Семенова Мария Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38f0833c885e8fd258c07e6d6de8af25

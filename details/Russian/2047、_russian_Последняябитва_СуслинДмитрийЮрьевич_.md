@@ -8,7 +8,7 @@
 2047、_russian_Последняя битва_Суслин Дмитрий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bece6a067156438c067568bd4186eee2

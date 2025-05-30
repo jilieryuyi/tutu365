@@ -8,7 +8,7 @@
 3991、_russian_Долететь до эпсилен Тукана_Логинов Святослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74ef796dd5e2ae095e1078710aa6a0aa

@@ -8,7 +8,7 @@
 3037、_russian_Лягушки (отрывки)_Аристофан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d1dc2669f0419e92c933e67d9f312a2

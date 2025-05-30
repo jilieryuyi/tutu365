@@ -8,7 +8,7 @@
 5517、_russian_Жемчуг по крови_Колодан Дмитрий, Шаинян Карина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a260600cfac4521eebb65bdb38c0570

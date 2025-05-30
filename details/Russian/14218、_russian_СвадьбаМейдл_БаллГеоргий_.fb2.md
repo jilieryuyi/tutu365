@@ -8,7 +8,7 @@
 14218、_russian_Свадьба Мейдл_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1baa520382424652840e2df5ab156a33

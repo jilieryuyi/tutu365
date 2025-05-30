@@ -8,7 +8,7 @@
 4873、_russian_Виски с лимоном_Конрат Дж. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a689b6023ce84653f8fab123eee05756

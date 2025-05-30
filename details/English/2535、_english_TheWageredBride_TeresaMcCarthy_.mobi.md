@@ -8,7 +8,7 @@
 2535、_english_The Wagered Bride_Teresa McCarthy_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5f61b9084720129c0f2a5e3ef5b86c52

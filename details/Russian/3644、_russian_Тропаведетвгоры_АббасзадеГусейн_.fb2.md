@@ -8,7 +8,7 @@
 3644、_russian_Тропа ведет в горы_Аббасзаде Гусейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d920e844613833aeadf0da83d984e1e

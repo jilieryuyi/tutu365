@@ -8,7 +8,7 @@
 13583、_russian_Во власти опиума_Фаррер Клод_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc5eaf7de185e54118453ecd149b8615

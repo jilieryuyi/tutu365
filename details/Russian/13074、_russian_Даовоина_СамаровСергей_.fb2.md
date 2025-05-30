@@ -8,7 +8,7 @@
 13074、_russian_Дао воина_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1a4d551f339fbf6be74ddf80db69c44

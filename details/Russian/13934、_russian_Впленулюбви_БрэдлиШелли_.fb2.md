@@ -8,7 +8,7 @@
 13934、_russian_В плену любви_Брэдли Шелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e64397769076f1ec6187c5d13f188d32

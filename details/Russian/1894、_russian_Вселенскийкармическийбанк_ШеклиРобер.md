@@ -8,7 +8,7 @@
 1894、_russian_Вселенский кармический банк_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 068c9f8693fa3386467b49091fe823ec

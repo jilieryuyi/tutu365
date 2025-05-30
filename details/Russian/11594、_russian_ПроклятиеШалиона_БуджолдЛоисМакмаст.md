@@ -8,7 +8,7 @@
 11594、_russian_Проклятие Шалиона_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80acdd16323d0224b1823947e9b2a782

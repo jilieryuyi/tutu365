@@ -8,7 +8,7 @@
 10362、_russian_Смех сквозь слезы_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cde89cf7f04897e801aafbce2f93f107

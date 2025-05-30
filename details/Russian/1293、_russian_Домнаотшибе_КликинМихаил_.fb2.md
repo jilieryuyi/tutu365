@@ -8,7 +8,7 @@
 1293、_russian_Дом на отшибе_Кликин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3740f5ad7d6088de201bcccfb72b9c32

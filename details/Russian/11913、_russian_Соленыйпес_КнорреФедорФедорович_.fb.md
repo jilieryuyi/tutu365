@@ -8,7 +8,7 @@
 11913、_russian_Соленый пес_Кнорре Федор Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad7e1651dda0714ea380c82142142b99

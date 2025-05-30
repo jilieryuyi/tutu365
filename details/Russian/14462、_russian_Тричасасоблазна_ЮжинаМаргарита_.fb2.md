@@ -8,7 +8,7 @@
 14462、_russian_Три часа соблазна_Южина Маргарита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57285e872440f2605b6afd0789d784e0

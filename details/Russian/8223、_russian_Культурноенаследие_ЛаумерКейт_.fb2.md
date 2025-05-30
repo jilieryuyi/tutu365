@@ -8,7 +8,7 @@
 8223、_russian_Культурное наследие_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 943b515eb576ac9f041354804acb4553

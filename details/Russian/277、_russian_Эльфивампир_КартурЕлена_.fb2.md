@@ -8,7 +8,7 @@
 277、_russian_Эльф и вампир_Картур Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8ea1a07d686bc7905e5e562d99024df

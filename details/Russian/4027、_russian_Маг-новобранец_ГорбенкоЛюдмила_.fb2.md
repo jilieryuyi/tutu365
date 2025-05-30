@@ -8,7 +8,7 @@
 4027、_russian_Маг-новобранец_Горбенко Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a791dbaecce4d4053f001106b389c31

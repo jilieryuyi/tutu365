@@ -8,7 +8,7 @@
 3264、_russian_Крайнее средство_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dde959bb64e31d29c0b0819a1881eaa4

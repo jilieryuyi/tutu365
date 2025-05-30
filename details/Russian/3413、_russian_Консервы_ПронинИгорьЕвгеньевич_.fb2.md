@@ -8,7 +8,7 @@
 3413、_russian_Консервы_Пронин Игорь Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f924c8f3a6f7d65698150b6b680020c

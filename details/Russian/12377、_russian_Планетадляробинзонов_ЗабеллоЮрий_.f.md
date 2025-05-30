@@ -8,7 +8,7 @@
 12377、_russian_Планета для робинзонов_Забелло Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7c9c4ec670725d453e2b3d2008f8fc1

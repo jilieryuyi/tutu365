@@ -8,7 +8,7 @@
 10879、_russian_Донырнуть до звезд (Сборник)_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a32fbb559c0fea4e1c5334f3f135f13

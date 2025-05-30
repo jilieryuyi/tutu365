@@ -8,7 +8,7 @@
 14900、_russian_Кандидат в мужья_Айлэнд Лиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42225a8a10d6d51de14af80bce3aeaa4

@@ -8,7 +8,7 @@
 5608、_russian_История знаменитых преступлений (сборник)_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6cb2ab705734d7b6e203b44fbc141a2

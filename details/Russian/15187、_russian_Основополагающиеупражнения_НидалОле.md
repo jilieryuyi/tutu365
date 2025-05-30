@@ -8,7 +8,7 @@
 15187、_russian_Основополагающие упражнения_Нидал Оле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42384cc62a5bd9792351ae3b1ec27a90

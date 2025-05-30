@@ -8,7 +8,7 @@
 13289、_russian_Свет чужого солнца_Кресс Нэнси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b7b1b89e090ae53b407599ffc854ecb

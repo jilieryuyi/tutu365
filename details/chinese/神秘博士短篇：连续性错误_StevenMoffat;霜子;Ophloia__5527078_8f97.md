@@ -8,7 +8,7 @@
 神秘博士短篇：连续性错误_Steven Moffat;霜子;Ophloia__5527078_8f97a47092004257e07859041cb74e98.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8f97a47092004257e07859041cb74e98

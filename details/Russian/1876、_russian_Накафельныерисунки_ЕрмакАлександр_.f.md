@@ -8,7 +8,7 @@
 1876、_russian_Накафельные рисунки_Ермак Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d79a7eb7796424840ef7a71ef476cd3

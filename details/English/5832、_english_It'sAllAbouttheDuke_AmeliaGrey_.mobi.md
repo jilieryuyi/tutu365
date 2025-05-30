@@ -8,7 +8,7 @@
 5832、_english_It's All About the Duke_Amelia Grey_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 14213c9a6db3ed5b4662432098493b97

@@ -8,7 +8,7 @@
 1256、_russian_Фабрика литературы_Платонов Андрей Платонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e9a9d34d7c02140bd7c2c9a271a496b

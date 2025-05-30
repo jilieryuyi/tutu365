@@ -8,7 +8,7 @@
 8989、_russian_Ягодные места_Евтушенко Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6834e0a6b69a74c9f96b21d118c0614a

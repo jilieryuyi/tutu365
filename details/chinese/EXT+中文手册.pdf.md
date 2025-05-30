@@ -8,7 +8,7 @@
 EXT+中文手册.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3de5f06a970a293c1b97d0743436c060

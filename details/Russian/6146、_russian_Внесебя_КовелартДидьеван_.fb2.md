@@ -8,7 +8,7 @@
 6146、_russian_Вне себя_Ковеларт Дидье ван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89cc3f5ec345c469bb44125b168371c2

@@ -8,7 +8,7 @@
 11740、_russian_Год короля Йавана_Куртц Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 988c53bcd00bab029dbde8bd1fc27cd0

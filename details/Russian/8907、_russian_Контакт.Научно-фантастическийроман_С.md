@@ -8,7 +8,7 @@
 8907、_russian_Контакт. Научно-фантастический роман_Саган Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e2a384c3035aafa5647cd403ed73c8a

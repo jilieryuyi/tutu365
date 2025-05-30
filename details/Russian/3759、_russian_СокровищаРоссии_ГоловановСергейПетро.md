@@ -8,7 +8,7 @@
 3759、_russian_Сокровища России_Голованов Сергей Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff222328f1b1b4be989db75246349dbf

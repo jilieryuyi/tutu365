@@ -8,7 +8,7 @@
 8024、_russian_Столичный дневник_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f248477a18f3b18b09b89f1846a35bf

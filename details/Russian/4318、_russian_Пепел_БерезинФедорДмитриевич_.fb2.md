@@ -8,7 +8,7 @@
 4318、_russian_Пепел_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0c86a941e3b7a33b0121cfc1a9ef971

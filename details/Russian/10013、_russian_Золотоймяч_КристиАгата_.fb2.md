@@ -8,7 +8,7 @@
 10013、_russian_Золотой мяч_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 282a29181481c5a7cf374faa739c9e70

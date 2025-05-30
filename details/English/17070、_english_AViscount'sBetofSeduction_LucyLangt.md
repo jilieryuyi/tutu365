@@ -8,7 +8,7 @@
 17070、_english_A Viscount's Bet of Seduction_Lucy Langton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 be04cb492f04c1b5609d37b63cecdfa4

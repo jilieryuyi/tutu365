@@ -8,7 +8,7 @@
 12048、_russian_Калейдоскоп развлечений_Кейн Алекса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e4e1dacb1b272ad05e8378c0d71f21f

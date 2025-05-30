@@ -8,7 +8,7 @@
 12022、_russian_Кнопка и Антон_Кестнер Эрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4d98a93bebb6e1e13cc8a8b44daf058

@@ -8,7 +8,7 @@
 4616、_russian_Отчаяние_Есенберлин Ильяс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee729606cb9278cdf827ff4201a7238d

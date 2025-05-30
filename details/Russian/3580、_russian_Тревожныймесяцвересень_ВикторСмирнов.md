@@ -8,7 +8,7 @@
 3580、_russian_Тревожный месяц вересень_Виктор Смирнов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a1397136f863b0ffbe4808fa9fe2134

@@ -8,7 +8,7 @@
 2036、JavaScript高级程序设计(第3版) (图灵程序设计丛书)_泽卡斯（Zakas. Nicholas C.）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 44c27736e7233eb260dd83ca2289da30

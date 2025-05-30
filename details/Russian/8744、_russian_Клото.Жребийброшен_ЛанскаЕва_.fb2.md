@@ -8,7 +8,7 @@
 8744、_russian_Клото. Жребий брошен_Ланска Ева_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d62e022a3ee3e2b8af2187620cc42a3

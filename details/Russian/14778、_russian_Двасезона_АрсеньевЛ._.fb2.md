@@ -8,7 +8,7 @@
 14778、_russian_Два сезона_Арсеньев Л._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdce1cb8369b273a5b335c31469a8b1f

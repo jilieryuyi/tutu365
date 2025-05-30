@@ -8,7 +8,7 @@
 8565、_russian_Дети Эммануэль_Арсан Эммануэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 399f6ec056fb8b12bfb3421c8caa8bf8

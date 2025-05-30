@@ -8,7 +8,7 @@
 3441、_russian_Хороший редактор_Логинов Святослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83d3ce59f844bbb880651d5b38bf980e

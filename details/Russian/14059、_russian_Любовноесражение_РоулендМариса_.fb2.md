@@ -8,7 +8,7 @@
 14059、_russian_Любовное сражение_Роуленд Мариса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e69fe2d37bf81530ee8472789b3ce7f6

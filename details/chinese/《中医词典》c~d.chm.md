@@ -8,7 +8,7 @@
 《中医词典》c~d.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 16a50ba62cc762ba706fe311e1e5135a

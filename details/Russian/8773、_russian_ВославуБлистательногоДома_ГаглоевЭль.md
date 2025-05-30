@@ -8,7 +8,7 @@
 8773、_russian_Во славу Блистательного Дома_Гаглоев Эльберд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8f703d9fd17c8d8f06eb0a94cf91d14

@@ -8,7 +8,7 @@
 6604、_russian_Корни добра (Главы из книги)_Ашитков Сергей Ростиславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be8ab2a12f8cfe5bfe2592e33b39ed7a

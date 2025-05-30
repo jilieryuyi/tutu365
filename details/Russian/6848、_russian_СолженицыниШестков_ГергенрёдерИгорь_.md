@@ -8,7 +8,7 @@
 6848、_russian_Солженицын и Шестков_Гергенрёдер Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73fa22258c3a9dd77eca9f36e175572d

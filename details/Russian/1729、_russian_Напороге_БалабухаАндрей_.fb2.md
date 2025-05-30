@@ -8,7 +8,7 @@
 1729、_russian_На пороге_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95cd7654e6ff044a9bc1afc505fd35f6

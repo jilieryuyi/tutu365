@@ -8,7 +8,7 @@
 8695、_russian_Худословие_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29e515408373f34fb15868316c4e1391

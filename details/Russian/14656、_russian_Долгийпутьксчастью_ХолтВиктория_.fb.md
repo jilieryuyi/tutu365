@@ -8,7 +8,7 @@
 14656、_russian_Долгий путь к счастью_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 163f7497ed74a6e2a8cd72a9a8e8d78d

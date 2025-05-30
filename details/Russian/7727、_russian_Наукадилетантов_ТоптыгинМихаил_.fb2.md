@@ -8,7 +8,7 @@
 7727、_russian_Наука дилетантов_Топтыгин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffad3b36de1757d88aaa259dd3a67140

@@ -8,7 +8,7 @@
 1417、史上最简单的问题解决手册_麦克_克罗格鲁斯(Mikael Krogerus) & 罗曼_塞普勒(Roman Tschappeler)_中国青年出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 01b1818322818ee498d83d59c47df2f0

@@ -8,7 +8,7 @@
 2053、Linux程序设计(第4版) (图灵程序设计丛书·Linux_UNIX系列)_马修(Neil Matthew)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d062851691b485603213cb7322edd78b

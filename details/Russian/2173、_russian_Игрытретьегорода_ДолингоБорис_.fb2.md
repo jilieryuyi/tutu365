@@ -8,7 +8,7 @@
 2173、_russian_Игры третьего рода_Долинго Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cce16a7ed8064fb3c2c1678161d8c2d5

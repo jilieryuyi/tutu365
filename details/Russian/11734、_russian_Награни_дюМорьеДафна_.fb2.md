@@ -8,7 +8,7 @@
 11734、_russian_На грани_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e5a6f29fd6e79748618d8e4a27ea944

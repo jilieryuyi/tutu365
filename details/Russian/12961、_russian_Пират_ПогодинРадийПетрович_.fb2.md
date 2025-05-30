@@ -8,7 +8,7 @@
 12961、_russian_Пират_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fdfa14f1b2ea188132d1a03e4db9023

@@ -8,7 +8,7 @@
 8249、_english_Gabriel's Torment_Carole Mortimer_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0ffa28c37458112f0a2bbc88a816b23d

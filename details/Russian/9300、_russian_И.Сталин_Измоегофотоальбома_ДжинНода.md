@@ -8,7 +8,7 @@
 9300、_russian_И. Сталин_ Из моего фотоальбома_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 631f72cc69729bbc066f9108a72d32ae

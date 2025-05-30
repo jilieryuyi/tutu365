@@ -8,7 +8,7 @@
 6461、_russian_Непобедимый Олаф_Льгов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8d3e8edc3b40360b26ca8ad98ed932d

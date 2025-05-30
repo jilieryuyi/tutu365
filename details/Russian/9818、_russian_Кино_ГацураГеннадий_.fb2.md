@@ -8,7 +8,7 @@
 9818、_russian_Кино_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13d35da3ba027a1f272a382cac5a08e2

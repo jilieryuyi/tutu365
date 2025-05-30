@@ -8,7 +8,7 @@
 13380、_russian_Золотой миллиард_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3da3d89ab4a03609cf0af8e19d3f3e5f

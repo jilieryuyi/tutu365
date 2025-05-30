@@ -8,7 +8,7 @@
 11123、_russian_На циновке Макалоа_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0d502aa170c4303834ef4c1f3811e48

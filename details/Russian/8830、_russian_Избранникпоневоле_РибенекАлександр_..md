@@ -8,7 +8,7 @@
 8830、_russian_Избранник поневоле_Рибенек Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 205762cecb450951e544e6f63cbef52b

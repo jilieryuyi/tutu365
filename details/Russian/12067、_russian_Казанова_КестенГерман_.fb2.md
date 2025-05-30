@@ -8,7 +8,7 @@
 12067、_russian_Казанова_Кестен Герман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fca8e2285baac5130016f251ac4863c9

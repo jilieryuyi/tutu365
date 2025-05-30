@@ -8,7 +8,7 @@
 14706、_russian_Безжалостная ложь_Нэпьер Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c28c8da36bd8e97b05ba086113b02545

@@ -8,7 +8,7 @@
 7427、_russian_Тяжесть рыб_Колодан Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3964d71cb70b384cef263760aaa595ae

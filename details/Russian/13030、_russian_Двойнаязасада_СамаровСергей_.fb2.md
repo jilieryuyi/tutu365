@@ -8,7 +8,7 @@
 13030、_russian_Двойная засада_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98b3016069e483928f79e1ee50ae8b32

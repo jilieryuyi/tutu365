@@ -8,7 +8,7 @@
 7679、_russian_Рассказы очевидцев, или Архив Надзора Семерых [=Фэнтези]_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e27acddf7bf7ffebbe8786c09be8453f

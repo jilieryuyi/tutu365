@@ -8,7 +8,7 @@
 10801、_russian_Странный человек_Столяров Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78acc9825ad1c03b0b16449b8f28729a

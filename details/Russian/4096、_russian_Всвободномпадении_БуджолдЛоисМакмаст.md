@@ -8,7 +8,7 @@
 4096、_russian_В свободном падении_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6be1b44478039cf8bbe73cc59f5b087

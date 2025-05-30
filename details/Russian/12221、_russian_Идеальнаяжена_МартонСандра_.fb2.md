@@ -8,7 +8,7 @@
 12221、_russian_Идеальная жена_Мартон Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97004f45bfc4f0d1a3019a87148ddf25

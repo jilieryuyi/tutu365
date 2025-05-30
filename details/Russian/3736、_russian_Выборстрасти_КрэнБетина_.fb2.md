@@ -8,7 +8,7 @@
 3736、_russian_Выбор страсти_Крэн Бетина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b293c8733b4625b12dc3d464b64f377

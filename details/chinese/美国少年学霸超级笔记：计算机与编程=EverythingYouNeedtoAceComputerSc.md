@@ -8,7 +8,7 @@
 美国少年学霸超级笔记：计算机与编程 = Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook The Complete Middle School... (美国沃克曼出版公司 (Work... .epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 55562e07803ecd11aecd6f8e3a5c6cf1

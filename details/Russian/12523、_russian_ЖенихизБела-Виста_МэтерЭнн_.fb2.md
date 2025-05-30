@@ -8,7 +8,7 @@
 12523、_russian_Жених из Бела-Виста_Мэтер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 faa15a8f49ac807c9617cab77b0bf373

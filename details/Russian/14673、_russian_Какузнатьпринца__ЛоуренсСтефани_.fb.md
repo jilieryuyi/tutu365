@@ -8,7 +8,7 @@
 14673、_russian_Как узнать принца__Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26be3882a30e934d3a9ab98ea86b351e

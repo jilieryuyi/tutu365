@@ -8,7 +8,7 @@
 3420、_russian_Амулет безумного бога_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed6f06132cfd5c89db0153e2d394df1a

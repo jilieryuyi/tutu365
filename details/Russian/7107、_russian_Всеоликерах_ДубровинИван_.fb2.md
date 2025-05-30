@@ -8,7 +8,7 @@
 7107、_russian_Все о ликерах_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfb0630e810ffc43bebaa0b43b7b6aa2

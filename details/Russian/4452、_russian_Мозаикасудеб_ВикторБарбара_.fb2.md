@@ -8,7 +8,7 @@
 4452、_russian_Мозаика судеб_Виктор Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a167f3e769e054362210c4ec371d25ba

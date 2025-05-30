@@ -8,7 +8,7 @@
 10033、_russian_Тайна Саннингдейла_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c15302d09b9efb789ef0ed817065fc8

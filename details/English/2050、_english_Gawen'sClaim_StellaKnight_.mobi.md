@@ -8,7 +8,7 @@
 2050、_english_Gawen's Claim_Stella Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6dfccf779122bf6639f4055affa56954

@@ -8,7 +8,7 @@
 12683、_russian_Солдатские сказки_Гликберг Александр Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2087fea357ac95506c47cc646308fbed

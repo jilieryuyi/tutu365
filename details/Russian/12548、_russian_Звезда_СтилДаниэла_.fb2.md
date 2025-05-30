@@ -8,7 +8,7 @@
 12548、_russian_Звезда_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19c040d8b45a6285d37ebb5cc713d131

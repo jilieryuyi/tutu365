@@ -8,7 +8,7 @@
 1255、_russian_Лихорадка_Герритсен Тесс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac2699934c20541aed076bf64ea57359

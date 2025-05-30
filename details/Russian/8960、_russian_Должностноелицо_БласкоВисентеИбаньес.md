@@ -8,7 +8,7 @@
 8960、_russian_Должностное лицо_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7c9cda0c4b80c06fdc1cd799f68d205

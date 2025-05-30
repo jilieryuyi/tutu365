@@ -8,7 +8,7 @@
 8278、_russian_Зазеркалье Неверенда_Стиц Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3234ae014b2bba5df8f658936f2637b7

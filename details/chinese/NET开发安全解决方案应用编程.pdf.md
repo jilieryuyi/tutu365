@@ -8,7 +8,7 @@
 NET开发安全解决方案应用编程.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e58b9896a3e46604fffeff97d1da8184

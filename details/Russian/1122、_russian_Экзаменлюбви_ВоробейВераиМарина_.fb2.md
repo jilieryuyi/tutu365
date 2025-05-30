@@ -8,7 +8,7 @@
 1122、_russian_Экзамен любви_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fd352a03585eda8d2d7de99ea2a3544

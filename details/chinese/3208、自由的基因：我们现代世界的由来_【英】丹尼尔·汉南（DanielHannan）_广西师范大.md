@@ -8,7 +8,7 @@
 3208、自由的基因：我们现代世界的由来_【英】丹尼尔·汉南（Daniel Hannan）_广西师范大学出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4907e4ee8511736e235daf7314512b01

@@ -8,7 +8,7 @@
 14356、_russian_Козел отпущения_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 302ae066f15b2667ce752ef5abb11c50

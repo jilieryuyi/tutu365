@@ -8,7 +8,7 @@
 8534、_english_Psalms 90-150 (Baker Commentary on the Old Testament Wisdom and Psalms)_John Goldingay_Baker Academic.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bf773b17083439e14e0d998a0aa09d10

@@ -8,7 +8,7 @@
 8502、_russian_Безработный робот_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d6c3ce7e823fb5d0f4e32d804428b7f

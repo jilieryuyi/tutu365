@@ -8,7 +8,7 @@
 11450、_russian_Зимняя сказка_Джейкобс Холли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf406b6b1351ca6b4b45882239c74d04

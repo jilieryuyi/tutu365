@@ -8,7 +8,7 @@
 4960、_russian_Невидимые силы йоги_Бореев Г. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a30ad6eaa624f81a6d3f9cf6052b354f

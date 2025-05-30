@@ -8,7 +8,7 @@
 13525、_russian_Охотники до любви_Сегаль Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1aa0bfa2704de7367fc9a7562f416e90

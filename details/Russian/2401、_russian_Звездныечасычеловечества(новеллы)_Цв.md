@@ -8,7 +8,7 @@
 2401、_russian_Звездные часы человечества (новеллы)_Цвейг Стефан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8363d9add80bbc8b8ee858ea87c9931c

@@ -8,7 +8,7 @@
 689、饥饿的山村_智量_PHLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 778c4e3045846580a88563336d919652

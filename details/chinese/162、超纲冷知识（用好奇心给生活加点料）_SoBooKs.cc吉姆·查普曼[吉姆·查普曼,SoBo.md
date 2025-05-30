@@ -8,7 +8,7 @@
 162、超纲冷知识（用好奇心给生活加点料 ）_SoBooKs.cc 吉姆·查普曼 [吉姆·查普曼, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9fd411a0a33c889c35b8ba039d07602a

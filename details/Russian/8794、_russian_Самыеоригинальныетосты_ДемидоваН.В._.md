@@ -8,7 +8,7 @@
 8794、_russian_Самые оригинальные тосты_Демидова Н. В._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a0deb1703b8f0141348690b39be3ac1

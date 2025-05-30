@@ -8,7 +8,7 @@
 17325、_english_Schrodinger's Cat Trilogy_Robert A. Wilson_Random House Publishing Group.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1fa98d18f12f64404caf5cc46b2f4ded

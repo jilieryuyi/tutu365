@@ -8,7 +8,7 @@
 6794、_english_Blinded_White Stephen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d717859c7784aec933d909267d68a534

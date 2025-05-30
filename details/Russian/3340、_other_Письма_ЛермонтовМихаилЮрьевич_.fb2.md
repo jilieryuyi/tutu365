@@ -8,7 +8,7 @@
 3340、_other_Письма_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7f57cf7da55af021a74c037f08a3470

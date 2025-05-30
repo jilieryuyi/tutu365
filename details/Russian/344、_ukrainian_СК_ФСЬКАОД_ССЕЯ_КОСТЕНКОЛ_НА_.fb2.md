@@ -8,7 +8,7 @@
 344、_ukrainian_СК_ФСЬКА ОД_ССЕЯ_КОСТЕНКО Л_НА_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e709940b8ce6487029d0d6dce33c4249

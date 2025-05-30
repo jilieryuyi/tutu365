@@ -8,7 +8,7 @@
 14716、_russian_Сезон мошкары_Блант Джайлс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 337df2aa53a9d4293dcbd92258a09c7a

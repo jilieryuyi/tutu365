@@ -8,7 +8,7 @@
 14950、_russian_Страж ночи_Виггз Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e8c7981b2de497bb8064d6b4c39956e

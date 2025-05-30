@@ -8,7 +8,7 @@
 14427、_russian_Невеста для варвара_Алексеев Сергей Трофимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73ed0faccda9856e8a34dc8ce224622b

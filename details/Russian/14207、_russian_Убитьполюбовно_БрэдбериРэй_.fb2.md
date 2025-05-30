@@ -8,7 +8,7 @@
 14207、_russian_Убить полюбовно_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 519e101ae3ddd97216daf4bbf2f93672

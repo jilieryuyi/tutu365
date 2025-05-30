@@ -8,7 +8,7 @@
 12254、_russian_Викинг_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54207b705ba26856bcc0dd0524fb3e6b

@@ -8,7 +8,7 @@
 581、_russian_Когда боги уходят_Алейников Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9b801b7abe9aee8f7b0e572651ff383

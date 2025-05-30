@@ -8,7 +8,7 @@
 8161、_russian_Философия переннис_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d80bdd15866bfb5e49930907ef52b26

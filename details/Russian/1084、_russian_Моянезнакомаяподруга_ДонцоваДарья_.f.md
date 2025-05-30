@@ -8,7 +8,7 @@
 1084、_russian_Моя незнакомая подруга_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e7334bd6ecea1253cac9cbce34a9bf9

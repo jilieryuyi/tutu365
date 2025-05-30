@@ -8,7 +8,7 @@
 67、_russian_Следопыт_Авдеенко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9fe68ac53378cb338cf5ba32a7e4d65

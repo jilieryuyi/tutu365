@@ -8,7 +8,7 @@
 5565、_russian_Тоска по бесконечности_Бенфорд Грегори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7526d24e06c84f90c051df650134ac2

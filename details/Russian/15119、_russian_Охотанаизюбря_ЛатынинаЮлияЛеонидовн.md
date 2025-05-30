@@ -8,7 +8,7 @@
 15119、_russian_Охота на изюбря_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b829f8806db1b9c353db87ea1e81872

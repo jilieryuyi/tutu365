@@ -8,7 +8,7 @@
 3719、_other_Наталья О`Шей_Пользователь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc54c97dbf022c37a95a0395ed9a7b95

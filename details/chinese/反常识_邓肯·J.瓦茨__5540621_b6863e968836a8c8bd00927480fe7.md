@@ -8,7 +8,7 @@
 反常识_邓肯·J.瓦茨__5540621_b6863e968836a8c8bd00927480fe73b6.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b6863e968836a8c8bd00927480fe73b6

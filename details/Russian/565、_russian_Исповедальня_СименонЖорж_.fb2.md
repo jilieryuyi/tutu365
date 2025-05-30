@@ -8,7 +8,7 @@
 565、_russian_Исповедальня_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f07d5ce6b7243d5e8985c2bcd0b8f857

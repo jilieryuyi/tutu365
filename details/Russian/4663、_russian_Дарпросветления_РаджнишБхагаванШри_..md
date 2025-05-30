@@ -8,7 +8,7 @@
 4663、_russian_Дар просветления_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1c700bc46719d04f364e5f272bbaa67

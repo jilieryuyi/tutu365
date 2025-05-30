@@ -8,7 +8,7 @@
 250、AlphaGo：超越人类认知的极限_Demis Hassabis_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3f143678fc0b33ae773ea347e61cc8d8

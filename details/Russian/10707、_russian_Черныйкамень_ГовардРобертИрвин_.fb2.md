@@ -8,7 +8,7 @@
 10707、_russian_Черный камень_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e778852988b71f758312494b897fd6fb

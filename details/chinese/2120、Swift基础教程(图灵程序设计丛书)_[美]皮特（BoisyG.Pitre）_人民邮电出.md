@@ -8,7 +8,7 @@
 2120、Swift基础教程 (图灵程序设计丛书)_[美]皮特（Boisy G. Pitre）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0d1acd9f9ae2d0a6a09e7102b39fc3e1

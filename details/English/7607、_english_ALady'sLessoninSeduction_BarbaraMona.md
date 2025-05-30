@@ -8,7 +8,7 @@
 7607、_english_A Lady's Lesson in Seduction_Barbara Monajem_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cd02612ac45ed01e732286eb1ca9d341

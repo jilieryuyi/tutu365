@@ -8,7 +8,7 @@
 9765、_russian_Мир Арднеха_Саберхаген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d903c556b7738fb828b57c8b768b0793

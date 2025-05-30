@@ -8,7 +8,7 @@
 2035、JavaScript从入门到精通_高宏_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0d55ecbaeaf70e3e1ec743e73d0544ac

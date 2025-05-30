@@ -8,7 +8,7 @@
 8648、_russian_Пятница – game over_Усачева Елена Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 814649ed46c9589923938da2b3841b0d

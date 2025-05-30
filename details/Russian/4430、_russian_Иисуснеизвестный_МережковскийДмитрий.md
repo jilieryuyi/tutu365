@@ -8,7 +8,7 @@
 4430、_russian_Иисус неизвестный_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0ddd747ed189a438c12d2e67c914545

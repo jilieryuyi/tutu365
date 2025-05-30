@@ -8,7 +8,7 @@
 11164、_russian_Полярная станция “Зебра”_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e07a2e3dd74e914d386ef569477734d

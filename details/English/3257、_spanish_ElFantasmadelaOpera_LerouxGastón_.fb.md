@@ -8,7 +8,7 @@
 3257、_spanish_El Fantasma de la Opera_Leroux Gastón_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 26992863e3332714f38ead6c4a677dcf

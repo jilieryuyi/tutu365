@@ -8,7 +8,7 @@
 6575、_english_Lonesome Dove_McMurtry Larry_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 239b18bc7cb2f115e8a3652b3138dbf7

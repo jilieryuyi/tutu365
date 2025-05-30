@@ -8,7 +8,7 @@
 9237、_italian_L'Eternauta, il romanzo_Héctor Germán Oesterheld_001.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 66c4ec659ab7d107ac9f01b855e6467b

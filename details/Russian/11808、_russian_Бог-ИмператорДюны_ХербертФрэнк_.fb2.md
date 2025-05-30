@@ -8,7 +8,7 @@
 11808、_russian_Бог-Император Дюны_Херберт Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26bc27e8f818e3ff4c4c87607e81ce8f

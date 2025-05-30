@@ -8,7 +8,7 @@
 10392、_russian_Дело не в размере_Кэбот Мэг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fc5dcda2a3ed49bfae9fa7336566232

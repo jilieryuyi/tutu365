@@ -8,7 +8,7 @@
 博弈论平话_王则柯 & ePUBw.COM [未知]__5288009_355f49ce98537ec3a0da2b401e3cf4dd.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 355f49ce98537ec3a0da2b401e3cf4dd

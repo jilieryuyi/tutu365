@@ -8,7 +8,7 @@
 6365、_russian_Конклав бессмертных. В краю далеком_Зыков Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1549c363938e26b70e249c2b6b352cff

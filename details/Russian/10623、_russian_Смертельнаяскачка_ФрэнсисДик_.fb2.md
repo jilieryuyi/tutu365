@@ -8,7 +8,7 @@
 10623、_russian_Смертельная скачка_Фрэнсис Дик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00c204f69ff252d407ae281c40ea542a

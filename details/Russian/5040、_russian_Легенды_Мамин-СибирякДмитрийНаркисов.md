@@ -8,7 +8,7 @@
 5040、_russian_Легенды_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57057912fdc9a5a70437cf49b997db3f

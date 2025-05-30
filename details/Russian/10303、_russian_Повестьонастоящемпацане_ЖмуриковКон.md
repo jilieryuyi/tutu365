@@ -8,7 +8,7 @@
 10303、_russian_Повесть о настоящем пацане_Жмуриков Кондратий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c778b23fb9c72e6ba16939d9462991e

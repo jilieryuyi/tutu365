@@ -8,7 +8,7 @@
 8389、_russian_Заратустра. Путь восхождения._Ошо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f375d91f66e7f6cf73bd9b361b3d82ff

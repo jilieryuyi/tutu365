@@ -8,7 +8,7 @@
 7661、_russian_Галактический фонд призрения_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be30ed05883de50e31a63455acb76549

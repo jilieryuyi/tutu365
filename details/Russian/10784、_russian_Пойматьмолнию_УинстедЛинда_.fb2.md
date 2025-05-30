@@ -8,7 +8,7 @@
 10784、_russian_Поймать молнию_Уинстед Линда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 692bdf57b751f1c563abb4bcda709ef8

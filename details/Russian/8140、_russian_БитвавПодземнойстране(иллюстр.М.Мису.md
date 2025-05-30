@@ -8,7 +8,7 @@
 8140、_russian_Битва в Подземной стране  (иллюстр. М. Мисуно)_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03a0e315a72a4fac0427e6d89452bd2f

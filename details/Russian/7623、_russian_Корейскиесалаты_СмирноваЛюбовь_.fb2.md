@@ -8,7 +8,7 @@
 7623、_russian_Корейские салаты_Смирнова Любовь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87ec9d7bc5b23db0187e37202d5a7482

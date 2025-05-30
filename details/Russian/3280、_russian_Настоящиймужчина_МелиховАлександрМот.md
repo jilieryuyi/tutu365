@@ -8,7 +8,7 @@
 3280、_russian_Настоящий мужчина_Мелихов Александр Мотельевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e171f9a369362a0f4e9a7ae3e16f878f

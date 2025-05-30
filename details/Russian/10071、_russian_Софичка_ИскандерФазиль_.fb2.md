@@ -8,7 +8,7 @@
 10071、_russian_Софичка_Искандер Фазиль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f4aee980460e3e509c80222d1e64c3f

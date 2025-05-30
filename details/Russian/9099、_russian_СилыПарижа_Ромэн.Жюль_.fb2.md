@@ -8,7 +8,7 @@
 9099、_russian_Силы Парижа_Ромэн. Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bd6fed694f75d347401195b5e124ed8

@@ -8,7 +8,7 @@
 11654、_russian_Изувер_Безуглов Анатолий Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8027e265b1845172f1a7243c6c12eec5

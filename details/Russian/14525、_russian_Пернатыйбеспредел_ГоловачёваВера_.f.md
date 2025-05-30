@@ -8,7 +8,7 @@
 14525、_russian_Пернатый беспредел_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 075d02dc0d76e517c50f9ff528e438e6

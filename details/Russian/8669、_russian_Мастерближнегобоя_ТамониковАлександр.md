@@ -8,7 +8,7 @@
 8669、_russian_Мастер ближнего боя_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34726d37ebb84316e6b06c6dfafdba8d

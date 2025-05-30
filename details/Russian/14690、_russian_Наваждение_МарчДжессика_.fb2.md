@@ -8,7 +8,7 @@
 14690、_russian_Наваждение_Марч Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48cc7796ee6e043535ae2a6298c1fd1c

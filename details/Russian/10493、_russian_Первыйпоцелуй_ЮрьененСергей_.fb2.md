@@ -8,7 +8,7 @@
 10493、_russian_Первый поцелуй_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb008cfd38ce2dad126aac552f87e48d

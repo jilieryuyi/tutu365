@@ -8,7 +8,7 @@
 11745、_russian_Мимолетность_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3edfdb9dfff0827cdb7e91a288dd57c

@@ -8,7 +8,7 @@
 3664、_russian_Рояль в избе_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb667f8681ee380d46e987acbb033ca2

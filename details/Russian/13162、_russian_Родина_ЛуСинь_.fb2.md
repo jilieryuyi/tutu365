@@ -8,7 +8,7 @@
 13162、_russian_Родина_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05aa36085709cbf738aa13c2a9eb94b9

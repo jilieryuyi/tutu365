@@ -8,7 +8,7 @@
 1923、_russian_Аметистовый венец_Дэвис Мэгги_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0b51eba24b9ee880e393234cb23a5e2

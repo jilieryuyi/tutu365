@@ -8,7 +8,7 @@
 11473、_russian_Альтернатива Эренграфа_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f84672d20e7853c2f6dd55565602b2e

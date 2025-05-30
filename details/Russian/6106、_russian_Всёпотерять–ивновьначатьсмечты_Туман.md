@@ -8,7 +8,7 @@
 6106、_russian_Всё потерять – и вновь начать с мечты_Туманов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2f7f7f237d32736a52a145e4bd785ab

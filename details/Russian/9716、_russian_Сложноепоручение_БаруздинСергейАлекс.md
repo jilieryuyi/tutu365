@@ -8,7 +8,7 @@
 9716、_russian_Сложное поручение_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b62a1b20b013fbad072c6c2e1357352c

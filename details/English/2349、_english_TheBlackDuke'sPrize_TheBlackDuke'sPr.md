@@ -8,7 +8,7 @@
 2349、_english_The Black Duke's Prize_The Black Duke's Prize_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a7d208e9c923642a10747cbbdf1568e2

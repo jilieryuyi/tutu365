@@ -8,7 +8,7 @@
 11514、_russian_Приключения _Секретной семерки__Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6df234357754d05ae57e4fec319a9811

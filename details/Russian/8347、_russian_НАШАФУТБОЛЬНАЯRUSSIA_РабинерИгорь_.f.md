@@ -8,7 +8,7 @@
 8347、_russian_НАША ФУТБОЛЬНАЯ RUSSIA_Рабинер Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 889bfa16c4c40366b53de09b74c9a827

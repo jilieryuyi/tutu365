@@ -8,7 +8,7 @@
 13346、_french_Promenade_Jauffret Régis_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2b74146a27aad0704d0d1af14c1626bd

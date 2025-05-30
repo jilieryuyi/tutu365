@@ -8,7 +8,7 @@
 何伟三部曲套装_彼得·海斯勒（Peter Hessler）__5392994_4e9ecce88a725790f1daa78940226c12.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4e9ecce88a725790f1daa78940226c12

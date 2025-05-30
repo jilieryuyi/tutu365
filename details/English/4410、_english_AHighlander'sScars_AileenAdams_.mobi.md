@@ -8,7 +8,7 @@
 4410、_english_A Highlander's Scars_Aileen Adams_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5295da6d9269081a61a799106b51bc36

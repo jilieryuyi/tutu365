@@ -8,7 +8,7 @@
 1049、法国革命史 (汉译世界学术名著丛书)_乔治·勒费弗尔(Lefebvre.G.)_商务印书馆.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a59479386b9f59284c0b1db14a50ce98

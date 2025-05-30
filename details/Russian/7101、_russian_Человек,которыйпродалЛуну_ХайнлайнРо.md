@@ -8,7 +8,7 @@
 7101、_russian_Человек, который продал Луну_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2efbc77b3ed002519d38d9aa985c67db

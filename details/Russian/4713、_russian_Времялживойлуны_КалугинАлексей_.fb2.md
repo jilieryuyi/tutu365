@@ -8,7 +8,7 @@
 4713、_russian_Время лживой луны_Калугин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c094c641626b6ca5caaf4fb012c8681b

@@ -8,7 +8,7 @@
 15184、_russian_Кто управляет Америкой__Саттон Энтони_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a19472c4b781a7ee33c703750a424398

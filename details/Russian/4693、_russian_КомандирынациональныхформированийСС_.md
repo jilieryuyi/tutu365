@@ -8,7 +8,7 @@
 4693、_russian_Командиры национальных формирований СС_Залесский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d72dbac69dc82fad80906292cd16d29

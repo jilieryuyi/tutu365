@@ -8,7 +8,7 @@
 13627、_russian_Свой круг_Багиров Заур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3cab9ef8da70065e5e722c020fff445

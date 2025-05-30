@@ -8,7 +8,7 @@
 14071、_russian_Невеста на ночь_Берг Патти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a868d01c08de1265ec6bb1ab60d8664e

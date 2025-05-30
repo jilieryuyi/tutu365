@@ -8,7 +8,7 @@
 8943、_russian_Рассказы(Москва.- 1911)_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e3a4249927001e2ec7b3911f04f36b6

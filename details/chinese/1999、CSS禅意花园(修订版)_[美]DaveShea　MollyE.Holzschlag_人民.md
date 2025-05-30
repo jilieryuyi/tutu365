@@ -8,7 +8,7 @@
 1999、CSS禅意花园(修订版)_[美]Dave Shea　Molly E. Holzschlag_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f42185c80b1eba1310ef6e438398c92e

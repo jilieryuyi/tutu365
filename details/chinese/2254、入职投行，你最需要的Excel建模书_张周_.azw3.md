@@ -8,7 +8,7 @@
 2254、入职投行，你最需要的Excel建模书_张周_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cf4fa9e69c26c024cea278360189b3ff

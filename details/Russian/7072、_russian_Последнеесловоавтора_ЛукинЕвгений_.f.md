@@ -8,7 +8,7 @@
 7072、_russian_Последнее слово автора_Лукин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f3549a9eda8c196918e2d3a633c4afb

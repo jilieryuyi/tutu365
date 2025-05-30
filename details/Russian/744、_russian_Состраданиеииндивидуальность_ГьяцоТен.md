@@ -8,7 +8,7 @@
 744、_russian_Сострадание и индивидуальность_Гьяцо Тензин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b05ad2af72869be46538ac3b46f81f85

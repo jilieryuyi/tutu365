@@ -8,7 +8,7 @@
 2770、_russian_Тропическая жара_Дай Сюзанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43031d020e46b6f2c4fa2feccf6e3748

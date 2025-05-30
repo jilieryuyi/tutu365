@@ -8,7 +8,7 @@
 4258、_russian_Пути зла_Тренейл Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29afea244bf93331ca1aae62e838d42b

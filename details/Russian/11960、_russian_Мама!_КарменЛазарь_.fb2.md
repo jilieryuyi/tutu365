@@ -8,7 +8,7 @@
 11960、_russian_Мама!_Кармен Лазарь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d6370eea4376587924e67adc1c8ed92

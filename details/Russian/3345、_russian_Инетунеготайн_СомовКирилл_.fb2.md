@@ -8,7 +8,7 @@
 3345、_russian_И нет у него тайн_Сомов Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c12f3bdfb9aa484fe94c81650decaf6c

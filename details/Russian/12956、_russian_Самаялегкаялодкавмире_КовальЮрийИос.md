@@ -8,7 +8,7 @@
 12956、_russian_Самая легкая лодка в мире_Коваль Юрий Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eab1c4a146df1a86a6bee4d13943fa96

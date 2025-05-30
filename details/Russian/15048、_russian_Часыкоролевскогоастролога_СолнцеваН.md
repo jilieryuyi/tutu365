@@ -8,7 +8,7 @@
 15048、_russian_Часы королевского астролога_Солнцева Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 441590d95addcedc0c1e38c64dbd003c

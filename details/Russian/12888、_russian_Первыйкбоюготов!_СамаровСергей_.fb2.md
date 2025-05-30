@@ -8,7 +8,7 @@
 12888、_russian_Первый к бою готов!_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e0c6f2fdc77c85d3987f5e59c1d9b4f

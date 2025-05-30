@@ -8,7 +8,7 @@
 730、_russian_Праздничный костер Макеры_Моисеева Клара Моисеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0766ce907f8def190d1b7c991da05b5b

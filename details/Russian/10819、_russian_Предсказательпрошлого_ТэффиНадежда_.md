@@ -8,7 +8,7 @@
 10819、_russian_Предсказатель прошлого_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf5fceb8d0ce119b841618df9f8ab138

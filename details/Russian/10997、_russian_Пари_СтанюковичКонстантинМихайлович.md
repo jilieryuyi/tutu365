@@ -8,7 +8,7 @@
 10997、_russian_Пари_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9014ea4df285692d95c6b2802f75e5d0

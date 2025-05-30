@@ -8,7 +8,7 @@
 3517、_russian_Отклонение к совершенству_Головачёв Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3eb8c1afe5c02436a9c7a530a3b3d37d

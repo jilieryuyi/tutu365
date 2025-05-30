@@ -8,7 +8,7 @@
 13170、_russian_Кролики и кошка_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b385ec09dfdd11ca91d717a418eb6af

@@ -8,7 +8,7 @@
 10818、_russian_Путешественник_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ae34f1cdcf7246742723c3d06ed7339

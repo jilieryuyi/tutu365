@@ -8,7 +8,7 @@
 162、_russian_Французские сказки и новеллы__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbb59a85bf360c69857a55ed35553026

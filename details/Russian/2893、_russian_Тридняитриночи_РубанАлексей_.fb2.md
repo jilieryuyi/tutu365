@@ -8,7 +8,7 @@
 2893、_russian_Три дня и три ночи_Рубан Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0a79833409fcd40a2dc850a21410207

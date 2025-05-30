@@ -8,7 +8,7 @@
 12722、_russian_Слюни дьявола_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d08b5aca3b9fb3607cafd78e931047e

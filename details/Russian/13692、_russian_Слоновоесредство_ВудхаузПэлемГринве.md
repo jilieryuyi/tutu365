@@ -8,7 +8,7 @@
 13692、_russian_Слоновое средство_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6e66fbacecb93eb5c0c5cda72dcea9e

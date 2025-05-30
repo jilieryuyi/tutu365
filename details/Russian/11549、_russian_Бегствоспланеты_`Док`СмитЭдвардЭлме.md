@@ -8,7 +8,7 @@
 11549、_russian_Бегство с планеты_`Док` Смит Эдвард Элмер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b27b4f79915d58d0e8fec7d7189f554b

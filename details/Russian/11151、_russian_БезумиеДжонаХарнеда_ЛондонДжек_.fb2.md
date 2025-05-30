@@ -8,7 +8,7 @@
 11151、_russian_Безумие Джона Харнеда_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b285db9312811d709da41f5a0e1255f

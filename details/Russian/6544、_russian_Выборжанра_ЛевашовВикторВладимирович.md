@@ -8,7 +8,7 @@
 6544、_russian_Выбор жанра_Левашов Виктор Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db9f99c46462939f85419827b5752e2c

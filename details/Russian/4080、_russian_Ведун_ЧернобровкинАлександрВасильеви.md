@@ -8,7 +8,7 @@
 4080、_russian_Ведун_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f89b6a698de8eed8707f03e41b08c7f

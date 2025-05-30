@@ -8,7 +8,7 @@
 13183、_russian_Герольд короля Шотландии_Лэм Арнетта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0397a5ca7fc7115c245ebc7aee56742f

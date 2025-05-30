@@ -8,7 +8,7 @@
 6868、_russian_Тайна греческого гроба_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb24439a7d9b9e51b6dc2df832c3a54e

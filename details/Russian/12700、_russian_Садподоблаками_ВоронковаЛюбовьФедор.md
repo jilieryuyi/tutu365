@@ -8,7 +8,7 @@
 12700、_russian_Сад под облаками_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff61ff1571258e38b17e6f093a5e3d0d

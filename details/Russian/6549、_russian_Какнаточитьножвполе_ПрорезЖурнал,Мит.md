@@ -8,7 +8,7 @@
 6549、_russian_Как наточить нож в поле_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4e5d6e74f329ec638049bba5b63b4ab

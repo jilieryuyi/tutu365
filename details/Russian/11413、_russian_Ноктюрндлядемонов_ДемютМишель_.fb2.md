@@ -8,7 +8,7 @@
 11413、_russian_Ноктюрн для демонов_Демют Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61d31ca3ab5868558f06e60d14dc1dfe

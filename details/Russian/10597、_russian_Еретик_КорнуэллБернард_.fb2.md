@@ -8,7 +8,7 @@
 10597、_russian_Еретик_Корнуэлл Бернард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 509005d4326845910434d257310ab334

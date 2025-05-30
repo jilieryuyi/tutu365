@@ -8,7 +8,7 @@
 2266、_russian_Ночные джунгли_Свонн Эндрю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4be289e598687ff86e8a46ad68a511f5

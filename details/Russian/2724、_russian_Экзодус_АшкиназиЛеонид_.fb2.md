@@ -8,7 +8,7 @@
 2724、_russian_Экзодус_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6898f84d872d5103193fc18f84217e91

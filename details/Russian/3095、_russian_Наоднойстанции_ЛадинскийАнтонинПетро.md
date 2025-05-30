@@ -8,7 +8,7 @@
 3095、_russian_На одной станции_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f405f1be751837fc74fc8ca5b2aca830

@@ -8,7 +8,7 @@
 15229、_russian_Лес богов_Сруога Балис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 355d4dfa55880b4f8a837566dd6d76f7

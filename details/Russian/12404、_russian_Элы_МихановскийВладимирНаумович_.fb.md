@@ -8,7 +8,7 @@
 12404、_russian_Элы_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f00869dc8290181526e6ca17ce9da0c

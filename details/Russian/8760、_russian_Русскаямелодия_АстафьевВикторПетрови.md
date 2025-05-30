@@ -8,7 +8,7 @@
 8760、_russian_Русская мелодия_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98763195f7c656cfec05b1f63c4a3c2b

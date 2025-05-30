@@ -8,7 +8,7 @@
 10346、_russian_О Горьком_Герман Юрий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54a91aa2631ffefbd782859d3f9c1252

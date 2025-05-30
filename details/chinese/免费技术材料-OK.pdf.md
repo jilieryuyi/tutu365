@@ -8,7 +8,7 @@
 免费技术材料-OK.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8166f295e8c0d17c83c94ced5fb5cac0

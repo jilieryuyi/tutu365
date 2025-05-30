@@ -8,7 +8,7 @@
 1455、_russian_Слово для _леса_ и _мира_ одно_Ле Гуин Урсула Крёбер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d80c688f2f06d82b5d656e2230ad488

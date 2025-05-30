@@ -8,7 +8,7 @@
 108、图形思考与表达的20堂课_SoBooKs.cc & 梁世英 【日】久恒启一_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8e6b9304c89222c12ded7ebc12d9fd8c

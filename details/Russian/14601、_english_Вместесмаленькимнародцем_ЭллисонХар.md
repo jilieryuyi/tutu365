@@ -8,7 +8,7 @@
 14601、_english_Вместе с маленьким народцем_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b5ff77abaa65a854ecb5c237c364666

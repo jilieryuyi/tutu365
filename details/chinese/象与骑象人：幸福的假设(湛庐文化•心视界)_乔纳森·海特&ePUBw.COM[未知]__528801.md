@@ -8,7 +8,7 @@
 象与骑象人：幸福的假设 (湛庐文化•心视界)_乔纳森·海特 & ePUBw.COM [未知]__5288010_edfdc1fb99e5521e44553ff6bb3f91de.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 edfdc1fb99e5521e44553ff6bb3f91de

@@ -8,7 +8,7 @@
 6185、_russian_Революция сейчас !_Стогоff Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0ff27baea61eb8072097ea3551c95af

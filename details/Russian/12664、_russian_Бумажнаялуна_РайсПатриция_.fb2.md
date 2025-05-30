@@ -8,7 +8,7 @@
 12664、_russian_Бумажная луна_Райс Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c2ecab93ff67f5476dc54361d0f688d

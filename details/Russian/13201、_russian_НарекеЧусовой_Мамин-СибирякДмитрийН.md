@@ -8,7 +8,7 @@
 13201、_russian_На реке Чусовой_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fd5ad47d2517450170468b4c6cd8bd0

@@ -8,7 +8,7 @@
 10599、_russian_Ребус Галла_Панов Вадим Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae5a529696f76533de79dab7314d021c

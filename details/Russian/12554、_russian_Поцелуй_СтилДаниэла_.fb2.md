@@ -8,7 +8,7 @@
 12554、_russian_Поцелуй_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc4c847615ec2f91dc3535b95ec61565

@@ -8,7 +8,7 @@
 5563、_russian_Тайны русского слова_Ирзабеков Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 236cf55c4b312cd416c53aaf8016a524

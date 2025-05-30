@@ -8,7 +8,7 @@
 5120、_russian_Рыцарь и его чудовище_Мальцев М._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d93a308211d7e38a29a622a2b182860

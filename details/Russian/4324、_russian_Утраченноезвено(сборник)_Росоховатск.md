@@ -8,7 +8,7 @@
 4324、_russian_Утраченное звено (сборник)_Росоховатский Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c4365f37c97335d5bf35c1f2d351ce0

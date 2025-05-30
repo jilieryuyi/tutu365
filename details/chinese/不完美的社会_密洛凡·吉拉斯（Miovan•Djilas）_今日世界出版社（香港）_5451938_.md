@@ -8,7 +8,7 @@
 不完美的社会_密洛凡·吉拉斯（Miovan•Djilas）_今日世界出版社（香港）_5451938_b5a5504ea02d59b7ceaa0ff216b4ded8.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b5a5504ea02d59b7ceaa0ff216b4ded8

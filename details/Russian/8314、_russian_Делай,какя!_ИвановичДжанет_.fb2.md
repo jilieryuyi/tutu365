@@ -8,7 +8,7 @@
 8314、_russian_Делай, как я!_Иванович Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4a46270529007fecbc9b29800d09a09

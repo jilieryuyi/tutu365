@@ -8,7 +8,7 @@
 6367、_russian_Чертовы писаки!_Дункан Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7e77e1870d187c48fc580f864fc8f6a

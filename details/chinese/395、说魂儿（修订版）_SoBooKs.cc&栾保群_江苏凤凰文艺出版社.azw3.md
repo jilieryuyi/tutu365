@@ -8,7 +8,7 @@
 395、说魂儿（修订版）_SoBooKs.cc & 栾保群_江苏凤凰文艺出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fe882e60f0728cd73a4422f97e9e5a36

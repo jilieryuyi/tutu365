@@ -8,7 +8,7 @@
 1978、_russian_Скука Харухи Судзумии (Перевод с английского)_Танигава Нагару_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b0a0f18a2af4cf59421bdabd8ea1cbe

@@ -8,7 +8,7 @@
 7864、_russian_Лучшие из мертвых_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d312889c1c1fe2b79e3590919fac5c44

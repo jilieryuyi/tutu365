@@ -8,7 +8,7 @@
 13140、_russian_Колдовство любви_Эллиот Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8894c4e54d724fb65d72efba7f2db064

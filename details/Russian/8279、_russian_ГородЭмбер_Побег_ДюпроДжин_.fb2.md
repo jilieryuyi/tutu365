@@ -8,7 +8,7 @@
 8279、_russian_Город Эмбер_ Побег_Дюпро Джин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74b1b05d131a99a3ea97883e5414afeb

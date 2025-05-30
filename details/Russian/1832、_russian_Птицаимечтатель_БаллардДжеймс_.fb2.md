@@ -8,7 +8,7 @@
 1832、_russian_Птица и мечтатель_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dda2db776987429824dd648b6fbb3d6e

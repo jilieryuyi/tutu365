@@ -8,7 +8,7 @@
 4676、_english_O Is For Outlaw_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1f0212c0db748f64c239144b3b3c006f

@@ -8,7 +8,7 @@
 8461、_russian_Права человека будущего_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63a07e7536bafe37ae30e67212a0567a

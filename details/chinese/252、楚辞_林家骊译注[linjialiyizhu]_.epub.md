@@ -8,7 +8,7 @@
 252、楚辞_林家骊译注 [linjialiyizhu]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 511c2fa0b1a7bfb0f7a26de030bb9ce5

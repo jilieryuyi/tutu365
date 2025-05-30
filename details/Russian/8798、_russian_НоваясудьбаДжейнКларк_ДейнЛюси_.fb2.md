@@ -8,7 +8,7 @@
 8798、_russian_Новая судьба Джейн Кларк_Дейн Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3195c4fc8beb2e44587a427c3c9bd114

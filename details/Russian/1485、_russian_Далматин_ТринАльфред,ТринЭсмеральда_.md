@@ -8,7 +8,7 @@
 1485、_russian_Далматин_Трин Альфред, Трин Эсмеральда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7de0be2ea70414daaefc776deabea57

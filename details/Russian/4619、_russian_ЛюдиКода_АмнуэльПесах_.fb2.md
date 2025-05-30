@@ -8,7 +8,7 @@
 4619、_russian_Люди Кода_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c654aead9507710c4255a5ad390ecc7

@@ -8,7 +8,7 @@
 11976、_russian_Рикша-призрак_Киплинг Редьярд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8b87247bb58aa7e5d4d32594aeaaa67

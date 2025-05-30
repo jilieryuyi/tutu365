@@ -8,7 +8,7 @@
 1981、Axure RP7网站和APP原型制作从入门到精通_金乌_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5912ffb27f83d48166c20a73ca843893

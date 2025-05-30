@@ -8,7 +8,7 @@
 10302、_russian_Принц и Нищин_Жмуриков Кондратий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a2c7bee7c65f9514b5aed2eab340a86

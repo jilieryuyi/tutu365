@@ -8,7 +8,7 @@
 2995、_russian_Дом в деревне_Варламов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b04d76d8d3dd5ba57a261b4944d8d2a7

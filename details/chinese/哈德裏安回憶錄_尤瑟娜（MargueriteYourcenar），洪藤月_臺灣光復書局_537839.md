@@ -8,7 +8,7 @@
 哈德裏安回憶錄_尤瑟娜（Marguerite Yourcenar），洪藤月_臺灣光復書局_5378393_b9ff9cdef04b4c9f2b7047c2605c5188.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b9ff9cdef04b4c9f2b7047c2605c5188

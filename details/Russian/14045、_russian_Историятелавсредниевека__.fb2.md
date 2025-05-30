@@ -8,7 +8,7 @@
 14045、_russian_История тела в средние века__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d0c67d275cd4988cb8a6e65e01dba7c

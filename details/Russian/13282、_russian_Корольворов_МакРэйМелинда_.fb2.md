@@ -8,7 +8,7 @@
 13282、_russian_Король воров_Мак Рэй Мелинда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f177624262aa4664cbc2986d048e1844

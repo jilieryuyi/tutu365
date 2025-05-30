@@ -8,7 +8,7 @@
 8630、_russian_На крючке_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a08a6df2acdf6311fe656d4c44e3b9f1

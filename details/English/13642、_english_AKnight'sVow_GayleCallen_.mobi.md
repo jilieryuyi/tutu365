@@ -8,7 +8,7 @@
 13642、_english_A Knight's Vow_Gayle Callen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0943d7aaae7bdb30f2df3d6d88f2efff

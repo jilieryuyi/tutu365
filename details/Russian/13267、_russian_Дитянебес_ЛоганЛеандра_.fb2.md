@@ -8,7 +8,7 @@
 13267、_russian_Дитя небес_Логан Леандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3368f9196fbda7bbbf9852d5a9aaf8e0

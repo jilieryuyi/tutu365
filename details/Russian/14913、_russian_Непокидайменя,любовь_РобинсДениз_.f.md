@@ -8,7 +8,7 @@
 14913、_russian_Не покидай меня, любовь_Робинс Дениз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7660a646f96f863d8d098c9068d6644

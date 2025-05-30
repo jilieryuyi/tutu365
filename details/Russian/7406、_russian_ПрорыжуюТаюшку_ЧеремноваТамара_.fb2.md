@@ -8,7 +8,7 @@
 7406、_russian_Про рыжую Таюшку_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c42e60ed0126be172cf1048403d6d8b

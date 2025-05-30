@@ -8,7 +8,7 @@
 1245、_russian_Звёздный огонь_Осояну Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5eca65de4cb326a93f727087f4fc8ef4

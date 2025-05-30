@@ -8,7 +8,7 @@
 3918、_russian_Принц Белой Башни_Суслин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02009ad3d1920f22ecf96516fe07e7d2

@@ -8,7 +8,7 @@
 4318、_english_Highlander's Ancient Vengeance_Adamina Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5c4e96fc97a3c65e9b28c1e0ae226145

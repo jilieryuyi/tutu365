@@ -8,7 +8,7 @@
 12678、_russian_Сказание о директоре Прончатове_Липатов Виль Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 375cc3ac3af7c87f8812df04db0c58c1

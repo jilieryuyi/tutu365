@@ -8,7 +8,7 @@
 10198、_russian_Бесценная жемчужина_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4efa4cf08c8e8e40ff990b73ea3e5d9d

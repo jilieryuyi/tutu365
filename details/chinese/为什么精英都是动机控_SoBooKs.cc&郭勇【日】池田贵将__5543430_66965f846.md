@@ -8,7 +8,7 @@
 为什么精英都是动机控_SoBooKs.cc & 郭勇 【日】池田贵将__5543430_66965f846fffb00531906b7f1794138a.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 66965f846fffb00531906b7f1794138a

@@ -8,7 +8,7 @@
 8006、_russian_Меншиков_Соколов Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df49d2317949f87407daf116fac22100

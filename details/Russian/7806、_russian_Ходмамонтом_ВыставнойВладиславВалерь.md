@@ -8,7 +8,7 @@
 7806、_russian_Ход мамонтом_Выставной Владислав Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b6357de6e7a40f4d502c481dae1640c

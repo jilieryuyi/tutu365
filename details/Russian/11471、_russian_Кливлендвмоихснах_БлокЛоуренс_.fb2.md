@@ -8,7 +8,7 @@
 11471、_russian_Кливленд в моих снах_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25bdadfc35f6d2836f580f876eff9da1

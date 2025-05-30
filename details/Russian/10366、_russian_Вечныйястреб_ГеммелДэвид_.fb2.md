@@ -8,7 +8,7 @@
 10366、_russian_Вечный ястреб_Геммел Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75f3e82e59cb9bf8a88a64d675fc19a8

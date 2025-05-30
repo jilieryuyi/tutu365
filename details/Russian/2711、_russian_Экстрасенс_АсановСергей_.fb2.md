@@ -8,7 +8,7 @@
 2711、_russian_Экстрасенс_Асанов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cd2c167868b933b5c95b12510396d87

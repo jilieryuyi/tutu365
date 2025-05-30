@@ -8,7 +8,7 @@
 3772、_ukrainian_Пульс всесвiту_Бабула Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 768671a47f6059a4446788a210ddc415

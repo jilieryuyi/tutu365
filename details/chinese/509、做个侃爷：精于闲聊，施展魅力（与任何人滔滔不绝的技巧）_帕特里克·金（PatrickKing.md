@@ -8,7 +8,7 @@
 509、做个侃爷：精于闲聊，施展魅力（与任何人滔滔不绝的技巧）_帕特里克·金（Patrick King）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 931f0c85e8dad64beb522f7b7ae376aa

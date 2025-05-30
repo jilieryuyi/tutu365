@@ -8,7 +8,7 @@
 6827、_russian_Телец для Венеры_Лофтс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df291e94455c28830d51412e8eac1f8b

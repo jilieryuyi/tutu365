@@ -8,7 +8,7 @@
 6771、_russian_Солнечный поцелуй_Ванделер Альберта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20425eab10407d5830123fe17b74db6e

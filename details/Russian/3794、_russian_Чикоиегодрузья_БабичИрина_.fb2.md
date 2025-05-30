@@ -8,7 +8,7 @@
 3794、_russian_Чико и его друзья_Бабич Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17b0eba7a2eed0bf38d0cd0becb9afb1

@@ -8,7 +8,7 @@
 9133、_russian_Рассказы(Молчаливый Афанасий,Море Цаплина)_Гуцко Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5db8c335ca8c5380623e0b1c9a9d6a5c

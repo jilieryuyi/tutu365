@@ -8,7 +8,7 @@
 8554、_russian_Негатив положительного героя_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a9b20478c0aff52f39b93c11380a9d4

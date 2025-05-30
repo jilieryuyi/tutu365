@@ -8,7 +8,7 @@
 15287、_russian_Раксис_Таланов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6328b83597a5acb23d8198b319f2e0d

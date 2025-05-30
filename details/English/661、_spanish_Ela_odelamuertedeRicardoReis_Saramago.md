@@ -8,7 +8,7 @@
 661、_spanish_El a_o de la muerte de Ricardo Reis_Saramago José_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d3b959f8a02befc22525eb66e4f05e02

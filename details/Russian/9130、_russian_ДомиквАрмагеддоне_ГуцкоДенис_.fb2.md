@@ -8,7 +8,7 @@
 9130、_russian_Домик в Армагеддоне_Гуцко Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4e1c985a4f40cb2e81b998603ca9320

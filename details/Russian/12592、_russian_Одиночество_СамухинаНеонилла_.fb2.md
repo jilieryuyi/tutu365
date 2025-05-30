@@ -8,7 +8,7 @@
 12592、_russian_Одиночество_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6629fd804155365af8c3b6d13d11ee4e

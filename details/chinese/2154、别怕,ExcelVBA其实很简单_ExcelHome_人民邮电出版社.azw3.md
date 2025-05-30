@@ -8,7 +8,7 @@
 2154、别怕,Excel VBA其实很简单_Excel Home_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 85599d49c8a4e82cf663e737f12a960d

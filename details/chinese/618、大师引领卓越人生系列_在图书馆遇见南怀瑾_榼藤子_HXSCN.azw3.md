@@ -8,7 +8,7 @@
 618、大师引领卓越人生系列_在图书馆遇见南怀瑾_榼藤子_HXSCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8f1614dec1aeeba802bcb9bda557f40a

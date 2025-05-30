@@ -8,7 +8,7 @@
 9763、_russian_Кораблик любви_Левинг Дайан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43206e65c1a8a56a8ed3932763b0b976

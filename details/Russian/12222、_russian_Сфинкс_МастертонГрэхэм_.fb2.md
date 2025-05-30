@@ -8,7 +8,7 @@
 12222、_russian_Сфинкс_Мастертон Грэхэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 289710b8dff6a34ad10851bf024b345c

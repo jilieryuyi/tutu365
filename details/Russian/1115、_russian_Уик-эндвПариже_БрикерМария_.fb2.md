@@ -8,7 +8,7 @@
 1115、_russian_Уик-энд в Париже_Брикер Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1890c9aa8586686c532b868ebad87304

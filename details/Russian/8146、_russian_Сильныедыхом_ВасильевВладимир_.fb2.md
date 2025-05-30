@@ -8,7 +8,7 @@
 8146、_russian_Сильные дыхом_Васильев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2edd3d5efa7a983fb95e1c51a9ea8ebc

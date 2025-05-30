@@ -8,7 +8,7 @@
 1509、_russian_Эскалатор_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0138d9978813a1462ce88c7fbe98fe8a

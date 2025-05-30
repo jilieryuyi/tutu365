@@ -8,7 +8,7 @@
 314、高难度谈话_[美]道格拉斯·斯通 布鲁斯·佩顿 希拉·汉_epub掌上书苑.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a75f5e4313aa454f0b5430f2969e05b9

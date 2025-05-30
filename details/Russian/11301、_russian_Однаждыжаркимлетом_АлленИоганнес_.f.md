@@ -8,7 +8,7 @@
 11301、_russian_Однажды жарким летом_Аллен Иоганнес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 270effa4a4b5e5613ed2735a2c16a79f

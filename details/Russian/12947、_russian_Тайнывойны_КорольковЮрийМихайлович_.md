@@ -8,7 +8,7 @@
 12947、_russian_Тайны войны_Корольков Юрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6174e38b0fdfa3230ba9e080a187718

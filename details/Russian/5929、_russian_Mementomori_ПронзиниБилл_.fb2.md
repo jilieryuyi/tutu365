@@ -8,7 +8,7 @@
 5929、_russian_Memento mori_Пронзини Билл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a031e3c9d3f7931750d7f97c1a7f553

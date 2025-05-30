@@ -8,7 +8,7 @@
 12038、_russian_Дракон_Касслер Клайв_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93eb468b348906721166e5c45c9bbdc2

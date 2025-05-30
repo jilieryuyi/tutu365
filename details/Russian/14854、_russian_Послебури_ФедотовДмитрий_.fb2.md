@@ -8,7 +8,7 @@
 14854、_russian_После бури_Федотов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b37a0814b77f2dd75776df521e8f8abc

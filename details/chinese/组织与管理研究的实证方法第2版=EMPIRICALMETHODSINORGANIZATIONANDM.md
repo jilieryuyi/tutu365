@@ -8,7 +8,7 @@
 组织与管理研究的实证方法  第2版=EMPIRICAL METHODS IN ORGANIZATION AND MANAGEMENT RESEARCH 2ND EDITION_陈晓萍，徐淑英，樊景立主编__5542685_a7b273df6fb82f7714ac34670c9cf245.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a7b273df6fb82f7714ac34670c9cf245

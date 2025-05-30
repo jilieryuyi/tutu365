@@ -8,7 +8,7 @@
 14053、_russian_Взаимное притяжение_Браун Лайза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5f6d1a8c6ae848242185fdbe1ae0375

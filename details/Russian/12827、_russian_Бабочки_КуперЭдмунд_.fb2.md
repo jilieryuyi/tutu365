@@ -8,7 +8,7 @@
 12827、_russian_Бабочки_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91ee1ffe7f51fcd4f09881514b8ab1e6

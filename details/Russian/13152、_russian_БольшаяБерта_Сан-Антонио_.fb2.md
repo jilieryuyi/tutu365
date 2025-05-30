@@ -8,7 +8,7 @@
 13152、_russian_Большая Берта_Сан-Антонио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f222d5abae4dad199cbd9f16828e6bd

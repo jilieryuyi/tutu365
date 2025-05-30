@@ -8,7 +8,7 @@
 911、_russian_Пир плоти_МакКарти Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2190c99dac66d03374bdb5133a57ed48

@@ -8,7 +8,7 @@
 12753、_russian_Знакомый незнакомец_Краммонд Сью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1d530336150c0feb90aed238ac23d1c

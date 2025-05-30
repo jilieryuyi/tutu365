@@ -8,7 +8,7 @@
 5021、_russian_Исцеляющее Безумие_Бескровный Аксентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e69da7b8e3fc2a572206b945e7671277

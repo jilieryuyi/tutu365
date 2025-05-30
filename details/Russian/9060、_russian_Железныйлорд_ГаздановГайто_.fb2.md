@@ -8,7 +8,7 @@
 9060、_russian_Железный лорд_Газданов Гайто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6963871ddfcfa32205d804e76c90e7a

@@ -8,7 +8,7 @@
 12286、_russian_Фокус_Миллер Артур Ашер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 360ed9ba982f63ba5bca3e55dd6ca634

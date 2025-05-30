@@ -8,7 +8,7 @@
 9921、_russian_Остаток дня_Исигуро Кадзуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0debf0f0171b2afe5d49bd844ee7e8f

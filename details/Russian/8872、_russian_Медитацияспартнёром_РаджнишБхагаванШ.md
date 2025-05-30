@@ -8,7 +8,7 @@
 8872、_russian_Медитация с партнёром_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1332b5d8b15fd0d191219d120dbab87

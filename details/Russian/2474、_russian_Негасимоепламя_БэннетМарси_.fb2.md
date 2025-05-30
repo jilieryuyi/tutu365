@@ -8,7 +8,7 @@
 2474、_russian_Негасимое пламя_Бэннет Марси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c40f505a0718035b9449d71360e9b265

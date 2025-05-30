@@ -8,7 +8,7 @@
 17085、_english_Lord Dragoner's Bride_Lynn Kerstan_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2628327a7843f66c6d28f486605ab29f

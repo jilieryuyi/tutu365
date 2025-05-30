@@ -8,7 +8,7 @@
 5946、_russian_Под шотландским пледом_Додд Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a75f5e4313aa454f0b5430f2969e05b9

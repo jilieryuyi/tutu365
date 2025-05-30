@@ -8,7 +8,7 @@
 12601、_russian_Гости из-за границы_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b70e1c77243af4c4fc2490d955b0b8df

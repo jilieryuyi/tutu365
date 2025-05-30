@@ -8,7 +8,7 @@
 12209、_russian_Вероятностный человек_Болл Брайан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bf9bbffecbc2ea490544efd786ce7d8

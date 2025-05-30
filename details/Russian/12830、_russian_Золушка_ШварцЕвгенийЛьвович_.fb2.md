@@ -8,7 +8,7 @@
 12830、_russian_Золушка_Шварц Евгений Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7f89831cfec03cfb2968784ec2a1e8c

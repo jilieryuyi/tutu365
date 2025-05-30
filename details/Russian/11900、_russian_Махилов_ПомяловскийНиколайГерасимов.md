@@ -8,7 +8,7 @@
 11900、_russian_Махилов_Помяловский Николай Герасимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58f4eb2a7aa4fbeffba8c119ef58ffc2

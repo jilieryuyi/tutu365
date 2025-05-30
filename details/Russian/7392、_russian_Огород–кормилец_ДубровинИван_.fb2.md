@@ -8,7 +8,7 @@
 7392、_russian_Огород – кормилец_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f48adb38f1b2f19430bc9712c23ebea

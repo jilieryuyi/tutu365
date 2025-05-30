@@ -8,7 +8,7 @@
 6899、_russian_Мефистофель_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5fdd26be5aba89b96bdf78de62783a2

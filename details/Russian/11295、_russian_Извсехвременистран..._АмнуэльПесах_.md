@@ -8,7 +8,7 @@
 11295、_russian_Из всех времен и стран..._Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0431fec90fefec439090dd544e194d32

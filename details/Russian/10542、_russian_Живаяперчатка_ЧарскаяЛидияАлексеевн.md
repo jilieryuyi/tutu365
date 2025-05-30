@@ -8,7 +8,7 @@
 10542、_russian_Живая перчатка_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e74d1699d8b7995b073c53ec83795ec1

@@ -8,7 +8,7 @@
 3175、毛姆作品系列套装（套装共13本）_威廉·毛姆(William Maugham)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0a54fc16af1873fe9e1290b3d51c2062

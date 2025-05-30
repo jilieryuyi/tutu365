@@ -8,7 +8,7 @@
 结构是什么？（畅销40年不衰的企鹅经典，特斯拉CEO、硅谷钢铁侠埃隆·马斯克推荐读物）_J· E·戈登 [E·戈登, J·]__5541409_f07adfea2d0f8acf2024a93b76fbcf8f.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c69f943091241ae0fec774e01dbd54b3

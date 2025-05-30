@@ -8,7 +8,7 @@
 11940、_russian_Девять плюс смерть равняется десять_Карр Джон Диксон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82e2a9e059bf3b874b31db884e02d02a

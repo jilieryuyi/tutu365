@@ -8,7 +8,7 @@
 10319、_russian_Чтобы не быть похожим на тебя_Степанов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d4ca9c5b37401a3cbffde7d7d92f65b

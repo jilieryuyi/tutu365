@@ -8,7 +8,7 @@
 踏足火星：伊隆·马斯克传 ——Space X、特斯拉汽车（Tesla Roadster）和PayPal（原X.com）的联合创办人 (BookDNA经管书系)_达米安·达比（Damien Darby）__5476001_bc0397b3499a83428f9b6b8004d872fd.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bc0397b3499a83428f9b6b8004d872fd

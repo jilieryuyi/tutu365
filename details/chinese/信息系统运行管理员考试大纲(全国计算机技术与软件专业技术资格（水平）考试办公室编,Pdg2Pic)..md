@@ -8,7 +8,7 @@
 信息系统运行管理员考试大纲 (全国计算机技术与软件专业技术资格（水平）考试办公室编, Pdg2Pic).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e3be38ceb712d90bbc0bac8582c53a16

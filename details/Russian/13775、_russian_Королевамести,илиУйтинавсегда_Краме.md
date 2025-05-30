@@ -8,7 +8,7 @@
 13775、_russian_Королева мести, или Уйти навсегда_Крамер Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afa1a74a164e34a93c663cce11f84a9a

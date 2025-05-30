@@ -8,7 +8,7 @@
 6618、_russian_Апостолы Дьявола_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63d08f139323b0126510541871e8ace9

@@ -8,7 +8,7 @@
 破冰_郑涛 & ePUBw.COM__5538255_0a80a42c8f792bcd4ecafe6273fcdb01.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0a80a42c8f792bcd4ecafe6273fcdb01

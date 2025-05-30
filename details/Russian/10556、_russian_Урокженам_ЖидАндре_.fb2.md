@@ -8,7 +8,7 @@
 10556、_russian_Урок женам_Жид Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c120346e2b6ca251f604d0f72c7752f

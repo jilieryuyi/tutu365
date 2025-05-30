@@ -8,7 +8,7 @@
 2542、_russian_Спираль_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b978913f071bdabadcb7af78d9c7307

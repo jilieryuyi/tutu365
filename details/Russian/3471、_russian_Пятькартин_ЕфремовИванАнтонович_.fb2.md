@@ -8,7 +8,7 @@
 3471、_russian_Пять картин_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46a54bfece58a1c9bf65e169e4a06762

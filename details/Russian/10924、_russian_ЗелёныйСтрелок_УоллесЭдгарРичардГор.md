@@ -8,7 +8,7 @@
 10924、_russian_Зелёный Стрелок_Уоллес Эдгар Ричард Горацио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21a849c2fcb8b458aa468108769dd3da

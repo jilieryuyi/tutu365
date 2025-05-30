@@ -8,7 +8,7 @@
 1195、_russian_Похитители_Щупов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c84a1ebc8965a75caa2dc12b565d75d5

@@ -8,7 +8,7 @@
 8975、_russian__Клуб Шести__Веселов Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5a5d9ceb0054054b0c768d76ed064fa

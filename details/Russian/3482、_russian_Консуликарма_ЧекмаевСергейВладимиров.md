@@ -8,7 +8,7 @@
 3482、_russian_Консул и карма_Чекмаев Сергей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e15621edf1b9f052817e71613111ecd4

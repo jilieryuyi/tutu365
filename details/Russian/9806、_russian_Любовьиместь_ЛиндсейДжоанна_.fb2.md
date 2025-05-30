@@ -8,7 +8,7 @@
 9806、_russian_Любовь и месть_Линдсей Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de072453df2380a0663c1952e48aa141

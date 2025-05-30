@@ -8,7 +8,7 @@
 13027、_russian_Омон Ра_Пелевин Виктор Олегович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 610d12a445154f975f8ddb8a446784e8

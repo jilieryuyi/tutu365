@@ -8,7 +8,7 @@
 12344、_english_Warrior's Way_M.J. Calabrese_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e0a059a50fe78f7877053ad03c88cce5

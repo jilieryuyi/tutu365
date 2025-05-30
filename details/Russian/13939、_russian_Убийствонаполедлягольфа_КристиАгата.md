@@ -8,7 +8,7 @@
 13939、_russian_Убийство на поле для гольфа_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35e664cf2e2b10bf72f2cea24d041d3f

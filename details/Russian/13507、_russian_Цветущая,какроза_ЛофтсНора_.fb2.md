@@ -8,7 +8,7 @@
 13507、_russian_Цветущая, как роза_Лофтс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 302d5265bdc87622c9652a1c3087239a

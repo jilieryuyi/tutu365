@@ -8,7 +8,7 @@
 3389、_russian_Туча_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a042d5a1637f4b24f5737d315d51e459

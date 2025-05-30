@@ -8,7 +8,7 @@
 12727、_russian_Цирцея_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9399f5c49fd09e7d779226e9c2f41213

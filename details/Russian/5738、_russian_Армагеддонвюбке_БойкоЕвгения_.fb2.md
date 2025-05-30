@@ -8,7 +8,7 @@
 5738、_russian_Армагеддон в юбке_Бойко Евгения_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afe0b7c3a75060822eb5082353d4e158

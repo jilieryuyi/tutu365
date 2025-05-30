@@ -8,7 +8,7 @@
 11082、_russian_Луна трех колец_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ff7c7dd49648fd295ce00e144c8f887

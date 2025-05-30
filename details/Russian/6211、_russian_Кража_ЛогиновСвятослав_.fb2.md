@@ -8,7 +8,7 @@
 6211、_russian_Кража_Логинов Святослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f2fc1665ff75f5682b86d36e1dae99e

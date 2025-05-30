@@ -8,7 +8,7 @@
 2042、JavaScript设计模式与开发实践_曾探_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a1e3a9a5986998ac7dc3874db988f4dd

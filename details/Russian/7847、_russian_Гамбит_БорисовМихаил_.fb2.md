@@ -8,7 +8,7 @@
 7847、_russian_Гамбит_Борисов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4302a240b2f5f1c51a68af5645e391cf

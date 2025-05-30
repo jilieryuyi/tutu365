@@ -8,7 +8,7 @@
 4473、_russian_Слимпер_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bf025e97a05a5071843f2690ed9b393

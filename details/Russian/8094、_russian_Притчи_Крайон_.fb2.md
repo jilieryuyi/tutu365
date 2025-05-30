@@ -8,7 +8,7 @@
 8094、_russian_Притчи_Крайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7d49b310ebfef55fe4a2dfdd192185a

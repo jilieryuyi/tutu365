@@ -8,7 +8,7 @@
 14895、_russian_Голливудские мужья_Коллинз Джеки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd27766ed527d6915341a61bdab42fe3

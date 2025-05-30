@@ -8,7 +8,7 @@
 13767、_russian_Покоренная викингом_Грэм Хизер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc2417243b34e8f1784b86c3092d3af0

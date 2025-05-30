@@ -8,7 +8,7 @@
 极度成功_［美］丹尼尔•科伊尔（Daniel Coyle）;张子源 刘欣译 [刘欣译, ［美］丹尼尔•科伊尔（Daniel Coyle）;张子源]__5543420_136ee885b234bd31fcefe5d0a4396dda.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 136ee885b234bd31fcefe5d0a4396dda

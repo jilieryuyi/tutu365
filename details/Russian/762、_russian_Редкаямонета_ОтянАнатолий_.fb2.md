@@ -8,7 +8,7 @@
 762、_russian_Редкая монета_Отян Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbb199549193cff8a29c91eae6fc428f

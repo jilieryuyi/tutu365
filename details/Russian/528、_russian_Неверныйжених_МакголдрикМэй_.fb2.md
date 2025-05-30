@@ -8,7 +8,7 @@
 528、_russian_Неверный жених_Макголдрик Мэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c5fcb52d550bc2855c8a00ccdf6c4f2

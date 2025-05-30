@@ -8,7 +8,7 @@
 1252、_russian_Когда падают звезды..._Лайонз Вайолетт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 edbd60eb86ce6dcc3fd1aa36a4b65f4e

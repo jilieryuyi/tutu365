@@ -8,7 +8,7 @@
 11437、_russian_Король чародеев_Кинг Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ce9b228ba9ae93b7301d0aebb68b148

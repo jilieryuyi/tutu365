@@ -8,7 +8,7 @@
 3997、_russian_Девятая Крепость_Катлас Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f943e499c5ea9f70aeabbdfdfb49ddb1

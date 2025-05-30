@@ -8,7 +8,7 @@
 726、_russian_Звезды мудрого Бируни_Моисеева Клара Моисеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f1cca32082db43c246890d95b2ffa7a

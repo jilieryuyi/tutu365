@@ -8,7 +8,7 @@
 4998、_russian_Превращение_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57f890aa3c9ce8ba2b5342dd5b7c7278

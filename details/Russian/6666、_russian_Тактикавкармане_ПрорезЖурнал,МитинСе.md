@@ -8,7 +8,7 @@
 6666、_russian_Тактика в кармане_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2285f0b85a68dbc5bd0a2e318b8d982c

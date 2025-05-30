@@ -8,7 +8,7 @@
 6285、_russian_ДОРОГАМИ БОГОВ_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33816b501af763c519373569db8ea1ea

@@ -8,7 +8,7 @@
 3194、_russian_Явление богини_Корвин Норман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b196dddad2aa76b6419442c490c1712

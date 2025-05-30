@@ -8,7 +8,7 @@
 9760、_russian_Ванна_Лаймон Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d568bed1e6688d38c7fb5d2fd6a3b120

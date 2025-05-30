@@ -8,7 +8,7 @@
 2704、_russian_Только ты_Лоуэлл Элизобет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3aac7d036049bcacfb19fc13b7361fde

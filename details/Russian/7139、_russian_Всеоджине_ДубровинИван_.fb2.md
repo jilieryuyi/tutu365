@@ -8,7 +8,7 @@
 7139、_russian_Все о джине_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccde93c563429c04293c0d34d8226024

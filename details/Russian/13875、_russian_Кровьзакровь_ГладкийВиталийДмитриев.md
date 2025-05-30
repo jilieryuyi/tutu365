@@ -8,7 +8,7 @@
 13875、_russian_Кровь за кровь_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3eb5b5610772a5b00e2199869f5d5c5

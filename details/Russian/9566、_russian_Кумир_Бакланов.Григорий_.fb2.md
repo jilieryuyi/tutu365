@@ -8,7 +8,7 @@
 9566、_russian_Кумир_Бакланов. Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76cc2e9df2ba746fd140b3b353615ca3

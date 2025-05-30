@@ -8,7 +8,7 @@
 12337、_russian_История Мэйми Грант, девочки-миссионера_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91ce62943daa773cd6c84464eb421ece

@@ -8,7 +8,7 @@
 1856、_russian_Призыв мёртвых_Барклай Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81e6729ae2889f7d9588edb6d2750659

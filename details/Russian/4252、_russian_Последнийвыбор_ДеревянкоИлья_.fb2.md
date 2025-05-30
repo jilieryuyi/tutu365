@@ -8,7 +8,7 @@
 4252、_russian_Последний выбор_Деревянко Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33af16f2179937fd4137d099b704960b

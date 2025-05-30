@@ -8,7 +8,7 @@
 3839、_russian_Как львы между собой сговорились_Бабич Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cec2bd5b3de432a5188486fe0872972

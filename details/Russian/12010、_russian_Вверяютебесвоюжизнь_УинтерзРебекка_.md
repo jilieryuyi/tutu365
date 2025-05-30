@@ -8,7 +8,7 @@
 12010、_russian_Вверяю тебе свою жизнь_Уинтерз Ребекка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a68535960e967a1f3332758c64ad55d5

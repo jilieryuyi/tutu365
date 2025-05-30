@@ -8,7 +8,7 @@
 912、_russian_Чёрный орден_Роллинс Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a001019332f08e290c0b67c05e9656cf

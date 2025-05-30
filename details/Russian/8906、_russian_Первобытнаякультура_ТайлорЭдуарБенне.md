@@ -8,7 +8,7 @@
 8906、_russian_Первобытная культура_Тайлор Эдуар Беннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72103d595c7b1f9584b2306a6a378df2

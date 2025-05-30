@@ -8,7 +8,7 @@
 14070、_russian_Мой верный рыцарь_Додд Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 adc4122963231a5ef0c066140bc081f7

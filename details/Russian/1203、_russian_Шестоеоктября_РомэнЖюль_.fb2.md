@@ -8,7 +8,7 @@
 1203、_russian_Шестое октября_Ромэн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d79c2f7e4c883708eceb5ded19d0fc7

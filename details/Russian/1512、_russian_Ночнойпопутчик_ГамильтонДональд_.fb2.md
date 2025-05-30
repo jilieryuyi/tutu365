@@ -8,7 +8,7 @@
 1512、_russian_Ночной попутчик_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 042bf5a5934aa01dc53ff1fa675ab8e2

@@ -8,7 +8,7 @@
 12571、_english_The True Story of Ah-Q_Xun Lu_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c29aac07b16fd65896e072787e80ce81

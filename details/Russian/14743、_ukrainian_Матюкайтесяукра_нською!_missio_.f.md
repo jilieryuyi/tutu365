@@ -8,7 +8,7 @@
 14743、_ukrainian_Матюкайтеся укра_нською!_missio_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4f4814b23b8ebd562efc211e0646e4a

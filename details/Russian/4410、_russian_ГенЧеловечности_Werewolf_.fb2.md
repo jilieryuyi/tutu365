@@ -8,7 +8,7 @@
 4410、_russian_Ген Человечности_Werewolf_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cc147607476dcb0b678f071a1d8e8a9

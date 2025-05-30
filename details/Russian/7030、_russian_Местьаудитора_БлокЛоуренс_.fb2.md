@@ -8,7 +8,7 @@
 7030、_russian_Месть аудитора_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c877806ee0ebca9734dee0f074930bf8

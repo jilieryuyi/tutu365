@@ -8,7 +8,7 @@
 10874、_english_Scandal's Splendor_Collette Cameron_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d2d967d5b7e095c29917383e523d8240

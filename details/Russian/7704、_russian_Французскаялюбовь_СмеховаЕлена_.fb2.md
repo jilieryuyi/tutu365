@@ -8,7 +8,7 @@
 7704、_russian_Французская любовь_Смехова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87709f2862a4d072f801bb0603cf4c88

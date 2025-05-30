@@ -8,7 +8,7 @@
 1245、非凡小人物：反对、造反及爵士乐_HOBSAWN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2ecd3c2632665d373444024203ec494a

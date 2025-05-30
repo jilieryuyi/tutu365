@@ -8,7 +8,7 @@
 12865、_russian_Ноль-ноль целых_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a20eccf454a77f8310eb65cd1a039c32

@@ -8,7 +8,7 @@
 6445、_russian_Скопище_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7c5168e4ea71bd7bc6332fbacbd5069

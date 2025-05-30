@@ -8,7 +8,7 @@
 2753、_russian_Один на один_Внуков Николай Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad50bc7bd9f2b0ec7ac035808d02e0b7

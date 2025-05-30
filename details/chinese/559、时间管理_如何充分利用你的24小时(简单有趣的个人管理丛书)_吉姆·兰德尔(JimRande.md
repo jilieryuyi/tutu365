@@ -8,7 +8,7 @@
 559、时间管理_如何充分利用你的24小时 (简单有趣的个人管理丛书)_吉姆·兰德尔(Jim Randel)_上海交通大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 96b7645d8e7082fb373fca31d68a14b0

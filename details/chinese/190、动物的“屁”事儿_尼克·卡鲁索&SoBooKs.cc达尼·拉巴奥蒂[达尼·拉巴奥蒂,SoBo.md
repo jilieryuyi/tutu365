@@ -8,7 +8,7 @@
 190、动物的“屁”事儿_尼克·卡鲁索 & SoBooKs.cc 达尼·拉巴奥蒂 [达尼·拉巴奥蒂, SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 532b5849887992a1fb0ad178e8b79461

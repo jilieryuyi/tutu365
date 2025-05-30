@@ -8,7 +8,7 @@
 2910、_english_The Lady's Forbidden Love_Wendy Vella_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e4ca3d1cf2bbf1874268325949a4d04e

@@ -8,7 +8,7 @@
 8436、_russian_Современный польский детектив__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff5d1700d3e3359bf49feb2f14e57b42

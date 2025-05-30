@@ -8,7 +8,7 @@
 14482、_russian_Бритва Дарвина_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4866be9b14a3316dac9a0e618894d417

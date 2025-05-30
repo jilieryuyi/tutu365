@@ -8,7 +8,7 @@
 893、_russian_Эльбрус находит след. Рассказы о собаках_Волк Ирина Иосифовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41b3ba02e24d1600ed1a27eab6d0b7c6

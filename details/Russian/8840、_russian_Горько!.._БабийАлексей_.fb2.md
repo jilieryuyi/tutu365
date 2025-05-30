@@ -8,7 +8,7 @@
 8840、_russian_Горько!.._Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e4c40ccb12964d2fdb9147858c93d0d

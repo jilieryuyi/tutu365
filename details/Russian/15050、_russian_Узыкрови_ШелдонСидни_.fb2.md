@@ -8,7 +8,7 @@
 15050、_russian_Узы крови_Шелдон Сидни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 832ed2761a36c692bb9e9636fa770b25

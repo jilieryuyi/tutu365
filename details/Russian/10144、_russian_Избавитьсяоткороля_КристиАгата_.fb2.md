@@ -8,7 +8,7 @@
 10144、_russian_Избавиться от короля_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 358297758c578194083f05e22e2ca53f

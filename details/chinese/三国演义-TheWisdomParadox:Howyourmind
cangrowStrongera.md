@@ -8,7 +8,7 @@
 三国演义-The Wisdom Paradox How your mind can grow Stronger as your brain grows older_Elkhonon Glodberg__5235654_08f563f6dce2442da15aa88842413026.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 08f563f6dce2442da15aa88842413026

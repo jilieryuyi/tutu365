@@ -8,7 +8,7 @@
 4732、_russian_Лютер_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63ef3ba401475db78f96d36615aea0cc

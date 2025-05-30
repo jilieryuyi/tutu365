@@ -8,7 +8,7 @@
 14674、_russian_Все о любви_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f44ccac3cc746cb9501d58ed5c13d78

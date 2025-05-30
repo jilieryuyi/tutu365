@@ -8,7 +8,7 @@
 5961、_russian_Всё Что Есть Испытаем На Свете_Отян Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6c8bac0cb17127aac731629fdd62d17

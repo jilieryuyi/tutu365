@@ -8,7 +8,7 @@
 4298、_russian_Воины Шамбалы_Шелудченко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95ccef5f00043c6a76f130b88f3b08bb

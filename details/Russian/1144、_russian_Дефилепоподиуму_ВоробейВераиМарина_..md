@@ -8,7 +8,7 @@
 1144、_russian_Дефиле по подиуму_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe58292323eaac2a5550e43e141508a9

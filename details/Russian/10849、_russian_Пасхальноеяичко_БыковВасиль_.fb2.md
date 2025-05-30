@@ -8,7 +8,7 @@
 10849、_russian_Пасхальное яичко_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ed481842ade89aaab24c33be901c877

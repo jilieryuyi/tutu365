@@ -8,7 +8,7 @@
 14010、_russian_Психическая самозащита (фрагмент)_Форчун Дион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf8bc3650a58656d61dfdd6502904418

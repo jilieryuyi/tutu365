@@ -8,7 +8,7 @@
 13497、_russian_Книга чудес (рассказы)_Дансени Лорд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dba9b7492becc9f04e0a2474d05385f9

@@ -8,7 +8,7 @@
 6184、_russian_Той осенью на Пресне_Бурлачков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97b2a60282932eee207b1db636ef78fb

@@ -8,7 +8,7 @@
 3305、_russian_Опа !_Петухов Юрий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0015c1755477b0957701ab1ecd4a7ecf

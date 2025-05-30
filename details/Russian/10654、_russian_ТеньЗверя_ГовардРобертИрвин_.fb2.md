@@ -8,7 +8,7 @@
 10654、_russian_Тень Зверя_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9d8b866647c7996a3b86e23c53e1a67

@@ -8,7 +8,7 @@
 4768、_english_The Warrior's Bride_Scott Amanda_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6e91ada591694bccb640806580711f0c

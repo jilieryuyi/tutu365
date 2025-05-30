@@ -8,7 +8,7 @@
 3005、_russian_Stop! или Движение без остановок . Журнальный вариант._Богатырева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c7f351e5edac7cc21a8b77f847051e6

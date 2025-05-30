@@ -8,7 +8,7 @@
 14160、_russian_Оружие лесов_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46471762aeb9f27a9ef898d146c74252

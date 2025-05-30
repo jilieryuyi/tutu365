@@ -8,7 +8,7 @@
 9389、_russian_Портреты учителей_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4561fd86f97070eaab889a93bff1d1b

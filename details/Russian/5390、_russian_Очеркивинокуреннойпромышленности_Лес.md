@@ -8,7 +8,7 @@
 5390、_russian_Очерки винокуренной промышленности_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cfd0c195c5bdea8d2a29865262d85c0

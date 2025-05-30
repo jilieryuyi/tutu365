@@ -8,7 +8,7 @@
 14969、_russian_Фарфоровая голова_Сергиенко Константин Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be8e7c87a39a1d0062f7359918ba64ef

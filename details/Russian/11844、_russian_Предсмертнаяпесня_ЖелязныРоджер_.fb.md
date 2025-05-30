@@ -8,7 +8,7 @@
 11844、_russian_Предсмертная песня_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a906cd568732db86eb2a31eaf1a86ae9

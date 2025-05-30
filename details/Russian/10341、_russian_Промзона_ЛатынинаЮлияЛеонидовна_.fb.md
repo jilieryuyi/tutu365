@@ -8,7 +8,7 @@
 10341、_russian_Промзона_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4eeefb81a2e0aa033322ecc878e29e84

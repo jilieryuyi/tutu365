@@ -8,7 +8,7 @@
 10958、_russian_Бабочка_Уэллс Герберт Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73e6c27dc77f8c3be47b6eabcaa18995

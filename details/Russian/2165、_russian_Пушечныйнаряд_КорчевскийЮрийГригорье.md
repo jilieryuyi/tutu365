@@ -8,7 +8,7 @@
 2165、_russian_Пушечный наряд_Корчевский Юрий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b69cb5fb46db8fbc1103e4404dcb9fa

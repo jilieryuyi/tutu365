@@ -8,7 +8,7 @@
 2769、_russian_Очаровательная лгунья_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac7e4e18e3b0f9ba79f44a493e31d097

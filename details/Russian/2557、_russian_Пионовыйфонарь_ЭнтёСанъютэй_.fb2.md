@@ -8,7 +8,7 @@
 2557、_russian_Пионовый фонарь_Энтё Санъютэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9735f8452b7392c5b601ad03cb460b65

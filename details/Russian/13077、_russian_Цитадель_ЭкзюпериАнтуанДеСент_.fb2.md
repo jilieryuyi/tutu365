@@ -8,7 +8,7 @@
 13077、_russian_Цитадель_Экзюпери Антуан Де Сент_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 805f30fac8ca9a04ee3b3ab29a239a91

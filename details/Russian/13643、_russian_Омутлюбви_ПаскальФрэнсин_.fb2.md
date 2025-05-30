@@ -8,7 +8,7 @@
 13643、_russian_Омут любви_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19bd2cb147b16d71be6cda1b407bcdaf

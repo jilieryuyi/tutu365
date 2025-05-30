@@ -8,7 +8,7 @@
 软件设计师考试冲刺 习题与解答Software Architect exam sprint (exercises and answers)(Chinese Edition) (ZHANG YOU SHENG . WANG YONG).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 90335a4a050869ab5a57d7f577014624

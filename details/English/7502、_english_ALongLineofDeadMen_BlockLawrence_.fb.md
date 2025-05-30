@@ -8,7 +8,7 @@
 7502、_english_A Long Line of Dead Men_Block Lawrence_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 017649f31511af8d9e17439d582df2bf

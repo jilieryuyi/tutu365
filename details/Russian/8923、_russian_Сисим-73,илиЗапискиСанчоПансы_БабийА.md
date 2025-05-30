@@ -8,7 +8,7 @@
 8923、_russian_Сисим-73, или Записки Санчо Пансы_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a00bb650cfa37f26d972c6ea295c6a02

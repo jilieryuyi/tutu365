@@ -8,7 +8,7 @@
 6037、_russian_Поймать Тень_Жданова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c97d6015df2a5b8f65fd641aa9a9492

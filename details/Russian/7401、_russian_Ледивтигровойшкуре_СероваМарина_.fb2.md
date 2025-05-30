@@ -8,7 +8,7 @@
 7401、_russian_Леди в тигровой шкуре_Серова Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87691aeed56903b477cbd7aa969fd825

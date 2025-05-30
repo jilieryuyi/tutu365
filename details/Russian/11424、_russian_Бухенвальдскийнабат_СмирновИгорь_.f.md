@@ -8,7 +8,7 @@
 11424、_russian_Бухенвальдский набат_Смирнов Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffb32cf133778c237ee66f3d064393d0

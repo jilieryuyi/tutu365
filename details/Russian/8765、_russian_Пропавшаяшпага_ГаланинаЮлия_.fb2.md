@@ -8,7 +8,7 @@
 8765、_russian_Пропавшая шпага_Галанина Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95fc9620b178d09a2cab3517b060f430

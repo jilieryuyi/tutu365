@@ -8,7 +8,7 @@
 8573、_russian_Аквариум_Суворов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f254b244284d29a7cf25cafca9a2ba00

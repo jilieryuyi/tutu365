@@ -8,7 +8,7 @@
 15209、_russian_Червь_Фаулз Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4f86ddcb9777abff4187954afc1628c

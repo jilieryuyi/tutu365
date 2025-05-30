@@ -8,7 +8,7 @@
 6114、_english_The Golden One_Peters Elizabeth_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 50a1df229eda04e1f765a5708df92e10

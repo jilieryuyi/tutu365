@@ -8,7 +8,7 @@
 13417、_russian_Эдем Джадсона_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5f3fabfd9c4629f5ae6f04c12b5c9fd

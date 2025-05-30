@@ -8,7 +8,7 @@
 284、_english_The Warrior's Reward_Samantha Holt_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 38762d8f4d2693f6b9ef9f47e53cbdbb

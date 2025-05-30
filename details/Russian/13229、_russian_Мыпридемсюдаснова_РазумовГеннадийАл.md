@@ -8,7 +8,7 @@
 13229、_russian_Мы придем сюда снова_Разумов Геннадий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ee88d572c34999d85e3bac3589eaef0

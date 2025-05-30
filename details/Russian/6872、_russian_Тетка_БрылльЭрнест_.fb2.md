@@ -8,7 +8,7 @@
 6872、_russian_Тетка_Брылль Эрнест_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0cd111648dda8874a58aab33b2bde43

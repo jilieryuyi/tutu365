@@ -8,7 +8,7 @@
 4137、_russian_Дни, как сегодня_Керет Этгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3fe20d990ec6b5c6698e5f16bf4ab58

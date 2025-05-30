@@ -8,7 +8,7 @@
 12150、_english_The Chieftain's Choice (The Wolf Deceivers Book 1)_Elaine Manders & Elaine Manders [Manders, Elaine]_.azw.azw
 
 ## 语言(language)
-English
+english
 
 ## MD5
 07bff57aa11594dfe01f8cd5ca6db976

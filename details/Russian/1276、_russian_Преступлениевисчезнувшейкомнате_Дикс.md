@@ -8,7 +8,7 @@
 1276、_russian_Преступление в исчезнувшей комнате_Диксон Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bf36de2328daeabad25e57aeb36487e

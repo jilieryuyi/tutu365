@@ -8,7 +8,7 @@
 5717、_russian_Прометей в Гранаде_Ростен Норман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d017b337d527742c5f30ac9252a707f

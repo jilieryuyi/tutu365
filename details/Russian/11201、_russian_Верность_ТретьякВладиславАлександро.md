@@ -8,7 +8,7 @@
 11201、_russian_Верность_Третьяк Владислав Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae568e19320fef192dd86ee8f8cab25f

@@ -8,7 +8,7 @@
 2810、_russian_Каменный Кулак и мешок смерти_Кууне Янис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0f04075b92789a21febe092955cd807

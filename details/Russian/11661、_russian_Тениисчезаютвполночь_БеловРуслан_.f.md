@@ -8,7 +8,7 @@
 11661、_russian_Тени исчезают в полночь_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df591a8bbe066c35d46cdee7237b5fdb

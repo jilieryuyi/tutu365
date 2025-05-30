@@ -8,7 +8,7 @@
 1486、麦肯锡思维_赫伯特·亨茨勒 (Herbert Henzier)_民主与建设出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 35a3f4684bd2350f085e3503af22f71d

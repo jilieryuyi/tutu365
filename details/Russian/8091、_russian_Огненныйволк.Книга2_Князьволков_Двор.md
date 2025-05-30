@@ -8,7 +8,7 @@
 8091、_russian_Огненный волк. Книга 2_ Князь волков_Дворецкая Елизавета Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7e77f103fc15ff425afa74e17d1ae03

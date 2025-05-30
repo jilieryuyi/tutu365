@@ -8,7 +8,7 @@
 苏菲的哲学课 (未读·思想家)_SoBooKs.cc & 多米尼克·贾尼科__5541384_3d0fef311ad0454e22aaa2ee74b5634d.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3d0fef311ad0454e22aaa2ee74b5634d

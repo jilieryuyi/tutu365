@@ -8,7 +8,7 @@
 1346、_russian_Удачи капитана Блада_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8f0f3f420620f699122389d1838a704

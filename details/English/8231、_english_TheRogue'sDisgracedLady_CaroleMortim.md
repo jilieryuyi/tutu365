@@ -8,7 +8,7 @@
 8231、_english_The Rogue's Disgraced Lady_Carole Mortimer_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b5a994b99563a30eb0b9d520949bd606

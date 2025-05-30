@@ -8,7 +8,7 @@
 3184、_russian_Счастье быть вдвоем_Стрик Элис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 349d7190c1851c7c0fac7a75ad74fcc2

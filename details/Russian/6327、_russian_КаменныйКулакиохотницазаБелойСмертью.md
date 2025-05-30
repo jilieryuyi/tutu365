@@ -8,7 +8,7 @@
 6327、_russian_Каменный Кулак и охотница за Белой Смертью_Кууне Янис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10879cae050fbedcf74e71f2281bab90

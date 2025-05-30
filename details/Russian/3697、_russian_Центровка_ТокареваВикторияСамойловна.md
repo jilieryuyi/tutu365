@@ -8,7 +8,7 @@
 3697、_russian_Центровка_Токарева Виктория Самойловна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1872f4718c51e09f40e8331a8d516943

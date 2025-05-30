@@ -8,7 +8,7 @@
 10454、_russian_Земля лишних. Новая жизнь_Круз Андрей, Круз Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a1a0026d37f4d99baf51e231b9a425e

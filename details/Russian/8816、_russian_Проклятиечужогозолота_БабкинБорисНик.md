@@ -8,7 +8,7 @@
 8816、_russian_Проклятие чужого золота_Бабкин Борис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1a7bebac98d7c3ecdd5fd2f16480682

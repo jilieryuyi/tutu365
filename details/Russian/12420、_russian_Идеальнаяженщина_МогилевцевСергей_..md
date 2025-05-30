@@ -8,7 +8,7 @@
 12420、_russian_Идеальная женщина_Могилевцев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 971d957cf38e98c3034cdada167bfb76

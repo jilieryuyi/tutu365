@@ -8,7 +8,7 @@
 网络分析技术揭秘：原理、实践与WinPcap深入解析_吕雪峰 & 彭文波 & 宋泽宇__5476312_fce6a75483186d426e3aeaea02991b46.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fce6a75483186d426e3aeaea02991b46

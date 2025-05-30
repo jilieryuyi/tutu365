@@ -8,7 +8,7 @@
 13480、_russian_Тайна подземного зверя_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bcdad364ea3eecd2495e9086fa1fead

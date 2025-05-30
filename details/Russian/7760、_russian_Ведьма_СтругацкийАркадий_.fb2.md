@@ -8,7 +8,7 @@
 7760、_russian_Ведьма_Стругацкий Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebbac4946d55a8ccd420d5dc48f22d24

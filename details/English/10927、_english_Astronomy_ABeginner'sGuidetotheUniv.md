@@ -8,7 +8,7 @@
 10927、_english_Astronomy_ A Beginner's Guide to the Universe_Eric Chaisson, Steve McMillan_Pearson.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f7d418f928a6083171df26496fd676f3

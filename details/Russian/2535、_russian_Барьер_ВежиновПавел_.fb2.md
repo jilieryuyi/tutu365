@@ -8,7 +8,7 @@
 2535、_russian_Барьер_Вежинов Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12ffdfaf6c141aad7f706931ed0637a6

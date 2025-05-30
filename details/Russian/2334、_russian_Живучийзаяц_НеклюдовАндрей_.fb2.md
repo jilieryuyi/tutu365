@@ -8,7 +8,7 @@
 2334、_russian_Живучий заяц_Неклюдов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab17a73c84fcc1b21ede51024a53d1b5

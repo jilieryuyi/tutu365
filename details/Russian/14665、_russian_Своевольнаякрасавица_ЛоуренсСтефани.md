@@ -8,7 +8,7 @@
 14665、_russian_Своевольная красавица_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef4a7feefda7bcc6d5d4b3edbbfcb585

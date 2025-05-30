@@ -8,7 +8,7 @@
 世界因何美妙而优雅地运行_约翰·布罗克曼（John Brockman） [约翰·布罗克曼（John Brockman）]__5287960_2934cffe85c34e966df1e51e42016f48.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2934cffe85c34e966df1e51e42016f48

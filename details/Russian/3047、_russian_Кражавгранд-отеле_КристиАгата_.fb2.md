@@ -8,7 +8,7 @@
 3047、_russian_Кража в гранд-отеле_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 480cc3f62d420e87aec2b309494f8759

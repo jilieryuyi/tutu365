@@ -8,7 +8,7 @@
 260、世界神秘文化 (图说天下·探索发现系列)_Publisher           _ 吉林出版集团有限责任公司_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 718ce15d166baa3de2bb66060e88722d

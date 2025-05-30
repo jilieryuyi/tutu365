@@ -8,7 +8,7 @@
 12832、_russian_Первоклассница_Шварц Евгений Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a49799d8a55aa15acd19eb88771a06d

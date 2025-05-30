@@ -8,7 +8,7 @@
 12036、_russian_Сказки для взрослых_Гергенредер Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2a3465be32be5a99a42ff790b1b6611

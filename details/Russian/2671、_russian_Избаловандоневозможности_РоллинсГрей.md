@@ -8,7 +8,7 @@
 2671、_russian_Избалован до невозможности_Роллинс Грей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3942f2c394a7f322a3087a73e8f7397a

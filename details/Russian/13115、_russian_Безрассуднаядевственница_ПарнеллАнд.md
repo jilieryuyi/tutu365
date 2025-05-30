@@ -8,7 +8,7 @@
 13115、_russian_Безрассудная девственница_Парнелл Андреа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3efcb54b6757870e8a85633fb4e3f79a

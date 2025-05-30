@@ -8,7 +8,7 @@
 9271、_italian_L'invenzione della solitudine_Paul Auster_Giulio Einaudi Editore.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 713a8324f73c6f1faa22150c3167a16d

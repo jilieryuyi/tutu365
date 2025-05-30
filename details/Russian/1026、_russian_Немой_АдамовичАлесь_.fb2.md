@@ -8,7 +8,7 @@
 1026、_russian_Немой_Адамович Алесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 459a419a55a848b6eebb19351363e6e1

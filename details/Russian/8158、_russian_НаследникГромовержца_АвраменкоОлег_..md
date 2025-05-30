@@ -8,7 +8,7 @@
 8158、_russian_Наследник Громовержца_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 902d280561874f5a56d4a33ed291cb5a

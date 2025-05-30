@@ -8,7 +8,7 @@
 2404、_russian_Белая перепелка__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7c94f22b157bc732c4b47b3bd082ad6

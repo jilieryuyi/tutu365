@@ -8,7 +8,7 @@
 2391、_russian_Аппендикс_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 420f6ae8efb0b865d29af1dce7751f3f

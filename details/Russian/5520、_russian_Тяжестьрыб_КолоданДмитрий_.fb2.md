@@ -8,7 +8,7 @@
 5520、_russian_Тяжесть рыб_Колодан Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f02dbb1637d6f0f5639f5816e97cfc00

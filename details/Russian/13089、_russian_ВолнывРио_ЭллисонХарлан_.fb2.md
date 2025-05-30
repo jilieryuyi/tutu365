@@ -8,7 +8,7 @@
 13089、_russian_Волны в Рио_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 867a5d45de627340cb5db7a1e097d9ae

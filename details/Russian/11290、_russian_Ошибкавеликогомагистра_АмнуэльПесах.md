@@ -8,7 +8,7 @@
 11290、_russian_Ошибка великого магистра_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21867ab6d0357a37fcc071ea3497f4a3

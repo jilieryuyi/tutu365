@@ -8,7 +8,7 @@
 9801、_russian_Хтон_Энтони Пирс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a81719764105e7e96de30f275d1bda8

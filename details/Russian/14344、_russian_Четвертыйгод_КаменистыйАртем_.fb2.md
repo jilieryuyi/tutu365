@@ -8,7 +8,7 @@
 14344、_russian_Четвертый год_Каменистый Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d0a1ad063ab54b6aa317cf1ef935ecd

@@ -8,7 +8,7 @@
 11097、_russian_Тропой ложных солнц_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3668adbddf7a909a3683d9fbe3d18051

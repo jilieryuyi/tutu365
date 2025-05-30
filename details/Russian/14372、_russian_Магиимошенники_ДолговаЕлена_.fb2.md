@@ -8,7 +8,7 @@
 14372、_russian_Маги и мошенники_Долгова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94de286d8d362078fe290ab584a04378

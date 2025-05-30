@@ -8,7 +8,7 @@
 1368、_russian_Та, что приходит вопреки_Басирин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22cdc3a443fbe2770ea575433a29ef85

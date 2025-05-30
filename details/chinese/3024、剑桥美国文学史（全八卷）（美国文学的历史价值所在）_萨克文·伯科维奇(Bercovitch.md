@@ -8,7 +8,7 @@
 3024、剑桥美国文学史（全八卷）（美国文学的历史价值所在）_萨克文·伯科维奇(Bercovitch S.)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b00f9b75849b519f072053ca2d893e66

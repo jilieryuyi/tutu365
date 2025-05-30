@@ -8,7 +8,7 @@
 4102、_russian_Идеальная пара_Шерри Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3d31b3950828d252074f11bdf076520

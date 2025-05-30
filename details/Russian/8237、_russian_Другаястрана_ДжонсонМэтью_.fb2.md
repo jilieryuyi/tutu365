@@ -8,7 +8,7 @@
 8237、_russian_Другая страна_Джонсон Мэтью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3028e0ead27eda110615ff1212edaef

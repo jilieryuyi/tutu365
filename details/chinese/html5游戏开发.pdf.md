@@ -8,7 +8,7 @@
 html5游戏开发.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 94e55cf589ba01c100cc22f9f9ad4ac0

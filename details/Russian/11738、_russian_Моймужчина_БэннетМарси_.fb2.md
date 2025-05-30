@@ -8,7 +8,7 @@
 11738、_russian_Мой мужчина_Бэннет Марси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 045029a6bf8d5602f6ad9345e0c00590

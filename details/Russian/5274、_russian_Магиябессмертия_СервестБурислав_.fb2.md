@@ -8,7 +8,7 @@
 5274、_russian_Магия бессмертия_Сервест Бурислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ef6dfe743a4e5cbbf703d044a583ce7

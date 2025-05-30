@@ -8,7 +8,7 @@
 1022、_russian_Иноземия, или туда и снова туда_Высоцкий Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e12deb91b79a6aa554bcabf453e6ae2

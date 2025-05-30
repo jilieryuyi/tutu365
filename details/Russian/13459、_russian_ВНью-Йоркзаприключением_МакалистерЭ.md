@@ -8,7 +8,7 @@
 13459、_russian_В Нью-Йорк за приключением_Макалистер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 609b218953b064a0240da9cdba184142

@@ -8,7 +8,7 @@
 12975、_russian_Барбос и Жулька_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba838f09dd00532f418e0941a0773968

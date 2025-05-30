@@ -8,7 +8,7 @@
 3492、_russian_Машина желаний_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08e0e004d825d255a34def10ff8a414a

@@ -8,7 +8,7 @@
 10751、_russian_Шалунья_Харт Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a8ce7db1971b9663e51bf6ea0d464d2

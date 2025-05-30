@@ -8,7 +8,7 @@
 8891、_russian_Ремейк Нового года_Литвинова Анна, Литвинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d591c6375a059cadd87840ae58e73da

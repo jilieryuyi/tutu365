@@ -8,7 +8,7 @@
 1096、_russian_Свидание в неоновых сумерках_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4286eb2eb9a8192ec9ce006000614664

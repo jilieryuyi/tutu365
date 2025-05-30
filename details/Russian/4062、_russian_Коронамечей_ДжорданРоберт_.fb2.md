@@ -8,7 +8,7 @@
 4062、_russian_Корона мечей_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9be9bf7221e7f6ed62876b3b61761c6

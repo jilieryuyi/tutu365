@@ -8,7 +8,7 @@
 4437、_english_Word of Honor_Alexa Aston_Dragonblade Publishing, Inc..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d7abd1c762c29aeae52daeccb4597d95

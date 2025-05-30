@@ -8,7 +8,7 @@
 6778、_russian_Пират и язычница_Хенли Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45676414269387b7624d9bf81b201e9d

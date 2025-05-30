@@ -8,7 +8,7 @@
 10437、_russian_Суоми_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82089c563b14ad15cc9569a44cbfc3dc

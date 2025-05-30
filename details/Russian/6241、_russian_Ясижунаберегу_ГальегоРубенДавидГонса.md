@@ -8,7 +8,7 @@
 6241、_russian_Я сижу на берегу_Гальего Рубен Давид Гонсалес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34fcaa454d6ba6008ec9586699e672c1

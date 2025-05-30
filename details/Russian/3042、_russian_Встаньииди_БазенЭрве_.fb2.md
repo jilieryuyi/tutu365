@@ -8,7 +8,7 @@
 3042、_russian_Встань и иди_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 862d13f2e8121a4aeb3d3c5a3032a056

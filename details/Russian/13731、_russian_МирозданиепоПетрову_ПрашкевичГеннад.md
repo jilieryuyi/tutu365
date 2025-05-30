@@ -8,7 +8,7 @@
 13731、_russian_Мироздание по Петрову_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a1a10efe5022081b6eb78ae636b72df

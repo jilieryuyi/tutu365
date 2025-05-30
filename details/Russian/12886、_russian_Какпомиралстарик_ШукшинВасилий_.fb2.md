@@ -8,7 +8,7 @@
 12886、_russian_Как помирал старик_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 468bd4b0af341265a357dbbdd90a1b5b

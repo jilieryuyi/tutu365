@@ -8,7 +8,7 @@
 13120、_russian_Ангел-хранитель_Саган Франсуаза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5374fcaff1bd8098f24fbe5a71d58983

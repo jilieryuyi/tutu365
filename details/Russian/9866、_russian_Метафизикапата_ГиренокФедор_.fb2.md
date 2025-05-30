@@ -8,7 +8,7 @@
 9866、_russian_Метафизика пата_Гиренок Федор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4300fb26be08f82264f46b60dd18e12a

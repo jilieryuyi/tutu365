@@ -8,7 +8,7 @@
 702、_russian_Фартовые деньги_Суэйн Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 636eab58be54a77a8744927bdb8884eb

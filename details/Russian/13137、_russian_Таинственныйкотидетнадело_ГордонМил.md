@@ -8,7 +8,7 @@
 13137、_russian_Таинственный кот идет на дело_Гордон Милдред, Гордон Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fbb7e1bed83849a711b4476404e93fe

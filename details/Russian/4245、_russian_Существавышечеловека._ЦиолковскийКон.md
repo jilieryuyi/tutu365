@@ -8,7 +8,7 @@
 4245、_russian_Существа выше человека._Циолковский Константин Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d259ac7f5f7d248dd203deaf9defef4

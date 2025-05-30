@@ -8,7 +8,7 @@
 7976、_russian_Тюремные дневники_Мавроди Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b88f6cbabb382d031c5acc27017c1aa

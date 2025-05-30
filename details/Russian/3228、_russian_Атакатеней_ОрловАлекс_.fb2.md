@@ -8,7 +8,7 @@
 3228、_russian_Атака теней_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b6bcdc0c388cfe13c1477951a32c473

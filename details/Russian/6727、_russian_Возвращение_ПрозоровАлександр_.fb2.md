@@ -8,7 +8,7 @@
 6727、_russian_Возвращение_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d64e3ec8a04d12b8ed206f933a1ea212

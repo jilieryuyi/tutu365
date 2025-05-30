@@ -8,7 +8,7 @@
 3297、_russian_Блуждающее время_Мамлеев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fb115ddb37c6ec92e457f81aa514c97

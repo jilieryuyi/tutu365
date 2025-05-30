@@ -8,7 +8,7 @@
 11320、_russian_Труп не может больше ждать_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 446dd9e65038074e15b846ad5a6829e2

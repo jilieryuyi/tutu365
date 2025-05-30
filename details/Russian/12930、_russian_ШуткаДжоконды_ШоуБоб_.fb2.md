@@ -8,7 +8,7 @@
 12930、_russian_Шутка Джоконды_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81d97ae2b0f06f801059fc9adf059102

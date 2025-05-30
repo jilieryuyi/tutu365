@@ -8,7 +8,7 @@
 12742、_russian_Мазепа_Костомаров Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e768f641d40584487c5484a85013182d

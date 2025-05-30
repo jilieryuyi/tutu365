@@ -8,7 +8,7 @@
 8445、__Panduan Ibadah Praktis_Fiqih Syafi'i_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7cd4b5d413ab2432294656a39e15236e

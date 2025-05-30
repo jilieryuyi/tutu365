@@ -8,7 +8,7 @@
 1354、现代货币银行学教程(第4版) (复旦博学·金融学系列)_Publisher           _ 复旦大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0a04e1fe2cb87bf8739ad2b26e1faf5f

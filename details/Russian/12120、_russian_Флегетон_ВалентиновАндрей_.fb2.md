@@ -8,7 +8,7 @@
 12120、_russian_Флегетон_Валентинов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ea561c15a694df3273c9af199a722b3

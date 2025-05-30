@@ -8,7 +8,7 @@
 如何阅读一本书_[美] 莫提默·j. 艾德勒 & 查尔斯·范多伦__5476029_74ab8547e36408bb5b00fc57c9444794.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 74ab8547e36408bb5b00fc57c9444794

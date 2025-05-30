@@ -8,7 +8,7 @@
 247、7步签单_ePUBw.COM & [美]大卫·桑德拉 [ePUBw.COM & [美]大卫·桑德拉]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 900ff75beccba8619f6248826c8967da

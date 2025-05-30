@@ -8,7 +8,7 @@
 50、_russian_Книжные приключения_Камакин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39b756bb0e1330dca16dc64b546330da

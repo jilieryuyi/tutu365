@@ -8,7 +8,7 @@
 10550、_russian_Сказка про Ивана, искавшего счастье_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90fdb8b313347ebd73bfadec9acccb2c

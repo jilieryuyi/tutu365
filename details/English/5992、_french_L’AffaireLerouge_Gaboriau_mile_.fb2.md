@@ -8,7 +8,7 @@
 5992、_french_L’Affaire Lerouge_Gaboriau _mile_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 89bf3b9d8e6cd8ad38a324b28b50212d

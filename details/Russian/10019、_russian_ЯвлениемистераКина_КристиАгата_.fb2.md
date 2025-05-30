@@ -8,7 +8,7 @@
 10019、_russian_Явление мистера Кина_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6ffd32cb186a5767118e5c1597d0aa6

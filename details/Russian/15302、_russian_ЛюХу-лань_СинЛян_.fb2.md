@@ -8,7 +8,7 @@
 15302、_russian_Лю Ху-лань_Син Лян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43e3d2b77e2c977654f46d5e906af480

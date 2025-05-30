@@ -8,7 +8,7 @@
 8800、_russian_Всем смертям назло_Давыдов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea36f03ca380249028bbdd171e0a3bc6

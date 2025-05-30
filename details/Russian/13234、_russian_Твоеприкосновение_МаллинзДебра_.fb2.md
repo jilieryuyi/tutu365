@@ -8,7 +8,7 @@
 13234、_russian_Твое прикосновение_Маллинз Дебра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b7b997ea6a4df41265d78979db84c2e

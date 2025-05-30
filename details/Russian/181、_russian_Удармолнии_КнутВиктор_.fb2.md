@@ -8,7 +8,7 @@
 181、_russian_Удар молнии_Кнут Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a250e222f6638425944e2856069f4b54

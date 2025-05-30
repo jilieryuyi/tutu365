@@ -8,7 +8,7 @@
 诺贝尔文学奖作品典藏书系_荒原狼_（德）H.黑塞__5476367_3cde9e3ecc0aa7deeb2fce95e85cc21a.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3cde9e3ecc0aa7deeb2fce95e85cc21a

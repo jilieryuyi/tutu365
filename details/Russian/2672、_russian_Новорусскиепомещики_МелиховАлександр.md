@@ -8,7 +8,7 @@
 2672、_russian_Новорусские помещики_Мелихов Александр Мотельевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87a9e7ecf7f5ca060358342dd808d0c5

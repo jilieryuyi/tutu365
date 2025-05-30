@@ -8,7 +8,7 @@
 1433、_english_Blood Sisters_Jim O'Shea _Pelican Book Group.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9b16aa1770c70c6f693587806783e540

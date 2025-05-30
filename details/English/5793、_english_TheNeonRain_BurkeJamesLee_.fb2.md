@@ -8,7 +8,7 @@
 5793、_english_The Neon Rain_Burke James Lee_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f8a472aad5a35819e66b4a01972ab968

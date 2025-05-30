@@ -8,7 +8,7 @@
 1205、_russian_Парижский эрос_Ромэн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f26bb6d71f3df625ed6b27945bc391e6

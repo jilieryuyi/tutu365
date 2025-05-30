@@ -8,7 +8,7 @@
 11461、_russian_Пират_Блок Нэнси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8eedec2f1795f754e268baf535e906bd

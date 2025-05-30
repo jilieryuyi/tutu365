@@ -8,7 +8,7 @@
 13478、_russian_Милая затворница_Дал Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 932a16fe42d9dd4192cb0f360e2ef798

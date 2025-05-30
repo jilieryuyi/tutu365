@@ -8,7 +8,7 @@
 2998、_russian_Свобода_Бутов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f63f4d6855d83962180e2d75d399d76

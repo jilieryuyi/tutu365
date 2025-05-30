@@ -8,7 +8,7 @@
 4077、_russian_Виртуоз боевой стали_Чешко Федор Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce0938c78373af03b38947c872d5dd3b

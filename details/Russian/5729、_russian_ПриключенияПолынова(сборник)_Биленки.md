@@ -8,7 +8,7 @@
 5729、_russian_Приключения Полынова (сборник)_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d14c27899ad521ee9900fe1c6243375e

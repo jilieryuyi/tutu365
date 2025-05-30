@@ -8,7 +8,7 @@
 5734、_russian_Ночь контрабандой (сборник)_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f986ff2572f2391fb872a665c15501f5

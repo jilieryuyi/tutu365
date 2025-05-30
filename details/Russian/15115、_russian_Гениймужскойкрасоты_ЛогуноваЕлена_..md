@@ -8,7 +8,7 @@
 15115、_russian_Гений мужской красоты_Логунова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa6a2c69400da54e19047a98d974f27f

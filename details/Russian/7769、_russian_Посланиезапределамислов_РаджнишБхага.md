@@ -8,7 +8,7 @@
 7769、_russian_Послание за пределами слов_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38e57caedef64dd01e1134c2c6e7311f

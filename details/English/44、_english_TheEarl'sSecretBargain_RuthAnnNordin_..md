@@ -8,7 +8,7 @@
 44、_english_The Earl's Secret Bargain_Ruth Ann Nordin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d1f1475cb8f018b90f5cb478f59bce8a

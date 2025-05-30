@@ -8,7 +8,7 @@
 12945、_russian_Клетчатый тапир_Ларионова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa6e826e54fdd41afae4828b554040fa

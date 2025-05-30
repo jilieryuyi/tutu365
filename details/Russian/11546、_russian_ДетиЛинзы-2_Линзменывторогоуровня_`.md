@@ -8,7 +8,7 @@
 11546、_russian_Дети Линзы-2_ Линзмены второго уровня_`Док` Смит Эдвард Элмер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f49d3cc9cfd329ff3c3a9ca2aa14dfed

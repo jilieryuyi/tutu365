@@ -8,7 +8,7 @@
 4505、_russian_Смерть под зонтом_Имерманис Анатоль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92a9f3fe802b58b78a70525e28e2b7fd

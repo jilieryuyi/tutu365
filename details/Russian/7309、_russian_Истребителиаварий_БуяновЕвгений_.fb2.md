@@ -8,7 +8,7 @@
 7309、_russian_Истребители аварий_Буянов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 542af5bf06b908099a26276c5e3ad01e

@@ -8,7 +8,7 @@
 8666、_russian_Офицер особого назначения_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6102812afde4d13b836b20b125e3f7d3

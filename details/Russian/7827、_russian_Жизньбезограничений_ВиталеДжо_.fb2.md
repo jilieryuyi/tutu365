@@ -8,7 +8,7 @@
 7827、_russian_Жизнь без ограничений_Витале Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf91fc789e414208149eeea801206433

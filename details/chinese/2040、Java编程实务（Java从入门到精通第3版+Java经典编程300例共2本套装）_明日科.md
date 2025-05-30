@@ -8,7 +8,7 @@
 2040、Java编程实务（Java从入门到精通 第3版 +Java经典编程300例  共2本套装）_明日科技_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 60d45300bf85d9d15b23916a2e1b7f57

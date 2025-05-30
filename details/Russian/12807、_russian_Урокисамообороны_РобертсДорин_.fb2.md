@@ -8,7 +8,7 @@
 12807、_russian_Уроки самообороны_Робертс Дорин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8a73ed7e014d19224842e01efc9e5df

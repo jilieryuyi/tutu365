@@ -8,7 +8,7 @@
 2770、怕死：人类行为的驱动力_所罗门（Solomon,S.） & 格林伯格（Greenberg,J.） & 匹茨辛斯基（Pyszczynski,T.）_北京华章图文信息有限公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2e30f3ae00b7035e382e0d612a9ca096

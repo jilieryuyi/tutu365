@@ -8,7 +8,7 @@
 5664、_russian_Мальтийский крест_Борушко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 506537196da755f0d2502bc66b444be3

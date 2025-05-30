@@ -8,7 +8,7 @@
 13290、_russian_Нежданная страсть_Сивил-Браун Сью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e25d2c94defaeb4e7e2a7e8cf4b15bf

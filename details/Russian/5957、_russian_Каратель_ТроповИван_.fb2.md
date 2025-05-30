@@ -8,7 +8,7 @@
 5957、_russian_Каратель_Тропов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97152a477bd8f39eb98cf87c7ba849b7

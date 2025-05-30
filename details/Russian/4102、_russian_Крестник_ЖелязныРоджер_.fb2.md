@@ -8,7 +8,7 @@
 4102、_russian_Крестник_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d115e03378c811f6042aaeb58d87081f

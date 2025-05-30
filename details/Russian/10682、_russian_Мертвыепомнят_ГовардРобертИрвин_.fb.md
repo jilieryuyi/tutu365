@@ -8,7 +8,7 @@
 10682、_russian_Мертвые помнят_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40390f72c545fc1052856be3cc920d42

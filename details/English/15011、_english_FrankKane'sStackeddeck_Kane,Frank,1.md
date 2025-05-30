@@ -8,7 +8,7 @@
 15011、_english_Frank Kane's Stacked deck_Kane, Frank, 1912-1968_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e14a8617ad14dd08843e24ed822dd494

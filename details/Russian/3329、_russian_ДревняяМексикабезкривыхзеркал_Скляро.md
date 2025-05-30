@@ -8,7 +8,7 @@
 3329、_russian_Древняя Мексика без кривых зеркал_Скляров Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfeb02a38c5d616b1b6d3bddca110e94

@@ -8,7 +8,7 @@
 7532、_english_Cross_Patterson James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 548b8effe66ec078bd4dc62d1e036c76

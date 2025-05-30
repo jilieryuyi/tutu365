@@ -8,7 +8,7 @@
 8261、_russian_Черепаховый суп_Галеев Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c025d94313545d462a5797144c4c6de9

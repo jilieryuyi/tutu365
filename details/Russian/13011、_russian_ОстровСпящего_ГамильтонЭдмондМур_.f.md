@@ -8,7 +8,7 @@
 13011、_russian_Остров Спящего_Гамильтон Эдмонд Мур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f14e4507d4fe684d4fddd6ac7d1b30d0

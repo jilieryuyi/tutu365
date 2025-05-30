@@ -8,7 +8,7 @@
 9759、_russian_Песни дождей_Эллиот Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c82b77585e84597e3ec5022e286d49b9

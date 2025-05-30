@@ -8,7 +8,7 @@
 1467、牛奶可乐经济学(完整版) (湛庐文化_财富汇)_罗伯特·弗兰克_ZHLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 abf01a1fb8f3860cb5cafbef880c6b33

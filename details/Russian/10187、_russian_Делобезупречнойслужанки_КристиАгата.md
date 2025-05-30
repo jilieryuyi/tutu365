@@ -8,7 +8,7 @@
 10187、_russian_Дело безупречной служанки_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ed4690fe03871103a8de55853bc2480

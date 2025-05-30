@@ -8,7 +8,7 @@
 6034、_russian_Понять Россию умом__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32b8587744823a419ab38600c8a944ac

@@ -8,7 +8,7 @@
 6269、_russian_Приключения дрянной девчонки_Асламова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34e4335cde89bd28af6b67441fead0b1

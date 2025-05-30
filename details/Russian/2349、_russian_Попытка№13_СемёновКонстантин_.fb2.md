@@ -8,7 +8,7 @@
 2349、_russian_Попытка № 13_Семёнов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1205f97f86bfe78e3826b42a8537cd31

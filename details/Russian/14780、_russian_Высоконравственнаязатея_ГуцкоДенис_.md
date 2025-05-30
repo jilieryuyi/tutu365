@@ -8,7 +8,7 @@
 14780、_russian_Высоконравственная затея_Гуцко Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 569fd8edbc2fad32144404339f37e1fb

@@ -8,7 +8,7 @@
 3217、_russian_Поводыри. Типологические свойства_Кожевников В. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91c2b29d25b419ad817954698c6c5bff

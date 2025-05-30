@@ -8,7 +8,7 @@
 377、_russian_Красная гостиница_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd3b3b99f50c2ba650d16ea81628ccd9

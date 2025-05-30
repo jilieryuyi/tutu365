@@ -8,7 +8,7 @@
 2585、_english_The Highlander's Stolen Touch_Terri Brisbin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6d1e4494e627823ece25ec17b2b78cf8

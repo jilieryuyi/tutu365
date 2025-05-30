@@ -8,7 +8,7 @@
 爆发式赢单：金牌销售实战手记（在中国做销售，这本书不得不读！）_倪建伟, SoBooKs.cc [倪建伟, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e09a264f70789381cd0898f8dfb5401b

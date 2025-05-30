@@ -8,7 +8,7 @@
 13281、_russian_Обещание любви_Рэнни Карен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3939a50117d556ff0a091986e16265f

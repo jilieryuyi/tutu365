@@ -8,7 +8,7 @@
 过渡礼仪（阿诺尔德·范热内普）_阿诺尔德·范热内普_Commercial Press_5496310_e48d6e4b6bd1dd92958c242df4a5ce63.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e48d6e4b6bd1dd92958c242df4a5ce63

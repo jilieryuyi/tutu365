@@ -8,7 +8,7 @@
 3358、_russian_Азарт среднего возраста_Берсенева Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d884b0b1f5041221bb4367ea0dc1348c

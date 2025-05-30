@@ -8,7 +8,7 @@
 11279、_russian_Вперед, в прошлое!_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c249a12241da52b254e30bff882583d

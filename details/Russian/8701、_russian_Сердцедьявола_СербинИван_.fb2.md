@@ -8,7 +8,7 @@
 8701、_russian_Сердце дьявола_Сербин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71fb0e318005b09faf38d5dc5117f1a5

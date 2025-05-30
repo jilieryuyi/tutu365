@@ -8,7 +8,7 @@
 15245、_russian_Поцелуй на бис_Маккомас Мэри Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c0086ee20588bba739b3ab223393660

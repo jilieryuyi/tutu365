@@ -8,7 +8,7 @@
 1155、_russian_Давай уйдем вместе_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2587f80e3c2aa22c7afbd526b889390

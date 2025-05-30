@@ -8,7 +8,7 @@
 1387、投资决策经济学：微观、宏观与国际经济学 (CFA协会投资系列)_（美）派若斯（Piros,C.D.） & （美）平托（Pinto,J.E.） 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fa5487d9455eae47c67b486d2cc33707

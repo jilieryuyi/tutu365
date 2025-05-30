@@ -8,7 +8,7 @@
 12963、_english_A Wicked Duke's Prize_Henrietta Harding_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fc5739925daebd46398658bc13c7e49a

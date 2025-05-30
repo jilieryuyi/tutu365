@@ -8,7 +8,7 @@
 14755、_russian_Платиновый обруч_Бааль Вольдемар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d49cefc29a323e5d9edb16876707aee

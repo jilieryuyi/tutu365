@@ -8,7 +8,7 @@
 6795、_russian_Ребенок и уход за ним_Спок Беджамин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5825e244216b3c7ca6f82f725a50b914

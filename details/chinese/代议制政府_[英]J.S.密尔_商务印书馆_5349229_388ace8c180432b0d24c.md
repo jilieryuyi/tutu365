@@ -8,7 +8,7 @@
 代议制政府_[英]J.S.密尔_商务印书馆_5349229_388ace8c180432b0d24c650bddd6e8cc.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 388ace8c180432b0d24c650bddd6e8cc

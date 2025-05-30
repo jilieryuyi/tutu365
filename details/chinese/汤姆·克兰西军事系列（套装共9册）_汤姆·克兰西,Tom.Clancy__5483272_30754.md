@@ -8,7 +8,7 @@
 汤姆·克兰西军事系列（套装共9册）_汤姆·克兰西,Tom.Clancy__5483272_30754a05db17c1854a52a0eb97067b0a.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 30754a05db17c1854a52a0eb97067b0a

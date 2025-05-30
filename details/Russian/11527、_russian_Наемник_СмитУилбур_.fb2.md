@@ -8,7 +8,7 @@
 11527、_russian_Наемник_Смит Уилбур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc04cedb4a365da9e6da0bbbd2b4c4a7

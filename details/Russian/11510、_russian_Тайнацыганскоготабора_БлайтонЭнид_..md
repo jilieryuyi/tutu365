@@ -8,7 +8,7 @@
 11510、_russian_Тайна цыганского табора_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05f82ee31801f86584db79399880b7eb

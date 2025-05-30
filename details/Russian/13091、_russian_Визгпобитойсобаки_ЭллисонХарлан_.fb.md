@@ -8,7 +8,7 @@
 13091、_russian_Визг побитой собаки_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e05cb1b9384c5f5f625ce5c622031fb9

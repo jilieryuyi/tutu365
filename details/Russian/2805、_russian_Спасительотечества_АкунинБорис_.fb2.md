@@ -8,7 +8,7 @@
 2805、_russian_Спаситель отечества_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec49050a7d5bbfee412d113c9b443737

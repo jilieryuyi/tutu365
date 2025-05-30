@@ -8,7 +8,7 @@
 14290、_russian_Дикий цветок_Браун Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88d956de7ea9d8bc47079cfc3ae0b484

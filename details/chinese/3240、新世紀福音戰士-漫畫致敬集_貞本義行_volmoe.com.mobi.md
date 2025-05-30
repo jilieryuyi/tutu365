@@ -8,7 +8,7 @@
 3240、新世紀福音戰士 - 漫畫致敬集_貞本義行_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e330301731d6de986f55a496091f24d9

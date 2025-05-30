@@ -8,7 +8,7 @@
 6494、_russian_Последние мечты_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b0f243e7ae4cc8184f0fde4d05db8a1

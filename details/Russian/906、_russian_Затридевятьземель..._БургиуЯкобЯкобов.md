@@ -8,7 +8,7 @@
 906、_russian_За тридевять земель..._Бургиу Якоб Якобович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f0f6b96265f1de0cdefe9b414989413

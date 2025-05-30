@@ -8,7 +8,7 @@
 6856、_russian_Пупок_Ерофеев Виктор Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ff69a8855baf2ecd5bb9c701b8d1a34

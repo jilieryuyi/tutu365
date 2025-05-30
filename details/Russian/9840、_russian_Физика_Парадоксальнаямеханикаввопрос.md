@@ -8,7 +8,7 @@
 9840、_russian_Физика_ Парадоксальная механика в вопросах и ответах_Гулиа Нурбей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5b9c3645d1712f0aedcc4da2eefa5b7

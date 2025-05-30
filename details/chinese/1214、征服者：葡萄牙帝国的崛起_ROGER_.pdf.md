@@ -8,7 +8,7 @@
 1214、征服者：葡萄牙帝国的崛起_ROGER_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6b0b3ae170f5808c50150880c34568e1

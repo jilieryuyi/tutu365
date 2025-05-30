@@ -8,7 +8,7 @@
 3926、_russian_Окаянная Дженет_Стивенсон Роберт Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30af2ef8bee6a17a8f77b4046866b229

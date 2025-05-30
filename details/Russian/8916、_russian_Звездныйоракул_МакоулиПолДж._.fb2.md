@@ -8,7 +8,7 @@
 8916、_russian_Звездный оракул_Макоули Пол Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe496c1de25a3524fd6cec2760651675

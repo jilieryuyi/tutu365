@@ -8,7 +8,7 @@
 8880、_russian_О любви и сексе_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d97c1d233a34825fce1b673f7c26b48

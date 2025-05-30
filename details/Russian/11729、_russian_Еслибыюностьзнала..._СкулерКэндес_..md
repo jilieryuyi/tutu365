@@ -8,7 +8,7 @@
 11729、_russian_Если бы юность знала..._Скулер Кэндес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bff36bedb7bcc9513f497525c2cf283d

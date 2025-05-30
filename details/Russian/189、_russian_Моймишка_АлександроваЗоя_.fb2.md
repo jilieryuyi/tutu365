@@ -8,7 +8,7 @@
 189、_russian_Мой мишка_Александрова Зоя_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99ebc4f7dd69c0fb09721409a1222726

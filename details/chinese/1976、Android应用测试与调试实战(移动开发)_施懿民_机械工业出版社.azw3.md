@@ -8,7 +8,7 @@
 1976、Android应用测试与调试实战 (移动开发)_施懿民_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 daf9d2ae4a22f22f76fa1122a4e9dd4b

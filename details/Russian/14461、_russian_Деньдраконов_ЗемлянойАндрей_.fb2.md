@@ -8,7 +8,7 @@
 14461、_russian_День драконов_Земляной Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9274739e4f2ff063fff6e927e3aa955f

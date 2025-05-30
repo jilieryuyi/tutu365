@@ -8,7 +8,7 @@
 2717、_russian_Певучая душа России_Нагибин Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f443d5da90facddc6964ddcd398b7642

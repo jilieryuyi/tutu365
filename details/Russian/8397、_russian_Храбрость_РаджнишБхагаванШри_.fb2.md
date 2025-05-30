@@ -8,7 +8,7 @@
 8397、_russian_Храбрость_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5cb508ac2c0b1bfc5368def3b368d2b

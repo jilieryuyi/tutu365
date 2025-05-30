@@ -8,7 +8,7 @@
 12000、_russian_Торговец кофе_Лисс Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2b8e78cc0bc3ea1d3b78bde727da0e9

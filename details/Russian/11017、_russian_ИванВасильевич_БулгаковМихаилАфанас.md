@@ -8,7 +8,7 @@
 11017、_russian_Иван Васильевич_Булгаков Михаил Афанасьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c58a3d71f5f507152d8a734c2b11b62e

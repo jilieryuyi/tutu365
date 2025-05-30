@@ -8,7 +8,7 @@
 8863、_russian_Повесть о фонаре_Будогоская Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b86124e9703519d2bc1f429748ee93a

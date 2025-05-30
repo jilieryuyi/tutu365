@@ -8,7 +8,7 @@
 13341、_russian_Искушение_Макдональд Джон Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6cd1f2d14380d3cab8240c64a5ecaf1

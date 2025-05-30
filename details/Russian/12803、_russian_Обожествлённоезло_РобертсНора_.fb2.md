@@ -8,7 +8,7 @@
 12803、_russian_Обожествлённое зло_Робертс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54183461c94dc7a28d4eea0aaed3cba8

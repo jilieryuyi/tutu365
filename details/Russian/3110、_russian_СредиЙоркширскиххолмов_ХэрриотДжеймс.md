@@ -8,7 +8,7 @@
 3110、_russian_Среди Йоркширских холмов_Хэрриот Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d19a4c2419e95210993eaacd8e082f5

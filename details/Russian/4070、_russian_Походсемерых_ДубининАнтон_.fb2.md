@@ -8,7 +8,7 @@
 4070、_russian_Поход семерых_Дубинин Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1e702bb434a18cdde66f4a9ddb4cb1c

@@ -8,7 +8,7 @@
 7478、_russian_Идиотам просьба не беспокоиться_Фишер Тибор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c93539953ea6fa37097dff5915f9b5b2

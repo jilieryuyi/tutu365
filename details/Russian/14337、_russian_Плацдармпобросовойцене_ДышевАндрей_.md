@@ -8,7 +8,7 @@
 14337、_russian_Плацдарм по бросовой цене_Дышев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72d3e5cff68a6c197ce45a074907986e

@@ -8,7 +8,7 @@
 11975、_russian_Сказки и легенды_Киплинг Редьярд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59e674964947f1d84b45bb036c190414

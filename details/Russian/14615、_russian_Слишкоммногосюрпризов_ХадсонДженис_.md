@@ -8,7 +8,7 @@
 14615、_russian_Слишком много сюрпризов_Хадсон Дженис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b81d84eb2b09a7e8356ca75f59ec000

@@ -8,7 +8,7 @@
 12750、_russian_Когда восходят пять лун_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9871c15d8cedf6b2f8ba872f957e05c

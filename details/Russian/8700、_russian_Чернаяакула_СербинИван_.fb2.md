@@ -8,7 +8,7 @@
 8700、_russian_Черная акула_Сербин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cd82cf581e23e0e65e9446b18531464

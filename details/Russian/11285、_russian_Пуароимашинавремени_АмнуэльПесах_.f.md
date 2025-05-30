@@ -8,7 +8,7 @@
 11285、_russian_Пуаро и машина времени_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84025d5971d3f02e76184ea701982498

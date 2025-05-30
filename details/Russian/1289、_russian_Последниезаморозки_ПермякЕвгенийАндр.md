@@ -8,7 +8,7 @@
 1289、_russian_Последние заморозки_Пермяк Евгений Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3a11f3c4560b8109466b870a633d45c

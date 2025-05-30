@@ -8,7 +8,7 @@
 7293、_russian_Все об обычном чае_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80e102cd8767a2c909b5a6954a7c2ac5

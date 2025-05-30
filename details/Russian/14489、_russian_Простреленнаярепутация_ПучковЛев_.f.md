@@ -8,7 +8,7 @@
 14489、_russian_Простреленная репутация_Пучков Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08c5bf3a16ce9874da469b43e8867182

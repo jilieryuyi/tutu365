@@ -8,7 +8,7 @@
 4886、_russian_Кот со многими хвостами_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b93ca0e2adc1eba3868f81bfcb614ca

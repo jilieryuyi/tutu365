@@ -8,7 +8,7 @@
 11825、_russian_Голодарь_Кафка Франц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e94ec0a089b5c25a0272eff4b6e7419a

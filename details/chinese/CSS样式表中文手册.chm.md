@@ -8,7 +8,7 @@
 CSS 样式表中文手册.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a0e27b3e3942d7c6aabf7ea1d6a68df

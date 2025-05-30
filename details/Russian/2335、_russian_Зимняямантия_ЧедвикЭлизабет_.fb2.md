@@ -8,7 +8,7 @@
 2335、_russian_Зимняя мантия_Чедвик Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37980dc86f0b520c91f1b72e9b9ecfd8

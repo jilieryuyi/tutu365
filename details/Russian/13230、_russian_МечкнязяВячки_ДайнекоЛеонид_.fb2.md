@@ -8,7 +8,7 @@
 13230、_russian_Меч князя Вячки_Дайнеко Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e844c407a53ac5bdf6ebe1d5227419a4

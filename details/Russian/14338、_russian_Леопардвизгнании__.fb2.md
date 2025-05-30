@@ -8,7 +8,7 @@
 14338、_russian_Леопард в изгнании__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e036c9b24f7bbf8d96e65bfb945590b9

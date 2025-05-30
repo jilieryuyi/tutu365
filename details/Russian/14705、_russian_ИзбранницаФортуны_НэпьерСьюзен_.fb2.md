@@ -8,7 +8,7 @@
 14705、_russian_Избранница Фортуны_Нэпьер Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45775137a46e3ff27ea3f6d4f537e834

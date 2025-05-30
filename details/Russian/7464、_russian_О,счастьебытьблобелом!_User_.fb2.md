@@ -8,7 +8,7 @@
 7464、_russian_О, счастье быть блобелом!_User_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59c977cb373a10f5ec9d1be794b0fbfa

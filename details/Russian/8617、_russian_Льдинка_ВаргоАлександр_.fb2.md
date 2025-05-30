@@ -8,7 +8,7 @@
 8617、_russian_Льдинка_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d74d186f8ac57d0c240dee5fb4bc54d

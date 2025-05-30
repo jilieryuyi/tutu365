@@ -8,7 +8,7 @@
 932、_russian_Бхагавад-Гита. Избранное_Балсекар Рамеш Садашива_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46fdcb8ceb498c299914700d7f158dc2

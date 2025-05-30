@@ -8,7 +8,7 @@
 14759、_russian_Утренняя гимнастика_Ножъ Журнал, Прокопенков Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4496d38f8b68eaaad70ebb434ee9015

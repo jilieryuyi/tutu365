@@ -8,7 +8,7 @@
 11898、_russian__...Расстрелять__Покровский Александр Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4725975e4bfb701d7e4f7dbf8e01aff

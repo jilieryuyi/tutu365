@@ -8,7 +8,7 @@
 2822、_russian_Оседлавший Бурю_Геммел Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 667dd65ad5d97d97e9adfed650f34bad

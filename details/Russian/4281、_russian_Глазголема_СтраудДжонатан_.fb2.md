@@ -8,7 +8,7 @@
 4281、_russian_Глаз голема_Страуд Джонатан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ce334c38f30205c0a03414e2e85b32f

@@ -8,7 +8,7 @@
 14268、_english_The Pirate's Daughter_Helen Dickson_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bb6455cfe9c57caf1f039b9580260a78

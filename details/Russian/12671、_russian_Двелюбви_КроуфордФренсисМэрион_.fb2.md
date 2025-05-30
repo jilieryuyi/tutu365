@@ -8,7 +8,7 @@
 12671、_russian_Две любви_Кроуфорд Френсис Мэрион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02ae7dd186c60c37461585f19dd7bdb3

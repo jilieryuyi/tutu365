@@ -8,7 +8,7 @@
 1066、_russian_Тьма_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 769710ca62a2e6f2278cd53355195214

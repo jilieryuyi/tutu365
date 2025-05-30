@@ -8,7 +8,7 @@
 332、_russian_Размышления о еврейском вопросе_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c55a32ec756b7d1540936c0cb84ed806

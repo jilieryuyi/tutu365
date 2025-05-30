@@ -8,7 +8,7 @@
 8611、_russian_Похищенный наследник_Захаров Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4155e54db2fd434f0358017ccf224335

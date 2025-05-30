@@ -8,7 +8,7 @@
 14380、_russian_Клуб Дюма, или тень Ришелье_Перес-Реверте Артуро_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 daafb8b6e121289cf7418d2e5c881a07

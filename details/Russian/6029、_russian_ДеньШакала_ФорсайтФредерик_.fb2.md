@@ -8,7 +8,7 @@
 6029、_russian_День Шакала_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb5588bee01c086f94e31527fa34d42f

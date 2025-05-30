@@ -8,7 +8,7 @@
 11752、_russian_Чудо_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df591e721e8a9ea6bcc6270a4810aa1d

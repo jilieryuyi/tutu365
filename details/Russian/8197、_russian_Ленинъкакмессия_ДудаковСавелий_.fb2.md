@@ -8,7 +8,7 @@
 8197、_russian_Ленинъ как мессия_Дудаков Савелий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cb058200e4a04ab1f97ccf29c5f3370

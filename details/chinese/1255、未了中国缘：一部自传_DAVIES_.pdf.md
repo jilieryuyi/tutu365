@@ -8,7 +8,7 @@
 1255、未了中国缘：一部自传_DAVIES_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 04dc16cc1dc9a3198f154ca4ff8e1ba2

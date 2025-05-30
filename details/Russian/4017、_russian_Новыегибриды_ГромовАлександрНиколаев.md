@@ -8,7 +8,7 @@
 4017、_russian_Новые гибриды_Громов Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac04d110a245b13ba1f9b9c5c5b22b01

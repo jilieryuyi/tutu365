@@ -8,7 +8,7 @@
 12952、_russian_Полночь не наступит никогда_Хиггинс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8324eef226515d50b7fec2c9ce1f56bc

@@ -8,7 +8,7 @@
 10487、_russian_Алиби для бультерьера_Александрова Наталья Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bce4e82bb0544c99c93f3103abb3d728

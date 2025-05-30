@@ -8,7 +8,7 @@
 10338、_russian_Русалка по вызову_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa2258d2b27b92351a06d402fa76fac1

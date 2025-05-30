@@ -8,7 +8,7 @@
 4584、_russian_Дочь палача_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8af4b92c7986894557d82c49649f94d3

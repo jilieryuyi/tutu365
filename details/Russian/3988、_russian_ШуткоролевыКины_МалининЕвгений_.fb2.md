@@ -8,7 +8,7 @@
 3988、_russian_Шут королевы Кины_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4a15f330b95c4bda1e7666573b75a6c

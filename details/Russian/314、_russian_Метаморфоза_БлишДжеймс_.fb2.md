@@ -8,7 +8,7 @@
 314、_russian_Метаморфоза_Блиш Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d9d56913d17d33a971c7224fdc45387

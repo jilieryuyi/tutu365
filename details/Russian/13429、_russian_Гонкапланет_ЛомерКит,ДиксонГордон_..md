@@ -8,7 +8,7 @@
 13429、_russian_Гонка планет_Ломер Кит, Диксон Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b2c2cb1ffc45055b8013cd8276a7a66

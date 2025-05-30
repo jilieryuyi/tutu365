@@ -8,7 +8,7 @@
 11138、_russian_Исчезнувший браконьер_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e61cd265f66d5c8911a3e32a5f5cf7c7

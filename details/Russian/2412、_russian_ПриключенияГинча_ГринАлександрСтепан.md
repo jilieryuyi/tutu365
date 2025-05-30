@@ -8,7 +8,7 @@
 2412、_russian_Приключения Гинча_Грин Александр Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d2401654caeaf18f3206fbf28cd7322

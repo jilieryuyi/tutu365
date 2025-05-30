@@ -8,7 +8,7 @@
 11836、_russian_Пещера_Замятин Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6e27daad580e7a6b388ebbc6a8bc099

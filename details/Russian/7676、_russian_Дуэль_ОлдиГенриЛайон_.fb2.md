@@ -8,7 +8,7 @@
 7676、_russian_Дуэль_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0363e2e8a81c725097e77e01691fdbfc

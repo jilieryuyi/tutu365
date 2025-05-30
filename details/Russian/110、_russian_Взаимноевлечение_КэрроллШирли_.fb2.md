@@ -8,7 +8,7 @@
 110、_russian_Взаимное влечение_Кэрролл Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0aa136118742894687232abd88329bc9

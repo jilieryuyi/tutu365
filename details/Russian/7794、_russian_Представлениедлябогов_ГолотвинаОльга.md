@@ -8,7 +8,7 @@
 7794、_russian_Представление для богов_Голотвина Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e66cf906d4abf264ee6119776bb2404d

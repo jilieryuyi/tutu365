@@ -8,7 +8,7 @@
 2815、_russian_Пятая зима магнетизёра_Энквист Пер Улов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47b8042c75a5b5b700fb90a9f66045db

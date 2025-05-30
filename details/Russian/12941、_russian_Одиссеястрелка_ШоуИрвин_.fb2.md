@@ -8,7 +8,7 @@
 12941、_russian_Одиссея стрелка_Шоу Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5725ea171099effedba1879458b149c4

@@ -8,7 +8,7 @@
 12990、_russian_Возвращение мечты_Ян Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baae24e96c41686657d08779b9a9f112

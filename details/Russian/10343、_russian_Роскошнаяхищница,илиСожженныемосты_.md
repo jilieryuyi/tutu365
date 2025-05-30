@@ -8,7 +8,7 @@
 10343、_russian_Роскошная хищница, или Сожженные мосты_Крамер Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c65d29a74df88ab40ac63534ed7f1b0

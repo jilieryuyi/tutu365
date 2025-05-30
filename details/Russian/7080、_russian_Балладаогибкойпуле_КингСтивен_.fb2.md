@@ -8,7 +8,7 @@
 7080、_russian_Баллада о гибкой пуле_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f722aac876508552cb8a53042e4a52f

@@ -8,7 +8,7 @@
 3376、_russian_ЛЕГЕНДА_Ирина Шуппе_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fab385dd9a858a6345e9dd240edb24ce

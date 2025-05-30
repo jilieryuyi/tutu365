@@ -8,7 +8,7 @@
 8431、_russian_Неоконченное_Маяковский Владимир Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04d3d02d808e2c46978b3ff3eef8f6b5

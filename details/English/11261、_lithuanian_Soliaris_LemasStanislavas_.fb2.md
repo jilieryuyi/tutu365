@@ -8,7 +8,7 @@
 11261、_lithuanian_Soliaris_Lemas Stanislavas_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 aeffab6c075ef10936bbcde4cf68ab41

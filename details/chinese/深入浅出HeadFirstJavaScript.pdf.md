@@ -8,7 +8,7 @@
 深入浅出 Head First JavaScript.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ad6a404b6a69082ff07ff5572dc1f257

@@ -8,7 +8,7 @@
 7857、_russian_Прыжок с орбиты_Астахов Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e2a6170e93ca0b6bac41ebeef18c795

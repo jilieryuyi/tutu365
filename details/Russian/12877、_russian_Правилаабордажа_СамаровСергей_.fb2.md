@@ -8,7 +8,7 @@
 12877、_russian_Правила абордажа_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f5336c23fcf92ef6b6f4e9c22539745

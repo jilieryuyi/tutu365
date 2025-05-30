@@ -8,7 +8,7 @@
 14596、_english_Return of Scandal's Son_Janice Preston_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9e9d6b0fd21574310fb634c6f8979ce8

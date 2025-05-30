@@ -8,7 +8,7 @@
 4386、_english_A Gentleman's Curse_Adele Clee_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dd26a5a521b46320014a05444694868e

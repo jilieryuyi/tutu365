@@ -8,7 +8,7 @@
 当和尚遇到钻石_reedtian_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1fc7284d074475793e30ef4d84c011c4

@@ -8,7 +8,7 @@
 192、_russian_Зона ужаса_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36c66848eb14dccef607b1803370c179

@@ -8,7 +8,7 @@
 2813、_russian_Каин_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb8def7be09b7068c9b2975ef7836f55

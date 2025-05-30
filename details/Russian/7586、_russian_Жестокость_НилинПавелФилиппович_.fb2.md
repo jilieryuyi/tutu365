@@ -8,7 +8,7 @@
 7586、_russian_Жестокость_Нилин Павел Филиппович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3461c088bb999480f04df3305630f442

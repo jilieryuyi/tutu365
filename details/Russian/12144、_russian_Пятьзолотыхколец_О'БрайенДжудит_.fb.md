@@ -8,7 +8,7 @@
 12144、_russian_Пять золотых колец_О'Брайен Джудит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d117e4199b1e0ed2c40fc1504912bc6

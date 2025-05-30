@@ -8,7 +8,7 @@
 web单页应用.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 77c11da9479d93cc606e6f8a619ce1d6

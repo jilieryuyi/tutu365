@@ -8,7 +8,7 @@
 9820、_russian_Об Андре Шенье_Гюго Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63e1692f99711afe50437d29a3ed66e6

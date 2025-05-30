@@ -8,7 +8,7 @@
 12338、_russian_Диковинный сон_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d9e0682e94d0420237373bffb0a243f

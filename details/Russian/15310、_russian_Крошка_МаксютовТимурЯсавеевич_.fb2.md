@@ -8,7 +8,7 @@
 15310、_russian_Крошка_Максютов Тимур Ясавеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b63c61f6b8075b1e3e33b6080cbf38ed

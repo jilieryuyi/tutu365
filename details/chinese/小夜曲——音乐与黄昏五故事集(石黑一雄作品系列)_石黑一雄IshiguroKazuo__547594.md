@@ -8,7 +8,7 @@
 小夜曲——音乐与黄昏五故事集 (石黑一雄作品系列)_石黑一雄 Ishiguro Kazuo__5475942_79212eb0b244c7375e0c80251ec32028.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 79212eb0b244c7375e0c80251ec32028

@@ -8,7 +8,7 @@
 7006、_russian_Записки сумасшедшей журналистки_Асламова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85b434b6a35ed009eeba99ac6d34b201

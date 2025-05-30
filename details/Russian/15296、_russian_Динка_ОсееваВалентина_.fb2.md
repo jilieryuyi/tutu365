@@ -8,7 +8,7 @@
 15296、_russian_Динка_Осеева Валентина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c66a3f6b022c862e02b9dbea5e7c7e4f

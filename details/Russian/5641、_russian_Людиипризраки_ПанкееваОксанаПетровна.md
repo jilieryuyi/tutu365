@@ -8,7 +8,7 @@
 5641、_russian_Люди и призраки_Панкеева Оксана Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63c192c0e99746bb67550864189a606a

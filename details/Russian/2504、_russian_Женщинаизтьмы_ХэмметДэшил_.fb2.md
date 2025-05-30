@@ -8,7 +8,7 @@
 2504、_russian_Женщина из тьмы_Хэммет Дэшил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 572470df47d70bea5793cef09fe73762

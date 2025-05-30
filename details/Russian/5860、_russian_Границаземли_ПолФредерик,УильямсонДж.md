@@ -8,7 +8,7 @@
 5860、_russian_Граница земли_Пол Фредерик, Уильямсон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72e81e8afa2cb274d6cfde7238ffdd74

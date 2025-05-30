@@ -8,7 +8,7 @@
 12059、_russian_Драгоценности_Кингсли Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b687ecd43565b55c018052dcc148b90

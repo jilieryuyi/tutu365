@@ -8,7 +8,7 @@
 999、_russian_Отзвуки прошлого_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1bdc505c990d6a002245cc35d1907e6

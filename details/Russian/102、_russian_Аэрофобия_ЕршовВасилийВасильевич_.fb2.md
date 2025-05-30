@@ -8,7 +8,7 @@
 102、_russian_Аэрофобия_Ершов Василий Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c3d846be5fa8c3a6678b2b0069b3752

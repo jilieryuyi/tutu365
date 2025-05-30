@@ -8,7 +8,7 @@
 3030、_russian_За ночью будет рассвет_А S Е_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cad04bc4703892a6d82d8f0a4905401c

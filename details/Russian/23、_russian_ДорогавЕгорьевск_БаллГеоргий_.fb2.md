@@ -8,7 +8,7 @@
 23、_russian_Дорога в Егорьевск_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6daf55e2f3d53c3983831c99aced73b6

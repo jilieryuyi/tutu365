@@ -8,7 +8,7 @@
 12101、_russian_И когда умер Игорь Холин_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdedb7c1eabc0c5c3f48dcb34d26757a

@@ -8,7 +8,7 @@
 1766、_russian_Города в полете_Блиш Джеймс Бенджамин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df4db0775797935be36be4611fd9d754

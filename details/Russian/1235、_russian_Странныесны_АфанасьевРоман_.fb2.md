@@ -8,7 +8,7 @@
 1235、_russian_Странные сны_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b6d199ebd2702b1afa757be5d7d5000

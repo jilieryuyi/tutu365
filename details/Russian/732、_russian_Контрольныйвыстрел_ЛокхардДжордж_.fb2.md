@@ -8,7 +8,7 @@
 732、_russian_Контрольный выстрел_Локхард Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c30d408bbfd9d6e6412178f44b140d0b

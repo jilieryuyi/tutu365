@@ -8,7 +8,7 @@
 2100、_russian_Три стигмата Палмера Элдрича_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 daab02b3d527447ba3250b90cdcd3bc5

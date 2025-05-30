@@ -8,7 +8,7 @@
 10804、_russian_Космическая станция _Василиск__Вебер Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13ad3ca38cc68090834c612179fc20ee

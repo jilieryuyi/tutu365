@@ -8,7 +8,7 @@
 2906、_russian_Рая & Аад_Палей Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b1f64164ba57db4eaa9d52a21e8d321

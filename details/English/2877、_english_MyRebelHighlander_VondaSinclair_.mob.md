@@ -8,7 +8,7 @@
 2877、_english_My Rebel Highlander_Vonda Sinclair_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 17bb4c38ea3d73204e6773297babaf65

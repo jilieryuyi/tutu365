@@ -8,7 +8,7 @@
 11627、_russian_Снова и снова_Джонсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 252b113c172760c900be0e53da275d76

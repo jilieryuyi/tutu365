@@ -8,7 +8,7 @@
 托尔金中洲三部曲：精灵宝钻+霍比特人+魔戒三部曲_[英]J.R.R.托尔金（J.R.R.Tolkien）__5475712_52b569ddf9ce3e09870d24f4f1f76759.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 52b569ddf9ce3e09870d24f4f1f76759

@@ -8,7 +8,7 @@
 7735、_russian_Безумие драконов_Mak Ivan_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e31a998b95a25a7d4d239f858120b89

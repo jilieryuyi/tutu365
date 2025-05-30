@@ -8,7 +8,7 @@
 10192、_russian_Что в садике растет у Мэри_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e7187bf6ffcb677bd334e4781788932

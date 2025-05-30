@@ -8,7 +8,7 @@
 2807、_russian_Юджиния_Минчин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0118a495d40b9284278e1e8852d4ef3

@@ -8,7 +8,7 @@
 9232、_italian_Infinite Jest_David Foster Wallace_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4db1ec4a1c6c6adcec2e34fe06457c0d

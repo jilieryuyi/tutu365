@@ -8,7 +8,7 @@
 4756、_russian_Ползуны_Филип Киндред Дик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79855ab02f23794d2d99ce9be3111513

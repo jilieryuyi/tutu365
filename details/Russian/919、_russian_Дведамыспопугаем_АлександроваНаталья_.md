@@ -8,7 +8,7 @@
 919、_russian_Две дамы с попугаем_Александрова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aceaa0dec92c6847a279759c7edcc5ac

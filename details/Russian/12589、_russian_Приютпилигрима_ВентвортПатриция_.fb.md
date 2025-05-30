@@ -8,7 +8,7 @@
 12589、_russian_Приют пилигрима_Вентворт Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e62c1ff2d77cb87ba8ce75d8329a050e

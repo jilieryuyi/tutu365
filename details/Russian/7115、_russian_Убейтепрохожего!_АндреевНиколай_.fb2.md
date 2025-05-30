@@ -8,7 +8,7 @@
 7115、_russian_Убейте прохожего!_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fab4bf34c350a1c3a4a84de47e8d1068

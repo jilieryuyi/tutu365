@@ -8,7 +8,7 @@
 2506、_russian_Властелин пустоты_Громов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4f7ddebde87243dc8e5d2adc3037837

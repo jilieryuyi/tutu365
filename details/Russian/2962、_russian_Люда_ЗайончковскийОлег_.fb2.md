@@ -8,7 +8,7 @@
 2962、_russian_Люда_Зайончковский Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be032adcddb3e9d3d5d27c1ce8114c6a

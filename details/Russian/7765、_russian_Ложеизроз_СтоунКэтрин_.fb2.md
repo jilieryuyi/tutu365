@@ -8,7 +8,7 @@
 7765、_russian_Ложе из роз_Стоун Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99c37fe4304e876a0a38e4dc2a48008f

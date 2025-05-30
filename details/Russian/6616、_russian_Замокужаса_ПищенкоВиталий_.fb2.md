@@ -8,7 +8,7 @@
 6616、_russian_Замок ужаса_Пищенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27c536655e4a56cc233477d8a5625818

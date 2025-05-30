@@ -8,7 +8,7 @@
 12024、_russian_Веселые проказники встречаются с Джимом Кроу_Кизи Кен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b189a83f5509d25b6dd369fc1ea16e6

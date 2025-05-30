@@ -8,7 +8,7 @@
 13343、_russian_Любимый мой_Леклер Дэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4513bc1d379203e39d2b36164d38ee5a

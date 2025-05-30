@@ -8,7 +8,7 @@
 2183、计算机等级考试指导教程_大学计算机基础(Linux)实践指导_胡维华_浙江大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ce0a40ebaa78332d45832227d3dfd456

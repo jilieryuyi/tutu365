@@ -8,7 +8,7 @@
 5485、_russian_Ген человечности_Подольский Илья Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aefd2285b8c6db5049a1e5e4ceaee008

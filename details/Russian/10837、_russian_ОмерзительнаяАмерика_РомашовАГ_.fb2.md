@@ -8,7 +8,7 @@
 10837、_russian_Омерзительная Америка_Ромашов А Г_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b30826e52870eb5fc5b6d6aeb75a117e

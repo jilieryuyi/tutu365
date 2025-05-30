@@ -8,7 +8,7 @@
 7681、_russian_Кратер Десперадо(Неполный вариант)_Deadly Arrow_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2af8f64a50c8134666bf9faec3c79c77

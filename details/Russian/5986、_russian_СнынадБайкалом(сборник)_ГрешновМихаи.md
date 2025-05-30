@@ -8,7 +8,7 @@
 5986、_russian_Сны над Байкалом (сборник)_Грешнов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e84f85fdd8e3c079699bd7fd343d1232

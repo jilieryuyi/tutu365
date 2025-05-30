@@ -8,7 +8,7 @@
 6498、_russian_Проклятье ведьмы_Бреннан Джозеф Пэйн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7e4376b24eaf5e2afc2f5c658b46e73

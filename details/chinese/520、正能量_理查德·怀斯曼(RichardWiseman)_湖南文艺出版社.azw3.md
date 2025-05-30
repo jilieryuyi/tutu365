@@ -8,7 +8,7 @@
 520、正能量_理查德·怀斯曼(Richard Wiseman)_湖南文艺出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9d20d3a13fbff1ef0a8eb676be29784b

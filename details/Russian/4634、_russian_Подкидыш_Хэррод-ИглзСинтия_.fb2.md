@@ -8,7 +8,7 @@
 4634、_russian_Подкидыш_Хэррод-Иглз Синтия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed84d69c6071b87aca043680af5d3847

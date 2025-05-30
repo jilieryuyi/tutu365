@@ -8,7 +8,7 @@
 11331、_russian_Ленин как марксист_Бухарин Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9edec9d02d5f23d41ba3766afa771843

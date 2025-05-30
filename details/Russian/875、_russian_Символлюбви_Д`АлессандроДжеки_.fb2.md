@@ -8,7 +8,7 @@
 875、_russian_Символ любви_Д`Алессандро Джеки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5982099d1ef624f314aa66a8e4d94477

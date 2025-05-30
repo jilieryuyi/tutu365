@@ -8,7 +8,7 @@
 633、_russian_Основной рубеж_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 998a521fc499a1f617e0bb637c4c5f3c

@@ -8,7 +8,7 @@
 809、_russian_Желтое облако_Ванюшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79863b0cf8936c3b8de8a6fabf1f3363

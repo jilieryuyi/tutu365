@@ -8,7 +8,7 @@
 7185、_russian_Декарт за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 843bdd2f03a3441a5eeee49725c9c119

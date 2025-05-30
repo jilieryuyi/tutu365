@@ -8,7 +8,7 @@
 老间谍俱乐部_爱德华·霍克(EdwardD.Hoch)__5476511_16d0f2d8e580820504d807412e5f68f7.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 16d0f2d8e580820504d807412e5f68f7

@@ -8,7 +8,7 @@
 11796、_russian_Еретики Дюны_Херберт Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01b1818322818ee498d83d59c47df2f0

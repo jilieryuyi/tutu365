@@ -8,7 +8,7 @@
 6551、_russian_Тернистый путь к славе_Вудхауз Пэлэм Грэнвилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc6e9a82ad2d1db526509f1fd02616f0

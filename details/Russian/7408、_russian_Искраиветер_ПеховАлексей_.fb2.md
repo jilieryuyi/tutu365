@@ -8,7 +8,7 @@
 7408、_russian_Искра и ветер_Пехов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3dbdb24e38b9ef1d75df8271f376cd02

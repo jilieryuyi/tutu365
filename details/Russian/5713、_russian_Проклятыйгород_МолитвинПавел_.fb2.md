@@ -8,7 +8,7 @@
 5713、_russian_Проклятый город_Молитвин Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b396cd7a26ef4f398ea2eebad2f78ee5

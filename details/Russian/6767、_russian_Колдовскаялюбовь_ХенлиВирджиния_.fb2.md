@@ -8,7 +8,7 @@
 6767、_russian_Колдовская любовь_Хенли Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 610498a8b185960b29212dc38db18a6b

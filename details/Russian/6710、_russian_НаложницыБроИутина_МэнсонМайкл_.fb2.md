@@ -8,7 +8,7 @@
 6710、_russian_Наложницы Бро Иутина_Мэнсон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 391406dae76211e9bf83706ffb6f5fd3

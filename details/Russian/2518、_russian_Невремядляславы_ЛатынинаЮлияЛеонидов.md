@@ -8,7 +8,7 @@
 2518、_russian_Не время для славы_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4546460cb313d4d253367a6c6a6f8f28

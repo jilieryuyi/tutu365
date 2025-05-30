@@ -8,7 +8,7 @@
 1533、_russian_Сеятели смерти_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38ce581cefcdf7dd15b21ee65fec7b6b

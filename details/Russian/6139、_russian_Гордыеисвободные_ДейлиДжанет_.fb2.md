@@ -8,7 +8,7 @@
 6139、_russian_Гордые и свободные_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a22a9b5a5ef263aaa2a5961346ab31f

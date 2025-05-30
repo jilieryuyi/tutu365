@@ -8,7 +8,7 @@
 11588、_russian_Книга мудрости или глупости (Книга алеф)_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad1e9e6b8bba1c26edfdf442987a70ab

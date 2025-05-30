@@ -8,7 +8,7 @@
 10915、_russian_Майами Блюз_Уилфорд Чарлз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc5088899da7c32f8c2767fdd6816c0c

@@ -8,7 +8,7 @@
 1643、定位_杰克·特劳特（jack Trout） & 阿尔·里斯（al Ries）_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dd14b8b9a84430ae1c0e6abf731307b4

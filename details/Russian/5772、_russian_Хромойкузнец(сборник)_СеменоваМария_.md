@@ -8,7 +8,7 @@
 5772、_russian_Хромой кузнец (сборник)_Семенова Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7226f47daba6e3fef64fa0ace9aac5e2

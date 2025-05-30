@@ -8,7 +8,7 @@
 12993、_russian_Скоморошья потеха_Ян Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4907e4ee8511736e235daf7314512b01

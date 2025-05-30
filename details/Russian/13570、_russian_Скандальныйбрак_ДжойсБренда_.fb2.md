@@ -8,7 +8,7 @@
 13570、_russian_Скандальный брак_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22b9a2da467142564c2a22c27af811ad

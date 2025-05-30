@@ -8,7 +8,7 @@
 14994、_russian_Исследование о природе и причинах богатства народов_Смит Адам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e9b826e71abd50f05143197b3ffdc2b

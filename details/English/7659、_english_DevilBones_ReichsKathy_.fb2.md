@@ -8,7 +8,7 @@
 7659、_english_Devil Bones_Reichs Kathy_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7700ee140efcc1ba4a55807e10e6a71d

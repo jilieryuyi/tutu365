@@ -8,7 +8,7 @@
 4090、_russian_Золушка на рынке (Золушка)_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5334acae0eeea9c58f3959344d3964d1

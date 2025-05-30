@@ -8,7 +8,7 @@
 2447、_english_The Earl's Forsaken Bride_Tammy Andresen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bb10447c153152fe773663f4cb525d37

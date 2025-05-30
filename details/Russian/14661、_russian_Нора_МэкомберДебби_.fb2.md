@@ -8,7 +8,7 @@
 14661、_russian_Нора_Мэкомбер Дебби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e57a10bd04571900a57e8548d051be9e

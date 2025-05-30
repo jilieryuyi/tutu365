@@ -8,7 +8,7 @@
 2260、_english_Alexander and Alestria_Sa Shan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8fb6d172eccb6d7c4228729e4939f28c

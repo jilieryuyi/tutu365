@@ -8,7 +8,7 @@
 9744、_russian_На аптекарском острове_Федоров Николай Тимонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cce901a9ec81507919245abdf7ab8b7

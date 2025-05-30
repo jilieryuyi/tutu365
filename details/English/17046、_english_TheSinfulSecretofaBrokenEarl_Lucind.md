@@ -8,7 +8,7 @@
 17046、_english_The Sinful Secret of a Broken Earl_Lucinda Nelson_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5f4ed0d2d94c65f93d70590bc53cc9ee

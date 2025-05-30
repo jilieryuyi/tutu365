@@ -8,7 +8,7 @@
 4386、_russian_Белый крейсер, глава 1 - 5_Эльтеррус Иар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db86f5fdf335ec09ad18161a9efd23be

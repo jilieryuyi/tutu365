@@ -8,7 +8,7 @@
 14672、_russian_Клятва повесы_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7479e081336770c61339a1c731ff5640

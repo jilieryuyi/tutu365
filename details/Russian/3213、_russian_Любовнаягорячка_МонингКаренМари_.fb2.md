@@ -8,7 +8,7 @@
 3213、_russian_Любовная горячка_Монинг Карен Мари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1a729d764d66d81852e958a05d11b1b

@@ -8,7 +8,7 @@
 13608、_russian_Встреча_Буренина Кира_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fa5a745d0e1a85b3843f159fb1747ce

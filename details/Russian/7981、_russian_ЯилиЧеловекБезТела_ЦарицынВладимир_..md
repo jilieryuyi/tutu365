@@ -8,7 +8,7 @@
 7981、_russian_Я или Человек Без Тела_Царицын Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1e3a9a5986998ac7dc3874db988f4dd

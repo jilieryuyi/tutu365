@@ -8,7 +8,7 @@
 13694、_russian_Сви-и-оу-оу-эй!.._Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41590faccd5811c6d728fd33322b76c4

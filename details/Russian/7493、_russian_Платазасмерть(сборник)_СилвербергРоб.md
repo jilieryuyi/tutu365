@@ -8,7 +8,7 @@
 7493、_russian_Плата за смерть (сборник)_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ec260f1d25ad69026bea9ccd5ca85ef

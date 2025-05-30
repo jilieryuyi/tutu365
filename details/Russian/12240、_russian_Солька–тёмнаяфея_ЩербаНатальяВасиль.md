@@ -8,7 +8,7 @@
 12240、_russian_Солька – тёмная фея_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f964f8539003042dd1551a34f87ccc6

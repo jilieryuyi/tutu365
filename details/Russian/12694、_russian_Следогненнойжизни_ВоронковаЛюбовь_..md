@@ -8,7 +8,7 @@
 12694、_russian_След огненной жизни_Воронкова Любовь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d3c91b476f465e9662704e04a9d627e

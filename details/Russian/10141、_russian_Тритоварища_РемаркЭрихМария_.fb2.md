@@ -8,7 +8,7 @@
 10141、_russian_Три товарища_Ремарк Эрих Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f1955dd2844ab7ac49e01cbdbe114ce

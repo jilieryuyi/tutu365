@@ -8,7 +8,7 @@
 12039、_russian_Атлантида_Касслер Клайв_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c89d341d743841d42c7800b29c6e67d

@@ -8,7 +8,7 @@
 千万别说你懂买房_徐斌, ePUBw.COM__5545052_7650512af61ecf413cbddf8b16d78a9b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7650512af61ecf413cbddf8b16d78a9b

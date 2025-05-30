@@ -8,7 +8,7 @@
 12796、_russian_Леди Удача_Крэн Бетина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa0939bc769fd6a17b464c29e792e129

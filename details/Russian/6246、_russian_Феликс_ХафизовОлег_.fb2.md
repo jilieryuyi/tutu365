@@ -8,7 +8,7 @@
 6246、_russian_Феликс_Хафизов Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc298f79ec81b86b2879f575634268a7

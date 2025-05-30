@@ -8,7 +8,7 @@
 4295、_english_The Canceled Czech_Block Lawrence_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bf4b70fb48a8ad3661a93972d6ad9974

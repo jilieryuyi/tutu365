@@ -8,7 +8,7 @@
 6780、_russian_Крестный отец (перевод М.Кан)_Пьюзо Марио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c8d8b377da02f6ddcb4b7805166d155

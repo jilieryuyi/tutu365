@@ -8,7 +8,7 @@
 10414、_russian_Полёт_Газданов Гайто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a79deb30bd923dc623a3a4cdd135c25

@@ -8,7 +8,7 @@
 12108、_russian_Лекарство от лени_Леви Владимир Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cca8f97f37860f8da9da27c3926e901b

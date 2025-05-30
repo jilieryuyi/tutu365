@@ -8,7 +8,7 @@
 7259、_russian_Все об обычном укропе_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0d59a9a3e67879c3dffa9b84f99d479

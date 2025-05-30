@@ -8,7 +8,7 @@
 2013、_russian_Жизнь в _Крематории_ и вокруг него_Троегубов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19b220b54a847f92c3de317e256d63a4

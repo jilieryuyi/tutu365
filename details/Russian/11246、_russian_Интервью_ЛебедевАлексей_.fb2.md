@@ -8,7 +8,7 @@
 11246、_russian_Интервью_Лебедев Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2262ebe8c90a23c0c922742b59cc6d04

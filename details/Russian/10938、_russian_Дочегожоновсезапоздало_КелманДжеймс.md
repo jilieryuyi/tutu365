@@ -8,7 +8,7 @@
 10938、_russian_До чего ж оно все запоздало_Келман Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46629eb344c26fb7864e331646dc0d7b

@@ -8,7 +8,7 @@
 4521、_russian_Поединок ревнивцев_Джоунс Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 255decc22dde9e1007ff1294547360d7

@@ -8,7 +8,7 @@
 1220、_russian_Химера_Розов Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e53a0bc7b4420b791be9d172e276fa8

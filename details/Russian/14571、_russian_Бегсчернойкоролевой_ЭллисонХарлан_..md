@@ -8,7 +8,7 @@
 14571、_russian_Бег с черной королевой_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26b9a5e3b206606f546b129ffb382464

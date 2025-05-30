@@ -8,7 +8,7 @@
 2122、_russian_Мир, которого не может быть_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dc7df36afdb82393def3b989a40bc0a

@@ -8,7 +8,7 @@
 8792、_russian_Белая Дама Треф_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1da3e0bee60a6711c2d7f2094d1c1677

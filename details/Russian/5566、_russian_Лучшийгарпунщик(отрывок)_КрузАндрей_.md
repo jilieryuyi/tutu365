@@ -8,7 +8,7 @@
 5566、_russian_Лучший гарпунщик (отрывок)_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be81a9bf39fa7f48b2eec5b977d662d6

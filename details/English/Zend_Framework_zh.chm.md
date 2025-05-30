@@ -8,7 +8,7 @@
 Zend_Framework_zh.chm.chm
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fd65c0fe8a29835efb1a8e3bf023125c

@@ -8,7 +8,7 @@
 11819、_russian_Тысяча благодарностей, Дживс_Вудхауз Пэлем Грэнвил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99a9c9c8dfb9a2b4cb0f18b19bbc4c90

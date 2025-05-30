@@ -8,7 +8,7 @@
 8831、_russian_Волкодав_Семенова Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 699db000e01e680204744f8806466206

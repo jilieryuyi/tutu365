@@ -8,7 +8,7 @@
 4230、_russian_Тени прошлого_Деревянко Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7ce14b724b4388078e09ecd885fa5f0

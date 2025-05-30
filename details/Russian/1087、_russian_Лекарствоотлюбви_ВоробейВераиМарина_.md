@@ -8,7 +8,7 @@
 1087、_russian_Лекарство от любви_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df1c57114848c0fa0fd6e849bf2610e9

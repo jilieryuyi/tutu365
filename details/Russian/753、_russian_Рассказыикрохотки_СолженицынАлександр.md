@@ -8,7 +8,7 @@
 753、_russian_Рассказы и крохотки_Солженицын Александр Исаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6145cb43be1046be56e07bb83360776c

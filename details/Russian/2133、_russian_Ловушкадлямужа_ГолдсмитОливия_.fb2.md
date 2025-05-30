@@ -8,7 +8,7 @@
 2133、_russian_Ловушка для мужа_Голдсмит Оливия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 369218fc460a5f01fbee092c5b19e388

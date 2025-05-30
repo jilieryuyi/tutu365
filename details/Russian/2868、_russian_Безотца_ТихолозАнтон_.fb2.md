@@ -8,7 +8,7 @@
 2868、_russian_Без отца_Тихолоз Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24e38667d007b7c853ec3ce76b2bda36

@@ -8,7 +8,7 @@
 10032、_english_Foundations of Qt Development (Expert's Voice in Open Source)_Thelin, Johan_Apress.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 14332ae97d4886ccd7519fd3985ea57b

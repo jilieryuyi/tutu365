@@ -8,7 +8,7 @@
 6154、_russian_Находка_Тайц Яков Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a36dcd2aac2006d97ad4d0109bd5f387

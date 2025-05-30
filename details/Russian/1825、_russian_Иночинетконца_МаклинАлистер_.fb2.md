@@ -8,7 +8,7 @@
 1825、_russian_И ночи нет конца_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 561a52f7a0cba55e6a9cb21621d1efc2

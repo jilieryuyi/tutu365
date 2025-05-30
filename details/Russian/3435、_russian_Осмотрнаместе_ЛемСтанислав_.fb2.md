@@ -8,7 +8,7 @@
 3435、_russian_Осмотр на месте_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba56be473c3847c28118fb75ffcf297d

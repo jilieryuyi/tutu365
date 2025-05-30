@@ -8,7 +8,7 @@
 9074、_english_The Wickedest Lord Alive_Christina Brooke_St. Martin's Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 795f08a26e35d62a6e6d7064ee232a7f

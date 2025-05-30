@@ -8,7 +8,7 @@
 207、_russian_Пасынки восьмой заповеди_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2492adfe01f8201823a986c2f2e9d25b

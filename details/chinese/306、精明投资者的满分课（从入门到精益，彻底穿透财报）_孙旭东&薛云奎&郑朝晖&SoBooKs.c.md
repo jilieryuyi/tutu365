@@ -8,7 +8,7 @@
 306、精明投资者的满分课（从入门到精益，彻底穿透财报）_孙旭东 & 薛云奎 & 郑朝晖 & SoBooKs.cc 冯涛 [冯涛, SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 68e2bed14e290d67716889706cd2b4f6

@@ -8,7 +8,7 @@
 1628、_russian_Решение [Могильщик]_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fb8ed84e9c590b3b24f6050b33a51db

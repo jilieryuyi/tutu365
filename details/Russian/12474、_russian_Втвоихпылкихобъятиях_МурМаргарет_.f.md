@@ -8,7 +8,7 @@
 12474、_russian_В твоих пылких объятиях_Мур Маргарет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ded98d5f45cc9075d099c7bf743d3ff

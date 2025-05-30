@@ -8,7 +8,7 @@
 5851、_russian_Путь к Эвенору_Розенберг Джоэл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19152c52edc48b6c1a44d70914d57f72

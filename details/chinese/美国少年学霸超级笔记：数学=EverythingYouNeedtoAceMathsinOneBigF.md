@@ -8,7 +8,7 @@
 美国少年学霸超级笔记：数学 = Everything You Need to Ace Maths in One Big Fat Notebook The Complete School Study Guide (美国沃克曼出版公司 (Workman Publishing)).epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d67d2f0de16aa9b6f0861929af757679

@@ -8,7 +8,7 @@
 4394、_russian_Вселенная шамана_Шумин Андрей, Сляднев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f81bcd2e37963ab6fc80cbd349abda39

@@ -8,7 +8,7 @@
 2667、_russian_Жизненное пространство_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76bbf3f56b48ed04ac38a09c2ff37dfd

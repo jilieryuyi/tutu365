@@ -8,7 +8,7 @@
 3841、_ukrainian__з щоденника_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65d9e42957a91a0cc7eb1c8842842de8

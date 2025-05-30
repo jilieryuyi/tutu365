@@ -8,7 +8,7 @@
 959、_russian_Поэтика фотографии._Михалкович В И, Стигнеев В Т_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7384979dfea81d42417786056e5c7ef

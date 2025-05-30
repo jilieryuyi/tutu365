@@ -8,7 +8,7 @@
 2515、亨利·米勒自传性三部曲（套装共3册）_亨利_米勒 (Henry Miller)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d528b6f1ba8704548f66c265fabcdb43

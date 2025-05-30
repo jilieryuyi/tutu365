@@ -8,7 +8,7 @@
 13686、_russian_Хранитель тыквы_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 248edee66c538a7a0ca0616db55d88fe

@@ -8,7 +8,7 @@
 1481、_russian_Новое начало_Крайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 966f6b51196dac6239100f267997f912

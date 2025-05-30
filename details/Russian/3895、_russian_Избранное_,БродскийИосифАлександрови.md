@@ -8,7 +8,7 @@
 3895、_russian_Избранное_, Бродский Иосиф Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cbeb29876e8b65f32bae8aad3d37e87

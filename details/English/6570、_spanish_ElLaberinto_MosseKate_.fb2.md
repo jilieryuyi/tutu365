@@ -8,7 +8,7 @@
 6570、_spanish_El Laberinto_Mosse Kate_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5f767fc37a9f7e0a9afa96e83254aef8

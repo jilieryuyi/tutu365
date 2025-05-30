@@ -8,7 +8,7 @@
 3848、_russian_Безбилетный пассажир_Данелия Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbf221823290f01a85fe282a1ecbcda2

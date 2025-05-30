@@ -8,7 +8,7 @@
 7393、_russian_Скромный гений (сборник)_Шефнер Вадим Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30dcf939a6a06aec16e2f16005bc294a

@@ -8,7 +8,7 @@
 1083、_russian_Бриллианты для куклы_Дробина Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e026c04737f1efa390ced3b1d7131bd8

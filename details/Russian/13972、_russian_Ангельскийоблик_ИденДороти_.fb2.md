@@ -8,7 +8,7 @@
 13972、_russian_Ангельский облик_Иден Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbd12d9bd13442d99aaef1e0045fba5d

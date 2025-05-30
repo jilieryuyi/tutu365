@@ -8,7 +8,7 @@
 8627、_russian_Семейный подряд_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74e7f9d0d17daa13499e35603dbf2803

@@ -8,7 +8,7 @@
 4632、_russian_Экипаж Большого Друга_Эйнбоу Р._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f478b57f367420f11b90d49227418535

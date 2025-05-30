@@ -8,7 +8,7 @@
 8808、_russian_Страху вопреки_Багров Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e0fc6ccaed956d0229791845df4f16b

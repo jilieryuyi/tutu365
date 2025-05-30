@@ -8,7 +8,7 @@
 11766、_russian_Большая путина_Давыдов Юрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b312d154d03eab84840af7c11437305a

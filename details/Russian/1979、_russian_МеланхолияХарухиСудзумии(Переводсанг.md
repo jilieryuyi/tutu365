@@ -8,7 +8,7 @@
 1979、_russian_Меланхолия Харухи Судзумии (Перевод с английского)_Танигава Нагару_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bca617caab703fb5e6be3bd147e44cb7

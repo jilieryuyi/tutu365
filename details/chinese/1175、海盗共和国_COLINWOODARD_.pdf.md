@@ -8,7 +8,7 @@
 1175、海盗共和国_COLIN WOODARD_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d0627e1577b44450656dab0f5055e1c7

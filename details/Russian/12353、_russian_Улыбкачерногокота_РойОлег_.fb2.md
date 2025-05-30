@@ -8,7 +8,7 @@
 12353、_russian_Улыбка черного кота_Рой Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cf953309490caae2bedd93867036684

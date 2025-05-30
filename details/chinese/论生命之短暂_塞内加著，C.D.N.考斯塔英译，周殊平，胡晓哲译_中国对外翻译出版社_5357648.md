@@ -8,7 +8,7 @@
 论生命之短暂_塞内加 著，C.D.N. 考斯塔 英译，周殊平，胡晓哲 译_中国对外翻译出版社_5357648_09ba7aaf6ad8c2cb64596b84548b38a4.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 09ba7aaf6ad8c2cb64596b84548b38a4

@@ -8,7 +8,7 @@
 6119、_english_Judge & Jury_Patterson James, Gross Andrew_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 268a30e1ee785ede16172c6f1c9102c9

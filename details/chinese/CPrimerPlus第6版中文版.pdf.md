@@ -8,7 +8,7 @@
 C   Primer Plus  第6版  中文版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7a95cc8306b72351f8b99e2eb3948f42

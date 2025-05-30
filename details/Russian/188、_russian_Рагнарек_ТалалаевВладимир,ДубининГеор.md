@@ -8,7 +8,7 @@
 188、_russian_Рагнарек_Талалаев Владимир, Дубинин Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa9fd74910ddf1164cadd6ff1bdf8dc6

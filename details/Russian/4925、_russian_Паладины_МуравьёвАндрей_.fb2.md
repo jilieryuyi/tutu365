@@ -8,7 +8,7 @@
 4925、_russian_Паладины_Муравьёв Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70285a5f82f34e660d4121b848102007

@@ -8,7 +8,7 @@
 6148、_russian_Рок на Павелецкой_Поликовский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47071faaeffea8ba76ff8dbc0ea3b5a9

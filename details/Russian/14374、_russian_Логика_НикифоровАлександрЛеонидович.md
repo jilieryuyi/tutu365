@@ -8,7 +8,7 @@
 14374、_russian_Логика_Никифоров Александр Леонидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f89919c9dab962e3969168070edc9911

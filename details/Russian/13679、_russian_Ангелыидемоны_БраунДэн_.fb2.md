@@ -8,7 +8,7 @@
 13679、_russian_Ангелы и демоны_Браун Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2803c1dcf8336bc620d22faf69db1bb1

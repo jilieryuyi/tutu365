@@ -8,7 +8,7 @@
 4994、_russian_Сердце Саламандры_Камаева Майя Альмировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ce3958ff8e2a7cac51c0e446b019b6c

@@ -8,7 +8,7 @@
 8823、_russian_Апельсины из Марокко_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 545b757624ec23d1c64d843ba6b1d100

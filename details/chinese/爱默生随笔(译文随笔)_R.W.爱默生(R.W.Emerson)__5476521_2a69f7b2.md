@@ -8,7 +8,7 @@
 爱默生随笔 (译文随笔)_R.W.爱默生(R.W.Emerson)__5476521_2a69f7b21349188e80221bba5ab54446.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2a69f7b21349188e80221bba5ab54446

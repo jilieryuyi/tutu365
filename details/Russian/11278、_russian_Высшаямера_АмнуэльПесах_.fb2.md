@@ -8,7 +8,7 @@
 11278、_russian_Высшая мера_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 614097e6b9f915a065ffffd48806a677

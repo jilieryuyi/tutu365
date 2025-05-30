@@ -8,7 +8,7 @@
 4348、_russian_У нас дома в далекие времена_Фаллада Ганс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3d538366b839e0ea1baafe3f7d10206

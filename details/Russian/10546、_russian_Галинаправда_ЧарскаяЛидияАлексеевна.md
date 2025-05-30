@@ -8,7 +8,7 @@
 10546、_russian_Галина правда_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b33f06ae142ce11a4010ef281f90996

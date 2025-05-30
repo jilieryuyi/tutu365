@@ -8,7 +8,7 @@
 11951、_russian_Тихий сон смерти_Маккарти Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74f2b086d17050b00886c021773ba2b9

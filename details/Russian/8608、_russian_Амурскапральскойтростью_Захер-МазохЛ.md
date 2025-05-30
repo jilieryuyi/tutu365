@@ -8,7 +8,7 @@
 8608、_russian_Амур с капральской тростью_Захер-Мазох Леопольд фон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5098facf5a36b60adadc5ab4f12a4895

@@ -8,7 +8,7 @@
 4528、_russian_Любовники и лжецы. Книга 1_Боумен Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 809ef3d91d15e79e36650b5fbf126bf1

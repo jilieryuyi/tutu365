@@ -8,7 +8,7 @@
 7666、_english_Lethal Exposure_Anderson Kevin J, Beason Doug_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6810cfa59677d84333b2ee5c867d1979

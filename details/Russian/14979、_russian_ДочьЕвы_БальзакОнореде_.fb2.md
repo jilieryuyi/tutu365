@@ -8,7 +8,7 @@
 14979、_russian_Дочь Евы_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bce5f035cf57fc046145dfd6fce1a00

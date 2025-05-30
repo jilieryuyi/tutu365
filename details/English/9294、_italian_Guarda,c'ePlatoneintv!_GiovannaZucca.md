@@ -8,7 +8,7 @@
 9294、_italian_Guarda, c'e Platone in tv!_Giovanna Zucca_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f5682ac03cc2be1f3891d5876a65e4bd

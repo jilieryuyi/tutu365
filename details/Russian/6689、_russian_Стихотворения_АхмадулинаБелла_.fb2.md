@@ -8,7 +8,7 @@
 6689、_russian_Стихотворения_Ахмадулина Белла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20b5fc11be70b41728749b757c632bf9

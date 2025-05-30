@@ -8,7 +8,7 @@
 10862、_russian_На _Ра_ через Атлантику_Сенкевич Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a842d5f741164b3c6fccbe3e1ed1003b

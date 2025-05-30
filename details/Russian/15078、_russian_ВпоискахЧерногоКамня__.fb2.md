@@ -8,7 +8,7 @@
 15078、_russian_В поисках Черного Камня__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0108eaf469b49ff6824afc2e8fe8037f

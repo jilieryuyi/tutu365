@@ -8,7 +8,7 @@
 8710、_russian_Ретушер_Стахов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f3a0c600cb464cd2c9420913a3e42de

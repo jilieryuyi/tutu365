@@ -8,7 +8,7 @@
 文雅的疯狂_[美] 尼古拉斯·A. 巴斯贝恩__5542102_93374d6300f3537b5ae51f61d223209c.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 93374d6300f3537b5ae51f61d223209c

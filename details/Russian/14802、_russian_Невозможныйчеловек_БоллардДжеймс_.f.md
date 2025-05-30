@@ -8,7 +8,7 @@
 14802、_russian_Невозможный человек_Боллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9297e7199686730a4a5de7ae4a244d48

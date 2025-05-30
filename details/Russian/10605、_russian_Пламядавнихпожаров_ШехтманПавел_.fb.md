@@ -8,7 +8,7 @@
 10605、_russian_Пламя давних пожаров_Шехтман Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 496488d9adddd00c4521b80afa87853b

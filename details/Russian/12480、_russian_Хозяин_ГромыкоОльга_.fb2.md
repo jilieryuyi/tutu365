@@ -8,7 +8,7 @@
 12480、_russian_Хозяин_Громыко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 155539141044f6de49baa4d06b9d377f

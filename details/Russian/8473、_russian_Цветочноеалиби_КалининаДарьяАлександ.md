@@ -8,7 +8,7 @@
 8473、_russian_Цветочное алиби_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c24f138135ad775b2dab2a9c9d2cf98c

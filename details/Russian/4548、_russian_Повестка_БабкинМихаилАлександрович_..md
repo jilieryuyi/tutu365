@@ -8,7 +8,7 @@
 4548、_russian_Повестка_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 906996a9796a246a35a708e6fb081949

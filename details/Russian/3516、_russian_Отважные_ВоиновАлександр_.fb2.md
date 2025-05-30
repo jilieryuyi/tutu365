@@ -8,7 +8,7 @@
 3516、_russian_Отважные_Воинов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d99bd9070572c92917ad6eceb58ac475

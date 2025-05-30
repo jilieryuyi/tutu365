@@ -8,7 +8,7 @@
 12390、_russian_Загадка Плутона_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76905817bc4e5c2b6ca8eecd44bb9cdf

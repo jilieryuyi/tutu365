@@ -8,7 +8,7 @@
 7487、_russian_Наследник великой Франции_Лепеллетье Эдмон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac091e27c28dd5b37d125e82a7319a6f

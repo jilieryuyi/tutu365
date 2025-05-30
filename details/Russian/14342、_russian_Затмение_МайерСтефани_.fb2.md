@@ -8,7 +8,7 @@
 14342、_russian_Затмение_Майер Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a7d5e31fab1ee4eff7e8d5cf7d8f527

@@ -8,7 +8,7 @@
 12626、_russian_Снежное свидание_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cef6436b1fbc4c9ef0045d6b3cc221d6

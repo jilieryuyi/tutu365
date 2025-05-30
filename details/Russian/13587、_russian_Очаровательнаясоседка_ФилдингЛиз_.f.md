@@ -8,7 +8,7 @@
 13587、_russian_Очаровательная соседка_Филдинг Лиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fce7fed5f53dbd6484a50c09e9609526

@@ -8,7 +8,7 @@
 333、_russian_Бодлер_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6211e3dab57bcb457147fce752b886e5

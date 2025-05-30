@@ -8,7 +8,7 @@
 8949、_russian__Людоед__Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9283b0cf6e5f392bf799873a99ef6348

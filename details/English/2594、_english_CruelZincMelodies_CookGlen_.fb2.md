@@ -8,7 +8,7 @@
 2594、_english_Cruel Zinc Melodies_Cook Glen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6aa099fc41e41ded2865833896d4916e

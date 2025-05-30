@@ -8,7 +8,7 @@
 18、_russian_Рог_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f8df245eaee66e2b1141eb70be67c9b

@@ -8,7 +8,7 @@
 11302、_russian_Чаинки_Алешковский Юз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c777aa698eea129129bedc60b9c2aa2

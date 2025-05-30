@@ -8,7 +8,7 @@
 4092、_russian_Журавль в руках_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1004a0123c5b74b439cd67df9f587da

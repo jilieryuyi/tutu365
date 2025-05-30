@@ -8,7 +8,7 @@
 论法治_布莱恩·Z. 塔玛纳哈_武汉大学出版社_5533340_9b50884636955a265f4cdbc462f70de2.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9b50884636955a265f4cdbc462f70de2

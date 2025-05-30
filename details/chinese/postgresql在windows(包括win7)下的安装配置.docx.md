@@ -8,7 +8,7 @@
 postgresql在windows(包括win7)下的安装配置.docx.docx
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3f60d7c45a10a0fd89918dd4e2494e49

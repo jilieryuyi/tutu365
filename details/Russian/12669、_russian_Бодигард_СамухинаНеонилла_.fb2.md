@@ -8,7 +8,7 @@
 12669、_russian_Бодигард_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6717c4f97706cc3f39ce8b3f14d2d385

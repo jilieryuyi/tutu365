@@ -8,7 +8,7 @@
 2054、Linux多线程服务端编程_使用muduo C++网络库_陈硕_电子工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 83303822fea01d2be919726edb9e9374

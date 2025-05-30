@@ -8,7 +8,7 @@
 9724、_russian_Офицер. Сильные впечатления_Морозов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 365192c6addcf3a89c236b366bd4bbf4

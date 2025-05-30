@@ -8,7 +8,7 @@
 14288、_russian_Дороже всех сокровищ_Браун Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c3aae9e01b19e29836d3f1e2d04548c

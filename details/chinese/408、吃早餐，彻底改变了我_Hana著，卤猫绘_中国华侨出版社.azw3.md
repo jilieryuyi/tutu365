@@ -8,7 +8,7 @@
 408、吃早餐，彻底改变了我_Hana著，卤猫绘_中国华侨出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 729c7476a429339a903eeb829df0e288

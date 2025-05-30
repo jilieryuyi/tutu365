@@ -8,7 +8,7 @@
 10384、_russian_Библия Раджниша. Том 1. Книга 2_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c114c1ef336c798ee4bb64bca7399a53

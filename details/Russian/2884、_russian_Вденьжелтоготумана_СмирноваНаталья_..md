@@ -8,7 +8,7 @@
 2884、_russian_В день желтого тумана_Смирнова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e63495a56d495a31f6d0fba3ce9d86d

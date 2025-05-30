@@ -8,7 +8,7 @@
 9972、_russian_Исход [= Почему вымерли динозавры]_Журавлев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dea3abdd6d9a4444ce5f7beec769f18e

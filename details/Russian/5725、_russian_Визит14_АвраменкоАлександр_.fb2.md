@@ -8,7 +8,7 @@
 5725、_russian_Визит 14_Авраменко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8a9c453a22826fc71f145d78c3816c0

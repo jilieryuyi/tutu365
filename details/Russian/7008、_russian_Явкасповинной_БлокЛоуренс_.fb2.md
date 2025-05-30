@@ -8,7 +8,7 @@
 7008、_russian_Явка с повинной_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 453e682f7076d42c5400fe2c6159a80b

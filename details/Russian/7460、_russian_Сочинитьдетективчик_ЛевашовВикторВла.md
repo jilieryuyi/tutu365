@@ -8,7 +8,7 @@
 7460、_russian_Сочинить детективчик_Левашов Виктор Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 988d2039c0bdc35645bd6d91c055682d

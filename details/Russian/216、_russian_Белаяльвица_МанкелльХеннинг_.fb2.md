@@ -8,7 +8,7 @@
 216、_russian_Белая львица_Манкелль Хеннинг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f91477a46fda6ee1deebb390f35f5419

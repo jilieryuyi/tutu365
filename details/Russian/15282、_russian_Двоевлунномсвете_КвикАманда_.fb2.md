@@ -8,7 +8,7 @@
 15282、_russian_Двое в лунном свете_Квик Аманда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cb1a828e9b3cf181d612b7369eca25c

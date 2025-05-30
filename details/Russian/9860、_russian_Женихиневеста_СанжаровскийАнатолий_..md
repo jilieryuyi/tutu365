@@ -8,7 +8,7 @@
 9860、_russian_Жених и невеста_Санжаровский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de1b857403764f28e7b656661bb535b8

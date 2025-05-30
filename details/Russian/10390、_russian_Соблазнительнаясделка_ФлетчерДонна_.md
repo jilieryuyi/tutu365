@@ -8,7 +8,7 @@
 10390、_russian_Соблазнительная сделка_Флетчер Донна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebac355a57d2f16145b6146627196a5f

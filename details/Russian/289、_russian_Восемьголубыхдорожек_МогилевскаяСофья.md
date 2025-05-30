@@ -8,7 +8,7 @@
 289、_russian_Восемь голубых дорожек_Могилевская Софья Абрамовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a4f44fdd9b0ff3715b17e1565d9ebdf

@@ -8,7 +8,7 @@
 13294、_russian_Странное заявление_Кристенберри Джуди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e79ef8fc3a8f46d76ea5de0dba767dd

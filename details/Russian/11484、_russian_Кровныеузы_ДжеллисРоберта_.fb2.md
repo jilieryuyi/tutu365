@@ -8,7 +8,7 @@
 11484、_russian_Кровные узы_Джеллис Роберта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cebda41ea57e4d7ae86b8de26565fe16

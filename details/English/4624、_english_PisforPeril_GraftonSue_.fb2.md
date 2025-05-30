@@ -8,7 +8,7 @@
 4624、_english_P is for Peril_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 48756651d5f74b423c83d710ade54415

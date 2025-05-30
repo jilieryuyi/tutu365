@@ -8,7 +8,7 @@
 6444、_russian_Опов_дання, сценар___Подерв'янський Лесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd001b8e1640cc221b71d66cb935ddc2

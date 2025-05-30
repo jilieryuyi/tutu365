@@ -8,7 +8,7 @@
 6572、_russian_Дилетант_Гилберт Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f20d8403f14a635a4ff0e3a23568aa26

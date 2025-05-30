@@ -8,7 +8,7 @@
 14934、_russian_Тень в зеркале_Ирвин Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e50de77324d7908d36f384d2945922c

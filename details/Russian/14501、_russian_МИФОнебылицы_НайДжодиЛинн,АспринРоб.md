@@ -8,7 +8,7 @@
 14501、_russian_МИФОнебылицы_Най Джоди Линн, Асприн Роберт Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c481bca8a2996cc20bb2fae16d26c4e3

@@ -8,7 +8,7 @@
 10092、_russian_Колдовская компания_Баумгертнер Ольга Гартвиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cee1641a9ccc1770d7bbfcc09288fbc8

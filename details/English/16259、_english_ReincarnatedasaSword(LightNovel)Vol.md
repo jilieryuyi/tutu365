@@ -8,7 +8,7 @@
 16259、_english_Reincarnated as a Sword (Light Novel) Vol. 1_Yuu Tanaka_Seven Seas Entertainment.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 96e99153a29a64c16d04b68dab8f60b8

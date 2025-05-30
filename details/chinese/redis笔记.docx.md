@@ -8,7 +8,7 @@
 redis笔记.docx.docx
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5fcb60d4918d29c3653acebc23e65e61

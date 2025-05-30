@@ -8,7 +8,7 @@
 4766、_english_The Laird's Choice_Amanda Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 aac7e1ac0fb4a0a0ad2256535702f901

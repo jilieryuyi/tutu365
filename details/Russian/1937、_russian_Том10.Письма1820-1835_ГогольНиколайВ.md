@@ -8,7 +8,7 @@
 1937、_russian_Том 10. Письма 1820-1835_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be6ebb3d6b02dca64345f7115814c8c3

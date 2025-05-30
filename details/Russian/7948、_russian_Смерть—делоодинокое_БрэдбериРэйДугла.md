@@ -8,7 +8,7 @@
 7948、_russian_Смерть — дело одинокое_Брэдбери Рэй Дуглас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45518b8413704c593dac42a5234a68fc

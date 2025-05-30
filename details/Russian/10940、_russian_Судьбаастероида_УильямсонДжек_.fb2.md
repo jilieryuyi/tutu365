@@ -8,7 +8,7 @@
 10940、_russian_Судьба астероида_Уильямсон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f0e88e6998421b34e92141d2c35a139

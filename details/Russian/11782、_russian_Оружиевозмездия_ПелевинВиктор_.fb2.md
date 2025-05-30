@@ -8,7 +8,7 @@
 11782、_russian_Оружие возмездия_Пелевин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6351597947f2ece5b4a1ee3f33d06e8f

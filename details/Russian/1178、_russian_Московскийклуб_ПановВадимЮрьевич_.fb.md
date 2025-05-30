@@ -8,7 +8,7 @@
 1178、_russian_Московский клуб_Панов Вадим Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc0f560dce93a95aa87a7f6469f4fd8c

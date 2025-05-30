@@ -8,7 +8,7 @@
 8060、_russian_Будьте как дети_Шаров Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7252753fe590948b5a27842d997f0544

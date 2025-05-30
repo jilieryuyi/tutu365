@@ -8,7 +8,7 @@
 5435、_russian_Ордынский дефолт_Кеслер Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5d34b6177e35cb368a9897585bb142e

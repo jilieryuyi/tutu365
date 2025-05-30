@@ -8,7 +8,7 @@
 474、穷忙 (译文纪实)_戴维·希普勒（David K. Shipler）_上海译文出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 86189264fb2834ac7f0657d783d77177

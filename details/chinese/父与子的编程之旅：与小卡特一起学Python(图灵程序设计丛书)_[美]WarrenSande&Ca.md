@@ -8,7 +8,7 @@
 父与子的编程之旅：与小卡特一起学Python (图灵程序设计丛书)_[美]Warren Sande & Carter Sande_人民邮电出版社_5485711_3489ff57890acdc3f01ddcbcab9b7e20.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3489ff57890acdc3f01ddcbcab9b7e20

@@ -8,7 +8,7 @@
 jquery1.7.chm.chm
 
 ## 语言(language)
-English
+english
 
 ## MD5
 20c132e72b50501d0104858c2dcf79ce

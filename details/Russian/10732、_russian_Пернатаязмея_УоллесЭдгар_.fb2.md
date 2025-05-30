@@ -8,7 +8,7 @@
 10732、_russian_Пернатая змея_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a244140f6e1732e982f9b4440e49e94

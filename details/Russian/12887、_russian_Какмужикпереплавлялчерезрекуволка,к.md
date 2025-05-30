@@ -8,7 +8,7 @@
 12887、_russian_Как мужик переплавлял через реку волка, козу и капусту_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1eefeba3af4ef92ff769c0a7690a20b

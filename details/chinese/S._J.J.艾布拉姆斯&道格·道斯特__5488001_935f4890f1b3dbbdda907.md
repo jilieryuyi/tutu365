@@ -8,7 +8,7 @@
 S._J.J.艾布拉姆斯 & 道格·道斯特__5488001_935f4890f1b3dbbdda907a86eb993fd2.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 935f4890f1b3dbbdda907a86eb993fd2

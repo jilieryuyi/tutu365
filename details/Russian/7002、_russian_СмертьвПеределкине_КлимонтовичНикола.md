@@ -8,7 +8,7 @@
 7002、_russian_Смерть в Переделкине_Климонтович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef06685d23b2ee34394ed62e2e1ab7f2

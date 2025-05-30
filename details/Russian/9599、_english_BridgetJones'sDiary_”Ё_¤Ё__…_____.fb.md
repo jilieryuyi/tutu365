@@ -8,7 +8,7 @@
 9599、_english_Bridget Jones's Diary_”Ё_¤Ё__ …_____.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2153073abea292b0d3d6fd603aeef18

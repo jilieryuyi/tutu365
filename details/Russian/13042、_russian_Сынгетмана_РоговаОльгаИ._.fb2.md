@@ -8,7 +8,7 @@
 13042、_russian_Сын гетмана_Рогова Ольга И._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1698f6c8cd1de41dd50e32ed4eddf0f

@@ -8,7 +8,7 @@
 8510、_russian_На краю Ойкумены_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4301d38fc295057f416ec07164416a95

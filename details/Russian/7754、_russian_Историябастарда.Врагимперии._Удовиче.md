@@ -8,7 +8,7 @@
 7754、_russian_История бастарда. Враг империи._Удовиченко Диана Донатовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4cf3d6e4ae769b86eef8aa56553bcd0

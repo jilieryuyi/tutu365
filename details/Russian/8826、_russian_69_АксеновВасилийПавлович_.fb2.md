@@ -8,7 +8,7 @@
 8826、_russian_69_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9ae8dd190266a851c3383fbca882125

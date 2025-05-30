@@ -8,7 +8,7 @@
 6946、_russian_Система вещей_Бодрийяр Жан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77544641e856bbbe4472483a5cedbc71

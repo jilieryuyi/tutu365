@@ -8,7 +8,7 @@
 2516、_russian_Тяжело быть младшим…_Иванова Виктория, Баштовая Ксения_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80753cb5ed23a5e399b2f2cc4d0c98c4

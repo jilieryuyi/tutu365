@@ -8,7 +8,7 @@
 3681、_other_Отрок_neo_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 270366c1504bf98346b38aa6db51159c

@@ -8,7 +8,7 @@
 10948、_english_A Rake's Redemption_Cynthia Breeding_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8e4eaec4883c64850e641966b71e1ce2

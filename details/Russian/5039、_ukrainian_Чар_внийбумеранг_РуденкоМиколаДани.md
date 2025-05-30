@@ -8,7 +8,7 @@
 5039、_ukrainian_Чар_вний бумеранг_Руденко Микола Данилович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 877098eb332615fa38fcd7415dbe0c1f

@@ -8,7 +8,7 @@
 4640、_russian_Владыка Сардуора (Главы 1-6)_Зыков Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9fd1c4c04da8a1f5cc0c47f2cc682a9

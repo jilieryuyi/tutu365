@@ -8,7 +8,7 @@
 图灵程序设计丛书：大规模数据处理入门与实战（套装全10册 Kafka权威指南 Flink基础教程 数据科学实战 SQL反模式 SQL必知必会（第4版） Spark快速大数....epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e943845c6df0786e61c5535784f57018

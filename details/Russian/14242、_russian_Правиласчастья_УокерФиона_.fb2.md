@@ -8,7 +8,7 @@
 14242、_russian_Правила счастья_Уокер Фиона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24c997c97f96b2fe724a7e364e36c9f4

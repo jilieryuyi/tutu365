@@ -8,7 +8,7 @@
 14958、_russian_Мать Лжи_Дункан Дэйв_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81dd5891408ae54d3811fa6f3e90f184

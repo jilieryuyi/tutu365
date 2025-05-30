@@ -8,7 +8,7 @@
 13247、_russian_Падение_Голестан Эбрахим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31a57600bad6f7fc4bdb9d73d29dbcb7

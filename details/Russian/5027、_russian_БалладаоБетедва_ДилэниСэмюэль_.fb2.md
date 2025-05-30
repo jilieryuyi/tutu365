@@ -8,7 +8,7 @@
 5027、_russian_Баллада о Бете два_Дилэни Сэмюэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09b72d8ffde491032c2608ececb47dc3

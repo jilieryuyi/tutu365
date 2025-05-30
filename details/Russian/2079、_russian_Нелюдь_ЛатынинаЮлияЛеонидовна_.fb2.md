@@ -8,7 +8,7 @@
 2079、_russian_Нелюдь_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 539cea6f4524471a418b72c8b0674040

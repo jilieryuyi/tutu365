@@ -8,7 +8,7 @@
 6517、_russian_Игры больших детей_Байкалов Дмитрий, Синицын Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a76103bd73f95d09ae8739ad7ffe218

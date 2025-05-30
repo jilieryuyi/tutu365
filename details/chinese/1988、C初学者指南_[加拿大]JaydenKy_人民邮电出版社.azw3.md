@@ -8,7 +8,7 @@
 1988、C#初学者指南_[加拿大]Jayden Ky_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d6f40e14ece03182f90d1ed1eea8247c

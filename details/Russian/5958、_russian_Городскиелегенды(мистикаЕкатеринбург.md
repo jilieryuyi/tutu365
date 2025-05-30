@@ -8,7 +8,7 @@
 5958、_russian_Городские легенды (мистика Екатеринбурга)_Хуснуллин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8ff1d443fe7fbede50c35fedc448419

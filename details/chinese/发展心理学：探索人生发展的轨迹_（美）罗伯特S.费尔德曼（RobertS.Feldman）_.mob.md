@@ -8,7 +8,7 @@
 发展心理学：探索人生发展的轨迹_（美）罗伯特 S.费尔德曼（Robert S.Feldman）_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d111ccfc57bd7d945a20d791d1ceab9c

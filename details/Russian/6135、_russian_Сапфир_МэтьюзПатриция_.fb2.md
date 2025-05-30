@@ -8,7 +8,7 @@
 6135、_russian_Сапфир_Мэтьюз Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22c83b32e8012b06e2b1412fb7ff7041

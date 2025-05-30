@@ -8,7 +8,7 @@
 3161、_russian_Через улицу_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 809e25b5452967dd61b2082d8046f7e5

@@ -8,7 +8,7 @@
 5515、_russian_Клановое проклятие_Ковальчук Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1aea4b9ef226bed51b36cc7f4144a81f

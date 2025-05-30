@@ -8,7 +8,7 @@
 12600、_russian_Не повезло_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa9a48ad3e60072c0f72d9119b573d49

@@ -8,7 +8,7 @@
 6650、_russian_Злое счастье_Астахова Людмила Викторовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b81e6cfd3d56e44899b0b41c4f8454ce

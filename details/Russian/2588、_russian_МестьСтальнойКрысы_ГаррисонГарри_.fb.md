@@ -8,7 +8,7 @@
 2588、_russian_Месть Стальной Крысы_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4579e116677614dffda607932f9214df

@@ -8,7 +8,7 @@
 8452、_russian_Одиссея (пер. В. В. Вересаева)_Гомер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b4915b7b7c7faa2901d04925e531f28

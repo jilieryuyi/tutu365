@@ -8,7 +8,7 @@
 40、_russian_Рассказы_Макаренков Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc5dc8e16a42214cb401beac5f86dcd7

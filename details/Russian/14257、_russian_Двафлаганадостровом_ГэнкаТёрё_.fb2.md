@@ -8,7 +8,7 @@
 14257、_russian_Два флага над островом_Гэнка Тёрё_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bdde469df4272ff0f9fc70742fb756b

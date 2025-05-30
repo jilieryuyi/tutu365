@@ -8,7 +8,7 @@
 8912、_russian_Путь Гладиатора_Табб Эдвин Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1f3cf46f3ac34b821dc3bd82d1a5a36

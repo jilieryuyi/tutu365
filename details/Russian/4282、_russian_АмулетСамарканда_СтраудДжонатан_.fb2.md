@@ -8,7 +8,7 @@
 4282、_russian_Амулет Самарканда_Страуд Джонатан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f61912473f5a2f4dfea3c78fe0e0f402

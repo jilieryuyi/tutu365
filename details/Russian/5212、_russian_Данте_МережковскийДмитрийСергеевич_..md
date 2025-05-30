@@ -8,7 +8,7 @@
 5212、_russian_Данте_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7df9e12b4e11f060a1247c0b324708b4

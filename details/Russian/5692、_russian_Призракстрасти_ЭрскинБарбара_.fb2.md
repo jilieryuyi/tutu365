@@ -8,7 +8,7 @@
 5692、_russian_Призрак страсти_Эрскин Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f7e7c0553c92d8dda8471bc89cf40e3

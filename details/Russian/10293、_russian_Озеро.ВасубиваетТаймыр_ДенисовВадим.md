@@ -8,7 +8,7 @@
 10293、_russian_Озеро. Вас убивает Таймыр_Денисов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b09f8855a40bc8f784727e8754407b3a

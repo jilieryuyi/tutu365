@@ -8,7 +8,7 @@
 499、_russian_В подвалах отеля Мажестик_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d721cd9dc973eaff2a01a82e9c6cc0ef

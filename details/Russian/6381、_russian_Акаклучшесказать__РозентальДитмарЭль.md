@@ -8,7 +8,7 @@
 6381、_russian_А как лучше сказать__Розенталь Дитмар Эльяшевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38b47cebf3cdfc8cc78c4b47f0eecbc9

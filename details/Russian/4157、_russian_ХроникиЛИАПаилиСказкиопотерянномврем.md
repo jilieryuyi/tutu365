@@ -8,7 +8,7 @@
 4157、_russian_Хроники ЛИАПа или Сказки о потерянном времени_Точинов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d36bcadddc2ca95b7d4981fb5d4d5de

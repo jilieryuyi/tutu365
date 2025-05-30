@@ -8,7 +8,7 @@
 6372、_russian_Форрест Гамп_Грум Уинстон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8521fa8099d46a3c1840e862c86496b1

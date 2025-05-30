@@ -8,7 +8,7 @@
 6023、_russian_Ideal жертвы_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52d8702d6b74b7c596c6bc6f7a7844ce

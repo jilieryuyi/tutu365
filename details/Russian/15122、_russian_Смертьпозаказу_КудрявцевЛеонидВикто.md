@@ -8,7 +8,7 @@
 15122、_russian_Смерть по заказу_Кудрявцев Леонид Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cde7083778ace4afadd6fb4a53b9550a

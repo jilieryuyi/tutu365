@@ -8,7 +8,7 @@
 7355、_russian_Октябрьская страна (The October Country), 1955_Бредбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 827d511cd84232872c8670f0f7686610

@@ -8,7 +8,7 @@
 6442、_russian_Ключ от бездны_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d9b96fb245ca81a55f5441a68920646

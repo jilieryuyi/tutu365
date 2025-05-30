@@ -8,7 +8,7 @@
 12606、_russian_Дачная история_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45b2e0810ba27358e98cd9eda281fb0b

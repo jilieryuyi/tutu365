@@ -8,7 +8,7 @@
 5984、_russian_Ручей на Япете (сборник)_Михайлов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5ea866ef9e3d6d35f14e6e097b01d99

@@ -8,7 +8,7 @@
 8199、_russian_Этюды любви и ненависти_Дудаков Савелий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 142c6bb9402b25fc4fae2c7502a77fbe

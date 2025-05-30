@@ -8,7 +8,7 @@
 143、指挥大师的领导课_（以）伊泰·塔尔格玛（Itay Talgam） & 阙艺译_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 21ee560ce26697cd1326d0d9ae8232d2

@@ -8,7 +8,7 @@
 5322、_russian_Беппо_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9c00f424c58399f03abb230138e15fe

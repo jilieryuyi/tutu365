@@ -8,7 +8,7 @@
 7708、_russian_Nevermore_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df0623e98ad621a09e3c6f7e76ce4586

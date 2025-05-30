@@ -8,7 +8,7 @@
 5994、_russian_Несбывшаяся поэма_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee320f8aa827850c7a1b2db2f0dcb2cc

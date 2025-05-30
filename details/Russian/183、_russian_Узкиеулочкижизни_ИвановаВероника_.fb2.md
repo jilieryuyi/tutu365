@@ -8,7 +8,7 @@
 183、_russian_Узкие улочки жизни_Иванова Вероника_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e1a3efa00a226b7e64aacf7b9ecc289

@@ -8,7 +8,7 @@
 2602、_russian_Нечаянный король_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d1bf44cc1c12a015875493f73dc6855

@@ -8,7 +8,7 @@
 13499、_russian_Открытие сезона_Данвилл Джойс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa5e69ab6844986f2e4c226854e496b6

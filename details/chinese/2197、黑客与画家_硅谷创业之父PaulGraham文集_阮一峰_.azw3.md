@@ -8,7 +8,7 @@
 2197、黑客与画家_硅谷创业之父Paul Graham文集_阮一峰_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a4cb5c0a8f9a271f69856e80052aefaa

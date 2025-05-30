@@ -8,7 +8,7 @@
 11515、_russian_Звездный рыцарь_Джой Дэйра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d5629653a1b00bc6534ab0375b1bf1f

@@ -8,7 +8,7 @@
 5401、_russian_Тамплиеры_Рид Пирс Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abd61a4abbccdf6950df37bc1a6ad4db

@@ -8,7 +8,7 @@
 13328、_russian_Родненький_Проханов Александр Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94163dd78be55764403e525b57aa321c

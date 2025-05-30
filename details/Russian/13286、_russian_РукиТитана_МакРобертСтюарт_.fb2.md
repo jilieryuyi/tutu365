@@ -8,7 +8,7 @@
 13286、_russian_Руки Титана_МакРоберт Стюарт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e041b95a629934612a95e4eff9a7c096

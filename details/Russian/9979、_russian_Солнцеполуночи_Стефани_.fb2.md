@@ -8,7 +8,7 @@
 9979、_russian_Солнце полуночи_Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 285c193cc848def1e66575d7b42ca30c

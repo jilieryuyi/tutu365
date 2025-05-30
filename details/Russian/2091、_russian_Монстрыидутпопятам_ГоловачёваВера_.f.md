@@ -8,7 +8,7 @@
 2091、_russian_Монстры идут по пятам_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db46f7a750eac775b51112406401cea0

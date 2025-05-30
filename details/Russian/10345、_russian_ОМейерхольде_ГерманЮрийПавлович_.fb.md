@@ -8,7 +8,7 @@
 10345、_russian_О Мейерхольде_Герман Юрий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bfb128dbe24b950c7fa154b4d410bf3

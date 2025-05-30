@@ -8,7 +8,7 @@
 571、_russian_Три незадачливых бородача_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a313d4c779740f8d8de5596f23a4117

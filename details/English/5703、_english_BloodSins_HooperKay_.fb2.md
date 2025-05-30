@@ -8,7 +8,7 @@
 5703、_english_Blood Sins_Hooper Kay_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0649b6a3a298bc9157e95ed6743fb431

@@ -8,7 +8,7 @@
 2642、_english_Dark Obsession_Lynette Eason [Eason, Lynette]_Harlequin.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e5df8e7ff524d09c13be65ca4b10c222

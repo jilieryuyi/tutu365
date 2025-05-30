@@ -8,7 +8,7 @@
 7137、_russian_Чья Луна Упала В Речку_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c74f5f1795469ce5e047d012ae3ef91c

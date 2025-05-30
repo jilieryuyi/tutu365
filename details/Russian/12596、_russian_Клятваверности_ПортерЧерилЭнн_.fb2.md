@@ -8,7 +8,7 @@
 12596、_russian_Клятва верности_Портер Черил Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d034450b269179ead59d5afbb384d01

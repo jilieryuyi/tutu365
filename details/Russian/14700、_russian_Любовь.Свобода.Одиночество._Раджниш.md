@@ -8,7 +8,7 @@
 14700、_russian_Любовь. Свобода. Одиночество._Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a13e24f88fcc61ceb4bcd5a893621636

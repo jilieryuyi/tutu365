@@ -8,7 +8,7 @@
 宪章运动史_[英]R.G.甘米奇_商务印书馆_5349287_8c541ea7b9f1a898b5cbf38fbcd137b7.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8c541ea7b9f1a898b5cbf38fbcd137b7

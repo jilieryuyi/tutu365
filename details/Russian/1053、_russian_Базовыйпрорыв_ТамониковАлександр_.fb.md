@@ -8,7 +8,7 @@
 1053、_russian_Базовый прорыв_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f98e46c78fe88add2631a50e55b443f

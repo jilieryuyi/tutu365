@@ -8,7 +8,7 @@
 13760、_russian_Как я стал привидением_Некрасова Мария Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fa316c0a31aa9a38bf03b1cd71489f5

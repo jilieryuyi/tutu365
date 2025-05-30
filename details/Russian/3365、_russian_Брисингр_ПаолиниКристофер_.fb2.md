@@ -8,7 +8,7 @@
 3365、_russian_Брисингр_Паолини Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e4b5986e997017ca0c5520b73d486fc

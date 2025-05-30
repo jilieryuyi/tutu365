@@ -8,7 +8,7 @@
 4472、_russian_Тихая мелодия_О'Брайен Кетлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae0a911a9a147683b57507bf6149ef99

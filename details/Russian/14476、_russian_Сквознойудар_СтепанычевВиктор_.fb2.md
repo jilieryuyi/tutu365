@@ -8,7 +8,7 @@
 14476、_russian_Сквозной удар_Степанычев Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58a1c542f9a28580aa91f470d841892b

@@ -8,7 +8,7 @@
 12189、_russian_Злоцветы_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8eb9026d0f73614cf7a58a53d3c42ea5

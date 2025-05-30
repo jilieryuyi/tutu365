@@ -8,7 +8,7 @@
 2746、_english_The Prince's Bride_Victoria Alexander_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8cd297bf74e126b28df1945a230e1067

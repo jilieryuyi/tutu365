@@ -8,7 +8,7 @@
 13167、_russian_Праздник лета_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 809b14b4860d93839a4b33672f0b77c3

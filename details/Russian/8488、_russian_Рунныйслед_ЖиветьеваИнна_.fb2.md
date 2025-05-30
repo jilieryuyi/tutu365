@@ -8,7 +8,7 @@
 8488、_russian_Рунный след_Живетьева Инна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50f3c8c08e583da28878f7964a4b2507

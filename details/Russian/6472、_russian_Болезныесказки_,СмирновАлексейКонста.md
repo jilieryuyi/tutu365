@@ -8,7 +8,7 @@
 6472、_russian_Болезные сказки_, Смирнов Алексей Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d648db103a723e543eb6b37e67995ae0

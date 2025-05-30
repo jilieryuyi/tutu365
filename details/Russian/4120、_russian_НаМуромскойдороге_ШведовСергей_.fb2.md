@@ -8,7 +8,7 @@
 4120、_russian_На Муромской дороге_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b24e8630245d5696c5c5bf1cb84b55d

@@ -8,7 +8,7 @@
 4747、_russian_От сентиментализма к романтизму и реализму_Авторов Коллектив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 046c8ead10371e1edf79e2c3cb1f7d37

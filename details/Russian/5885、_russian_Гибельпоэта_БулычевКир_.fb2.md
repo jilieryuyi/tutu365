@@ -8,7 +8,7 @@
 5885、_russian_Гибель поэта_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3888e614c39efe477532beef3697bba

@@ -8,7 +8,7 @@
 2526、_russian_Статьи_Кляйн Наоми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f3994f01e1cc409409a5dea2c217215

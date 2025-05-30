@@ -8,7 +8,7 @@
 14524、_russian_Китовый чемодан_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 757d069e593e8d13010ac4ee79d97d76

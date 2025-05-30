@@ -8,7 +8,7 @@
 1984、_russian_Стихи и проза_ИРТЕНЬЕВ ИГОРЬ Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5223c8f31aba530d283a7cab388d82f

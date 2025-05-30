@@ -8,7 +8,7 @@
 13684、_russian_Честь Маллинеров_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6aac4aa8b1d63d9e08d6f12cb2639f3e

@@ -8,7 +8,7 @@
 15051、_russian_Восход Водолея (сборник)_Шалыгин Вячеслав Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e467e6cf07ab3996deef60b5d989cc26

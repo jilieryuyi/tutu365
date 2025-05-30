@@ -8,7 +8,7 @@
 12409、_russian_Медуза_ прыжок тигра._Чалкер Джек Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3177bd360965757d0ae6aa73a017a9c9

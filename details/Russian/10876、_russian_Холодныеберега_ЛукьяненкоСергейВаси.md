@@ -8,7 +8,7 @@
 10876、_russian_Холодные берега_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 267d751f4672dc750b89a1d88fb444da

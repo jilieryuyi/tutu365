@@ -8,7 +8,7 @@
 1374、_russian_СКИФИЙСКАЯ ИСТОРИЯ_ИВАНОВИЧ ЛЫЗЛОВ АНДРЕЙ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6b082a2a3b5457d6ab3c65cca5697bc

@@ -8,7 +8,7 @@
 13909、_russian_Последнее дело Друри Лейна_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e11b1921bddb9caed24fdd4929f3a6b

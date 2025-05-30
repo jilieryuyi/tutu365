@@ -8,7 +8,7 @@
 7336、_russian_Вечные спутники_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2a9e93513ccccac00196405260df173

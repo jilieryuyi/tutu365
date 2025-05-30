@@ -8,7 +8,7 @@
 12218、_russian_Враг и союзник_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bdbaefc3c942661428ad4035ae78707

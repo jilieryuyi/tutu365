@@ -8,7 +8,7 @@
 7179、_russian_РАЗБИТЫЙ КОМПАС УКАЗЫВАЕТ ПУТЬ_Галковский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c11ee96c9508a89f5bfdf2499b99b612

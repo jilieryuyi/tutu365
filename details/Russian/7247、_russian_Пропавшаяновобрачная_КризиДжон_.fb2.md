@@ -8,7 +8,7 @@
 7247、_russian_Пропавшая новобрачная_Кризи Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc3eb841da3755e900bbe791a87ea700

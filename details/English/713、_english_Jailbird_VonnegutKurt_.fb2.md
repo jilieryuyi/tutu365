@@ -8,7 +8,7 @@
 713、_english_Jailbird_Vonnegut Kurt_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3a1d4bc1c3a9ff284ebd092fcfe92e7e

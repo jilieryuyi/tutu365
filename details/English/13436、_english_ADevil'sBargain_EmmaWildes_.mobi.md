@@ -8,7 +8,7 @@
 13436、_english_A Devil's Bargain_Emma Wildes_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cf857cb14f4795ac5b5e83a97fb8073e

@@ -8,7 +8,7 @@
 14879、_russian_В мгновение ока_Брэдбери Рэй Дуглас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa8f55a4e7d2851d843d9e1105961706

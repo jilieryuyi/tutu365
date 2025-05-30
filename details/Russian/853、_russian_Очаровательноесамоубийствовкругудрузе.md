@@ -8,7 +8,7 @@
 853、_russian_Очаровательное самоубийство в кругу друзей_Паасилинна Арто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4bdbb1ca65cc956a2bde01a9a7fd407

@@ -8,7 +8,7 @@
 12612、_russian_Агент ТГБ или приключения Одиссея_Видар Гарм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 055e9be57fe8a442b7cafdd02a8049ab

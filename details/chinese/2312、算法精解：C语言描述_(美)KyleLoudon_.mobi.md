@@ -8,7 +8,7 @@
 2312、算法精解：C语言描述_(美)Kyle Loudon_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e9a004322456622b08b415bcdd3de444

@@ -8,7 +8,7 @@
 11010、_russian_Зыбучий песок_Браннер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7fd911dad4ee3adf48b26ee055da35c

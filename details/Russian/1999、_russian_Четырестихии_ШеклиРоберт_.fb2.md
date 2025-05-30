@@ -8,7 +8,7 @@
 1999、_russian_Четыре стихии_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a916edf6135a23420f8909768f9f9a8c

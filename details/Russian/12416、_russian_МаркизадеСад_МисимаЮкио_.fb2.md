@@ -8,7 +8,7 @@
 12416、_russian_Маркиза де Сад_Мисима Юкио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c25e7726e10d250d709471a98574fe28

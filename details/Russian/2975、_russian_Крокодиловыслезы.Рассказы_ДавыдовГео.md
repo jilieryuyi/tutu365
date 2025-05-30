@@ -8,7 +8,7 @@
 2975、_russian_Крокодиловы слезы .Рассказы_Давыдов Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70bd193da206e4ab1def10d24d137397

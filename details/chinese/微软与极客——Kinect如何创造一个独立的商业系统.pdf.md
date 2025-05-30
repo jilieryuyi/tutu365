@@ -8,7 +8,7 @@
 微软与极客——Kinect如何创造一个独立的商业系统.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f54d1cef22a3bc6d1cd24cbf4692995a

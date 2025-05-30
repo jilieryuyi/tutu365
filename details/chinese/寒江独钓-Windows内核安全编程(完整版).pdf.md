@@ -8,7 +8,7 @@
 寒江独钓-Windows内核安全编程(完整版).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5b11362505e1fb02d610ddf9b63ef30b

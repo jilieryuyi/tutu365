@@ -8,7 +8,7 @@
 11438、_russian_Тран. Создатель чудовищ_Кинг Джордж Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85c0fed0afc2b9b6601106fbdcd223d3

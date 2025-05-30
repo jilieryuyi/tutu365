@@ -8,7 +8,7 @@
 7409、_russian_Жнецы ветра_Пехов Алексей Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e76d57542f8c6d6c0a0c11f7fb9191f7

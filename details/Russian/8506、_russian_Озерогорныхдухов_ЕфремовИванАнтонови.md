@@ -8,7 +8,7 @@
 8506、_russian_Озеро горных духов_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 842abcad3705b711b2bb6966fcf3d351

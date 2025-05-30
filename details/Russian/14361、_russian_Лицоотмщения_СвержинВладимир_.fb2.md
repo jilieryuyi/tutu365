@@ -8,7 +8,7 @@
 14361、_russian_Лицо отмщения_Свержин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59c4cfb5f0b3f05d591eac8613ffcdc7

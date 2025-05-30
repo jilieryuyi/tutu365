@@ -8,7 +8,7 @@
 9053、_russian_Батяня. Ответный ход_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 749853359bb3826cfc8314ec3d1130cd

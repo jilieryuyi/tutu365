@@ -8,7 +8,7 @@
 2497、_russian_Гаранфил_Ахмедова Азиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 871312b670320d207b5561ecc23fac64

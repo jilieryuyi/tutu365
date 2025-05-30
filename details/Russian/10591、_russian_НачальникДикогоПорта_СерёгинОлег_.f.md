@@ -8,7 +8,7 @@
 10591、_russian_Начальник Дикого Порта_Серёгин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecf9ab92ee611445bb85a92fd644c86f

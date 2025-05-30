@@ -8,7 +8,7 @@
 5941、_russian_Запретное влечение_Пирс Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebd528b4512526fe6ca9a9bed1a1ce91

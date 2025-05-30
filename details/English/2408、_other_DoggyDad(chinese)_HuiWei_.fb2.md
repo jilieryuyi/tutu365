@@ -8,7 +8,7 @@
 2408、_other_Doggy Dad (chinese)_Hui Wei_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5bcbddfef32b33839e7ad79cd118924b

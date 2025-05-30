@@ -8,7 +8,7 @@
 7621、_russian_Ф. М. Том 2_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13b5786ec7be10f90e36a5531d59bf04

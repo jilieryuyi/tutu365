@@ -8,7 +8,7 @@
 13407、_russian_Праздник для всех_Ли Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ae635c20d1c4eb5f9222145b2cb5e43

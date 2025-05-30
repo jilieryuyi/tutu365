@@ -8,7 +8,7 @@
 10139、_russian_Мама и смысл жизни_Ялом Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11108b934d96cc1fbd796c4d3cec80d5

@@ -8,7 +8,7 @@
 11109、_russian_Прямой рейс_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b51ec361cb1b8e5526139bb3ea39a9e

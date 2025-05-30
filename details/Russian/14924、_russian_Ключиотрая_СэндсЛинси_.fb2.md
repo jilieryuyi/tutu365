@@ -8,7 +8,7 @@
 14924、_russian_Ключи от рая_Сэндс Линси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 895eaae03b7b1c2e276ec5896f23e65d

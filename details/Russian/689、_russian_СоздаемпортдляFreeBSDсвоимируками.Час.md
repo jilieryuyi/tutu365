@@ -8,7 +8,7 @@
 689、_russian_Создаем порт для FreeBSD своими руками. Часть II_Ачилов Рашид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b32db74df9868f556c2caf0225a64ce

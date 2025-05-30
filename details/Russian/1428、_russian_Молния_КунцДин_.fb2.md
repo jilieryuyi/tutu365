@@ -8,7 +8,7 @@
 1428、_russian_Молния_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3011526daed09124e15ef5465d5166e

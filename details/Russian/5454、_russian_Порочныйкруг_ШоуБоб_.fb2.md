@@ -8,7 +8,7 @@
 5454、_russian_Порочный круг_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c220d950e089c0a1a77dc91261cc9bfd

@@ -8,7 +8,7 @@
 9703、_russian_Перекличка мертвых_Рэнкин. Иен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73cd6db58623f5eda813399d95792580

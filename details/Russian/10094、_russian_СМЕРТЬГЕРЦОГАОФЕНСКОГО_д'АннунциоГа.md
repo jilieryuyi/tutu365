@@ -8,7 +8,7 @@
 10094、_russian_СМЕРТЬ ГЕРЦОГА ОФЕНСКОГО_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d403b7d4c9a021f0a7d51c72c64b82a

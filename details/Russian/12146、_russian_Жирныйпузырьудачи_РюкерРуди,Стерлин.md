@@ -8,7 +8,7 @@
 12146、_russian_Жирный пузырь удачи_Рюкер Руди, Стерлинг Брюс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0151a0a10f4f22c1dffb70bfaaffdbad

@@ -8,7 +8,7 @@
 2662、_russian_Складные ножи в классическом исполнении_Прорез Журнал, Мещеряков Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7ebbc0ef61f15557d298ae1e7ede7bc

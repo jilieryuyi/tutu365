@@ -8,7 +8,7 @@
 8001、_russian_Катя в Игрушечном городе_Александрова Татьяна, Берестов Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d55ecbaeaf70e3e1ec743e73d0544ac

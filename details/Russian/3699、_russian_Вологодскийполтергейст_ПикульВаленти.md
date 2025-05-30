@@ -8,7 +8,7 @@
 3699、_russian_Вологодский полтергейст_Пикуль Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d34bb1fb10f35ed7a1c7182290bd4824

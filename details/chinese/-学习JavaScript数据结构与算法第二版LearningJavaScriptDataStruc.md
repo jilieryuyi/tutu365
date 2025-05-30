@@ -8,7 +8,7 @@
 -学习JavaScript数据结构与算法第二版 Learning JavaScript Data Structures and Algorithms 2nd Edition_[巴西]格罗纳（LoianeGroner）, 孙晓博, 邓钢, 吴双, 陈迪, 袁源_人民邮电出版社_5304546_09e6c5715fc3c0b79473f30737ad06b2.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 09e6c5715fc3c0b79473f30737ad06b2

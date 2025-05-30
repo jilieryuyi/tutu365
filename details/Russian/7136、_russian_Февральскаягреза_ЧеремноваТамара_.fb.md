@@ -8,7 +8,7 @@
 7136、_russian_Февральская греза_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c122be085915a9d574e920faea0d98ef

@@ -8,7 +8,7 @@
 13388、_russian_Человек, который дружил с электричеством_Лейбер Фриц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 813327bc7b6187f1c4345e4caccc1ae1

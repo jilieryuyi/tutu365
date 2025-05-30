@@ -8,7 +8,7 @@
 3732、_russian_Наполеон и женщины_Массон Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d241dfc088c55443c16db6765cfd838d

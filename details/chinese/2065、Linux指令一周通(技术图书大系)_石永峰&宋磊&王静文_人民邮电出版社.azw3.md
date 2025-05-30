@@ -8,7 +8,7 @@
 2065、Linux指令一周通 (技术图书大系)_石永峰 & 宋磊 & 王静文_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0921f0ec6a8609348fac32686bf5c02a

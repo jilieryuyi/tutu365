@@ -8,7 +8,7 @@
 81、社会工程：安全体系中的人性漏洞_[美]Christopher Hadnagy_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 97ab42cdad7c43b894450c5591b3c165

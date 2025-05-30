@@ -8,7 +8,7 @@
 6547、_russian_Блаженные шуты_Джоан Харрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e720d9a427220fcd725427e4c8a64e0

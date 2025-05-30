@@ -8,7 +8,7 @@
 你的灯亮着吗？：发现问题的真正所在_[美]Donald C. Gause　Gerald M. Weinberg__5476459_c34acc096df0b310b9acb805b2c316d3.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c34acc096df0b310b9acb805b2c316d3

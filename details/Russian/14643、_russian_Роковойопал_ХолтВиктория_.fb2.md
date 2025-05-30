@@ -8,7 +8,7 @@
 14643、_russian_Роковой опал_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 538cbc7ed558114f2b4880a71c0978a1

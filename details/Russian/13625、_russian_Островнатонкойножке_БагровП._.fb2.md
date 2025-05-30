@@ -8,7 +8,7 @@
 13625、_russian_Остров на тонкой ножке_Багров П._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78c21016fa1a5595291f7c8b0b9e52f5

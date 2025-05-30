@@ -8,7 +8,7 @@
 14551、_russian_Шахшанор_Рудазов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33b2544568ac625e58ef6c223d63d024

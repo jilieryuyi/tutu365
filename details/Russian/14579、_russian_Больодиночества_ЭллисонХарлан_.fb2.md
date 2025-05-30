@@ -8,7 +8,7 @@
 14579、_russian_Боль одиночества_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef881ee9e2d3adc79a3f0e14845dfacb

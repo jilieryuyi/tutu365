@@ -8,7 +8,7 @@
 9057、_russian_Пусть икс равен крокодилу_Шарки Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c344c880542a68a0d970992bea625535

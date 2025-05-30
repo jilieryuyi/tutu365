@@ -8,7 +8,7 @@
 8242、_russian_Механическое преимущество_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e5abdae1c9fca9049c851953ff4b142

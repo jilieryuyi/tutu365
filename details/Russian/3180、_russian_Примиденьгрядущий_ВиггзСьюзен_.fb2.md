@@ -8,7 +8,7 @@
 3180、_russian_Прими день грядущий_Виггз Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fc5240936c95ed4e4f0c661541fb044

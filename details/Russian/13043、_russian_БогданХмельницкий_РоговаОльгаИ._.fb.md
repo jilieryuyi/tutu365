@@ -8,7 +8,7 @@
 13043、_russian_Богдан Хмельницкий_Рогова Ольга И._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b04e99bfe166a67050405e4cdf2367a6

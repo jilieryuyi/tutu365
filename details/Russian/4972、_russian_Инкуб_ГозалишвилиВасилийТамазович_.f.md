@@ -8,7 +8,7 @@
 4972、_russian_Инкуб_Гозалишвили Василий Тамазович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ecbeb5ce0cfa37eba73d5c5d179ba14

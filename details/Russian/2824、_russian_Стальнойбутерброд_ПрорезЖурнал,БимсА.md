@@ -8,7 +8,7 @@
 2824、_russian_Стальной бутерброд_Прорез Журнал, Бимс Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6828dad5bc6bc2269e999ced4534142

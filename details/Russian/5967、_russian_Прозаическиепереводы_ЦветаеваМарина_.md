@@ -8,7 +8,7 @@
 5967、_russian_Прозаические переводы_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4132a942251ff60b955f5c0a0013367b

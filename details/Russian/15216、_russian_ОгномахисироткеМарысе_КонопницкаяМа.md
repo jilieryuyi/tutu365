@@ -8,7 +8,7 @@
 15216、_russian_О гномах и сиротке Марысе_Конопницкая Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b81598491a2f1027f068f33ed2aa6ae

@@ -8,7 +8,7 @@
 7236、_russian_Так начиналась война_Баграмян Иван Христофорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee2c90f92f5c1187f401e111a04b8a72

@@ -8,7 +8,7 @@
 976、_russian_Отец-холостяк_Бродерик Аннетт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0097d1bea7ca6328958f7ad3fd861b9

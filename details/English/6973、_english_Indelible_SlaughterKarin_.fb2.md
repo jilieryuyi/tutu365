@@ -8,7 +8,7 @@
 6973、_english_Indelible_Slaughter Karin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cc3840af53825775bfc85f477ce665f7

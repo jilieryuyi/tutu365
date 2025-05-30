@@ -8,7 +8,7 @@
 6136、_russian_Прачка-герцогиня_Лепеллетье Эдмон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07fe4d747487e2ee9f26013e17feb542

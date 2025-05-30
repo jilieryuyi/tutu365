@@ -8,7 +8,7 @@
 4655、_russian_Чудеса в Гусляре (сборник)_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b19d5d42444d301a6f8a64fae4d988bc

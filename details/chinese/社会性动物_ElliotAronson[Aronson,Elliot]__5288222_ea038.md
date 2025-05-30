@@ -8,7 +8,7 @@
 社会性动物_Elliot Aronson [Aronson, Elliot]__5288222_ea03812ce8ade4c575954f47cd75177c.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ea03812ce8ade4c575954f47cd75177c

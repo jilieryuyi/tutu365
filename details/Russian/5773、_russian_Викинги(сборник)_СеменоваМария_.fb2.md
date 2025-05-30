@@ -8,7 +8,7 @@
 5773、_russian_Викинги (сборник)_Семенова Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d0db40081e701088a65115cc02badb8

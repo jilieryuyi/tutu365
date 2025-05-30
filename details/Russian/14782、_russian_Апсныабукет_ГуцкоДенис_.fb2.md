@@ -8,7 +8,7 @@
 14782、_russian_Апсны абукет_Гуцко Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7856f25010d589ad5cc6f14103db093

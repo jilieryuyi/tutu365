@@ -8,7 +8,7 @@
 8527、_russian_Милое коварство_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a717469cda624194f4b5f6dbc024b376

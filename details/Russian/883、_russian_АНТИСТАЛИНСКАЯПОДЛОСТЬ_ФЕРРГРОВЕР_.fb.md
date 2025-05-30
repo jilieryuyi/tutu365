@@ -8,7 +8,7 @@
 883、_russian_АНТИСТАЛИНСКАЯ ПОДЛОСТЬ_ФЕРР ГРОВЕР_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b187d92faafee2c5aef8a1022e7bdf1

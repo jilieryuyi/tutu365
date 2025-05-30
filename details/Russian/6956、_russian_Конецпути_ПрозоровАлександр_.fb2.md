@@ -8,7 +8,7 @@
 6956、_russian_Конец пути_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2a4518f96054af63e9fb7bb45183519

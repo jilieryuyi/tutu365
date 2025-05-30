@@ -8,7 +8,7 @@
 7519、_russian_Той победной весной_Аббасзаде Гусейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 796c0a4a5a531736eed83f4bd12353ec

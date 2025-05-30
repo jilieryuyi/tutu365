@@ -8,7 +8,7 @@
 2139、安全之美 (O'Reilly精品图书系列)_徐波_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 26b7a4d42ea5f6c61f3e1ea7a3cefdcf

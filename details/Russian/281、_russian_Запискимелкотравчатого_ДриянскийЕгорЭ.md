@@ -8,7 +8,7 @@
 281、_russian_Записки мелкотравчатого_Дриянский Егор Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 375ce3fcaa2de5127b760917bfeb7057

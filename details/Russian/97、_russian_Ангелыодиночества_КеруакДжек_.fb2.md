@@ -8,7 +8,7 @@
 97、_russian_Ангелы одиночества_Керуак Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9e8ddaa2883574c43c75f9313b6f68a

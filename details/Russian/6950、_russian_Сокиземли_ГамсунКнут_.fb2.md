@@ -8,7 +8,7 @@
 6950、_russian_Соки земли_Гамсун Кнут_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 289aaedfea361935dd595f2770084870

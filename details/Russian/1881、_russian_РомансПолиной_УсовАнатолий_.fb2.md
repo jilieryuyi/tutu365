@@ -8,7 +8,7 @@
 1881、_russian_Роман с Полиной_Усов Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3687f0ff9e25c3a13f8287e50c4214a7

@@ -8,7 +8,7 @@
 3636、_russian_Творения_Хлебников Велимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e71baddecaf90cd122e1e78acb9130d

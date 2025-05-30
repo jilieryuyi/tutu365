@@ -8,7 +8,7 @@
 10528、_russian_Заметки_Жид Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4c10153f4f6889deddcc42194c55942

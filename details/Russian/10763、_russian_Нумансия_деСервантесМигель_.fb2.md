@@ -8,7 +8,7 @@
 10763、_russian_Нумансия_де Сервантес Мигель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 361adba0dc50726ed16039c038ab3945

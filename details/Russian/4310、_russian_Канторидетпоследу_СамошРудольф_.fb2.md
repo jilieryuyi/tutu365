@@ -8,7 +8,7 @@
 4310、_russian_Кантор идет по следу_Самош Рудольф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8feaf112bf0e96f321deda6d0738e0a9

@@ -8,7 +8,7 @@
 13668、_russian_Тень каравеллы_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1630da7663ef5abb8fced8fbf29f7f2b

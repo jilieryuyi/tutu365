@@ -8,7 +8,7 @@
 11993、_russian_Гуси-гуси, га-га-га…_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0dee7d8986827bd62753d9608ef1ff53

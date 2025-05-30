@@ -8,7 +8,7 @@
 3709、_russian_УЧЕБНИК виртуального пилота_Саломахин Сергей Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c8ddef0152d2c5f8c78fdc5dce99148

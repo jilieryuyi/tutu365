@@ -8,7 +8,7 @@
 8396、_russian_Умри, Йог, умри._Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ef93f3629c7c4e36ff6fb81938fead6

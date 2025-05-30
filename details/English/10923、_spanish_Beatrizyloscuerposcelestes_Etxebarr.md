@@ -8,7 +8,7 @@
 10923、_spanish_Beatriz y los cuerpos celestes_Etxebarria Lucía_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cbb90098f935b04ee60ffb19a4127910

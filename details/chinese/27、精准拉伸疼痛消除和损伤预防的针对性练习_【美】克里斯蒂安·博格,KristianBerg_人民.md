@@ -8,7 +8,7 @@
 27、精准拉伸 疼痛消除和损伤预防的针对性练习_【美】克里斯蒂安·博格, Kristian Berg_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 edf84bd612e4b23d1c987a1752d12620

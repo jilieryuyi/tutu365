@@ -8,7 +8,7 @@
 4124、_russian_Самая лучшая работа на свете_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3618927cfc7c52615a6d3279f09bc88

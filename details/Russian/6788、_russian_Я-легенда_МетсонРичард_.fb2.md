@@ -8,7 +8,7 @@
 6788、_russian_Я-легенда_Метсон Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38e1c25f2aa0ce99ae186a2cfc6fec0d

@@ -8,7 +8,7 @@
 12042、_russian_Ангел_Килуэрт Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c480b89c519eca5935dd2bd174841be

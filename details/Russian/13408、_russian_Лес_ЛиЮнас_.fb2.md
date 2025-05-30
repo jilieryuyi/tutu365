@@ -8,7 +8,7 @@
 13408、_russian_Лес_Ли Юнас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 608667aa373fdc5b6c56fa254ae7dab9

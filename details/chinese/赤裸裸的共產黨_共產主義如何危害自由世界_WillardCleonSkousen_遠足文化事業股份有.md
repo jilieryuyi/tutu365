@@ -8,7 +8,7 @@
 赤裸裸的共產黨 _ 共產主義如何危害自由世界_Willard Cleon Skousen_遠足文化事業股份有限公司_5342375_9393672aea33fc89a3a5d5d3b2cf55fe.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9393672aea33fc89a3a5d5d3b2cf55fe

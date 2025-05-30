@@ -8,7 +8,7 @@
 6698、_russian_Иерихонские трубы_Ильвовский Сергей, Брагин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d9b80ccfa8b49f1269ee4e8baf8520a

@@ -8,7 +8,7 @@
 7474、_russian_Багровая луна_Парнелл Андреа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ecb402f7f3ebfc04a6a1eefcd141534

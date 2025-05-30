@@ -8,7 +8,7 @@
 4831、_russian_Выбранное_Митьки Митьки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6da15ea1fee82df0f7f1e5a6ab71141

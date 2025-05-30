@@ -8,7 +8,7 @@
 2060、Linux命令速查手册 (图灵交互设计丛书)_[美]Scott Granneman_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 89ffc6c315b6b80a5a9f9351af053210

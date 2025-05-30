@@ -8,7 +8,7 @@
 6179、_russian_Эрагон.Брисингр_Паолини Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05e80820dbefa52fc4dc771f31b08aa2

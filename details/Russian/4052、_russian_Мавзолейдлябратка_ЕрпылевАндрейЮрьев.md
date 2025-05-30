@@ -8,7 +8,7 @@
 4052、_russian_Мавзолей для братка_Ерпылев Андрей Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae66ac56ee7f524c9bbd11c888803a12

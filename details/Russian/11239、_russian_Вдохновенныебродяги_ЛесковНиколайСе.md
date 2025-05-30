@@ -8,7 +8,7 @@
 11239、_russian_Вдохновенные бродяги_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb163b4ce9abad942ececb513928f328

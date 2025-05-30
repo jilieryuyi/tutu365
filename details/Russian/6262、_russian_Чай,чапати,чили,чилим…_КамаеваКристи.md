@@ -8,7 +8,7 @@
 6262、_russian_Чай, чапати, чили, чилим…_Камаева Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0d413ee0c3ac15421a284f1c7a1b1e3

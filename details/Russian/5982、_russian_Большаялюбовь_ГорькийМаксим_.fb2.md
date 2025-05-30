@@ -8,7 +8,7 @@
 5982、_russian_Большая любовь_Горький Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 728329119ad8a0ad7aa9e7a8ad46f4dd

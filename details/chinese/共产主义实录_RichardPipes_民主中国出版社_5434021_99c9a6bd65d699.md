@@ -8,7 +8,7 @@
 共产主义实录_Richard Pipes_民主中国出版社_5434021_99c9a6bd65d699cb4f36edcb760f7d6c.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 99c9a6bd65d699cb4f36edcb760f7d6c

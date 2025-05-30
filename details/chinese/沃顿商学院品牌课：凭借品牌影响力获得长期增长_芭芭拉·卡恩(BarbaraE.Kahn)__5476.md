@@ -8,7 +8,7 @@
 沃顿商学院品牌课：凭借品牌影响力获得长期增长_芭芭拉·卡恩 (Barbara E.Kahn)__5476399_0ded42de6a91dabc6dd41f3a08dd585c.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0ded42de6a91dabc6dd41f3a08dd585c

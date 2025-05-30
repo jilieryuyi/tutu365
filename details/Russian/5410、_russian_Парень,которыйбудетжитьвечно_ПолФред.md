@@ -8,7 +8,7 @@
 5410、_russian_Парень, который будет жить вечно_Пол Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47ba7be445ac1c5374bef01ecdb6ab64

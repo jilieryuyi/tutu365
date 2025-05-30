@@ -8,7 +8,7 @@
 3674、_russian_Эхо-парк_Коннелли Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 206a7bb464c1ce792a64e5bc7c1ebdc2

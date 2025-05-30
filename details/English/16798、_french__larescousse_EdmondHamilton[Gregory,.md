@@ -8,7 +8,7 @@
 16798、_french__ la rescousse_Edmond Hamilton [Gregory, Daryl]_Le Bélial'.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5e05433f637a857b17413917704f4f04

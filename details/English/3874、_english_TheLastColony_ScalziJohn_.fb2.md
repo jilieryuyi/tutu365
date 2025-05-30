@@ -8,7 +8,7 @@
 3874、_english_The Last Colony_Scalzi John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1fdb13cd1e35847316904f4c2bade0bb

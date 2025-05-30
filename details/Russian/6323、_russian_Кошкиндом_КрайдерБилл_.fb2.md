@@ -8,7 +8,7 @@
 6323、_russian_Кошкин дом_Крайдер Билл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c687ac7a92428722f35f1ace553e954a

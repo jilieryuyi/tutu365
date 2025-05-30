@@ -8,7 +8,7 @@
 6894、_russian_Поэмы_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62d5c3310258174a525bfe3c9a7fefb5

@@ -8,7 +8,7 @@
 4094、_russian_Заповедник для академиков_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67c26a046b4d748f97acee8f5a564c40

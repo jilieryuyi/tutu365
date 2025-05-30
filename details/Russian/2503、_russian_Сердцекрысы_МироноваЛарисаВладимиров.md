@@ -8,7 +8,7 @@
 2503、_russian_Сердце крысы_Миронова Лариса Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ce94bcaf02cb929940d8614d6b0ae4b

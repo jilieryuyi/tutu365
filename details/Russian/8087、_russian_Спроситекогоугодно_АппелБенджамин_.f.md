@@ -8,7 +8,7 @@
 8087、_russian_Спросите кого угодно_Аппел Бенджамин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e65c1fa5169b915a76a00fd071ee02e

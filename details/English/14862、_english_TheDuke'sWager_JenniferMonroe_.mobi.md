@@ -8,7 +8,7 @@
 14862、_english_The Duke's Wager_Jennifer Monroe_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d5078089992355c19ba19635075fbaae

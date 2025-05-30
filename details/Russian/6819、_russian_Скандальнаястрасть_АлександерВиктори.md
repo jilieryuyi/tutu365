@@ -8,7 +8,7 @@
 6819、_russian_Скандальная страсть_Александер Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c0b0c3bdff2e1c3151c6599be7f7a31

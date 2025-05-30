@@ -8,7 +8,7 @@
 4576、_russian_Лед и пламя_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38ababc5c613d8846a153c4900f6e1eb

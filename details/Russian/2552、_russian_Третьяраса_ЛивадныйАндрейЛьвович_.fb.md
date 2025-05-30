@@ -8,7 +8,7 @@
 2552、_russian_Третья раса_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cd1a73fa0ece9026bd05120aa59f838

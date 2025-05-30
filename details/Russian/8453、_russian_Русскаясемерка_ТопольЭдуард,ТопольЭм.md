@@ -8,7 +8,7 @@
 8453、_russian_Русская семерка_Тополь Эдуард, Тополь Эмилия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f43ae3fc49182ed61a972738d89d69a4

@@ -8,7 +8,7 @@
 9859、_russian_Иронические рассказы_Санжаровский Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc5eea1c654ad7919d0cbed2a158118a

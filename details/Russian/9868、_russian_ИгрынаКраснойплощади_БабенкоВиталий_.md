@@ -8,7 +8,7 @@
 9868、_russian_Игры на Красной площади_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00a316e6701d350bb3c87a4f36ac4654

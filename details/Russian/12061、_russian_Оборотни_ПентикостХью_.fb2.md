@@ -8,7 +8,7 @@
 12061、_russian_Оборотни_Пентикост Хью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16fc42ba9dd825f1e407a51bbbb05d94

@@ -8,7 +8,7 @@
 4110、_russian_Чужие берега_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc7b3211e44fe249207b76583d7aff97

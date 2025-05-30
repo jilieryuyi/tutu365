@@ -8,7 +8,7 @@
 9100、_russian_Букет средневековья_Горло Анатолий Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eaebb1dcd7ccb2b6aa78bd9c66f5f1af

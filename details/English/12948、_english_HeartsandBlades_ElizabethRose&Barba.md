@@ -8,7 +8,7 @@
 12948、_english_Hearts and Blades_Elizabeth Rose & Barbara Devlin & Laurel O'Donnell_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 32eab6853bc7848084259253e8312b66

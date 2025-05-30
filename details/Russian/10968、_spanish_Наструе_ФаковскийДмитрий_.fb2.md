@@ -8,7 +8,7 @@
 10968、_spanish_На струе_Факовский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc4cea6af93af5138d878211454e724d

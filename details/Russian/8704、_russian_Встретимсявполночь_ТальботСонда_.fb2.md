@@ -8,7 +8,7 @@
 8704、_russian_Встретимся в полночь_Тальбот Сонда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c784fb03758ad24f0b0b4159ea3ef242

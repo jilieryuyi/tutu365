@@ -8,7 +8,7 @@
 12380、_russian_Возрожденная любовь_Нилс Бетти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dd6e6434c55c9fd611d410fdf616cde

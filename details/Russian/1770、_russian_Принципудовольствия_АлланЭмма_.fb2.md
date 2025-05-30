@@ -8,7 +8,7 @@
 1770、_russian_Принцип удовольствия_Аллан Эмма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 516f782db2809df82a4161fb95da9104

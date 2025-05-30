@@ -8,7 +8,7 @@
 240、_english_Miss Lavigne's Little White Lie_Samantha Grace_Sourcebooks, Inc..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b00ef70509afecb91ffa5a6cbc3f1183

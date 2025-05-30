@@ -8,7 +8,7 @@
 8540、_russian_Реликварий_Чайлд Линкольн, Престон Дуглас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e600afbd5f12afe3b9362a9688f25e3

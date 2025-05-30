@@ -8,7 +8,7 @@
 5774、_russian_Звездные пришельцы. (с фото)_Казанцев Александр Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f504d8b6e05e36cfb498c74bc40f9686

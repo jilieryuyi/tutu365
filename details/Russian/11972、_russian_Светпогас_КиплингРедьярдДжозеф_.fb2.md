@@ -8,7 +8,7 @@
 11972、_russian_Свет погас_Киплинг Редьярд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f300735952e780abd9d1349a42b8eb40

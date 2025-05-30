@@ -8,7 +8,7 @@
 2785、_russian_За час до рассвета. Документально-приключенческая повесть_Колос Иван Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24e94fc81cdfd30b22eafee8e5ce5df8

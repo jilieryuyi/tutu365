@@ -8,7 +8,7 @@
 3242、新世紀福音戰士 - 漫畫致敬集_貞本義行_volmoe.com.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7927447ea527fa2edc22d3e61dda1ee6

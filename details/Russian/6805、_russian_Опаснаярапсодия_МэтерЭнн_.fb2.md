@@ -8,7 +8,7 @@
 6805、_russian_Опасная рапсодия_Мэтер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79c9f3fdc067202ebc46b29ae5de620d

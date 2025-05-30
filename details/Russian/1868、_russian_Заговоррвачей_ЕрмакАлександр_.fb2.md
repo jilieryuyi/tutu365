@@ -8,7 +8,7 @@
 1868、_russian_Заговор рвачей_Ермак Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0754b0f6f4e542e3a685e24e283df964

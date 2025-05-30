@@ -8,7 +8,7 @@
 2776、_russian_Звездная каэши-ваза_Лютый Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12f85817643d70ce755b77cc9ab827be

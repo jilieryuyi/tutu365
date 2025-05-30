@@ -8,7 +8,7 @@
 13341、_english_Highlander's Ransom_Emma Prince_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5323c04b3b44feb0f80fd8116d82f165

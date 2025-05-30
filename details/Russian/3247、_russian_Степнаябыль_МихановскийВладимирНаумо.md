@@ -8,7 +8,7 @@
 3247、_russian_Степная быль_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0eea4ddda6fb5af5f3ce224d1be8d7d

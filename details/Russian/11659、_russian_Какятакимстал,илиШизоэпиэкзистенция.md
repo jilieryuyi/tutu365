@@ -8,7 +8,7 @@
 11659、_russian_Как я таким стал, или Шизоэпиэкзистенция_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78e08f58109fb71accf1a81e37bb4756

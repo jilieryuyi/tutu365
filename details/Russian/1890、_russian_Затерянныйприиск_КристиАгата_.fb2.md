@@ -8,7 +8,7 @@
 1890、_russian_Затерянный прииск_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a4fab9ff54a667fe1412f7f367c9620

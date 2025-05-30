@@ -8,7 +8,7 @@
 7852、_russian_Поколение хаоса_Баумгертнер Ольга Гартвиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1852af85cad100469c3a5193c1b78aad

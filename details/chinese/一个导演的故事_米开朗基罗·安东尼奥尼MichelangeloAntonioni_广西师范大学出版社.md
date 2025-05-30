@@ -8,7 +8,7 @@
 一个导演的故事_米开朗基罗·安东尼奥尼 Michelangelo Antonioni_广西师范大学出版社_5439937_a8567e6802bd92a40b82c7e8d0568b66.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a8567e6802bd92a40b82c7e8d0568b66

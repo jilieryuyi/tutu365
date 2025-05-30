@@ -8,7 +8,7 @@
 5706、_russian_Питер Мариц — юный бур из Трансвааля_Ниман А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf1a19ada1ea3a86dcdc99e0fd0a955b

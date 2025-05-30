@@ -8,7 +8,7 @@
 14130、_russian_Подари мне луну_Куин Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 134faeb0969597ad1842a2c375a4a533

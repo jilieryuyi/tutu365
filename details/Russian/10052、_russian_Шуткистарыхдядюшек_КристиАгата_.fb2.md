@@ -8,7 +8,7 @@
 10052、_russian_Шутки старых дядюшек_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38165055a5012c20345f3bf00527251a

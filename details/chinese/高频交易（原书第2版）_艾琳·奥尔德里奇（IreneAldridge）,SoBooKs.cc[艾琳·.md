@@ -8,7 +8,7 @@
 高频交易（原书第2版）_艾琳·奥尔德里奇（Irene Aldridge）, SoBooKs.cc [艾琳·奥尔德里奇（Irene Aldridge）, SoBooKs.cc]__5530445_a9c55c023ccdb7dfd4fc4fbdf017e308.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a9c55c023ccdb7dfd4fc4fbdf017e308

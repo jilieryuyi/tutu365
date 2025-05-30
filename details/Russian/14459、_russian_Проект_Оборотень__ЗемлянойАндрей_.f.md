@@ -8,7 +8,7 @@
 14459、_russian_Проект _Оборотень__Земляной Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 886425ba1a5255dda65e95b1adc90f7e

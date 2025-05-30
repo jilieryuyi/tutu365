@@ -8,7 +8,7 @@
 11991、_russian_Воины преисподней__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 709f2c327b883bf50bef997b1fb363a7

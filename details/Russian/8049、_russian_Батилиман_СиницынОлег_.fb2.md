@@ -8,7 +8,7 @@
 8049、_russian_Батилиман_Синицын Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd4dacb2c263d3b57b0590e1017e4386

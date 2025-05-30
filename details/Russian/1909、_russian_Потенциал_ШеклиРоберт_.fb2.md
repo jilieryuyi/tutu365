@@ -8,7 +8,7 @@
 1909、_russian_Потенциал_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2465deb45dc32238464668efbeeb608a

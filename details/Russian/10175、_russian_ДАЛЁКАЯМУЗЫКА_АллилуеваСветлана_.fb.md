@@ -8,7 +8,7 @@
 10175、_russian_ДАЛЁКАЯ МУЗЫКА_Аллилуева Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00166612c35f21f7e6bf70c3df99638c

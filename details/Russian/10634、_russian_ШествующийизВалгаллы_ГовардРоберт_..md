@@ -8,7 +8,7 @@
 10634、_russian_Шествующий из Валгаллы_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b4f398c32f4f164d029be8840643ab5

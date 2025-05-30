@@ -8,7 +8,7 @@
 13863、_russian_Демон Сократа_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4af3a13391140ad24a7b66235aad742e

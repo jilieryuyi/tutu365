@@ -8,7 +8,7 @@
 12896、_russian_Жил человек..._Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa3552f50d7f8208eef9ee48e8d02881

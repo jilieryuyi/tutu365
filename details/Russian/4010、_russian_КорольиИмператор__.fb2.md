@@ -8,7 +8,7 @@
 4010、_russian_Король и Император__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37d64c7af1f77cd152fce798e01389bc

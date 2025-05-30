@@ -8,7 +8,7 @@
 4565、_russian_Последний из рыцарей_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9976e300f2ec1e28cdf04090cf2b367e

@@ -8,7 +8,7 @@
 5026、_russian_Этапы большого пути_Тишинин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 393283087dfc8acc0d356959ec369aee

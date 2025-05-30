@@ -8,7 +8,7 @@
 6723、_russian_Секретные войны Советского Союза_Окороков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d287993484b02eb5d052f41fe8a0eb8d

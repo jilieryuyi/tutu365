@@ -8,7 +8,7 @@
 2982、_russian_Атамановка ( Рассказы )_Геласимов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df809684bb0eb61afaf7e858ff0db555

@@ -8,7 +8,7 @@
 6812、_russian_Жаворонок_Беверли Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3f082546bb2d4814b6221fb1c9f77ae

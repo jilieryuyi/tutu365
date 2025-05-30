@@ -8,7 +8,7 @@
 15191、_russian_Улики_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4487e855ae7df8fc6e20c7d4275d8a82

@@ -8,7 +8,7 @@
 13727、_russian_Бой без правил_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19829879476bad6c8d652f0b7c1d437a

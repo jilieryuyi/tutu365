@@ -8,7 +8,7 @@
 1206、_russian_Люсьена_Ромэн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6e2fa57d6b5c676cb15edd7fa08b283

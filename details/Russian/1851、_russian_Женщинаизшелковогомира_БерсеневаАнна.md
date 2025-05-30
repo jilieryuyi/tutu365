@@ -8,7 +8,7 @@
 1851、_russian_Женщина из шелкового мира_Берсенева Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eec5a7ed9ddd10e99d963bb589d11438

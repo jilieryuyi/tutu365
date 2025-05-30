@@ -8,7 +8,7 @@
 12509、_russian_Сын дерева_Бакин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbca58d8feedc395815a0f480510e8e9

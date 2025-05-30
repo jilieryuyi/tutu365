@@ -8,7 +8,7 @@
 12424、_russian_Самозащита_Андрейчук В. И._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b333391ef336060d230485048e09cd3

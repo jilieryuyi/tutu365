@@ -8,7 +8,7 @@
 8372、_english_Devil's Daughter_Catherine Coulter_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a2363cadca0d344ebd113d891e852b54

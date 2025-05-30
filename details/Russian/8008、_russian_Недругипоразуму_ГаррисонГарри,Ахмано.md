@@ -8,7 +8,7 @@
 8008、_russian_Недруги по разуму_Гаррисон Гарри, Ахманов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 564279b88d1b895eba7b638bf785e6b6

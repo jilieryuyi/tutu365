@@ -8,7 +8,7 @@
 8390、_english_Claimed by Shadow_Chance Karen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ec72d2ec8c9d979b8147073a1f97bea9

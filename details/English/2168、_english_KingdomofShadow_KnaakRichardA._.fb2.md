@@ -8,7 +8,7 @@
 2168、_english_Kingdom of Shadow_Knaak Richard A._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2560c5ef8f2a0a1a6e0678481beaabbe

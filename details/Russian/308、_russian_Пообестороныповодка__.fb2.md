@@ -8,7 +8,7 @@
 308、_russian_По обе стороны поводка__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92e1f3bd5f0cd7e6e6c50c49cb44c220

@@ -8,7 +8,7 @@
 8057、_russian_Диета старика_Пепперштейн Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24b974db63c94c677fe77694d43243fa

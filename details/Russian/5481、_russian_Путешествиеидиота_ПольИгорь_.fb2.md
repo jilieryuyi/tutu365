@@ -8,7 +8,7 @@
 5481、_russian_Путешествие идиота_Поль Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8763f4b58c096549fcaee956e22ca197

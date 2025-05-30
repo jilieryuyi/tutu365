@@ -8,7 +8,7 @@
 766、_russian_Первые шаги в жизни_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fd9c5b2362a8c7292b79e2f8e9eda64

@@ -8,7 +8,7 @@
 8132、_russian_Истина суфиев_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61c18388c89edae4bb487b2d4eb38ec4

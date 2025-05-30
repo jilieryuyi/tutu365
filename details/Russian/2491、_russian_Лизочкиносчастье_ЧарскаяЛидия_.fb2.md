@@ -8,7 +8,7 @@
 2491、_russian_Лизочкино счастье_Чарская Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3133c5882ef0de0b9d003890c63e0ed

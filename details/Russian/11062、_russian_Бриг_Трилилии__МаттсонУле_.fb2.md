@@ -8,7 +8,7 @@
 11062、_russian_Бриг _Три лилии__Маттсон Уле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfdaaafc9eceaa2c6605c62a04796e5a

@@ -8,7 +8,7 @@
 5544、_russian_Кома_ ключ к пробуждению_Минделл Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb81e3e010405825ed4473bf010633e9

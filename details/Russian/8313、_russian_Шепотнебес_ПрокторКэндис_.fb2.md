@@ -8,7 +8,7 @@
 8313、_russian_Шепот небес_Проктор Кэндис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93fe91db75b314318f4edc63823a31da

@@ -8,7 +8,7 @@
 12201、_english_The Highlander's Enchantment_Eliza Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b3cddd59ee763c68e73454d7aeebb097

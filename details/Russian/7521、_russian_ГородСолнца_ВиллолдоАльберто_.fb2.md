@@ -8,7 +8,7 @@
 7521、_russian_Город Солнца_Виллолдо Альберто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 363a69bf0361d8f37bb403bbe640ed9c

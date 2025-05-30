@@ -8,7 +8,7 @@
 10032、_russian_Уникумы Вселенной_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02ff33f5dc4f7b62d792c96e2a9c5e96

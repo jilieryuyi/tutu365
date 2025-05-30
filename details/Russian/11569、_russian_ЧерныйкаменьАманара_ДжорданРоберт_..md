@@ -8,7 +8,7 @@
 11569、_russian_Черный камень Аманара_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b13542daf6ee211421934e2e573f9476

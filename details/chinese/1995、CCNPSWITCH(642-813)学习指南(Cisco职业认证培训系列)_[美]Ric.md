@@ -8,7 +8,7 @@
 1995、CCNP SWITCH(642-813)学习指南 (Cisco职业认证培训系列)_[美]Richard Froom　Balaji Sivasubramanian　Erum Frahim_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9df83134cab4b4976f64c900a0389a20

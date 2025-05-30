@@ -8,7 +8,7 @@
 14050、_russian_Внук Дьявола_Браун Лайза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e8ff25d11741cad8474a942fdaacdeb

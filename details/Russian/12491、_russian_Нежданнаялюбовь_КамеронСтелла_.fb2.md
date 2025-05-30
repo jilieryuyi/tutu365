@@ -8,7 +8,7 @@
 12491、_russian_Нежданная любовь_Камерон Стелла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2658e453e14a88db4103d18c41d627a

@@ -8,7 +8,7 @@
 8348、_russian_Три аспекта женской истерики_Кетро Марта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a431faa01aea6b9294cc8b966ca61e06

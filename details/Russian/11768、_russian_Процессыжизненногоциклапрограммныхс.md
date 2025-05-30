@@ -8,7 +8,7 @@
 11768、_russian_Процессы жизненного цикла программных средств_ГОССТАНДАРТ РОССИИ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f68faa5b917a05d9ef45a3b034baecd

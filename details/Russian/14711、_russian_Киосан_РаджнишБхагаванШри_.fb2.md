@@ -8,7 +8,7 @@
 14711、_russian_Киосан_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a35feccdee4cb86b1f659da000a77cd1

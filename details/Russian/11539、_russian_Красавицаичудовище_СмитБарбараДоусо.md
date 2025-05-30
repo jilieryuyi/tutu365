@@ -8,7 +8,7 @@
 11539、_russian_Красавица и чудовище_Смит Барбара Доусон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 305fb5840593b26a3deb32a45e188f1e

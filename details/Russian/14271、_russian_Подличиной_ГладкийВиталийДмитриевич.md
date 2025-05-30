@@ -8,7 +8,7 @@
 14271、_russian_Под личиной_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbe22dd822aa0196bc6c98b31e820f84

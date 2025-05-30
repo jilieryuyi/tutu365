@@ -8,7 +8,7 @@
 精准拉伸 疼痛消除和损伤预防的针对性练习_Targeted exercises of pain elimination and injury prevention in precise stretching_【美】克里斯蒂安·博格（Kristian]__5461124_fa4d77c4ece712506f9858fad8aa6ceb.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fa4d77c4ece712506f9858fad8aa6ceb

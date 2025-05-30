@@ -8,7 +8,7 @@
 71、我的凉山兄弟 毒品、艾滋与流动青年_刘邵华_33号选手@FeixingCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e61cd265f66d5c8911a3e32a5f5cf7c7

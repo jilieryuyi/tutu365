@@ -8,7 +8,7 @@
 926、_russian_Гобсек_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd5c21233a73231cfbd2a96af6dc8d41

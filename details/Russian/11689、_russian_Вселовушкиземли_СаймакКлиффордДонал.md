@@ -8,7 +8,7 @@
 11689、_russian_Все ловушки земли_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 859c78fe018798d6eb3e96c95308769f

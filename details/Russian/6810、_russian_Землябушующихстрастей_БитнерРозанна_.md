@@ -8,7 +8,7 @@
 6810、_russian_Земля бушующих страстей_Битнер Розанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f81745022f986f441f806ad4df4512a

@@ -8,7 +8,7 @@
 4704、_russian_Куколка_Рид Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15df52c76181a79c4a5f78b44b8bb100

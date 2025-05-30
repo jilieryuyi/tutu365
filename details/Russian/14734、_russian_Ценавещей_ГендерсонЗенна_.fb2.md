@@ -8,7 +8,7 @@
 14734、_russian_Цена вещей_Гендерсон Зенна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c34f956220a91552d33ac7a80762a44

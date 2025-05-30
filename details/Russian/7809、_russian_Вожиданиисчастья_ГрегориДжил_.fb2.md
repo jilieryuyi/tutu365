@@ -8,7 +8,7 @@
 7809、_russian_В ожидании счастья_Грегори Джил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 697fb6525cbd0b2f8a47932caef3c6d2

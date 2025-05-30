@@ -8,7 +8,7 @@
 14128、_russian_Болтик_Крапивин Владислав Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f79deb05f2fa46397b2871d3b29f0a6b

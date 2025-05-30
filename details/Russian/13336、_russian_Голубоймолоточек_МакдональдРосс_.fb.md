@@ -8,7 +8,7 @@
 13336、_russian_Голубой молоточек_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c7d6ecc59b46b616f20903e5b71c411

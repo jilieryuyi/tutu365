@@ -8,7 +8,7 @@
 12158、_russian_Плакальщик_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22e740050c10a62ac3910a460934bc74

@@ -8,7 +8,7 @@
 14567、_russian_Другая реальность_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 501247dd54c9f8e1a2713d0cde275d6b

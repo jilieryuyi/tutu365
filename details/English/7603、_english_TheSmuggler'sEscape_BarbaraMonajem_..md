@@ -8,7 +8,7 @@
 7603、_english_The Smuggler's Escape_Barbara Monajem_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8f1c5bf135be7df51318529e75f3d395

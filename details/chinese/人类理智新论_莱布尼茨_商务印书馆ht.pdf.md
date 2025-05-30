@@ -8,7 +8,7 @@
 人类理智新论_莱布尼茨_商务印书馆ht.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 308c332ff3489b1295e9bedfa95a38c8

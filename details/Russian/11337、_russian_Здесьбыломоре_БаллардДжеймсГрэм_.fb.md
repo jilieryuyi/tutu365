@@ -8,7 +8,7 @@
 11337、_russian_Здесь было море_Баллард Джеймс Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05a4e30357fa20670e99a2c2c3640419

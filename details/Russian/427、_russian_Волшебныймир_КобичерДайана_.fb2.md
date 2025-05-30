@@ -8,7 +8,7 @@
 427、_russian_Волшебный мир_Кобичер Дайана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f7aae3ed6ee21b5a87e338a6f08dfae

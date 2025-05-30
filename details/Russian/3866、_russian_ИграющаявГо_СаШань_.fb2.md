@@ -8,7 +8,7 @@
 3866、_russian_Играющая в Го_Са Шань_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e8084c5cf12462cc0703b558d067e04

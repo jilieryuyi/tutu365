@@ -8,7 +8,7 @@
 11078、_english_Tarnsman of Gor_Норман Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4cad19b74fa46cde8f030f52679dd19

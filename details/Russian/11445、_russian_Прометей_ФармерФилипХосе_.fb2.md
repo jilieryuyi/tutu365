@@ -8,7 +8,7 @@
 11445、_russian_Прометей_Фармер Филип Хосе_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e0d6368fa72021710bf912a70b9ffa7

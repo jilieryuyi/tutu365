@@ -8,7 +8,7 @@
 2536、_russian_Светорада Медовая_Вилар Симона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84749bc31f1b831e5b0dc62d9a4ec7d5

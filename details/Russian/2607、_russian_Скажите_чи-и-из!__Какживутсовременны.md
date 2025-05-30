@@ -8,7 +8,7 @@
 2607、_russian_Скажите _чи-и-из!__ Как живут современные американцы_Баскина Ада_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e4d6eae35114b4af70e2ecad0977c3b

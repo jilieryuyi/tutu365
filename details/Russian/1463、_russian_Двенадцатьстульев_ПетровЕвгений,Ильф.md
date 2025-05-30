@@ -8,7 +8,7 @@
 1463、_russian_Двенадцать стульев_Петров Евгений, Ильф Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34235a17026478fd1cd3001aefb2e15c

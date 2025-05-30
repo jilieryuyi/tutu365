@@ -8,7 +8,7 @@
 12632、_russian_Приключение Стася_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9842cca02f6f1058100feabc249c0b50

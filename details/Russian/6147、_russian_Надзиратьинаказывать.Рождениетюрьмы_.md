@@ -8,7 +8,7 @@
 6147、_russian_Надзирать и наказывать. Рождение тюрьмы_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc00213c5b1a4af01fb1f3101a63b138

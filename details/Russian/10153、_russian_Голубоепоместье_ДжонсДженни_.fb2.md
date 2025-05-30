@@ -8,7 +8,7 @@
 10153、_russian_Голубое поместье_Джонс Дженни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fd20bbc5d8cd5a375dced0912c6257c

@@ -8,7 +8,7 @@
 15149、_russian_Интуиция (сборник)_Борисов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 706146fad45a63440a8fc1575258074f

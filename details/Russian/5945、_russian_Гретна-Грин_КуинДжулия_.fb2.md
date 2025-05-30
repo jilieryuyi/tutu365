@@ -8,7 +8,7 @@
 5945、_russian_Гретна-Грин_Куин Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d14ed4aba58cbf1ca9d53650007858b9

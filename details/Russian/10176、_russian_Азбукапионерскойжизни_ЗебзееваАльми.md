@@ -8,7 +8,7 @@
 10176、_russian_Азбука пионерской жизни_Зебзеева Альмира Георгиевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20ee16a883803af84909bccaa103d28d

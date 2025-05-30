@@ -8,7 +8,7 @@
 15010、_russian_Чудо любви_Спаркс Николас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4eb2c5b2eaaf27dff8f6ef042a9b0d83

@@ -8,7 +8,7 @@
 1931、_russian_Присягнувшие Тьме_Гранже Жан-Кристоф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fdddc3816331148f4a4ee7994083ad1

@@ -8,7 +8,7 @@
 2294、_russian_Жорж Сименон и его романы_Балахонов В. Е._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c12b9960de947606a5974248f9e41715

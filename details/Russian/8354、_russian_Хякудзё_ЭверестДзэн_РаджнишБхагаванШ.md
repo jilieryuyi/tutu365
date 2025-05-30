@@ -8,7 +8,7 @@
 8354、_russian_Хякудзё_ Эверест Дзэн_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 268f9cb24f1ee14227ba4fab493a5a3a

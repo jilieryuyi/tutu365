@@ -8,7 +8,7 @@
 11101、_russian_Тайфун у берегов Японии_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1498e229973229d68d4fb988966b63c5

@@ -8,7 +8,7 @@
 14217、_russian_Ведьмин закут_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f797fc83db3b7a56647ded84ff4d1a4d

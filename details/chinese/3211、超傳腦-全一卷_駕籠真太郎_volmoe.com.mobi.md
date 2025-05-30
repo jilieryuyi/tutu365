@@ -8,7 +8,7 @@
 3211、超傳腦 - 全一卷_駕籠真太郎_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 929f8bebcf7e96a555a1975898969bd7

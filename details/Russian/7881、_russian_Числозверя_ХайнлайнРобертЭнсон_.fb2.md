@@ -8,7 +8,7 @@
 7881、_russian_Число зверя_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7abdf2c9fff6cf832698b98f67b78f46

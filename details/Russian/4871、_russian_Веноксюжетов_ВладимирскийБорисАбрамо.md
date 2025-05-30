@@ -8,7 +8,7 @@
 4871、_russian_Венок сюжетов_Владимирский Борис Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 012ffad2c1d59499606102aac9df2918

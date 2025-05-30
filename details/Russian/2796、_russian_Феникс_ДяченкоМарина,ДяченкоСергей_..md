@@ -8,7 +8,7 @@
 2796、_russian_Феникс_Дяченко Марина, Дяченко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf863bb07cbead8d4de2c13a6c4d1c1a

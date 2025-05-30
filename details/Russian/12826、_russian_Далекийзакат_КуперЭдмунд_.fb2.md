@@ -8,7 +8,7 @@
 12826、_russian_Далекий закат_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15a977e6204e50a6fee49d2614490094

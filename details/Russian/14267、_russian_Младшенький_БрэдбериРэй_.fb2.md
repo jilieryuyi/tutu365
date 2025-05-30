@@ -8,7 +8,7 @@
 14267、_russian_Младшенький_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 776668a5953a82a3e7f7437052038f4f

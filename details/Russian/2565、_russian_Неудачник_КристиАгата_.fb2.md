@@ -8,7 +8,7 @@
 2565、_russian_Неудачник_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29da53692ff97275636a308f53957595

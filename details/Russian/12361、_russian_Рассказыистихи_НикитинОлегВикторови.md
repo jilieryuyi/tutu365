@@ -8,7 +8,7 @@
 12361、_russian_Рассказы и стихи_Никитин Олег Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d9e81ea0e54e44bf682448d8efc99ef

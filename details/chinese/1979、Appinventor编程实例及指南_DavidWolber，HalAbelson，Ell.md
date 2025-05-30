@@ -8,7 +8,7 @@
 1979、App inventor 编程实例及指南_David Wolber ，Hal Abelson，Ellen Spertus & Liz Looney_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c6793749276adb7044bdd21965f80e55

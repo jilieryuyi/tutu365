@@ -8,7 +8,7 @@
 6266、_russian_prose_contemporary_Гасанов Эльчин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6af76b034f03b588e7731db488e228fb

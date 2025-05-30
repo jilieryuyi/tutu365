@@ -8,7 +8,7 @@
 13179、_russian_Учитель и ученик_Янитов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8761f44b3372411ba3b47807933d4303

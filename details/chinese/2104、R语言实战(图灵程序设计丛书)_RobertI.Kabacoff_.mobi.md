@@ -8,7 +8,7 @@
 2104、R语言实战 (图灵程序设计丛书)_Robert I. Kabacoff_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 96ab6fef2450b4553529f245eaceb931

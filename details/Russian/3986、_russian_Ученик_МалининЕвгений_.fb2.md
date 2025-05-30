@@ -8,7 +8,7 @@
 3986、_russian_Ученик_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7311b2d636c61c5d682021fe7926483

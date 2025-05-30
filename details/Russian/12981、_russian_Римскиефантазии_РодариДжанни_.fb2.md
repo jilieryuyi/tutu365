@@ -8,7 +8,7 @@
 12981、_russian_Римские фантазии_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a48fd83c9a68a52ac897038d56d3c4a0

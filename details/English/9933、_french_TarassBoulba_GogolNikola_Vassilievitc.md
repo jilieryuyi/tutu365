@@ -8,7 +8,7 @@
 9933、_french_Tarass Boulba_Gogol Nikola_ Vassilievitch_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1f6748b962708ca4f233a7ca71545261

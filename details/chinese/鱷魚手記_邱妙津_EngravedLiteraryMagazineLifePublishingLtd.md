@@ -8,7 +8,7 @@
 鱷魚手記_邱妙津_Engraved Literary Magazine Life Publishing Ltd_5458938_c2009aba19e1a5e711cb6eb11d0688d3.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c2009aba19e1a5e711cb6eb11d0688d3

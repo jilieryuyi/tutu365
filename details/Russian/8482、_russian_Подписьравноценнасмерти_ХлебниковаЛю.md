@@ -8,7 +8,7 @@
 8482、_russian_Подпись равноценна смерти_Хлебникова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ff164f1e9d99ba4a20a8a3654c10d8b

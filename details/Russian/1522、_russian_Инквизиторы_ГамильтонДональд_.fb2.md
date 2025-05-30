@@ -8,7 +8,7 @@
 1522、_russian_Инквизиторы_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3b319570fa865415fdbaefb320db335

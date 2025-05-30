@@ -8,7 +8,7 @@
 6865、_russian_Все об обычном кофе_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 516b540205216df24a63ddbfb4206bea

@@ -8,7 +8,7 @@
 14416、_english_The Groom's Gamble_Jade Lee_Sourcebooks, Inc..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d4dd6a371b42eaada6d7d0edffe59190

@@ -8,7 +8,7 @@
 10544、_russian_Дочь Сказки_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc41fc33848f1776bee2f157e09d30f9

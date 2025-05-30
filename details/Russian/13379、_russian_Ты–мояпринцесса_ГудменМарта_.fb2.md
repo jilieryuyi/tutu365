@@ -8,7 +8,7 @@
 13379、_russian_Ты – моя принцесса_Гудмен Марта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f5df254e959904df8d50f21c5a2d793

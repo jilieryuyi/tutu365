@@ -8,7 +8,7 @@
 8316、_russian_Дикий мед_Финч Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bc84b67b0cfd008d1d7c0079f46baf6

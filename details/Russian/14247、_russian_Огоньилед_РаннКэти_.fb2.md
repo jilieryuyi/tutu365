@@ -8,7 +8,7 @@
 14247、_russian_Огонь и лед_Ранн Кэти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d9ae257f9d19942b93475ff999aba3f

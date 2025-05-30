@@ -8,7 +8,7 @@
 13839、_russian_Роза и тис_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 202b9d40cca4eb3d2074733d6d03f168

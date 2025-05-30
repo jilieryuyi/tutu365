@@ -8,7 +8,7 @@
 10783、_russian_Алые паруса_Грин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92fd2fd0c782cdd9d03d75aff71b4f5d

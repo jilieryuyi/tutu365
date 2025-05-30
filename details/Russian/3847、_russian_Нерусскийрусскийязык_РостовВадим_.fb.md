@@ -8,7 +8,7 @@
 3847、_russian_Нерусский русский язык_Ростов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0eaacb1b7d48d543b59221dbb6b8b5e3

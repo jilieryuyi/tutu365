@@ -8,7 +8,7 @@
 1619、_russian__Шесть подготовительных действий__Еше Лодой Ринпоче_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3d75d2685135b6a2128de84b3da02db

@@ -8,7 +8,7 @@
 7267、_russian_Попугай Кеша_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 374a1a5b21367651bfd58da4cefb659f

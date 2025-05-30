@@ -8,7 +8,7 @@
 6909、_russian_Баллады, фантазии и сказы_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 198a5b7a943cddc501689f0f0ce114d9

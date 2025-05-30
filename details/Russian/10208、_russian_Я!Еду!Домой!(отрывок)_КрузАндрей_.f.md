@@ -8,7 +8,7 @@
 10208、_russian_Я! Еду! Домой! (отрывок)_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a5666afc2e40decd4c836878f8b95d7

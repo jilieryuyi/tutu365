@@ -8,7 +8,7 @@
 2524、_russian_Рассказы_Михеев Михаил Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c7b3d1b917117e4b0b71faeb49f8d08

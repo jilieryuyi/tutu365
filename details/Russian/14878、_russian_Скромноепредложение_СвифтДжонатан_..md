@@ -8,7 +8,7 @@
 14878、_russian_Скромное предложение_Свифт Джонатан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b80fc4cb494e5109b33267f47926964b

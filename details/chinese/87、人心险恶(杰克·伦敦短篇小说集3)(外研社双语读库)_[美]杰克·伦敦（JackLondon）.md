@@ -8,7 +8,7 @@
 87、人心险恶(杰克·伦敦短篇小说集3)(外研社双语读库)_[美] 杰克·伦敦（Jack London）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 05a4e30357fa20670e99a2c2c3640419

@@ -8,7 +8,7 @@
 8207、_russian_Радуга на земле_Иванова Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b057f30ea08e930abd788675866fe84

@@ -8,7 +8,7 @@
 12084、_russian_У Черных рыцарей_Дольд-Михайлик Юрий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f186fe83512b41432368ee7d2f841c22

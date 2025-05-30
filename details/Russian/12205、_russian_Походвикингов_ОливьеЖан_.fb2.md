@@ -8,7 +8,7 @@
 12205、_russian_Поход викингов_Оливье Жан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec8d2ef72fc3de30a2713b346af0f672

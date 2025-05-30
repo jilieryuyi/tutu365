@@ -8,7 +8,7 @@
 1574、_russian_Возвращение человека_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2be2f1bf3be27fe30fff5d09794a9106

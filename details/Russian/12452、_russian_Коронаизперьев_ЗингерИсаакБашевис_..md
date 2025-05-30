@@ -8,7 +8,7 @@
 12452、_russian_Корона из перьев_Зингер Исаак Башевис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af0b446dc6a15eb383529eccb5fc0264

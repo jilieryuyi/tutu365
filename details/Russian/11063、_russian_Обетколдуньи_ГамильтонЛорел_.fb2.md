@@ -8,7 +8,7 @@
 11063、_russian_Обет колдуньи_Гамильтон Лорел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3a8f7e4492c36c7d45c1b996647bc95

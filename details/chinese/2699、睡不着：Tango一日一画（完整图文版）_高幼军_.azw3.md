@@ -8,7 +8,7 @@
 2699、睡不着：Tango一日一画（完整图文版）_高幼军_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ee6c4eb4f283616bac630d3caafcb331

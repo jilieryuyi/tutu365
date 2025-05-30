@@ -8,7 +8,7 @@
 13615、_english_Lord Libertine_Gail Ranstrom_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d1cf2bf6cd6650164128f1549f175f5c

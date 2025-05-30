@@ -8,7 +8,7 @@
 5573、_english_Cold Hit_Fairstein Linda_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9f21130578d41a58512a2806ff59a57e

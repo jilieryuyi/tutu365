@@ -8,7 +8,7 @@
 3106、_russian_Закон фронтира_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b2b04dd59f533bd09dee118eba5a56b

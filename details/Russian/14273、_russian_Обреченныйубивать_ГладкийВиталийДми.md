@@ -8,7 +8,7 @@
 14273、_russian_Обреченный убивать_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54003dd25fe141dc1317d1e649ef381d

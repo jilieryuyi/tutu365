@@ -8,7 +8,7 @@
 8657、_russian_Каникулы любви_Усачева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7037cf1b71fcc5b02ef979ef92cefe60

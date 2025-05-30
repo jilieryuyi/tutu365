@@ -8,7 +8,7 @@
 13548、_russian_Сердечные перемены_Деверо Джуд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29131a359ae994ea6d41c05e19e76a60

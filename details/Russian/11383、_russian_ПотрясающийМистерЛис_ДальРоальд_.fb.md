@@ -8,7 +8,7 @@
 11383、_russian_Потрясающий Мистер Лис_Даль Роальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c35b1906086d0f21e3d05d8b7838a35

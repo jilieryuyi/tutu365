@@ -8,7 +8,7 @@
 8031、_russian_Возвращение в ад_Берг Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f0e41092486f3c2cf29e473a5a8755d

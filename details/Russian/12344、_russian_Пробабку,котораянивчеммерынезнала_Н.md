@@ -8,7 +8,7 @@
 12344、_russian_Про бабку, которая ни в чем меры не знала_Нурман Серине Регине_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b6ea23132b826b798c213cadff9b783

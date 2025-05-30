@@ -8,7 +8,7 @@
 7343、_russian_В месте светлом, в месте злачном, в месте покойном_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5061aa4ee908bc9f9b5cb38dd052dffd

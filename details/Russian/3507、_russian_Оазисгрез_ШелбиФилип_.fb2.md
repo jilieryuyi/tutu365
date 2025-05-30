@@ -8,7 +8,7 @@
 3507、_russian_Оазис грез_Шелби Филип_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30152134cdbc0e2927359a8476a8c73d

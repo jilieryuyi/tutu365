@@ -8,7 +8,7 @@
 14145、_russian_Чертова гора_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7eba5392bc1764bc93c5e34d256b42d7

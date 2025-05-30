@@ -8,7 +8,7 @@
 3691、_russian_Новелла_Артемьев Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 434b49c5cf2cd3cd47acf9e06bb9949c

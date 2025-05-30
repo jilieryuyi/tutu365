@@ -8,7 +8,7 @@
 2417、_russian_Тридцатилетняя женщина_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1872d923deb01b18656c613405c4c3c4

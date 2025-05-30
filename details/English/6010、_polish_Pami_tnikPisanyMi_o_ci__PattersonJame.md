@@ -8,7 +8,7 @@
 6010、_polish_Pami_tnik Pisany Mi_o_ci__Patterson James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0a3b92c33c4b23f2acbb399b42a68e88

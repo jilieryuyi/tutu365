@@ -8,7 +8,7 @@
 6838、_russian_Нежность_Спектр Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 239b2a1da1e98854ed226aeee4449c66

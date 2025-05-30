@@ -8,7 +8,7 @@
 7041、_russian_Все о шампанском_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc04b3482a2fff95dfc5f8e3bc1ad9e8

@@ -8,7 +8,7 @@
 7917、_english_Jewel of Tharn_Lord Jeffrey_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e46cdf71d715985779abeb3299b376e4

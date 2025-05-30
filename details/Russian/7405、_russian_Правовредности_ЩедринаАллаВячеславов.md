@@ -8,7 +8,7 @@
 7405、_russian_Право вредности_Щедрина Алла Вячеславовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1d9f99f74c31a7ff0529c1e72ff3ec7

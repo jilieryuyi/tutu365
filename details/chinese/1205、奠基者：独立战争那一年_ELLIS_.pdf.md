@@ -8,7 +8,7 @@
 1205、奠基者：独立战争那一年_ELLIS_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 59b3b52b9dbba8c51a3e0240b74088df

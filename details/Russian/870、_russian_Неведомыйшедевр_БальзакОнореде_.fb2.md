@@ -8,7 +8,7 @@
 870、_russian_Неведомый шедевр_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 650d2ae025c4b9ebfdaf7b822a733f6a

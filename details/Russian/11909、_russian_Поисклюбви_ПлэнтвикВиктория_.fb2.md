@@ -8,7 +8,7 @@
 11909、_russian_Поиск любви_Плэнтвик Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f520ab55983fd9a6f942d604b8d57455

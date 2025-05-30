@@ -8,7 +8,7 @@
 820、_russian_Анонимный звонок_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b39f9b9d985d3349f9a3d1755fb53261

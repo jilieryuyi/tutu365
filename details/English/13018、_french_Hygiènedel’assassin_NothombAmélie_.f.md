@@ -8,7 +8,7 @@
 13018、_french_Hygiène de l’assassin_Nothomb Amélie_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2b764fd9f17c42e15c3b3cfc08408daf

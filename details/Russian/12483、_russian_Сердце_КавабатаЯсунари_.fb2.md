@@ -8,7 +8,7 @@
 12483、_russian_Сердце_Кавабата Ясунари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 886013403a003e26e8720b0d8e2a6f3e

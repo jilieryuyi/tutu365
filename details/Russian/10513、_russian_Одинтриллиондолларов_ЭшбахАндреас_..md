@@ -8,7 +8,7 @@
 10513、_russian_Один триллион долларов_Эшбах Андреас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a7b0622febd277ec4779a20d1f87715

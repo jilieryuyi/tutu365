@@ -8,7 +8,7 @@
 1543、_russian_Палачи_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa10982a8e4c3e2413d0807c3dab9fb8

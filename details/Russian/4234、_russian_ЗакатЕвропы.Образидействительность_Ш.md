@@ -8,7 +8,7 @@
 4234、_russian_Закат Европы. Образ и действительность_Шпенглер Освальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a333dcf5f7364c54eaf3433d287235ae

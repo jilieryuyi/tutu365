@@ -8,7 +8,7 @@
 1460、_russian_Домой до темноты_Маклин Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 103110e6d7209df57e5969affde84518

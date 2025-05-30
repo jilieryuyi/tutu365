@@ -8,7 +8,7 @@
 6687、_ukrainian_Диво_Загребельний Павло Архипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d33ca9cd2504e874996e6e582aad9b56

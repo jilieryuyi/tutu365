@@ -8,7 +8,7 @@
 莎士比亚全集（套装共10本）——华语界首部诗体莎士比亚全集_威廉·莎士比亚(William Shakespeare)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f09a1dba456d65063821437ce8b212f9

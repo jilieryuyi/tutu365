@@ -8,7 +8,7 @@
 11047、_russian_По прозвищу Стрелка_Пирог Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 709693e41aeb097baa832d3d3a1e36ef

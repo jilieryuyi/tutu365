@@ -8,7 +8,7 @@
 3076、_russian_PSTD_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37d94ab14aa179d53d1f69d7a5023596

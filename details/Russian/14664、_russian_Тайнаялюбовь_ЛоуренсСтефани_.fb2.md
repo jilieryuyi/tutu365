@@ -8,7 +8,7 @@
 14664、_russian_Тайная любовь_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a201ad167ffdd27d8aacded4e5dfb040

@@ -8,7 +8,7 @@
 5513、_russian_Инфракрасный_Кулагин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18c77fcf814bcefe1cc16a4c67b861fe

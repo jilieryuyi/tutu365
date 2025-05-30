@@ -8,7 +8,7 @@
 5361、_russian_Пути небесные (часть 1)_Шмелев Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e092ec5a78a067b07be2050020d4ad02

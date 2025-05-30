@@ -8,7 +8,7 @@
 2306、_russian_Легендатор_Перри Стив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cffce39a66ed631ff8bf806550f7548

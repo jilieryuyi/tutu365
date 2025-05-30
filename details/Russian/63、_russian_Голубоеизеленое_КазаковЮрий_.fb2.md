@@ -8,7 +8,7 @@
 63、_russian_Голубое и зеленое_Казаков Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecf7fd69ab8f4a081dc2882db5eca5c2

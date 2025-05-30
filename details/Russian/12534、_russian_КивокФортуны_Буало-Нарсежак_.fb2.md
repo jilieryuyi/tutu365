@@ -8,7 +8,7 @@
 12534、_russian_Кивок Фортуны_Буало-Нарсежак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12944cf5b77c9965a37f01c1ad01839c

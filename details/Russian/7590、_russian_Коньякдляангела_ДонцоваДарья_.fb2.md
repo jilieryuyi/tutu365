@@ -8,7 +8,7 @@
 7590、_russian_Коньяк для ангела_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d2fccb98e7bbaa5727590ea892b19fc

@@ -8,7 +8,7 @@
 3100、_russian_Ищите Солнце в глухую полночь_Бондаренко Борис Егорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aacd6b85a98b9f6f761f509eadfb43d7

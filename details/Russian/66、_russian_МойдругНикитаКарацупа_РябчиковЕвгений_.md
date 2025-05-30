@@ -8,7 +8,7 @@
 66、_russian_Мой друг Никита Карацупа_Рябчиков Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3f2ab715a0c41c6ff52b02d90a32f42

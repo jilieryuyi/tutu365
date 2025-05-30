@@ -8,7 +8,7 @@
 2010、Flask Web开发 基于Python的Web应用开发实战 (图灵程序设计丛书)_[美]格林布戈（Miguel Grinberg）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6e2adad98115c2f7ed63e5aade604a72

@@ -8,7 +8,7 @@
 6768、_russian_Травяной венок. Том 1_Маккалоу Колин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7ba55787bf3ecc53e5298715b7a0ae3

@@ -8,7 +8,7 @@
 7805、_russian_Крыса, будь человеком_Выставной Владислав Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a4a6f4c8cbc2a2111e3d738699a6679

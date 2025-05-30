@@ -8,7 +8,7 @@
 6334、_russian_Покушение_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 caa969f9f77c8221ac2d4dc38818befb

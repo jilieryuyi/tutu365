@@ -8,7 +8,7 @@
 13977、_russian_Любовник леди Софии_Клейпас Лиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3a5322851e0348b20aab023d1dabf80

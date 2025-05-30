@@ -8,7 +8,7 @@
 546、_russian_Баржа с двумя повешенными_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7720ee86151caaa79600d8ef5065efc

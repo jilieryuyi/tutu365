@@ -8,7 +8,7 @@
 497、_russian_Вор комиссара Мегрэ_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76fc3eb3b2e39b42c85b4355db3925b5

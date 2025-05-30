@@ -8,7 +8,7 @@
 7174、_russian_Послание Геркулеса_Макдевитт Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83a1153334c5f9ce0e2150cdf6de7c77

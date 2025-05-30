@@ -8,7 +8,7 @@
 2316、_russian_Приключения в капле воды_Афонькин С. Ю._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce22caa34abbf6697309afe26c6ab156

@@ -8,7 +8,7 @@
 12918、_russian_Осенние рассказы_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e83d799478f342aea45a6ac9203bc463

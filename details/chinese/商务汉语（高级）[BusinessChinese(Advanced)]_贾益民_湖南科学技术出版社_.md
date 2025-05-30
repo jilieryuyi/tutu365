@@ -8,7 +8,7 @@
 商务汉语（高级） [Business Chinese(Advanced)]_贾益民_湖南科学技术出版社_5542671_bf6cdd5047fc39b55a3f3b7fbec58d46.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bf6cdd5047fc39b55a3f3b7fbec58d46

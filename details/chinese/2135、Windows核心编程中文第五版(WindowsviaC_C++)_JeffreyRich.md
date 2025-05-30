@@ -8,7 +8,7 @@
 2135、Windows核心编程 中文第五版 (Windows via C_C++)_Jeffrey Richter _ Christophe Nasarre_清华大学出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6cd3e58dacc6c3d9c52ede4c336894a3

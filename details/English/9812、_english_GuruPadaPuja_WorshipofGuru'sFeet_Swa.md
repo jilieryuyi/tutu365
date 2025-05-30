@@ -8,7 +8,7 @@
 9812、_english_Guru Pada Puja_ Worship of Guru's Feet_Swami Venkatesananda_Chiltern Yoga Trust.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2acb3f5ec7939434d0d358736443d119

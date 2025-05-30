@@ -8,7 +8,7 @@
 11146、_russian_Дочь снегов_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3eaa43da670a1226017d499bcdf4e697

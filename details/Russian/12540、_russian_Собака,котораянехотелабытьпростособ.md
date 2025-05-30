@@ -8,7 +8,7 @@
 12540、_russian_Собака, которая не хотела быть просто собакой_Моуэт Фарли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a120b0a917febd82d9bb93bfcd745c44

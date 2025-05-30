@@ -8,7 +8,7 @@
 440、_russian_Немезида (пер. А. Андреева)_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f02dbb50fd4c2d8a085613f68fae16f0

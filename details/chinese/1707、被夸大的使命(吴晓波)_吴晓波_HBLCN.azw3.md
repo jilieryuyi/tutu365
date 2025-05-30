@@ -8,7 +8,7 @@
 1707、被夸大的使命 (吴晓波)_吴晓波_HBLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f409bf84a48a0119d9c627c6925c3349

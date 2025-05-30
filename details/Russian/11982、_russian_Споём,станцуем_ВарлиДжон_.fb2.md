@@ -8,7 +8,7 @@
 11982、_russian_Споём, станцуем_Варли Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78e73c4eb169174049197739182e34bc

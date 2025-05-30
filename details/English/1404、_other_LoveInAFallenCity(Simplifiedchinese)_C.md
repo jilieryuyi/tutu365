@@ -8,7 +8,7 @@
 1404、_other_Love In A Fallen City (Simplified chinese)_Chang Eileen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e0922bccda87a0ab70416c22380a2a8c

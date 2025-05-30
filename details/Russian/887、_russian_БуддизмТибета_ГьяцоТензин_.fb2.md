@@ -8,7 +8,7 @@
 887、_russian_Буддизм Тибета_Гьяцо Тензин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f284ad5cf1916b551475457245704312

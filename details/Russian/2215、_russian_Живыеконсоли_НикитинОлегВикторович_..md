@@ -8,7 +8,7 @@
 2215、_russian_Живые консоли_Никитин Олег Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e19611d6c4de943de1c777ca1280e648

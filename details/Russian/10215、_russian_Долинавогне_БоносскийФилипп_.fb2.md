@@ -8,7 +8,7 @@
 10215、_russian_Долина в огне_Боносский Филипп_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4f6e120e6b9c006c691936fe36903d7

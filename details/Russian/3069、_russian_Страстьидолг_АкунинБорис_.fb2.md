@@ -8,7 +8,7 @@
 3069、_russian_Страсть и долг_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5c3431ec8bc0a814e989df00e79884f

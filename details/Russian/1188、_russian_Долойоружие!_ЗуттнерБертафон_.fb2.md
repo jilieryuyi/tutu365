@@ -8,7 +8,7 @@
 1188、_russian_Долой оружие!_Зуттнер Берта фон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc2e6bc98359a4bdfdb5ebddbd23fece

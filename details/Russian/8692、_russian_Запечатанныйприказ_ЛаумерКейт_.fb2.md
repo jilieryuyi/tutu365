@@ -8,7 +8,7 @@
 8692、_russian_Запечатанный приказ_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e12b12390421ad789dd392176bdde9c

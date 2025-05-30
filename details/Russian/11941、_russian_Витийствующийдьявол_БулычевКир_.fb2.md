@@ -8,7 +8,7 @@
 11941、_russian_Витийствующий дьявол_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9482b0e3c4ea00b9aa1945b0a360ca4c

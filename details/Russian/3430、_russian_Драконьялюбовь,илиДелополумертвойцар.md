@@ -8,7 +8,7 @@
 3430、_russian_Драконья любовь, или Дело полумертвой царевны_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fe8b5c96242e08f318c9da68f17dfbd

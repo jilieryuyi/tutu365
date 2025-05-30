@@ -8,7 +8,7 @@
 4647、_russian_Прикосновение любви_Хэган Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e37fd1955ab3ef10ba06cbb1035f4abb

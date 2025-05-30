@@ -8,7 +8,7 @@
 11259、_russian_Год Крысы. Видунья_Громыко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bb65eb963e1eb335af06695671ff23b

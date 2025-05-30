@@ -8,7 +8,7 @@
 5202、_russian_Превращение элементов_Казаков Борис Игнатьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 973595564d1f9df090371e4ee5f3015e

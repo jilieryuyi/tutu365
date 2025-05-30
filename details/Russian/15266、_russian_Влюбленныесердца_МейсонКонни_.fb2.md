@@ -8,7 +8,7 @@
 15266、_russian_Влюбленные сердца_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08df25b76d4af08c2ceacaf1137bcd51

@@ -8,7 +8,7 @@
 7465、_russian_Сердце принцессы_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa12d35ebecafa5b2bfb329784bcfd89

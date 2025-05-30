@@ -8,7 +8,7 @@
 3064、_russian_Ворошиловский стрелок_Пронин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3355e8d8a0e1f4341f50fcdbfe85b082

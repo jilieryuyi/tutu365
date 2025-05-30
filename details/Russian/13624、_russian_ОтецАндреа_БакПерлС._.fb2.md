@@ -8,7 +8,7 @@
 13624、_russian_Отец Андреа_Бак Перл С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 459bed6088a28053646608d70d34c5ef

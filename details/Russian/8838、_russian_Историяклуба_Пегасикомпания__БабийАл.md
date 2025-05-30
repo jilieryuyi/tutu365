@@ -8,7 +8,7 @@
 8838、_russian_История клуба _Пегас и компания__Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bed076d8866afa937612bd0584401ced

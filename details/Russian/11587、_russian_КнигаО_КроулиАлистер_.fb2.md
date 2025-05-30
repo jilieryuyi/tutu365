@@ -8,7 +8,7 @@
 11587、_russian_Книга О_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be2faeb8ba0a9bf251fc2506a773f33f

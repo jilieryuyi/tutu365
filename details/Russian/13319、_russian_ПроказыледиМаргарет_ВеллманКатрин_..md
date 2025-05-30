@@ -8,7 +8,7 @@
 13319、_russian_Проказы леди Маргарет_Веллман Катрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2510dabcfc2cfcb8e8b7cf772fa2a857

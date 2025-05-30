@@ -8,7 +8,7 @@
 10760、_russian_Последний день приговоренного к смерти_Гюго Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c62d1932f97d9d749581bbdb82991a4

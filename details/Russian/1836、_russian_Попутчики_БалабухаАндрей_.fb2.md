@@ -8,7 +8,7 @@
 1836、_russian_Попутчики_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0437cb7bcd6a9b3a9dcb311dbfe9d77d

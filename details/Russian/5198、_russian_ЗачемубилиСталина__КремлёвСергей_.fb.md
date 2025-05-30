@@ -8,7 +8,7 @@
 5198、_russian_Зачем убили Сталина__Кремлёв Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f0b279587da8280e513ba65ca92cc87

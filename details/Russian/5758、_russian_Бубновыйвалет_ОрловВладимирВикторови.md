@@ -8,7 +8,7 @@
 5758、_russian_Бубновый валет_Орлов Владимир Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f4f5901aedbf9dba73537248f131983

@@ -8,7 +8,7 @@
 4457、_russian_Невеста на миллион_Торп Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed235d62e5b6a6e43e000312b21184a4

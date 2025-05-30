@@ -8,7 +8,7 @@
 15228、_russian_Темный день_Рут (Ирина Сербжинская) Алла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ca2cefbbd14d898cab3bded2a71a4a0

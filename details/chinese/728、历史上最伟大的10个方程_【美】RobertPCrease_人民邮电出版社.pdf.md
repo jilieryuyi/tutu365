@@ -8,7 +8,7 @@
 728、历史上最伟大的10个方程_【美】Robert P Crease_人民邮电出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5ddf2fd94fce067530f77304f058359b

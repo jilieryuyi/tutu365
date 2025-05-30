@@ -8,7 +8,7 @@
 9078、_russian_Заратустра. Танцующий Бог_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b84a1db5921b54c38dd9ee16ed90f227

@@ -8,7 +8,7 @@
 offsetLeft,Left,clientLeft的区别.doc.doc
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 53ded020d1f6373454a5b307b49b9e62

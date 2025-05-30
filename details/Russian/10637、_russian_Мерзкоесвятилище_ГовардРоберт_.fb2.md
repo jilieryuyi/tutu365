@@ -8,7 +8,7 @@
 10637、_russian_Мерзкое святилище_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ffa4a49bd15c45cceecd3e7e434b527

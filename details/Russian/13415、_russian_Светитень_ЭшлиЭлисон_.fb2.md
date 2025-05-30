@@ -8,7 +8,7 @@
 13415、_russian_Свет и тень_Эшли Элисон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 804f9504fef42ae6521f8763518e9706

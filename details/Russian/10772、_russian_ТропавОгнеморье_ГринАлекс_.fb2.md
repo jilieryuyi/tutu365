@@ -8,7 +8,7 @@
 10772、_russian_Тропа в Огнеморье_Грин Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9409d74be15365cd84ac4fe380e105e8

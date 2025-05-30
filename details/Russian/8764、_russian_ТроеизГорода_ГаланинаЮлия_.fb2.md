@@ -8,7 +8,7 @@
 8764、_russian_Трое из Города_Галанина Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a667d239fea8126b0aa3d26aef502638

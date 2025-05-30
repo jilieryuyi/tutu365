@@ -8,7 +8,7 @@
 14911、_russian_Все ради любви_Рид Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2303aee11bd0ce7a8fa841ed3424c526

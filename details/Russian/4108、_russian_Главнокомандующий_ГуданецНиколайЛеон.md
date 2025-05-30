@@ -8,7 +8,7 @@
 4108、_russian_Главнокомандующий_Гуданец Николай Леонардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 552e4881a8e7463195ca9f6930eb4b10

@@ -8,7 +8,7 @@
 12418、_english_Warrior's Surrender_Elizabeth Ellen Carter_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fae78bc9021af0240076a253d034b980

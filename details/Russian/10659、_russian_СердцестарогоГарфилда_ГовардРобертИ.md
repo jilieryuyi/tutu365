@@ -8,7 +8,7 @@
 10659、_russian_Сердце старого Гарфилда_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 525ef9c152d471a0167ad9645af51b6b

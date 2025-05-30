@@ -8,7 +8,7 @@
 6879、_russian_Холодные берега_Лукьяненко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e10c7428be79eed626a53aef4a34ba8

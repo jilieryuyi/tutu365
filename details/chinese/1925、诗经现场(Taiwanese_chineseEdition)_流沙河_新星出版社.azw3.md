@@ -8,7 +8,7 @@
 1925、诗经现场 (Taiwanese_chinese Edition)_流沙河_新星出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 799340693aa8cc89014ee21bb0bd4e0a

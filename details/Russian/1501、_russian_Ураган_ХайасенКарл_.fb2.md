@@ -8,7 +8,7 @@
 1501、_russian_Ураган_Хайасен Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33db908b18fa4028e3aa978cadff0370

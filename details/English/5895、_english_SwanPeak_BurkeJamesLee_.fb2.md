@@ -8,7 +8,7 @@
 5895、_english_Swan Peak_Burke James Lee_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d72dd6a5031e2255e4f7aa236184ed74

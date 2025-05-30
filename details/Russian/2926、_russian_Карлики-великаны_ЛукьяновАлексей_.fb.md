@@ -8,7 +8,7 @@
 2926、_russian_Карлики-великаны_Лукьянов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b99dc4104e48dca5d3a8583e406fc13f

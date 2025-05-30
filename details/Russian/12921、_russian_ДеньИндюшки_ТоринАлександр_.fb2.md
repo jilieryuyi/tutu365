@@ -8,7 +8,7 @@
 12921、_russian_День Индюшки_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b70b0cbf65276b63dc8bfc1316b9160

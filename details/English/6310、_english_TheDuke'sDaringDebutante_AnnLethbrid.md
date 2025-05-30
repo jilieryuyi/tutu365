@@ -8,7 +8,7 @@
 6310、_english_The Duke's Daring Debutante_Ann Lethbridge_Harlequin Historical.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4e8e2f983e0e213a5db2c3802965bb83

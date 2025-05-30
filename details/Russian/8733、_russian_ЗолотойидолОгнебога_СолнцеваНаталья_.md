@@ -8,7 +8,7 @@
 8733、_russian_Золотой идол Огнебога_Солнцева Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 382db4462560b2442c4cd960d8b20e1e

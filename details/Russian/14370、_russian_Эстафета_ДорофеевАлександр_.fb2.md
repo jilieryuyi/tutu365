@@ -8,7 +8,7 @@
 14370、_russian_Эстафета_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 222e1b73fdaf54ae3a9bf368be2b3242

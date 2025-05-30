@@ -8,7 +8,7 @@
 9256、_italian_L'urlo_Robert Graves_Adelphi.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0bdac83b186a6d58120bd756ecd5435f

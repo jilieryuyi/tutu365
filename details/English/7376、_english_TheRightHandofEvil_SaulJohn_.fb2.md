@@ -8,7 +8,7 @@
 7376、_english_The Right Hand of Evil_Saul John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5c0b53c09c489eea145607e87553c7d6

@@ -8,7 +8,7 @@
 12550、_russian_Воспоминания_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09edd2fb8045b2675cad72b116bc8b1e

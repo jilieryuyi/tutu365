@@ -8,7 +8,7 @@
 13742、_russian_Маша и нетопырь. История любви_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0145d8f0c6cfce7831b4ae3931a94a68

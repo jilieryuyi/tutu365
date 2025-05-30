@@ -8,7 +8,7 @@
 11536、_russian_Леди-обманщица_Смит Бобби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9d0a6cf9a35f821ab1049b3d8312eba

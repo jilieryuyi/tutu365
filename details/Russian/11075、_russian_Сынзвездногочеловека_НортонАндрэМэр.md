@@ -8,7 +8,7 @@
 11075、_russian_Сын звездного человека_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a70fcb1bf64d137b02ddbe0d26faf31c

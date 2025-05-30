@@ -8,7 +8,7 @@
 5985、_russian_Волшебный колодец (сборник)_Грешнов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78fb5435dde3ef57a341924f036d698a

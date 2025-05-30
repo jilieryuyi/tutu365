@@ -8,7 +8,7 @@
 7678、_russian_Предсказание для адвоката_Борохова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c35b7b9a5521d65191abfac0613a9737

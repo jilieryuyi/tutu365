@@ -8,7 +8,7 @@
 11700、_russian_Дурной пример_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a1da7fcf2179febf89112a9b81cacad

@@ -8,7 +8,7 @@
 8604、_russian_Дочь Петра Великого_Захер-Мазох Леопольд фон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42d488df555939f187efd359c07fc98d

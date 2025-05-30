@@ -8,7 +8,7 @@
 324、独创排毒美肌按摩法：美肌姬_COAY.COM_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b0b978905ed71009eb07cf2ec7747c88

@@ -8,7 +8,7 @@
 14163、_russian_Одиночка_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 483568ed65ce1c909994ca228c986e4f

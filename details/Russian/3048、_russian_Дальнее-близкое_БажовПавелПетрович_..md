@@ -8,7 +8,7 @@
 3048、_russian_Дальнее - близкое_Бажов Павел Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84d49a5f74e84aaa44f6c5a7cefdd48a

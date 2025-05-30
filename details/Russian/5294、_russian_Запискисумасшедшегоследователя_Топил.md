@@ -8,7 +8,7 @@
 5294、_russian_Записки сумасшедшего следователя_Топильская Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12cf301075b20b1ae8900dc3861e5e6b

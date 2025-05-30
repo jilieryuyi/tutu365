@@ -8,7 +8,7 @@
 10196、_russian_Билет в один конец_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c36d1b54fb745012ae57d977d02fcf3

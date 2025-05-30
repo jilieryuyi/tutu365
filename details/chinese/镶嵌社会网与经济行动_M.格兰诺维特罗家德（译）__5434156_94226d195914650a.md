@@ -8,7 +8,7 @@
 镶嵌 社会网与经济行动_M.格兰诺维特 罗家德（译）__5434156_94226d195914650aa5496fc57a32e2a3.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 94226d195914650aa5496fc57a32e2a3

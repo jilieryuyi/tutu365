@@ -8,7 +8,7 @@
 8533、_russian_Окошко 31_Пазетти Альдо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71f17e2368182de0910fac15033f65ac

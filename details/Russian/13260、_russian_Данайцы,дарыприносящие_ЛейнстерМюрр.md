@@ -8,7 +8,7 @@
 13260、_russian_Данайцы, дары приносящие_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd2358365c84cefab578dc965173e836

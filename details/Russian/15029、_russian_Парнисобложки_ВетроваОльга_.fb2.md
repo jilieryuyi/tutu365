@@ -8,7 +8,7 @@
 15029、_russian_Парни с обложки_Ветрова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26ac18bd1e1775afcafbdc501afc682e

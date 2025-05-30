@@ -8,7 +8,7 @@
 1124、_russian_Череп Тимура_Бакшеев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a058b5b22dced840cbf14e5abf5b52cb

@@ -8,7 +8,7 @@
 9802、_french_l'Esprit de la Bhagavad Gita_Swami Venkatesananda_Divine LifeSociety.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f252a19060a58aa35d1a0395d2f17be1

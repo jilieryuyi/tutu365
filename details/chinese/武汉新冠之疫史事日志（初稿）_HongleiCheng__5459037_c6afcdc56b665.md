@@ -8,7 +8,7 @@
 武汉新冠之疫史事日志（初稿）_Honglei Cheng__5459037_c6afcdc56b6659bcb123688660e49eec.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c6afcdc56b6659bcb123688660e49eec

@@ -8,7 +8,7 @@
 14996、_russian_Домой с небес_Поплавский Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5556a1b5f7eb3f4f3355b77589b0a570

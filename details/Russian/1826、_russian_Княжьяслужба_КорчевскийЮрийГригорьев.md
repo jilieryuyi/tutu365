@@ -8,7 +8,7 @@
 1826、_russian_Княжья служба_Корчевский Юрий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdfd20b6b2bd8e3e4b6ac5b3b7fbcfa8

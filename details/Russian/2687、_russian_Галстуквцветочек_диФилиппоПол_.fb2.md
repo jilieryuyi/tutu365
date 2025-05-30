@@ -8,7 +8,7 @@
 2687、_russian_Галстук в цветочек_ди Филиппо Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d20382e16c68ba90cd74b3ae0b425e0

@@ -8,7 +8,7 @@
 13024、_russian_Друзья Карацупы_Сорокин Василий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aff465a2d6b11c190e56a801806d1709

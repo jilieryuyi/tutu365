@@ -8,7 +8,7 @@
 14005、_other_Grad i zvezde_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c9e8674880cc97bcd7980c1494be1eb

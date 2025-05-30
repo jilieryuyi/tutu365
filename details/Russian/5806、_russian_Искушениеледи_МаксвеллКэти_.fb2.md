@@ -8,7 +8,7 @@
 5806、_russian_Искушение леди_Максвелл Кэти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e715da053e3ace8fae7123e88f4a520

@@ -8,7 +8,7 @@
 7188、_russian_О поэзии_Мандельштам Осип_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f99269c34142e261e2700c69cf68b115

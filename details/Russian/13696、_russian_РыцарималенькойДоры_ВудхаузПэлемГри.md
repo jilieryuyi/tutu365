@@ -8,7 +8,7 @@
 13696、_russian_Рыцари маленькой Доры_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 334912cbc2ef2d571c458accbe1c57b0

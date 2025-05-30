@@ -8,7 +8,7 @@
 4065、_russian_Родить Минотавра_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4522f5f77d01210d8c602ff482c1202

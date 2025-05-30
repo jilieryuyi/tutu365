@@ -8,7 +8,7 @@
 6387、_russian_Шерли_Бронте Шарлотта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06393481d3430a828be050ab63bd98c2

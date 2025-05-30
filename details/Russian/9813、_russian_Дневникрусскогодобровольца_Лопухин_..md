@@ -8,7 +8,7 @@
 9813、_russian_Дневник русского добровольца_Лопухин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eef38f02d4d5f8d45dadc514adeede50

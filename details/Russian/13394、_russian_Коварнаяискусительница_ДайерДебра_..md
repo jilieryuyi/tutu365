@@ -8,7 +8,7 @@
 13394、_russian_Коварная искусительница_Дайер Дебра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1856232d5fce299c5a9921a51616780

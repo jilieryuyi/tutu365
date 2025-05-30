@@ -8,7 +8,7 @@
 2263、_russian_В поисках бафоса_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddd1d5ed74f256d839ebbf7b37d3dcdc

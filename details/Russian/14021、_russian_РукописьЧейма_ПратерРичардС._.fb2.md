@@ -8,7 +8,7 @@
 14021、_russian_Рукопись Чейма_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 465179798667cfd9238e18bce0eb291c

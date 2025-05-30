@@ -8,7 +8,7 @@
 189、像间谍一样思考_CIA情报官首度公开出奇制胜的商业技巧_[美] J.C.卡尔森_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 51b4c13a0af35360d32c7246dfa58e27

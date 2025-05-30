@@ -8,7 +8,7 @@
 4606、_russian_Как спасти репутацию_Эшли Дженнифер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d69c0df24197baa908e96d83ff376b50

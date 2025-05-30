@@ -8,7 +8,7 @@
 1877、_russian_Любовь больше, чем правда_Ермак Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89cbeaa3d2db6ad20142df93a791fa4f

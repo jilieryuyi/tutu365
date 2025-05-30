@@ -8,7 +8,7 @@
 11957、_russian_С привольных степей_Кармен Лазарь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e445d9576f4440f97faeb03349d80de

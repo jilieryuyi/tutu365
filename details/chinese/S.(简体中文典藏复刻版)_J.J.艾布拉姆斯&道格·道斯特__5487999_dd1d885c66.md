@@ -8,7 +8,7 @@
 S. (简体中文典藏复刻版)_J.J.艾布拉姆斯 & 道格·道斯特__5487999_dd1d885c66aadc4506c9e5d2f24e2dc2.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dd1d885c66aadc4506c9e5d2f24e2dc2

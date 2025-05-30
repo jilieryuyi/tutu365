@@ -8,7 +8,7 @@
 2028、iOS编程（第4版）_[美] Christian Keur & [美] Aaron Hillegass & [美] Joe Conway_华中科技大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1ee804a5da85b5a9848f82524061819b

@@ -8,7 +8,7 @@
 4460、_russian_Деревянная свадьба_Такубо Хидэо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d48ac7041b80c0d7d8a3ffa819e1e285

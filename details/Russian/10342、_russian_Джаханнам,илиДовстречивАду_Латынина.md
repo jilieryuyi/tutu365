@@ -8,7 +8,7 @@
 10342、_russian_Джаханнам, или До встречи в Аду_Латынина Юлия Леонидовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d2215afcc3c09284e18df9865f22a6c

@@ -8,7 +8,7 @@
 13644、_russian_Одинокая в толпе_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8267df90fab96a59b6016e30999889e

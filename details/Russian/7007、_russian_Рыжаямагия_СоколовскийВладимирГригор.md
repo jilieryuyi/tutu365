@@ -8,7 +8,7 @@
 7007、_russian_Рыжая магия_Соколовский Владимир Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07597bb7e6cf734269dcbbc049cfe274

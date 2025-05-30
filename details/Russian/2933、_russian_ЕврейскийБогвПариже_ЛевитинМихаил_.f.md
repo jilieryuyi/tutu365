@@ -8,7 +8,7 @@
 2933、_russian_Еврейский Бог в Париже_Левитин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d886ffd935db2f423401e5f41ab716a

@@ -8,7 +8,7 @@
 10470、_russian_СЫН ИМПЕРИИ_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9745b0307ee13b55c7f90900c02284b3

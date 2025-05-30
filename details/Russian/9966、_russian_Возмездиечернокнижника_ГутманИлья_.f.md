@@ -8,7 +8,7 @@
 9966、_russian_Возмездие чернокнижника_Гутман Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ab784a8b730676dcbbd8845032859b0

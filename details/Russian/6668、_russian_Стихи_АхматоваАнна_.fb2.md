@@ -8,7 +8,7 @@
 6668、_russian_Стихи_Ахматова Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e102893b7f08f88a0b935c3c39f8bd1

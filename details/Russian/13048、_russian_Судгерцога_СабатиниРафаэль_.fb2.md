@@ -8,7 +8,7 @@
 13048、_russian_Суд герцога_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb0998e768840022b7beb2952ab855c3

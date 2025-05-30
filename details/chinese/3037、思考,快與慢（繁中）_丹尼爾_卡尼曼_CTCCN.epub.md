@@ -8,7 +8,7 @@
 3037、思考,快與慢（繁中）_丹尼爾_卡尼曼_CTCCN.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 14f00f7d5c27744677bcf4e3d0993e06

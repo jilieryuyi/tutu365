@@ -8,7 +8,7 @@
 12860、_russian_Соседка_Ригерт ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5ec1da38294a86fed5fb8a4a8bf6585

@@ -8,7 +8,7 @@
 8124、_russian_Экскалибур_Корнуэлл Бернард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6dd0e33c60b039094f9018c51442fe21

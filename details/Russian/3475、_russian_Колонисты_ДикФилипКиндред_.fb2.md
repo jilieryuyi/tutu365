@@ -8,7 +8,7 @@
 3475、_russian_Колонисты_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8dd879c9b5893730e28c5088c242fc7

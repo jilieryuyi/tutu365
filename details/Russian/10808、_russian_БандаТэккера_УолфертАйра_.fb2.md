@@ -8,7 +8,7 @@
 10808、_russian_Банда Тэккера_Уолферт Айра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac6a52f7cd2020575fd7b0834e9935d9

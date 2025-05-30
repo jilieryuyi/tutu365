@@ -8,7 +8,7 @@
 3524、_russian_Кэр Кабалла_Смит Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f79364896bc282ddab8ace341736fbac

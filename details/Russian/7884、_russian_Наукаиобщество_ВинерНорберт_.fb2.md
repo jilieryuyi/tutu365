@@ -8,7 +8,7 @@
 7884、_russian_Наука и общество_Винер Норберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62c68b7c73c3dc97c0931af1f6d3745e

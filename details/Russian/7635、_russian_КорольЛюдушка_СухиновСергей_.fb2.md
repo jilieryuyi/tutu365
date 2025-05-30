@@ -8,7 +8,7 @@
 7635、_russian_Король Людушка_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcae68c7e8a754dbb593c9b6bd4ed4ea

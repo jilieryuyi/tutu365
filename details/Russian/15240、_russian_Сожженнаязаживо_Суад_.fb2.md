@@ -8,7 +8,7 @@
 15240、_russian_Сожженная заживо_Суад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ad386cef53267d1a447cef54c3310e3

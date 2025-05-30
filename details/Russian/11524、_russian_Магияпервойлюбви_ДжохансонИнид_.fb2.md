@@ -8,7 +8,7 @@
 11524、_russian_Магия первой любви_Джохансон Инид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e2c37e96917653e2396b7e45e9f2436

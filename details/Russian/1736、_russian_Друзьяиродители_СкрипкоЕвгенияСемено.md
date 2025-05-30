@@ -8,7 +8,7 @@
 1736、_russian_Друзья и родители_Скрипко Евгения Семеновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baa767b81297549781d53cf2a0c63975

@@ -8,7 +8,7 @@
 2309、_russian_Встреча (перевод Т. Воронкиной)_Балаж Арпад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1be259183ce91421529d72a0f9ead95

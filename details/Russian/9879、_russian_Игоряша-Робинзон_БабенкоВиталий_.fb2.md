@@ -8,7 +8,7 @@
 9879、_russian_Игоряша-Робинзон_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6741809ffab7ed7bc3bf10797455636e

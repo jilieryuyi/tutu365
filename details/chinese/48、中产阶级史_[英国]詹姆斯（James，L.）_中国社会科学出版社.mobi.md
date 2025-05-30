@@ -8,7 +8,7 @@
 48、中产阶级史_[英国] 詹姆斯（James，L.）_中国社会科学出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0a68aaadb921c8d16d8a229db5e4cac8

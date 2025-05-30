@@ -8,7 +8,7 @@
 2990、_russian_Рассказы_Винер Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a25b0544f18fff7d9adae15fc12cb761

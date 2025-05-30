@@ -8,7 +8,7 @@
 11176、_english_Lady Tamsyn and the Pixie's Curse_Deb Marlowe_Deb Marlowe.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c87246db5ef186d37d07b2411f35479e

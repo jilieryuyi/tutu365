@@ -8,7 +8,7 @@
 10691、_russian_Золотой мираж_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acfa81c01e322a5b3fa77cffe1ee050b

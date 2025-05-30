@@ -8,7 +8,7 @@
 人类行为的经济分析 (当代经济学译库)_加里·贝克尔 (Gary S. Becker) [加里·贝克尔 (Gary S. Becker)]__5294608_62a05f6fcb87ff47d3cefda9d7d28a5a.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 62a05f6fcb87ff47d3cefda9d7d28a5a

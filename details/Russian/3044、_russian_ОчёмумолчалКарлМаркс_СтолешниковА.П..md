@@ -8,7 +8,7 @@
 3044、_russian_О чём умолчал Карл Маркс_Столешников А. П._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e519db046653165634ec1b3cce230489

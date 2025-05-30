@@ -8,7 +8,7 @@
 3221、ZOO - 全一卷_乙一,矢也晶久_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 67739e8593bb2da2630009b283b95cc9

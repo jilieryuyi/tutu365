@@ -8,7 +8,7 @@
 12297、_russian_Красная жара_Тайн Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2580fc421672ad7f0ffdec42a41d6959

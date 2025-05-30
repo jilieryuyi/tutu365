@@ -8,7 +8,7 @@
 6649、_russian_Какое надувательство!_Коу Джонатан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d92d9a03cfe9d478bc4d08f38f6121d4

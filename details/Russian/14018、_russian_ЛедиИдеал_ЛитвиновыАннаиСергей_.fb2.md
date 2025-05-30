@@ -8,7 +8,7 @@
 14018、_russian_Леди Идеал_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f9bc27aae78478c86216c1e19d9b627

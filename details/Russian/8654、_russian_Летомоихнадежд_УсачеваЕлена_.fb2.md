@@ -8,7 +8,7 @@
 8654、_russian_Лето моих надежд_Усачева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35e4e40b44264ef0c0dcdacb9908e6a1

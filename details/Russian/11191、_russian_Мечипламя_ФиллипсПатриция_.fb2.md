@@ -8,7 +8,7 @@
 11191、_russian_Меч и пламя_Филлипс Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a52295b4116aa96d9165cb715719c78

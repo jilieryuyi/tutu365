@@ -8,7 +8,7 @@
 466、_russian_Воин Скорпиона_Балмер Генри Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6486344a70d86cb2946a6211bffec1f2

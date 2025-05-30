@@ -8,7 +8,7 @@
 3065、_russian_В позе трупа_Пронин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f202face42f362e3dca2d7644bcf9a02

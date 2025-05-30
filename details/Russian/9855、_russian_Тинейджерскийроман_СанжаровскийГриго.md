@@ -8,7 +8,7 @@
 9855、_russian_Тинейджерский роман_Санжаровский Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ae4b1a9d021eac81e5faa751fea5893

@@ -8,7 +8,7 @@
 3927、_russian_Бард_Стерх Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fc8700a43e2ed6829e06eaafa6bb43e

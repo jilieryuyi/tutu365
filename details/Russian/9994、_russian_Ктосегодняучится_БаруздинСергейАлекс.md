@@ -8,7 +8,7 @@
 9994、_russian_Кто сегодня учится_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88f1476a85bddabdae2de688c7950a98

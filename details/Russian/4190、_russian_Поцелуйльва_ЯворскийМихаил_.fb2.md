@@ -8,7 +8,7 @@
 4190、_russian_Поцелуй льва_Яворский Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c89bdfd8c4d385aa6bf272d432a6b463

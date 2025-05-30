@@ -8,7 +8,7 @@
 12260、_russian_Ночной десант_Мейер Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e508b38d83ad0e9c5ddd0b94e7599c4

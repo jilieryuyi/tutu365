@@ -8,7 +8,7 @@
 3395、_russian_Альбом идиота_Столяров Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 541e4366b971dd4737080d5a9e7a055b

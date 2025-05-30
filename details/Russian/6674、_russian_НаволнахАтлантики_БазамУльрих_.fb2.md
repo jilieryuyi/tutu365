@@ -8,7 +8,7 @@
 6674、_russian_На волнах Атлантики_Базам Ульрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98befc7ce018dd0ea05f1002a25b513f

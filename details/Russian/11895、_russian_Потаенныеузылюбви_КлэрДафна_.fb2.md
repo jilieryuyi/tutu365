@@ -8,7 +8,7 @@
 11895、_russian_Потаенные узы любви_Клэр Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0611e74e9de05cbc9609263d1167773

@@ -8,7 +8,7 @@
 13159、_russian_Волнение_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f9a83f8957918610ae6ffae594717be

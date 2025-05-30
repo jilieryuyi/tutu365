@@ -8,7 +8,7 @@
 84、日本新中产阶级（哈佛大学中日研究专家傅高义成名作！） (傅高义作品系列)_傅高义(Ezra F. Vogel)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0ec447f46c2139218429f247754922c1

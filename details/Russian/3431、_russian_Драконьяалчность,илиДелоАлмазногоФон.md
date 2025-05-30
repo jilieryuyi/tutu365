@@ -8,7 +8,7 @@
 3431、_russian_Драконья алчность, или Дело Алмазного Фонда_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2c512f06591dfa51a2ec5d3448d1e20

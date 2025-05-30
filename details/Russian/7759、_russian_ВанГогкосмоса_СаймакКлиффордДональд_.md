@@ -8,7 +8,7 @@
 7759、_russian_Ван Гог космоса_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1682fa7f0db2655006803569293d3d7e

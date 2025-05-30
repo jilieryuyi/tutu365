@@ -8,7 +8,7 @@
 JavaScript编程精解.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6863c52b9c7f83660a4e95bf69a6ab3c

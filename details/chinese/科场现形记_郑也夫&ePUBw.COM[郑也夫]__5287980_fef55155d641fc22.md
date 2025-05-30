@@ -8,7 +8,7 @@
 科场现形记_郑也夫 & ePUBw.COM [郑也夫]__5287980_fef55155d641fc22c5a92331bf81e617.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fef55155d641fc22c5a92331bf81e617

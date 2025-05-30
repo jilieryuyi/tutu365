@@ -8,7 +8,7 @@
 10985、_russian_В тропиках_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f000c1ef0c3f4280355b396095b5ed2

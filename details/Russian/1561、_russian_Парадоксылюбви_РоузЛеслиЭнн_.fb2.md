@@ -8,7 +8,7 @@
 1561、_russian_Парадоксы любви_Роуз Лесли Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cefc85530e9117573afe9695ecb8961

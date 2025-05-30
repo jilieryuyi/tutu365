@@ -8,7 +8,7 @@
 2650、_russian_Наша игра_Ле Карре Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55eb005bcf3c45865a5a8b5d48446e3e

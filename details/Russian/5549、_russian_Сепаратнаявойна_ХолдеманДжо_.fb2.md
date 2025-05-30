@@ -8,7 +8,7 @@
 5549、_russian_Сепаратная война_Холдеман Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1369957f8d7005daa502f8c1fd1d7a66

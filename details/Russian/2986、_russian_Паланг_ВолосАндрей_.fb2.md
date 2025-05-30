@@ -8,7 +8,7 @@
 2986、_russian_Паланг_Волос Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7873bf25cf21257f90e281e7269b929

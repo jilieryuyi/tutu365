@@ -8,7 +8,7 @@
 1812、_russian_Нефритовые четки_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a465a39b1f232a73d821eae3aab23a57

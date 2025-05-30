@@ -8,7 +8,7 @@
 6839、_russian_Приму твою любовь_Леклер Дэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df2d9992631f51a3e64a33f03cdf650f

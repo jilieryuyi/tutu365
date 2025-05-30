@@ -8,7 +8,7 @@
 361、_russian_Война Космического Ганфайтера_Абердин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2d72c58b976671ff3165d5dfe336ee2

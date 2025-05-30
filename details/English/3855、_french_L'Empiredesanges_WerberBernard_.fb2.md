@@ -8,7 +8,7 @@
 3855、_french_L'Empire des anges_Werber Bernard_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f6294e70b2960bd1ee27dc4a72ae6f7e

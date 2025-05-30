@@ -8,7 +8,7 @@
 4701、_russian_Боги и касты языческой Руси_Прозоров Лев Рудольфович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6abc58f261f01dc18e10cf7f88456d4f

@@ -8,7 +8,7 @@
 7190、_russian_Сартр за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1538206d64e71ce282ddf19fd7962784

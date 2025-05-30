@@ -8,7 +8,7 @@
 5596、_russian_Верный Руслан_Владимов Георгий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25bc5696038df7815d5f12bddb24ed8c

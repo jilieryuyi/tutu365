@@ -8,7 +8,7 @@
 10289、_russian_Танец любви_Батлер Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c49b654748104bf8a31cb56db2f4422f

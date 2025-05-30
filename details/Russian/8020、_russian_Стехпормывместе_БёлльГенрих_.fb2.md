@@ -8,7 +8,7 @@
 8020、_russian_С тех пор мы вместе_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ee804a5da85b5a9848f82524061819b

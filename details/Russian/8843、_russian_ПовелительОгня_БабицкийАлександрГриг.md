@@ -8,7 +8,7 @@
 8843、_russian_Повелитель Огня_Бабицкий Александр Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05a6141776e79a82bae9fd5d0cdbe7c3

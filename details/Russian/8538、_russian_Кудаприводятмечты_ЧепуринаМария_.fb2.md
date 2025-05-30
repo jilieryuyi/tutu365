@@ -8,7 +8,7 @@
 8538、_russian_Куда приводят мечты_Чепурина Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b02cd8498d38f7feffaf3b1d627771a

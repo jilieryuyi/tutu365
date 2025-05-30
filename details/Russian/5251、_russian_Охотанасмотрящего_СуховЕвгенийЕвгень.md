@@ -8,7 +8,7 @@
 5251、_russian_Охота на смотрящего_Сухов Евгений Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd350aa3623bdf743904903a6b93b0fc

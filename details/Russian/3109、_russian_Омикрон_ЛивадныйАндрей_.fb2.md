@@ -8,7 +8,7 @@
 3109、_russian_Омикрон_Ливадный Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e829103de972ddcbc61cd56dc8efc7a1

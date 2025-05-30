@@ -8,7 +8,7 @@
 2961、_russian_Выкрест_Зорин Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29ca90eb17ff15c7a6a0a5a5ff240cdc

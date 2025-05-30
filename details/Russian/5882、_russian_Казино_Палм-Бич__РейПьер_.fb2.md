@@ -8,7 +8,7 @@
 5882、_russian_Казино _Палм-Бич__Рей Пьер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a2e93410a4a4286645eb7d6114beaa1

@@ -8,7 +8,7 @@
 11217、_english_Colin's Conundrum_Simone Beaudelaire_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 855eb6b1926881cacf0635bad074d12e

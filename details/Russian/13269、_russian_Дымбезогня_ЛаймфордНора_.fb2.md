@@ -8,7 +8,7 @@
 13269、_russian_Дым без огня_Лаймфорд Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4076c4b64421031c1b2ea4f5008a5711

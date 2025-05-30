@@ -8,7 +8,7 @@
 829、_russian_Всей силой любви_Берристер Инга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c29690171420e6b268239a46070a4cd

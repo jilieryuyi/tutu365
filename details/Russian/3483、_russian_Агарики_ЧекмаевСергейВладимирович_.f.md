@@ -8,7 +8,7 @@
 3483、_russian_Агарики_Чекмаев Сергей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d448dc795c20950467025d9c0ec281a2

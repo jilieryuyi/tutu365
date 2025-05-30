@@ -8,7 +8,7 @@
 14573、_russian_Последний день славной женщины_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 923f4d25e7cb844d31da9c93789a9fe5

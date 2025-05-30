@@ -8,7 +8,7 @@
 10046、_russian_Случай уставшего клерка_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b0d15c3c3f73d785359285ed4200d7a

@@ -8,7 +8,7 @@
 12944、_russian_Строптивая любовь_Ричмонд Эмма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48240ce6fe07f5ecce158c12f8cc06b1

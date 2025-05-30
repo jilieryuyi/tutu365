@@ -8,7 +8,7 @@
 7473、_russian_Злодеям.net_Сотников Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53cc3b9d22ef554b585437ba270835a1

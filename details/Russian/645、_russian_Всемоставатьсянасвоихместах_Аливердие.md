@@ -8,7 +8,7 @@
 645、_russian_Всем оставаться на своих местах_Аливердиев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 353555c834c4acc66d66033bd397200e

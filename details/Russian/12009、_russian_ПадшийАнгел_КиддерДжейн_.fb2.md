@@ -8,7 +8,7 @@
 12009、_russian_Падший Ангел_Киддер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b36c2746eca5fcda1be7e00a6b795300

@@ -8,7 +8,7 @@
 760、_russian_Северная корона_Смирнов Олег Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4899a8ae9147def21ee2c4763873f014

@@ -8,7 +8,7 @@
 11901、_russian_Данилушка_Помяловский Николай Герасимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4df171b18781f23faa2ebcfb777f1836

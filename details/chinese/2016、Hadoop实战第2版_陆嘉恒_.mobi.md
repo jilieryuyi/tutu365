@@ -8,7 +8,7 @@
 2016、Hadoop实战第2版_陆嘉恒_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8dab649324a949c03529f51108d7094a

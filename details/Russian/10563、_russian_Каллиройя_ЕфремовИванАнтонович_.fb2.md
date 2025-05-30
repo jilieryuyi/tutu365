@@ -8,7 +8,7 @@
 10563、_russian_Каллиройя_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 224bcb332394f2a7ef0ba504ae9d94b5

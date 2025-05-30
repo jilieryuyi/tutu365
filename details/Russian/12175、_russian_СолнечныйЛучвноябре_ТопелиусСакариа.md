@@ -8,7 +8,7 @@
 12175、_russian_Солнечный Луч в ноябре_Топелиус Сакариас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e3f990fa370de5802db6ac03e7383f5

@@ -8,7 +8,7 @@
 程序之美系列：测试之美、安全之美_Tim Riley ；Adam Goucher； Andy Oram ；John Viega__5476516_01029d157c70de9ea27c9b63c1673a6d.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 01029d157c70de9ea27c9b63c1673a6d

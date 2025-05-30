@@ -8,7 +8,7 @@
 9970、_russian_Прокол_Ерофеев Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a88b409c8df8aff51bccb4bd925b1303

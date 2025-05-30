@@ -8,7 +8,7 @@
 8677、_russian_Государственный мститель_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 780cbe440d0e4ee6c81b74714c2e4e4b

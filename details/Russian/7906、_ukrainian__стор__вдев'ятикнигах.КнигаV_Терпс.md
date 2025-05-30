@@ -8,7 +8,7 @@
 7906、_ukrainian__стор__ в дев'яти книгах. КнигаV_ Терпс_хора_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 690afd42a1671c3d8f7faec0e8f7abe4

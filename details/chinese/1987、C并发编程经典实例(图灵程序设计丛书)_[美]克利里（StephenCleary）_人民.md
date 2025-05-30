@@ -8,7 +8,7 @@
 1987、C#并发编程经典实例 (图灵程序设计丛书)_[美]克利里（Stephen Cleary）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 25318adad0f233fa0f019b128556019f

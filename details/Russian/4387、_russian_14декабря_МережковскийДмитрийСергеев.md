@@ -8,7 +8,7 @@
 4387、_russian_14 декабря_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b86c58baba1c1a6a0a99b926ae4d575

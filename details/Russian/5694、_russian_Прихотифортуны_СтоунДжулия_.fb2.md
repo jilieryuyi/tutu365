@@ -8,7 +8,7 @@
 5694、_russian_Прихоти фортуны_Стоун Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21a9108449f9c0cda34d6172c09228d8

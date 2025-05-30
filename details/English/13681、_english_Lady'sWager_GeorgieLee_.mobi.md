@@ -8,7 +8,7 @@
 13681、_english_Lady's Wager_Georgie Lee_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f74c2103f39a21aa2cd9ef6a0555a1d5

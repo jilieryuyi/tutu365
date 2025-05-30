@@ -8,7 +8,7 @@
 3319、_russian_Две возможности_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62f4cb71b3c7e5abbb60c47afe7b4869

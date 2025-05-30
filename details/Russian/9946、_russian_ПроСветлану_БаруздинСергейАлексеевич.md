@@ -8,7 +8,7 @@
 9946、_russian_Про Светлану_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5b24d07c8eace4fd16a123aa7ed2235

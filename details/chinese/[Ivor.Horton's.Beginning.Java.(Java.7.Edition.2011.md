@@ -8,7 +8,7 @@
 [Ivor.Horton's.Beginning.Java.(Java.7.Edition.2011.9)].Ivor.Horton.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cb849628906dea03b6706598fd780300

@@ -8,7 +8,7 @@
 3767、_russian_КНИГА ДУХОВ СТОЯЩИХ КАМНЕЙ_Каннингем Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e3f0a0b52c1404eeaea3d9b8d2645fc

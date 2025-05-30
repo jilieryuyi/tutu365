@@ -8,7 +8,7 @@
 12679、_russian_Дом на берегу_Липатов Виль Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5844c21fb0de662667b6f6afda53a26

@@ -8,7 +8,7 @@
 12017、_russian_Дом на Локте Сатаны_Карр Джон Диксон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 877e4d08dbb877f9479402566e4042ee

@@ -8,7 +8,7 @@
 4478、_russian_Сладкая месть_Мэтер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fa2792cda87d7276e642ee70a8f4446

@@ -8,7 +8,7 @@
 10117、_russian_Лекарство для мисс Марпл_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 422d97dc4e54e577e92f2f36077b8a9f

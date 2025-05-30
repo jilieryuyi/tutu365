@@ -8,7 +8,7 @@
 9055、_russian_Абхазский миротворец_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c076abd8a040c5c7693b34eaad6e05c

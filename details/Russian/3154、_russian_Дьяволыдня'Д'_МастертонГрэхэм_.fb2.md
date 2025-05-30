@@ -8,7 +8,7 @@
 3154、_russian_Дьяволы дня 'Д'_Мастертон Грэхэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eecde4b78545ac943f825c2433c0e05e

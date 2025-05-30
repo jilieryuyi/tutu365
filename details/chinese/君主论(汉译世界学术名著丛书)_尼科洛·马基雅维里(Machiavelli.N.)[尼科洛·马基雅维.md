@@ -8,7 +8,7 @@
 君主论 (汉译世界学术名著丛书)_尼科洛·马基雅维里(Machiavelli.N.) [尼科洛·马基雅维里(Machiavelli.N.)]__5351699_bab36140524e1e4d81ccd46ad5bff57d.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bab36140524e1e4d81ccd46ad5bff57d

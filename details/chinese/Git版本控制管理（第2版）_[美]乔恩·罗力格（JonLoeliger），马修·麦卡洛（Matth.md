@@ -8,7 +8,7 @@
 Git版本控制管理（第2版）_[美]乔恩·罗力格（Jon Loeliger），马修·麦卡洛（Matthew McCullough）著__5530427_4f13a9f82ddb3dfd3ac5834da102ed81.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4f13a9f82ddb3dfd3ac5834da102ed81

@@ -8,7 +8,7 @@
 10966、_russian_Похитители_Фолкнер Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20fcf3bb06e2e19b004982c2687cfea6

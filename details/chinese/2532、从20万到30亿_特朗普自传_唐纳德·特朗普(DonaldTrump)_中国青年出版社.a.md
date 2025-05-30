@@ -8,7 +8,7 @@
 2532、从20万到30亿_特朗普自传_唐纳德·特朗普(Donald Trump)_中国青年出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f36e8950963713ea2e7d3c3f00817933

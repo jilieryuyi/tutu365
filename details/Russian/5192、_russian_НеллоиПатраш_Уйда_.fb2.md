@@ -8,7 +8,7 @@
 5192、_russian_Нелло и Патраш_Уйда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c0c54a33fa95b997d504dcb8860e474

@@ -8,7 +8,7 @@
 7743、_russian_Русский боевик_Романовский Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c30d035f9a5db38183ce9b372a12af95

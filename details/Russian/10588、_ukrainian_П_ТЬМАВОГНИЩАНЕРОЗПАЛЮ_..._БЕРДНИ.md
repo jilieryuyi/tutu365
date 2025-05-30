@@ -8,7 +8,7 @@
 10588、_ukrainian_П_ТЬМА ВОГНИЩА НЕ РОЗПАЛЮ_..._БЕРДНИК ОЛЕСЬ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43c4578e9234eda30bed001127d4ea2d

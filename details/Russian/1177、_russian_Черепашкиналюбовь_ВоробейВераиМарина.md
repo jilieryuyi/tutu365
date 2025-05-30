@@ -8,7 +8,7 @@
 1177、_russian_Черепашкина любовь_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98d6ce5b1fa0a7a63b33af974e12fa02

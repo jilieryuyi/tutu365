@@ -8,7 +8,7 @@
 6981、_russian_TRISTIA_Мандельштам Осип_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dff5f5bfa5e864299546565f482d78d0

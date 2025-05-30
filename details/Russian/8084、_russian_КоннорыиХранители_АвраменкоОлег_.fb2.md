@@ -8,7 +8,7 @@
 8084、_russian_Конноры и Хранители_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f430e1e6ed8c01f1ebb7f16e8003aac

@@ -8,7 +8,7 @@
 10385、_russian_Любимая игрушка_Краснова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4258280b02e70f368f96df64dca03952

@@ -8,7 +8,7 @@
 967、_russian_Опрокинутый мир_Прист Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4678241c99f9e94f891233b430d5e310

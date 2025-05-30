@@ -8,7 +8,7 @@
 4312、_russian_Дворянский бунт_Соловьев Всеволод Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a22086b22ac8351ae441a0b7e6cd6288

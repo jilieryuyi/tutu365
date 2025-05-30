@@ -8,7 +8,7 @@
 14450、_russian_Спасблок_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a96f0d6c379baf3e6e2e2bcb7f278e6

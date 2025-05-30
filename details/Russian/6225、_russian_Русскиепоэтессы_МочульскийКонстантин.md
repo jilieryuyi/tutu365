@@ -8,7 +8,7 @@
 6225、_russian_Русские поэтессы_Мочульский Константин Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b96d2714d1be14171c4c7de2bee7bf5a

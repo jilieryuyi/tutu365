@@ -8,7 +8,7 @@
 9325、_russian_Трибьют_Робертс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 568b96e5822a590c8c0fdaadf6d5b53e

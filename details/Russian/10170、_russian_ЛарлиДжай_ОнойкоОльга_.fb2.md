@@ -8,7 +8,7 @@
 10170、_russian_Ларли Джай_Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0dea21a1911de1e2c1a52a5c0f92d6db

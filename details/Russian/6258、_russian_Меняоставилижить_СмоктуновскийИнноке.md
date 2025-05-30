@@ -8,7 +8,7 @@
 6258、_russian_Меня оставили жить_Смоктуновский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83daa19d9dc0579d34d774ca17833a3a

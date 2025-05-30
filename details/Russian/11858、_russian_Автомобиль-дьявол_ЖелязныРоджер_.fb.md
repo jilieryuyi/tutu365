@@ -8,7 +8,7 @@
 11858、_russian_Автомобиль-дьявол_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c61d45ab37b6ab0bb5f1b827e141227a

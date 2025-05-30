@@ -8,7 +8,7 @@
 13075、_russian_Воины бури_Чалкер Джек Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c5c77c7d827f7f9a44df470878ff03a

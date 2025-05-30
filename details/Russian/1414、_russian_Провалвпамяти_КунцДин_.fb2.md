@@ -8,7 +8,7 @@
 1414、_russian_Провал в памяти_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ee9a59a2ee66cb29a8503f97886bbb8

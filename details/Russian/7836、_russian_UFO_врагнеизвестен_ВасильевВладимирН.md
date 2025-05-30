@@ -8,7 +8,7 @@
 7836、_russian_UFO_ враг неизвестен_Васильев Владимир Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11a6b03c0f61a121fc6fa08a3faeb35f

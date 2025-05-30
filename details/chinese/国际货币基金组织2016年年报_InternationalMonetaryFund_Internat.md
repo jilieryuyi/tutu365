@@ -8,7 +8,7 @@
 国际货币基金组织2016年年报_International Monetary Fund_International Monetary Fund.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5d81d0cd81404d1f4a08925fa9edce8b

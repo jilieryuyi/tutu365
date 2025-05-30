@@ -8,7 +8,7 @@
 5420、_russian_Джо шутник_Раньон Деймон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 345f358e7a7a23ced58a1436ff2a8deb

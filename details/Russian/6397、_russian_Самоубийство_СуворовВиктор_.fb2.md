@@ -8,7 +8,7 @@
 6397、_russian_Самоубийство_Суворов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3935725f2cb80f21aa88ef54e289a96

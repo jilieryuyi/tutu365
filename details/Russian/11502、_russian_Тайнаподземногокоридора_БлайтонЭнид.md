@@ -8,7 +8,7 @@
 11502、_russian_Тайна подземного коридора_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3834c09025d174f51754ef46bd8eb76f

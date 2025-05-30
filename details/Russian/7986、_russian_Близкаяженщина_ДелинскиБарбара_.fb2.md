@@ -8,7 +8,7 @@
 7986、_russian_Близкая женщина_Делински Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4f9b54f934e3a10edb2ea0650fdac74

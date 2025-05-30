@@ -8,7 +8,7 @@
 12923、_english_Summer's Reign_Elizabeth Rose_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0f09a05fb886a76bad2a8593eb5fcbcd

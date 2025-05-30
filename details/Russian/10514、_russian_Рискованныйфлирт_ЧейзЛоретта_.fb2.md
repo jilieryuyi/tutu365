@@ -8,7 +8,7 @@
 10514、_russian_Рискованный флирт_Чейз Лоретта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8e6321f64255eb1ba99463b2668a769

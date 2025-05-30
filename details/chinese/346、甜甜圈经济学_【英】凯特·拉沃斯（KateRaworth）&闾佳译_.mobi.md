@@ -8,7 +8,7 @@
 346、甜甜圈经济学_【英】凯特·拉沃斯（Kate Raworth） & 闾佳译_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3ab8360dae1dd31aa20db398cf3eddb2

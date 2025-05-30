@@ -8,7 +8,7 @@
 741、_russian_От автора_Локхард Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a02a76f4a6fe0bd6b7c7422f78dd06c5

@@ -8,7 +8,7 @@
 8934、_russian_Письмо из деревни_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f07a383e0c702bdbd4becf4198ba1035

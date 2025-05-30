@@ -8,7 +8,7 @@
 2647、_russian__Сирены_ атакуют_Черкасов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ba9e22daa54af3205f0a48a833e11e6

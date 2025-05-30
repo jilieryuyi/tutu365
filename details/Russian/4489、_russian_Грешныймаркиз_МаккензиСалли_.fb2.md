@@ -8,7 +8,7 @@
 4489、_russian_Грешный маркиз_Маккензи Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca8143ab34f639eca4567e820a54a4f6

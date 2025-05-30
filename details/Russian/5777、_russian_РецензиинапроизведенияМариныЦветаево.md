@@ -8,7 +8,7 @@
 5777、_russian_Рецензии на произведения Марины Цветаевой_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbf28ddd4849f1cec2a5223f65888c7d

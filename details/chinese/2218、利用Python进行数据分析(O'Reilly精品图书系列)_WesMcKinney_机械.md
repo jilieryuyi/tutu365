@@ -8,7 +8,7 @@
 2218、利用Python进行数据分析 (O'Reilly精品图书系列)_Wes McKinney_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dc09f59cc3cae36faffa2576d8f620f5

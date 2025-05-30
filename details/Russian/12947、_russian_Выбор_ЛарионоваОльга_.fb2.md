@@ -8,7 +8,7 @@
 12947、_russian_Выбор_Ларионова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f84394d487c4c16f426711b764d831b

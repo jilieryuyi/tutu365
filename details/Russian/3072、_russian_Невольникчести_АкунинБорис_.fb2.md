@@ -8,7 +8,7 @@
 3072、_russian_Невольник чести_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8575857a7e211858c9566199a71484f9

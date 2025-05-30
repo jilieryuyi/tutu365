@@ -8,7 +8,7 @@
 16310、_french_La nouvelle grammaire de l'amazighe_Fatima Boukhris, Abdallah Boumalk, El Houssa_n El Moujahid, Hamid Souifi_Publications de l'Institut Royal de la Culture Amazighe.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f6f6e7072ba09444f03419c18c8710e1

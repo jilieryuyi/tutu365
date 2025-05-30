@@ -8,7 +8,7 @@
 3734、_russian_Дерзкая интриганка_Майклз Кейси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff385377fcb45a290aba514fa20e3009

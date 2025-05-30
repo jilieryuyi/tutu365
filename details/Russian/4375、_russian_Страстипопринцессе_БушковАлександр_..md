@@ -8,7 +8,7 @@
 4375、_russian_Страсти по принцессе_Бушков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33b32da1405205e6c3c9923fc0b226ec

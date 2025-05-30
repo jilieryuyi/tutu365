@@ -8,7 +8,7 @@
 5471、_russian_Открытый путь_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e91e57311394ae39310cca50b397d193

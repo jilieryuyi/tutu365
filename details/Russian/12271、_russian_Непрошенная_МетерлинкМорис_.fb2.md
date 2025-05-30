@@ -8,7 +8,7 @@
 12271、_russian_Непрошенная_Метерлинк Морис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e95ff119b3aee5840c90ebe7cec04252

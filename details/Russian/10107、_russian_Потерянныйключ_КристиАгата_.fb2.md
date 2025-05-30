@@ -8,7 +8,7 @@
 10107、_russian_Потерянный ключ_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4710b50f92b5998472addd52af8d83e

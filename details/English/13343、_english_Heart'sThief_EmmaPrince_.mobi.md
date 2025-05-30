@@ -8,7 +8,7 @@
 13343、_english_Heart's Thief_Emma Prince_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 19b67980da7e207b1dc43396f1c38345

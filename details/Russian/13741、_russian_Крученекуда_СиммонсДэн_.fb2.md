@@ -8,7 +8,7 @@
 13741、_russian_Круче некуда_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cef58cb7c62c33d6629cb9a2dfadd79

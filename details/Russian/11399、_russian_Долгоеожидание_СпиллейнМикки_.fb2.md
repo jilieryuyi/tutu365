@@ -8,7 +8,7 @@
 11399、_russian_Долгое ожидание_Спиллейн Микки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3cce8f1e2ca8283b62de6b5bb919ba4

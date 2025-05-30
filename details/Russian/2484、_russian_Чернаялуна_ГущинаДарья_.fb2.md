@@ -8,7 +8,7 @@
 2484、_russian_Черная луна_Гущина Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a9829c818ead1f63a79e2363a0ccc80

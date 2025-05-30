@@ -8,7 +8,7 @@
 4443、_russian_Как избежать соблазна_Рэнни Карен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d564f1d900759837089495a733ead021

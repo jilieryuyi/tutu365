@@ -8,7 +8,7 @@
 11、_russian_И все регионы России_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e1e9f28e42ae0dae45745797f442469

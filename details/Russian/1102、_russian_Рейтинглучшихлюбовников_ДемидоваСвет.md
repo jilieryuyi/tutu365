@@ -8,7 +8,7 @@
 1102、_russian_Рейтинг лучших любовников_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e909af4934eaceb16b0f05d6f305537

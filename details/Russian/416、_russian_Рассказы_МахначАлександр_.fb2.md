@@ -8,7 +8,7 @@
 416、_russian_Рассказы_Махнач Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c779a4ee4f27d79e6a9804be1abd6f9

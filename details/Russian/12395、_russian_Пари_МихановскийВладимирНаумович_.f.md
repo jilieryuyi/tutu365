@@ -8,7 +8,7 @@
 12395、_russian_Пари_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52196f242f577cdb3616c73bf0e6fc64

@@ -8,7 +8,7 @@
 8553、_russian_В плену иллюзий_Углов Фёдор Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7c08db3a02454fb35393fb37b6dd490

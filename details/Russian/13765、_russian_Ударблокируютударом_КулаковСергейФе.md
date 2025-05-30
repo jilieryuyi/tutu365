@@ -8,7 +8,7 @@
 13765、_russian_Удар блокируют ударом_Кулаков Сергей Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 856907687ae8b836fba553a01c90e1c2

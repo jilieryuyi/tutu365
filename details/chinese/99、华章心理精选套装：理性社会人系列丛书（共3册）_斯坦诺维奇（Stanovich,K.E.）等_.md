@@ -8,7 +8,7 @@
 99、华章心理精选套装：理性社会人系列丛书（共3册）_斯坦诺维奇（Stanovich,K.E.）等_北京华章图文信息有限公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 63526cf443ee206bcbecfb11c74c21e1

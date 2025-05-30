@@ -8,7 +8,7 @@
 3669、_russian_Пересадка_Ле Гуин Урсула_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08d826a7f814afd071f1bb87ab80909f

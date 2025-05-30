@@ -8,7 +8,7 @@
 4573、_russian_Наказание за любовь_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7188ac9be08f30b54b40adb0a56d36d2

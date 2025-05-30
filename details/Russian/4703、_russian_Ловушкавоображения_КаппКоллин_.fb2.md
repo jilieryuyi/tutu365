@@ -8,7 +8,7 @@
 4703、_russian_Ловушка воображения_Капп Коллин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ead55f2d34a0648bd73dad9e160ce13c

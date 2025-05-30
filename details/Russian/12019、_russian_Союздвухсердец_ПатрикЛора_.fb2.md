@@ -8,7 +8,7 @@
 12019、_russian_Союз двух сердец_Патрик Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 713e51859591d6f48e7044a78ae8ff0c

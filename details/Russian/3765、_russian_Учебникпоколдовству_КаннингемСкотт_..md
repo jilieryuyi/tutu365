@@ -8,7 +8,7 @@
 3765、_russian_Учебник по колдовству_Каннингем Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb176712a264dce767b4321fc2fec7e0

@@ -8,7 +8,7 @@
 12880、_russian_Леля Селезнева с факультета журналистики_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac4592bff98e6db5033157a2e5506d8d

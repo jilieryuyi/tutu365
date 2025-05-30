@@ -8,7 +8,7 @@
 4762、_russian_Витязи в шкурах_Дроздов Анатолий Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 323b12f6ad80b401b83d74eeff65089b

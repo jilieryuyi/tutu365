@@ -8,7 +8,7 @@
 8259、_russian_Город Эмбер_ Люди Искры_Дюпро Джин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b0353ab8a85dc15b209b70f0e06f391

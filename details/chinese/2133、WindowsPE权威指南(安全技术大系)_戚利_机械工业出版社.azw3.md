@@ -8,7 +8,7 @@
 2133、Windows PE权威指南 (安全技术大系)_戚利_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 19f372873050ff1292d0b05a88e75a65

@@ -8,7 +8,7 @@
 13339、_english_Highlander's Redemption_Emma Prince_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 24c5862640225d1fef8c02bc7e9f333b

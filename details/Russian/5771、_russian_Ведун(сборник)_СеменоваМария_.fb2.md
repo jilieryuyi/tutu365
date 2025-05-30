@@ -8,7 +8,7 @@
 5771、_russian_Ведун (сборник)_Семенова Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1dcf3bbc661218d7d09af624bf512e1

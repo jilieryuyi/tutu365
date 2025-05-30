@@ -8,7 +8,7 @@
 2910、_russian_Член общества, или Голодное время_Носов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae5d304cbf38c746ff57eba082f53afe

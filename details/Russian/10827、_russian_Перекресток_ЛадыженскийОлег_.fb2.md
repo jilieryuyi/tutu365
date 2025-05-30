@@ -8,7 +8,7 @@
 10827、_russian_Перекресток_Ладыженский Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a4a026c44a82c61deb066eafc35ed77

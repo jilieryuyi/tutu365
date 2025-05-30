@@ -8,7 +8,7 @@
 8235、_russian_Мост из слоновой кости_Калиниченко Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4cbd246386d44ae05ecdd1511718395

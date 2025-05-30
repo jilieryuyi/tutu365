@@ -8,7 +8,7 @@
 3207、_russian_Игрушка судьбы_Дехейм Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42bdc6d09c080497fb814765c8a59c32

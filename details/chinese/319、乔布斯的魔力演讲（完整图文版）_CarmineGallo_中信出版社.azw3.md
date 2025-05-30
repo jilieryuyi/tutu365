@@ -8,7 +8,7 @@
 319、乔布斯的魔力演讲（完整图文版）_Carmine Gallo_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 97152a477bd8f39eb98cf87c7ba849b7

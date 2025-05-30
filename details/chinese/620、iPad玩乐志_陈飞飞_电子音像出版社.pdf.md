@@ -8,7 +8,7 @@
 620、iPad玩乐志_陈飞飞_电子音像出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3a2d9351e9e44102bca437f2ccd2b3da

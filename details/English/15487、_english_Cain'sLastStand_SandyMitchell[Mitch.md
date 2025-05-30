@@ -8,7 +8,7 @@
 15487、_english_Cain's Last Stand_Sandy Mitchell [Mitchell, Sandy]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4dbcbcb7b8e4f946f6295b364ad92073

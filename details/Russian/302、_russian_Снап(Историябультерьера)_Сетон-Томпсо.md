@@ -8,7 +8,7 @@
 302、_russian_Снап (История бультерьера)_Сетон-Томпсон Эрнест_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71d19ec6a100a888e700c0da77527350

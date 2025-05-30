@@ -8,7 +8,7 @@
 1873、_russian_Дожди - пистолеты_Зверь Рома_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5e07753c17393a6901c48ffc5daa57d

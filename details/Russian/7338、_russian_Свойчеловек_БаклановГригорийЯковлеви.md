@@ -8,7 +8,7 @@
 7338、_russian_Свой человек_Бакланов Григорий Яковлевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9de17f3ff8e39e8b18c67085a59759d

@@ -8,7 +8,7 @@
 10823、_english_The Courtesan's Wager_Claudia Dain_PENGUIN group.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9a62f21d6bcee0608870898b978f7b5c

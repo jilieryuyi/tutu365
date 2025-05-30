@@ -8,7 +8,7 @@
 14588、_russian_Нету!_Балабанов Румен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee39e0c7c97dad7dd645da7d4c78b17f

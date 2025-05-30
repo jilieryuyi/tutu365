@@ -8,7 +8,7 @@
 1974、_russian_Вампир для истинной королевы_Клименко Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9d6b65c5f54e0f70f17164dabc0df86

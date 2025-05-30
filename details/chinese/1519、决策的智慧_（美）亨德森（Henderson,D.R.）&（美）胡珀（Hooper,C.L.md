@@ -8,7 +8,7 @@
 1519、决策的智慧_（美）亨德森（Henderson,D. R.） & （美）胡珀（Hooper,C. L.） 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 465b3e6467029bc1bd0fb96ec2019ba6

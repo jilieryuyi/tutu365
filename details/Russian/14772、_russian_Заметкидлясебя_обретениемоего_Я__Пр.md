@@ -8,7 +8,7 @@
 14772、_russian_Заметки для себя_ обретение моего _Я__Пратер Хью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fc986226ad8c4c7a63bca4fa7d62b06

@@ -8,7 +8,7 @@
 10062、_english_The Lost Fleet_ Courageous_Campbell Jack_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4ccc1a27738965d9144e3d07ec08a226

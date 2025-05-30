@@ -8,7 +8,7 @@
 14995、_russian_Солнце Солнц_Шрёдер Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0029d3b33fd2bb83c5d2c9e63d0c4508

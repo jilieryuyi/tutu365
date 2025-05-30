@@ -8,7 +8,7 @@
 7290、_russian_Вовкин снеговик_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 490106f2b632838ad1686ee50c1fa99d

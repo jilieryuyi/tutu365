@@ -8,7 +8,7 @@
 1386、_russian_Альдана Четыре новых человека_Кархалёва Надежда Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2972f1dd560da1c515dc1bfcfe0213b

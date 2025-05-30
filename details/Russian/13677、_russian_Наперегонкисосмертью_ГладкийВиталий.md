@@ -8,7 +8,7 @@
 13677、_russian_Наперегонки со смертью_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb7e53e94e86bcdf0e25b70564b0cb7b

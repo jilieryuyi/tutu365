@@ -8,7 +8,7 @@
 6866、_russian_Разорённые земли_Сейберхэген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8d01d0a5aa97e6e8702e8e5527735d5

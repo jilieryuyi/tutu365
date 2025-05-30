@@ -8,7 +8,7 @@
 7519、_russian_Сказания Земноморья_Ле Гуин Урсула_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e395c2787ab25b7a2664ade7894c64a

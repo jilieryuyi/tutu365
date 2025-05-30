@@ -8,7 +8,7 @@
 5359、_english_Приключения октябренка Васи Сомова в прошлом_Илья Туричин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 599634ad740ccdd787c3f43b5c6cd893

@@ -8,7 +8,7 @@
 5316、_russian_Антон Марюхненко и Максим Кузьменко__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2a6f27eaad8e5e999fa1e353522f954

@@ -8,7 +8,7 @@
 2422、_russian_Обитель страха_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13a0003883a0c9593daffcbee3868f98

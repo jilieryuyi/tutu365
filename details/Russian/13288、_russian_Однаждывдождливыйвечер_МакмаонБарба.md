@@ -8,7 +8,7 @@
 13288、_russian_Однажды в дождливый вечер_Макмаон Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdfb1d71e863b4c3617e5fa96f083a38

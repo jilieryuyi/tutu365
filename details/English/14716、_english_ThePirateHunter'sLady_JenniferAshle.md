@@ -8,7 +8,7 @@
 14716、_english_The Pirate Hunter's Lady_Jennifer Ashley_Jennifer Ashley.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3b5cd46c80af090b23fc75434a00eedd

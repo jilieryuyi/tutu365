@@ -8,7 +8,7 @@
 11142、_russian_Finis_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df5de8240fe923a221e35e76188988d5

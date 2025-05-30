@@ -8,7 +8,7 @@
 13974、_russian_Агнец на заклание_Иден Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b98550fd62d68087173f67ef49c8f801

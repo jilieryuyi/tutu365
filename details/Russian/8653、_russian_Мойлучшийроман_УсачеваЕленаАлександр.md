@@ -8,7 +8,7 @@
 8653、_russian_Мой лучший роман_Усачева Елена Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b7eea58aafa9e021ecba0df308fd91e

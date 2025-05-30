@@ -8,7 +8,7 @@
 11431、_russian_Салимов удел_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb411b13b9b0f6a66b6d31432bec792f

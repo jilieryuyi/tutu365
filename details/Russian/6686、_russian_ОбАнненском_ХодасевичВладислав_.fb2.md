@@ -8,7 +8,7 @@
 6686、_russian_Об Анненском_Ходасевич Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 adbda3027b98ba484d3d5508fe545c37

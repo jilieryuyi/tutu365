@@ -8,7 +8,7 @@
 7100、_russian_Что вытворяют с зеркалами_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab2551559af76c9dfa698abc67d67552

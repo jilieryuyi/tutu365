@@ -8,7 +8,7 @@
 15020、_russian_Конец сказки_Зуев Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e7f80601a629e85f50b2b06dd9e0a70

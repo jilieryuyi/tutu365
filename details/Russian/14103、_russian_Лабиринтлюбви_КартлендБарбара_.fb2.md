@@ -8,7 +8,7 @@
 14103、_russian_Лабиринт любви_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98a40e72db20a315b3868c5acc0ecf27

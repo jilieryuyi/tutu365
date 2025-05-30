@@ -8,7 +8,7 @@
 4410、_russian_Приложения_Олдисс Брайан Уилсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58b6aa15390ee1f94db54a8aeca00696

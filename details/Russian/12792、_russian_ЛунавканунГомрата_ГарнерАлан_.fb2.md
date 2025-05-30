@@ -8,7 +8,7 @@
 12792、_russian_Луна в канун Гомрата_Гарнер Алан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a8a6105f9c1d2b3de862398d3c5afa0

@@ -8,7 +8,7 @@
 557、_russian_Помолвка мсье Гира_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c0e69da097b6f0416126e339c38a9df

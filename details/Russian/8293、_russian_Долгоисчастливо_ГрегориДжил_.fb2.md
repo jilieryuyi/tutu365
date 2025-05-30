@@ -8,7 +8,7 @@
 8293、_russian_Долго и счастливо_Грегори Джил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db882fe8598cad0f9a48147ee95ee18a

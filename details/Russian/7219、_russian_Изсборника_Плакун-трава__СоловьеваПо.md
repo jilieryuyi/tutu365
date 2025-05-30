@@ -8,7 +8,7 @@
 7219、_russian_Из сборника _Плакун-трава__Соловьева Поликсена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d43bc472ff6ccf3e4446d602a985418e

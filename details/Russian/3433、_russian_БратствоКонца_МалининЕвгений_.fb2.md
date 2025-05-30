@@ -8,7 +8,7 @@
 3433、_russian_Братство Конца_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8758340a8c045190dfd68cf69c521ee1

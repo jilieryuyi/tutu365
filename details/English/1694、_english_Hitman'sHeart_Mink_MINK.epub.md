@@ -8,7 +8,7 @@
 1694、_english_Hitman's Heart_Mink _MINK.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d97cc0c2bd7a8d68d71e8b8eb1c1f1cd

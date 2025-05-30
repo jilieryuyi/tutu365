@@ -8,7 +8,7 @@
 8342、_russian_Три принца_Данвилл Джойс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd20fdfd936a28a5f949dc7ff33bbc78

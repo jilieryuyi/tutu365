@@ -8,7 +8,7 @@
 3374、_russian_Место, где царит зло_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82c4b0239d90418919eb5b996c8d1ef4

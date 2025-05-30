@@ -8,7 +8,7 @@
 3223、_russian_Внук Ихтиандра_Сомов Кирилл Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db3bd9ce0a53d9e4cca195b1420175ef

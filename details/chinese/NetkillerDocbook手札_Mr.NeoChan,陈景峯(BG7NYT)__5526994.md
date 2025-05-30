@@ -8,7 +8,7 @@
 Netkiller Docbook 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526994_a58168332d94d55657859be20e81ddc1.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a58168332d94d55657859be20e81ddc1

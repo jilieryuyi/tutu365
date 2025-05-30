@@ -8,7 +8,7 @@
 1413、_russian_Путь из ада_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4715510cfe890e0b8db80de261e6bc06

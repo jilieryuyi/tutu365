@@ -8,7 +8,7 @@
 11789、_russian_Маленький дьявол_Оловянная Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8969062c7be745d195d475faa402f987

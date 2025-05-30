@@ -8,7 +8,7 @@
 3484、_russian_Царицын ключ_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec94259eceb22c09dcf5241d9400ba10

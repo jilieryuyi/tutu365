@@ -8,7 +8,7 @@
 232、_russian_ОПЕРАЦИЯ _АНДРАШИ__Дэвидсон Бэзил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c68c3d660f18d00dfdc9ee60f7fdcc11

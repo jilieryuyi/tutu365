@@ -8,7 +8,7 @@
 7585、_russian_Отдать швартовы!_Багрянцев Борис Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31ddf5850d8616179f40dc2d28b07457

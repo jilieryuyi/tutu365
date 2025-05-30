@@ -8,7 +8,7 @@
 1100、阿提卡之夜(1-5卷)_奥卢斯·革利乌斯 (Aulus Gellius)_中国法制出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 afc058b8266008e1e52838e516503134

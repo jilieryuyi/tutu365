@@ -8,7 +8,7 @@
 pear中文手册.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9e16a753c416903bc4fbb8fb5f583abc

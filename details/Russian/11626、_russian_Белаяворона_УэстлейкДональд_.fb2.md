@@ -8,7 +8,7 @@
 11626、_russian_Белая ворона_Уэстлейк Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26fb232a2a9f5f787451c52581d79498

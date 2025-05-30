@@ -8,7 +8,7 @@
 15196、_russian_Проклятие Дейнов_Хэммет Дэшил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afcbc5f793f48a386b2bf2d37a8282d7

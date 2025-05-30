@@ -8,7 +8,7 @@
 7342、_russian_Меньший среди братьев_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e12d152b694c239bda45ba3e0f1f693

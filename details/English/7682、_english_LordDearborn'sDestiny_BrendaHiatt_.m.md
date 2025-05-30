@@ -8,7 +8,7 @@
 7682、_english_Lord Dearborn's Destiny_Brenda Hiatt_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 72fe0515e7000f824e597ce362fe064f

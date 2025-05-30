@@ -8,7 +8,7 @@
 14007、_russian_Нагадали убийство_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3aa7d19c7d2a6ba832ca9a3ee5607751

@@ -8,7 +8,7 @@
 15284、_russian_Беру тебя в жены_Квик Аманда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5355457be0a4e5cf319c4266f470c87a

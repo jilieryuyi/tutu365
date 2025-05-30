@@ -8,7 +8,7 @@
 14688、_russian__Маленькое_ убийство_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6dcaf2c176d9644917e0c79ca1192ff

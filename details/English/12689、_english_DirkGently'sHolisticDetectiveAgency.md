@@ -8,7 +8,7 @@
 12689、_english_Dirk Gently's Holistic Detective Agency_Douglas Adams_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d51f609387c885e558d1c37459efa1d3

@@ -8,7 +8,7 @@
 10639、_russian_Мечи Пурпурного Царства_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d73b9c24871d7625890470581da659f

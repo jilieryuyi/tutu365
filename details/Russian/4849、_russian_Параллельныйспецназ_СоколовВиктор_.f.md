@@ -8,7 +8,7 @@
 4849、_russian_Параллельный спецназ_Соколов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ab39d63beb3df20e4beed059058fa3b

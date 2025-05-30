@@ -8,7 +8,7 @@
 1640、_russian_МЕТАМОРФОЗЫ_Либерал Антонин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 978afca0c8739061a3e42370c035102a

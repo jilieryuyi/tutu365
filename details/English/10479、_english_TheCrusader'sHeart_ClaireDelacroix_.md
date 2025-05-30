@@ -8,7 +8,7 @@
 10479、_english_The Crusader's Heart_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8bfacc91757bf7c3727f10057f4b3380

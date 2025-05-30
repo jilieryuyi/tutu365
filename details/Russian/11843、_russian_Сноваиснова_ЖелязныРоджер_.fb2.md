@@ -8,7 +8,7 @@
 11843、_russian_Снова и снова_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a761333122207b086548de904552e0e

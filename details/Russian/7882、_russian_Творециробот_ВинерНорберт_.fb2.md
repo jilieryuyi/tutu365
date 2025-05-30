@@ -8,7 +8,7 @@
 7882、_russian_Творец и робот_Винер Норберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d2cab635a0c37f092c9a1a28851c551

@@ -8,7 +8,7 @@
 6274、_russian_Добро Наказуемо_Отян Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70230c38240c9345ca58400037a8044a

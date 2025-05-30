@@ -8,7 +8,7 @@
 8154、_russian_Внутренняя Улыбка_Чиа Мантэк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ebcc2212465af3feb4b155b001ba461

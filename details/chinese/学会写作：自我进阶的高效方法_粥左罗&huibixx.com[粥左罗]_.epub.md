@@ -8,7 +8,7 @@
 学会写作：自我进阶的高效方法_粥左罗 & huibixx.com [粥左罗]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4567386a6f667c060a0166d4c37a7683

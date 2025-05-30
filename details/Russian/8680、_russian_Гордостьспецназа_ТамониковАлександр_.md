@@ -8,7 +8,7 @@
 8680、_russian_Гордость спецназа_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5de3dade4a176889a9086e490c03ec94

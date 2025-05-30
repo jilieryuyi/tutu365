@@ -8,7 +8,7 @@
 15168、_russian_По уставу_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fab0fa6bfcd883fcf3f815b961ae2127

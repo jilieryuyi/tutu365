@@ -8,7 +8,7 @@
 你的灯亮着吗：发现问题的真正所在_【美】唐纳德·高斯, 【美】杰拉尔德·温伯格, ePUBw.COM [未知]__5288007_cf1550444445ef9cf71822de9185b836.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cf1550444445ef9cf71822de9185b836

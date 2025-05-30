@@ -8,7 +8,7 @@
 15085、_russian_Бриллиантовая пыль_Марзинова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b897e76c1697b53cc7ebd9b60b75376

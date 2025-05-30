@@ -8,7 +8,7 @@
 4798、_russian_Пророчество 5_Горъ Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 719b13c9c3a396e6587dcb8cfa2082cc

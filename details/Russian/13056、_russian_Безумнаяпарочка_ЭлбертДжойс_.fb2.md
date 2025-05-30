@@ -8,7 +8,7 @@
 13056、_russian_Безумная парочка_Элберт Джойс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 183859f5f509e6368e52da2ebed0b01e

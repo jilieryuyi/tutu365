@@ -8,7 +8,7 @@
 177、_french_La Symphonie Pastorale_Gide André_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f1db26fd1b52797891e11d35bcba8c97

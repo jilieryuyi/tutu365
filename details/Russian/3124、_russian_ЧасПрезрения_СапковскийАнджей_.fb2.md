@@ -8,7 +8,7 @@
 3124、_russian_Час Презрения_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b7f9a4eb2008d77668b7c628ceaac1b

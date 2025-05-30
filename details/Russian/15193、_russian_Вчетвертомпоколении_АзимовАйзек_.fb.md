@@ -8,7 +8,7 @@
 15193、_russian_В четвертом поколении_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd828095d6bd22dbb5de2a4479cc56cc

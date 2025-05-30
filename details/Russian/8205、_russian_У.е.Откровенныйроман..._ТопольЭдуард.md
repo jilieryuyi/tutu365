@@ -8,7 +8,7 @@
 8205、_russian_У.е. Откровенный роман..._Тополь Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7d8901b54532e48fb635494cf86e3c2

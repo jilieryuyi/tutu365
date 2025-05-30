@@ -8,7 +8,7 @@
 150、_russian_Ловушка для темного эльфа_Бульба Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc16547ba3bf1167f902d2f923d81234

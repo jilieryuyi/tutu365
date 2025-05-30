@@ -8,7 +8,7 @@
 2048、jQuery基础教程（第4版） (图灵程序设计丛书 91)_[美]Jonathan Chaffer Karl Swedberg_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 91f461c4e23185d8b7f0dadda074afb1

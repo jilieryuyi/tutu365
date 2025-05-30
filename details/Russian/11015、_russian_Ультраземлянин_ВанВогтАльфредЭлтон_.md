@@ -8,7 +8,7 @@
 11015、_russian_Ультраземлянин_Ван Вогт Альфред Элтон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 807939686b3307f0e2fbf005ac854959

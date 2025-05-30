@@ -8,7 +8,7 @@
 4330、_russian_Виток истории_Росоховатский Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52981853edc213e49b1153119bc65ca7

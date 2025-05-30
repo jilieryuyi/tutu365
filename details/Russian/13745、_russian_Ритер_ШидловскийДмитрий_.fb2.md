@@ -8,7 +8,7 @@
 13745、_russian_Ритер_Шидловский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e231c5f10e4007d1fa53242de330b83b

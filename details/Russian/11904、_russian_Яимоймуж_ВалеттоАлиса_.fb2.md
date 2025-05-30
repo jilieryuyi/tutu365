@@ -8,7 +8,7 @@
 11904、_russian_Я и мой муж_Валетто Алиса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d934519d6860e9f4193175affb3392e

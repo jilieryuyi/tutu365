@@ -8,7 +8,7 @@
 14707、_ukrainian_Нац_я_Мат_ос Мар_я_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2cc0694649763bb28cbd851a802df6e

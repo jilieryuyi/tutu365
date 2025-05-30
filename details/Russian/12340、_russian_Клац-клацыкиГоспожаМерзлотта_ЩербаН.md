@@ -8,7 +8,7 @@
 12340、_russian_Клац-клацык и Госпожа Мерзлотта_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fedec4fb384ea379eac773ceac0d235b

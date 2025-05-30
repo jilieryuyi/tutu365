@@ -8,7 +8,7 @@
 12196、_english_The Highlander's Sin_Eliza Knight_Knight Media, LLC.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 877cccf2f54c61aeb92d1061630834fb

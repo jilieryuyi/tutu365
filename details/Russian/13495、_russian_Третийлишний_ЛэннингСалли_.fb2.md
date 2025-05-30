@@ -8,7 +8,7 @@
 13495、_russian_Третий лишний_Лэннинг Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f551b7a1a790dd242f3955e9b59dff0

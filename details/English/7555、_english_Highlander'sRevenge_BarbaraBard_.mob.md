@@ -8,7 +8,7 @@
 7555、_english_Highlander's Revenge_Barbara Bard_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dc4fdcf4fa8abfbc8f6c53b5e023f850

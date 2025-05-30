@@ -8,7 +8,7 @@
 3089、_russian_Змей_Хайтов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97fe9d3ad3c2e8f2e17d3d37616a1b1f

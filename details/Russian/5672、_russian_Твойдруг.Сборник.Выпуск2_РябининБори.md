@@ -8,7 +8,7 @@
 5672、_russian_Твой друг. Сборник. Выпуск 2_Рябинин Борис Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac5afbc52a7115a539568a37779f4fc4

@@ -8,7 +8,7 @@
 450、_russian_Повесть об исходе и суете_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1eb6c4f6da47fb077549f2f24cced62a

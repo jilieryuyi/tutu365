@@ -8,7 +8,7 @@
 12985、_russian_Джип в телевизоре_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f66cd8d22de5f4a2a62c445b84a64d1d

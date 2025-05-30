@@ -8,7 +8,7 @@
 5345、_russian_Дневники баскетболиста_Кэррол Джим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2a4453218c9080b7841436583a2101c

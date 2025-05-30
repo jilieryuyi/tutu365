@@ -8,7 +8,7 @@
 1473、魔鬼数学：大数据时代，数学思维的力量_[美] 乔丹·艾伦伯格（Jordan Ellenberg）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2cb08faa8ae56028fcb57188c7ebcaf8

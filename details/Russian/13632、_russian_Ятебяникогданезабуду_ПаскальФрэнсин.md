@@ -8,7 +8,7 @@
 13632、_russian_Я тебя никогда не забуду_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0240aeb5ed725386f5d097f8b683e270

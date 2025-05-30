@@ -8,7 +8,7 @@
 11799、_russian_Совсем не синекура_Хорнунг Эрнест Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af8974dc16d78466385da4ae3d138326

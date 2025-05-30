@@ -8,7 +8,7 @@
 7555、_russian_Восьмой круг подземки_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3cbd7bfb876444bde53d882b45963aa7

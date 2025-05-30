@@ -8,7 +8,7 @@
 13146、_russian_Крошка Нильс Карлсон_Линдгрен Астрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4da98f4236ef31f278b3393bcf0699b

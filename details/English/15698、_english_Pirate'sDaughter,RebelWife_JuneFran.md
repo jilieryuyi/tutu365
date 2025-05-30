@@ -8,7 +8,7 @@
 15698、_english_Pirate's Daughter, Rebel Wife_June Francis_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2851a653e65056d639c96d9524196805

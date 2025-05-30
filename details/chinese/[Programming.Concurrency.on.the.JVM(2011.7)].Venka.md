@@ -8,7 +8,7 @@
 [Programming.Concurrency.on.the.JVM(2011.7)].Venkat.Subramaniam.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c17e054de1129a959c7f93ae7b00741e

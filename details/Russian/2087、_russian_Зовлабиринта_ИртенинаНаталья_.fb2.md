@@ -8,7 +8,7 @@
 2087、_russian_Зов лабиринта_Иртенина Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76ad3f44ec8a207f95b8e7c810d17980

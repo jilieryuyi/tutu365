@@ -8,7 +8,7 @@
 5366、_russian_На другой день_Александр Бек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c95531ba9e861e0addaf00f402c649f

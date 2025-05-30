@@ -8,7 +8,7 @@
 12687、_russian_Тактические занятия_Во Ивлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 edfc9301cbb18795babd1042b749cac5

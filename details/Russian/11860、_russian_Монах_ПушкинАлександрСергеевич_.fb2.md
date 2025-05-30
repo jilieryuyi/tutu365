@@ -8,7 +8,7 @@
 11860、_russian_Монах_Пушкин Александр Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79879328b7f1c7e1d0da531e7b0d675c

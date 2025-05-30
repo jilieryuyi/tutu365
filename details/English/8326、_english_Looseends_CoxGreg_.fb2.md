@@ -8,7 +8,7 @@
 8326、_english_Loose ends_Cox Greg_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bc73be7dde7eb32d3de6fed7b93bfba0

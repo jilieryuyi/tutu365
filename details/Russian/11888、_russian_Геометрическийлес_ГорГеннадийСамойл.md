@@ -8,7 +8,7 @@
 11888、_russian_Геометрический лес_Гор Геннадий Самойлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3035c85a5f1c8295aae174c9eabf5785

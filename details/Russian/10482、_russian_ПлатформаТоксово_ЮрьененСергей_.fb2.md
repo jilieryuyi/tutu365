@@ -8,7 +8,7 @@
 10482、_russian_Платформа Токсово_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1801fd011744da341826ee0d39433853

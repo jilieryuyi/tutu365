@@ -8,7 +8,7 @@
 1089、_russian_Брачный контракт кентавра_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88c033a321d3c6ec600545b29a984743

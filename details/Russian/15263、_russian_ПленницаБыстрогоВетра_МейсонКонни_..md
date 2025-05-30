@@ -8,7 +8,7 @@
 15263、_russian_Пленница Быстрого Ветра_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 735709a2d694555ce90f655a4ae3c5e9

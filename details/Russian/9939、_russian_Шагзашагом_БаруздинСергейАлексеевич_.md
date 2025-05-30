@@ -8,7 +8,7 @@
 9939、_russian_Шаг за шагом_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f75ee3143fcf150c6c088cbc03d1da5

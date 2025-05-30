@@ -8,7 +8,7 @@
 9920、_russian_КОГДА МЫ БЫЛИ СИРОТАМИ_Исигуро Кадзуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d847b6600ea0994172521faa9f6b165d

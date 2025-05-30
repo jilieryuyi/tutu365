@@ -8,7 +8,7 @@
 3798、_russian_Москва – Петушки_Ерофеев Венедикт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82874cafd0145b52ce52982b59616f96

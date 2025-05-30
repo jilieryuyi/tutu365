@@ -8,7 +8,7 @@
 2981、_russian_Лишняя любовь_Герштейн Эмма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d602fa6debba2b29e3f14f7f007f79df

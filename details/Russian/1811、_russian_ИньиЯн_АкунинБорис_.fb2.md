@@ -8,7 +8,7 @@
 1811、_russian_Инь и Ян_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce9ba62b60ff14eaad8c0595bc4b18b1

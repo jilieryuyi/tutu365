@@ -8,7 +8,7 @@
 11384、_russian_Развитие забытых мышц_Муранивский Владимир Леонидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f6d1b60ce17aa786c0115375bbbbeb0

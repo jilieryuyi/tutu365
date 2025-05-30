@@ -8,7 +8,7 @@
 6301、_russian_Ненависть Волка_Тарасенко Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21aabc49617865ad1e591c2169089079

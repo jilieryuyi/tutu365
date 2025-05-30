@@ -8,7 +8,7 @@
 12681、_russian_Деньги_Липатов Виль Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a387dc62aff58691f01ff53d309d379b

@@ -8,7 +8,7 @@
 12226、_russian_Глаза голубой собаки_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 013bfe9c8eabe1d99031eb56a5b3225b

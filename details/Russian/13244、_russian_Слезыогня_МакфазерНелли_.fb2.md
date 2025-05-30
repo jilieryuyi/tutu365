@@ -8,7 +8,7 @@
 13244、_russian_Слезы огня_Макфазер Нелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 811445573fe27f92602f6199e029b3c0

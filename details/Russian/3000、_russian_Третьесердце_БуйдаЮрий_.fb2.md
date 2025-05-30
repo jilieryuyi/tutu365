@@ -8,7 +8,7 @@
 3000、_russian_Третье сердце_Буйда Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04e6876ad3c36eb251848471ebaf077a

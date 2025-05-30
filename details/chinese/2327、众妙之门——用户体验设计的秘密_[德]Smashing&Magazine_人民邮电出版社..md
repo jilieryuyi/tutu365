@@ -8,7 +8,7 @@
 2327、众妙之门——用户体验设计的秘密_[德]Smashing & Magazine_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eb28ce2eeb8d242d0bcbda0f86c5612e

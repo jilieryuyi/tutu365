@@ -8,7 +8,7 @@
 11288、_english_Hunters of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7066d8a7409f4b2cae51ce632131f9ac

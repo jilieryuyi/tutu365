@@ -8,7 +8,7 @@
 12841、_russian_Трактир на Пятницкой_Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee0110a9561173fbf153d9d5cccdb1d3

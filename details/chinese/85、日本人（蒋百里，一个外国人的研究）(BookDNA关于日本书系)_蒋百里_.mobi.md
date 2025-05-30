@@ -8,7 +8,7 @@
 85、日本人 （蒋百里，一个外国人的研究） (BookDNA关于日本书系)_蒋百里_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 71f4e794a2168c0aedad7e378baaf0aa

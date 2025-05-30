@@ -8,7 +8,7 @@
 6919、_russian_Проклятие Сингха_Брайт Чак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a49da94b6db2d014fe6a358581e921bf

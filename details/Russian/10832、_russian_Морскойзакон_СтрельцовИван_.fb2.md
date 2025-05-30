@@ -8,7 +8,7 @@
 10832、_russian_Морской закон_Стрельцов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dee23c7d43f94696e4872cf752b6a5fd

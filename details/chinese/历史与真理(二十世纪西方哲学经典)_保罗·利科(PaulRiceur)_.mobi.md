@@ -8,7 +8,7 @@
 历史与真理 (二十世纪西方哲学经典)_保罗·利科 (Paul Riceur)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c81d98b91cc1e2ca7382127851a49807

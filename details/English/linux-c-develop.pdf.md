@@ -8,7 +8,7 @@
 linux-c-develop.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d6163d2db3cd955318ec57224d5d6fa6

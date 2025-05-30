@@ -8,7 +8,7 @@
 1486、_russian_Пляж исполненных желаний_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 593f7d34bf60aed839ad5a977d32a8d4

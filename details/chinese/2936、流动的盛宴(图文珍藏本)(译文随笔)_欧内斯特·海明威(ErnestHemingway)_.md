@@ -8,7 +8,7 @@
 2936、流动的盛宴(图文珍藏本) (译文随笔)_欧内斯特·海明威(Ernest Hemingway)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7883ad9d5a84c7155f345ed70ddaf14e

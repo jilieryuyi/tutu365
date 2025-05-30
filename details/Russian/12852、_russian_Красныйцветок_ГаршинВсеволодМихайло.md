@@ -8,7 +8,7 @@
 12852、_russian_Красный цветок_Гаршин Всеволод Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37bfc942e644d0603133c6d04d76d395

@@ -8,7 +8,7 @@
 103、_russian_Астровитянка_Горькавый Ник._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7093e6d4e630ebc6dae1eb2fad2e840

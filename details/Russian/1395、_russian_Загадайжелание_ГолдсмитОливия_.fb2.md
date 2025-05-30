@@ -8,7 +8,7 @@
 1395、_russian_Загадай желание_Голдсмит Оливия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f740ecc84df07095bf73263e93fb6a95

@@ -8,7 +8,7 @@
 1516、_russian_Наводящие ужас_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83f660dac22be821f33169503713d013

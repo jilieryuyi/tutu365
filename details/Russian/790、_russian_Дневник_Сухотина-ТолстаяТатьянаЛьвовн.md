@@ -8,7 +8,7 @@
 790、_russian_Дневник_Сухотина-Толстая Татьяна Львовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67ed92bd762d5b377bb9d25d9df2e2b2

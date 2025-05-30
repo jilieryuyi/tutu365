@@ -8,7 +8,7 @@
 2119、_russian_Операция _Вонючка__Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8e465614c1b08ede36eea53722a1620

@@ -8,7 +8,7 @@
 14474、_russian_Чародеи_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4733c50a1ce426705c95566c5e236e88

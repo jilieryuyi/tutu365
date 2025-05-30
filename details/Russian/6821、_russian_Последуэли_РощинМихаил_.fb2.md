@@ -8,7 +8,7 @@
 6821、_russian_После дуэли_Рощин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c532fc644eefa467af9ee3b37cc623b1

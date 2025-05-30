@@ -8,7 +8,7 @@
 11561、_russian_Влюбленный дьявол_Уэлфондер Сью-Эллен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10fc541b95b756d62f451af52f345a3e

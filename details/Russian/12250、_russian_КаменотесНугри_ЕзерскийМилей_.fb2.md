@@ -8,7 +8,7 @@
 12250、_russian_Каменотес Нугри_Езерский Милей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7aced733e2efa4252ec7d7eb897bff80

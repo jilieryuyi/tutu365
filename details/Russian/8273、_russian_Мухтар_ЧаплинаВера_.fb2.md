@@ -8,7 +8,7 @@
 8273、_russian_Мухтар_Чаплина Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 803960b8f7b7e2c704152581ef67edf3

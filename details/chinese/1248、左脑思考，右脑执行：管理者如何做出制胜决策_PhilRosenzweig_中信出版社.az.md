@@ -8,7 +8,7 @@
 1248、左脑思考，右脑执行：管理者如何做出制胜决策_Phil Rosenzweig_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1029b6a224f168e76ba7328b701f971f

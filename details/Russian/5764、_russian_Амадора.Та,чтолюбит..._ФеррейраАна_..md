@@ -8,7 +8,7 @@
 5764、_russian_Амадора. Та, что любит..._Феррейра Ана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7498b9a65c9168819eb4da9d567bc531

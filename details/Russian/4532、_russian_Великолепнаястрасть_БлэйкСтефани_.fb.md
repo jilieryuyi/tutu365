@@ -8,7 +8,7 @@
 4532、_russian_Великолепная страсть_Блэйк Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c81d12ca4cc2186b2b4550ac7f48ff0

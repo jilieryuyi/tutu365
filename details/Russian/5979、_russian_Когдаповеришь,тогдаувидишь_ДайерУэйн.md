@@ -8,7 +8,7 @@
 5979、_russian_Когда поверишь, тогда увидишь_Дайер Уэйн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6e1a176ac26d81dce9e63f53b566fe5

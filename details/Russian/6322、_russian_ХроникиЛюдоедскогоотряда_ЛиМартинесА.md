@@ -8,7 +8,7 @@
 6322、_russian_Хроники Людоедского отряда_Ли Мартинес А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce5593cb3bb15e45fa223ae7c8c1cf86

@@ -8,7 +8,7 @@
 761、已的故事_【以】Eli Mair_人民邮电出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6f0ddd86eca6f027e92e9417fd9ab125

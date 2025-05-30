@@ -8,7 +8,7 @@
 11994、_russian_Собрание сочинений (Том 3)_Панова Вера Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df1d22da8a53369eb9559306e9f7b89f

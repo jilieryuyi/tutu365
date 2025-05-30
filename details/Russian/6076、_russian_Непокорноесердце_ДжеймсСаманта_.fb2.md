@@ -8,7 +8,7 @@
 6076、_russian_Непокорное сердце_Джеймс Саманта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae41c1f42dc50822862515b3dd0e178c

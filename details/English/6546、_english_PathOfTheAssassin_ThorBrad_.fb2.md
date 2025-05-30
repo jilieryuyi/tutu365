@@ -8,7 +8,7 @@
 6546、_english_Path Of The Assassin_Thor Brad_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8206e09b918e391698f6ff170c536e41

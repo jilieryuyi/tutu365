@@ -8,7 +8,7 @@
 8298、_russian_Кровавый шабаш_Атеев Алексей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 565d712664577d80f0e6eaaa70ed3f7c

@@ -8,7 +8,7 @@
 1005、_russian_Практика вольных путешествий в метро_Каганов Леонид (LLeo)_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e6b39704264eed8a91b072aaee27205

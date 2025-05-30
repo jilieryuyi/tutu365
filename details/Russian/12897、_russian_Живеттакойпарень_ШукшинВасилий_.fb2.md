@@ -8,7 +8,7 @@
 12897、_russian_Живет такой парень_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ef13651abedc3238b4e3a4a84785aa3

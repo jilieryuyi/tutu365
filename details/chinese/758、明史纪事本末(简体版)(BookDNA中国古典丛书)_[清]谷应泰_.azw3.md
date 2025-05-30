@@ -8,7 +8,7 @@
 758、明史纪事本末(简体版) (BookDNA中国古典丛书)_[清]谷应泰_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3ec260f1d25ad69026bea9ccd5ca85ef

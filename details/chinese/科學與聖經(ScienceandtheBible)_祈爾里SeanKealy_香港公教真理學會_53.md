@@ -8,7 +8,7 @@
 科學與聖經 (Science and the Bible)_祈爾里 Sean Kealy_香港公教真理學會_5370880_dfe091738dd6b2ae0358d3083fd43fcc.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dfe091738dd6b2ae0358d3083fd43fcc

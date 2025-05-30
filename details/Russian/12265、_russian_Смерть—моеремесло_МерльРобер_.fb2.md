@@ -8,7 +8,7 @@
 12265、_russian_Смерть — мое ремесло_Мерль Робер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a0186b65f04e60c84c6f6e52e30b498

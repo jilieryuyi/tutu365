@@ -8,7 +8,7 @@
 3049、_russian_Первая глава летописи вселенной_Баландин Рудольф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39ecf2aa4a711137e19a3d1320bdfe95

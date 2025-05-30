@@ -8,7 +8,7 @@
 1547、_russian_Кровавая свадьба_Гарсиа Лорка Федерико_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e98ba1b55647aa69ffbffd178b17a3c5

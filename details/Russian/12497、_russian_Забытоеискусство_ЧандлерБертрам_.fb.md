@@ -8,7 +8,7 @@
 12497、_russian_Забытое искусство_Чандлер Бертрам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 678de666dc7c08646ffc5cb2846f5930

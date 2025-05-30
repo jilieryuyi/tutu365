@@ -8,7 +8,7 @@
 1409、_russian_Античеловек_Кунц Дин Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 adca36acf420c98f3dc3990991245d07

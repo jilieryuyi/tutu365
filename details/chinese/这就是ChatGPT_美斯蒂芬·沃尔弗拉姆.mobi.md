@@ -8,7 +8,7 @@
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 10793c418bb74321708e994575dafe04

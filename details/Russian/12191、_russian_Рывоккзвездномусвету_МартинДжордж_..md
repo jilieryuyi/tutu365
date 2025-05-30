@@ -8,7 +8,7 @@
 12191、_russian_Рывок к звездному свету_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ae5ad65d526ebddc4bfb293a6bad95d

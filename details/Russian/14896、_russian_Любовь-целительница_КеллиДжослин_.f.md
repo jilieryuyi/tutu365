@@ -8,7 +8,7 @@
 14896、_russian_Любовь-целительница_Келли Джослин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 010bb9a3f38250bd3484eef69ee7584a

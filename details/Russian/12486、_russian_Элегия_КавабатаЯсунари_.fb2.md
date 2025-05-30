@@ -8,7 +8,7 @@
 12486、_russian_Элегия_Кавабата Ясунари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08902aff98b5f052fda7294aa0bf8db3

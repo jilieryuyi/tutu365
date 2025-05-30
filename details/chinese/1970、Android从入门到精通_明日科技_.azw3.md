@@ -8,7 +8,7 @@
 1970、Android从入门到精通_明日科技_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 feccde445370276e824e8b89aa4b7662

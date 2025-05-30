@@ -8,7 +8,7 @@
 1996、_russian_Как склеить разбитое сердце__Иванова Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d28d025a5de49e41bf074dd975a2ea6

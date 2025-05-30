@@ -8,7 +8,7 @@
 13400、_russian_Искусительница_Ли Эйна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20c4813ad96b0d7a0765031213735b07

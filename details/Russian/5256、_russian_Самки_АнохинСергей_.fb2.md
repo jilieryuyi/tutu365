@@ -8,7 +8,7 @@
 5256、_russian_Самки_Анохин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea88e6833b8e17a55e7c1794c58915f0

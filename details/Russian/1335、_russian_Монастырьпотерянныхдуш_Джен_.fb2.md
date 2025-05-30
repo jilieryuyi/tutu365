@@ -8,7 +8,7 @@
 1335、_russian_Монастырь потерянных душ_Джен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29e3c506d48a52dca0ce23112d2a2d6c

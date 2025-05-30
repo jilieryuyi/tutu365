@@ -8,7 +8,7 @@
 11205、_russian_Бронтомех!_Коуни Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a282c5af7682fc09ff89b7e541fb2c7b

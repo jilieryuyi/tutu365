@@ -8,7 +8,7 @@
 518、_russian_Мегрэ и труп молодой женщины_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15c666f5497c88c1b9bc239bede8a3a9

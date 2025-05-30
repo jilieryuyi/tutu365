@@ -8,7 +8,7 @@
 4992、_russian_Роковой поцелуй_Хокинс Карен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 985f54407d94267dbfb21e02ae1dfcee

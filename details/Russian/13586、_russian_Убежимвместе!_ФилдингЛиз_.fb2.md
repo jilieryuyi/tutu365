@@ -8,7 +8,7 @@
 13586、_russian_Убежим вместе!_Филдинг Лиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15b0ed7ae25d6e7815fa3f1cf5c82e52

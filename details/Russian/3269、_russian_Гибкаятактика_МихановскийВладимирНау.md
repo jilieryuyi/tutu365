@@ -8,7 +8,7 @@
 3269、_russian_Гибкая тактика_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be0d7d158c9500f1c8ad2ed67640f30b

@@ -8,7 +8,7 @@
 6923、_russian_Мятежные системы_Кощиенко Игорь Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33a082e8d77d837a23518f4193ab802a

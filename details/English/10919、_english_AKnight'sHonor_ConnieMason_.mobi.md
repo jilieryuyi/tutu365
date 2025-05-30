@@ -8,7 +8,7 @@
 10919、_english_A Knight's Honor_Connie Mason_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 13b919f41a22e29e2b93b52847d0699a

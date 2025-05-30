@@ -8,7 +8,7 @@
 8411、_russian_Москва горит_Маяковский Владимир Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 020d39f69dfc3071ca3ac87730c32b31

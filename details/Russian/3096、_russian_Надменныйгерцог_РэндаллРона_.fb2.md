@@ -8,7 +8,7 @@
 3096、_russian_Надменный герцог_Рэндалл Рона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c54ff7c5b0363c462b54647cce5cdf3

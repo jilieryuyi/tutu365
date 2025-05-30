@@ -8,7 +8,7 @@
 12976、_russian_Не дать смерти уйти_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2fea6a4741f87fb7bb041661f0fee75

@@ -8,7 +8,7 @@
 9893、_other_Mlhoviny v Andromedě_Jefremov Ivan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 957e2b6b8964b7e6d1656ac1fbe7e95a

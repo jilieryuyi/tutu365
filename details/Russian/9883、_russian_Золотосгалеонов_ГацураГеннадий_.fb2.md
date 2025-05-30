@@ -8,7 +8,7 @@
 9883、_russian_Золото с галеонов_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f99a00cb77adc1328580f0466d429af7

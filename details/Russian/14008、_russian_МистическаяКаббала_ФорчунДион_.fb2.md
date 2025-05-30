@@ -8,7 +8,7 @@
 14008、_russian_Мистическая Каббала_Форчун Дион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7fe7c85b57362ddacf81e4cac13f4a7

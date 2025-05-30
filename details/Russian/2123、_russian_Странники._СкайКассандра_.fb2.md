@@ -8,7 +8,7 @@
 2123、_russian_Странники._Скай Кассандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fc43d01682fd49caad1aca03ac95c3a

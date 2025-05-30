@@ -8,7 +8,7 @@
 13023、_russian_Причуда принцессы_Спэнсер Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90012031f63467acb95f5ae7b303883a

@@ -8,7 +8,7 @@
 8175、_russian_Мертвый Легион_Миротворцев Павел Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a59479386b9f59284c0b1db14a50ce98

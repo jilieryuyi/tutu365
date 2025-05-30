@@ -8,7 +8,7 @@
 1010、越南：世界史的失語者_Christopher Goscha_聯經出版事業股份有限公司.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e05178345478b98ca529bf6f523c8f2a

@@ -8,7 +8,7 @@
 6434、_russian_Зеркало судьбы_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 162bce80a9e9b6a64aee35318471639d

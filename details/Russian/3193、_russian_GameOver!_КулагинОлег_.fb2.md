@@ -8,7 +8,7 @@
 3193、_russian_Game Over!_Кулагин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f836b0fb29c7ca680398fc65ea635ed

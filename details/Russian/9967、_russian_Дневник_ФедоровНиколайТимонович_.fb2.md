@@ -8,7 +8,7 @@
 9967、_russian_Дневник_Федоров Николай Тимонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54d80267664edfae6c161f0cfd8a5581

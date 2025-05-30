@@ -8,7 +8,7 @@
 1781、_russian_Дьявол за правым плечом_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b33ba35f59903fceb301519e7389f31

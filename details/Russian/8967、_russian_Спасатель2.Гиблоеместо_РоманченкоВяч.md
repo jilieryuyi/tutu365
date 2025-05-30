@@ -8,7 +8,7 @@
 8967、_russian_Спасатель 2. Гиблое место_Романченко Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26f2266287ddf2b0712ab8b8c8505dd2

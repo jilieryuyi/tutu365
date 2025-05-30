@@ -8,7 +8,7 @@
 13174、_russian_Мой милый ангел_Грассо Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 725b955d6d5807de73e9f298a128322a

@@ -8,7 +8,7 @@
 1268、重来_更为简单有效的商业思维_贾森_弗里德_CTCCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 98424144a404fa2d9365a75be4cb0115

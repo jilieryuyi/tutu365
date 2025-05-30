@@ -8,7 +8,7 @@
 4487、_russian_Аромат жасмина_Мей Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9eedc14d4cfbd375b283f49f4f4c16c

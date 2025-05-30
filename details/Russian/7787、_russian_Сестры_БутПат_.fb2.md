@@ -8,7 +8,7 @@
 7787、_russian_Сестры_Бут Пат_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f7f7922ed6146e091c84eb9228e180d

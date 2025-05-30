@@ -8,7 +8,7 @@
 2941、_russian_Женщины в любви_Лоуренс Дэвид Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd9c852d678ea00593a20d6547df3194

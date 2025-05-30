@@ -8,7 +8,7 @@
 絕望者之歌：一個美國白人家族的悲劇與重生_傑德．凡斯 & ePUBw.COM [未知]__5287991_a73775cd75bf7c4d4f014142414bc55b.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a73775cd75bf7c4d4f014142414bc55b

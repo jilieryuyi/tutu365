@@ -8,7 +8,7 @@
 6282、_russian_Записки актрисы_Мордюкова Нонна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c13f28effcd5cebda80f732dc6f8d77

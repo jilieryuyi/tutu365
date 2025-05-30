@@ -8,7 +8,7 @@
 13163、_russian_Рассказ о волосах_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee4ede3636a04cb1630e3d3ae4e0c97b

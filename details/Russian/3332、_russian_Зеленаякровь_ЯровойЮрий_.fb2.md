@@ -8,7 +8,7 @@
 3332、_russian_Зеленая кровь_Яровой Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4db761d7846a55cda200c58f11a789e5

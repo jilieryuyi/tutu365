@@ -8,7 +8,7 @@
 14279、_russian_Ведьмино отродье_Сатклиф Розмари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eae149cccf78181f21cad55e6d8916d8

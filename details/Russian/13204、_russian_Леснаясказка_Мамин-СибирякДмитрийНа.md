@@ -8,7 +8,7 @@
 13204、_russian_Лесная сказка_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7ad2d651ed63f2307d0a2add4ca571f

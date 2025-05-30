@@ -8,7 +8,7 @@
 3145、_russian_Прыжок сквозь Вселенную_Бродерик Дэмиен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89947d65ab623924b79501fd161ba0aa

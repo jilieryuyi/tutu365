@@ -8,7 +8,7 @@
 1437、_russian_Каменный век (с иллюстрациями)_Робертс Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b64ca41db507b252137c80deca09d04

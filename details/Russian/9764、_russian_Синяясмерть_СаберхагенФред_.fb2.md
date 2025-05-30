@@ -8,7 +8,7 @@
 9764、_russian_Синяя смерть_Саберхаген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1184e9fbac0a11f0a993bdd9dccbc070

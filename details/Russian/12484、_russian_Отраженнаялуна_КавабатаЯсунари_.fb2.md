@@ -8,7 +8,7 @@
 12484、_russian_Отраженная луна_Кавабата Ясунари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d3e211937915f75237e9bb707ab8b76

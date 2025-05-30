@@ -8,7 +8,7 @@
 4095、_russian_Этан с планеты Эйтос_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb0791bf8941a789d201239c08fb2865

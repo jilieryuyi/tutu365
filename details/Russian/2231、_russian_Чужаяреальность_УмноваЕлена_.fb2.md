@@ -8,7 +8,7 @@
 2231、_russian_Чужая реальность_Умнова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de3dbd88bb9fcc0fd39d77811b9c1472

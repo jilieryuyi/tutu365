@@ -8,7 +8,7 @@
 2114、_russian_Прощай, _Лафайет_!_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 090366502814ee035e8d1b6b2729d038

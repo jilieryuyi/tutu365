@@ -8,7 +8,7 @@
 13648、_russian_Игра с огнем_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50ccc35301c10f9f5ddc86d0ee5e75a5

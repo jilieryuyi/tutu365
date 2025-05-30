@@ -8,7 +8,7 @@
 1470、_russian_Мужчины и как вить из них веревки_Антонова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 520ce936db5fb641fc16e7c0c1df7b0f

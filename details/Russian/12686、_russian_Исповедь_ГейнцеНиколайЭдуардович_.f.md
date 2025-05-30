@@ -8,7 +8,7 @@
 12686、_russian_Исповедь_Гейнце Николай Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c835805e0d950ac853acf9b5102fa753

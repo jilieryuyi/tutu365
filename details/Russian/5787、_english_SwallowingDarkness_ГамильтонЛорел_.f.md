@@ -8,7 +8,7 @@
 5787、_english_Swallowing Darkness_Гамильтон Лорел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61e9eaa6f27dc4e2ebbacdbb9704ca33

@@ -8,7 +8,7 @@
 15256、_russian_Рубиновый сюрприз_Максвелл Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8461fa736f0e8a2b97e6d254eeceb002

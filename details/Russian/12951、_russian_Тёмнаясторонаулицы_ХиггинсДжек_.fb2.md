@@ -8,7 +8,7 @@
 12951、_russian_Тёмная сторона улицы_Хиггинс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a178673a064b18c52a03ded27a08312

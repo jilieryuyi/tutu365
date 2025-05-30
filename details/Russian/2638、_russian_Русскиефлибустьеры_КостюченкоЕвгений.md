@@ -8,7 +8,7 @@
 2638、_russian_Русские флибустьеры_Костюченко Евгений _Краев__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccfb67f9963dae9874f743c65624dd09

@@ -8,7 +8,7 @@
 13273、_russian_Поцелуй_Вудивисс Кэтлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17968c3370f75b325fabf6703f1c1e76

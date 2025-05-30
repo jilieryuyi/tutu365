@@ -8,7 +8,7 @@
 5034、_russian_Чисто женское убийство_Чизхолм Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe9954a2822e7f33fb36878723f7dd37

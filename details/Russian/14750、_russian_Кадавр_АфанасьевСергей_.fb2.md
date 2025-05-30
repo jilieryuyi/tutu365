@@ -8,7 +8,7 @@
 14750、_russian_Кадавр_Афанасьев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97614a196bc0d166da586118d299733e

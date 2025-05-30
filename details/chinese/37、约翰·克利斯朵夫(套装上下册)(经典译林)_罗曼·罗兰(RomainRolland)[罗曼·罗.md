@@ -8,7 +8,7 @@
 37、约翰·克利斯朵夫(套装上下册) (经典译林)_罗曼·罗兰(Romain Rolland) [罗曼·罗兰(Romain Rolland)]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 359aba4827c30c8626a3374e2cb8eee5

@@ -8,7 +8,7 @@
 4319、_english_Highlander's Evil Twin_Adamina Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 829ddba2f02522a35b5198fa9e14e5aa

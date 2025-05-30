@@ -8,7 +8,7 @@
 9974、_russian_Имаго_Журавлев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98ccf064979983c1aece071b32e80552

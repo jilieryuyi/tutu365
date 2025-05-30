@@ -8,7 +8,7 @@
 8311、_russian_Завещание вурдалака_Аввакумов Емельян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7adab5c2bf6314ed7464440b9c9f478d

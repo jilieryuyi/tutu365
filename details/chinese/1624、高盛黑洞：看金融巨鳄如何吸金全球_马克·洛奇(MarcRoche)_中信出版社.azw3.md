@@ -8,7 +8,7 @@
 1624、高盛黑洞：看金融巨鳄如何吸金全球_马克·洛奇 (Marc Roche)_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 655a1126e683cf2580501d235b4b688b

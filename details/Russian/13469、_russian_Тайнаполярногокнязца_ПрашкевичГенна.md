@@ -8,7 +8,7 @@
 13469、_russian_Тайна полярного князца_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef8a711cc3f3772ea7ba842ebfcf18e4

@@ -8,7 +8,7 @@
 326、_russian_Береговая операция_Амиров Джамшид Джаббарович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d0327f8b931fc0dcc8775a788945bb4

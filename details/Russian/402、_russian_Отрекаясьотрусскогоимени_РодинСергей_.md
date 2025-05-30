@@ -8,7 +8,7 @@
 402、_russian_Отрекаясь от русского имени_Родин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce3a8b1f794eb49cba713836f6343a70

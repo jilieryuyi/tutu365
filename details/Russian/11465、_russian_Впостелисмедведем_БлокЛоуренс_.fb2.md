@@ -8,7 +8,7 @@
 11465、_russian_В постели с медведем_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e6b336163fec138b26907b825aa02f0

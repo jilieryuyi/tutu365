@@ -8,7 +8,7 @@
 4973、_russian_Осечка-67_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba9d4e9eace1e75f61c55486b0935c53

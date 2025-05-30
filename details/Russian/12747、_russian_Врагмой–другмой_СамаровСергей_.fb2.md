@@ -8,7 +8,7 @@
 12747、_russian_Враг мой – друг мой_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db7c11801f6cedfe156baf23290bc0bd

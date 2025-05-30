@@ -8,7 +8,7 @@
 7796、_russian_Белый Доминиканец_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8011bf71129ffef7e9c8c3a157ec55c2

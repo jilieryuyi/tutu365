@@ -8,7 +8,7 @@
 13969、_russian_Кукла на качелях_Иден Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2798582e08ab2d4eb3af0af92949d2f

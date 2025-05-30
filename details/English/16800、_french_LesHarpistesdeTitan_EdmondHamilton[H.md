@@ -8,7 +8,7 @@
 16800、_french_Les Harpistes de Titan_Edmond Hamilton [Hamilton, Edmond]_Le Bélial'.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0bad9decea1c8929e8cf5d959c85e377

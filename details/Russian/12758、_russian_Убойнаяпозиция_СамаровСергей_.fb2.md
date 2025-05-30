@@ -8,7 +8,7 @@
 12758、_russian_Убойная позиция_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0db4fd108b6e0ffa977ada8223b0e4e0

@@ -8,7 +8,7 @@
 222、_russian_Мужское-женское, или Третий роман_Новикова Ольга Ильинична_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 597b52950ebcc7a78f4b013c85e823ad

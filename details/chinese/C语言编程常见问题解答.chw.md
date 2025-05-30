@@ -8,7 +8,7 @@
 C语言编程常见问题解答.chw.chw
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 60cc2ae01aec6b1ae85b19877ec0d155

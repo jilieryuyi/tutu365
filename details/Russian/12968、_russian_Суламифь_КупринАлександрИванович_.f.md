@@ -8,7 +8,7 @@
 12968、_russian_Суламифь_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 512e52b1339592807b3541f2a911f95e

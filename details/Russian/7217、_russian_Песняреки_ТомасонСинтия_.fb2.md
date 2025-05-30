@@ -8,7 +8,7 @@
 7217、_russian_Песня реки_Томасон Синтия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 082ff004186110943d71700a8cf55055

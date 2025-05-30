@@ -8,7 +8,7 @@
 美国少年学霸超级笔记：科学 = Everything You Need to Ace Science in One Big Fat Notebook The Complete Middle School Study Guide (美国沃克曼出版公司 (Workman Publishing)).epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 25624b98d32b0ed2c2f4efa2324996ed

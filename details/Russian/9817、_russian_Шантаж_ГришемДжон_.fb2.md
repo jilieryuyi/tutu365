@@ -8,7 +8,7 @@
 9817、_russian_Шантаж_Гришем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db19aa999964ac6c6b4a42d4cd7093cd

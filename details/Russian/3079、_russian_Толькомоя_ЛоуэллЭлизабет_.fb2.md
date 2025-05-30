@@ -8,7 +8,7 @@
 3079、_russian_Только моя_Лоуэлл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ee1206cce84fdc7da96da054330f1de

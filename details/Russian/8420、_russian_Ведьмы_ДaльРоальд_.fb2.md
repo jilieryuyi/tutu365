@@ -8,7 +8,7 @@
 8420、_russian_Ведьмы_Дaль Роальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58012a22b008b209e989b98140b90cee

@@ -8,7 +8,7 @@
 7933、_english_The Colour of Magic_Пратчетт Терри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09df59002957b2fb64831707eb64d886

@@ -8,7 +8,7 @@
 1237、_russian_Оборотень_Протасенко Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07cec6891faff36e602a6bcc5cded995

@@ -8,7 +8,7 @@
 11968、_russian_Две пары_Валенти Джастин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5472282d8e8af3366c2a9c152b76719

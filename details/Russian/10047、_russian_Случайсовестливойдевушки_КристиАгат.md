@@ -8,7 +8,7 @@
 10047、_russian_Случай совестливой девушки_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3068e96bf424cb0007b9fcaa35caa017

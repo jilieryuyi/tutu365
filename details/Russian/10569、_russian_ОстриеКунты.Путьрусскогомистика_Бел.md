@@ -8,7 +8,7 @@
 10569、_russian_Острие Кунты. Путь русского мистика_Беляев Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f06241b31e928b7b7329b4dc50ba3df

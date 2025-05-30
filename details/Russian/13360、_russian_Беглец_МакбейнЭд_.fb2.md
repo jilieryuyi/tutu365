@@ -8,7 +8,7 @@
 13360、_russian_Беглец_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f02ccc7439c43acfbc269e1dbd6c428f

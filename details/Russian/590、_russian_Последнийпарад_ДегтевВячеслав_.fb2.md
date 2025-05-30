@@ -8,7 +8,7 @@
 590、_russian_Последний парад_Дегтев Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3ed58676f1aad7a831b657a9f7b12d7

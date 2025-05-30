@@ -8,7 +8,7 @@
 11712、_russian_Вселенские каннибалы_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc30ed980434768e7cd0496082b9b4ac

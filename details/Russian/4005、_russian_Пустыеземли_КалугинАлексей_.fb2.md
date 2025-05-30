@@ -8,7 +8,7 @@
 4005、_russian_Пустые земли_Калугин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a9d7ac7dd118b455280f60278a28903

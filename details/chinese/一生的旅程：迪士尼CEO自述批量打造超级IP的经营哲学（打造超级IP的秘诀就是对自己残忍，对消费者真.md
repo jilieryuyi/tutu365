@@ -8,7 +8,7 @@
 一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学（打造超级IP的秘诀就是对自己残忍，对消费者真诚！）_罗伯特·艾格,乔尔·洛弗尔__5524311_93ec4aa27b4d2f78e2d604112ff57da0.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 93ec4aa27b4d2f78e2d604112ff57da0

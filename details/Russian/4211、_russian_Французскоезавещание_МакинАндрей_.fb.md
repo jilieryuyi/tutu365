@@ -8,7 +8,7 @@
 4211、_russian_Французское завещание_Макин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 419b0feb1977b331b7f89e8ce7be90df

@@ -8,7 +8,7 @@
 blockchain_guide.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 beb34b6953291d728836b07135835db4

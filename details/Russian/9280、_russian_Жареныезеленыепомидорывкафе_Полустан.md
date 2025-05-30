@@ -8,7 +8,7 @@
 9280、_russian_Жареные зеленые помидоры в кафе _Полустанок__Фэнни Флэгг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a5b7f768a93ff61521a21afa27e842a

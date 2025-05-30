@@ -8,7 +8,7 @@
 1560、_russian_Мнимая любовница_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b702f06d6fe413b243d17037210590a9

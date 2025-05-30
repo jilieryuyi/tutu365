@@ -8,7 +8,7 @@
 2036、_russian_Звездный странник_Афанасьев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99f068ab264b0a53f39311901f54c4ad

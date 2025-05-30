@@ -8,7 +8,7 @@
 11599、_russian_Границы бесконечности_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 340b3385f827036ca3fb86ce01da702f

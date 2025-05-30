@@ -8,7 +8,7 @@
 92、10倍速目标达成法：孙正义的高效法则_三木雄信 [三木雄信]_China Machine Press.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 263a9e9f38bc18d660c9742170d22b04

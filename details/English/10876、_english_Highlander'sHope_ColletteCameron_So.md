@@ -8,7 +8,7 @@
 10876、_english_Highlander's Hope_Collette Cameron_Soul Mate Publishing.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f843f5631fe0db4c740f1f6d5f55ce3b

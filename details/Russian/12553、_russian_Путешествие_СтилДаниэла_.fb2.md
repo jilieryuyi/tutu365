@@ -8,7 +8,7 @@
 12553、_russian_Путешествие_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c6faa96b2466a80e60d35100d188141

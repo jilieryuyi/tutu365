@@ -8,7 +8,7 @@
 2288、图灵程序设计丛书_鲜活的数据_数据可视化指南_邱 (Nathan Yau)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1bc5f0afa7bf8c2aec44079766c08192

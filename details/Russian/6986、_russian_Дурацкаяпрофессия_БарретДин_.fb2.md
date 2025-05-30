@@ -8,7 +8,7 @@
 6986、_russian_Дурацкая профессия_Баррет Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5ba32641fd67d7584111b0376df1062

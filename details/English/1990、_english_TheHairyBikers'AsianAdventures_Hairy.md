@@ -8,7 +8,7 @@
 1990、_english_The Hairy Bikers' Asian Adventures_Hairy Bikers_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fdb885beafc962fe0ca5047a19db28e7

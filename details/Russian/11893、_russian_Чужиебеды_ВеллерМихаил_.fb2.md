@@ -8,7 +8,7 @@
 11893、_russian_Чужие беды_Веллер Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 915de8cd59cfaa6a6354c3cbb9c6c273

@@ -8,7 +8,7 @@
 2298、学习正则表达式 (图灵程序设计丛书)_[美]Michael Fitzgerald_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 41f2db02f64d0085124ed7815e85d1e5

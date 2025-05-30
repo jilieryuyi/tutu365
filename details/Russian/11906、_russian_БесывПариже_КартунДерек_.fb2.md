@@ -8,7 +8,7 @@
 11906、_russian_Бесы в Париже_Картун Дерек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7575477adf06bd0b93fe684a9020868

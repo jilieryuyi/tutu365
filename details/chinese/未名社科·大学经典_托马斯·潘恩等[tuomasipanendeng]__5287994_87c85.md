@@ -8,7 +8,7 @@
 未名社科·大学经典_托马斯·潘恩 等 [tuomasi panen deng]__5287994_87c85b3e7a41210026a992b495152e54.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 87c85b3e7a41210026a992b495152e54

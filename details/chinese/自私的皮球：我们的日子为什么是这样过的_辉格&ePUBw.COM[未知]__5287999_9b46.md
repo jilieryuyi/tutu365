@@ -8,7 +8,7 @@
 自私的皮球：我们的日子为什么是这样过的_辉格 & ePUBw.COM [未知]__5287999_9b465d09b6116b101113f75e8090379d.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9b465d09b6116b101113f75e8090379d

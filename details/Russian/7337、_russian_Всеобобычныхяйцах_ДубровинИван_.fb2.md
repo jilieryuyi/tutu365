@@ -8,7 +8,7 @@
 7337、_russian_Все об обычных яйцах_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c611ad2d490b5cc1c3799b58c3831b0

@@ -8,7 +8,7 @@
 7266、_russian_Радужная капелька_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd4f5e94586df753ac19fa8f0bc6d010

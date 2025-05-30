@@ -8,7 +8,7 @@
 9100、_russian_Колонисты_Володихин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e257a47c1b45d7a9dde1f1ac743d0602

@@ -8,7 +8,7 @@
 6340、_russian_Время жизни_Корнеев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7f940666016bec72b376089644ee947

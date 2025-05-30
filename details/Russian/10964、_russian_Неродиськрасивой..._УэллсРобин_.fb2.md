@@ -8,7 +8,7 @@
 10964、_russian_Не родись красивой..._Уэллс Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b17523d2ca2705adec643e7bd2a25970

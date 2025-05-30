@@ -8,7 +8,7 @@
 5482、_russian_Ностальгия_Поль Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ca0d2d2a6f9a722a79b531f79f86465

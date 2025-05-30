@@ -8,7 +8,7 @@
 11866、_russian_Светлая личность_Ильф Илья, Петров Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 068835516f1b34df79c9d747d51c6493

@@ -8,7 +8,7 @@
 UnixLinux编程实践教程.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 61ea01347621f66b11955db8412c9549

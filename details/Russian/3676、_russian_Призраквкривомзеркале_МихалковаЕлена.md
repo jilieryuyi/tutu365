@@ -8,7 +8,7 @@
 3676、_russian_Призрак в кривом зеркале_Михалкова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37697c1d8f601fef8a233422fea03e9a

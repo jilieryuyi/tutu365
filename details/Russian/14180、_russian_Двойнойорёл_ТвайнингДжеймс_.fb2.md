@@ -8,7 +8,7 @@
 14180、_russian_Двойной орёл_Твайнинг Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66d2e3ad1038fbe65414d3da019ae4a8

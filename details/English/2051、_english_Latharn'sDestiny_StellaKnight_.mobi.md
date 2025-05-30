@@ -8,7 +8,7 @@
 2051、_english_Latharn's Destiny_Stella Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cf66de45bb191b76f5b5975b5942d343

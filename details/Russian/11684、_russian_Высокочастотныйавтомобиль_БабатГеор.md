@@ -8,7 +8,7 @@
 11684、_russian_Высокочастотный автомобиль_Бабат Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e486563d140713c8fb2741fdd4fe0be3

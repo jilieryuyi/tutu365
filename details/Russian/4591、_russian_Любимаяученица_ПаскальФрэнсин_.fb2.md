@@ -8,7 +8,7 @@
 4591、_russian_Любимая ученица_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 029b249d99f78e1662425c5e188882ef

@@ -8,7 +8,7 @@
 4244、_russian_Первопричина_Циолковский Константин Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 489d0bde1e3b3f1d2cdf43207d0072bd

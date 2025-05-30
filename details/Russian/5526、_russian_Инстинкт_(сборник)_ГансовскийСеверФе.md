@@ -8,7 +8,7 @@
 5526、_russian_Инстинкт_ (сборник)_Гансовский Север Феликсович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0c8fe4a99bc88cf6729eec9e673f35c

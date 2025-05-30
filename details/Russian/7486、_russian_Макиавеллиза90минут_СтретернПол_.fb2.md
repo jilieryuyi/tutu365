@@ -8,7 +8,7 @@
 7486、_russian_Макиавелли за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fe2c6c89dc95e947094c90bfc777829

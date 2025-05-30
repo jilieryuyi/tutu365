@@ -8,7 +8,7 @@
 11806、_russian_Капитан Поль_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 557e27794351bcce593b944b00915296

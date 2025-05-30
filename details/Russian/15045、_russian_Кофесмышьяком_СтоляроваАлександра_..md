@@ -8,7 +8,7 @@
 15045、_russian_Кофе с мышьяком_Столярова Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfeea72ba0da6c2d40727f863fcee39b

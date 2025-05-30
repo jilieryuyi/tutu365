@@ -8,7 +8,7 @@
 2877、_russian_Прана_Соловьев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3871c5e3eea279fef463014ae9c4dc4d

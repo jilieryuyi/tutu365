@@ -8,7 +8,7 @@
 11139、_russian_Игра_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aab42c79b6e990d6071ae6d6711ce7f6

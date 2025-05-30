@@ -8,7 +8,7 @@
 1723、CEO说_像企业家一样思考 (领导梯队建设)_拉姆·查兰(Ram Charan)_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fd15ca58dad947ed649bdbdd69ede218

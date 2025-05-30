@@ -8,7 +8,7 @@
 13252、_russian_Космический маяк_Разумов Геннадий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe3d84a4c15e890761d2512beb86c476

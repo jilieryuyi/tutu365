@@ -8,7 +8,7 @@
 613、当我足够好，才会遇见你_Lydia_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bcf03e61ab3707e3aa3b8a832b80fab6

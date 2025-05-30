@@ -8,7 +8,7 @@
 8152、_russian_Майя_Бодхи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6252e9e9aea36706d0ad0e38c206d17

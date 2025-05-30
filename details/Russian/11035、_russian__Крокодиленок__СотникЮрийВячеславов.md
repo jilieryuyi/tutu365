@@ -8,7 +8,7 @@
 11035、_russian__Крокодиленок__Сотник Юрий Вячеславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e85b6c24eda236e729366a931f1572b4

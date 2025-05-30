@@ -8,7 +8,7 @@
 5431、_russian_Полное разрушение_Ралстон Гилберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c0c341de931359bb7c1c15bfd0f6d4a

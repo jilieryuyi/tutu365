@@ -8,7 +8,7 @@
 11554、_russian_Рыцари здравого смысла_Скаландис Ант_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcb0163050eb48d7a32f375da351836b

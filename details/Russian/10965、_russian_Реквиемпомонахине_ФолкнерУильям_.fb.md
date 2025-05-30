@@ -8,7 +8,7 @@
 10965、_russian_Реквием по монахине_Фолкнер Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a53f30343540046aec779881c6efe5b6

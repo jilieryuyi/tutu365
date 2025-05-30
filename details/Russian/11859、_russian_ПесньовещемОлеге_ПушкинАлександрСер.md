@@ -8,7 +8,7 @@
 11859、_russian_Песнь о вещем Олеге_Пушкин Александр Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3cab4a4117975d62d205bd986b2dfda3

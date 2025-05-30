@@ -8,7 +8,7 @@
 10792、_russian_Интервью с Жюлем Верном_Брандис Евгений Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34bcfd198b6ca1579bb33967008990ad

@@ -8,7 +8,7 @@
 6170、_russian_Мемуары_де Куртиль Гасьен де Сандрa_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37bb7279d7303305e936bb1c7dae060b

@@ -8,7 +8,7 @@
 13172、_russian_Блеск_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6bfc124e93a047ece2d29cdfdff2204

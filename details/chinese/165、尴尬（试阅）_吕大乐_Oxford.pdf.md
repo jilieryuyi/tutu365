@@ -8,7 +8,7 @@
 165、尴尬（试阅）_吕大乐_Oxford.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 00bcf23555398cf170f2aea6ac06de13

@@ -8,7 +8,7 @@
 改变美国的时刻：The Moment That Changed America_刘戈__5476602_6042958965067373e1fe438674c91fd8.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6042958965067373e1fe438674c91fd8

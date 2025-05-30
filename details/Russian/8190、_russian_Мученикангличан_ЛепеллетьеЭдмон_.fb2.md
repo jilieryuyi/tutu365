@@ -8,7 +8,7 @@
 8190、_russian_Мученик англичан_Лепеллетье Эдмон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da714eb41206f7d0615100fdf63361cc

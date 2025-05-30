@@ -8,7 +8,7 @@
 2418、_russian_Кулак Аллаха_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b255cfdeca27ab151673facf62ba7610

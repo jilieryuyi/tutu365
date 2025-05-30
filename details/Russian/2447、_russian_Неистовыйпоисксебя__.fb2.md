@@ -8,7 +8,7 @@
 2447、_russian_Неистовый поиск себя__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3421cb683d07a3e97e74a1251637bce8

@@ -8,7 +8,7 @@
 983、_russian_Бронзовая птица_Рыбаков Анатолий Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 833c1ae3b4f3641e299a09a73910b186

@@ -8,7 +8,7 @@
 11821、_russian_Созерцание (сборник)_Кафка Франц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3893c0731d222dca723d346efabfda4b

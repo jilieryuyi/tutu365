@@ -8,7 +8,7 @@
 937、_russian_Движущийся палец_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c1a4fb22282c35ab57a4befb5eeccd3

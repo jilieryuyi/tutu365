@@ -8,7 +8,7 @@
 3292、_russian_Избранник судьбы_Фомин Олег Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a07cb57e04b3b5183efbed6483e8b53c

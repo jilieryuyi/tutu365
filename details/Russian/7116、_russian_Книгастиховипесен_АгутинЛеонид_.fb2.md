@@ -8,7 +8,7 @@
 7116、_russian_Книга стихов и песен_Агутин Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fa3fdae6b4a6e18ae3e8dfa5f0bc667

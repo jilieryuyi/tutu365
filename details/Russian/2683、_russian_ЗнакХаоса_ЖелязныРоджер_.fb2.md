@@ -8,7 +8,7 @@
 2683、_russian_Знак Хаоса_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67cfbe98ede466e50f0f8fd1868dfdb8

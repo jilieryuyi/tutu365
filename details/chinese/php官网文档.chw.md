@@ -8,7 +8,7 @@
 php官网文档.chw.chw
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cca85c94857ea470203c0b7f9bb0c4fb

@@ -8,7 +8,7 @@
 7370、_russian_Опасные хитрости_Хазард Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94cce8bc7b84ec92743ac8479cdb0d21

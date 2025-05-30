@@ -8,7 +8,7 @@
 1109、_russian_Меж трех времен_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55ed47f32e016d780c3d92ac35fe0643

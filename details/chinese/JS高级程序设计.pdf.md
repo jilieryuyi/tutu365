@@ -8,7 +8,7 @@
 JS高级程序设计.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 31d7ca22afa3861d469e5f52b95dc5cc

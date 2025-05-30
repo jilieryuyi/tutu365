@@ -8,7 +8,7 @@
 6601、_russian_Будем как солнце. Книга символов_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b554c2595174fdc7b73cb99d6827ca00

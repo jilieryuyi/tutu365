@@ -8,7 +8,7 @@
 百年世事_[德] 赫尔穆特·施密特 Helmut Schmidt, [美] 弗里茨·斯特恩 Fritz Stern__5322342_05b12067f2a5de6f45dfa1a461387d6f.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 05b12067f2a5de6f45dfa1a461387d6f

@@ -8,7 +8,7 @@
 265、全景二战 (图说天下·透过镜头系列)_Publisher           _ 吉林出版集团有限责任公司_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6d1e2cdd710375daa4ca67418fa51c1b

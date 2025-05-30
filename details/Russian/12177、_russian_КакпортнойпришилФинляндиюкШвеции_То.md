@@ -8,7 +8,7 @@
 12177、_russian_Как портной пришил Финляндию к Швеции_Топелиус Сакариас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c2eb69e471aa96febf97f2a1163b51e

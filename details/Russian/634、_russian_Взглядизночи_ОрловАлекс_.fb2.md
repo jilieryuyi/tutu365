@@ -8,7 +8,7 @@
 634、_russian_Взгляд из ночи_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b84b3c8cde3cf0888e1a24fdd74859e

@@ -8,7 +8,7 @@
 10828、_russian_Снег_Визбор Юрий Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c29f38263b15a69c218be925e7185649

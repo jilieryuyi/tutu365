@@ -8,7 +8,7 @@
 10604、_russian_В манграх_Майн Рид Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de3e1a0e9d9487c9a12472d6dc4a5fd8

@@ -8,7 +8,7 @@
 5731、_russian_Лицо в толпе (сборник)_Биленкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc8820061ae506b770490aadbd416f4a

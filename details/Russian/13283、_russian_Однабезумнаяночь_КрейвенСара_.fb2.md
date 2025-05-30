@@ -8,7 +8,7 @@
 13283、_russian_Одна безумная ночь_Крейвен Сара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4865454ffc98f3c99229be3a6e136b9f

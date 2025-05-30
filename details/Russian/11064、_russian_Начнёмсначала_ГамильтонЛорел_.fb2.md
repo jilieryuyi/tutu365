@@ -8,7 +8,7 @@
 11064、_russian_Начнём сначала_Гамильтон Лорел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44fb54429aed5d0ab53df7aa219537b7

@@ -8,7 +8,7 @@
 13666、_russian_Посланница. Тайна геллании_Чернованова Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3bac3ca9a22e30c10ec4cb45fe6697a

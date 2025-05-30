@@ -8,7 +8,7 @@
 187、_russian_Заря Амбера_Желязны Роджер, Бетанкур Джон Грегори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c2082de9cffff26f46fc9af64d9561a

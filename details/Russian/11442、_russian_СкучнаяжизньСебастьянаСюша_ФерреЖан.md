@@ -8,7 +8,7 @@
 11442、_russian_Скучная жизнь Себастьяна Сюша_Ферре Жан-Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b39a821732c7751f4a51bd3b33cae73

@@ -8,7 +8,7 @@
 12646、_russian_Антек_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 971602e5a8e0710d31c32687e829311f

@@ -8,7 +8,7 @@
 7195、_russian_Казни и пытки__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c339d40df3417c9406eb2eb5aff5fba

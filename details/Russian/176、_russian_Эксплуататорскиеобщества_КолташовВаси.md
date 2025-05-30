@@ -8,7 +8,7 @@
 176、_russian_Эксплуататорские общества_Колташов Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c29e678da4c069ada0d81b7467a1a4a

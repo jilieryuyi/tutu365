@@ -8,7 +8,7 @@
 13422、_russian_ХРОНИКИ КАПИТАНА БЛАДА_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07ff1ca21f3dccead719a2be408a9c85

@@ -8,7 +8,7 @@
 7994、_english_The English Assassin_Silva Daniel_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1a649761f28f8597ea3e28813110e443

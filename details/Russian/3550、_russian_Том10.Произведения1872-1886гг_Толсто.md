@@ -8,7 +8,7 @@
 3550、_russian_Том 10. Произведения 1872-1886 гг_Толстой Лев Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdc124b7d44e03dfbdcac55c995fb5a5

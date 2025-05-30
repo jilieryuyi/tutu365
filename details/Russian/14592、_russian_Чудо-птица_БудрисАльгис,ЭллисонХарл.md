@@ -8,7 +8,7 @@
 14592、_russian_Чудо-птица_Будрис Альгис, Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34b0fb6c325ee880d13eaf2100625832

@@ -8,7 +8,7 @@
 12853、_russian_Четыре дня_Гаршин Всеволод Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95cfd719bd43db19a048f9d09aa3f09e

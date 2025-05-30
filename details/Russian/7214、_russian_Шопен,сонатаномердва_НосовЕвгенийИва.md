@@ -8,7 +8,7 @@
 7214、_russian_Шопен, соната номер два_Носов Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a52f4cb772acebca2ea72246558d933a

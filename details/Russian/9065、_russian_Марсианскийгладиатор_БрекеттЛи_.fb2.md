@@ -8,7 +8,7 @@
 9065、_russian_Марсианский гладиатор_Брекетт Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f83c8eadc91ea664c77948a2b877922e

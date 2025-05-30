@@ -8,7 +8,7 @@
 2679、_french_L’Idiot. Tome I_Dosto_evski Fedor Mikha_lovitch_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c830684bf7f59e2eb7b4a50b77f98856

@@ -8,7 +8,7 @@
 556、_russian_Рука_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aef354544236e703aae3a4a9733943cc

@@ -8,7 +8,7 @@
 9799、_russian_Эрнст Ханфштангль, пресс-секретарь Гитлера_Гранде Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88ea212acba19bcd7700c76e2b8886be

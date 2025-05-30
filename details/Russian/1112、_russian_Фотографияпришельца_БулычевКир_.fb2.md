@@ -8,7 +8,7 @@
 1112、_russian_Фотография пришельца_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 716c81501732908d51676897dfeb31f6

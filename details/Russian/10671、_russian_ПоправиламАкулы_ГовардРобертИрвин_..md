@@ -8,7 +8,7 @@
 10671、_russian_По правилам Акулы_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 641f9722fdc72f6a694ef54e1167d593

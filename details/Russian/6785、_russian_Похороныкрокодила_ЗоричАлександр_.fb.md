@@ -8,7 +8,7 @@
 6785、_russian_Похороны крокодила_Зорич Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e6d110945f84031f7b71304a90e2582

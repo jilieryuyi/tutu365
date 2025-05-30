@@ -8,7 +8,7 @@
 11992、_russian_Власть молнии__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fcb4ac9b452f7c64d04229f2d7a90a1

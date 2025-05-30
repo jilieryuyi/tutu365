@@ -8,7 +8,7 @@
 1612、股票大作手操盘术_融合时间和价格的利弗莫尔准则_杰西_利弗莫尔 (Jesse Livermore)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b92aefa6ffaaa1e7f8ed730ed8aaa90c

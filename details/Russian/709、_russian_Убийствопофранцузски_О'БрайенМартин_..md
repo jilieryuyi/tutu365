@@ -8,7 +8,7 @@
 709、_russian_Убийство по французски_О'Брайен Мартин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ba7cf2e09fed81e5f85390b79593a7e

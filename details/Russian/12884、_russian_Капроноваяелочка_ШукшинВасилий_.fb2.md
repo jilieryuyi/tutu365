@@ -8,7 +8,7 @@
 12884、_russian_Капроновая елочка_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 509a27084a7b2ed7cd9cad9ba2c0be2e

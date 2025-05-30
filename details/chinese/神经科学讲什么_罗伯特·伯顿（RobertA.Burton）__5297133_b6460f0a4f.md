@@ -8,7 +8,7 @@
 神经科学讲什么_罗伯特·伯顿（Robert A. Burton）__5297133_b6460f0a4f1a10e6c88cd33ae4a5e27f.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b6460f0a4f1a10e6c88cd33ae4a5e27f

@@ -8,7 +8,7 @@
 6351、_russian_Массажист_Ахманов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02077b43f97362fd762213c65524e896

@@ -8,7 +8,7 @@
 6841、_russian_Следы богов_Хэнкок Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ec4a43887ccb30214aeaac11bffdaa4

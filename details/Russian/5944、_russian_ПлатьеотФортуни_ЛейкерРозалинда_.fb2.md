@@ -8,7 +8,7 @@
 5944、_russian_Платье от Фортуни_Лейкер Розалинда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f40914d91232580fa6c38a7307a4b39

@@ -8,7 +8,7 @@
 12035、_russian_Летняя луна_Кинсейл Лаура_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb95292b425f5c2f239c5adaed23ee9b

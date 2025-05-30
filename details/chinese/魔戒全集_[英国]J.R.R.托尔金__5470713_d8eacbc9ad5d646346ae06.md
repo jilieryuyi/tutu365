@@ -8,7 +8,7 @@
 魔戒全集_[英国]J.R.R.托尔金__5470713_d8eacbc9ad5d646346ae0610ed1b2617.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d8eacbc9ad5d646346ae0610ed1b2617

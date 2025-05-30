@@ -8,7 +8,7 @@
 11060、_russian_Бригадир_Фонвизин Денис Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7cbb59db88eb6587590aae9d6c08c89

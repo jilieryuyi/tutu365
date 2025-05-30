@@ -8,7 +8,7 @@
 501、_russian_Петерс Латыш_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ffcfa0880427821cd685dc8ab41212a

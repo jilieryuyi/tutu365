@@ -8,7 +8,7 @@
 7625、_russian_Дом родной_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38fcd80cbdf8e542987410ddf0bfb318

@@ -8,7 +8,7 @@
 3640、_russian_Растрата_Алексеев Сергей Трофимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc162e5a63686524941a26e009652707

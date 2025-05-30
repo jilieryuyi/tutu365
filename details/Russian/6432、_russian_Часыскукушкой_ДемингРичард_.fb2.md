@@ -8,7 +8,7 @@
 6432、_russian_Часы с кукушкой_Деминг Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e42a3dd8b24826b955975521c39e48a8

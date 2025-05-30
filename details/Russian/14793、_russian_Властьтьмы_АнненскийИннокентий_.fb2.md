@@ -8,7 +8,7 @@
 14793、_russian_Власть тьмы_Анненский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb1f058acdb529f221e11b33c7f1197e

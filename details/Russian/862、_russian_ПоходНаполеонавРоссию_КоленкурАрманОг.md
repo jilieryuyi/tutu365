@@ -8,7 +8,7 @@
 862、_russian_Поход Наполеона в Россию_Коленкур Арман Огюстен Луи Де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf518bcc038f51cc4bfe1fde0419034e

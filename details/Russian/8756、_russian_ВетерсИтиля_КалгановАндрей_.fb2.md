@@ -8,7 +8,7 @@
 8756、_russian_Ветер с Итиля_Калганов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a90cea04449b7e2ce268452032b2aaa

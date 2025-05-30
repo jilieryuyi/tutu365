@@ -8,7 +8,7 @@
 2296、新编Office 2016应用大全（实战精华版） (Office办公无忧)_华文科技_北京华章图文信息有限公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c339d40df3417c9406eb2eb5aff5fba

@@ -8,7 +8,7 @@
 6329、_russian_Материализация мысли_Кутафин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4750e86d75c2702b16e0b9a568b4c7c

@@ -8,7 +8,7 @@
 4561、_russian_Скандал_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 827d0d8db3c1db9e377f15f5b2b6f2d7

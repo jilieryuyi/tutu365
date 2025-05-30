@@ -8,7 +8,7 @@
 10501、_russian_У Великой реки. Битва_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f15f2c942d7913bfe9a54cf24126e73

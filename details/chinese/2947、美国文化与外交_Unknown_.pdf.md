@@ -8,7 +8,7 @@
 2947、美国文化与外交_Unknown_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6e5e7a2fb3cd883146687d6a9aecdad9

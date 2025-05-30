@@ -8,7 +8,7 @@
 5759、_other_Герман Матвеев _Семнадцатилетние___.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8f3957b27401d317dcd8010bf4bc076

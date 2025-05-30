@@ -8,7 +8,7 @@
 7375、_english_Last Call_Grippando James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fc23ad2c7acb0bd604ca62d4c3628f02

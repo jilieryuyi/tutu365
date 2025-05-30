@@ -8,7 +8,7 @@
 2995、致我們的朋友：資本主義反抗宣言(此为rar格式)_隱形委員會Comité invisible_行人文化實驗室.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b2e9e9ea826bdf8b20060a22f67c3831

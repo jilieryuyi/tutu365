@@ -8,7 +8,7 @@
 7038、_russian_Сержант Беркович (Сборник рассказов)_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8635fba143f4ba47f40f068ab5093a3

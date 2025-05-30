@@ -8,7 +8,7 @@
 3019、_russian_Едоки картофеля_Бавильский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 adc6f18adc374140c81d4cbf6cdc9d97

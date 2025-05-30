@@ -8,7 +8,7 @@
 1079、_russian__ГЗ__Ермак Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 950589d49019bea58b7c1c826269163e

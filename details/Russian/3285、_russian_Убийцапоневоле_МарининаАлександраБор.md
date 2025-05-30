@@ -8,7 +8,7 @@
 3285、_russian_Убийца поневоле_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a680a4844dcb2728f69f0055382fc9c3

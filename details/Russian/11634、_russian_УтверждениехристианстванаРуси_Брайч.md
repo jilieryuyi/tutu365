@@ -8,7 +8,7 @@
 11634、_russian_Утверждение христианства на Руси_Брайчевский Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9e26aa518dec8ca0be0b6c9b22f77e1

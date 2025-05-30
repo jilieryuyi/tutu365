@@ -8,7 +8,7 @@
 10214、_russian_Первое обвинение_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3bacc106cce3f975eacfa6d846af9980

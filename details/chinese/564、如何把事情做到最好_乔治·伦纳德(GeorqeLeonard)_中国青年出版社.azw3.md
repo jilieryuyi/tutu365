@@ -8,7 +8,7 @@
 564、如何把事情做到最好_乔治·伦纳德 (Georqe Leonard)_中国青年出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bcbb0c2df6428c973be9bc0118942faa

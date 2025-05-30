@@ -8,7 +8,7 @@
 4464、_russian_Тайные судьбы_Стоун Джин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7745168f5567456780caea848d1b228a

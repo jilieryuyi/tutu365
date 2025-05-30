@@ -8,7 +8,7 @@
 [钢琴欣赏十八讲][北京师范大学出版社][PDF电子版].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6fbd39a3e83ed1f8bddc28dfab168d30

@@ -8,7 +8,7 @@
 7438、_russian_Мэри Поппинс (перевод Б. Заходера)_Трэверс Памела Линдон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b21b411ab31002373dece4b227920adb

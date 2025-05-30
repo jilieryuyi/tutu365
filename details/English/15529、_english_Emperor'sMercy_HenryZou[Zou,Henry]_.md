@@ -8,7 +8,7 @@
 15529、_english_Emperor's Mercy_Henry Zou [Zou, Henry]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d166c4430c100a7d3b3df22f9fe93170

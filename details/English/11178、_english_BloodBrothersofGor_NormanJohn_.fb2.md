@@ -8,7 +8,7 @@
 11178、_english_Blood Brothers of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3aa1f613b4e938b64ce98857a6830bf7

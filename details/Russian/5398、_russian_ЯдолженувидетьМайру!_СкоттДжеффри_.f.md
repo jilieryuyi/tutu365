@@ -8,7 +8,7 @@
 5398、_russian_Я должен увидеть Майру!_Скотт Джеффри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 101695b8b56c10bd31800761908ffa3d

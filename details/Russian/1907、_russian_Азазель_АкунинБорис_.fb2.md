@@ -8,7 +8,7 @@
 1907、_russian_Азазель_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b86dc16db35c5ac139aad6a74dcfb38e

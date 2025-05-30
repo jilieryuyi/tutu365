@@ -8,7 +8,7 @@
 4271、_russian_Могила Ван Гога_Сибаки Ёсико_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d1517a258a4c76f2c56d9719db4b9b2

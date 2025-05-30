@@ -8,7 +8,7 @@
 11346、_russian_Возвращение в любовь_Амстронг Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff87104e656da39b7d2b7ebab010aac7

@@ -8,7 +8,7 @@
 [搜索引擎优化高级编程(PHP版)]高清300dpi版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1b5e4090b53509faeec42dfc430c5111

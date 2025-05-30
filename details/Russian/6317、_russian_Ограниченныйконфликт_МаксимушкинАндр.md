@@ -8,7 +8,7 @@
 6317、_russian_Ограниченный конфликт_Максимушкин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b0fb31a74ce999d68c7a39d3fafc31a

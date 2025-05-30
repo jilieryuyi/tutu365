@@ -8,7 +8,7 @@
 10097、_russian_Принц наемников_Пурнелл Джерри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18d61fbb9edd34b3cca782f9db04673b

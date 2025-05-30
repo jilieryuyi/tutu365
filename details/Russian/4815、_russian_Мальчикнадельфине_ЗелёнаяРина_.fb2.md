@@ -8,7 +8,7 @@
 4815、_russian_Мальчик на дельфине_Зелёная Рина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5dc55ae585df7e0124f43f402eedaad3

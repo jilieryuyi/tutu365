@@ -8,7 +8,7 @@
 634、骨骼肌肉功能解剖学（第2版）_Donald A. Neumann_人民军医出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 88e05c450ae83c3cc722223877e5d5b6

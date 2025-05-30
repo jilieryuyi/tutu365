@@ -8,7 +8,7 @@
 13101、_russian_Очаровательная идиотка_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b5a33e1237b52a9e5ef4398ea4cc0f4

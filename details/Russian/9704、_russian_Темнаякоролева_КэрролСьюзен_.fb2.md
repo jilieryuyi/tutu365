@@ -8,7 +8,7 @@
 9704、_russian_Темная королева_Кэррол Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86107e485169a42526e66f41f6c5ffd1

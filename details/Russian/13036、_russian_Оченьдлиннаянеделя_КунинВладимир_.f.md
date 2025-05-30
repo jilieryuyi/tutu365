@@ -8,7 +8,7 @@
 13036、_russian_Очень длинная неделя_Кунин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3a07f178d0b81a217b8d2e180f388fa

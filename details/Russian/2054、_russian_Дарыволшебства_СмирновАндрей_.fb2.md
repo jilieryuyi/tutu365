@@ -8,7 +8,7 @@
 2054、_russian_Дары волшебства_Смирнов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 414c02a89a43294a05285b0c4d60fe0d

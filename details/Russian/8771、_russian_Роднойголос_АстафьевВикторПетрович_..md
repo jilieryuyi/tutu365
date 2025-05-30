@@ -8,7 +8,7 @@
 8771、_russian_Родной голос_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 796a844cb432c2d1038b905bbb371202

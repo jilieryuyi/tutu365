@@ -8,7 +8,7 @@
 3610、_russian_Том 15_Сталин Иосиф Виссарионович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ff96b2cf3cb794ea73fe036b2ae6a92

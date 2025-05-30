@@ -8,7 +8,7 @@
 8783、_russian_Разговор_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2de575f2f361568e5cc9e20232bcca6

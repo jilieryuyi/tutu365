@@ -8,7 +8,7 @@
 10209、_russian_Тайный фарватер_Стрельцов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cad396e015bc65b5004723c428917173

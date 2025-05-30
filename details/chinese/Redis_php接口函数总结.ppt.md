@@ -8,7 +8,7 @@
 Redis_php接口函数总结.ppt.ppt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 52d61416b184c445e2eaedcbabfe9e86

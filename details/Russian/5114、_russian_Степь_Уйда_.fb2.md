@@ -8,7 +8,7 @@
 5114、_russian_Степь_Уйда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22823350fa3a4bdd7eb4754bb4debc96

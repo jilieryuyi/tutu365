@@ -8,7 +8,7 @@
 11912、_russian_Джарел из Джойри_Каттнер Генри, Мур Кэтрин Л._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27c6197bba719c85de54f66bf0c2a9f9

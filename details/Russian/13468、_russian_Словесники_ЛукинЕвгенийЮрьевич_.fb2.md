@@ -8,7 +8,7 @@
 13468、_russian_Словесники_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f6c17d7022b4827a48543d85cedd0f1

@@ -8,7 +8,7 @@
 13869、_russian_Дизелятник_Бабченко Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8539b10225ddf853e4c73d2affb97f43

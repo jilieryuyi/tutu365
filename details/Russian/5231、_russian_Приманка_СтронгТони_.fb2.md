@@ -8,7 +8,7 @@
 5231、_russian_Приманка_Стронг Тони_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d02e9379c5daed37ad00c3a25063187

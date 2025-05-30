@@ -8,7 +8,7 @@
 10517、_russian_Как соблазнить призрака_Макинтайр Хоуп_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a5c7986c62ab5fce0d354917c6236ec

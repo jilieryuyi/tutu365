@@ -8,7 +8,7 @@
 10714、_russian_Ночная танцовщица_Брэдшоу Эмили_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0340a254b1aa9fdd71fb0d642255ba2

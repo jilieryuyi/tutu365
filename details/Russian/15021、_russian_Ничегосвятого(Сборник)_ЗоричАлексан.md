@@ -8,7 +8,7 @@
 15021、_russian_Ничего святого (Сборник)_Зорич Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b20cf8a0ad8c5f0dff5ec611790c4b94

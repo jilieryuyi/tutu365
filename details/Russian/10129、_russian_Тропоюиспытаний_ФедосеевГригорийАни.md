@@ -8,7 +8,7 @@
 10129、_russian_Тропою испытаний_Федосеев Григорий Анисимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 505c917c1f54df3c952fb19ebadd128e

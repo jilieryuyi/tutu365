@@ -8,7 +8,7 @@
 12967、_russian_Жанета_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59e376ceb1f121ad26a68f66a3613267

@@ -8,7 +8,7 @@
 14235、_russian_Алгорифма_Борхес Хорхе Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b74f2e2429320acc6fcc4b74b852176

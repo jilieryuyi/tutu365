@@ -8,7 +8,7 @@
 6005、_russian_Вечеринка в турецких банях_Хрусталева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba7307ffb9c1daee23035c7ee6684024

@@ -8,7 +8,7 @@
 13197、_russian_Постойко_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4c78edf6aa7989c14ec0b0cf91607ee

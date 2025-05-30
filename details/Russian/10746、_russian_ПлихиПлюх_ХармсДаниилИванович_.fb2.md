@@ -8,7 +8,7 @@
 10746、_russian_Плих и Плюх_Хармс Даниил Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74dce940fcf374d13686a30b3f40be5e

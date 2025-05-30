@@ -8,7 +8,7 @@
 10610、_russian_Дитя Гайи_Сыченко Игорь Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6886a69061647008d36889d622bd108

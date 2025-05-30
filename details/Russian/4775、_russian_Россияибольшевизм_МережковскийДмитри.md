@@ -8,7 +8,7 @@
 4775、_russian_Россия и большевизм_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65a8608e6941d7c161442ef0ea5be769

@@ -8,7 +8,7 @@
 1076、_russian_Любовь on-line_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7878d7c872261551bf81bd465ba76ac

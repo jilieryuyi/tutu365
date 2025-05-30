@@ -8,7 +8,7 @@
 2463、_russian__Maserati_ бордо, или Уравнение с тремя неизвестными_Лапидус Азарий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa95679e6b89ab717176e2993d0e3d83

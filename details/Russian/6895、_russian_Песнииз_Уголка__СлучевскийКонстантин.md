@@ -8,7 +8,7 @@
 6895、_russian_Песни из _Уголка__Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8c5373f91a10f288e0ebd880c18544c

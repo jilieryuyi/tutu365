@@ -8,7 +8,7 @@
 12988、_russian_Рип ван Винкль_Ирвинг Вашингтон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81440d68b8f44d27b4aa91a3ee93660d

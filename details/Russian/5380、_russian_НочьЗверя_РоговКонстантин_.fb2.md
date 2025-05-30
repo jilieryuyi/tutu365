@@ -8,7 +8,7 @@
 5380、_russian_Ночь Зверя_Рогов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26262175c1ed837315f8db20c960d076

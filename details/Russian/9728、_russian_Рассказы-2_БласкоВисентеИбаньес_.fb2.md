@@ -8,7 +8,7 @@
 9728、_russian_Рассказы - 2_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c51702f409ab94409cf8b8babd34ac26

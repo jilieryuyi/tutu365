@@ -8,7 +8,7 @@
 13080、_russian_Живой и невредимый в одиноком путешествии_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e17c75f03106acd3170ec585ca8c9faf

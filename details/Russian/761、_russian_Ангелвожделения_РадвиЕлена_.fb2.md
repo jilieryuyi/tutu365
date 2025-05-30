@@ -8,7 +8,7 @@
 761、_russian_Ангел вожделения_Радви Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e212bb842c02ccb7d7729c59c509bc5

@@ -8,7 +8,7 @@
 1030、_russian_Не ищите приключений_Грибовская Ирина Сергеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9ea63c77ff2d05def8cba0a6b79f0c9

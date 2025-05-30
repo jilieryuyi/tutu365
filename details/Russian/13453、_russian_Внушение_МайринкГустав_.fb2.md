@@ -8,7 +8,7 @@
 13453、_russian_Внушение_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eaf44f71d48fbe7a1e8e68a355f5bcf5

@@ -8,7 +8,7 @@
 2213、剑指Offer_名企面试官精讲典型编程题_何海涛_电子工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 db5c633c3a89a86131fb274f85f246f3

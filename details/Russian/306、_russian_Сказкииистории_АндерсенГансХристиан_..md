@@ -8,7 +8,7 @@
 306、_russian_Сказки и истории_Андерсен Ганс Христиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de22227ff4a2fe0207298e21e935df1e

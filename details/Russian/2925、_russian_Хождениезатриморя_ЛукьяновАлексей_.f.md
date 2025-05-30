@@ -8,7 +8,7 @@
 2925、_russian_Хождение за три моря_Лукьянов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93a5ec3e8fb005e7c28f1b3829e313bc

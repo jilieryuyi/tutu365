@@ -8,7 +8,7 @@
 9925、_russian_Антарктида online_Васильев Владимир Николаевич, Громов Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0609b5e9d85a459723c4b98b7fc0bd70

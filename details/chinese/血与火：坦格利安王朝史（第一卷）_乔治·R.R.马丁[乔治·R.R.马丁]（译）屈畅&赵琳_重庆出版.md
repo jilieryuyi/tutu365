@@ -8,7 +8,7 @@
 血与火：坦格利安王朝史（第一卷）_乔治·R.R.马丁 [乔治·R.R.马丁]  （译）屈畅&赵琳_重庆出版社_5364758_42dfeeca7b1a04ccd082c2ead7d20d80.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 42dfeeca7b1a04ccd082c2ead7d20d80

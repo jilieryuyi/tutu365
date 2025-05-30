@@ -8,7 +8,7 @@
 9272、_italian_Diario d'inverno_Paul Auster_Einaudi.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 be0a72f3a43fd93c6a6ec3e608ece2a4

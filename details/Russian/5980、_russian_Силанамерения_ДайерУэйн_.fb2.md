@@ -8,7 +8,7 @@
 5980、_russian_Сила намерения_Дайер Уэйн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95cfd524e5f4c9a92462f50bb7e49e45

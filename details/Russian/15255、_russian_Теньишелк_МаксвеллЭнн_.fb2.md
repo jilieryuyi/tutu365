@@ -8,7 +8,7 @@
 15255、_russian_Тень и шелк_Максвелл Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5095dc38a26126f368bc1ef59b0a7e2

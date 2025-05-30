@@ -8,7 +8,7 @@
 4385、_russian_Зеркало старой ведьмы_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e1eefd93bb6ecdfe7a705cefae2a544

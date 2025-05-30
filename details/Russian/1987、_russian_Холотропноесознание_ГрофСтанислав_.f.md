@@ -8,7 +8,7 @@
 1987、_russian_Холотропное сознание_Гроф Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f453d2aa3feac1a9bba075e00b3cdbb

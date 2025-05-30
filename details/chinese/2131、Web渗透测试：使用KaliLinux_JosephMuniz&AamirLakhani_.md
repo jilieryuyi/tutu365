@@ -8,7 +8,7 @@
 2131、Web渗透测试：使用Kali Linux_Joseph Muniz & Aamir Lakhani_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7bc96485146b56eefd02c83217295625

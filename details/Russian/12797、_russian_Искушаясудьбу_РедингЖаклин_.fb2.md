@@ -8,7 +8,7 @@
 12797、_russian_Искушая судьбу_Рединг Жаклин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf0ac857c061aeedb0b22ff3e5f8a3b7

@@ -8,7 +8,7 @@
 密码学与编码理论（第2版）_Wade Trappe  (Author), Lawrence C. Washington (Author), 王全龙 , 王鹏 , 林昌露 (译者)_人民邮电出版社_5362721_3c5e0c95555d7da31ae5acb1f982b6c1.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c5e0c95555d7da31ae5acb1f982b6c1

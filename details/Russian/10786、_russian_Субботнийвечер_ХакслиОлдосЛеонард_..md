@@ -8,7 +8,7 @@
 10786、_russian_Субботний вечер_Хаксли Олдос Леонард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9614609315e829a6fec2e42428a9ca1

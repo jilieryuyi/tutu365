@@ -8,7 +8,7 @@
 9062、_russian_Смерть на берегу Дуная_Андраш Ласло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06a3766bfd8628fab7abe723f980b953

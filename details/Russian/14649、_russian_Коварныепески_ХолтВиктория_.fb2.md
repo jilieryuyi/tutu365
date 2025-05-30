@@ -8,7 +8,7 @@
 14649、_russian_Коварные пески_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93c0be371e451fcb95407cb18164988c

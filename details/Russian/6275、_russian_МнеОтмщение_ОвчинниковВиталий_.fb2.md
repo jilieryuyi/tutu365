@@ -8,7 +8,7 @@
 6275、_russian_Мне Отмщение_Овчинников Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9ce07b4bad06f6b9ee746752be56020

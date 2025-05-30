@@ -8,7 +8,7 @@
 11066、_russian_Угрюмый дудочник_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 232c526630a918a0b23e1fc190e600dc

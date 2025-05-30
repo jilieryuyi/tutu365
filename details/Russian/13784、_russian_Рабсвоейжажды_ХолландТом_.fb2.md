@@ -8,7 +8,7 @@
 13784、_russian_Раб своей жажды_Холланд Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44b37c8c44e57145dffe2b432672b28d

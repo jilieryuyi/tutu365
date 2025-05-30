@@ -8,7 +8,7 @@
 12874、_russian_Мечты_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ad400b5a1bcd1a5d657b2e9d8100e21

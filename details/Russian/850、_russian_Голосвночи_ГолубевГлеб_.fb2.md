@@ -8,7 +8,7 @@
 850、_russian_Голос в ночи_Голубев Глеб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8a0205d4507dd4bcd442a27d3d58b6e

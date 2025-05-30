@@ -8,7 +8,7 @@
 7662、_russian_Искусство Быть Собой_Леви Владимир Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d13ac552229108010d6f4c78d1cbb83

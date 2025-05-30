@@ -8,7 +8,7 @@
 10908、_russian_Ищейка_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bec53844a18b41ca785d0b1acc54f586

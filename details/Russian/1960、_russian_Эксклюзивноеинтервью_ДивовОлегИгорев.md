@@ -8,7 +8,7 @@
 1960、_russian_Эксклюзивное интервью_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdbdda11faae294b4bb2fa4d00dbc950

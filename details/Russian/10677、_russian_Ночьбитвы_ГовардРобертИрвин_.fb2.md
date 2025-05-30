@@ -8,7 +8,7 @@
 10677、_russian_Ночь битвы_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a8683f28c69d194f1e55d615b38ce87

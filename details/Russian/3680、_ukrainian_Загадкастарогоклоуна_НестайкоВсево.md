@@ -8,7 +8,7 @@
 3680、_ukrainian_Загадка старого клоуна_Нестайко Всеволод З_нов_йович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b5252b32832be1263ab0071bb69d306

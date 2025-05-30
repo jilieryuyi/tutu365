@@ -8,7 +8,7 @@
 12253、_russian_Встреча с любовью_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68e16dc33691e88c55f782d254aa351c

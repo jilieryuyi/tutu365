@@ -8,7 +8,7 @@
 14505、_russian_Забывший имя Луны_Мурашова Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be0fc0239298d905d27a53568c7aa367

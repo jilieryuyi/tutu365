@@ -8,7 +8,7 @@
 15225、_russian_ТЕЩИ.NET_Петров Алексанр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e716af7c8e2bdd9d68a4069f41a887f

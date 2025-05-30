@@ -8,7 +8,7 @@
 2095、_english_The Pursuits of Lord Kit Cavanaugh_Stephanie Laurens_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dd41ae8b245c5218e8883397c3c6101e

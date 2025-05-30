@@ -8,7 +8,7 @@
 4947、_russian_Родник_Харуто Ко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3079c287eeecefc15162f3cde80bad74

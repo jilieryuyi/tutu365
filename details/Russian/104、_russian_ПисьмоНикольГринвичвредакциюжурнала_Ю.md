@@ -8,7 +8,7 @@
 104、_russian_Письмо Николь Гринвич в редакцию журнала _Юный астроном__Горькавый Ник._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3040cbf4ae7113b9dff4df0a4ec5ebb3

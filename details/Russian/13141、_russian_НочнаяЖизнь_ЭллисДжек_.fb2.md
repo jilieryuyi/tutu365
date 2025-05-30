@@ -8,7 +8,7 @@
 13141、_russian_Ночная Жизнь_Эллис Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d3b0cf2de8b342809e7fe6ad2dd00fa

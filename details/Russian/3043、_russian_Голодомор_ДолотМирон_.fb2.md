@@ -8,7 +8,7 @@
 3043、_russian_Голодомор_Долот Мирон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec6de823c761164afbc50fd0d42e9d55

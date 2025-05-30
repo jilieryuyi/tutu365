@@ -8,7 +8,7 @@
 4905、_russian_Меланхолия Харухи Судзумии_Танигава Нагару_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe6729d1d4625e098a575dae7ed69473

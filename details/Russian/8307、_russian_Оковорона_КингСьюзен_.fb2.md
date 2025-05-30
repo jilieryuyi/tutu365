@@ -8,7 +8,7 @@
 8307、_russian_Око ворона_Кинг Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 811eaa8a02b70111d5a2490d7916e7b3

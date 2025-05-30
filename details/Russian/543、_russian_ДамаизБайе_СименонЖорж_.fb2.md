@@ -8,7 +8,7 @@
 543、_russian_Дама из Байе_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5cefc6ad8e00e9bcb1ba69439076399

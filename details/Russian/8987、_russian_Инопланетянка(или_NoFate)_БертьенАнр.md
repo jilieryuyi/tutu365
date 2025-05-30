@@ -8,7 +8,7 @@
 8987、_russian_Инопланетянка (или_ No Fate)_Бертьен Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab8858ddb46e6a5eec129f863b2a85d9

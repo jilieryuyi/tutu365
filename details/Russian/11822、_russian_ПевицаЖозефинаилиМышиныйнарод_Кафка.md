@@ -8,7 +8,7 @@
 11822、_russian_Певица Жозефина или Мышиный народ_Кафка Франц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18acf6dcba4d4564bc7c17991e2fab3a

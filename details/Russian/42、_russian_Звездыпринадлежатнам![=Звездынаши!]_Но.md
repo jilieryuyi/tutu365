@@ -8,7 +8,7 @@
 42、_russian_Звезды принадлежат нам! [= Звезды наши!]_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1af8020e3e7404dac52592c4af46cd8

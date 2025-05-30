@@ -8,7 +8,7 @@
 8406、_russian_Занимательные истории, новеллы и фаблио_Сад Маркиз де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f340e5cbd2d8616048f3cac68716cb5

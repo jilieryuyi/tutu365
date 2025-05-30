@@ -8,7 +8,7 @@
 8366、_russian_Стихи_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1100253bfb997ca5946e7450b7d1da30

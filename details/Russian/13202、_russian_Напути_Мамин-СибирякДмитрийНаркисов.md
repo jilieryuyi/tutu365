@@ -8,7 +8,7 @@
 13202、_russian_На пути_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0c1bc38e7da702e9058ca125e0e74cd

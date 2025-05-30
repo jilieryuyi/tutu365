@@ -8,7 +8,7 @@
 7888、_russian_Птица счастья_Токарева Виктория Самойловна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb189fb4efa004fca2e0dfcf625fd309

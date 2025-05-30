@@ -8,7 +8,7 @@
 5938、_russian_Гленлионская невеста_Рэнни Карен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51e1074b645694b91bb0a318e01d2813

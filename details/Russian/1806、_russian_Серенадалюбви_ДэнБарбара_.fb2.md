@@ -8,7 +8,7 @@
 1806、_russian_Серенада любви_Дэн Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb5c5eae0837c158cdec3364ee9616c8

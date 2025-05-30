@@ -8,7 +8,7 @@
 11945、_russian_Серная кислота_Нотомб Амели_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f929623b4d8b5f562e75ab0fa910116

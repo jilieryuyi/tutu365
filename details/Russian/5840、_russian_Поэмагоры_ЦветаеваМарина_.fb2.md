@@ -8,7 +8,7 @@
 5840、_russian_Поэма горы_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d1e2cdd710375daa4ca67418fa51c1b

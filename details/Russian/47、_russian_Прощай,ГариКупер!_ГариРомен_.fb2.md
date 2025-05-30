@@ -8,7 +8,7 @@
 47、_russian_Прощай, Гари Купер!_Гари Ромен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d51310b28f639e5daee0e0558d51f683

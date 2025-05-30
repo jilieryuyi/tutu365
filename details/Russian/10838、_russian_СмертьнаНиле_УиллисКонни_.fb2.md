@@ -8,7 +8,7 @@
 10838、_russian_Смерть на Ниле_Уиллис Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb7971e8de85b6879eb3db0e604e46fb

@@ -8,7 +8,7 @@
 8603、_russian_Другое притяжение_Жаков Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f788d8137fc5ad398cd9068ccf296c98

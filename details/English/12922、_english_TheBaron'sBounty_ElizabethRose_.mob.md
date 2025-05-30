@@ -8,7 +8,7 @@
 12922、_english_The Baron's Bounty_Elizabeth Rose_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1940731994a22d322b67f091aa3b0d84

@@ -8,7 +8,7 @@
 6625、_english_The Killing Kind_Connolly John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ac35c85f389ba37f218d514b66ef2a32

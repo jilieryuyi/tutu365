@@ -8,7 +8,7 @@
 1531、_russian_Мечта идеальной девчонки_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0360e88d4d3ef91b2ada42dfde46e110

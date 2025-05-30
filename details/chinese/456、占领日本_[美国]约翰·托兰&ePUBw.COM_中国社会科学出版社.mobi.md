@@ -8,7 +8,7 @@
 456、占领日本_[美国] 约翰·托兰 & ePUBw.COM_中国社会科学出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bd1cbbccebbadb273ff9203c302cf3eb

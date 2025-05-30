@@ -8,7 +8,7 @@
 3258、_spanish_David Golder_Nemirovsky Irène_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8204df1d4c022ef4b6199e863d9c7711

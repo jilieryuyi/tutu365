@@ -8,7 +8,7 @@
 5063、_russian_Пифагор (Том 1)_Бореев Г. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdf9fb0f8b9dc178fad67ce492a378e9

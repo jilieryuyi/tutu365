@@ -8,7 +8,7 @@
 12426、_russian_Седой_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afb134af5169d71ac9f03ed8ab3f1598

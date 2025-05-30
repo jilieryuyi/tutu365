@@ -8,7 +8,7 @@
 [Expert.Oracle.GoldenGate(第1版)].(Expert.Oracle.GoldenGate).Ben.Prusinski.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5c3622ce4f00c89720c7e3df5e811214

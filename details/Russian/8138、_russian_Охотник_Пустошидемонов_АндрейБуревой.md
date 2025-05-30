@@ -8,7 +8,7 @@
 8138、_russian_Охотник_ Пустоши демонов_Андрей Буревой_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 775a7bb1297532616db541b7a2bcda84

@@ -8,7 +8,7 @@
 12731、_russian_Избранница_Крамер Элли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1047243fe5f8f18c0e7dbbfb952e6950

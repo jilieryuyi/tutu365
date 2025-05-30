@@ -8,7 +8,7 @@
 13107、_russian_Все будет хорошо, или Свободный плен_Рощина Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a98433a7ca9f031238fdad4479a996a

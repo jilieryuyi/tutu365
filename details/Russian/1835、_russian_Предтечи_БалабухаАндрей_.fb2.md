@@ -8,7 +8,7 @@
 1835、_russian_Предтечи_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1510fec2c01f4f20b9f9ff0ec2be6f3

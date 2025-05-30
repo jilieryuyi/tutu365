@@ -8,7 +8,7 @@
 15271、_russian_Отвергнутый жених_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1706fd481ed5de93cbea81b6ecfbcfac

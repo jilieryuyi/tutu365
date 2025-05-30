@@ -8,7 +8,7 @@
 11079、_russian_Принц приказывает_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7264a5b22587027e17e6d13222aa033d

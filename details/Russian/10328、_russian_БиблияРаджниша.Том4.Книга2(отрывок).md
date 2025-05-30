@@ -8,7 +8,7 @@
 10328、_russian_Библия Раджниша. Том 4. Книга 2 (отрывок)_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a64e9beddc16ccadba3ea8402713ea9c

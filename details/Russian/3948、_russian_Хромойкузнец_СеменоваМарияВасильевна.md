@@ -8,7 +8,7 @@
 3948、_russian_Хромой кузнец_Семенова Мария Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b262409a33c47fc0af4f4d1106beabb

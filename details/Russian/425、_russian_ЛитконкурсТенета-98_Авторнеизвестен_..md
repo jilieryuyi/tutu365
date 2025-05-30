@@ -8,7 +8,7 @@
 425、_russian_Литконкурс Тенета-98_Автор неизвестен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3be34e5692e90c22c30505535d2b2301

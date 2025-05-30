@@ -8,7 +8,7 @@
 12165、_english_Lady Dearing's Masquerade_ Elena Greene_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 85a21ec327527882e591e5088b7e3c15

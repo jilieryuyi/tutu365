@@ -8,7 +8,7 @@
 11370、_russian_Духи русской революции_Бердяев Николай А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c5dc35a796c52ae54dd428cfb93f6f4

@@ -8,7 +8,7 @@
 12538、_russian_Меч над Москвой_Стаднюк Иван Фотиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56b68a5e0c1eaf91518e065e8739d12b

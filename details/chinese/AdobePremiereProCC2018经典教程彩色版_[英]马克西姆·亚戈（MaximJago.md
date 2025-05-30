@@ -8,7 +8,7 @@
 Adobe Premiere Pro CC 2018经典教程 彩色版_[英] 马克西姆·亚戈（Maxim Jago） 著，巩亚萍 译 _ 人民邮电出版社_5442106_cd4d676c398addeda8e81c9966e151c4.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cd4d676c398addeda8e81c9966e151c4

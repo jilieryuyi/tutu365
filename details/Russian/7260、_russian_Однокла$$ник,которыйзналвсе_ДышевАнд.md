@@ -8,7 +8,7 @@
 7260、_russian_Однокла$$ник, который знал все_Дышев Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f351f6a563873d57dedec2065e565ef

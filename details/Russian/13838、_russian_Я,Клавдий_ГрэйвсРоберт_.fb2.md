@@ -8,7 +8,7 @@
 13838、_russian_Я, Клавдий_Грэйвс Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 769c80480c55a5ef6e20e682c943206f

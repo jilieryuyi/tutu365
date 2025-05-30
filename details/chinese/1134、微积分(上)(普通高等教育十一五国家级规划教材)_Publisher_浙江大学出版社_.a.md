@@ -8,7 +8,7 @@
 1134、微积分(上) (普通高等教育十一五国家级规划教材)_Publisher           _ 浙江大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 994084aa0399530cf00341419c339a64

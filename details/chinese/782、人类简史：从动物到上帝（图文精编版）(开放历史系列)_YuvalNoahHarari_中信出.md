@@ -8,7 +8,7 @@
 782、人类简史：从动物到上帝（图文精编版） (开放历史系列)_Yuval Noah Harari_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 189ac86497d68070eaa27372523735a4

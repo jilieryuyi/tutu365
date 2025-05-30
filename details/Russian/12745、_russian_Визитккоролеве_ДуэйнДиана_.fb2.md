@@ -8,7 +8,7 @@
 12745、_russian_Визит к королеве_Дуэйн Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d586be2830988b78a9d4b84906ad322

@@ -8,7 +8,7 @@
 2760、_russian_Первая печать_Осояну Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ed2366ba3eb60ca9d56dc7102523e61

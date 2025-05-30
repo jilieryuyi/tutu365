@@ -8,7 +8,7 @@
 6759、_russian_Дыхание дракона_Захаров Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0253ca17d7a043a8e4073d6df22c822e

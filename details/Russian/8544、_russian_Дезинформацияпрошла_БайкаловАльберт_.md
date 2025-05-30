@@ -8,7 +8,7 @@
 8544、_russian_Дезинформация прошла_Байкалов Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe3d5de2565faeb58d8bd064bc30d984

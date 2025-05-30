@@ -8,7 +8,7 @@
 3714、_english_Dead until Dark_Харрис Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc608c07aa4b5e8d96599bb9bb485ad8

@@ -8,7 +8,7 @@
 2107、_russian_Другое детство_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2480aa90aea2d1570bc47eea2224622f

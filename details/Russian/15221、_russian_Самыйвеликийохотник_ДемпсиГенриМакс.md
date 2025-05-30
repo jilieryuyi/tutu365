@@ -8,7 +8,7 @@
 15221、_russian_Самый великий охотник_Демпси Генри Максвелл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30d5c4c676fa2cafb7909468c4f0ab92

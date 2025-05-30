@@ -8,7 +8,7 @@
 336、_russian_Голый на маскараде_Горохов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca4e489c0f3589466e96a8bc1e2c3c3e

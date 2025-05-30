@@ -8,7 +8,7 @@
 2167、_russian_Пушкарь_Корчевский Юрий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8775e5625db5ef15f34341d5b4f29a37

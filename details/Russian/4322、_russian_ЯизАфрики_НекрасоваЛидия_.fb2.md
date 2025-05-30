@@ -8,7 +8,7 @@
 4322、_russian_Я из Африки_Некрасова Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 281b263aa1fa87418e9e74f07e65ea71

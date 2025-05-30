@@ -8,7 +8,7 @@
 5524、_russian_Мертвые души_Гоголь Михаил Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bcfde6308407eb750a41c8ed05fe20f

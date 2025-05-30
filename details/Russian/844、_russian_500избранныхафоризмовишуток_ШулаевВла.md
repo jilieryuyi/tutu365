@@ -8,7 +8,7 @@
 844、_russian_500 избранных афоризмов и шуток_Шулаев Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4638b26fbbc78b589a6ffe0282597420

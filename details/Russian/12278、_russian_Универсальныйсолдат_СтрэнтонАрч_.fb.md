@@ -8,7 +8,7 @@
 12278、_russian_Универсальный солдат_Стрэнтон Арч_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb9ca7cff8265564c75507686ce58e88

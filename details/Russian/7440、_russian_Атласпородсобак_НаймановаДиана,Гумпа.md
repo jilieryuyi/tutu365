@@ -8,7 +8,7 @@
 7440、_russian_Атлас пород собак_Найманова Диана, Гумпал Зденек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 389530f656b2ca7de82dffc7e1976347

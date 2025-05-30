@@ -8,7 +8,7 @@
 5003、_russian_Принцесса без дракона_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9891c4d965df3bd92ed389c9c164539

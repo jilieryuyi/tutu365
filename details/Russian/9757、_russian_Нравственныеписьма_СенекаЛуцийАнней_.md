@@ -8,7 +8,7 @@
 9757、_russian_Нравственные письма_Сенека Луций Анней_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21448f28311c4d21eae302bb0bf7029c

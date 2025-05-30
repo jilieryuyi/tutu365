@@ -8,7 +8,7 @@
 13088、_russian_Все звуки страха_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 317ca27903087ea4532cf6ad994ce366

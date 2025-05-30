@@ -8,7 +8,7 @@
 13193、_russian_ОЧЕРКИ АНТИЧНОГО СИМВОЛИЗМА И МИФОЛОГИИ_Лосев Алексей Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fa1098d48c13c07cdb1bcbbefcb257a

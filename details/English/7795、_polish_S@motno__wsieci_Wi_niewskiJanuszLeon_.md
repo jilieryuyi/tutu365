@@ -8,7 +8,7 @@
 7795、_polish_S@motno__ w sieci_Wi_niewski Janusz Leon_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 96ab6fef2450b4553529f245eaceb931

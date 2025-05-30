@@ -8,7 +8,7 @@
 3371、_russian_Дьявол, который ее укротил_Линдсей Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91cf0fef8bc7c38810a8b1871db6bc6b

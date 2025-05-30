@@ -8,7 +8,7 @@
 10114、_russian_Александр I_Сахаров (редактор) А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d55dd8c085792091e6ab73b776743fa4

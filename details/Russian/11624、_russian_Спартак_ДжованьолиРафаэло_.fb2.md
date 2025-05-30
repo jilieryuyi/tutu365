@@ -8,7 +8,7 @@
 11624、_russian_Спартак_Джованьоли Рафаэло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 404c15fe7462f7f197c0eddb164cd041

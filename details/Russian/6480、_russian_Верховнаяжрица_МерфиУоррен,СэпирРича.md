@@ -8,7 +8,7 @@
 6480、_russian_Верховная жрица_Мерфи Уоррен, Сэпир Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b715efb994da3043a6acddd06f2bb42

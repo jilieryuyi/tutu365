@@ -8,7 +8,7 @@
 2489、_russian_Баба Яга_Шалюкова Олеся Сергеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c3be6ce7b542d559933084067c879cb

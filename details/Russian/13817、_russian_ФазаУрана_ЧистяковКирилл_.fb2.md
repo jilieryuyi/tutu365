@@ -8,7 +8,7 @@
 13817、_russian_Фаза Урана_Чистяков Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e28e6e258ae829c1477c0926615833b

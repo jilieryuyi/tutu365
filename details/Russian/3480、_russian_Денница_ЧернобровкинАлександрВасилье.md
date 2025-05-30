@@ -8,7 +8,7 @@
 3480、_russian_Денница_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3548d907f83749c66dc1ace067b0c434

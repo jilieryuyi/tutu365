@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 儿科疾病分册 (马融 etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6757866bbe5626e660e899b782e606f7

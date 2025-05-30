@@ -8,7 +8,7 @@
 2411、_russian_Колония Ланфиер_Грин Александр Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fa463a01d23f65afb7849da2159fea3

@@ -8,7 +8,7 @@
 12650、_russian_Платить за все_Хэсли Одри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c222f2a8a45c1f113e3b0c97f322cd8

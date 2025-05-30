@@ -8,7 +8,7 @@
 13995、_russian_Ремейк Нового года_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3da8ec8edbdbf394b55922c372c07a81

@@ -8,7 +8,7 @@
 11182、_russian_Рудин_Тургенев Иван Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4bb6589e8acd2b7dc16b9fbba088d5b

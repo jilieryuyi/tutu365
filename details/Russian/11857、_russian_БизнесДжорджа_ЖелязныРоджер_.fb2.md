@@ -8,7 +8,7 @@
 11857、_russian_Бизнес Джорджа_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 007e835a8107f677cb8bfa4ed747e355

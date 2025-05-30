@@ -8,7 +8,7 @@
 672、_russian_Черный порошок мастера Ху_Чан-Нют сёстры_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfb28796b9003b23915bfb1ffae2bd1f

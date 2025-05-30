@@ -8,7 +8,7 @@
 8950、_russian_Мавританская месть_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b73237816bd337ee8c281945b23e9d56

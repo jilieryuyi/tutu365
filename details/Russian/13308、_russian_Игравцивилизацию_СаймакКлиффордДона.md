@@ -8,7 +8,7 @@
 13308、_russian_Игра в цивилизацию_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 167717a9712fc33fc4ed8e44a012fac0

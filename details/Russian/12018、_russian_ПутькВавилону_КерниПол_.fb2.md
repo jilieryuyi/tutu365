@@ -8,7 +8,7 @@
 12018、_russian_Путь к Вавилону_Керни Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca94ec6deb78d9e5a4d20906dcf6a8e7

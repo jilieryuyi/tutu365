@@ -8,7 +8,7 @@
 12707、_russian_Федя и Данилка_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed6df3771dae3a8b0b581ec0bbe75b8d

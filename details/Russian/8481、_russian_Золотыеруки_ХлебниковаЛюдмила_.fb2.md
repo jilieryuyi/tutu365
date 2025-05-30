@@ -8,7 +8,7 @@
 8481、_russian_Золотые руки_Хлебникова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58bb28bcdba11cd3386ab1f0c7466b25

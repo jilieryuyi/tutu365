@@ -8,7 +8,7 @@
 13455、_russian_Альбинос_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 146429b7e0cbdda8540aec936e219140

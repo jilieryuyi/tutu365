@@ -8,7 +8,7 @@
 7158、_russian_Минное поле_Годенко Михаил Матвеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02673a0a33599adca3aeb9fdc395eeff

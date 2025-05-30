@@ -8,7 +8,7 @@
 2112、_russian_Тебе посвящается_Бременер Макс Соломонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90587084367a8a104436657c03bce3ee

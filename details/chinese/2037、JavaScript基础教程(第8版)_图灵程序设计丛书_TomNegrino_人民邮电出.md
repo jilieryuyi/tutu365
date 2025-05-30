@@ -8,7 +8,7 @@
 2037、JavaScript基础教程(第8版)_图灵程序设计丛书_Tom Negrino_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dcdb6978c68e8fceffac30e45411d442

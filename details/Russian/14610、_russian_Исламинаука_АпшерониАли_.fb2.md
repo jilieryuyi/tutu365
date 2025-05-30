@@ -8,7 +8,7 @@
 14610、_russian_Ислам и наука_Апшерони Али_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36daee9abad8294f264c9d82d63313b8

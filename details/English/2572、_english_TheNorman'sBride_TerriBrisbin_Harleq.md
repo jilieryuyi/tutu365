@@ -8,7 +8,7 @@
 2572、_english_The Norman's Bride_Terri Brisbin_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9d4c2cac8f120e31e25cc0b38d2682c2

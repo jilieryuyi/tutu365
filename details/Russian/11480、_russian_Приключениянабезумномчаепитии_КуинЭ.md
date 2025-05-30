@@ -8,7 +8,7 @@
 11480、_russian_Приключения на безумном чаепитии_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee9114a634e50f007dde50e3df93e1b0

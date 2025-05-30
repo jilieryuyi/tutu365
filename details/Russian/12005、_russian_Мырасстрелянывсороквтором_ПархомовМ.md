@@ -8,7 +8,7 @@
 12005、_russian_Мы расстреляны в сорок втором_Пархомов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c675359f6b51a8be314817b77fc5e01

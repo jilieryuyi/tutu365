@@ -8,7 +8,7 @@
 10836、_english_The Duke's Brother_Claudia Stone_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 409443b404339ef3102acfc6a9b8a734

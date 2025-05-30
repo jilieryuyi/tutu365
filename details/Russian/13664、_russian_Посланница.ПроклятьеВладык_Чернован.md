@@ -8,7 +8,7 @@
 13664、_russian_Посланница. Проклятье Владык_Чернованова Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e3efec49681d9a950eedc2878fdea6f

@@ -8,7 +8,7 @@
 14191、_russian_Все решает случай_Лэйтон Эдит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b700e6a9d7db75c14409769fc50d0b3

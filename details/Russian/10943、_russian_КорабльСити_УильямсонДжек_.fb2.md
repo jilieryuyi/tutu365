@@ -8,7 +8,7 @@
 10943、_russian_Корабль Сити_Уильямсон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad32c41d08215563ef2cf57ae055aa6e

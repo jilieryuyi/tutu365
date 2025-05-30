@@ -8,7 +8,7 @@
 3937、_russian_Восход Эндимиона_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90bfd7bcaac4deb7fc922af994c3b721

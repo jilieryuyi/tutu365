@@ -8,7 +8,7 @@
 5253、_russian_Предательство брата__Хардвик Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f1cffda72373d56629560d2a4700ac9

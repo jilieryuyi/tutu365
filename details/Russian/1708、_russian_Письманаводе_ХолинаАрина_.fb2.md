@@ -8,7 +8,7 @@
 1708、_russian_Письма на воде_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7bfd89c660de53cb56f9f13a6c649c0

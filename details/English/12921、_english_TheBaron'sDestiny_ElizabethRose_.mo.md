@@ -8,7 +8,7 @@
 12921、_english_The Baron's Destiny_Elizabeth Rose_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 749d0b94817a43379dd10905a08f655f

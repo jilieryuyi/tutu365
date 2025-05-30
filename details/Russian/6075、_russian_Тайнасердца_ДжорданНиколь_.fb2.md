@@ -8,7 +8,7 @@
 6075、_russian_Тайна сердца_Джордан Николь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85f404aca4b4e61ffa09f749e72ed4f0

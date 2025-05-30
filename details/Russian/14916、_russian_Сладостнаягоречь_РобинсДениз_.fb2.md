@@ -8,7 +8,7 @@
 14916、_russian_Сладостная горечь_Робинс Дениз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 878acbb2f5cd324f8227f577ff4826d1

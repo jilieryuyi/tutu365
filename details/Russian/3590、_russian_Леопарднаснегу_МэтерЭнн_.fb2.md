@@ -8,7 +8,7 @@
 3590、_russian_Леопард на снегу_Мэтер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 492e1baf75fc296c826f1541e9091c5c

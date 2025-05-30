@@ -8,7 +8,7 @@
 8755、_russian_Ателье царских прикидов_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acf3e5685ceb8e357281a9bc94fdeab0

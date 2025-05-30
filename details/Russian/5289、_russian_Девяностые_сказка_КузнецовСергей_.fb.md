@@ -8,7 +8,7 @@
 5289、_russian_Девяностые_ сказка_Кузнецов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 819f6939d6f092a6ebcd237594ec5d39

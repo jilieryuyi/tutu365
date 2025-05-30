@@ -8,7 +8,7 @@
 7546、_russian_Последний_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 243056fd5556bd1d125b34d0502264a6

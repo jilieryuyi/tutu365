@@ -8,7 +8,7 @@
 6079、_russian_Карл Ругер. Боец_Мах Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d0553b6859639ab3be6e47528ebe2c3

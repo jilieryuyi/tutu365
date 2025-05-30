@@ -8,7 +8,7 @@
 237、_russian_Чужие дети-3_Пидоренко Игорь Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f88ec86ee63b1b46bf5667182ef8be5

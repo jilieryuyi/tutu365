@@ -8,7 +8,7 @@
 9750、_russian_Неспешность_Кундера Милан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f68a74148f1fa5e5225cb88c50a91d6

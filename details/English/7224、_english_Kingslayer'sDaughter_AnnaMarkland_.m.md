@@ -8,7 +8,7 @@
 7224、_english_Kingslayer's Daughter_Anna Markland_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e8d2c03288028973666de0312fa59788

@@ -8,7 +8,7 @@
 4268、_russian_Поединок невидимок_Зверев Сергей Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e225337edfd819edfb96a0f4cedc3f9b

@@ -8,7 +8,7 @@
 6496、_russian_Меа_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6efb7842a8260eb15eb2eee9ec06e55b

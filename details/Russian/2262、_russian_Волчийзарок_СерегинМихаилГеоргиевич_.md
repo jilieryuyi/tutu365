@@ -8,7 +8,7 @@
 2262、_russian_Волчий зарок_Серегин Михаил Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9356ae88b0d6a3a130c0dbb63baa47c

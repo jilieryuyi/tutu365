@@ -8,7 +8,7 @@
 10656、_russian_Страна кинжалов_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16870661cad76f0511fb35324e27f74e

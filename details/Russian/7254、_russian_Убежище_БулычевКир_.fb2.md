@@ -8,7 +8,7 @@
 7254、_russian_Убежище_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d4d0336d3b13c4648f90a5279d4ef78

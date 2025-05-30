@@ -8,7 +8,7 @@
 13669、_russian_Альфа Большой Медведицы_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4737b8c9843b9cca30bd8d348c5c8cc

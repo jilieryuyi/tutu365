@@ -8,7 +8,7 @@
 768、_russian_Не надо грустить, прошу вас_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 800f39344a85ccc09aff0f6aa6a43ab0

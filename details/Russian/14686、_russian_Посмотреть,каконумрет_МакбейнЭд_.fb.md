@@ -8,7 +8,7 @@
 14686、_russian_Посмотреть, как он умрет_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e86be03b659d474d0d2843202c39c362

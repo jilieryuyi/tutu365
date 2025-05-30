@@ -8,7 +8,7 @@
 6659、_ukrainian_Роксолана_Загребельний Павло Архипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2add0b02f9d48b16929a8fba0799c3b7

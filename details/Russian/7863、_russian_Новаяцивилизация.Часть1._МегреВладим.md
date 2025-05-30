@@ -8,7 +8,7 @@
 7863、_russian_Новая цивилизация. Часть 1._Мегре Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1810dca5ea83d469486d67a665554dfc

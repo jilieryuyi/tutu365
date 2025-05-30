@@ -8,7 +8,7 @@
 469、_russian_Сага Смерти_ Мгла_Левицкий Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 107c8f3ded36f2463ceb21df7931e9ef

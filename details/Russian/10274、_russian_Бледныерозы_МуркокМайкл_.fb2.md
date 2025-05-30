@@ -8,7 +8,7 @@
 10274、_russian_Бледные розы_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f36d5fc92649ae8e7f8dae16af7ff4e

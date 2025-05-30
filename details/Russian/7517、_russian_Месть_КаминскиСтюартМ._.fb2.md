@@ -8,7 +8,7 @@
 7517、_russian_Месть_Камински Стюарт М._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04c108d4a7a0db44bd78f4bf37f6eaf7

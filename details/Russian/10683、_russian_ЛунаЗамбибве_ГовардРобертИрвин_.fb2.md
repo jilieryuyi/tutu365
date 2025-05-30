@@ -8,7 +8,7 @@
 10683、_russian_Луна Замбибве_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1312a605b47fa6aad4e4a74adcf0c150

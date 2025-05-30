@@ -8,7 +8,7 @@
 13775、_english_Lady Sophie's Christmas Wish_Grace Burrowes_Sourcebooks, Inc..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a97aa2b745b02a330747ae2f18c9aa50

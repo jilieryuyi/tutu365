@@ -8,7 +8,7 @@
 6054、_english_Devil's corner_Scottoline Lisa_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d6bc79d91c00b11d4fe200fa96c9626a

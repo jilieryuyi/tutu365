@@ -8,7 +8,7 @@
 12608、_russian_Убийство на скорую руку_Холлидэй Бретт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e124e75bb9e9b3533f7d7426c4474a61

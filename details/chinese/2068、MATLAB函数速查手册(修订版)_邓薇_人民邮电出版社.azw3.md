@@ -8,7 +8,7 @@
 2068、MATLAB函数速查手册(修订版)_邓薇_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 690afd42a1671c3d8f7faec0e8f7abe4

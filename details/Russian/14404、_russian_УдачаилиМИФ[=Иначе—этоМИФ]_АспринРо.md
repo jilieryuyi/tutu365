@@ -8,7 +8,7 @@
 14404、_russian_Удача или МИФ [= Иначе — это МИФ]_Асприн Роберт Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d84ac9ededeee895d19d2e90cc660cc2

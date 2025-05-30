@@ -8,7 +8,7 @@
 14305、_english_The Lord's Favourite Game_Henrietta Harding_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cac40e592f6947885844dc43888c03f8

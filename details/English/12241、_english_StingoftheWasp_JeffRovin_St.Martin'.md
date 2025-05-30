@@ -8,7 +8,7 @@
 12241、_english_Sting of the Wasp_Jeff Rovin _St. Martin's Press.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7e9e681c808329e46197891a5dbb5353

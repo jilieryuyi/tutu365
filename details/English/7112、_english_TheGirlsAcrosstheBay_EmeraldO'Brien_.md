@@ -8,7 +8,7 @@
 7112、_english_The Girls Across the Bay_Emerald O'Brien _Emerald O'Brien.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 61c2f94020fc86d3923c11d8597eea6c

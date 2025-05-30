@@ -8,7 +8,7 @@
 3315、_russian_Заколдованная страна_Пьецух Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdc45e6a2aaaddc2c6a3445b8b2b1f76

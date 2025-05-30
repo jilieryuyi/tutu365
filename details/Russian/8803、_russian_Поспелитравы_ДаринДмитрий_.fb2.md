@@ -8,7 +8,7 @@
 8803、_russian_Поспели травы_Дарин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb7c98b138315c6ffd68864ddad5bde8

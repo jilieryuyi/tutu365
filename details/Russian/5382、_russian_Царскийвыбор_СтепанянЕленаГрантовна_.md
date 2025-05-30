@@ -8,7 +8,7 @@
 5382、_russian_Царский выбор_Степанян Елена Грантовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 447279dba439c6cf8cb513f75299252e

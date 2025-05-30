@@ -8,7 +8,7 @@
 12190、_russian_Стеклянный цветок_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83a4c4ed6de8b97beaa501f2bb097570

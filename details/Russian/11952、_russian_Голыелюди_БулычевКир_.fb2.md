@@ -8,7 +8,7 @@
 11952、_russian_Голые люди_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40c96e4960e667f229ea1880050d1500

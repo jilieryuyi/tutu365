@@ -8,7 +8,7 @@
 园丁与木匠_(美) 艾莉森·高普尼克(Alison Gopnik) [(美) 艾莉森·高普尼克(Alison Gopnik)]__5287968_7735c2c9e1a8ca123df264f8833d3794.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7735c2c9e1a8ca123df264f8833d3794

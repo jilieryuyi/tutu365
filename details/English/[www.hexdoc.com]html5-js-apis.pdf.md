@@ -8,7 +8,7 @@
 [www.hexdoc.com]html5-js-apis.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c2469d2a09160d8467c4f23083a89f70

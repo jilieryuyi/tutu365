@@ -8,7 +8,7 @@
 9815、_russian_Зеленый Змий_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39fbb525e6d51c7f8a1efe9dabfb20ff

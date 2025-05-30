@@ -8,7 +8,7 @@
 4666、_russian_Лаз в потолке_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f65c7e6c4d3f9b4dfd4bb63b3c0ce585

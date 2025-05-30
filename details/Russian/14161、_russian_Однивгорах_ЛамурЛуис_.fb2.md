@@ -8,7 +8,7 @@
 14161、_russian_Одни в горах_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1129b2c713c8aa5beca7a0cad996c06a

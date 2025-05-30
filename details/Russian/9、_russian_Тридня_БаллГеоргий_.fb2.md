@@ -8,7 +8,7 @@
 9、_russian_Три дня_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 562396d7e80364d4debbb939c22d5e64

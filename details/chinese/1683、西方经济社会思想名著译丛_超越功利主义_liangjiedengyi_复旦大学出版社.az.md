@@ -8,7 +8,7 @@
 1683、西方经济社会思想名著译丛_超越功利主义_liang jie deng yi_复旦大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5756e4cad732167b7a1eab17ba6f0007

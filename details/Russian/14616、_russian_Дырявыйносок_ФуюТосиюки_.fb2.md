@@ -8,7 +8,7 @@
 14616、_russian_Дырявый носок_Фую Тосиюки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0312c3099d4247dbc249bf9463419f02

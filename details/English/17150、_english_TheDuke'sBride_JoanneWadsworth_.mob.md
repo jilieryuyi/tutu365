@@ -8,7 +8,7 @@
 17150、_english_The Duke's Bride_Joanne Wadsworth_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fba287cf1cf45618a3661a0127c16965

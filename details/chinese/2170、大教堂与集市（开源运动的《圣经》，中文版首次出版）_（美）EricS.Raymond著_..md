@@ -8,7 +8,7 @@
 2170、大教堂与集市（开源运动的《圣经》，中文版首次出版）_（美）Eric S. Raymond 著_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d18c089b170e4ac32ff51ec4cfa0a308

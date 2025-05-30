@@ -8,7 +8,7 @@
 12751、_russian_Додкин при деле_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37c1f14685e4166ef4b545caf7978889

@@ -8,7 +8,7 @@
 14318、_russian_Ликвидатор_Гладкий Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 959c6703f95a0727d10881867db99c66

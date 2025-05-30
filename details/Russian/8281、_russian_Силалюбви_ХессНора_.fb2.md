@@ -8,7 +8,7 @@
 8281、_russian_Сила любви_Хесс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f8faee138caaebf8e53576360b9a88d

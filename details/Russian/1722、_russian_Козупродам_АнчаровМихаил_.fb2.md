@@ -8,7 +8,7 @@
 1722、_russian_Козу продам_Анчаров Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38107abc68a5534a70668e31d4327b30

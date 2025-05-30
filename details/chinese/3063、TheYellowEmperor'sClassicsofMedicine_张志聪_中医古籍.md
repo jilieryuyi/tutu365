@@ -8,7 +8,7 @@
 3063、The Yellow Emperor's Classics of Medicine_张志聪_中医古籍出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 53e9e6610571c94339099945fa6f3ef5

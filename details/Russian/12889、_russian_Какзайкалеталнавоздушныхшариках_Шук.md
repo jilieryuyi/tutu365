@@ -8,7 +8,7 @@
 12889、_russian_Как зайка летал на воздушных шариках_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9149f3bc560cc6cf8cb4a5306cb55887

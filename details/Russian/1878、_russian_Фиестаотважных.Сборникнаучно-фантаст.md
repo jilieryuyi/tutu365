@@ -8,7 +8,7 @@
 1878、_russian_Фиеста отважных. Сборник научно-фантастических произведений_Рейнолдс Мак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 580aafdeaeff226b967529cca6c73fac

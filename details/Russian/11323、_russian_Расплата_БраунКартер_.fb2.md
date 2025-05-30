@@ -8,7 +8,7 @@
 11323、_russian_Расплата_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6a6a83e7dac6d2853c1794513752fac

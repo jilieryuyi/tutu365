@@ -8,7 +8,7 @@
 1613、_russian_Аттракцион любви_Лейкер Розалинда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9ed5e1c21e352aa70a3692f0726fb1a

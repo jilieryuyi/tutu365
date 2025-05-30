@@ -8,7 +8,7 @@
 4379、_russian_Сирусянка_Каганов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb1b689c968130a50b65851147ef6356

@@ -8,7 +8,7 @@
 2419、_russian_Запретные наслаждения_Смолл Бертрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7e091ec62f236f5751ce92404490edf

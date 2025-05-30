@@ -8,7 +8,7 @@
 3501、_other_Беларусы, вас чакае Зямля_Акула Кастусь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bd7b0d3d1619c7bca038a4ab5ce2a49

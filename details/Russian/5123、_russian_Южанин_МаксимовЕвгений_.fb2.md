@@ -8,7 +8,7 @@
 5123、_russian_Южанин_Максимов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3051e1a77e9b5c0bd2bcd66c2043e0c

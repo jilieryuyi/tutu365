@@ -8,7 +8,7 @@
 10560、_russian_Пасторальная симфония_Жид Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5c569bbbf4a61064476e5f153946c03

@@ -8,7 +8,7 @@
 16840、_english_Claiming the Highlander's Heart_Lily Maxton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0db677b42c668b0ad60fee5f7432a7ae

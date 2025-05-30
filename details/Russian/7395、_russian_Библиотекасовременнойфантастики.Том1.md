@@ -8,7 +8,7 @@
 7395、_russian_Библиотека современной фантастики. Том 12_Воннегут Курт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c99e8ed38aec7cde2bc4db47965c99b9

@@ -8,7 +8,7 @@
 哲学原来很有趣：16位大师的精华课_SoBooKs.cc 刘帅 [刘帅, SoBooKs.cc]__5545002_5f6edf05ef7b4be02fd8319ea04d9b30.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5f6edf05ef7b4be02fd8319ea04d9b30

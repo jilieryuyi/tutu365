@@ -8,7 +8,7 @@
 15140、_russian_Тайна Черного моря_Гречин Игорь, Чубаха Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90314e229ba91c3b52aa80c2562c023b

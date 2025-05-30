@@ -8,7 +8,7 @@
 12677、_russian_Точка опоры_Липатов Виль Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7058719f08edf4907a9a16ca5f9d4c83

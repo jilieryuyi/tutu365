@@ -8,7 +8,7 @@
 2693、_russian_Звездный Лес_Андерсон Кевин Джей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 539d00c1ad0d58d85ea48b54034b4d15

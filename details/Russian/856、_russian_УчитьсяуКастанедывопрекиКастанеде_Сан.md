@@ -8,7 +8,7 @@
 856、_russian_Учиться у Кастанеды вопреки Кастанеде_Санчес Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26fe747fc96e6ae605bc8e3a5de8300a

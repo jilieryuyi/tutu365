@@ -8,7 +8,7 @@
 7033、_russian_Переход_Калиновский Петр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 624dba1d7681a7775a72875559f24347

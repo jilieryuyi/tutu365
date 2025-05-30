@@ -8,7 +8,7 @@
 2117、_english_The Curious Case of Lady Latimer's Shoes_Stephanie Laurens_Savdek Management Pty Ltd.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 82ff4f83a97d8b9b0d45760cdcfa2a29

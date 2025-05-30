@@ -8,7 +8,7 @@
 12542、_russian_Поцелуй ангела_Стил Джудит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96c5c21dd5b1df356bebb093ef7a1e6c

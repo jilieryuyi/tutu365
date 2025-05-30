@@ -8,7 +8,7 @@
 12187、_russian_Бесполезное ископаемое_Ерофеев Венедикт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb0f687322032b9e2174efe1209cdd18

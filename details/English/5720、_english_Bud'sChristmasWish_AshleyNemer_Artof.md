@@ -8,7 +8,7 @@
 5720、_english_Bud's Christmas Wish_Ashley Nemer_Art of Safkhet.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 486cc0c3a5d6fa655cad1ed771500762

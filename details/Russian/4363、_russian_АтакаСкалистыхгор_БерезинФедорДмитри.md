@@ -8,7 +8,7 @@
 4363、_russian_Атака Скалистых гор_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef47338d2cb8c8d1d3f84c5c47fcbe67

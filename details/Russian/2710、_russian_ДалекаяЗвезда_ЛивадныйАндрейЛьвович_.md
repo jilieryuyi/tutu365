@@ -8,7 +8,7 @@
 2710、_russian_Далекая Звезда_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4195b05c95bb240266b580b67fbb1ae

@@ -8,7 +8,7 @@
 4639、_russian_Москва - Кассиопея_ЗАК АВЕНИР, КУЗНЕЦОВ ИСАЙ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f000c740684f969c7ab6c5b6cbb1867b

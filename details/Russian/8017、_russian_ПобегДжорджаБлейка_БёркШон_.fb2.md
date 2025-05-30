@@ -8,7 +8,7 @@
 8017、_russian_Побег Джорджа Блейка_Бёрк Шон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 099faa3ad39201ad392f975bfa9372b1

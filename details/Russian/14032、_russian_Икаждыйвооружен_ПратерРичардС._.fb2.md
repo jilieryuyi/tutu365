@@ -8,7 +8,7 @@
 14032、_russian_И каждый вооружен_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd629b9872bc2720ae69e190af1f40f4

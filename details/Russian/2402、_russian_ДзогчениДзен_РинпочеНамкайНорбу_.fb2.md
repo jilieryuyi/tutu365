@@ -8,7 +8,7 @@
 2402、_russian_Дзогчен и Дзен_Ринпоче Намкай Норбу_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d993cb293685c06d263fcdbf1538beb

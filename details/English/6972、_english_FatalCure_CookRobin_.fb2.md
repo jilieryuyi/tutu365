@@ -8,7 +8,7 @@
 6972、_english_Fatal Cure_Cook Robin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3a8133c8c78d9d05e1121c37fc047fa4

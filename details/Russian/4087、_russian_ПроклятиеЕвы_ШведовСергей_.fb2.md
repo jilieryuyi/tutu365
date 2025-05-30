@@ -8,7 +8,7 @@
 4087、_russian_Проклятие Евы_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd20b5e409779a0e3c3813f0669461ba

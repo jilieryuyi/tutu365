@@ -8,7 +8,7 @@
 软件评测师考试试题分类精解 (希赛IT教育研发中心编著).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4cd687f5a0002044b04abea78f243f3d

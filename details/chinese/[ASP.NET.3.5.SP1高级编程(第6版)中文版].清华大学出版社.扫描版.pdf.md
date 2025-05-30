@@ -8,7 +8,7 @@
 [ASP.NET.3.5.SP1高级编程(第6版)中文版].清华大学出版社.扫描版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ecaafafb736a797a619a5cdc57c53ac0

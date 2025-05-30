@@ -8,7 +8,7 @@
 11534、_russian_Неукротимая гордячка_Смит Бобби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a26f7eafa14d0273d81f417ce07552d2

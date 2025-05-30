@@ -8,7 +8,7 @@
 7065、_russian_Исполнитель_Касселс Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 921e91c7d214fc70caab8b1e1ae9227a

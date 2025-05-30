@@ -8,7 +8,7 @@
 89、_russian_Игра в кошки-мышки_Карр Джон Диксон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f46a17ee6585a4a1be5dcf7e11f12780

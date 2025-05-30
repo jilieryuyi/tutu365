@@ -8,7 +8,7 @@
 2641、_russian_Дикарь_Чарская Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2261c121e8c395fa446f393c44d59b1

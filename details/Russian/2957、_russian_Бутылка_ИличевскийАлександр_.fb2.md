@@ -8,7 +8,7 @@
 2957、_russian_Бутылка_Иличевский Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39c4a50081f22911d5e0f972e4edc1eb

@@ -8,7 +8,7 @@
 12934、_russian_Невероятный дубликат_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 879516ceb4a729d81f899557c0c48139

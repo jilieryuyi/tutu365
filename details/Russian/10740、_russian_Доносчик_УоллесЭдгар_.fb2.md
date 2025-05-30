@@ -8,7 +8,7 @@
 10740、_russian_Доносчик_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 191cd3cef4e2342332ea9b665ecd1c23

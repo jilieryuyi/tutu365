@@ -8,7 +8,7 @@
 1468、黏住顾客：foursquare如何打造忠实客户群_卡迈恩·加洛_中信出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 310bb77af37b6eeb0b6a87793e644098

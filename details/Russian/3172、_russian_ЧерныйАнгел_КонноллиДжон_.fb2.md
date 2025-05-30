@@ -8,7 +8,7 @@
 3172、_russian_Черный Ангел_Коннолли Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03ed3ec71292e86e1adf7107d3d8c67d

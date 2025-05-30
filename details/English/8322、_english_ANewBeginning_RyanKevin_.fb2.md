@@ -8,7 +8,7 @@
 8322、_english_A New Beginning_Ryan Kevin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ee4b201a415a2a50c8cff2e0d928cc78

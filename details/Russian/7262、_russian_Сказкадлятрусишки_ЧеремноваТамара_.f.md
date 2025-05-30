@@ -8,7 +8,7 @@
 7262、_russian_Сказка для трусишки_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4094cd1c9462523ef4f5d7067c00fd38

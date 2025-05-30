@@ -8,7 +8,7 @@
 16121、_english_The Raider's Daughter_Kimberly Cates_Gnarly Wool Publishing.azw3.azw3
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8559afce2a6a03801cd65a113b44dad8

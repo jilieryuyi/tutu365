@@ -8,7 +8,7 @@
 13918、_russian_Божественная комедия_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80a99d7f968f7ea309f2fecc86e43748

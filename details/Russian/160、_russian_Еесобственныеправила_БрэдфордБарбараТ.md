@@ -8,7 +8,7 @@
 160、_russian_Ее собственные правила_Брэдфорд Барбара Тейлор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8c123cbe5735a28d9c33145ced50a46

@@ -8,7 +8,7 @@
 10935、_russian_О Божественном_Баранова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c18c91ad2d7e63b4b758c19a44f3d93

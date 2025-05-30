@@ -8,7 +8,7 @@
 8262、_russian_Мемуары_Вторая Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 139511c44aeb3504e772b9a2db71bf9a

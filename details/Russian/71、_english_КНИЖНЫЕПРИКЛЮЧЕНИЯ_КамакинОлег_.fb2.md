@@ -8,7 +8,7 @@
 71、_english_КНИЖНЫЕ ПРИКЛЮЧЕНИЯ_Камакин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db444e44a099663f513684fcd70eded9

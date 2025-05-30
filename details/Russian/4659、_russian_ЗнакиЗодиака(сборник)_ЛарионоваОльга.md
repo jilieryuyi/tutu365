@@ -8,7 +8,7 @@
 4659、_russian_Знаки Зодиака (сборник)_Ларионова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2bbc928a0e6bf69e8033af0b99c8368

@@ -8,7 +8,7 @@
 14328、_english_Highlander's Return_Hildie McQueen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d41d7bc3bdf4fc004d90fe9659d7cf39

@@ -8,7 +8,7 @@
 11511、_russian_Тайна человека со шрамом_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04377dbaf26f00ec508ef333a49968f8

@@ -8,7 +8,7 @@
 2611、_english_EVEN VAMPIRES GET THE BLUES_Макалистер Кейти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bf6949f0d6978d4652f062466b46576

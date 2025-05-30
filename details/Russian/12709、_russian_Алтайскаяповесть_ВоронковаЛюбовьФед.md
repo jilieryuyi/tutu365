@@ -8,7 +8,7 @@
 12709、_russian_Алтайская повесть_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c1c7efcd0dc1bb3b9b710f3102faa71

@@ -8,7 +8,7 @@
 电磁兼容导论（第二版）_Clayton R. Paul (闻映红 译)_人民邮电出版社_2513403_1fc0d759f87896cb2bc60605ce4e307c.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1fc0d759f87896cb2bc60605ce4e307c

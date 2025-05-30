@@ -8,7 +8,7 @@
 5804、_russian_Сердце изгнанника_Таннер Сюзан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e85d37264af7037857d564f3868ec680

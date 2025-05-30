@@ -8,7 +8,7 @@
 1950、_russian_В Конькове мерзкая погода_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7f20a2e8dc56647d4be90b89ea09408

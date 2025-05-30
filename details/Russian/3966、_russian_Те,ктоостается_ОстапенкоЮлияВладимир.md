@@ -8,7 +8,7 @@
 3966、_russian_Те, кто остается_Остапенко Юлия Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8de81521cd7b4731fc5e2b82d9e45fd

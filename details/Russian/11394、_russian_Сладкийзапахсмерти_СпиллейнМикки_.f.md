@@ -8,7 +8,7 @@
 11394、_russian_Сладкий запах смерти_Спиллейн Микки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a94d1ef07888e7d8e23317ee7c80d65

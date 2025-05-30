@@ -8,7 +8,7 @@
 15311、_russian_Роковая музыка (Музыка души)_Пратчетт Терри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04b30c343ffecd5dd4a15dbeb7795acc

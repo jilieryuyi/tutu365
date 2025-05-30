@@ -8,7 +8,7 @@
 2297、硝烟中的Scrum和XP——我们如何实施Scrum_Henrik Kniberg & 李剑_清华大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 16b657c661f0d5aa216342dd16d00036

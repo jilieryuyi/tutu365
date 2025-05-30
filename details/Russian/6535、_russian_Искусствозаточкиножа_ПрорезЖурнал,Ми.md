@@ -8,7 +8,7 @@
 6535、_russian_Искусство заточки ножа_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ab92db65b63f6ddc5047002ebb31de2

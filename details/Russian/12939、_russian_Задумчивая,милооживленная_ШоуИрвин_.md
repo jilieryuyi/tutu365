@@ -8,7 +8,7 @@
 12939、_russian_Задумчивая, мило оживленная_Шоу Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3137dbe50848675a338ede7a9e8c8b7b

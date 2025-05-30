@@ -8,7 +8,7 @@
 2448、_russian_Шаманы и Боги_Лар Леонид Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 847845d2b82816cc01ad8cf355a9ac5d

@@ -8,7 +8,7 @@
 794、_russian_Agnus Dei_Житинский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5e1b2f7c61da9875a9544643d5cebf9

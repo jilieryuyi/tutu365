@@ -8,7 +8,7 @@
 821、_russian_Непристойный негатив_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fa72c6c90889beb5da8e05a69808daa

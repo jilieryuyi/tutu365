@@ -8,7 +8,7 @@
 1302、影响力系列丛书（5册）_（英）Amanda Vickers & Steve Bavister & Jackie Smith & 吴维库 & 杨壮 & 吴维库 & （美）　约瑟夫·格雷尼 & 科里·帕特森 & 大卫·麦克斯菲尔德 & 罗恩·麦克米兰 & 艾尔·史威茨勒_北京华章图文信息有限公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e3bd55eb8309c252a997e1fc4974c722

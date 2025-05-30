@@ -8,7 +8,7 @@
 黑錢：跨國企業主宰與顛覆全球經濟的手段_David Montero__5341826_8fd66256468b0e681ca11b097b2ea707.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8fd66256468b0e681ca11b097b2ea707

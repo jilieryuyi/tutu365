@@ -8,7 +8,7 @@
 1182、_russian_Дело о ртутной бомбе_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad80cdff2e41f2df37ca73c234bfa470

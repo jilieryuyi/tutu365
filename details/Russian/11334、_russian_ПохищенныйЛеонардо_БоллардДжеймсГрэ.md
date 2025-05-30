@@ -8,7 +8,7 @@
 11334、_russian_Похищенный Леонардо_Боллард Джеймс Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 695efc2a5de877b7ce53779f2eba0dd7

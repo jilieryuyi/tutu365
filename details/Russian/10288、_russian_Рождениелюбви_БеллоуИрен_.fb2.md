@@ -8,7 +8,7 @@
 10288、_russian_Рождение любви_Беллоу Ирен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ba311869afdcf0c502faac766ecf074

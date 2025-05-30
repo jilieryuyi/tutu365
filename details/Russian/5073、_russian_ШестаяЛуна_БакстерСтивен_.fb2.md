@@ -8,7 +8,7 @@
 5073、_russian_Шестая Луна_Бакстер Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd7f0c4890ffac4ff687bf3c59172aac

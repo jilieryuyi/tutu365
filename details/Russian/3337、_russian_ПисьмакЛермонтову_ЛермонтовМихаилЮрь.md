@@ -8,7 +8,7 @@
 3337、_russian_Письма к Лермонтову_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f678cf5e4b3bde6c7407da8ef285951

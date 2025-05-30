@@ -8,7 +8,7 @@
 7619、_english_Hour Game_Baldacci David_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f3bdc6a91ba8dce641006c3bf4a9ede0

@@ -8,7 +8,7 @@
 17059、_english_The Devil's Bride_Lucy Gordon [Gordon, Lucy]_Endeavour Press.azw3.azw3
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ea4358e209419cd240bc5511d9a7dd4d

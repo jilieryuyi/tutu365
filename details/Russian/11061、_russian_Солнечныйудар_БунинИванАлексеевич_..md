@@ -8,7 +8,7 @@
 11061、_russian_Солнечный удар_Бунин Иван Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e1b5c8a57fe505d0e29b901dff8762a

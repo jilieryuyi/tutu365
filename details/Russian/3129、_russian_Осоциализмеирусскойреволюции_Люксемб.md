@@ -8,7 +8,7 @@
 3129、_russian_О социализме и русской революции_Люксембург Роза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1da0ade60196772c36ba4864cb63f688

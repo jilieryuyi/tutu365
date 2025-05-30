@@ -8,7 +8,7 @@
 11881、_russian_Детство в Соломбале_Коковин Евгений Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f17a84b34fbab654cf642116303abc09

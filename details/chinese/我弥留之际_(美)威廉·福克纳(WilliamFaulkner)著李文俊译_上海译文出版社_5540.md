@@ -8,7 +8,7 @@
 我弥留之际_(美)威廉·福克纳(William Faulkner)著 李文俊译_上海译文出版社_5540076_7307750a33d703eee2b8716252ffa32a.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7307750a33d703eee2b8716252ffa32a

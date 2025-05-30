@@ -8,7 +8,7 @@
 11229、_russian_Стеклянный страж_Емец Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75296bf8445cef5dbcd0f87b57a2452b

@@ -8,7 +8,7 @@
 389、_russian_Христианство и спорынья_Абсентис Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3bd40318f87c7b16f9de672e7cc06ef5

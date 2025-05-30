@@ -8,7 +8,7 @@
 10761、_russian_Девяносто третий год_Гюго Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecd4030ee47a301a890c5da2ee10bdd0

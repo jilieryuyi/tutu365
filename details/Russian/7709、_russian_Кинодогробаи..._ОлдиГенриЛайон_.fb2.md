@@ -8,7 +8,7 @@
 7709、_russian_Кино до гроба и..._Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c0244e949a3363cfe770175c6cfa950

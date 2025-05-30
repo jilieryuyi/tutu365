@@ -8,7 +8,7 @@
 13414、_russian_Игра теней_Сатклифф Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4af252cc0bebd106566c0f477b1611ca

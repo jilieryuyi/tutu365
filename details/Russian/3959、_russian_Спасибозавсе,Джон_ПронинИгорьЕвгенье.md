@@ -8,7 +8,7 @@
 3959、_russian_Спасибо за все, Джон_Пронин Игорь Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 390bc452c20f4cbed43291071d8f9532

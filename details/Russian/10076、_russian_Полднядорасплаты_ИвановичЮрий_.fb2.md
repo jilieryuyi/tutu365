@@ -8,7 +8,7 @@
 10076、_russian_Полдня до расплаты_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1616fc80d2ba78666134ba8797441a5e

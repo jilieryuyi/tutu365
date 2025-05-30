@@ -8,7 +8,7 @@
 6227、_russian_Тайна сиамских близнецов_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c237bdc4b20d99e5771183ff0a23dab

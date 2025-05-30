@@ -8,7 +8,7 @@
 10798、_russian_Медовый месяц в пустыне_Уил Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e071de945443d25332f809109c0b34d

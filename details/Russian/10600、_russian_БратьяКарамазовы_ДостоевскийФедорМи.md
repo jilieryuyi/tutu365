@@ -8,7 +8,7 @@
 10600、_russian_Братья Карамазовы_Достоевский Федор Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 906bd19b9dc207eee5ceb20233761704

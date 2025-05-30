@@ -8,7 +8,7 @@
 507、爱上双人舞_李中莹_epub掌上书苑.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f421ead5ccfcf96475b58aa67c6c8eac

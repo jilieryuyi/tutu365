@@ -8,7 +8,7 @@
 4610、_russian_Избранная_Смит Лиза Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f12d6773e70d651f7e03fca8a535b41e

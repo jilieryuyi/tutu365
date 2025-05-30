@@ -8,7 +8,7 @@
 7776、_russian_Единственная наследница_Модиньяни Ева_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41b5f27ab6efb3ab728b0a666ac1fb16

@@ -8,7 +8,7 @@
 1385、投资最重要的事（中信商业经典） (中信金融投资经典系列)_Howard Marks_CTCCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a3961d0b5073903d643bcc2be6eb740

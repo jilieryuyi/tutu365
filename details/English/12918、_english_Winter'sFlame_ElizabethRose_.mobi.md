@@ -8,7 +8,7 @@
 12918、_english_Winter's Flame_Elizabeth Rose_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 695c0fe788d28ba23e125ef7722e80b1

@@ -8,7 +8,7 @@
 320、_russian_Стихотворения из зборников_Тушнова Вероника_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b30d4f55d5b7f3d1550826a7dea74d2d

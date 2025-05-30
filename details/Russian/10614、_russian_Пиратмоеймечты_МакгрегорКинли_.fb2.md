@@ -8,7 +8,7 @@
 10614、_russian_Пират моей мечты_Макгрегор Кинли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ed733888e91f465e2f439d487f267cb

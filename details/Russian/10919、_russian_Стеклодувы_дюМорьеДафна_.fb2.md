@@ -8,7 +8,7 @@
 10919、_russian_Стеклодувы_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a01e3007d82ea52151cb5c759fe3c6e

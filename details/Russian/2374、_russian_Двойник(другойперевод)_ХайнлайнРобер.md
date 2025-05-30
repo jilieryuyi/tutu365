@@ -8,7 +8,7 @@
 2374、_russian_Двойник (другой перевод)_Хайнлайн Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 281654f6ba81a4e6f90de2a126eea268

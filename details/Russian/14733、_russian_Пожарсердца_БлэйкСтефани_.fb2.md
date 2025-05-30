@@ -8,7 +8,7 @@
 14733、_russian_Пожар сердца_Блэйк Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d92ed8c7553b9b1b4431f2f8c496d847

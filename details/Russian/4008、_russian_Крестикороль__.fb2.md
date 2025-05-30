@@ -8,7 +8,7 @@
 4008、_russian_Крест и король__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca5fec83fd59dda4ddcda58f12f4be2a

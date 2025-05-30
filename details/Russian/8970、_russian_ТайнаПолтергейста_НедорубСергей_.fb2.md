@@ -8,7 +8,7 @@
 8970、_russian_Тайна Полтергейста_Недоруб Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62418e39638ed077a9a5c7a0059f8713

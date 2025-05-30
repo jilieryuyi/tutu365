@@ -8,7 +8,7 @@
 3174、情绪急救_应对各种日常心理伤害的策略与方法_盖伊·温奇博士 (Guy Winch Ph.D)_上海社会科学院出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 16870661cad76f0511fb35324e27f74e

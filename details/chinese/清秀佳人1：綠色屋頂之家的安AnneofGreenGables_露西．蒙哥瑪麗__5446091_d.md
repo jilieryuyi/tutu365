@@ -8,7 +8,7 @@
 清秀佳人1：綠色屋頂之家的安 Anne of Green Gables_露西．蒙哥瑪麗__5446091_d19c2340efa16d41a2f2fd8ac7e7bdcf.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d19c2340efa16d41a2f2fd8ac7e7bdcf

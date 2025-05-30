@@ -8,7 +8,7 @@
 12690、_russian_Дом англичанина_Во Ивлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ce04f3cbbb2e61e45e3ac72a9a3e3ca

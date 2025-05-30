@@ -8,7 +8,7 @@
 1938、_russian_Пробужденное пророчество_Вегашин Влад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26102196bfc747022834046581baffaa

@@ -8,7 +8,7 @@
 6568、_english_Executive Power_Flynn Vince_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9ec338f3c13a719b4bd2e99f8ad59707

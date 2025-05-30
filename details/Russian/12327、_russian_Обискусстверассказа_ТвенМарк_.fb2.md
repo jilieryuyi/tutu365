@@ -8,7 +8,7 @@
 12327、_russian_Об искусстве рассказа_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8be91833704c294a053d505d76cacf11

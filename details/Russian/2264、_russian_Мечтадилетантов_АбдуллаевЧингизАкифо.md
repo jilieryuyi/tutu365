@@ -8,7 +8,7 @@
 2264、_russian_Мечта дилетантов_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d30782b5d83f1ec04984389d0de3ae8b

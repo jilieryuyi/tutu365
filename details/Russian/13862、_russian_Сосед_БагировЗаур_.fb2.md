@@ -8,7 +8,7 @@
 13862、_russian_Сосед_Багиров Заур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb76c54cd41f68961cdc2d9f78ffc5d1

@@ -8,7 +8,7 @@
 4337、_russian_Проект _Эволюция - 2__Смирнов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04ceb2648a15b0bdf9f0291075d153a5

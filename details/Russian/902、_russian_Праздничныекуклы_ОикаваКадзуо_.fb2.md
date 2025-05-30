@@ -8,7 +8,7 @@
 902、_russian_Праздничные куклы_Оикава Кадзуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 162eaa4417d93d89059210db34b4525d

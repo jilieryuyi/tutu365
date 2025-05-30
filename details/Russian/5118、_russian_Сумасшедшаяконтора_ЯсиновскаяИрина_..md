@@ -8,7 +8,7 @@
 5118、_russian_Сумасшедшая контора_Ясиновская Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ff6b6ee7113cfe4f4d8f7278a4948fd

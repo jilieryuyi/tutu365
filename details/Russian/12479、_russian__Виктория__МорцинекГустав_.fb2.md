@@ -8,7 +8,7 @@
 12479、_russian__Виктория__Морцинек Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bee745a40e6551f529fe5a33b973f55

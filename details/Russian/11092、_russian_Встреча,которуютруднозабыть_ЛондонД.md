@@ -8,7 +8,7 @@
 11092、_russian_Встреча, которую трудно забыть_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cec61f2966c4d22fc8ca560a8678936d

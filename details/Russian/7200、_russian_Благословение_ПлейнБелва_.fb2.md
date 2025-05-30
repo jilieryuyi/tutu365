@@ -8,7 +8,7 @@
 7200、_russian_Благословение_Плейн Белва_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46c645ab084e9ad437d1d5b7ee46beb8

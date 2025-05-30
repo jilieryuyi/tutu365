@@ -8,7 +8,7 @@
 11687、_russian_Земля осенняя_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43e18b472da038202161775d5d2217b4

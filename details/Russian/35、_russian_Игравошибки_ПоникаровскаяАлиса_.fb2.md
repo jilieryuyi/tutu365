@@ -8,7 +8,7 @@
 35、_russian_Игра в ошибки_Поникаровская Алиса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f6f31ebd3150cc9d5a563c528911e6a

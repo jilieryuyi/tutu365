@@ -8,7 +8,7 @@
 7019、_russian_Все об обычном молоке_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c76b2a9122cb6f46a03c0075cf840fab

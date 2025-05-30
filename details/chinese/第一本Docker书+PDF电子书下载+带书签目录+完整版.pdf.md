@@ -8,7 +8,7 @@
 第一本Docker书+PDF电子书下载+带书签目录+完整版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2ab0c80b23dd8282c16ef7bc81fe34c6

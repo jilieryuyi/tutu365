@@ -8,7 +8,7 @@
 13242、_russian_Заклание волков_Ренделл Рут_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50751a3bfb7fabdde23f5cb5033ca34a

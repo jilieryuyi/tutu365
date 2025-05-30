@@ -8,7 +8,7 @@
 10480、_english_The Crusader's Handfast_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 07f10d7b741b142474496a889d6fbbfe

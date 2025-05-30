@@ -8,7 +8,7 @@
 11686、_russian_Золотые жуки_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 639b0e8eb016fc2b39559875061ff089

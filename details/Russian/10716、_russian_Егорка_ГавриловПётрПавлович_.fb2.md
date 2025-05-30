@@ -8,7 +8,7 @@
 10716、_russian_Егорка_Гаврилов Пётр Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e66e0ea280e4562e8b3e1d85583f3264

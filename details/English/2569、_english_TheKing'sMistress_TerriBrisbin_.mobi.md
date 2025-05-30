@@ -8,7 +8,7 @@
 2569、_english_The King's Mistress_Terri Brisbin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2204cf4188ea0d6c60749c5efe563248

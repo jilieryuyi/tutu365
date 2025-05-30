@@ -8,7 +8,7 @@
 4733、_russian_Кальвин_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd017fa60c3f6e76e7394e4265623681

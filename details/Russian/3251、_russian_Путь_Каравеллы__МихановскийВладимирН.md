@@ -8,7 +8,7 @@
 3251、_russian_Путь _Каравеллы__Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45fab37da4788cde0ab7663a1c776b2e

@@ -8,7 +8,7 @@
 11583、_russian_Магическое Дао_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d66ca762a9e1d151db1e585b3e2777ac

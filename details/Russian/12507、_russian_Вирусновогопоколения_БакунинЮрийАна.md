@@ -8,7 +8,7 @@
 12507、_russian_Вирус нового поколения_Бакунин Юрий Анатольевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9d30467ea15f18bbd5fe221baafe197

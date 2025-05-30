@@ -8,7 +8,7 @@
 1616、_russian_Двойная петля_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1234393cefa78cb21431e2283756503

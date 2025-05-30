@@ -8,7 +8,7 @@
 4519、_russian_Объятия судьбы_Флурной Шерил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0173ac780689ea7e377a9df56034a53c

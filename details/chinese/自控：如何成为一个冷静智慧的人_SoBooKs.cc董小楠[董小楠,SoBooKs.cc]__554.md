@@ -8,7 +8,7 @@
 自控：如何成为一个冷静智慧的人_SoBooKs.cc 董小楠 [董小楠, SoBooKs.cc]__5545003_28f52f5a942d1a961f43d7649b61cbb4.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 28f52f5a942d1a961f43d7649b61cbb4

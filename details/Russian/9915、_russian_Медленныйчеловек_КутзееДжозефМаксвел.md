@@ -8,7 +8,7 @@
 9915、_russian_Медленный человек_Кутзее Джозеф Максвелл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3518126e75ec7341b05cd912acf0a2a7

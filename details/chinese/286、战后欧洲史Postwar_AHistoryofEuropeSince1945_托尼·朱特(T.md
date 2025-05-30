@@ -8,7 +8,7 @@
 286、战后欧洲史 Postwar_A History of Europe Since 1945_托尼·朱特 (Tony Judt)_三辉图书_中信出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 28b83eec183723474970ee74e8de1677

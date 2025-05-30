@@ -8,7 +8,7 @@
 15696、_english_Rowan's Revenge_June Francis_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2e93822cdd8508429a2a45bb38fa7700

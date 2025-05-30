@@ -8,7 +8,7 @@
 4097、_russian_Ученик воина_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2591b45d1953a1ff0abc8fa64e5c8fb

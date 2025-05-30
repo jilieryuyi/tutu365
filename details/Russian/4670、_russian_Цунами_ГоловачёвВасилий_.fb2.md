@@ -8,7 +8,7 @@
 4670、_russian_Цунами_Головачёв Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78491408f156af06c409638fb1271fb7

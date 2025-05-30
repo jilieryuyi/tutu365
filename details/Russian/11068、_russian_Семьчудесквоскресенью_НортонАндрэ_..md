@@ -8,7 +8,7 @@
 11068、_russian_Семь чудес к воскресенью_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed85cdbdb1023d7d255845f12a741752

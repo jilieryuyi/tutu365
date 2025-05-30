@@ -8,7 +8,7 @@
 12638、_russian_Кукла_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1082b6425a61b39052d25f7d776e2569

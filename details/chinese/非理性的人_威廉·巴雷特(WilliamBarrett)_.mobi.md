@@ -8,7 +8,7 @@
 非理性的人_威廉·巴雷特 (William Barrett)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 04c5be1d0a1339b8283f27e6f6f90468

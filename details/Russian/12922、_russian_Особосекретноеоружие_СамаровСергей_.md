@@ -8,7 +8,7 @@
 12922、_russian_Особо секретное оружие_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6200c59a38524f1f0ff70e69d9caee70

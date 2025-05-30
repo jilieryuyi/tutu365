@@ -8,7 +8,7 @@
 12269、_russian_Дразнящий аромат_Жеро Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e74586d5805da79ea03e0f8efb6a727b

@@ -8,7 +8,7 @@
 10635、_russian_Ожившее предание_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8324683adf2c611f93b617ebbb1659fa

@@ -8,7 +8,7 @@
 10830、_russian_Тайна черного янтаря_Уитни Филлис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6908a95bd7df866f02fa644f6091eb8

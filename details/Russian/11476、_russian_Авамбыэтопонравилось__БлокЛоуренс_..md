@@ -8,7 +8,7 @@
 11476、_russian_А вам бы это понравилось__Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08e7ccce7f603508cac210be4cf7f8b6

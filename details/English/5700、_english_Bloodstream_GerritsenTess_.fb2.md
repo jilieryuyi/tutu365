@@ -8,7 +8,7 @@
 5700、_english_Bloodstream_Gerritsen Tess_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 94d8f1d45e8aee7c6115bfe1fe382f3a

@@ -8,7 +8,7 @@
 13357、_russian_Последний волк_Эрлих Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8ec87b26d67dc9166cac7dd23f82498

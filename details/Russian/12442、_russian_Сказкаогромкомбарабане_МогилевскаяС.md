@@ -8,7 +8,7 @@
 12442、_russian_Сказка о громком барабане_Могилевская Софья Абрамовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bbfbdf5049cb9617a3ab2f4811e5f2b

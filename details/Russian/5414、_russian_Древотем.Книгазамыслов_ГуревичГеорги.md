@@ -8,7 +8,7 @@
 5414、_russian_Древо тем. Книга замыслов_Гуревич Георгий Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8c930feb6eb3686ec49d14d3eb422c9

@@ -8,7 +8,7 @@
 14905、_russian_Квота, или _Сторонники изобилия__Веркор, Коронель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b4af53eae84888de02e4a45a06d929d

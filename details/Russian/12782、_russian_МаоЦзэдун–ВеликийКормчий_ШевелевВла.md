@@ -8,7 +8,7 @@
 12782、_russian_Мао Цзэдун – Великий Кормчий_Шевелев Владимир Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1788762325ca68e6dd3b2eefc34f657

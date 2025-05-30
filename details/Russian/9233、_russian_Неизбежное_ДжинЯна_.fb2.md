@@ -8,7 +8,7 @@
 9233、_russian_Неизбежное_Джин Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0273f8dcf3f888b9468a053405a2f2c

@@ -8,7 +8,7 @@
 2051、_russian_Наследство чародея_Суслин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e295f15ee22521d801c5270627bdd3e2

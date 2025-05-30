@@ -8,7 +8,7 @@
 4023、_russian_Контакт первой степени тяжести_Горюнов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c70b6e76f0ec27f68e4d6d46a722852

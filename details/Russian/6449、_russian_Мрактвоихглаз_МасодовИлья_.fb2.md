@@ -8,7 +8,7 @@
 6449、_russian_Мрак твоих глаз_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 846b1da10a7bd5752c788bdd36904a36

@@ -8,7 +8,7 @@
 6272、_russian_Записки без названия_Рахлин Феликс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0e5b64d0ce4c218fcc04d976de0655c

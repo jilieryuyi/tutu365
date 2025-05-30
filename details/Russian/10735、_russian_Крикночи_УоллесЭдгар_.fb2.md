@@ -8,7 +8,7 @@
 10735、_russian_Крик ночи_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89a311089704b6ca8e66a3468d7deef1

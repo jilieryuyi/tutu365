@@ -8,7 +8,7 @@
 7820、_russian_Во власти любви_Ли Линда Фрэнсис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c872e74bf648f3b24b175241f2c409e5

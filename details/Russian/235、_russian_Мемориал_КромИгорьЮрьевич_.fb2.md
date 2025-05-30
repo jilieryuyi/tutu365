@@ -8,7 +8,7 @@
 235、_russian_Мемориал_Кром Игорь Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b019438d3b6c2cf930b088b27e9a48b2

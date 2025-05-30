@@ -8,7 +8,7 @@
 5126、_russian_Трикстер_Букур Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 563e230156f546adc9ae5fad83dfc686

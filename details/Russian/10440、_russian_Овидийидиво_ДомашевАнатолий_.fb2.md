@@ -8,7 +8,7 @@
 10440、_russian_Овидий и диво_Домашев Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f59cfd31e46e50624e189edcdb40be1

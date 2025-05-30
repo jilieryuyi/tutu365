@@ -8,7 +8,7 @@
 10438、_english_Allura's Secret_Christine Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0fba6e06ef813bfc903881d001744211

@@ -8,7 +8,7 @@
 9977、_russian_Освобождение Чернигова_Журавлев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 358721983a74ea19a5bfdca3ef0adccf

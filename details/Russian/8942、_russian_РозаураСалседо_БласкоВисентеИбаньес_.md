@@ -8,7 +8,7 @@
 8942、_russian_Розаура Салседо_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44bc0102e18e4e27f7169bb4100567b5

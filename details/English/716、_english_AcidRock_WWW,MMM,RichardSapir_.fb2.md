@@ -8,7 +8,7 @@
 716、_english_Acid Rock_W W W, M M M, Richard Sapir_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 805bcefd232532ef6c07a9ed06a1703e

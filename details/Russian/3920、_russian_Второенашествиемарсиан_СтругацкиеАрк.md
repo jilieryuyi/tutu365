@@ -8,7 +8,7 @@
 3920、_russian_Второе нашествие марсиан_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddb81d8d27cb2f0c6c8aa5d326fbc896

@@ -8,7 +8,7 @@
 12314、_russian_Венера Капитолийская_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 926d0f8210c7b38b4b57e72eb6b5c33c

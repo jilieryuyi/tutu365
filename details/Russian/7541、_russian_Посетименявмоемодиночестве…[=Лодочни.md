@@ -8,7 +8,7 @@
 7541、_russian_Посети меня в моем одиночестве… [=Лодочник]_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01ade58d38c5be97e988acfdd8defb27

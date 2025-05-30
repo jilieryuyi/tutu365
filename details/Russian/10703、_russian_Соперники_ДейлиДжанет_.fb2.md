@@ -8,7 +8,7 @@
 10703、_russian_Соперники_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a27ecb4632b922243a5c0f0038a6588e

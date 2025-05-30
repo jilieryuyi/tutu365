@@ -8,7 +8,7 @@
 3675、_russian_Драконы во гневе_Стэкпол Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6058fcf2d7c74c626fa1f85635f56917

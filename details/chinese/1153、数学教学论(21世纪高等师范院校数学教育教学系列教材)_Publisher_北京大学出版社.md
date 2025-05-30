@@ -8,7 +8,7 @@
 1153、数学教学论 (21世纪高等师范院校数学教育教学系列教材)_Publisher           _ 北京大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 749853359bb3826cfc8314ec3d1130cd

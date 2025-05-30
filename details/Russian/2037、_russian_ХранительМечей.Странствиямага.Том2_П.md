@@ -8,7 +8,7 @@
 2037、_russian_Хранитель Мечей. Странствия мага. Том 2_Перумов Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a89b04166ae6628ca06302b3de7754d6

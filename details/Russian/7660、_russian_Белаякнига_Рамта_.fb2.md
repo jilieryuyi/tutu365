@@ -8,7 +8,7 @@
 7660、_russian_Белая книга_Рамта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 365003ddeda72c4c0373e833c7417558

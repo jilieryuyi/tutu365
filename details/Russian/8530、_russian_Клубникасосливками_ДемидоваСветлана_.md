@@ -8,7 +8,7 @@
 8530、_russian_Клубника со сливками_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93dee9b2e2be4bfab4fb0ba859339638

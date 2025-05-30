@@ -8,7 +8,7 @@
 1165、_russian__Шесть подготовительных действий__Лодой Еше Ринпоче_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d994ac0b3e04ddc6786de81ee56426ea

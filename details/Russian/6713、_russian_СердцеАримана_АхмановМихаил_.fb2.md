@@ -8,7 +8,7 @@
 6713、_russian_Сердце Аримана_Ахманов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fec9d52a1e18b223f0007e96091a00d6

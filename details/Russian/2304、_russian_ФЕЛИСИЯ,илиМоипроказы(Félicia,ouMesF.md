@@ -8,7 +8,7 @@
 2304、_russian_ФЕЛИСИЯ, или Мои проказы (Félicia, ou Mes Fredaines, 1772)_де Нерсиа Андре Робер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4b411ce13ca4965da11d3dcc3007cb6

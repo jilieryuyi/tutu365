@@ -8,7 +8,7 @@
 4475、_russian_№ 36_Нома Хироси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 533a867850bfe6e78c45c9fda579764d

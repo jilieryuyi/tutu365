@@ -8,7 +8,7 @@
 804、_russian_Отец_ попытка портрета_Елена Чудинова_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e32ff98bbe2a4e650006b52606570cb4

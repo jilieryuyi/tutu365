@@ -8,7 +8,7 @@
 11319、_russian_Рикошет_Браун Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5c2ea7cb4866bf6191e2728278f9f6e

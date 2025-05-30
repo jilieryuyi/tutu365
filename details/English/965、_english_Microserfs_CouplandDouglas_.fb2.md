@@ -8,7 +8,7 @@
 965、_english_Microserfs_Coupland Douglas_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6b5065ca82ad1f76ab55b0de43a55e36

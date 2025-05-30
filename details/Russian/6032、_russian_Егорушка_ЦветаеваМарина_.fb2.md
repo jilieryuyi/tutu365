@@ -8,7 +8,7 @@
 6032、_russian_Егорушка_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db8c3d9be2554d77c98d88d6dd2ea350

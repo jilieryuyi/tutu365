@@ -8,7 +8,7 @@
 3485、_russian_Агент КФ_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54aa11eee74558f6cd38459d608b0e51

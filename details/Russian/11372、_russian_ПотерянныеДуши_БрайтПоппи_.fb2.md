@@ -8,7 +8,7 @@
 11372、_russian_Потерянные Души_Брайт Поппи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff41cb1c5acd942ded901451803cd9f9

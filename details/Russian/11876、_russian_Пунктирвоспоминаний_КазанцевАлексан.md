@@ -8,7 +8,7 @@
 11876、_russian_Пунктир воспоминаний_Казанцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0543d74ad270f373da8d99af1cb9d94

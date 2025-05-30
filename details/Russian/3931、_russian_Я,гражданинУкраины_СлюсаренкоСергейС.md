@@ -8,7 +8,7 @@
 3931、_russian_Я, гражданин Украины_Слюсаренко Сергей Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1ecf374490678c3dc240aca405d4c36

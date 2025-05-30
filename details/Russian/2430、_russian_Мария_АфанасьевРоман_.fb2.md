@@ -8,7 +8,7 @@
 2430、_russian_Мария_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8af9002ea1af1052c8f0e208e3a675c7

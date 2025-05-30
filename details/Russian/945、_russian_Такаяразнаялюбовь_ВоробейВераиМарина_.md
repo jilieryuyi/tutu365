@@ -8,7 +8,7 @@
 945、_russian_Такая разная любовь_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f3bd46da1543566bda254f57c9c675f

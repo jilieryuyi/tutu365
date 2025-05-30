@@ -8,7 +8,7 @@
 14062、_russian_Нокаут_Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67f2922d293b589dd929b7b16428b32f

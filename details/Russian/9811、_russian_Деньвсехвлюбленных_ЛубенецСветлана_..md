@@ -8,7 +8,7 @@
 9811、_russian_День всех влюбленных_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b424a01067bddfdc8a8a5ed87b9145dc

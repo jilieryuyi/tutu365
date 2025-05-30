@@ -8,7 +8,7 @@
 12182、_russian_Обманщики_Бестер Альфред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a3b3a11f5484915c7f1f052765ca4df

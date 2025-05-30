@@ -8,7 +8,7 @@
 172、揭秘太空：人类的航天梦_张天蓉, SoBooKs.cc [张天蓉, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0431146ef28d206087c3a0b52946a583

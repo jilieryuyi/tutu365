@@ -8,7 +8,7 @@
 8577、_russian_День совпадений_Браннер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99c00014f552a05ad5379a6a0c4899f4

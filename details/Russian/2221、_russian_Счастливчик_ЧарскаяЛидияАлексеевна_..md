@@ -8,7 +8,7 @@
 2221、_russian_Счастливчик_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 487950ba726a37d03423b6ad1818e320

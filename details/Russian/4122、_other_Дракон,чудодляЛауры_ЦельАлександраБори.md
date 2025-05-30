@@ -8,7 +8,7 @@
 4122、_other_Дракон, чудо для Лауры_Цель Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 261e77902fed4a1e3f7900b9d6465be0

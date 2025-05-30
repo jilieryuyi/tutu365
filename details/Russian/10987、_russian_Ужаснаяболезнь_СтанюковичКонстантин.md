@@ -8,7 +8,7 @@
 10987、_russian_Ужасная болезнь_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 890c1c2cbc89fb2cd6f6add7d2e60fcc

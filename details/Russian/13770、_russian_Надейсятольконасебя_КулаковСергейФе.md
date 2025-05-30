@@ -8,7 +8,7 @@
 13770、_russian_Надейся только на себя_Кулаков Сергей Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4b0e087d0227d0c64f8a2122881caef

@@ -8,7 +8,7 @@
 10417、_russian_Новый русский попугай_Александрова Наталья Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a2a6fad5e20a68c1814b80eb67dc67e

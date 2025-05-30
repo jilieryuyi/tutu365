@@ -8,7 +8,7 @@
 7943、_polish_Wiersze_Mi_osz Czes_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 eceeda7d993cbad069d8563393396842

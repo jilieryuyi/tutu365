@@ -8,7 +8,7 @@
 1147、_russian_Аригато_Кондон Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73a4452f2c9bc7a1b1e985cc71a72488

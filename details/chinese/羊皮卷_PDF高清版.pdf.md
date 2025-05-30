@@ -8,7 +8,7 @@
 羊皮卷_PDF高清版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9def4c7d19434c82e7768f0361528ff2

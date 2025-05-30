@@ -8,7 +8,7 @@
 DOM高级程序设计.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3503dac078c18be19eccf357b1c375fc

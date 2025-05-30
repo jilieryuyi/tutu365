@@ -8,7 +8,7 @@
 13807、_russian_Отметки Риммы Лебедевой_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7aab4350f744999e2e0200aeae819826

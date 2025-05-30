@@ -8,7 +8,7 @@
 4346、_russian_Мессия Дюны_Герберт Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 984eb35bedf4307663820fc500d72ba7

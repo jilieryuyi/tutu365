@@ -8,7 +8,7 @@
 4904、_russian_Горькое лекарство_Парецки Сара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f679fcb0d64b71c211c84204b03414fd

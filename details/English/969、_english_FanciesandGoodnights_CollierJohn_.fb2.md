@@ -8,7 +8,7 @@
 969、_english_Fancies and Goodnights_Collier John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 685ced0a0e0157a650b8bf6546456bff

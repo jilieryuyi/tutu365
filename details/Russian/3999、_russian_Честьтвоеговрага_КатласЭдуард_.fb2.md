@@ -8,7 +8,7 @@
 3999、_russian_Честь твоего врага_Катлас Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 157b64ace44f732e464fca89e29bddba

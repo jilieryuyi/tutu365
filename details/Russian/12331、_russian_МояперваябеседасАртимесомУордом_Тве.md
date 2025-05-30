@@ -8,7 +8,7 @@
 12331、_russian_Моя первая беседа с Артимесом Уордом_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e10f00d46d3f631f2aebfc22009f5d6

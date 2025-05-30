@@ -8,7 +8,7 @@
 sangoma asterisk FAQ.chm.chm
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7c1ea1cc4a3b4d0dc98ffcfa3cb76579

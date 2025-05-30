@@ -8,7 +8,7 @@
 2900、_russian_Ужас победы_Попов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 023ad84054d51353929ff9ea5d64c012

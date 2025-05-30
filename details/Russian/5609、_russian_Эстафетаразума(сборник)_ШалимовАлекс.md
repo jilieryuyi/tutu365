@@ -8,7 +8,7 @@
 5609、_russian_Эстафета разума (сборник)_Шалимов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27c3239e79dc1a15cc018cd7e7a796bc

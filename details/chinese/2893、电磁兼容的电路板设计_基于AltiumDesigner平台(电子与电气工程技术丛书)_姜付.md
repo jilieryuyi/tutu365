@@ -8,7 +8,7 @@
 2893、电磁兼容的电路板设计_基于Altium Designer平台 (电子与电气工程技术丛书)_姜付鹏_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 31ddd48ff773888ef2a69b29913d559c

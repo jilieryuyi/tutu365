@@ -8,7 +8,7 @@
 5042、_russian_Юлиан-отступник (Смерть богов)_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3709d836267e5ee84dc7bc227fedcc1b

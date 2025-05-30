@@ -8,7 +8,7 @@
 11562、_russian_Осознанность_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 302a41c9d316a1740b5c11f2aab151cf

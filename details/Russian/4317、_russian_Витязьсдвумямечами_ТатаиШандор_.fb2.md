@@ -8,7 +8,7 @@
 4317、_russian_Витязь с двумя мечами_Татаи Шандор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 026b2c9920fe752f5dbc0c8fc69cfa6c

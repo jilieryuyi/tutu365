@@ -8,7 +8,7 @@
 2166、_russian_Дракон Его Величества_Новик Наоми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2465f3b230a18d8f4df3f9fed453f10d

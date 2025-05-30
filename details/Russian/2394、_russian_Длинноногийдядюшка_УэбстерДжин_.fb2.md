@@ -8,7 +8,7 @@
 2394、_russian_Длинноногий дядюшка_Уэбстер Джин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c002722f05f9b151cbec93af9158335

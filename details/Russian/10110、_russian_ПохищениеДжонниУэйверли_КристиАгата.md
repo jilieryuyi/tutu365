@@ -8,7 +8,7 @@
 10110、_russian_Похищение Джонни Уэйверли_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 840ee65e34d3fad1d785f2e007fe8d52

@@ -8,7 +8,7 @@
 5881、_russian_Вася Кочкин, человек лет двенадцати_Христолюбова Ирина Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4efb4f96c440fb9af43ba9cd07bb523a

@@ -8,7 +8,7 @@
 1355、_russian_Невинная мошенница_Шарп Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3d60a1ee56d138ba628a15d5c868efd

@@ -8,7 +8,7 @@
 12412、_russian_Башня Королевской Дочери_Бренчли Чез_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1d68b613b719b66c99078e70b1df61b

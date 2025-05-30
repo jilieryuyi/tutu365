@@ -8,7 +8,7 @@
 3150、镇魂_priest [priest]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2b743fa3295310de9a9b1f1a6395e2e8

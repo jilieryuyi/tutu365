@@ -8,7 +8,7 @@
 12020、_french_L'_le de la liberté_Jean-Fran_ois Zimmermann [Zimmermann, Jean-Fran_ois]_Editions De Borée.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 65a04d8db5aa7a30ed2284f3991bdcbc

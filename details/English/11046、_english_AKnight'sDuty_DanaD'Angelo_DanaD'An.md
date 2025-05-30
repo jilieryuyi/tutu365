@@ -8,7 +8,7 @@
 11046、_english_A Knight's Duty_Dana D'Angelo_Dana D'Angelo.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cd97ed47a6cefcb2f7fa016ec42af055

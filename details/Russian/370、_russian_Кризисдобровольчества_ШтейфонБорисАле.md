@@ -8,7 +8,7 @@
 370、_russian_Кризис добровольчества_Штейфон Борис Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d596f620acfbc59f25b331574f13f36

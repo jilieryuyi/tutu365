@@ -8,7 +8,7 @@
 14732、_russian_Вымогатель_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b65170825223d1b082211c8f9d3bf181

@@ -8,7 +8,7 @@
 6675、_russian_Никто не вернется живым_Бадин Андрей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31b6764a8b5fd86e87f4c133ef87ce7b

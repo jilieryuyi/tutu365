@@ -8,7 +8,7 @@
 10931、_russian_Белый всадник_Давыдов Юрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8ea3af60f863fca752778c392679d06

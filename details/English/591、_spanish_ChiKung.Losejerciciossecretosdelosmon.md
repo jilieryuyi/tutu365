@@ -8,7 +8,7 @@
 591、_spanish_Chi Kung. Los ejercicios secretos de los monjes taoístas_Tawm Kim_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 17e83fe8718956100bf759944225457f

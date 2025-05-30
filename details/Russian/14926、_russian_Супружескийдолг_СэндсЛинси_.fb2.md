@@ -8,7 +8,7 @@
 14926、_russian_Супружеский долг_Сэндс Линси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e99b544f1313082cadb2c10b2b8dfac

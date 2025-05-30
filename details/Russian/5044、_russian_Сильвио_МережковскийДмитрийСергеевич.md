@@ -8,7 +8,7 @@
 5044、_russian_Сильвио_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc9bcbf851e3dc64783a392dde873af2

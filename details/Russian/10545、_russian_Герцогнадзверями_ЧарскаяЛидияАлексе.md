@@ -8,7 +8,7 @@
 10545、_russian_Герцог над зверями_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ec85fcd64cf8cc54c894c9732426eb8

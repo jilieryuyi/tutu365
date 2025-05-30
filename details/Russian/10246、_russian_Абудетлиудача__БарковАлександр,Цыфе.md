@@ -8,7 +8,7 @@
 10246、_russian_А будет ли удача__Барков Александр, Цыферов Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79bea108934aa874ce04a1fd7c36f0e3

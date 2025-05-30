@@ -8,7 +8,7 @@
 3677、_russian_По дороге в рай_Поникаровская Алиса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cf51c24ebca8cc3b00b6659f2103f14

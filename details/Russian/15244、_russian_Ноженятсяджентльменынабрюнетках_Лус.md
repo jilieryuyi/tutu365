@@ -8,7 +8,7 @@
 15244、_russian_Но женятся джентльмены на брюнетках_Лус Анита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2c2e961851d75c42158c0c68d9aeae3

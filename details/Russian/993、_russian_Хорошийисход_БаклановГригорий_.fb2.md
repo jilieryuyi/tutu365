@@ -8,7 +8,7 @@
 993、_russian_Хороший исход_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f187d71254e6116d1fa1deaebf74728

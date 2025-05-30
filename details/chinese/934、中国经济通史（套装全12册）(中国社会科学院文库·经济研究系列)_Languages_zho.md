@@ -8,7 +8,7 @@
 934、中国经济通史（套装全12册） (中国社会科学院文库·经济研究系列)_Languages           _ zho_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9906cd26a65fa479e267d01d11797eb9

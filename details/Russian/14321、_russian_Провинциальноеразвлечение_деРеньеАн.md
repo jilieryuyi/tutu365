@@ -8,7 +8,7 @@
 14321、_russian_Провинциальное развлечение_де Ренье Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb2a5216459e0363cf33e920d2370bfe

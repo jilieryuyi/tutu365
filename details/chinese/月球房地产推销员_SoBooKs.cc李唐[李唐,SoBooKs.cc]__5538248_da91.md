@@ -8,7 +8,7 @@
 月球房地产推销员_SoBooKs.cc 李唐 [李唐, SoBooKs.cc]__5538248_da916de4f9902646f796b2f4f72d7973.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 da916de4f9902646f796b2f4f72d7973

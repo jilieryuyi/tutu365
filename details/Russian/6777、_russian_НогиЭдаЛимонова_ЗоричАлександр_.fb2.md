@@ -8,7 +8,7 @@
 6777、_russian_Ноги Эда Лимонова_Зорич Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 759b746094ca83ea28d235dc151dba22

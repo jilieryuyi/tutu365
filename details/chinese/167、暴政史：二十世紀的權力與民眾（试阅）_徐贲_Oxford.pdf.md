@@ -8,7 +8,7 @@
 167、暴政史：二十世紀的權力與民眾（试阅）_徐贲_Oxford.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 baa396fcf5938851940cf92769b16539

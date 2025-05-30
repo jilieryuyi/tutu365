@@ -8,7 +8,7 @@
 1009、_russian_Убийство в спальном вагоне_Жапризо Себастьян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d926be925742c7a73df8bce73eb2d1b

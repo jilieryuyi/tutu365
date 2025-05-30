@@ -8,7 +8,7 @@
 11547、_russian_Дети Линзы-1_ Серый Ленсмен_`Док` Смит Эдвард Элмер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d76f2d05b26c16df2f3c5f12a9465562

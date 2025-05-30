@@ -8,7 +8,7 @@
 8738、_russian_Смена глаза_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1553e6de59d637b109f16cb8d0e9b4d8

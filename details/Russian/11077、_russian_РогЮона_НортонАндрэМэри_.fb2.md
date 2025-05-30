@@ -8,7 +8,7 @@
 11077、_russian_Рог Юона_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a09f4a46fadacb2b62eb74ae31536fa8

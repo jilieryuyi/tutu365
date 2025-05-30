@@ -8,7 +8,7 @@
 929、中国古代社会生活史书系（7册合辑）_Languages           _ zho_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1753eb81a47e7bc90c6b711f1a949628

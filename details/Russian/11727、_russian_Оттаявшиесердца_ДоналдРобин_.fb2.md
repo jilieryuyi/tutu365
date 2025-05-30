@@ -8,7 +8,7 @@
 11727、_russian_Оттаявшие сердца_Доналд Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b9851665a435f78620452167f7c834d

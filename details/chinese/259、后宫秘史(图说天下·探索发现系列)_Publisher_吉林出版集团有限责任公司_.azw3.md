@@ -8,7 +8,7 @@
 259、后宫秘史 (图说天下·探索发现系列)_Publisher           _ 吉林出版集团有限责任公司_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b4af86d8c00382e8d5f732862d83c332

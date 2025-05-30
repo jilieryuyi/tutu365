@@ -8,7 +8,7 @@
 11007、_russian_Два брата_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a16b59e3e42a876d713c62dd6f17f67

@@ -8,7 +8,7 @@
 13214、_russian_В горах_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ae4d611a08a041c9e10d446432feced

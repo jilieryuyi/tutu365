@@ -8,7 +8,7 @@
 9882、_russian_Ты – мое cолнце_Саутвик Тереза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 869d128178c8c2192676a20699ca7b94

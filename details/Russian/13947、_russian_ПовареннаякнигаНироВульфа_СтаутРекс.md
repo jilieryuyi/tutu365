@@ -8,7 +8,7 @@
 13947、_russian_Поваренная книга Ниро Вульфа_Стаут Рекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 037a2eaaf25ff8afab2e6cbfcf6ff73a

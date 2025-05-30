@@ -8,7 +8,7 @@
 12779、_russian_Супербомба_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec493884108ea912b4a1fcd7821b5eed

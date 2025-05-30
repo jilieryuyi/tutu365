@@ -8,7 +8,7 @@
 1376、_russian_Букет котов_Мориц Юнна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a194b044bb909066f8ffb0a81b38f1f9

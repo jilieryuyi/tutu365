@@ -8,7 +8,7 @@
 14897、_russian_Свадьба со взломом_Джоунс Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7487842e3392ad1131355181fc7c7257

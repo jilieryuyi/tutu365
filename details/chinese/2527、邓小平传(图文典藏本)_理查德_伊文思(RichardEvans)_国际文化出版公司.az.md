@@ -8,7 +8,7 @@
 2527、邓小平传(图文典藏本)_理查德_伊文思 (Richard Evans)_国际文化出版公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 39bcab4f54acbe31a91d3bf849066d89

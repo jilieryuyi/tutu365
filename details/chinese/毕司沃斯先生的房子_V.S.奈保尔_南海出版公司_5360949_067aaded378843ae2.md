@@ -8,7 +8,7 @@
 毕司沃斯先生的房子_V.S.奈保尔_南海出版公司_5360949_067aaded378843ae278e18bc21496f9f.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 067aaded378843ae278e18bc21496f9f

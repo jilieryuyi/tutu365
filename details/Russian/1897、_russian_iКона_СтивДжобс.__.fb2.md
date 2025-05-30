@@ -8,7 +8,7 @@
 1897、_russian_iКона_ Стив Джобс.__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcb31796393e9c35606ee36586c7d09c

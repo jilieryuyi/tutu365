@@ -8,7 +8,7 @@
 9761、_russian_Осень в Петербурге_Кутзее Джозеф Максвелл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0873c6b1bbd53fc8818acc3c80e39c03

@@ -8,7 +8,7 @@
 8851、_russian_Спасибо, Mоpфей…_Фрайер Рэндалл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c287b072f3fedb2b880218931c7fc14

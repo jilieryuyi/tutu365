@@ -8,7 +8,7 @@
 3579、_russian_Дорога в маги_Глушановский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86c88c2be9bd9f464c28d885c7ba715f

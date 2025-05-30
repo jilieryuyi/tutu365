@@ -8,7 +8,7 @@
 1807、_russian_Женские чары_Доналд Клэр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5785df914ce526cff3550c992f7945ec

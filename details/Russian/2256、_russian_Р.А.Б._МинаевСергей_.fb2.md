@@ -8,7 +8,7 @@
 2256、_russian_Р.А.Б._Минаев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8f82d0510f9a1a7105cbbcab1d4a0f2

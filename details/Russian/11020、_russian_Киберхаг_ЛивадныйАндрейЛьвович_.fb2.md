@@ -8,7 +8,7 @@
 11020、_russian_Киберхаг_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8945757b68237f3d30271cfcdbf99945

@@ -8,7 +8,7 @@
 10816、_russian_Утешитель_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5fb31656b4d2151f6723f10e08f3afc

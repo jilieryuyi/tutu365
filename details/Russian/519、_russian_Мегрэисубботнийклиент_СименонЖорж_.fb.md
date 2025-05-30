@@ -8,7 +8,7 @@
 519、_russian_Мегрэ и субботний клиент_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6041a6164e9fc0b5c10ebaac313fa4a

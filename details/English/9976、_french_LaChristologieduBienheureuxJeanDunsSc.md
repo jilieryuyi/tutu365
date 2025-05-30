@@ -8,7 +8,7 @@
 9976、_french_La Christologie du Bienheureux Jean Duns Scot, l'Immaculée Conception et l'avenir de l'Eglise_Claude Tresmontant [Tresmontant, Claude]_Francois-Xavier de Guibert.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 268b2b54c4584c722c087691ddaac022

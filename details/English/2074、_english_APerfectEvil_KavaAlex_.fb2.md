@@ -8,7 +8,7 @@
 2074、_english_A Perfect Evil_Kava Alex_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0952f8280d31c07de0212371caa32c5a

@@ -8,7 +8,7 @@
 14745、_russian_Человек, небо, космос_Бабийчук Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 980379b554fd4ce77d8d7f87d3659a2a

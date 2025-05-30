@@ -8,7 +8,7 @@
 6949、_russian_Диалог с читателями_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9be0d8b48e54e8fbcebbce5361f0fb3e

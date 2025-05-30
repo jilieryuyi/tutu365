@@ -8,7 +8,7 @@
 1675、_english_Max_Patterson James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1b76f874aa8e4540dd8cf79d3522f1b1

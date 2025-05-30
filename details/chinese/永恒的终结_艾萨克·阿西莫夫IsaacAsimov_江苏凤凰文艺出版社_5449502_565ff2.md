@@ -8,7 +8,7 @@
 永恒的终结_艾萨克·阿西莫夫  Isaac Asimov_江苏凤凰文艺出版社_5449502_565ff2d0cbb5a6116abb76564c4eb77f.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 565ff2d0cbb5a6116abb76564c4eb77f

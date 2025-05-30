@@ -8,7 +8,7 @@
 5767、_russian_Сборник рассказов и повестей__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5a3171ee8b183175b729c649450005a

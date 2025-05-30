@@ -8,7 +8,7 @@
 11593、_russian_Священная охота_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8290f1209019fe2eb24735bab545e9df

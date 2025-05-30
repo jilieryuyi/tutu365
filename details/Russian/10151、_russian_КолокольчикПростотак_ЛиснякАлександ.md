@@ -8,7 +8,7 @@
 10151、_russian_Колокольчик Простотак_Лисняк Александр Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4fd7e1b10d6f055c1858e0673bddfad

@@ -8,7 +8,7 @@
 2620、一个人的好天气 (青山七惠作品)_青山七惠(Aoyama Nanae)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3b44fbcc3ce1e05ed87832d7624d9f0e

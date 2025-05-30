@@ -8,7 +8,7 @@
 15279、_russian_Картинка с парусником_Воронова Влада Юрьевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33107ed5fa00eaa15f09f392ffe43f35

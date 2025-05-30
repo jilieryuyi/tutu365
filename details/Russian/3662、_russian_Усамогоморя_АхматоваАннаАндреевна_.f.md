@@ -8,7 +8,7 @@
 3662、_russian_У самого моря_Ахматова Анна Андреевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5685ad0cf736d0b161c689bc8fb1d8b3

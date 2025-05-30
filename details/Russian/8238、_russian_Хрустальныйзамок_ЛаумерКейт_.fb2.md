@@ -8,7 +8,7 @@
 8238、_russian_Хрустальный замок_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cae18cc174cfab85831114e07f7fd72

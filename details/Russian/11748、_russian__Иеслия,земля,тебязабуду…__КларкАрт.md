@@ -8,7 +8,7 @@
 11748、_russian__И если я, земля, тебя забуду…__Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9f7f650197c00a96a7cc357c0b5a6ab

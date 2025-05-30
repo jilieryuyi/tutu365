@@ -8,7 +8,7 @@
 13441、_russian_УДАЧИ КАПИТАНА БЛАДА_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9cd2754bdb44b75d87e8c0d381dda19

@@ -8,7 +8,7 @@
 12185、_english_A Wager for the Widow_Elisabeth Hobbes_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6fab4b906dd9b772bad5a9d59ab2d04b

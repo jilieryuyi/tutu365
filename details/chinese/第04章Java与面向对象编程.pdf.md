@@ -8,7 +8,7 @@
 第04章 Java与面向对象编程.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1f25e1d452d563262c64a4332408449b

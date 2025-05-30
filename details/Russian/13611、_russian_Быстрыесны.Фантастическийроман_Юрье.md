@@ -8,7 +8,7 @@
 13611、_russian_Быстрые сны. Фантастический роман_Юрьев Зиновий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0000a2f4cbef633390cb2a3c1f67fe5

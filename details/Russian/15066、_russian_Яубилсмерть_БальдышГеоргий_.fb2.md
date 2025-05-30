@@ -8,7 +8,7 @@
 15066、_russian_Я убил смерть_Бальдыш Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae600943ad496e0107ee9c742c22332d

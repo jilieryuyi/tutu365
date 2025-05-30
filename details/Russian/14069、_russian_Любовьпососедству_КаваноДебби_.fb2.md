@@ -8,7 +8,7 @@
 14069、_russian_Любовь по соседству_Кавано Дебби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4356e96832d6a694bac258ac3725ee50

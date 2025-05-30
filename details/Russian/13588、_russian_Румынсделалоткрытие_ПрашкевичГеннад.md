@@ -8,7 +8,7 @@
 13588、_russian_Румын сделал открытие_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a2689e32b052a6b1e1b25eb67a2f56c

@@ -8,7 +8,7 @@
 2786、_russian_Клан Инугами_Ёкомидзо Сэйси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6ef587c872f2de91de24ed680552544

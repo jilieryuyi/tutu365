@@ -8,7 +8,7 @@
 10247、_russian_Хобо_Гросс Павел, Счастливцева Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fc3a08d9808e37b6f01cfb47be55da6

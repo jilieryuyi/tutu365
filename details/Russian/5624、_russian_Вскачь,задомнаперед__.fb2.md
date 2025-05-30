@@ -8,7 +8,7 @@
 5624、_russian_Вскачь, задом наперед__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99f5f3523d0c75dab5e1aefe283f3a69

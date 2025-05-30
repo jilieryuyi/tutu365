@@ -8,7 +8,7 @@
 186、极简量子力学_SoBooKs.cc 张天蓉 [张天蓉, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c41ae6e094e13943185db601a44b8457

@@ -8,7 +8,7 @@
 9969、_russian_Карусели над городом (С иллюстрациями)_Томин Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62d334efb2dbda81cf82d23e42ab07c5

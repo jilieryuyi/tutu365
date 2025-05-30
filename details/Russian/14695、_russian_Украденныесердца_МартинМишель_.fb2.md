@@ -8,7 +8,7 @@
 14695、_russian_Украденные сердца_Мартин Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ae72b5f2a8e86148bcf818f8827df91

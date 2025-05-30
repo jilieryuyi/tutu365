@@ -8,7 +8,7 @@
 HTML5移动Web开发指南》.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a549a807890922f93197639df6f039e

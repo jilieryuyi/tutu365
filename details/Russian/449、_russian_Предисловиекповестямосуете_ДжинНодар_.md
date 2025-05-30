@@ -8,7 +8,7 @@
 449、_russian_Предисловие к повестям о суете_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e474f097e6e68230053b2ed2227b00d2

@@ -8,7 +8,7 @@
 507、_russian_Мегрэ защищается_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ed756b8e40f445333f7f15e3332c37b

@@ -8,7 +8,7 @@
 11637、_russian_Превратности любви_Фабио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e29b382b7e70e0791a7d61a582aa1ce

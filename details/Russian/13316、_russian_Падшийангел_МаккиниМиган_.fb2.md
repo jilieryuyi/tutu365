@@ -8,7 +8,7 @@
 13316、_russian_Падший ангел_Маккини Миган_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf35f2b658a7bc6dac4464a883ca17a4

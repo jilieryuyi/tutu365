@@ -8,7 +8,7 @@
 15027、_russian_Домой не возвращайся!_Витаков Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d355c25093ffa1aababbb7f9e9254621

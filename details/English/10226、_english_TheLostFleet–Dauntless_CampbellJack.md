@@ -8,7 +8,7 @@
 10226、_english_The Lost Fleet – Dauntless_Campbell Jack_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ce1328195ae7d29284a1bdf4f043d91f

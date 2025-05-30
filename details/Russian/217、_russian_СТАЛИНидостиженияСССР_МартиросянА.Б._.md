@@ -8,7 +8,7 @@
 217、_russian_СТАЛИН и достижения СССР_Мартиросян А. Б._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07c182ea04a49f35c37048a7031ce27f

@@ -8,7 +8,7 @@
 9851、_russian_У начала времен_Янг Роберт Франклин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcd053cc73e3f124b0932f45126d3c09

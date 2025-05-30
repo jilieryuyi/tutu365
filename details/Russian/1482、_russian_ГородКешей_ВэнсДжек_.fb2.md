@@ -8,7 +8,7 @@
 1482、_russian_Город Кешей_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22e20e73c49ffa5bf080a6a0696f95ba

@@ -8,7 +8,7 @@
 4287、_russian_Предатель крови_Хенди Барб, Хенди Дж. С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce7596f7954935122785fd883aab07d0

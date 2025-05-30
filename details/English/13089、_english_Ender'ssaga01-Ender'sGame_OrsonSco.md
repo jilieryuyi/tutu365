@@ -8,7 +8,7 @@
 13089、_english_Ender's saga #01 - Ender's Game_Orson Scott Card [Card, Orson Scott]_Tor Science Fiction.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 34fda8bf7528c25ad54ccb9d404a1101

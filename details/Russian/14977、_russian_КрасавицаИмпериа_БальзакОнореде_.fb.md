@@ -8,7 +8,7 @@
 14977、_russian_Красавица Империа_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e506abbc4c15828aec591fdf2150318

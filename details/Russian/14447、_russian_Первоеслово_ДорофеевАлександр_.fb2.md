@@ -8,7 +8,7 @@
 14447、_russian_Первое слово_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f16f079da89ba11669db98f66f5cc77

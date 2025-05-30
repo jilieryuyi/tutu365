@@ -8,7 +8,7 @@
 611、_russian_Учебник языка эсперанто_Колкер Б Г_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44df10514d6381852e92154928c900b0

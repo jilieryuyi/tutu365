@@ -8,7 +8,7 @@
 13738、_russian_Темная игра смерти. Том 2_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c86ab97626749089ceb0d271c354a7c

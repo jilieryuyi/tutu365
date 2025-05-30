@@ -8,7 +8,7 @@
 12730、_russian_Серебряная луна_Крамер Элли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0134e2539e1b838b3e9629cc95829d93

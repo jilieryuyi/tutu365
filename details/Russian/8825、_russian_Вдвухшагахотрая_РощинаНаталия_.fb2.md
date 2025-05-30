@@ -8,7 +8,7 @@
 8825、_russian_В двух шагах от рая_Рощина Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6f7b661a6751f89f9c0b5d70d274cd3

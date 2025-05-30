@@ -8,7 +8,7 @@
 6069、_russian_Кубики_Елизаров Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84efde4bb9066cae885b70159c9b3ef7

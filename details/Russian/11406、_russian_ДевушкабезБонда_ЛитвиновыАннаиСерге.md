@@ -8,7 +8,7 @@
 11406、_russian_Девушка без Бонда_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cacf9efd3e22ecaf344b78fca405d519

@@ -8,7 +8,7 @@
 5619、_russian_Морской дракон_Харрингтон Кэтлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 460341162d328262ea84965990a7a391

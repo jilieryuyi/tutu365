@@ -8,7 +8,7 @@
 977、_russian_Рисуй меня ночью_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d74d8cd61435362fc955ebcfdea33696

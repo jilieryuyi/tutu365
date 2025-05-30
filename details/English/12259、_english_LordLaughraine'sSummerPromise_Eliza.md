@@ -8,7 +8,7 @@
 12259、_english_Lord Laughraine's Summer Promise_Elizabeth Beacon_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0f49b0b70384a42661b13a3c5742e5a1

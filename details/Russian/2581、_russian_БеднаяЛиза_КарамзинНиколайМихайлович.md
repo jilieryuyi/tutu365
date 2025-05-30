@@ -8,7 +8,7 @@
 2581、_russian_Бедная Лиза_Карамзин Николай Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3cbe2a496209ee5a0a532a9978063c6b

@@ -8,7 +8,7 @@
 11089、_english_Witness of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0aa9db3beef70864f70af3f8e83dadef

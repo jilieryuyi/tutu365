@@ -8,7 +8,7 @@
 爱伦·坡短篇小说选 (Selected Short Stories by Edgar Allan Poe)_埃德加·爱伦·坡__5476522_3a70475a0ed306cac7654f62139fe598.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3a70475a0ed306cac7654f62139fe598

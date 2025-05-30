@@ -8,7 +8,7 @@
 14492、_russian_Наша личная война_Пучков Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c230f3451cddfa6372f40296af2f34ce

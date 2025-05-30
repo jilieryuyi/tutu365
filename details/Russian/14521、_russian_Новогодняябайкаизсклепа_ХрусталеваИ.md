@@ -8,7 +8,7 @@
 14521、_russian_Новогодняя байка из склепа_Хрусталева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9d3f659b7f0c60495b472dd7b8d4423

@@ -8,7 +8,7 @@
 1581、_russian_Седьмая жертва_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10b216bb86c03d7f205188bfafdf5f54

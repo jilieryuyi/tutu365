@@ -8,7 +8,7 @@
 14774、_russian_Ты красива, поверь_Берристер Инга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69ff19b331b7ac1bea58addf52e5e34f

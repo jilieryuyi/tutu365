@@ -8,7 +8,7 @@
 4669、_russian_Мера вещей_Головачёв Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 edc02bf8ebabcc98da3012d5a1e5e815

@@ -8,7 +8,7 @@
 12549、_russian_Выкуп_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f64684a631c1b99c54f025c8625ef4d3

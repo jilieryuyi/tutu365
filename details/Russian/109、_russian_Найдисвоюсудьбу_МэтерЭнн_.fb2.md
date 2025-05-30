@@ -8,7 +8,7 @@
 109、_russian_Найди свою судьбу_Мэтер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d46ca5ad5af23dbf37ba6b10626105f5

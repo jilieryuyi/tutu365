@@ -8,7 +8,7 @@
 9857、_russian_Поражение_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56fd5fbe9bd2ed8e525c12cc1b74550f

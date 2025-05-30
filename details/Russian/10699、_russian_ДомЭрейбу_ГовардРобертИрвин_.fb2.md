@@ -8,7 +8,7 @@
 10699、_russian_Дом Эрейбу_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39db3f69981d5570dbdb597a5da97356

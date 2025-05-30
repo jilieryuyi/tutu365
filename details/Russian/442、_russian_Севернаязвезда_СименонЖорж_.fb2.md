@@ -8,7 +8,7 @@
 442、_russian_Северная звезда_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b18607cacade0787dc7d2acd6d81018

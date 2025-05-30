@@ -8,7 +8,7 @@
 11710、_russian_Очарованный_Донован Никки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d269730f0b2ccd97a35f4c23fb510bd

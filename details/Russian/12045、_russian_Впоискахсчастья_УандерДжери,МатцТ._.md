@@ -8,7 +8,7 @@
 12045、_russian_В поисках счастья_Уандер Джери, Матц Т._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08f1dc912951a3c72d9b4c67deab3bec

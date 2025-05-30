@@ -8,7 +8,7 @@
 7145、_russian_Плюшевый медвежонок_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4580b652049ce477070fa403c383a19b

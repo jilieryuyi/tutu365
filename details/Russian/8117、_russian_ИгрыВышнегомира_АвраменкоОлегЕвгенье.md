@@ -8,7 +8,7 @@
 8117、_russian_Игры Вышнего мира_Авраменко Олег Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c2b9709f44e15c06a3c9ae5845df9ba

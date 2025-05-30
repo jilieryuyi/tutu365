@@ -8,7 +8,7 @@
 8302、_russian_Потому что ты моя_Райан Нэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5360dae21a1bcb7ccb6ddf331a42bc0b

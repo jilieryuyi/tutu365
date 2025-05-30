@@ -8,7 +8,7 @@
 10611、_russian_Тень Луны_Сыченко Игорь Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb8d0f564fcada2d5d7f3480976a43f3

@@ -8,7 +8,7 @@
 14535、_russian_Камень-пламень_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abd45ea13c75700e4092a09ba041a23f

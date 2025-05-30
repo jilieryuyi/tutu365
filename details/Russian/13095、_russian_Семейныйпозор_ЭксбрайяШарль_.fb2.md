@@ -8,7 +8,7 @@
 13095、_russian_Семейный позор_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca7efd336e49456e9d424a5b242bfb41

@@ -8,7 +8,7 @@
 10877、_russian_Геном_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0b5affac55fdb186684021a175bd5b9

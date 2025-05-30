@@ -8,7 +8,7 @@
 1601、_russian_Рыжая-бесстыжая_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 774806ad7f3c2ed9ef5bb8eab8f37d22

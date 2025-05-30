@@ -8,7 +8,7 @@
 Financial Times金融英语速读（套装共10册）（英国《金融时报》·地铁大学）_Financial Times__3486060_b6761a214b9511b78075bd5009900f63.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b6761a214b9511b78075bd5009900f63

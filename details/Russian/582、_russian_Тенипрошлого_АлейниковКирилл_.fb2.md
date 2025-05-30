@@ -8,7 +8,7 @@
 582、_russian_Тени прошлого_Алейников Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b0bde288f31a3e26021b2daea0ef8d6

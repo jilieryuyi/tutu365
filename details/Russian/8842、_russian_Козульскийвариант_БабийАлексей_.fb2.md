@@ -8,7 +8,7 @@
 8842、_russian_Козульский вариант_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dd1a7a9f10394e35b37833838bec576

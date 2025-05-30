@@ -8,7 +8,7 @@
 12778、_russian_Огонь и дождь_Чемберлен Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a52973a2292de8ab1fb623270c8126b1

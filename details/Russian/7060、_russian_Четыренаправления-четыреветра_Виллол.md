@@ -8,7 +8,7 @@
 7060、_russian_Четыре направления - четыре ветра_Виллолдо Альберто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42cc4596f4a3427931dda443dc7ae041

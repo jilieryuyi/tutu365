@@ -8,7 +8,7 @@
 7966、_russian_Игры олигархов_Витич Райдо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91f461c4e23185d8b7f0dadda074afb1

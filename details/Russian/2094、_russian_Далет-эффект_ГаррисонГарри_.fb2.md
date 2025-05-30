@@ -8,7 +8,7 @@
 2094、_russian_Далет-эффект_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8f0051e7c4e73d5a7e9a7072a7363c4

@@ -8,7 +8,7 @@
 137、不灭的火焰：宗教改革简史_迈克尔·里夫斯,MichaelReeves,孙岱君_上海三联书店.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c7e7e01ae54d1064fd9197f8d54da7a7

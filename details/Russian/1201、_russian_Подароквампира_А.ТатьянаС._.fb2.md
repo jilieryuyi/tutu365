@@ -8,7 +8,7 @@
 1201、_russian_Подарок вампира_А. Татьяна С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d1382cf183b2531e0317fb48e8fd111

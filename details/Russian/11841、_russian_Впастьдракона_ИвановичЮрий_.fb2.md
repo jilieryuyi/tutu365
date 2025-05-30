@@ -8,7 +8,7 @@
 11841、_russian_В пасть дракона_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4faffced6847d8d1310e09ca57e739d

@@ -8,7 +8,7 @@
 11293、_russian_Космическая одиссея Алекса Крепса_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ac6fe8fca064c9b00e34d0386cecdcb

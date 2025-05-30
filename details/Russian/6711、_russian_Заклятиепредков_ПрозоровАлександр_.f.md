@@ -8,7 +8,7 @@
 6711、_russian_Заклятие предков_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23f59cd2855411808c2c60a8e5a3f655

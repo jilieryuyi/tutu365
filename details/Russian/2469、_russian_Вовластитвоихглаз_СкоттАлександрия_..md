@@ -8,7 +8,7 @@
 2469、_russian_Во власти твоих глаз_Скотт Александрия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99c473bd9c0da43e19b71d605d76b5d7

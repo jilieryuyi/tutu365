@@ -8,7 +8,7 @@
 10847、_russian_Полководец_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43c892245cd29accd7a6f820bd9cad33

@@ -8,7 +8,7 @@
 7489、_russian_Человек - это многосложное существо_Гурджиев Георгий Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3c7e8da371b01b3ba31353c3a1e24d4

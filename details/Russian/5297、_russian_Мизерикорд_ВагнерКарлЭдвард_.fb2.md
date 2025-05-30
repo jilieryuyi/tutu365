@@ -8,7 +8,7 @@
 5297、_russian_Мизерикорд_Вагнер Карл Эдвард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 161ba30489a7263e049b38f9fdce963f

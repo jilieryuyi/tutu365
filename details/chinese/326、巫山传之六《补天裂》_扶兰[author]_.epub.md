@@ -8,7 +8,7 @@
 326、巫山传之六《补天裂》_扶兰 [author]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5a2f0ce83e65c44c86628da2e668049e

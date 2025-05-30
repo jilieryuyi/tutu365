@@ -8,7 +8,7 @@
 4146、_other_Кочевница_Долина Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e39762e93be91f7052596ab54d773dde

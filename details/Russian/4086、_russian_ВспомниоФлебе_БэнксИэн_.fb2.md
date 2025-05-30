@@ -8,7 +8,7 @@
 4086、_russian_Вспомни о Флебе_Бэнкс Иэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8fee38cd8ff8f4cf8efeee118173a35

@@ -8,7 +8,7 @@
 14052、_russian_Эмили_Купер Джилли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03c9ff61d8d77d110c4b67f7d946cdc3

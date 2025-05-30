@@ -8,7 +8,7 @@
 8729、_russian_Касимовская невеста_Соловьев Всеволод Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72ca577e23cabbfeea819c26f4b5f842

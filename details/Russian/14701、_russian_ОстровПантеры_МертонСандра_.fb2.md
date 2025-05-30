@@ -8,7 +8,7 @@
 14701、_russian_Остров Пантеры_Мертон Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0dc8c38ff153f5a86a6c829f903f7f7

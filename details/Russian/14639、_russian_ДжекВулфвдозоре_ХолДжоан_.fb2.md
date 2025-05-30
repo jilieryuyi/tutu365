@@ -8,7 +8,7 @@
 14639、_russian_Джек Вулф в дозоре_Хол Джоан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45a105b490d1d9b8bbb65f635b69b564

@@ -8,7 +8,7 @@
 8462、_russian_Свобода желаний_Деверо Зара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b718e16d9f69df741fa445ec053824f3

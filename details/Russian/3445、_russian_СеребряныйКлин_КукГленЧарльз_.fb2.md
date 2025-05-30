@@ -8,7 +8,7 @@
 3445、_russian_Серебряный Клин_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50c171dbfdc068d08e4baba7599459e2

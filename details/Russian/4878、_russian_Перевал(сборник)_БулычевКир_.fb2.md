@@ -8,7 +8,7 @@
 4878、_russian_Перевал (сборник)_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e50ed4638eccb4c9f9a6f78dbc891b0c

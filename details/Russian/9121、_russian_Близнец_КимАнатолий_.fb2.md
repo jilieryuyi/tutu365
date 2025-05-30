@@ -8,7 +8,7 @@
 9121、_russian_Близнец_Ким Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97a4d9658a7d6c6144533e86b00aefbd

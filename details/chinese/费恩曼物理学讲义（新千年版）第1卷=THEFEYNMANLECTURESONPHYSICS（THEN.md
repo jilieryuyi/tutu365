@@ -8,7 +8,7 @@
 费恩曼物理学讲义（新千年版）第1卷=THE FEYNMAN LECTURES ON PHYSICS（THE NEW MILENNIUM EDITION，VOLUME 1）_（美）费恩曼（R.P.FEYNMAN），莱顿（R.B.LEIGHTON），桑兹（M.SANDS）著；郑永令，华宏鸣，吴子仪等译__5472405_2b68e77290e35af2e01ee892041024e5.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2b68e77290e35af2e01ee892041024e5

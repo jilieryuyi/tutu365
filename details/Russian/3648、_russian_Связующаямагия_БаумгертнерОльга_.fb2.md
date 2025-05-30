@@ -8,7 +8,7 @@
 3648、_russian_Связующая магия_Баумгертнер Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 725d9714eb2c7714ddb04415b948cc59

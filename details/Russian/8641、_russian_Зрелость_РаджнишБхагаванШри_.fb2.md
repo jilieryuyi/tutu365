@@ -8,7 +8,7 @@
 8641、_russian_Зрелость_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 992d676a054c2144a997dcbe5f979894

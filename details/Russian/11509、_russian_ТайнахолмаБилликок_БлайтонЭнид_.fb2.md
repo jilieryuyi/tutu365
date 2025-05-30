@@ -8,7 +8,7 @@
 11509、_russian_Тайна холма Билликок_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15006bdbbe8ebd498b6fdea8e73ba28f

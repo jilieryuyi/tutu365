@@ -8,7 +8,7 @@
 11811、_russian_Повесть о ясном Стахоре_Садкович Николай Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0d4ecf21501cc79ce003bc28b968b28

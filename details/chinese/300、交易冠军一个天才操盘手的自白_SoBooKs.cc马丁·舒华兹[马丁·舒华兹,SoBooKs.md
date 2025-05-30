@@ -8,7 +8,7 @@
 300、交易冠军 一个天才操盘手的自白_SoBooKs.cc 马丁·舒华兹 [马丁·舒华兹, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1775349dc7fa357dfff1a0728c2bdb84

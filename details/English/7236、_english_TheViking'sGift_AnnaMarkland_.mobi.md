@@ -8,7 +8,7 @@
 7236、_english_The Viking's Gift_Anna Markland_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b06792b15f4ef00f4f888e348a729232

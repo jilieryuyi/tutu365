@@ -8,7 +8,7 @@
 1782、_russian_Дорогой, я стала ведьмой в эту пятницу!_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a08d145dc48831ee67ab20a66707e606

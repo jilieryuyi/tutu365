@@ -8,7 +8,7 @@
 6308、_english_Princess Charlotte's Choice_Ann Lethbridge_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bd611720c001944f1aa87a32f17a01d0

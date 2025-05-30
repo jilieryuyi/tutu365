@@ -8,7 +8,7 @@
 社交媒体简史：从莎草纸到互联网_汤姆·斯丹迪奇 & ePUBw.COM__5475379_5407d63520e99382cf381cd2d31240cd.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5407d63520e99382cf381cd2d31240cd

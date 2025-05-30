@@ -8,7 +8,7 @@
 7507、_russian_Шопенгауэр за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c1b8d09da140817d053a3aafdfb2849

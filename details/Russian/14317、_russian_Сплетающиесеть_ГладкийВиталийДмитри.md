@@ -8,7 +8,7 @@
 14317、_russian_Сплетающие сеть_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bb363cf0b8c97cdb981749c1750ce0a

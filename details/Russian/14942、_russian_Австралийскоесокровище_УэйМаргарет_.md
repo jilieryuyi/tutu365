@@ -8,7 +8,7 @@
 14942、_russian_Австралийское сокровище_Уэй Маргарет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae9b37f12298d114abcd445e8375d4fc

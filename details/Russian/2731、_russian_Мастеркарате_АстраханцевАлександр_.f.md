@@ -8,7 +8,7 @@
 2731、_russian_Мастер карате_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f95fb761c593fe96970385fcd57fb73c

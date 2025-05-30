@@ -8,7 +8,7 @@
 13419、_russian_Пародии. Эпиграммы._Архангельский Александр Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dbea6fe41f2b58aaca90a0fc13720933

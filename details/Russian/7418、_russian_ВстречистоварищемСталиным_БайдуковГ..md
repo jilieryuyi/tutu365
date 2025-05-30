@@ -8,7 +8,7 @@
 7418、_russian_Встречи с товарищем Сталиным_Байдуков Г._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1208461549f2d9dca6b44dd7fcb436e4

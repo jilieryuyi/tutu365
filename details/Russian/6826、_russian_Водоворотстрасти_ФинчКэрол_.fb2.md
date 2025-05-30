@@ -8,7 +8,7 @@
 6826、_russian_Водоворот страсти_Финч Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9c5272120e2bf1dca3377dd10654ca6

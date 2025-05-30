@@ -8,7 +8,7 @@
 2686、_russian_Третий уровень. Между Светом и Тьмой_Николай Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9c90843c9a65eb5ee3c05c92444e57b

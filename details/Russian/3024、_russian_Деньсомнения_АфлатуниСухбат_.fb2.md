@@ -8,7 +8,7 @@
 3024、_russian_День сомнения_Афлатуни Сухбат_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a9c82f3deaf717ba0a9c0f052105df2

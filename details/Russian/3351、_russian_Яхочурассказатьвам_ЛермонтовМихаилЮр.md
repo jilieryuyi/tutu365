@@ -8,7 +8,7 @@
 3351、_russian_Я хочу рассказать вам_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 215708bac3f2dbf4d65030d8e4413e19

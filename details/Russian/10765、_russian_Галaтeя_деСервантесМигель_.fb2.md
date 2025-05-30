@@ -8,7 +8,7 @@
 10765、_russian_Галaтeя_де Сервантес Мигель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fba61f89d2f7fcdae4e739a85fb080a

@@ -8,7 +8,7 @@
 478、_russian_Поединок сердец_Пэтрик Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09d9f57831bf84929aedece13edc2803

@@ -8,7 +8,7 @@
 5723、_russian_Стальная дуга_Авраменко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 112afd0ad6456e6430e53754583a7a64

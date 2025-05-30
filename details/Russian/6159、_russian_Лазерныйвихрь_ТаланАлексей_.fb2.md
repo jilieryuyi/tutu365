@@ -8,7 +8,7 @@
 6159、_russian_Лазерный вихрь_Талан Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 497f96d310c43a49f1139d479eadd5f8

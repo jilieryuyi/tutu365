@@ -8,7 +8,7 @@
 4667、_russian_Путешествие во времени_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 facd78cae38576e2be43df47812e0a1d

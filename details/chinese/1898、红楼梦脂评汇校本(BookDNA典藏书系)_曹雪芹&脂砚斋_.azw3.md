@@ -8,7 +8,7 @@
 1898、红楼梦脂评汇校本 (BookDNA典藏书系)_曹雪芹 & 脂砚斋_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c25f2fb0521335bf255ad0059a9653e3

@@ -8,7 +8,7 @@
 7163、_russian_Красный газ_Тополь Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4c34d1c8630e6567f8e3c360417772c

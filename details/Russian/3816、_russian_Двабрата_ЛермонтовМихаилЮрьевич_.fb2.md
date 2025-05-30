@@ -8,7 +8,7 @@
 3816、_russian_Два брата_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27b83bd6aeebba50c8c500161c2de546

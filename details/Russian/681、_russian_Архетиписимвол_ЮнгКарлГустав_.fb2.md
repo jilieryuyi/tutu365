@@ -8,7 +8,7 @@
 681、_russian_Архетип и символ_Юнг Карл Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20c0770302c691bf9d1d504fb9d0dc3b

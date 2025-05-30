@@ -8,7 +8,7 @@
 4463、_russian_Я люблю дождь_Такахаси Ёко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcebb12b7a68e53762a48562c5a4f0af

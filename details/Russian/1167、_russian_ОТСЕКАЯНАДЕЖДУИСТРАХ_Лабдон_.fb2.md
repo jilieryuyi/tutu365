@@ -8,7 +8,7 @@
 1167、_russian_ОТСЕКАЯ НАДЕЖДУ И СТРАХ_Лабдон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e146733496bfe1efb1802c61070fe0e

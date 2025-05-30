@@ -8,7 +8,7 @@
 11369、_russian_Музыкодел_Биггл Ллойд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45ac5b432688910edb710ddcb34bd372

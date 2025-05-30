@@ -8,7 +8,7 @@
 6314、_russian_Выбор по Тьюрингу_Мински Марвин, Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66b29e9ae6de0f738d6e406af86f7bfb

@@ -8,7 +8,7 @@
 astercc_TV_shopping.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f7f05208c18ede686495fbd630464124

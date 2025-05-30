@@ -8,7 +8,7 @@
 12071、_russian_Атласная куколка_Дэвис Мэгги_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb1be4b1395889f91dfeb8fca0b2d09b

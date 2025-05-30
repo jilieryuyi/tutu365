@@ -8,7 +8,7 @@
 1202、_russian_Преступление Кинэта_Ромэн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fae9571eb488cbc740479884f1812c37

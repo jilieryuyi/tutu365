@@ -8,7 +8,7 @@
 8054、_russian_Один на миллион_Земляной Андрей Борисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 294dd7df7410ec7b1479f2415a5d858a

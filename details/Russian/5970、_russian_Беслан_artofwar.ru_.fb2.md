@@ -8,7 +8,7 @@
 5970、_russian_Беслан_artofwar.ru_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d83064dd0eafa861a0c9f8067252d33

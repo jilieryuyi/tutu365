@@ -8,7 +8,7 @@
 思想自由史_[英]J.B.Bury_商务印书馆_5349277_94c8de142b1964ff741d8bb0df175a7e.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 94c8de142b1964ff741d8bb0df175a7e

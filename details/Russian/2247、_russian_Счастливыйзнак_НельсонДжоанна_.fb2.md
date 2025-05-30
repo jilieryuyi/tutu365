@@ -8,7 +8,7 @@
 2247、_russian_Счастливый знак_Нельсон Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 487a714652bb8920adc2e3dfbaa63439

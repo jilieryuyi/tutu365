@@ -8,7 +8,7 @@
 15252、_russian_Искусство фотографа_Макнот Джудит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 916d631b97bc40395b0d699a8d25ac51

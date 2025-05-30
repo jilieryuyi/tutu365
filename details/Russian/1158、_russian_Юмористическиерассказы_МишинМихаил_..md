@@ -8,7 +8,7 @@
 1158、_russian_Юмористические рассказы_Мишин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4af48621fff793a212ba2665f05b90d7

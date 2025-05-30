@@ -8,7 +8,7 @@
 5117、_russian_Красный, как огонь_Дэйл Дженни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63ff2fc4806028038e61a24b0163d7ed

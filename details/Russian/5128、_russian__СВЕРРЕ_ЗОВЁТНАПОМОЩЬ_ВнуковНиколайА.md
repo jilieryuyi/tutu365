@@ -8,7 +8,7 @@
 5128、_russian__СВЕРРЕ_  ЗОВЁТ  НА  ПОМОЩЬ_Внуков Николай Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9623a8ace7965c897ad374d20838ff08

@@ -8,7 +8,7 @@
 10365、_russian_Повелитель мутантов_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a13b0437838bc7498b3491ed7420341

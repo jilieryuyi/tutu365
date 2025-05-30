@@ -8,7 +8,7 @@
 3958、_russian_Степень свободы_Пронин Игорь Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55a1d31ca1d1e2a0cf546405d7f9cca3

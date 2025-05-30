@@ -8,7 +8,7 @@
 13061、_russian_Ты только мой..._Григ Кристин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3321f062c6d4dc3c1237d05983e9d02

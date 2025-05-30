@@ -8,7 +8,7 @@
 10884、_russian_Время истинной ночи_Фридман Селия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c6ce19daccdc62476fe48c1b14b1d15

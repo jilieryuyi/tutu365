@@ -8,7 +8,7 @@
 7319、_russian_Комментарий к роману А С Пушкина 'Евгений Онегин'_Лотман Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf901e5fa44b02d3a107d1e06e18390b

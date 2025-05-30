@@ -8,7 +8,7 @@
 13445、_russian_Чёрный шар_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59514e5ed78c9ee6b0fc61bae222ef4a

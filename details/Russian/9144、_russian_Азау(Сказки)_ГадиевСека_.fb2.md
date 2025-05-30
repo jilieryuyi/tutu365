@@ -8,7 +8,7 @@
 9144、_russian_Азау(Сказки)_Гадиев Сека_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3d2286d30bbb5879bb16936c16195c7

@@ -8,7 +8,7 @@
 864、_russian_Про Шишмарева да Гапеева_Успенский Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57db6d12d353ae89d05850baa1265704

@@ -8,7 +8,7 @@
 社会的构成 结构化理论纲要_（英）安东尼·吉登斯（ANTHONY CIDDENS）著；李康，李猛译 _中国人民大学出版社_5460762_ab0a3f9eb4b7eb5a4699fe68bc1163f2.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ab0a3f9eb4b7eb5a4699fe68bc1163f2

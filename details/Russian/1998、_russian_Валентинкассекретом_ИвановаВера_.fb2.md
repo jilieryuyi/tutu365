@@ -8,7 +8,7 @@
 1998、_russian_Валентинка с секретом_Иванова Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ea35117d3b663408a8bf83f68207f04

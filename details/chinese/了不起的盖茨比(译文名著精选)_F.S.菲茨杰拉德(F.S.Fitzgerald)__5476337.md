@@ -8,7 +8,7 @@
 了不起的盖茨比(译文名著精选)_F.S.菲茨杰拉德(F.S.Fitzgerald)__5476337_cd7f984357d70f42bd7103863c4eb296.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cd7f984357d70f42bd7103863c4eb296

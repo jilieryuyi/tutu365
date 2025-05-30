@@ -8,7 +8,7 @@
 13132、_russian_Владычный суд_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65d635eea31f3ecb48b8587da401181a

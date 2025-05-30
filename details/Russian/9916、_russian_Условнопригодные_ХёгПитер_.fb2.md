@@ -8,7 +8,7 @@
 9916、_russian_Условно пригодные_Хёг Питер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8066e45b7110175a94cdd2500d202474

@@ -8,7 +8,7 @@
 3979、_russian_Сверкающий ангел_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58100314e00a57fcca4da9d94cfdaf15

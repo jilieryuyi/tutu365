@@ -8,7 +8,7 @@
 6930、_russian_Все об обычном растительном масле_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac5604165c31e8d9c2ccb6c8873f6a80

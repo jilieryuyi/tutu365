@@ -8,7 +8,7 @@
 4419、_english_The Duke's Scandalous Kiss_Aileen Fish_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5da5ce136077e0e192cfa8d787225419

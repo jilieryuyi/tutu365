@@ -8,7 +8,7 @@
 14067、_russian_Дивный ангел_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b1ea9033785bf611c2ada2e139568f4

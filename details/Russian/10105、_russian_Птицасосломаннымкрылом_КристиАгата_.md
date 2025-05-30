@@ -8,7 +8,7 @@
 10105、_russian_Птица со сломанным крылом_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2214c94e5c221322d3992f60ddd846e

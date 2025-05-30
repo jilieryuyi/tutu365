@@ -8,7 +8,7 @@
 10228、_russian_Хозяйка поместья_Басби Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e847a31e4269c8efb8d50c1a8756d41

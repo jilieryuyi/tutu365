@@ -8,7 +8,7 @@
 8514、_russian_Юбилейная речь по случаю шестилетия системы ДЕЛЬТА_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fbeca87a2d7845ba54ad5e2c558ceeb

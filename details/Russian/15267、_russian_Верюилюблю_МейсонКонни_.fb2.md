@@ -8,7 +8,7 @@
 15267、_russian_Верю и люблю_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c5e7bf7c4808cf124a25216de85675f

@@ -8,7 +8,7 @@
 3631、_russian_Том 5. Бегущая по волнам. Джесси и Моргиана. Рассказы._Грин Александр Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e44bf024ecbac453dbc5eb4a26fbb88

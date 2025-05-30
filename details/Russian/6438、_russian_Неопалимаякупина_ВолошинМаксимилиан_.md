@@ -8,7 +8,7 @@
 6438、_russian_Неопалимая купина_Волошин Максимилиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39bcab4f54acbe31a91d3bf849066d89

@@ -8,7 +8,7 @@
 6423、_russian_Королевский судья_Лессманн Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b96621277add8ad3e23c58a6e14ae659

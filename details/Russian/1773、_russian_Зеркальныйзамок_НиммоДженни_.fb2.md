@@ -8,7 +8,7 @@
 1773、_russian_Зеркальный замок_Ниммо Дженни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a9972347c9d2188c2c7f09087ec6b6f

@@ -8,7 +8,7 @@
 311、对冲_SoBooKs.cc [美]阿莉森·施拉格 [[美]阿莉森·施拉格, SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 14629ba3b10d8546b3a885dbe06f15f4

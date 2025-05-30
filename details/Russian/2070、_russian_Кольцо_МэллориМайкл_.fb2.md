@@ -8,7 +8,7 @@
 2070、_russian_Кольцо_Мэллори Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69108d75488f7845d6ce9c57638f1c3a

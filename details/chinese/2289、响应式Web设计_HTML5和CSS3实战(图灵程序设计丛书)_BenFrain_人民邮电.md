@@ -8,7 +8,7 @@
 2289、响应式Web设计_HTML5和CSS3实战 (图灵程序设计丛书)_Ben Frain_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 15c5f5563da20e598658b82ae2cc4352

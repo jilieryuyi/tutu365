@@ -8,7 +8,7 @@
 产品经理手册（原书第4版）（白金版）_【美】琳达·哥乔斯（Linda Gorchels）__5540600_d01e523a1e39a76d7d9ad58511fce7ee.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d01e523a1e39a76d7d9ad58511fce7ee

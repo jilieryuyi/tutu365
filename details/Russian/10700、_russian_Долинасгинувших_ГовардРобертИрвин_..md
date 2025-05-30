@@ -8,7 +8,7 @@
 10700、_russian_Долина сгинувших_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b846b3b88471c1170f3559fd3a866b2

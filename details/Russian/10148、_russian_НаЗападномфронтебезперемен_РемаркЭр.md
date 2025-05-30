@@ -8,7 +8,7 @@
 10148、_russian_На Западном фронте без перемен_Ремарк Эрих Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63a85da909a22792bbbc820e54d825be

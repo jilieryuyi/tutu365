@@ -8,7 +8,7 @@
 14258、_russian_Пророчица_Вуд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba6a7a15ae7d7cbaee249e4bb296c71b

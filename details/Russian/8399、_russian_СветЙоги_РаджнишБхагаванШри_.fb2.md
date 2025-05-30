@@ -8,7 +8,7 @@
 8399、_russian_Свет Йоги_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1ddb5f6925a9a994fed8b4d75f8fed1

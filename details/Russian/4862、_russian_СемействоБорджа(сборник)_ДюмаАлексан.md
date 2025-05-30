@@ -8,7 +8,7 @@
 4862、_russian_Семейство Борджа (сборник)_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6d15b8e8076cf5f3a41a2918ab94057

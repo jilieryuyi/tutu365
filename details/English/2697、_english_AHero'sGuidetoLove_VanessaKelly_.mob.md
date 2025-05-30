@@ -8,7 +8,7 @@
 2697、_english_A Hero's Guide to Love_Vanessa Kelly_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a0f5421a950268404b6533ca7bccef52

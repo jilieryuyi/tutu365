@@ -8,7 +8,7 @@
 10625、_russian_Ночной всадник_Дюбэй Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3772f6daf149f97086b4f1b9a8aaacc3

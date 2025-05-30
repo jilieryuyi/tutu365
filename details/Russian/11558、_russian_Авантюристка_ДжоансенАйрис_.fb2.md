@@ -8,7 +8,7 @@
 11558、_russian_Авантюристка_Джоансен Айрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e708cb7dd3277b416f2eaf25eddc337

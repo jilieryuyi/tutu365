@@ -8,7 +8,7 @@
 10970、_russian_Под чужим именем_Фолкнер Колин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50fc50d34fc12225d03e52155f61225a

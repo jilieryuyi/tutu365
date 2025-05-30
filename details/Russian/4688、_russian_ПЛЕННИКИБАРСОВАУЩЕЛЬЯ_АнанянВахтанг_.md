@@ -8,7 +8,7 @@
 4688、_russian_ПЛЕННИКИ БАРСОВА УЩЕЛЬЯ_Ананян Вахтанг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f586d569c81ea3bd1817fc8cb5d9d13

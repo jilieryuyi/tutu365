@@ -8,7 +8,7 @@
 2905、_russian_Рассказы_Пастернак Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b8be5ae0c2e7173bf1edc61f6528e19

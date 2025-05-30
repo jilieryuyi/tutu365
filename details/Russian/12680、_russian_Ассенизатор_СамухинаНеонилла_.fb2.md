@@ -8,7 +8,7 @@
 12680、_russian_Ассенизатор_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3100f911bfec78dfa8c6e8a4b5be120c

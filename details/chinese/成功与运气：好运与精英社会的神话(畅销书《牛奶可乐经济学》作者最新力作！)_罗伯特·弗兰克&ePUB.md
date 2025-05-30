@@ -8,7 +8,7 @@
 成功与运气：好运与精英社会的神话 (畅销书《牛奶可乐经济学》作者最新力作！)_罗伯特·弗兰克 & ePUBw.COM [未知]__5288000_e395edfa1fbf29dcabf454a8748bd15a.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e395edfa1fbf29dcabf454a8748bd15a

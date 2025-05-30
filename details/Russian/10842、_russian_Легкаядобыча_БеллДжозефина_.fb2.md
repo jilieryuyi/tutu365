@@ -8,7 +8,7 @@
 10842、_russian_Легкая добыча_Белл Джозефина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c1deb39e5467bc986f54497ce999ec2

@@ -8,7 +8,7 @@
 7929、_russian_Кровь ворона_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ac8a5327076f34be2ca5914c9ce7c55

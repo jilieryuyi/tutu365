@@ -8,7 +8,7 @@
 13370、_russian_Арсен Люпен — благородный грабитель_Леблан Морис, Джепсон Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba2d5c85234947ceffddbe05bca0e3ec

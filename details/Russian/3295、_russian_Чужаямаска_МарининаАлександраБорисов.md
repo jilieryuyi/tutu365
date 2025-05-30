@@ -8,7 +8,7 @@
 3295、_russian_Чужая маска_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81a08e4d9e9c8a11cf1ade2668309b54

@@ -8,7 +8,7 @@
 9900、_russian_Третий глаз Шивы (С иллюстрациями)_Парнов Еремей Иудович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07fba8069e10424febebba7e976af673

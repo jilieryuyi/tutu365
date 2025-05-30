@@ -8,7 +8,7 @@
 13266、_russian_Ночной огонь_Логан Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d976ac7130dc1b83f0478c8fceeff4e

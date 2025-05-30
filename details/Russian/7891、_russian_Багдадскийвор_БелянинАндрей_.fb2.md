@@ -8,7 +8,7 @@
 7891、_russian_Багдадский вор_Белянин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f68618480e1a5b73f42b90d16b58acb0

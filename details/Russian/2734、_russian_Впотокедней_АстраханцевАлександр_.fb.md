@@ -8,7 +8,7 @@
 2734、_russian_В потоке дней_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3975cfe196d0efbb13d241d6a9fb9d57

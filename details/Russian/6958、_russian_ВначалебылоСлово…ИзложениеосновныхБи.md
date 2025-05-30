@@ -8,7 +8,7 @@
 6958、_russian_В начале было Слово… Изложение основных Библейских доктрин__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8aba1c0a493c3d8d5d696ab2c150ab1

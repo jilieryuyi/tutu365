@@ -8,7 +8,7 @@
 2417、维特根斯坦传：天才之为责任_瑞_蒙克 (Ray Monk) (作者) & 王宇光 (译者)_浙江大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2ec4a43887ccb30214aeaac11bffdaa4

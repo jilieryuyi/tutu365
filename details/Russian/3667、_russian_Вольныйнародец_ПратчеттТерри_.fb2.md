@@ -8,7 +8,7 @@
 3667、_russian_Вольный народец_Пратчетт Терри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f3bd3299d8f92d79c5e54a67a2e701c

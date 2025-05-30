@@ -8,7 +8,7 @@
 14443、_russian_Бриллианты для диктатуры пролетариата_Семенов Юлиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abf3e226bafe86c2dccb758b5c37a3b9

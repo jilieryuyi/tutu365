@@ -8,7 +8,7 @@
 1678、_russian_Обыкновенное чудо_Шварц Евгений Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65afed4141970bddf4a52774a7fe63cb

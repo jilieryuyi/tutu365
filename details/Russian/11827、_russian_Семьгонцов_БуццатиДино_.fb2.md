@@ -8,7 +8,7 @@
 11827、_russian_Семь гонцов_Буццати Дино_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46cc28eecd7ebc577d25529fe894ec54

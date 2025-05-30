@@ -8,7 +8,7 @@
 8097、_russian_Алмазная Сутра_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89b950884f4fc1fbbfeee909f2da3f28

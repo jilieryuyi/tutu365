@@ -8,7 +8,7 @@
 1860、_english_Colin's Conundrum_Simone Beaudelaire_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d1dd82dc8d351b68627507ef43ff0d39

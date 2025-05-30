@@ -8,7 +8,7 @@
 10554、_russian_Тесей_Жид Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb6db7b6895311452bc2d5d7cf34912e

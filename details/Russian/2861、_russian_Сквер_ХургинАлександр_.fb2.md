@@ -8,7 +8,7 @@
 2861、_russian_Сквер_Хургин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8d922ccb3f1b55ba380ad97c7187b60

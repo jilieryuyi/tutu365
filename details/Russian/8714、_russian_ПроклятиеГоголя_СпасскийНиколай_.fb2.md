@@ -8,7 +8,7 @@
 8714、_russian_Проклятие Гоголя_Спасский Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e1d34e0af38dcfdfd241202cf7b2979

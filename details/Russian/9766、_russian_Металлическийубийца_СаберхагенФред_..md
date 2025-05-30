@@ -8,7 +8,7 @@
 9766、_russian_Металлический убийца_Саберхаген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdf51ee57c4e1332d0fdd311209dbc38

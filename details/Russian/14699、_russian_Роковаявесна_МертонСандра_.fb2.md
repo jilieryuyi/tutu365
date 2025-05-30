@@ -8,7 +8,7 @@
 14699、_russian_Роковая весна_Мертон Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efad72b66ea35608d3493421d3d2f09e

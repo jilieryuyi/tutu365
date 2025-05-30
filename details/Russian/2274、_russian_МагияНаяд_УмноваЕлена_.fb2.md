@@ -8,7 +8,7 @@
 2274、_russian_Магия Наяд_Умнова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 234d3da461ee4b77ce9ef345051b00dd

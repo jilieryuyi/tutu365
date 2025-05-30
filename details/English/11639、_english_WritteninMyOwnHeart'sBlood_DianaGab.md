@@ -8,7 +8,7 @@
 11639、_english_Written in My Own Heart's Blood_Diana Gabaldon_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 636b07c4b6cbe9ce2b1ec3b0d1759778

@@ -8,7 +8,7 @@
 11522、_english_The Gentleman's Bride Search_Deborah Hale_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 59e89d3b03a97020d0f5de0eadfd5dcb

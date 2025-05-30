@@ -8,7 +8,7 @@
 11147、_russian_Через стремнины к Клондайку_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd283dae70cc728be0b822a4d4e2c9ff

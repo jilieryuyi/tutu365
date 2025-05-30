@@ -8,7 +8,7 @@
 13222、_russian_Лотта в Веймаре_Манн Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d2e89a3edcf3c1aeef90796b7eef5f0

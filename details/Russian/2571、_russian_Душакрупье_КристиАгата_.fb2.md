@@ -8,7 +8,7 @@
 2571、_russian_Душа крупье_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12b4ca4a4c4586f121cef2afab74bc0e

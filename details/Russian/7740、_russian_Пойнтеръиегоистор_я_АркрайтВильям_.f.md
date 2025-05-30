@@ -8,7 +8,7 @@
 7740、_russian_Пойнтеръ и его истор_я_Аркрайт Вильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 321b9d7682bfca9595fc52d41195f8a4

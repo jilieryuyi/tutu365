@@ -8,7 +8,7 @@
 5558、_russian_Повести_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd8c18d7a16962eb060859242569959e

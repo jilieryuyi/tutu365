@@ -8,7 +8,7 @@
 6471、_russian_Другая сторона Луны_, Смирнов Алексей Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 222596969ac944d6aeba3bb5111c970b

@@ -8,7 +8,7 @@
 4730、_english_Don't Look Back_Amanda Quick_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cf1bd4118aba5602b807c709c66430a2

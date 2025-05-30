@@ -8,7 +8,7 @@
 2532、_english_The Duke's Bride_Teresa McCarthy_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 23da7b7d297d9ccc371ac117ddbd2345

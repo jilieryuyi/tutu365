@@ -8,7 +8,7 @@
 13362、_russian_Тьма перед рассветом_Макбейн Лори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59720f1338fae75cca5e78a080ac763f

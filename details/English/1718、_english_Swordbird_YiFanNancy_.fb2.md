@@ -8,7 +8,7 @@
 1718、_english_Swordbird_Yi Fan Nancy_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ea8bd9f0a8ea6e71686eef9f74c7a1a1

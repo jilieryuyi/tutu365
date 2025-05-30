@@ -8,7 +8,7 @@
 13836、_ukrainian_Спанi_ль мiстера Дарлiнга_Б_лкун Микола_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9b2bf6623cee1ec5637d5cff32223a8

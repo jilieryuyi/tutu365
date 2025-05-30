@@ -8,7 +8,7 @@
 从零开始学Android编程 (从零开始学编程) (曾宏远  崔荔蒙).epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 aaec2b1753b80fcf1326162ae9e11793

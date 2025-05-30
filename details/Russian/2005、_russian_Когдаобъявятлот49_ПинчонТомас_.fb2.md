@@ -8,7 +8,7 @@
 2005、_russian_Когда объявят лот 49_Пинчон Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c55ed55a25d53f971a9422b6c166001

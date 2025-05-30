@@ -8,7 +8,7 @@
 12041、_russian_И ты полюбишь однажды_Уайт Тиффани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccd18694dc713fbb99096f62fd1257cf

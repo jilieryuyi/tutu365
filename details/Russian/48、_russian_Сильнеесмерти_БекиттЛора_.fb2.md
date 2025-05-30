@@ -8,7 +8,7 @@
 48、_russian_Сильнее смерти_Бекитт Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bb78eedb0cd8425db7815a0d410140c

@@ -8,7 +8,7 @@
 11163、_russian_Шлюз_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb220ead1e0747c240d0c2dbf39c1d09

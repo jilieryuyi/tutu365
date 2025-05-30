@@ -8,7 +8,7 @@
 707、永无止境google_【美】道格拉斯.爱德华滋_中信出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1688af23796a2182f514b5495ad4fdab

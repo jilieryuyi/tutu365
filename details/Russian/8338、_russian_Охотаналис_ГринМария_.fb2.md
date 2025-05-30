@@ -8,7 +8,7 @@
 8338、_russian_Охота на лис_Грин Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a127a80505242246d626f30d62921fe4

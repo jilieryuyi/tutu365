@@ -8,7 +8,7 @@
 3823、_russian_Варианты поэм_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 725362d3ed1ab414c508a58bf98e9940

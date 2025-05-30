@@ -8,7 +8,7 @@
 10184、_russian_Дело об исчезнувшей леди_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16167ddda08c97b084a573ff1cb21fc3

@@ -8,7 +8,7 @@
 8919、_russian_Дитя реки_Макоули Пол Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d3a817eb468bb496524bb9c10d0a91e

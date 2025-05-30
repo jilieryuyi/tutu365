@@ -8,7 +8,7 @@
 12460、_russian_Медовая ловушка_Млечин Леонид Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90da714389ab7f44f5ea1fa7597817f5

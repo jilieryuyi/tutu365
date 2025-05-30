@@ -8,7 +8,7 @@
 12876、_russian_Лида приехала_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0c36992dd6ce2c2073588f75d3e73da

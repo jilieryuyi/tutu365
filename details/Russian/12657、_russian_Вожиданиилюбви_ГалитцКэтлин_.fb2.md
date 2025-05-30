@@ -8,7 +8,7 @@
 12657、_russian_В ожидании любви_Галитц Кэтлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43c2aae460f63e81b692820e6eb3fe4a

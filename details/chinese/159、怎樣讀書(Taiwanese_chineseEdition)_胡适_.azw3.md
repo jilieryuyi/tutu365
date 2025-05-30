@@ -8,7 +8,7 @@
 159、怎樣讀書 (Taiwanese_chinese Edition)_胡适_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b882910145a1c9bbe7216d7d4de5b715

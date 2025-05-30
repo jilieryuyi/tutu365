@@ -8,7 +8,7 @@
 3348、_russian_Колдунья поневоле_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 699c94caed215036a4e4f67d043ba654

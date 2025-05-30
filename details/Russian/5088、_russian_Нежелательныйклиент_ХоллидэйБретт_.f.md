@@ -8,7 +8,7 @@
 5088、_russian_Нежелательный клиент_Холлидэй Бретт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc11658baf1ccba0bfdc8a5d4bf98c02

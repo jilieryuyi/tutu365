@@ -8,7 +8,7 @@
 3354、_english_Княгиня Лиговская_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06982b865f4de16d799c14ebe26e828f

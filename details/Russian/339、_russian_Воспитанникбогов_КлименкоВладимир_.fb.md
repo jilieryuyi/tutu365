@@ -8,7 +8,7 @@
 339、_russian_Воспитанник богов_Клименко Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52a49c7cb3901d2a56d9aa3faae2d165

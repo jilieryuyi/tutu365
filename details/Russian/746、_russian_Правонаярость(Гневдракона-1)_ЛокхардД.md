@@ -8,7 +8,7 @@
 746、_russian_Право на ярость (Гнев дракона - 1)_Локхард Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 adda12059c37dc530d9ad44773cd900c

@@ -8,7 +8,7 @@
 537、_russian_Гнев Мегрэ_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 961a9df8766b7a319db27fc81979ec7f

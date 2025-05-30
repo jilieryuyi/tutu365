@@ -8,7 +8,7 @@
 1179、_russian_Во Славу Солнца_Уильямс Шон, Дикс Шейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 200f745aa13c84772f6a0d84321341fd

@@ -8,7 +8,7 @@
 14024、_russian_Казнить его дважды_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45bb8ce8ddbff54504a414b50a02a06f

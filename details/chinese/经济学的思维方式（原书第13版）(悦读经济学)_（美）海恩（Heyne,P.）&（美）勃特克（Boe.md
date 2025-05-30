@@ -8,7 +8,7 @@
 经济学的思维方式（原书第13版） (悦读经济学)_（美）海恩（Heyne,P.） & （美）勃特克（Boettke,P.） & （美）普雷契特科（Prychitko,D.） 著 [（美）海恩（Heyne,P.） & （美）勃特克（Boettke,P.） & （美）普雷契特科（Prychitko,D.） 著]__5294617_87418f2ab5ec0bb3c0b91996be8f13ec.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 87418f2ab5ec0bb3c0b91996be8f13ec

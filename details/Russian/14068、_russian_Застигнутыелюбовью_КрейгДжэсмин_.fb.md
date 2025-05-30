@@ -8,7 +8,7 @@
 14068、_russian_Застигнутые любовью_Крейг Джэсмин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e29555597c54cf49b99dfcbe3c05bdf8

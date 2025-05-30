@@ -8,7 +8,7 @@
 267、_russian_Награда солдату_Кайко Такэси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71a4b2549722a74429566bd91e5443cf

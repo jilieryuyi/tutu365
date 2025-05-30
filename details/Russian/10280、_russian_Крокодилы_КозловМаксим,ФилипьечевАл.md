@@ -8,7 +8,7 @@
 10280、_russian_Крокодилы_Козлов Максим, Филипьечев Алексей Олегович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae6d25ba1cb6cbb04def4bc7210e33c2

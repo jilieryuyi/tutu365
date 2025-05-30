@@ -8,7 +8,7 @@
 1898、_russian_Право на смерть_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3b77ebf5ef6732b9378bc9781579415

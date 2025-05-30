@@ -8,7 +8,7 @@
 1142、通俗天文学_和大师一起与宇宙对话_纽康 (Simon Newcomb) 著 金克木 译_北京联合出版公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bcd8ca421a4042f41421a3218760a2c3

@@ -8,7 +8,7 @@
 3171、_russian_Артистка_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 850fca469a5791940cdcc31ff21c20d2

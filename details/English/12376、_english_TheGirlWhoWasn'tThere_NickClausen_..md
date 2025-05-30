@@ -8,7 +8,7 @@
 12376、_english_The Girl Who Wasn't There_Nick Clausen _.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bce32cd9170054dc0652df23df0a03dd

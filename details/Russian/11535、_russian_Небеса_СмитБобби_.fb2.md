@@ -8,7 +8,7 @@
 11535、_russian_Небеса_Смит Бобби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 813adadd073ab10fe3ae5b764535b6b5

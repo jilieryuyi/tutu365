@@ -8,7 +8,7 @@
 14370、_english_The Templar's Cross_J.R. Tomlin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bf969e4891236760748adfc09637dde1

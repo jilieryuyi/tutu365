@@ -8,7 +8,7 @@
 467、_russian_Шаар – скиталец будущего_Балмер Генри Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45aa2a5e79480999432df2f738bb5adf

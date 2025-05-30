@@ -8,7 +8,7 @@
 1168、_russian_Ликвидатор_Алишева Кристин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e6180f2d9cef79cf38dbd2e62c89051

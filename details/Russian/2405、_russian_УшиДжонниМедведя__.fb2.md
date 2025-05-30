@@ -8,7 +8,7 @@
 2405、_russian_Уши Джонни Медведя__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79ad0ff3cf56ba785821f9ee42ea6543

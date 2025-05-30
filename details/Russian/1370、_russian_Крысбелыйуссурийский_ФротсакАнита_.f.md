@@ -8,7 +8,7 @@
 1370、_russian_Крыс белый уссурийский_Фротсак Анита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4323ff58b94f0e0de05030aa9cde73d6

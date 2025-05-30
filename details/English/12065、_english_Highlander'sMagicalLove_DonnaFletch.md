@@ -8,7 +8,7 @@
 12065、_english_Highlander's Magical Love_Donna Fletcher_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 31afe99cd203ea26966a2cfc7bb3b65f

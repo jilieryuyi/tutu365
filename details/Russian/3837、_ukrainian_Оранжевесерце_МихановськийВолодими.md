@@ -8,7 +8,7 @@
 3837、_ukrainian_Оранжеве серце_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d502dffac390b23d874cda06564f6f4

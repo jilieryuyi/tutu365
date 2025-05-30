@@ -8,7 +8,7 @@
 9001、_russian_Обрывок рисовой бумаги_Подымов Владлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d34ddac14e5311acbb00bc8fef95386

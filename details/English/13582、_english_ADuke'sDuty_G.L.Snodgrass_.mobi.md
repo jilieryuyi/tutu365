@@ -8,7 +8,7 @@
 13582、_english_A Duke's Duty_G.L. Snodgrass_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cca0917f82e6f7bca68bf3062d78e1ba

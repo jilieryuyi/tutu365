@@ -8,7 +8,7 @@
 9487、_english_Harry Potter and the Sorcerer's Stone_J. K. Rowling_Scholastic Paperbacks.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 043288bd39315170f6f60be187644775

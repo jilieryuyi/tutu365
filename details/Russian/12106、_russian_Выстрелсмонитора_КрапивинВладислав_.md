@@ -8,7 +8,7 @@
 12106、_russian_Выстрел с монитора_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32eb9ef6a6cf3f0a7c15364f53ca13de

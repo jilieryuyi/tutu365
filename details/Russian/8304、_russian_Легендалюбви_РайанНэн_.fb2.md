@@ -8,7 +8,7 @@
 8304、_russian_Легенда любви_Райан Нэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 198a5676b42423e4d5fcfc81685d2de6

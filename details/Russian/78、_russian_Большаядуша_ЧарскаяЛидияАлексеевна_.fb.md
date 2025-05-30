@@ -8,7 +8,7 @@
 78、_russian_Большая душа_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad0ff5ce7631f9a6bb18a3dadb2a2edb

@@ -8,7 +8,7 @@
 2051、Linux Shell编程从初学到精通 (华清远见系列图书)_伍之昂_电子工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a602e09c6345ff55c0f442a69682d26e

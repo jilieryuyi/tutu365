@@ -8,7 +8,7 @@
 2569、_russian_Загадка трефового короля_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a96bdf6152b582de884ab28fc57c187

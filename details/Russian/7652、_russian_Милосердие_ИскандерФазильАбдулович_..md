@@ -8,7 +8,7 @@
 7652、_russian_Милосердие_Искандер Фазиль Абдулович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 326ad5b03889e5fd5888849ad0210c52

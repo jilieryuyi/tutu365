@@ -8,7 +8,7 @@
 12403、_russian_Фиалка_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b26e628d6c15d2ed20779ffb09a74fab

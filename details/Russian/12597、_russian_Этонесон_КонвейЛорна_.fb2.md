@@ -8,7 +8,7 @@
 12597、_russian_Это не сон_Конвей Лорна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35723d57f1ee4bd8e1016d60bbc170bb

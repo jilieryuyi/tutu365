@@ -8,7 +8,7 @@
 2101、_russian_Предначертание_Давыдов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2eb16d0bf825a6666cde699cb5b426d

@@ -8,7 +8,7 @@
 9131、_russian_Люди и бультерьеры_Валeeва Мaйя_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18e2e99924f7fb782c5862b2b6fc56a6

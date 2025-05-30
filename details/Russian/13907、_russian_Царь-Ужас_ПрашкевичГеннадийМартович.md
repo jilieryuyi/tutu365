@@ -8,7 +8,7 @@
 13907、_russian_Царь-Ужас_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 372c059dbeb12c0cbf71fe124f4508b9

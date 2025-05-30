@@ -8,7 +8,7 @@
 2433、说吧，记忆 (纳博科夫作品系列)_弗拉基米尔·纳博科夫(Vladimir Nabokov)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0823e473082589e75a833fa04f356009

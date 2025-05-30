@@ -8,7 +8,7 @@
 3722、_russian_Иллюзия_Юинг Джин Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6734900d6d98f3e8c67dbaf69a634976

@@ -8,7 +8,7 @@
 1082、_russian_Прекрасное видение_Дробина Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ede8928b0bddc5bf161bbaf34018675

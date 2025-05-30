@@ -8,7 +8,7 @@
 13658、_russian_Пронзая тьму_Перетти Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45a069edd905f9831fce52eee9b5f502

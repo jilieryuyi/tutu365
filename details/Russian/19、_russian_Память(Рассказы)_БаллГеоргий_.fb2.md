@@ -8,7 +8,7 @@
 19、_russian_Память (Рассказы)_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18d7b06ab6799845c5629120704dc22a

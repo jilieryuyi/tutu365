@@ -8,7 +8,7 @@
 6389、_russian_Верна до конца_Дирл Э_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd7a7c9437dea9fb849c7e005ca829ad

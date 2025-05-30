@@ -8,7 +8,7 @@
 12466、_russian_Вкус любви_Монро Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 680cfd826f7af9043d7e579c193b0c15

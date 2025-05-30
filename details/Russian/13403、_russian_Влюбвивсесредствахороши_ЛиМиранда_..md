@@ -8,7 +8,7 @@
 13403、_russian_В любви все средства хороши_Ли Миранда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0ea8aa9dab305d7cd0a88608341cbf0

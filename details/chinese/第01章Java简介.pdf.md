@@ -8,7 +8,7 @@
 第01章 Java简介.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 091c92b9c0fd1eccaa41bd13644df9d0

@@ -8,7 +8,7 @@
 5422、_english_Likely To Die_Fairstein Linda_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 faf06fe166e228dfd69b19733f8e0a51

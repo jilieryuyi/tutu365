@@ -8,7 +8,7 @@
 11665、_russian_Сердце Дьявола 2_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 439f59f146dbc784e01d3af3ed837d44

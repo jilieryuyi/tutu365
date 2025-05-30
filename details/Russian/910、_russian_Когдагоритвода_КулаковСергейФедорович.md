@@ -8,7 +8,7 @@
 910、_russian_Когда горит вода_Кулаков Сергей Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb3ef814d9c4035e257678b0a9e097fb

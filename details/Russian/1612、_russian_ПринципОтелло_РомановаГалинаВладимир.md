@@ -8,7 +8,7 @@
 1612、_russian_Принцип Отелло_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 faa1ad58c14b4a331aeb522ebf2a82c9

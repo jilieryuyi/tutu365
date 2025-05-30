@@ -8,7 +8,7 @@
 3750、_russian_Вторжение_Абэ Кобо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9262e025d2ae113cae4b7da046129fe9

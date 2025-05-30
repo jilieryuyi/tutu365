@@ -8,7 +8,7 @@
 12418、_russian_Яблоко раздора_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 030f723d80476c809bbd429ec12c4874

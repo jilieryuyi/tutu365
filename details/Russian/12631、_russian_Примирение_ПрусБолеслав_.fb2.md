@@ -8,7 +8,7 @@
 12631、_russian_Примирение_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d2a25f0e9760b88cae7a12be48e66eb

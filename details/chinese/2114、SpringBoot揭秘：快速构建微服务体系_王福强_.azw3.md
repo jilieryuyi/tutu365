@@ -8,7 +8,7 @@
 2114、SpringBoot揭秘：快速构建微服务体系_王福强_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 68769904c6281cdf9a7c6984363bf870

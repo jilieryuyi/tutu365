@@ -8,7 +8,7 @@
 8343、_russian_Понимающий взгляд_Данвилл Джойс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4aba26e4f173091664e1b516ad6fb08d

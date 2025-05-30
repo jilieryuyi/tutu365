@@ -8,7 +8,7 @@
 1598、_russian_Решающий момент_Картье-Брессон Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc14cc6a13d651e4aef3eb68cb538c9d

@@ -8,7 +8,7 @@
 12996、_russian_Финикийский корабль_Ян Василий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6291c75240caeedd153ce07734e2c45b

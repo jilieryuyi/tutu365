@@ -8,7 +8,7 @@
 3946、_russian_Координаты чудес_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75bf8bdc930f3c91d4f524d4b8fac921

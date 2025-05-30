@@ -8,7 +8,7 @@
 10318、_french_Arashi, vie et mort d'un acteur_Saikaku Ihara_Philippe Picquier.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ae682dc243bf83f0f060439e3eb590ee

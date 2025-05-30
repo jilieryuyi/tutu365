@@ -8,7 +8,7 @@
 3218、響子和爸爸 - 全一卷_石黑正數_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 03aaac6f7374f5686c47e3c5507fccec

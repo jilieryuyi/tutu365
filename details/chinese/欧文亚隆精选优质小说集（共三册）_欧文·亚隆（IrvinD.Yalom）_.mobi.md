@@ -8,7 +8,7 @@
 欧文亚隆精选优质小说集（共三册）_欧文·亚隆（Irvin D.Yalom）_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5edf68d4ef424182bc018820b12c22d2

@@ -8,7 +8,7 @@
 11481、_russian_Потерявший плачет_Куин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8e902e8a3af837f0c3126bb9785cd6b

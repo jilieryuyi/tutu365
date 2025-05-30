@@ -8,7 +8,7 @@
 2750、_russian_IN VINO VERITAS_Никулин Андрей Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbccfd8a65857bad9aa91e52e8d93b1d

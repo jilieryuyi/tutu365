@@ -8,7 +8,7 @@
 11724、_russian_Малая Земля_Брежнев Леонид Ильич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad4f67179a1a1f8c6dfe7ed054d1007b

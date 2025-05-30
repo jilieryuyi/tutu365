@@ -8,7 +8,7 @@
 13865、_russian_Покаяние_Багиров Заур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffa66b16a0cc6257b9dae2d8b2682a67

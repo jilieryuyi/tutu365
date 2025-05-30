@@ -8,7 +8,7 @@
 106、江城 (译文纪实)_彼得·海斯勒(Peter Hessler)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1eb8cb958673710fdd6612be41d4fe5d

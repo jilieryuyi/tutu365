@@ -8,7 +8,7 @@
 12698、_russian_Снег идет_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86ac9bf8b6745e25f1ac95002c11570d

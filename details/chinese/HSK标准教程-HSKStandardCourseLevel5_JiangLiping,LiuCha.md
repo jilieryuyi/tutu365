@@ -8,7 +8,7 @@
 HSK标准教程-HSK Standard Course Level 5_Jiang Liping, Liu Chang,  Lu Jiang__5239151_5b7d2dbc707bb1ce86b6e2c147c5fccd.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5b7d2dbc707bb1ce86b6e2c147c5fccd

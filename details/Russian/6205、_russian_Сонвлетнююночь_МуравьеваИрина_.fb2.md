@@ -8,7 +8,7 @@
 6205、_russian_Сон в летнюю ночь_Муравьева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 906a5ea799c57f7192ab28b9f770b459

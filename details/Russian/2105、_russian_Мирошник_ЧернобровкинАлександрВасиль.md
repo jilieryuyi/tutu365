@@ -8,7 +8,7 @@
 2105、_russian_Мирошник_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a057bbdb08337105f3ef3c3c62b8d9a7

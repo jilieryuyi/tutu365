@@ -8,7 +8,7 @@
 14620、_english_The Outlaw's Bride_Jayne Castel_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9781d3b8038e0eeee6d8dfe177dcfed4

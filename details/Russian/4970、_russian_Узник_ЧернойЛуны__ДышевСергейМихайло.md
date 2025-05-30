@@ -8,7 +8,7 @@
 4970、_russian_Узник _Черной Луны__Дышев Сергей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39f3ce01634fba4c406210b63ce54e51

@@ -8,7 +8,7 @@
 2805、_russian_Свадьбе не бывать_Вудхауз Пэлэм Грэнвилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9df8fb494bcbaf5079ee17643855222

@@ -8,7 +8,7 @@
 11491、_russian_Тайны _Секретной семерки__Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8663d946dfb7186464d0e27ca9da0e21

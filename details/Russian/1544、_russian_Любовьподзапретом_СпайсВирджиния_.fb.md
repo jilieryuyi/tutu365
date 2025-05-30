@@ -8,7 +8,7 @@
 1544、_russian_Любовь под запретом_Спайс Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 176dd900411c514f45efebfec3b891ea

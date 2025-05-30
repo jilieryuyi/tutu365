@@ -8,7 +8,7 @@
 5057、_russian_Рыцари Нового Света_Кофман Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b10aff513958ca3bad9b4eb7778027c

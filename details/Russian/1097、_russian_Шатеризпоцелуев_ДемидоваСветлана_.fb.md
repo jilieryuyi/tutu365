@@ -8,7 +8,7 @@
 1097、_russian_Шатер из поцелуев_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e038a904c5f789fee7b43fc96ba0348

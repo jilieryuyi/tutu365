@@ -8,7 +8,7 @@
 9922、_russian_Авангардист_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba3e8009001f63e08c52f68597fc38fe

@@ -8,7 +8,7 @@
 12582、_russian_Любовь и другие человеческие отношения_Петрушин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25c0342c8e7a2c3f0c8308d15b3ab7f3

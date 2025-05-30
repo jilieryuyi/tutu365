@@ -8,7 +8,7 @@
 房债_[美]阿蒂夫·迈恩（Atif Mian） _ 阿米尔·苏非（Amir Sufi）__5338931_074b7569e14532988ea939b1d6d2b418.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 074b7569e14532988ea939b1d6d2b418

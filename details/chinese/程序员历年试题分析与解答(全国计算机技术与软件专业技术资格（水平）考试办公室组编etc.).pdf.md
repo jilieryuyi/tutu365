@@ -8,7 +8,7 @@
 程序员历年试题分析与解答 (全国计算机技术与软件专业技术资格（水平）考试办公室组编 etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1f6bc8f731066aaff6b2186f0cc96416

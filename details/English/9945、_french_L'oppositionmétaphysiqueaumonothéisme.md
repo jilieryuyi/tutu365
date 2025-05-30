@@ -8,7 +8,7 @@
 9945、_french_L'opposition métaphysique au monothéisme hébreu, de Spinoza à Heidegger_Claude Tresmontant [Tresmontant, Claude]_F.X. de Guibert.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8aed42ec034777aa98527aa3686f9820

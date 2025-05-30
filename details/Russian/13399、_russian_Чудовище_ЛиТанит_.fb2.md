@@ -8,7 +8,7 @@
 13399、_russian_Чудовище_Ли Танит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4df587d8811e706c36ac62d69fce00e

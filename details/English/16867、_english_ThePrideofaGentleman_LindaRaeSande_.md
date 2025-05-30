@@ -8,7 +8,7 @@
 16867、_english_The Pride of a Gentleman_Linda Rae Sande_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 05d0430f8c1e487077d296283bb83f2e

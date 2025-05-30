@@ -8,7 +8,7 @@
 2130、Web性能权威指南 (图灵程序设计丛书)_[加]Ilya Grigorik_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 72a64f2d1cafe904de5b8791d612425f

@@ -8,7 +8,7 @@
 14002、_russian_Стражи. Боги холода_Макаренков Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02e9bf610083446686d2aff179387458

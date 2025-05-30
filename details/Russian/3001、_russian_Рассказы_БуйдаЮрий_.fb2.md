@@ -8,7 +8,7 @@
 3001、_russian_Рассказы_Буйда Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50698781f405838c6c64257e53db72af

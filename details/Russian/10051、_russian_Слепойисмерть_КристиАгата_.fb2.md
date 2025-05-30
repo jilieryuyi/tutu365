@@ -8,7 +8,7 @@
 10051、_russian_Слепой и смерть_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4669e0b4890858dee3c8331cc5d2b61

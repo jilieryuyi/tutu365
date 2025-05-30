@@ -8,7 +8,7 @@
 876、_russian_Адамово Яблоко_Балабченков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6924429245ca0969afdf82f386c4a48a

@@ -8,7 +8,7 @@
 12336、_russian_История с привидением_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74811bdb0b9acc041404727c2189e9e0

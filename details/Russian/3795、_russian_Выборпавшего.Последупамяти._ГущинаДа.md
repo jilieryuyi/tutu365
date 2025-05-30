@@ -8,7 +8,7 @@
 3795、_russian_Выбор павшего. По следу памяти._Гущина Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efe8e78947586ccbe373924182df8c6f

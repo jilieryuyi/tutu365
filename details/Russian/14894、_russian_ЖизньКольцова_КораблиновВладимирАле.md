@@ -8,7 +8,7 @@
 14894、_russian_Жизнь Кольцова_Кораблинов Владимир Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74822e251771012c59a79f5bfdbbbe36

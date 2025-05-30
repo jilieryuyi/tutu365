@@ -8,7 +8,7 @@
 13845、_ukrainian_Едем_Лем Стан_слав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa301350f48b8ba0e09072c9532bc798

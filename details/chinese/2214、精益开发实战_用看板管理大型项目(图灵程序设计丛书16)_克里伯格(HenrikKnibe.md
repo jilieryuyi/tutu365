@@ -8,7 +8,7 @@
 2214、精益开发实战_用看板管理大型项目 (图灵程序设计丛书 16)_克里伯格 (Henrik Kniberg)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3b89d413d2127a917e1449a0972534bd

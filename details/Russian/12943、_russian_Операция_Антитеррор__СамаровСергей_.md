@@ -8,7 +8,7 @@
 12943、_russian_Операция _Антитеррор__Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b021e9b8b6eaad0c70f2f7b86c70462e

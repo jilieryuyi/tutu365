@@ -8,7 +8,7 @@
 2522、富兰克林自传（英文原版）_本杰明·富兰克林 (Franklin.B.)_中央编译出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 846b1da10a7bd5752c788bdd36904a36

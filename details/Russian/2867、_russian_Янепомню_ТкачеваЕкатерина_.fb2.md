@@ -8,7 +8,7 @@
 2867、_russian_Я не помню_Ткачева Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80d54e0cdcd3ef9988ab702271b6c2f5

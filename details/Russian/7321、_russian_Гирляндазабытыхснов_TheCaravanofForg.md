@@ -8,7 +8,7 @@
 7321、_russian_Гирлянда забытых снов _ The Caravan of Forgotten Dreams [= Приносящие огонь, Приносящие пламя, Поджигатели _ The Flamebringer]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc68ed43d3316998c6cbd6bd06c4c591

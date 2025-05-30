@@ -8,7 +8,7 @@
 7397、_russian_Живущий в последний раз_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d233ce3465da05ebe03c4d66ee44a1db

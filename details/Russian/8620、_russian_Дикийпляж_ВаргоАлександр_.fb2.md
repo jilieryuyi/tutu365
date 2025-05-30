@@ -8,7 +8,7 @@
 8620、_russian_Дикий пляж_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e56bf3611a83bb81b6c5c354896663f

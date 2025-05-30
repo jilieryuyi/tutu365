@@ -8,7 +8,7 @@
 2774、_russian_Кто завивает облака__Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4ccb5b1d11dfcedd8cc61ee00a04893

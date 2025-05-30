@@ -8,7 +8,7 @@
 11328、_russian_Мятежные сердца_Браун Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4c59d155f54e1ae18056448274bacdd

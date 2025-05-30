@@ -8,7 +8,7 @@
 2249、_russian_Одалиска_Стивенсон Нил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39873e743f93c4c82ab7f9a0abb8982a

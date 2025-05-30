@@ -8,7 +8,7 @@
 393、_russian_Поединок сердец_Эдвардс Мэриан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44a528de9a2c60a4193be758f641aa2d

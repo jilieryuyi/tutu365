@@ -8,7 +8,7 @@
 1177、德意志文化 上_HERMANN GLASER_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f0e2d38a39219d74734337901e44bac6

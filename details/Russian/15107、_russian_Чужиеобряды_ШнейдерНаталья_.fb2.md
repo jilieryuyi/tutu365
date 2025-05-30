@@ -8,7 +8,7 @@
 15107、_russian_Чужие обряды_Шнейдер Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c1b094a3e42f3e7fad8a71418763aa7

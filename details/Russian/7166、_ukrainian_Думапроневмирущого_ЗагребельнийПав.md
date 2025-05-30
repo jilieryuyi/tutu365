@@ -8,7 +8,7 @@
 7166、_ukrainian_Дума про невмирущого_Загребельний Павло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b411c2abf3ecf909f3f6f0a352cbf0b3

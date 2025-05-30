@@ -8,7 +8,7 @@
 12769、_english_A Lady's Choice_Elizabeth Elliot_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 265a289f80a8a54d2d8f8df4e994ee8a

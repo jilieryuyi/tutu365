@@ -8,7 +8,7 @@
 4907、_russian_Совенок_ПАРФЕНОВА Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89a728ef6488b31a96d4a7a5caff1fd1

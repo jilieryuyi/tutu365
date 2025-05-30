@@ -8,7 +8,7 @@
 13841、_russian_Фальшивый подвиг_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9bea84edd8e839448a3fcb65eb203d4e

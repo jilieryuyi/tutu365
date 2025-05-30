@@ -8,7 +8,7 @@
 1208、_russian_Белое вино ла Виллет_Ромэн Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa085e15bf89f36b95f16edc46aec9b9

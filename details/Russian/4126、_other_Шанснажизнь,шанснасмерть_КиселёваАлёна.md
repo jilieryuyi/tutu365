@@ -8,7 +8,7 @@
 4126、_other_Шанс на жизнь, шанс на смерть_Киселёва Алёна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a08b4fd0d3e86b8439f9012a3d9ba134

@@ -8,7 +8,7 @@
 14184、_russian_Два рассказа_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58906bba191cdcb5ae7af0fa066a0bbb

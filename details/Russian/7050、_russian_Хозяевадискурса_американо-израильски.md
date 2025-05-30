@@ -8,7 +8,7 @@
 7050、_russian_Хозяева дискурса_ американо-израильский терроризм_Шамир Исраэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d862ebbeaefe326a757b8694a025ddf

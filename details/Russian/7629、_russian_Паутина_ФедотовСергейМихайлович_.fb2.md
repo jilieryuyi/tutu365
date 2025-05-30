@@ -8,7 +8,7 @@
 7629、_russian_Паутина_Федотов Сергей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d53e49b7f037a768221e78c1b15ca6b

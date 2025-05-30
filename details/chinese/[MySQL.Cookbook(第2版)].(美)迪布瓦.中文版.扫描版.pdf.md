@@ -8,7 +8,7 @@
 [MySQL.Cookbook(第2版)].(美)迪布瓦.中文版.扫描版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9531d7af08287d11816d3a4c9a03b353

@@ -8,7 +8,7 @@
 7279、_russian_Псы войны_Первушин Антон Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac6e0faa86beb17028d01ab43e467a22

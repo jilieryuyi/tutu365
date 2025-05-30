@@ -8,7 +8,7 @@
 2273、_russian_Вампир, назначенный мне_Умнова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c0d238d1d1a9df755fdf771251bed9d

@@ -8,7 +8,7 @@
 5343、_russian_Стихи_Багрицкий Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ce3c4ff6b816966f06d37f197e58fc8

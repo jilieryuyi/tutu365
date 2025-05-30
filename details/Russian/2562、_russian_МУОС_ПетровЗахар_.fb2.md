@@ -8,7 +8,7 @@
 2562、_russian_МУОС_Петров Захар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 111b7c5618b93a145ee01a531893b91a

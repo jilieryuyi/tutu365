@@ -8,7 +8,7 @@
 9732、_russian_Сладкая соль Босфора_Эльчин Сафарли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 869654cee677ff3d85cc58808da6cde9

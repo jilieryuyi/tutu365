@@ -8,7 +8,7 @@
 4054、_russian_След из прошлого_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1964b8ab26b29a74f2dbc2b08fcd580f

@@ -8,7 +8,7 @@
 2555、_russian_Дело о двойниках_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0315e820b51814003d3f98ce79fb2b69

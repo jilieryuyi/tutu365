@@ -8,7 +8,7 @@
 1737、_russian_Павел I_Сахаров (редактор) А. Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad27de54c240b14a7fbb15e88bb64e5a

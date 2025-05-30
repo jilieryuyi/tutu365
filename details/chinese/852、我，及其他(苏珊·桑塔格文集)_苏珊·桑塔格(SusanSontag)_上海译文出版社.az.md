@@ -8,7 +8,7 @@
 852、我，及其他 (苏珊·桑塔格文集)_苏珊·桑塔格(Susan Sontag)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eb1425c659da1de053a8a96d95f78041

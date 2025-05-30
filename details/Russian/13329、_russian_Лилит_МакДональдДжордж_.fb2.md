@@ -8,7 +8,7 @@
 13329、_russian_Лилит_МакДональд Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9ef37e62b05a1f6f9c52951b9e7a83b

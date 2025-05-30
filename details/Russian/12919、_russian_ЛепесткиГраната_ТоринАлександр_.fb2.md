@@ -8,7 +8,7 @@
 12919、_russian_Лепестки Граната_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3204b0cf0633920f445988a33f0b320

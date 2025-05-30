@@ -8,7 +8,7 @@
 2093、_russian_Timeout, или Вечерняя Москва_Пелевин Виктор Олегович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc8118b76cc36caa47f836b50d43fce3

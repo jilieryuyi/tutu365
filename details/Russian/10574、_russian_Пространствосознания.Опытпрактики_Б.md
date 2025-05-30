@@ -8,7 +8,7 @@
 10574、_russian_Пространство сознания. Опыт практики_Беляев Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82a6b0bbd7a9f1a09c47441e7ea4b170

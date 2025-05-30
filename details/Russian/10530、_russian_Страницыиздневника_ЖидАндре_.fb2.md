@@ -8,7 +8,7 @@
 10530、_russian_Страницы из дневника_Жид Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6541bcd2c600e4698133969fef89c96

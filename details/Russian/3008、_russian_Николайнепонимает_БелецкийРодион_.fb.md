@@ -8,7 +8,7 @@
 3008、_russian_Николай не понимает_Белецкий Родион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02a24b9fccb9bf76f6bb4cfeeb6f068d

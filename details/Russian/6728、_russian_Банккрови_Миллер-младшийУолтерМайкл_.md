@@ -8,7 +8,7 @@
 6728、_russian_Банк крови_Миллер-младший Уолтер Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8043f79590acfc49961420e61d227b1f

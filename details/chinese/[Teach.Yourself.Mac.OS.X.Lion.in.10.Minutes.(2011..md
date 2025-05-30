@@ -8,7 +8,7 @@
 [Teach.Yourself.Mac.OS.X.Lion.in.10.Minutes.(2011.8)].Brad.Miser.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5ec1c366619ae24adcc8851cf0b42b2b

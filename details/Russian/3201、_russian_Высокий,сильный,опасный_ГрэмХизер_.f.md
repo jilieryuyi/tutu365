@@ -8,7 +8,7 @@
 3201、_russian_Высокий, сильный, опасный_Грэм Хизер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3f8ef3b0018adea34bfee20f8bf8e0c

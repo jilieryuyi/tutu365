@@ -8,7 +8,7 @@
 10552、_russian_Молодость_Жид Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83fb9bde8fe6f4b8806aa4c01114420f

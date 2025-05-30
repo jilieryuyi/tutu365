@@ -8,7 +8,7 @@
 15183、_russian_Власть доллара_Саттон Энтони_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee3a372cba367f3198ae7a84b21765ab

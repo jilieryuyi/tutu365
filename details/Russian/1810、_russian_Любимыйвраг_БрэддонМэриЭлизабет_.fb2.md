@@ -8,7 +8,7 @@
 1810、_russian_Любимый враг_Брэддон Мэри Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5dc9eb1ebcef2d7ca14fcce95cd1b86a

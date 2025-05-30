@@ -8,7 +8,7 @@
 10607、_russian_Пригоршня вечности_Бояндин Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c0b9ab6e45a41c9aa08d03def67e8c2

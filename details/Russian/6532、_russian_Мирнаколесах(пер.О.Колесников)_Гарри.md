@@ -8,7 +8,7 @@
 6532、_russian_Мир на колесах (пер. О.Колесников)_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 49f3107d8f7183dd3ed0923e4c61657f

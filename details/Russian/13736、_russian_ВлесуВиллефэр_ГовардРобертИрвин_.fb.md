@@ -8,7 +8,7 @@
 13736、_russian_В лесу Виллефэр_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7757942cb305ccc37f5fe0952db3e0d6

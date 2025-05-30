@@ -8,7 +8,7 @@
 6495、_russian_Миг_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccfa24753690e0b25dc878b8ac07316e

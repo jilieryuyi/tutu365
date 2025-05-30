@@ -8,7 +8,7 @@
 621、_russian_Конец зимы_Мори Ёсио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 552262ee350992d2e77bff44061626cf

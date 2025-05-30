@@ -8,7 +8,7 @@
 11353、_russian_Клетчатый суслик_Байтов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d97f44410541fb91f18378ba82b5dd35

@@ -8,7 +8,7 @@
 6732、_russian_Наследник_Мартьянов Андрей Леонидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 223a4532fb2667b9774743e10adf191c

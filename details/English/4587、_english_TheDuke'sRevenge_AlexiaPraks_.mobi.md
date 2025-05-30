@@ -8,7 +8,7 @@
 4587、_english_The Duke's Revenge_Alexia Praks_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 45cdab2483ed69e7b7faab3072976b12

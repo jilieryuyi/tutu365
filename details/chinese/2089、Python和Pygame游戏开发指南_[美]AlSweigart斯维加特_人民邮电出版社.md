@@ -8,7 +8,7 @@
 2089、Python和Pygame游戏开发指南_[美] Al Sweigart 斯维加特_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4d0d6fecacb4f3832be6aac2d1bdad28

@@ -8,7 +8,7 @@
 4699、_russian_Зеленые двери Земли (сборник)_Назаров Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8f46b00a6954ffec8ad064937cf6c78

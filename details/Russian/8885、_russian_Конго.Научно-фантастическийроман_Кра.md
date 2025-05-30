@@ -8,7 +8,7 @@
 8885、_russian_Конго. Научно-фантастический роман_Крайтон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa7860785457c15c438e478fbd405ebe

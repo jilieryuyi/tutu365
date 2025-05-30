@@ -8,7 +8,7 @@
 10850、_russian_Народные мстители_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2072bbdddb816089b461cec53cb181c7

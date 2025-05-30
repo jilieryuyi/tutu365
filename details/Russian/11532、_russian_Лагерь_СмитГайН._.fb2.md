@@ -8,7 +8,7 @@
 11532、_russian_Лагерь_Смит Гай Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70fda8410cdb6612316e4e1d390fd78b

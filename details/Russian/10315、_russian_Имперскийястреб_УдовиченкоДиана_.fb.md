@@ -8,7 +8,7 @@
 10315、_russian_Имперский ястреб_Удовиченко Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 566d09d60c52a497d7e2ef09683c5bf9

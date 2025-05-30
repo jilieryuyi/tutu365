@@ -8,7 +8,7 @@
 961、紫禁城的黄昏(京华往事)(中文导读版)(图文版)_Reginald F.Johnston_外语教学与研究出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a497e651dcb7804a2c49f37027152459

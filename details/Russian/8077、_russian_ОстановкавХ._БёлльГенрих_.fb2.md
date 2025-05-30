@@ -8,7 +8,7 @@
 8077、_russian_Остановка в Х._Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00835c7a7a319d9e5de30be54c011c38

@@ -8,7 +8,7 @@
 6270、_russian_Охота на президентов или Жизнь №8_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67fe99c875542c8ab7b4a84b6ff282a7

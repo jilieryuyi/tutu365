@@ -8,7 +8,7 @@
 少年维特之烦恼_（德）歌德,（Goethe,,J.W.V,.） ，杨武能__5476435_9755d98ccfe25de426d3f8a2bc38e5c3.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9755d98ccfe25de426d3f8a2bc38e5c3

@@ -8,7 +8,7 @@
 3740、_russian_Путь к ясному сознанию_Бодхи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f2726740535e20886b56893fcc1f982

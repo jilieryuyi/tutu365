@@ -8,7 +8,7 @@
 10790、_russian_Баночка румян_Хаксли Олдос Леонард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2033bd501122110233991ad96968c55

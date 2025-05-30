@@ -8,7 +8,7 @@
 14436、_russian_Дезертиры_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd873dc251e6d2928ee98ba0c07315c2

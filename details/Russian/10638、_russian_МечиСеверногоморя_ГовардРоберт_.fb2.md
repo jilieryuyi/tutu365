@@ -8,7 +8,7 @@
 10638、_russian_Мечи Северного моря_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10b5dcddb521f80c1ca54ae2fe716d32

@@ -8,7 +8,7 @@
 15218、_russian_Счастливая встреча_Бенедикт Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89a85a5e9d92297ff23bd0f8732e1ddf

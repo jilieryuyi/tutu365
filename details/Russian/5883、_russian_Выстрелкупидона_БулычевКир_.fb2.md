@@ -8,7 +8,7 @@
 5883、_russian_Выстрел купидона_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72771be8c9eaf85b6c9f56548ba86551

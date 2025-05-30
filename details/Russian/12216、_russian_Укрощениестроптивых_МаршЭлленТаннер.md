@@ -8,7 +8,7 @@
 12216、_russian_Укрощение строптивых_Марш Эллен Таннер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6face99ac77eab00d59928288bb3f971

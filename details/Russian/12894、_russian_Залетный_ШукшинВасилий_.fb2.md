@@ -8,7 +8,7 @@
 12894、_russian_Залетный_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5128ccad298d961c3ab7552c1dbf8dbb

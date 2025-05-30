@@ -8,7 +8,7 @@
 4983、_russian_bash.org.ru - Цитатник Рунета_1_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9466eb6ad3bf57fecf0ea29475223b2c

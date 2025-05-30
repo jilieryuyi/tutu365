@@ -8,7 +8,7 @@
 132、_russian_Покинутая женщина_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af32e8bd87de0589072de1b81e536fbe

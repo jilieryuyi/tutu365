@@ -8,7 +8,7 @@
 7088、_russian_Уолдо_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc8de80c94ea0d2f67fd5dc58633492b

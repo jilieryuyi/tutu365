@@ -8,7 +8,7 @@
 270、日耳曼尼亚 _ 古今德意志_西蒙·温德尔, Simon Winder_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6679fa264d85c13068450b130ac21a2f

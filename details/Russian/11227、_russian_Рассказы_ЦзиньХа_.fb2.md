@@ -8,7 +8,7 @@
 11227、_russian_Рассказы_Цзинь Ха_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 891322a46e15332c84f866e418f3b6a8

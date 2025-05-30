@@ -8,7 +8,7 @@
 8815、_russian_Снова наемник_Бабкин Борис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ffe1031a4d67f04c42d0c683e5685cd

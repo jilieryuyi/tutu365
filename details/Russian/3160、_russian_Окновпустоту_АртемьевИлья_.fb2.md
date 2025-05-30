@@ -8,7 +8,7 @@
 3160、_russian_Окно в пустоту_Артемьев Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 620b37e68f6beba450ecf0f4fa05912c

@@ -8,7 +8,7 @@
 10932、_russian_Испытание любви_Гамильтон Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5cc127054c304488607baee1add7b88

@@ -8,7 +8,7 @@
 1677、_russian_Не русские идут_Головачев Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d3c9f39a3ced187c5c0f01c3c0c05f6

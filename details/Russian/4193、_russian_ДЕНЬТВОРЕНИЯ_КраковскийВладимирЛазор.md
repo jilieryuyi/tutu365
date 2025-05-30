@@ -8,7 +8,7 @@
 4193、_russian_ДЕНЬ ТВОРЕНИЯ_Краковский Владимир Лазоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfcd0465aa183a81a7abb8dc15e17dce

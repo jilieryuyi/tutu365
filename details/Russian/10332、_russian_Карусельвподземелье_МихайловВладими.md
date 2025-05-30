@@ -8,7 +8,7 @@
 10332、_russian_Карусель в подземелье_Михайлов Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 091b60d12ecdf88cda23b6b0be936a23

@@ -8,7 +8,7 @@
 4231、_russian_Начало великих свершений_Орлов Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a3f9fb4588ec32f5ad10a75221611f3

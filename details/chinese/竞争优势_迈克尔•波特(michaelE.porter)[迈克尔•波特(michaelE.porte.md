@@ -8,7 +8,7 @@
 竞争优势_迈克尔•波特 (michael E.porter) [迈克尔•波特 (michael E.porter)]__5294596_19abbaac61bdec795815ecc83fee08b7.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 19abbaac61bdec795815ecc83fee08b7

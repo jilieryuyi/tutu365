@@ -8,7 +8,7 @@
 12905、_russian_Боря_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d5cb656068744652632dfc58349cfe9

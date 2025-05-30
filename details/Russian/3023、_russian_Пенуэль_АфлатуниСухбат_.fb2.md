@@ -8,7 +8,7 @@
 3023、_russian_Пенуэль_Афлатуни Сухбат_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05b6a7be703638799a8c3572b336aebb

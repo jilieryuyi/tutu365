@@ -8,7 +8,7 @@
 10101、_russian_Мир, которого нет_Кувшинов Виктор Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1cd73b4aae8ebc3ab5f88a2cabd971e6

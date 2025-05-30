@@ -8,7 +8,7 @@
 2232、迷茫的旅行商：一个无处不在的计算机算法问题_William J.Cook_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 968a90004ad8e0b74c0ec02405c4869e

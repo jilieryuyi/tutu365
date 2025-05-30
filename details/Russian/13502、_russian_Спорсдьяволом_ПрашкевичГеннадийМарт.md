@@ -8,7 +8,7 @@
 13502、_russian_Спор с дьяволом_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36620a6c5d9e57b23a9a5f07bb6abb29

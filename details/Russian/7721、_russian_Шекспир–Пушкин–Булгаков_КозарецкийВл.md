@@ -8,7 +8,7 @@
 7721、_russian_Шекспир – Пушкин – Булгаков_Козарецкий Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed8be8df378381b9424f5f9727b9cbb4

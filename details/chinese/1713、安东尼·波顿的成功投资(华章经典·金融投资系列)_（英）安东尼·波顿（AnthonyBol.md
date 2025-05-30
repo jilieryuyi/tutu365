@@ -8,7 +8,7 @@
 1713、安东尼·波顿的成功投资 (华章经典·金融投资系列)_（英）安东尼·波顿（Anthony Bolton）著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a8740217019bf4e502a2dc0753777146

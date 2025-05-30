@@ -8,7 +8,7 @@
 10899、_russian_Нарушитель_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bde93a5eb9f1cb52b65a9971decdc872

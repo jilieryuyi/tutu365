@@ -8,7 +8,7 @@
 4414、_russian_ДОКТОР ФАУСТУС_МАНН Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c550a78d943b34f87dd0e882c5aa023

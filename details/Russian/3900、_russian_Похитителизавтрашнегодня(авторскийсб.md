@@ -8,7 +8,7 @@
 3900、_russian_Похитители завтрашнего дня (авторский сборник)_Комацу Сакё_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17e49beabc2567a9d97f759bb1d9d21b

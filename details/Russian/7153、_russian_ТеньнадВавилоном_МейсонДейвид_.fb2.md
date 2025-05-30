@@ -8,7 +8,7 @@
 7153、_russian_Тень над Вавилоном_Мейсон Дейвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 036c807ea3d7273b9646115e02f2973a

@@ -8,7 +8,7 @@
 1189、_russian_Полет на заре_Каширин Сергей Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ec88036f479e2b5cd7e63f3697a3c13

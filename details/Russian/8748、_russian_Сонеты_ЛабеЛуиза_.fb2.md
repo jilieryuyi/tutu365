@@ -8,7 +8,7 @@
 8748、_russian_Сонеты_Лабе Луиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2649745c90b4eb2c5dcfda71d31cd30

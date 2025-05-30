@@ -8,7 +8,7 @@
 2295、_russian_Осень в Пекине_Виан Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2954ca89c6a902f6825e16bf2c427980

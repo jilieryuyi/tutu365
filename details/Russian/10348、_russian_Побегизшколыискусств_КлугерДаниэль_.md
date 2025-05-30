@@ -8,7 +8,7 @@
 10348、_russian_Побег из школы искусств_Клугер Даниэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d36a9727f93c6822da41438c3c4df2e3

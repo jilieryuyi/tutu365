@@ -8,7 +8,7 @@
 1199、_russian_Телехронопатор_Зайдель Януш_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4cafac8f180d05f5bb704aea3552d8a

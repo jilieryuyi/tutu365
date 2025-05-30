@@ -8,7 +8,7 @@
 13243、_russian_Поцелуй бандита_Рич Мэри Лу_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7780174922830ba139641d97bf3d2231

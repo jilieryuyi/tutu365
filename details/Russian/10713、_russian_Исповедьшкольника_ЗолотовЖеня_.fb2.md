@@ -8,7 +8,7 @@
 10713、_russian_Исповедь школьника_Золотов Женя_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 156ee533ac6cf09764851fb88eb393c6

@@ -8,7 +8,7 @@
 2851、_russian_Абориген_Лазарчук Андрей Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48c20c3fc9e51ddeb5b5bb4432e79934

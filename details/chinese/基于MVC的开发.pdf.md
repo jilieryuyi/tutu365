@@ -8,7 +8,7 @@
 基于MVC的开发.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0935e47a54a8457883daeaab904aa776

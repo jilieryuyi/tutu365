@@ -8,7 +8,7 @@
 5082、_russian_Мишель и старинный фотоаппарат_Байяр Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5188ca1aafa6f7de3b36480deed5d867

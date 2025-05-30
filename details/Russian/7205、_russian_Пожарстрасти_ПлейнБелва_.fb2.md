@@ -8,7 +8,7 @@
 7205、_russian_Пожар страсти_Плейн Белва_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b31c358070560844d522bfff9aa3152

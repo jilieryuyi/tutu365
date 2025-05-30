@@ -8,7 +8,7 @@
 13420、_russian_След памяти_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ddff6200492ec6d1b48c47219d9743e

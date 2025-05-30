@@ -8,7 +8,7 @@
 1326、_russian_Воры_Накадзато Кисё_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9592882e21384f5f8af63e7a9a2c4514

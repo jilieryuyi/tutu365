@@ -8,7 +8,7 @@
 3127、_russian_Иван Иванович Фенимор_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8869e4fe13ef33f9943907e58f84df6

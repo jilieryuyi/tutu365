@@ -8,7 +8,7 @@
 9041、_russian_Кристиан Тринадцатый_Суслин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27669e2c0130566b9e8cf2a5d5ad67a9

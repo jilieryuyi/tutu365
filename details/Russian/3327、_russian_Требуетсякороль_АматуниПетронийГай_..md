@@ -8,7 +8,7 @@
 3327、_russian_Требуется король_Аматуни Петроний Гай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e6d531656ff7afea0fa5ad36989c012

@@ -8,7 +8,7 @@
 5811、_russian_Западный экспресс_Юрский Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 014b4c7af2cc49dc1f0bf52abceebcee

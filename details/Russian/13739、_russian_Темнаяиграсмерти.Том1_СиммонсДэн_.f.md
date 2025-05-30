@@ -8,7 +8,7 @@
 13739、_russian_Темная игра смерти. Том 1_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 918486e9ca72f2cb4cc886ec94a9a9c9

@@ -8,7 +8,7 @@
 1808、_russian_Ночной поезд_Вуд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d555efc94f7c3dc642d527ccb18c3a94

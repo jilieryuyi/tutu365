@@ -8,7 +8,7 @@
 4415、_russian_Последняя вечеря_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c3b3f466009d4fc254fa48ddb6ffb06

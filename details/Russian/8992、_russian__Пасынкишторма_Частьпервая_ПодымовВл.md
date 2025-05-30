@@ -8,7 +8,7 @@
 8992、_russian__Пасынки шторма_ Часть первая_Подымов Владлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c2bcbf487d09a2ba2d744b9dd1204f0

@@ -8,7 +8,7 @@
 9089、_french_Le Triomphe de l'injustice_Emmanuel Saez & Gabriel Zucman [Saez, Emmanuel & Zucman, Gabriel]_Le Seuil.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bb282bf699190fd17417103116dc4c19

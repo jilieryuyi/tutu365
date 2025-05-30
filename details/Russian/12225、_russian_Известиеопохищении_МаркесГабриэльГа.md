@@ -8,7 +8,7 @@
 12225、_russian_Известие о похищении_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9fe41db2fa98655b39a81b89f1cfbb9

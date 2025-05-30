@@ -8,7 +8,7 @@
 13045、_russian_Операция _Минотавр__Кунтс Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d94f2b72e2223151856b70881cfdf828

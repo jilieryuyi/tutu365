@@ -8,7 +8,7 @@
 6022、_russian_Гамлет на дне_Каганов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00d05692ad45896e16e7acc34a393342

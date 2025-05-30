@@ -8,7 +8,7 @@
 13635、_russian_Таинственный приятель_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9336b71acc34e3e2856e80d7f1f42f06

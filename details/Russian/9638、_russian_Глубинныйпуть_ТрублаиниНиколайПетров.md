@@ -8,7 +8,7 @@
 9638、_russian_Глубинный путь_Трублаини Николай Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d69c868f40767b03f5ed6008fe86840

@@ -8,7 +8,7 @@
 信息系统运行管理员教程 (Pdg2Pic, 杨成主编；陈昊副主编；全国计算机技术与软件专业技术资格（水平）考试办公室组编).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 09c652fef2b4cac3009f642586c7c662

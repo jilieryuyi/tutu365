@@ -8,7 +8,7 @@
 6824、_russian_Хозяйка _Солнечного моста__Майклз Ферн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 823a43a60cc63e7636e516eb8a527c2d

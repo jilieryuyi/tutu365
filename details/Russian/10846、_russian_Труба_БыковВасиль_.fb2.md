@@ -8,7 +8,7 @@
 10846、_russian_Труба_Быков Василь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f48b1969ec008ed3e2e5a9984987f9f

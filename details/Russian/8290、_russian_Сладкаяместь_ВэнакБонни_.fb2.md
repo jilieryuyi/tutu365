@@ -8,7 +8,7 @@
 8290、_russian_Сладкая месть_Вэнак Бонни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8199da0661a7a2e3981cd072887608e

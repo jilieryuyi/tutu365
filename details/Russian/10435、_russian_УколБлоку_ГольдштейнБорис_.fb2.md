@@ -8,7 +8,7 @@
 10435、_russian_Укол Блоку_Гольдштейн Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97b6e2545cd02d63eb7fedb4a5bc53f8

@@ -8,7 +8,7 @@
 11728、_russian_Птица войны_Кондратов Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 355068a993204ece12f754a7d6cd6344

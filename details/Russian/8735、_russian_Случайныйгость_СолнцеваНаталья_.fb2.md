@@ -8,7 +8,7 @@
 8735、_russian_Случайный гость_Солнцева Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ae17d928e513c1056d5edc14169e089

@@ -8,7 +8,7 @@
 886、_russian_Ворон_Эйр Лина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e1eb493410ed5c6aca90cd894459bcb

@@ -8,7 +8,7 @@
 10729、_russian_Замок ужаса_Уоллес Эдгар Ричард Горацио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 213ff8ccf96e64f1c3c9937c141b2eba

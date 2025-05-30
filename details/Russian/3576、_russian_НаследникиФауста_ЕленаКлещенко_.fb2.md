@@ -8,7 +8,7 @@
 3576、_russian_Наследники Фауста_Елена Клещенко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f84fd2d50507d9686846464ed99bf607

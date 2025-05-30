@@ -8,7 +8,7 @@
 11531、_russian_Неофит_Смит Гай Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8743b215daf1776b4209672731769d7c

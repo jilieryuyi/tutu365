@@ -8,7 +8,7 @@
 5270、_russian_Сидя в огне_Минделл Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29fab28ac1b79eba6966a83d7f1ca1c1

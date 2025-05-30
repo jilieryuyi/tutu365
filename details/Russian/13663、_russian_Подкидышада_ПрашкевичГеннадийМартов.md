@@ -8,7 +8,7 @@
 13663、_russian_Подкидыш ада_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 686c0c87a4b6841d2c1faa08f6ea5d89

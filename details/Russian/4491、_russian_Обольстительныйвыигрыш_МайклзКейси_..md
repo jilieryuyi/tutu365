@@ -8,7 +8,7 @@
 4491、_russian_Обольстительный выигрыш_Майклз Кейси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b42737a0abc577dfb6f503830ed3e21

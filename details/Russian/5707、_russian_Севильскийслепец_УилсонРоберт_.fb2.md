@@ -8,7 +8,7 @@
 5707、_russian_Севильский слепец_Уилсон Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d247e395ab8e278acae00ea56f46f57b

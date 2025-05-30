@@ -8,7 +8,7 @@
 4309、_russian_Пламенный круг_Сологуб (Тетерников) Федор Кузьмич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 724443d0de7ed924bd91e03ef098462c

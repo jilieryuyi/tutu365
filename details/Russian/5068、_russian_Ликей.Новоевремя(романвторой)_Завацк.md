@@ -8,7 +8,7 @@
 5068、_russian_Ликей. Новое время (роман второй)_Завацкая Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e1e196a83cbc3dffa1a9be4a5fd21f5

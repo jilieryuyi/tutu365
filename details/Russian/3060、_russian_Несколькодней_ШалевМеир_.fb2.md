@@ -8,7 +8,7 @@
 3060、_russian_Несколько дней_Шалев Меир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3f729cb6ef546b270ac92d1212e8b91

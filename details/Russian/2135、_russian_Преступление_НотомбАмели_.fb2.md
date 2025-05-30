@@ -8,7 +8,7 @@
 2135、_russian_Преступление_Нотомб Амели_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e911971dee139707e6453ad5d55fe5c7

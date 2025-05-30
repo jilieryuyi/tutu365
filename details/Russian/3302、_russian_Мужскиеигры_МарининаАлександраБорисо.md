@@ -8,7 +8,7 @@
 3302、_russian_Мужские игры_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55e10c1b62016b95d8677aa45ac0b214

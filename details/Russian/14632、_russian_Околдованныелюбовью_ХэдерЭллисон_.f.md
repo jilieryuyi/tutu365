@@ -8,7 +8,7 @@
 14632、_russian_Околдованные любовью_Хэдер Эллисон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e766b2138494d5bc39bb32752a15193

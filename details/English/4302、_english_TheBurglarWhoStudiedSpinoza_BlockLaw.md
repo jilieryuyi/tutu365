@@ -8,7 +8,7 @@
 4302、_english_The Burglar Who Studied Spinoza_Block Lawrence_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e4115f05ec2b9d3f373b1c10db3201a8

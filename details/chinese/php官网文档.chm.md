@@ -8,7 +8,7 @@
 php官网文档.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b03178b4c3f8d8b0518d1a890155ba78

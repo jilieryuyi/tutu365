@@ -8,7 +8,7 @@
 12437、_russian_Льдинка на ладони_Митчелл Фрида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3ddf7827ab53da3c718e900fdbb0277

@@ -8,7 +8,7 @@
 8015、_russian_Карина_Арданова Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cbc69683b6906d67eb211bba0e5287a

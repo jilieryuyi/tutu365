@@ -8,7 +8,7 @@
 3877、_russian_НАСЛАЖДЕНИЕ (_Il piacere_, 1889)_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a6cfff22ecc4ee02f8284b4e838b28c

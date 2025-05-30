@@ -8,7 +8,7 @@
 14725、_russian_Счастливчик_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c7a6960a0b851b90bfe401bc23995fa

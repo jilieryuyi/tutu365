@@ -8,7 +8,7 @@
 11073、_russian_Звездный Коот_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f73a3e3eec80a5dab357521912ec687

@@ -8,7 +8,7 @@
 3623、_russian_Том 3_Сталин Иосиф Виссарионович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 517b4422032af9ab61263d1025435648

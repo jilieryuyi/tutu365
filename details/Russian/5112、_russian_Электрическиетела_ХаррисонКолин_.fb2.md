@@ -8,7 +8,7 @@
 5112、_russian_Электрические тела_Харрисон Колин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 284209cf4162c89cb3d9b19df4763a7c

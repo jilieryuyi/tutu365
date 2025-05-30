@@ -8,7 +8,7 @@
 8476、_polish_Polactwo_Ziemkiewicz Rafa_ A._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a1fbe4b81e8156e81f5362f7c021177d

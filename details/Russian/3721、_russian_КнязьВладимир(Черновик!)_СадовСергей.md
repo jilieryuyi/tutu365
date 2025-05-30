@@ -8,7 +8,7 @@
 3721、_russian_Князь Владимир (Черновик!)_Садов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 509c3e9b21c700dd02b3cc98c1d2d750

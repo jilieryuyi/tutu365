@@ -8,7 +8,7 @@
 小镇美国_ 现代生活的另一种启示_Robert Wuthnow_Wen hui chu ban she_5450116_3c008084232de4a8612d5af1c46d53cb.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c008084232de4a8612d5af1c46d53cb

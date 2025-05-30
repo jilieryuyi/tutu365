@@ -8,7 +8,7 @@
 7410、_russian_Ветер полыни_Пехов Алексей Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53dbefc1f7e0f2001f7d1d6cc5853ace

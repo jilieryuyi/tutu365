@@ -8,7 +8,7 @@
 1019、_russian_Потом_Маслюков Валентин Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72579d245cf520c39e169c2374eeb4f7

@@ -8,7 +8,7 @@
 6833、_russian_Неопубликованное (тексты лекций и выступлений)_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eda947542423bd9bbc2e68daac8b2e2d

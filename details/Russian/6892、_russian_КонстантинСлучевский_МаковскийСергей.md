@@ -8,7 +8,7 @@
 6892、_russian_Константин Случевский_Маковский Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4842ec103bc328f00762e4c2753b510d

@@ -8,7 +8,7 @@
 11971、_russian_За чертой_Киплинг Редьярд Джозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad82a0388eea53c5eb26f756b044cb78

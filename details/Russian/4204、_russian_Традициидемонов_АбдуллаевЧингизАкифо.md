@@ -8,7 +8,7 @@
 4204、_russian_Традиции демонов_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bc3e15c9b94679904586b7631b746de

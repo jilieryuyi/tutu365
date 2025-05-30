@@ -8,7 +8,7 @@
 6219、_russian_Особенный мужчина_Фокс Натали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e387597464d09f1d5e0b22397de19c41

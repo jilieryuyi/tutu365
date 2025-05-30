@@ -8,7 +8,7 @@
 5789、_russian_Сила воображения_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bea8c9a16684ca7bd421037cba1e9fc5

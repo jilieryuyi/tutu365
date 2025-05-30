@@ -8,7 +8,7 @@
 资本主义与自由_（美）米尔顿·弗里德曼（Milton Friedman）著__5276660_f880f0fba9f05d200a9021977c6484fc.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f880f0fba9f05d200a9021977c6484fc

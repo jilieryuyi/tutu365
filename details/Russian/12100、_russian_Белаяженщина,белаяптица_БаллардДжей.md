@@ -8,7 +8,7 @@
 12100、_russian_Белая женщина, белая птица_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48f63f0a38e0d13b165b09d5d8802646

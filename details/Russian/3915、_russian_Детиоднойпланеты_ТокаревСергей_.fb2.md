@@ -8,7 +8,7 @@
 3915、_russian_Дети одной планеты_Токарев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59ddf993492f55c14fb839c95900003a

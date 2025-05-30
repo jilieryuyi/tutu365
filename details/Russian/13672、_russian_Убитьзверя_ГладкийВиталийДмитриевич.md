@@ -8,7 +8,7 @@
 13672、_russian_Убить зверя_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f1671a33d3d3be92fbaea27f9097307

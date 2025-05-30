@@ -8,7 +8,7 @@
 14607、_english_Warrior's Wrath_Jayne Castel_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d35622a21750d5fc74a0c347698953f3

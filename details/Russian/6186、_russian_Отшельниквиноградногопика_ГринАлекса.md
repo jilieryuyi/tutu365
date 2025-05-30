@@ -8,7 +8,7 @@
 6186、_russian_Отшельник виноградного пика_Грин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d362e048181b62aeac7a3a96f0b778b

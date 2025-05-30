@@ -8,7 +8,7 @@
 8029、_russian_Гражданин_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56a4c5e5dacc6e0f3d09701f654fd228

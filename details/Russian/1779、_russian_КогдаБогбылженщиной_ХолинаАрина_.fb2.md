@@ -8,7 +8,7 @@
 1779、_russian_Когда Бог был женщиной_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f94a0c9629949394f612e85e8cfbd987

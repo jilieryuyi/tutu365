@@ -8,7 +8,7 @@
 4033、_russian_Знак Гильдии_Голотвина Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d696dec1193591480a9ff96fcf68aa09

@@ -8,7 +8,7 @@
 15143、_russian_Атипичная пневмония_Фомин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24a04fe941be2450e80ae6bc58f8a099

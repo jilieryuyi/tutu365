@@ -8,7 +8,7 @@
 9981、_ukrainian_Д_ти Безмежжя_Бердник Олесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34d6f5b698b448f836bebc7072af0307

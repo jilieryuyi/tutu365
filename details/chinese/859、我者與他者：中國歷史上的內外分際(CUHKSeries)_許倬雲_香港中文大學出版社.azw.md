@@ -8,7 +8,7 @@
 859、我者與他者：中國歷史上的內外分際(CUHK Series)_許倬雲_香港中文大學出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 00acbc2e79e452008a7f45b51f68a168

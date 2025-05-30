@@ -8,7 +8,7 @@
 1288、_russian_Старая ведьма_Пермяк Евгений Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2844afae1948bc2e17c900e510ee70fe

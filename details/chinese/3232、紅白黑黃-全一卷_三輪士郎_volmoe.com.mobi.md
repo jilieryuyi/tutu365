@@ -8,7 +8,7 @@
 3232、紅白黑黃 - 全一卷_三輪士郎_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1baa520382424652840e2df5ab156a33

@@ -8,7 +8,7 @@
 2831、_russian_Чучельник_Ди Фульвио Лука_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fbaf9344365665f385fc30bd9b152b1

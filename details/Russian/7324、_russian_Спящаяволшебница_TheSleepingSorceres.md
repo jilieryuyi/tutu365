@@ -8,7 +8,7 @@
 7324、_russian_Спящая волшебница _ The Sleeping Sorceress [= Участь Белого Волка, Рыцарь Хаоса, The Vanishing Tower]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f25ff2471e252e8e62de21143a73d271

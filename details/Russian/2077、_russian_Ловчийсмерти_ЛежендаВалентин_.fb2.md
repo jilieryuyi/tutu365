@@ -8,7 +8,7 @@
 2077、_russian_Ловчий смерти_Леженда Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 49f6b8077aa4de6396af1e2f118a2e65

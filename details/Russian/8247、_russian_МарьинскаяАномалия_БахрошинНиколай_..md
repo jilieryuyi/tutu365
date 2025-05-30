@@ -8,7 +8,7 @@
 8247、_russian_Марьинская Аномалия_Бахрошин Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19058c7371af9187513dbf94cefd015f

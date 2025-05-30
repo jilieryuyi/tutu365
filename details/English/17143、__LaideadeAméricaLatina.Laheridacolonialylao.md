@@ -8,7 +8,7 @@
 17143、__La idea de América Latina. La herida colonial y la opción decolonial_Walter Mignolo_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6483b8f7da80bcceea24570b8be64971

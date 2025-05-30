@@ -8,7 +8,7 @@
 2754、_russian_Линда_Макдональд Джон Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c81b2721c3a0cb68657496e23d2deaf8

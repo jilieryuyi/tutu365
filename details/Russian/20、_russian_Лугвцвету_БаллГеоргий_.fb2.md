@@ -8,7 +8,7 @@
 20、_russian_Луг в цвету_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f59163ab7ef03bc4cb3d517a2d18750

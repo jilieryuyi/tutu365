@@ -8,7 +8,7 @@
 5046、_russian_Романтики_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa2c2ddd090ef2c33f8815a5fcaad515

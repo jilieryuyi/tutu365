@@ -8,7 +8,7 @@
 8320、_catalan_Menjelaskan Bid'ah Hasanah_Fiqih Syafi'i_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4e10cf7d7f65f7d2ed92204b7d680c5a

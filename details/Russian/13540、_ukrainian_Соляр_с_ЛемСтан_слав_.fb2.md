@@ -8,7 +8,7 @@
 13540、_ukrainian_Соляр_с_Лем Стан_слав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76c5718bb82f7fca5cba893b6341c8ef

@@ -8,7 +8,7 @@
 11030、_russian_Петухи_Сотник Юрий Вячеславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85d5037d88ba460eac5e644fb31e2ded

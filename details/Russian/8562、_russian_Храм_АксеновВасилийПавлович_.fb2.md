@@ -8,7 +8,7 @@
 8562、_russian_Храм_Аксенов Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8004297a0cad31031ef9e3cd877dfa07

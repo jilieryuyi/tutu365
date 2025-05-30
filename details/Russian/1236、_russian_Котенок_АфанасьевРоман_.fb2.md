@@ -8,7 +8,7 @@
 1236、_russian_Котенок_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a830d4b678df197bf0dd0589d2a2e54

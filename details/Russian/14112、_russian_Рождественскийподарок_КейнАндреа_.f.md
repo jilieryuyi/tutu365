@@ -8,7 +8,7 @@
 14112、_russian_Рождественский подарок_Кейн Андреа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2c465db7dc76bbcf20047fa5c138f58

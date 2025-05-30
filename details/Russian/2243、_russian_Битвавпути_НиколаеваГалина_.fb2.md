@@ -8,7 +8,7 @@
 2243、_russian_Битва в пути_Николаева Галина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 291b6ad53445fcffb3f61b291881c1b4

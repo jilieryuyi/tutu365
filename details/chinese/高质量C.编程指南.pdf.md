@@ -8,7 +8,7 @@
 高质量C.编程指南.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a2e3c06b553970b34fdd1da26cf1d4cc

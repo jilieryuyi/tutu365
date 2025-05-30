@@ -8,7 +8,7 @@
 521、_russian_Мегрэ и старая дама_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50849a4150cb3e8c7d64fbfc79647350

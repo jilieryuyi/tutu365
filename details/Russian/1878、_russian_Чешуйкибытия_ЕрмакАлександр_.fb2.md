@@ -8,7 +8,7 @@
 1878、_russian_Чешуйки бытия_Ермак Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8065f9814868b105166e8eda89ca86f

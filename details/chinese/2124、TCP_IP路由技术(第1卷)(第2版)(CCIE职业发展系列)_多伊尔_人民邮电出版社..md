@@ -8,7 +8,7 @@
 2124、TCP_IP路由技术(第1卷)(第2版) (CCIE职业发展系列)_多伊尔_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 17b8fd74c84ec30c9a88980ec531f7b4

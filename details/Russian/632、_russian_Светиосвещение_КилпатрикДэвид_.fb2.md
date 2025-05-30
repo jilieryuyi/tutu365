@@ -8,7 +8,7 @@
 632、_russian_Свет и освещение_Килпатрик Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2703f3f7dcfe0cbf50a189f3f9c1772b

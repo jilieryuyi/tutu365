@@ -8,7 +8,7 @@
 3827、_ukrainian_Живий мох_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9e92f36074d6715ea420d11c819ad70

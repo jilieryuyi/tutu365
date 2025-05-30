@@ -8,7 +8,7 @@
 2386、_russian_Равновесие_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4645791430f4efb35e5fde18f313b6a2

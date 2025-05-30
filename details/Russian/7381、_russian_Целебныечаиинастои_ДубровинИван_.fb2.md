@@ -8,7 +8,7 @@
 7381、_russian_Целебные чаи и настои_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06f52897c43730f51c73e0128e87f6b1

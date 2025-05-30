@@ -8,7 +8,7 @@
 1103、_russian_Скоморох_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80f01b9ea7a9787ce6f835ba2bc74abf

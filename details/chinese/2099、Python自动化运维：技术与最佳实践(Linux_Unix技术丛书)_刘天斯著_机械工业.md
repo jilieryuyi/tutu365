@@ -8,7 +8,7 @@
 2099、Python自动化运维：技术与最佳实践 (Linux_Unix技术丛书)_刘天斯 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5cfe97bdc5e32a9cc55c8808ddd16bf0

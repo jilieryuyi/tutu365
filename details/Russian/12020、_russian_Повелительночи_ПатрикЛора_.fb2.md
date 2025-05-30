@@ -8,7 +8,7 @@
 12020、_russian_Повелитель ночи_Патрик Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21da918166898c7056d29db93d0948f9

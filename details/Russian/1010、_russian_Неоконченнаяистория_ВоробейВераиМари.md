@@ -8,7 +8,7 @@
 1010、_russian_Неоконченная история_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 865c4d92963c12da73ebf5a208300b66

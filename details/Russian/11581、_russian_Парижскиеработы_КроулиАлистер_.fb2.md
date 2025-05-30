@@ -8,7 +8,7 @@
 11581、_russian_Парижские работы_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4577554c2d4c09824f559e0e2b92a33

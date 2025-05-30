@@ -8,7 +8,7 @@
 6174、_russian_Убийство в _Шарлемане__Лавси Питер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0769ac988d2528a511b3cbcc916c8d9

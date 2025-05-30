@@ -8,7 +8,7 @@
 2918、_russian_Амулет для влюбленных_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09a1291fd53c4a5a6a1a75ed49194113

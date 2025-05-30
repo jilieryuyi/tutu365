@@ -8,7 +8,7 @@
 6083、_russian_Ариадна_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f049255fa67735f0b703ef4f4b40a12

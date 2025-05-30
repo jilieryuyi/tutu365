@@ -8,7 +8,7 @@
 14350、_russian_Сказки о Хоме и Суслике_Иванов Альберт Анатольевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1716ca9459cf3a957f6685c4fbfffeaf

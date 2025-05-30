@@ -8,7 +8,7 @@
 1948、庄子今注今译(套装上下册)(最新修订版) (道典诠释书系)_Publisher           _ 商务印书馆_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2cec2bd5b3de432a5188486fe0872972

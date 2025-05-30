@@ -8,7 +8,7 @@
 13108、_russian_Йоулер_Эккерт Аллан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 933dad91cd59fbc3ed76e3bd582187d7

@@ -8,7 +8,7 @@
 3377、_russian_Другая история Руси. От Европы до Монголии__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d4f4d763e8e36b29f5ba2ebcf40d218

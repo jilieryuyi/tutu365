@@ -8,7 +8,7 @@
 1008、_russian_Стеклянные книги пожирателей снов_Далквист Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25376b6c3e7488e9ce6faf19960ebf82

@@ -8,7 +8,7 @@
 10285、_russian_Даже в Гренландии_Хэнна Барри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90d77d08314810ed5328c80db6438a4e

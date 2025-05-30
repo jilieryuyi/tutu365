@@ -8,7 +8,7 @@
 1948、_russian_Служит на границе старшина_Росин Вениамин Ефимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e3870ad457c2e4025c9bd78b348e581

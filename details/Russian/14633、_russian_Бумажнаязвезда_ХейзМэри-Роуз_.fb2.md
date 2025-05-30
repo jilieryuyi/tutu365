@@ -8,7 +8,7 @@
 14633、_russian_Бумажная звезда_Хейз Мэри-Роуз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77d838b7ac9f90b8af8af4bd8c046ee4

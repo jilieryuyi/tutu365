@@ -8,7 +8,7 @@
 10439、_russian_На море роман_Дроткив Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3494b87038f13af648f505efec86e631

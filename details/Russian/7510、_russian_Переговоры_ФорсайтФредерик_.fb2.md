@@ -8,7 +8,7 @@
 7510、_russian_Переговоры_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3753bf78ff02799baf45ac3d58ddeb4c

@@ -8,7 +8,7 @@
 4445、_russian_Наследница Горячих Ключей_Грейс Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 357fb81f77da910cf7205fe60ab5ff04

@@ -8,7 +8,7 @@
 11800、_russian_Жорж_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d9da323d71a33c0f72d70729e4c9393

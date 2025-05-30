@@ -8,7 +8,7 @@
 7524、_english_The Alexandria Link_Berry Steve_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1988cf13b299727f4f2baccdefca0a42

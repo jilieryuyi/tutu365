@@ -8,7 +8,7 @@
 1652、_russian_Случай из практики_Измайлова Кира_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6bc602c0a13c441c28305d6b242bca6

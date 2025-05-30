@@ -8,7 +8,7 @@
 14139、_russian_В погоне за мечтой_Льюис Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee592c35e1ffe09a416c320117ed148b

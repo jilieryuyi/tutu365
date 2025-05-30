@@ -8,7 +8,7 @@
 5190、_english_The Carpetbaggers_Harold ROBBINS_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 60c7aab22d0225efa180c794c2abd71b

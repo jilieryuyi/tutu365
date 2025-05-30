@@ -8,7 +8,7 @@
 7、_russian_Облачные скульпторы Коралла D_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc72b86d428d7f6db5b2f98b32015292

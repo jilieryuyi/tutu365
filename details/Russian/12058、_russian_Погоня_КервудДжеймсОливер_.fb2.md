@@ -8,7 +8,7 @@
 12058、_russian_Погоня_Кервуд Джеймс Оливер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 446d74bb9d3a25041a7486fbdb57333b

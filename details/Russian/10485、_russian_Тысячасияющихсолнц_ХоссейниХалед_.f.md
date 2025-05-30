@@ -8,7 +8,7 @@
 10485、_russian_Тысяча сияющих солнц_Хоссейни Халед_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e20b15c8c99819dc46495f5d93a18aa3

@@ -8,7 +8,7 @@
 9929、_english_Diaspora_Иган Грег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c76cc43ec959334de42fc9ff5bb8f36f

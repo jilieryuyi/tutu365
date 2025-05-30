@@ -8,7 +8,7 @@
 6595、_russian_Под северным небом. Элегии, стансы, сонеты_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2eb10e967fccb0d91d6ed1caeee3b53

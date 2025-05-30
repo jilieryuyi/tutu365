@@ -8,7 +8,7 @@
 1203、第二次世界大战在亚洲及太平洋的起源_AKIRA_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9d382ed1035e07e5d89f0acece50528d

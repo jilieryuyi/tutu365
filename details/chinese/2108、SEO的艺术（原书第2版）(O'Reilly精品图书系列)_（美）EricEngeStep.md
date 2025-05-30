@@ -8,7 +8,7 @@
 2108、SEO的艺术（原书第2版） (O'Reilly精品图书系列)_（美）EricEngeStephanSpencerJessieStricchiolaRandFishkin_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3b8f1ad83d55d7b9008919c934c50664

@@ -8,7 +8,7 @@
 4362、_english_The Duke's Indiscretion_Adele Ashworth_ePub Bud (www.epubbud.com).mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a263cd11ca63d7d93cae92773ca614ed

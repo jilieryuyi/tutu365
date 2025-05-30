@@ -8,7 +8,7 @@
 9070、_russian_Йога - сила духа. Книга 2_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84e7efd3f5eaf5562d571243894960df

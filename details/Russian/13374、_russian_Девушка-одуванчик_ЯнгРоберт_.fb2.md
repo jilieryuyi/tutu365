@@ -8,7 +8,7 @@
 13374、_russian_Девушка-одуванчик_Янг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77fe94431a3ac0b5a4a5694b273b295e

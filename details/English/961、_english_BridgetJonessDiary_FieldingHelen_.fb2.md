@@ -8,7 +8,7 @@
 961、_english_Bridget Joness Diary_Fielding Helen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ae87a3caf7860590cc28e54103190af5

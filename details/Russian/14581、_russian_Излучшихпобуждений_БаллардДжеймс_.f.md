@@ -8,7 +8,7 @@
 14581、_russian_Из лучших побуждений_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f317e1a991a85e643a710695fa2a028

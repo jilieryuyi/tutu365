@@ -8,7 +8,7 @@
 2709、_russian_Свидание с Богом_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d38aefea1fa2584f13725b8a38752bab

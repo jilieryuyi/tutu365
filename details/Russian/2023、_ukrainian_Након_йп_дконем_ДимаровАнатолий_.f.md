@@ -8,7 +8,7 @@
 2023、_ukrainian_На кон_ й п_д конем_Димаров Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 191df6fac6e4297dc1cf69238dbac12f

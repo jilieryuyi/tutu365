@@ -8,7 +8,7 @@
 12756、_russian_Урот (лайт-версия)_Врочек Шимун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c82a12e85e146be5059786a5eb209566

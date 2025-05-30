@@ -8,7 +8,7 @@
 10131、_russian_Принцесса звёздного престола_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa82109570adf4d1056579cc923589cb

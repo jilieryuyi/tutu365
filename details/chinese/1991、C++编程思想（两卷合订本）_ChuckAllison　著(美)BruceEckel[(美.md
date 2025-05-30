@@ -8,7 +8,7 @@
 1991、C++编程思想（两卷合订本）_Chuck Allison　著 (美)Bruce Eckel [(美)Bruce Eckel, Chuck Allison　著]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d115e03378c811f6042aaeb58d87081f

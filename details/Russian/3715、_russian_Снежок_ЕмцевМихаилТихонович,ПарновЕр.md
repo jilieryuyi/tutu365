@@ -8,7 +8,7 @@
 3715、_russian_Снежок_Емцев Михаил Тихонович, Парнов Еремей Иудович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f68181ad40af60e7283bb991f5d0ac4

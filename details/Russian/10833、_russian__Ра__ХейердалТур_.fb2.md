@@ -8,7 +8,7 @@
 10833、_russian__Ра__Хейердал Тур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f27f5bacd17967d803b4d2e279907888

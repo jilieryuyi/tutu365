@@ -8,7 +8,7 @@
 6378、_russian_Ревность_Дирл Э_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb14cab81df90fe0af266e8e45d77702

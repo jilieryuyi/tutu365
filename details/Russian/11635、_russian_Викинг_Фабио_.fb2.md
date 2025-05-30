@@ -8,7 +8,7 @@
 11635、_russian_Викинг_Фабио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d7354227641055d1e2ddbbbe4a7ecfa

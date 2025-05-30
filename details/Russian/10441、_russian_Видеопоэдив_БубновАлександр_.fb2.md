@@ -8,7 +8,7 @@
 10441、_russian_Видеопоэдив_Бубнов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5294c7af1c1ad8f610e2668df709a25f

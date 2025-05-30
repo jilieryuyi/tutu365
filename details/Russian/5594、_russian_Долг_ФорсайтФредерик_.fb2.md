@@ -8,7 +8,7 @@
 5594、_russian_Долг_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 369df327ec889c53ee3a304ffcd67400

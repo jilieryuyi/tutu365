@@ -8,7 +8,7 @@
 7095、_russian__Интурист_ изнутри_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0985dcb6f0b4768462e13a5338a6c08

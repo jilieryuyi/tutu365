@@ -8,7 +8,7 @@
 牛津通识读本：数学（中文版）_蒂莫西·高尔斯__5366084_cb1dddeef959abb7acfd11110d0f67fc.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cb1dddeef959abb7acfd11110d0f67fc

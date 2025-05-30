@@ -8,7 +8,7 @@
 5490、_russian_Изнанка_Палий Сергей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75c70f5952a5dd0d4ef7a9086a64bf72

@@ -8,7 +8,7 @@
 7482、_russian_Бобруйский _мешок__Пикуль Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd28d2294842dc207ccf3d0c8ed5eeb6

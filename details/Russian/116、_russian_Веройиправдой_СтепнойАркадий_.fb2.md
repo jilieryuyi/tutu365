@@ -8,7 +8,7 @@
 116、_russian_Верой и правдой_Степной Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7985f60c667a72866da1566fbc4fc86c

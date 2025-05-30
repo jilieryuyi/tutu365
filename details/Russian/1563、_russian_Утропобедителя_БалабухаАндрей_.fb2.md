@@ -8,7 +8,7 @@
 1563、_russian_Утро победителя_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c831f8797f69a4515bf2816f235d5ab

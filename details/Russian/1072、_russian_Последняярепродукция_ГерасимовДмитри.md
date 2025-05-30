@@ -8,7 +8,7 @@
 1072、_russian_Последняя репродукция_Герасимов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44ca8a0df52f5cc091138e20dd7e0eaa

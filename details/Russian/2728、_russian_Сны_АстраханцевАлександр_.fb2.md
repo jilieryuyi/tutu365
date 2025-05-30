@@ -8,7 +8,7 @@
 2728、_russian_Сны_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f234628bf8049495096a7939c76baa2

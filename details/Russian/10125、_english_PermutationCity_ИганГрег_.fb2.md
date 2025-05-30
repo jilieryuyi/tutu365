@@ -8,7 +8,7 @@
 10125、_english_Permutation City_Иган Грег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46adba72aad089ffa6d51d48ca634e76

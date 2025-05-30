@@ -8,7 +8,7 @@
 163、超纲冷知识（用好奇心给生活加点料 ）_吉姆·查普曼, SoBooKs.cc [吉姆·查普曼, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 395d58199204f8e116cf79d536376662

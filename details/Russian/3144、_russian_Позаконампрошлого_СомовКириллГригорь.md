@@ -8,7 +8,7 @@
 3144、_russian_По законам прошлого_Сомов Кирилл Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 132d1e015669fec3175d2f6a1625e8bd

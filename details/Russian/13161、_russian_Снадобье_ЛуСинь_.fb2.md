@@ -8,7 +8,7 @@
 13161、_russian_Снадобье_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15649364851d4a1b5b3796268827b97d

@@ -8,7 +8,7 @@
 【精品汇】沙丘系列1-4合集_作者_（美）弗兰克•赫伯特 (Frank Herbert) & （美）弗兰克·赫伯特（Frank Herbert） & 弗兰克•赫伯特__5487987_3a9cc3d06056843b5075eb4b456e9fc0.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3a9cc3d06056843b5075eb4b456e9fc0

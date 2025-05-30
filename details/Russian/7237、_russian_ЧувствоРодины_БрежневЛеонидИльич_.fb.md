@@ -8,7 +8,7 @@
 7237、_russian_Чувство Родины_Брежнев Леонид Ильич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 008fbd0d6a6128556ee1b0978dc37139

@@ -8,7 +8,7 @@
 9869、_russian_Скитальцы_Личутин Владимир Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae692ae57fc008df2b5553400fd8a4dd

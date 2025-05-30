@@ -8,7 +8,7 @@
 7689、_russian_Визитная карточка хищницы_Борохова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93160b6c32b6c1392e43f66ff179d7ce

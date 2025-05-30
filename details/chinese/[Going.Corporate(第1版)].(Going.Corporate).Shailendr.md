@@ -8,7 +8,7 @@
 [Going.Corporate(第1版)].(Going.Corporate).Shailendra.Kadre.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 22a2ddfe32ecf86a1938c862b6070627

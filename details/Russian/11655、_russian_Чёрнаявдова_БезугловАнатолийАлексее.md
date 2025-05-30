@@ -8,7 +8,7 @@
 11655、_russian_Чёрная вдова_Безуглов Анатолий Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b27895dde8321bce8c90abd27366963f

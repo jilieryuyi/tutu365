@@ -8,7 +8,7 @@
 13000、_russian_Мария Кюри_Кюри Ева_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93b06635af379ce79bd31256bbc90d09

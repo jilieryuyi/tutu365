@@ -8,7 +8,7 @@
 12179、_russian_Скифы_Хорунжий Юрий, Жмыр Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3cf12fb8e02345e52b6bb5fac26a31ef

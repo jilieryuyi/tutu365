@@ -8,7 +8,7 @@
 2805、_russian_Диверсант_Азольский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9227c2c8517e4b1902fb9e7f4822399b

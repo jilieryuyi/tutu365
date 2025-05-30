@@ -8,7 +8,7 @@
 2593、_english_Lord of the Silent Kingdom_Cook Glen_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 569f186d53bcd384d5baea7cd7766382

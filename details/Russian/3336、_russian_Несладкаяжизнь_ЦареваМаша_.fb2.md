@@ -8,7 +8,7 @@
 3336、_russian_Несладкая жизнь_Царева Маша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74b0c2afde8d8463219d95383dcaf92c

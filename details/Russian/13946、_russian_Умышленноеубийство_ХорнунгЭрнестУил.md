@@ -8,7 +8,7 @@
 13946、_russian_Умышленное убийство_Хорнунг Эрнест Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 929c1a7d1dc4e7d6e795e46d62a4da3a

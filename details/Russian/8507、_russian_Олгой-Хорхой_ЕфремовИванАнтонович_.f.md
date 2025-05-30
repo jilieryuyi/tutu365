@@ -8,7 +8,7 @@
 8507、_russian_Олгой-Хорхой_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e08d4bece40483d550c6ebf43c88217

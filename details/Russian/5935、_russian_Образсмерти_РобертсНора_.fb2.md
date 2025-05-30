@@ -8,7 +8,7 @@
 5935、_russian_Образ смерти_Робертс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f68c9394e9035470b7a7de04f416a4b

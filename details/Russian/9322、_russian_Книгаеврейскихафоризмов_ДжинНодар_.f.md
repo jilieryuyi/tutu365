@@ -8,7 +8,7 @@
 9322、_russian_Книга еврейских афоризмов_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13d8de4ee2f95c709cdeae547286497a

@@ -8,7 +8,7 @@
 3497、_russian_Милое семейство_Артур Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abd76fd274a3333d10a8a6203673f4c6

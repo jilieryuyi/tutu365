@@ -8,7 +8,7 @@
 2781、慕尼黑的清真寺 (译文纪实)_伊恩·约翰逊(Ian Johnson)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6fce83f05468bc866cd66acd9ecb4bb2

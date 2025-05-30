@@ -8,7 +8,7 @@
 12033、_russian_Два гусара_Катаев Валентин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efde4f927b789b1fdbe80a2f197a0019

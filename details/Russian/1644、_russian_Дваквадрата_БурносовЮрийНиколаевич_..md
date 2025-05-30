@@ -8,7 +8,7 @@
 1644、_russian_Два квадрата_Бурносов Юрий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4dabb659431731b0035975b5bef7822

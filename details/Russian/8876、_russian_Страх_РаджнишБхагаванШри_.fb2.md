@@ -8,7 +8,7 @@
 8876、_russian_Страх_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 621491d52c4d4dc9a584cd3f9a7a1152

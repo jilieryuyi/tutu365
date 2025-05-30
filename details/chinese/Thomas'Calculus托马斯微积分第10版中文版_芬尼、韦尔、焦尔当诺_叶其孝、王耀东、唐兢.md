@@ -8,7 +8,7 @@
 Thomas' Calculus托马斯微积分第10版中文版_芬尼、韦尔、焦尔当诺 _ 叶其孝、王耀东、唐兢__2817612_3bf3e98d73e638110b327e7cd0900122.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3bf3e98d73e638110b327e7cd0900122

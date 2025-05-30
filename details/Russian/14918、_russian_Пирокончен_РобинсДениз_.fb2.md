@@ -8,7 +8,7 @@
 14918、_russian_Пир окончен_Робинс Дениз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c32b8ae6e7b36acbe48a80446dd77f8

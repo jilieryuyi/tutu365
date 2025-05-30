@@ -8,7 +8,7 @@
 8345、_russian_Марихуана_ мифы и факты_Циммер Линн, Моргана Джона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 560503cd105a2393e58e3da12343fbac

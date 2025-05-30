@@ -8,7 +8,7 @@
 6725、_russian_Звезда запада_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f6091eaa811590dcc46edc2217a759b

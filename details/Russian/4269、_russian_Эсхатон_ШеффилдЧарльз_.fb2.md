@@ -8,7 +8,7 @@
 4269、_russian_Эсхатон_Шеффилд Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4079cf030e2da5dbf8f501895c9945e4

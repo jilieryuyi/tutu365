@@ -8,7 +8,7 @@
 2224、_russian_Человек или кролик_Льис Клайв Стейплз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 832412014f50225fe9e1473171f630f8

@@ -8,7 +8,7 @@
 14532、_russian_Капкан для принцессы_Александрова Наталья Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c29ee4f41c0ce50ab72b1cafd9e1d77

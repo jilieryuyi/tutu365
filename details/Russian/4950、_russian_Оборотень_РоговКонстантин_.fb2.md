@@ -8,7 +8,7 @@
 4950、_russian_Оборотень_Рогов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a5091e83afa465745f40d34ad012a9e

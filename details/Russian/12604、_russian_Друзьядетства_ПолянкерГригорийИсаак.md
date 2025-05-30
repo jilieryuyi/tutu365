@@ -8,7 +8,7 @@
 12604、_russian_Друзья детства_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 160076459a0e423b6831ed316eb132f4

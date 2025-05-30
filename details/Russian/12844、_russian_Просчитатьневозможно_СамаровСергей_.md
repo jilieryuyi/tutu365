@@ -8,7 +8,7 @@
 12844、_russian_Просчитать невозможно_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85747983b952197ce33ff4cc1c2aeb0c

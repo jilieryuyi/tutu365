@@ -8,7 +8,7 @@
 11094、_russian_В бухте Йеддо_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ace4713d801bd0782597281944c3e7b9

@@ -8,7 +8,7 @@
 2172、_russian_Оргия_Неклюдов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b39c620bc6a9d8ce5f09bb703866e26

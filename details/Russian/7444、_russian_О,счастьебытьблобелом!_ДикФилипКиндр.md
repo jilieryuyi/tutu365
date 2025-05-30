@@ -8,7 +8,7 @@
 7444、_russian_О, счастье быть блобелом!_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51de3bd92ddc1dcdda0e9c0bd110a236

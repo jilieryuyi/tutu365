@@ -8,7 +8,7 @@
 6462、_russian_Последний вояж _Титаника-7__Баранов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3620c18073906ded955c96b616e351c7

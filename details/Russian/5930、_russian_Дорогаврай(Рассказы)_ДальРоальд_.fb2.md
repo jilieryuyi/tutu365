@@ -8,7 +8,7 @@
 5930、_russian_Дорога в рай (Рассказы)_Даль Роальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03fe1ca60c34370d1b0dcad443756f61

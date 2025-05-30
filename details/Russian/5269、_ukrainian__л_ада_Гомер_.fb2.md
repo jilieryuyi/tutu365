@@ -8,7 +8,7 @@
 5269、_ukrainian__л_ада_Гомер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b887b1d09949ac421071f9182d5ad8d

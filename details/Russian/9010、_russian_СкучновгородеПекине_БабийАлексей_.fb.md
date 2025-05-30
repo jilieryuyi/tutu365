@@ -8,7 +8,7 @@
 9010、_russian_Скучно в городе Пекине_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e264f49fe308ea3b7f02af28130551a

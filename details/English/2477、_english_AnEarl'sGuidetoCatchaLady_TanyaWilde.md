@@ -8,7 +8,7 @@
 2477、_english_An Earl's Guide to Catch a Lady_Tanya Wilde [Wilde, Tanya]_Tanya Wilde.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4d5784396a48f14fb29610a8a87dc2e9

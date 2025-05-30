@@ -8,7 +8,7 @@
 11470、_russian_Лекарство Эренграфа_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c6ab16313862e32319b6ae54d31b10f

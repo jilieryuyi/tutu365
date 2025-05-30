@@ -8,7 +8,7 @@
 6557、_english_СПОНТАННОСТЬ СОЗНАНИЯ_НАЛИМОВ В.В._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebcc6381d2d963c26ddd5389c8ae993d

@@ -8,7 +8,7 @@
 7724、_russian_Рысь на поводке_Снежкова Isolda_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19f372873050ff1292d0b05a88e75a65

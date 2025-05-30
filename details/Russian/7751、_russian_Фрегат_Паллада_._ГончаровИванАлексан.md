@@ -8,7 +8,7 @@
 7751、_russian_Фрегат _Паллада_._Гончаров Иван Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3ebbbdcd3e9c8af58c9f32ee76a8343

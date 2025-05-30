@@ -8,7 +8,7 @@
 1743、_french_La Symphonie Pastorale_Gide André_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a0f72dec304cbb819350b841735fc2be

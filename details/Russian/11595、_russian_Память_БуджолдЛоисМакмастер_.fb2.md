@@ -8,7 +8,7 @@
 11595、_russian_Память_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69f7ab0f694093b9a65f2cd2c542ed53

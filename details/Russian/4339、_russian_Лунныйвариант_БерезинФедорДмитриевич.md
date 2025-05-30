@@ -8,7 +8,7 @@
 4339、_russian_Лунный вариант_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f55ce5c4bc8d3081104f8596e5b35b6c

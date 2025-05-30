@@ -8,7 +8,7 @@
 1715、_russian_Прямо по замкнутому кругу_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 651bb64c044ac4d2a485297872234c8f

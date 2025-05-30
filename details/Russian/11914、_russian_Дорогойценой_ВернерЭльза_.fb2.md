@@ -8,7 +8,7 @@
 11914、_russian_Дорогой ценой_Вернер Эльза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d2371e9babba718e32bc15ba010c212

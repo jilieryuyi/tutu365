@@ -8,7 +8,7 @@
 【精排】沙丘三部曲_作者_（美）弗兰克•赫伯特 (Frank Herbert) & （美）弗兰克·赫伯特（Frank Herbert）__5487988_0fa17ba39174d87b4974d1595d50238c.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0fa17ba39174d87b4974d1595d50238c

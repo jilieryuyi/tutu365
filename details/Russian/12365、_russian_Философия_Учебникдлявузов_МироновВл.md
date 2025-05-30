@@ -8,7 +8,7 @@
 12365、_russian_Философия_ Учебник для вузов_Миронов Владимир Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 514ba3010b82173ef6c9b5ec149df2f3

@@ -8,7 +8,7 @@
 3446、_russian_Холодные медные слезы_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6525c445d7f3f8868bd30ff882297ad

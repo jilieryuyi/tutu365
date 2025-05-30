@@ -8,7 +8,7 @@
 12326、_russian_Письмо ангела-хранителя_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9bae03b59f2b30c5381ab5b54a7b34a

@@ -8,7 +8,7 @@
 7508、_russian_Ницше за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1c1f6d5c50a92dc0cf0742fb18714ac

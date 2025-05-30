@@ -8,7 +8,7 @@
 740、_russian_Дом Бернарды Альбы_Гарсиа Лорка Федерико_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b49e0e28ec60e5f8a9424d53c799def

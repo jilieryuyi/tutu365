@@ -8,7 +8,7 @@
 12609、_russian_Светоч любви_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e8fa788191cceffbd979e7078c49df1

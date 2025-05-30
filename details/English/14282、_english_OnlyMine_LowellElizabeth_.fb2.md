@@ -8,7 +8,7 @@
 14282、_english_Only Mine_Lowell Elizabeth_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 459c9b64c8f91bda322545b4a68e8946

@@ -8,7 +8,7 @@
 9255、_russian_Повесть об исходе и суете_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1417e2e4c16952362ca2c63aaf58a64

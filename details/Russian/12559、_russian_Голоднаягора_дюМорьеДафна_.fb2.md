@@ -8,7 +8,7 @@
 12559、_russian_Голодная гора_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d05a043416f6fbb64b07a1a84d7a83b

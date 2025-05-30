@@ -8,7 +8,7 @@
 12634、_russian_Обращенный_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebe34f0402247faba062056338d35952

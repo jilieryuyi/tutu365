@@ -8,7 +8,7 @@
 4524、_russian_Прозрение_Драммонд Эмма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f1739a4694cf5dee6a2efa02bd56b9a

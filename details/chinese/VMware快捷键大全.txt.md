@@ -8,7 +8,7 @@
 VMware快捷键大全.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b10b2c4909846e891bdf5e1099f33608

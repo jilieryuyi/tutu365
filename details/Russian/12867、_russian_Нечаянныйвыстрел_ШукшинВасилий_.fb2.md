@@ -8,7 +8,7 @@
 12867、_russian_Нечаянный выстрел_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 082184d26eb1d3aab07cd6fd5c33b3c7

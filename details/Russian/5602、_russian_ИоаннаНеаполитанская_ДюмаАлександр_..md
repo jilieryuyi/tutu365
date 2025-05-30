@@ -8,7 +8,7 @@
 5602、_russian_Иоанна Неаполитанская_Дюма Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cbdd75944430d942d25aa7a9b743655

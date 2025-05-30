@@ -8,7 +8,7 @@
 14400、_russian_До самой смерти_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b351683a8db2af699ace38220231ea47

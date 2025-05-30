@@ -8,7 +8,7 @@
 4705、_russian_Уроки творения_Рид Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c501dbf335853616b525f40a3b44c5a0

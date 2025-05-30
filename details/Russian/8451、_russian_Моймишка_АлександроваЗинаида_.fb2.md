@@ -8,7 +8,7 @@
 8451、_russian_Мой мишка_Александрова Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c95f2aa99103e9ed6573be808efc3f19

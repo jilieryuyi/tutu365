@@ -8,7 +8,7 @@
 2691、_russian_Орион взойдет_Андерсон Пол Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8d797b575b38feeee04f9e26def0fe8

@@ -8,7 +8,7 @@
 9717、_russian_Сказка о трамвае_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cee0d12ed645c6536b785be4c2c95ba7

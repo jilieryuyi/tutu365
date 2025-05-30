@@ -8,7 +8,7 @@
 6465、_russian_Бальзам для Доббса_Деминг Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 042800b659e5237b1d4ade1c07ccd8b3

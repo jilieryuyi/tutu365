@@ -8,7 +8,7 @@
 9228、_italian_Una cosa che volevo dirti da un po'_Alice Munro_Einaudi.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 94d4495270db2ab33800c72dd378d484

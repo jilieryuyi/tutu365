@@ -8,7 +8,7 @@
 11141、_russian_Гниль завелась в штате Айдахо_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d036fc38a71c486964dc9abe01fc022c

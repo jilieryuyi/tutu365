@@ -8,7 +8,7 @@
 13956、_russian_Больше, чем ты желаешь_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c610577841cc3a0cb7d7467af7ed804b

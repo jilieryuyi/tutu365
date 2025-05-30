@@ -8,7 +8,7 @@
 5287、_russian_Синяя жидкость (сборник)_Валентинов Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99201db4a54ec77d5d1c7051a13421d8

@@ -8,7 +8,7 @@
 688、_russian_Две истории в одной северной деревне_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7328ec25a53d2fafdc72a9e21e55f6f7

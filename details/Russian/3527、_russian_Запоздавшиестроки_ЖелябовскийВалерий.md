@@ -8,7 +8,7 @@
 3527、_russian_Запоздавшие строки_Желябовский Валерий Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83eb898b88487c30abd94f1ecf27fd0b

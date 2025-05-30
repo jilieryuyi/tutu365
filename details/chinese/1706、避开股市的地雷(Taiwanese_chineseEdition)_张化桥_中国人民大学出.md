@@ -8,7 +8,7 @@
 1706、避开股市的地雷 (Taiwanese_chinese Edition)_张化桥_中国人民大学出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0d6a454b4f4676e3bf4fc0648935a5e2

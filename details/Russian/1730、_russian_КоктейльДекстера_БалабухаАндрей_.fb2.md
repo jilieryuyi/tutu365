@@ -8,7 +8,7 @@
 1730、_russian_Коктейль Декстера_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a8426af1641fe0161fe31f2207c0570

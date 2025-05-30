@@ -8,7 +8,7 @@
 7810、_russian_Война обреченных_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a76b33e8526ab174618b4fd32ab9c242

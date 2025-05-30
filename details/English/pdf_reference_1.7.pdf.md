@@ -8,7 +8,7 @@
 pdf_reference_1.7.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dbdb23c939d2be09b43126c3c56060c7

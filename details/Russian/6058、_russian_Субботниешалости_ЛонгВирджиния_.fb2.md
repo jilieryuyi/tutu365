@@ -8,7 +8,7 @@
 6058、_russian_Субботние шалости_Лонг Вирджиния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4a9d941f13855c721197529bbccd2d2

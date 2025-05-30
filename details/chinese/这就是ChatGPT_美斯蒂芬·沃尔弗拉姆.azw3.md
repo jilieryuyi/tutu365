@@ -8,7 +8,7 @@
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1698fc9c373e737a86d94d63506cfed3

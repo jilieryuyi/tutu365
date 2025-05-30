@@ -8,7 +8,7 @@
 13033、_russian_Богатство_Корда Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9c3feb2d070b1886bc7abf757d43404

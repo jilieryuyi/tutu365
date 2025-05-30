@@ -8,7 +8,7 @@
 大汗之国_西方眼中的中国 (史景迁作品)_史景迁(Spence J.)__5476549_3c9b44da46780c9bb14084299c5ed1c9.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c9b44da46780c9bb14084299c5ed1c9

@@ -8,7 +8,7 @@
 11391、_russian_Я, гангстер_Спиллейн Микки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f6bdb447d268eec9aa6a11d0d187c76

@@ -8,7 +8,7 @@
 10193、_russian_Человек в тумане_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d64b0fdce333e2309fa41dd6902b03f

@@ -8,7 +8,7 @@
 2225、_english_Свет на облаках (САМИЗДАТ)_Коваленко Владимир Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e40c5368e8f72a74520e4bfee2c107f3

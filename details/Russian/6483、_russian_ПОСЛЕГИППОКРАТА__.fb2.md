@@ -8,7 +8,7 @@
 6483、_russian_ПОСЛЕ ГИППОКРАТА__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9410a2b030c6270853d973464e04e90a

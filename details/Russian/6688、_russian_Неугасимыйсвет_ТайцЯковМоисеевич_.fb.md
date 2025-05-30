@@ -8,7 +8,7 @@
 6688、_russian_Неугасимый свет_Тайц Яков Моисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3deec724fcb41e6445947fdba593b87e

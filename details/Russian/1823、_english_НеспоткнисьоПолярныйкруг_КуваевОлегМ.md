@@ -8,7 +8,7 @@
 1823、_english_Не споткнись о Полярный круг_Куваев Олег Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f84d968cbb9a8bcd3d66943cf17c4851

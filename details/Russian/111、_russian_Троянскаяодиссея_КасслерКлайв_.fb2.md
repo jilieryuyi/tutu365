@@ -8,7 +8,7 @@
 111、_russian_Троянская одиссея_Касслер Клайв_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad59b5f98be6735b0b555a9c831d0955

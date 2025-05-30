@@ -8,7 +8,7 @@
 12169、_russian_Тайная любовь_Торп Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5dd30445d3dee6dcc4251fc1cf0ff2d6

@@ -8,7 +8,7 @@
 13878、_russian_Разум и Вера_Гинзбург Виталий Лазаревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68a6e4b68c1f15862d49465ca6bc7107

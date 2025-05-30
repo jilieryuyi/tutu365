@@ -8,7 +8,7 @@
 8151、_russian_Дети огненной воды_Васильев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5912ffb27f83d48166c20a73ca843893

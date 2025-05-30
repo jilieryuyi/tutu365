@@ -8,7 +8,7 @@
 6440、_russian_Selva Oscura_Волошин Максимилиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e62532caf16b17d729ee2e695c4d76c6

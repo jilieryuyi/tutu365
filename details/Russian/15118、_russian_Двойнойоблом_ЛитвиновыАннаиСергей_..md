@@ -8,7 +8,7 @@
 15118、_russian_Двойной облом_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2daac604558f254158dda8575c3b6f12

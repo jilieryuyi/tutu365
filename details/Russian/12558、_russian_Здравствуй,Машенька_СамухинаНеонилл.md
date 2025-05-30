@@ -8,7 +8,7 @@
 12558、_russian_Здравствуй, Машенька_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c044cbd6d4b91088c1ff3d09c17edf1b

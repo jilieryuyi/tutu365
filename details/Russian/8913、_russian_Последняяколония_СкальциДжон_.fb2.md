@@ -8,7 +8,7 @@
 8913、_russian_Последняя колония_Скальци Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 207dea2d827b66b79a52778f54c6f1a2

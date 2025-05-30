@@ -8,7 +8,7 @@
 12932、_russian_Операция “Зомби”_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 017bdb3064e493ef60f33be1775234bf

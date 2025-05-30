@@ -8,7 +8,7 @@
 1284、_russian_Варяжский сокол_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4df240864eb5cd2236b47546db69d3b

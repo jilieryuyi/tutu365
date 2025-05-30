@@ -8,7 +8,7 @@
 14752、_russian_Лавина_Стивенсон Нил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffa0fffd9aff884a170c571a26d1722c

@@ -8,7 +8,7 @@
 10180、_russian_Двойная улика_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ef42473ede66bc954b80ef47227d860

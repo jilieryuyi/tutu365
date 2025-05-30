@@ -8,7 +8,7 @@
 5849、_russian_Клубок страстей_Адамс Дженни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59dcbdf8add39953248906818ce03bc8

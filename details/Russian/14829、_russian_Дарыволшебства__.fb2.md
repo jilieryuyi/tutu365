@@ -8,7 +8,7 @@
 14829、_russian_Дары волшебства__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b1af77e9409d3c2fc3e69d92ed24314

@@ -8,7 +8,7 @@
 426、适应性市场_SoBooKs.cc & 罗闻全_中信出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 08422663d9ff79ae28fcba1380c22426

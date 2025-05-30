@@ -8,7 +8,7 @@
 10947、_russian_Пища богов_Уэллс Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce7a666d849d4a8340a0d3c2f4f0271e

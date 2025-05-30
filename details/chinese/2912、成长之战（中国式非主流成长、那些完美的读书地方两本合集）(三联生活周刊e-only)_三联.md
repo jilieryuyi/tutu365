@@ -8,7 +8,7 @@
 2912、成长之战（中国式非主流成长、那些完美的读书地方两本合集） (三联生活周刊e-only)_三联生活周刊_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e3b7171a23d05e3d9c5c383bb1f13218

@@ -8,7 +8,7 @@
 11590、_russian_Плащ и шпага_Ашар Амеде_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8c2b80b4dbc4e213e3d6c53a0957da3

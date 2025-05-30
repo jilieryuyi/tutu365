@@ -8,7 +8,7 @@
 114、第四次管理革命_SoBooKs.cc & 曹仰锋_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 37ec572338a2a02702332a7a9f789907

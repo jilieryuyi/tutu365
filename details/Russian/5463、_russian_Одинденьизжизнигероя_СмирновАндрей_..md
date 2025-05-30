@@ -8,7 +8,7 @@
 5463、_russian_Один день из жизни героя_Смирнов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7f0ed376809c98a62b979b14822a243

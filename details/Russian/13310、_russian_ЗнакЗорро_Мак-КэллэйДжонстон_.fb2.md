@@ -8,7 +8,7 @@
 13310、_russian_Знак Зорро_Мак-Кэллэй Джонстон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 454a00e05c0fd9c3ff8659627095eeeb

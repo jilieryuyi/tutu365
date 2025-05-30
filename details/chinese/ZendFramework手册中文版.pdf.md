@@ -8,7 +8,7 @@
 Zend Framework手册中文版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ebf8f148a878580711b0ece1894d1a16

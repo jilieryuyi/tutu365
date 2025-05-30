@@ -8,7 +8,7 @@
 1058、_russian_Повелители волшебства_Смирнов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd0a75dbff8fb21ed0c0ba3216bcf33e

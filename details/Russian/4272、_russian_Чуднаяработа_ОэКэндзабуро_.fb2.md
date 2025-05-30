@@ -8,7 +8,7 @@
 4272、_russian_Чудная работа_Оэ Кэндзабуро_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b08071ddb7e031e610ac6a74b2b12d1

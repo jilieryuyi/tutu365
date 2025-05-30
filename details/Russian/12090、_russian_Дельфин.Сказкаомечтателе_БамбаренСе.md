@@ -8,7 +8,7 @@
 12090、_russian_Дельфин. Сказка о мечтателе_Бамбарен Серджио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84e6606b2dfe82054a7019009e39d1a5

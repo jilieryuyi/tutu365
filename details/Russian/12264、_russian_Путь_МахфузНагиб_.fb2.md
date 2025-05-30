@@ -8,7 +8,7 @@
 12264、_russian_Путь_Махфуз Нагиб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05151bc50d1742d9745910810ce176b9

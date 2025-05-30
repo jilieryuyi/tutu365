@@ -8,7 +8,7 @@
 8295、_russian_Неукротимый_Дюбэй Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3133acfb5dc9c829b8266a7e11a9a845

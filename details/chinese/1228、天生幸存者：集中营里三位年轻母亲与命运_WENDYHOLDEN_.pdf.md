@@ -8,7 +8,7 @@
 1228、天生幸存者：集中营里三位年轻母亲与命运_WENDY HOLDEN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 58765e1fcc8795dc9f2dae2179b54817

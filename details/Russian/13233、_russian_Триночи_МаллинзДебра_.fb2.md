@@ -8,7 +8,7 @@
 13233、_russian_Три ночи_Маллинз Дебра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96b331ef275a6057f330b5a54fe4fbcc

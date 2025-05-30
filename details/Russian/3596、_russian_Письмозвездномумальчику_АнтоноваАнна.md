@@ -8,7 +8,7 @@
 3596、_russian_Письмо звездному мальчику_Антонова Анна Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a688eaba27781612797f6dce1195c6f

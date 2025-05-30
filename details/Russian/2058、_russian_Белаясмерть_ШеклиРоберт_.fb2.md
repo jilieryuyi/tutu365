@@ -8,7 +8,7 @@
 2058、_russian_Белая смерть_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cb6bdd678647b2e713d2b92afe8051e

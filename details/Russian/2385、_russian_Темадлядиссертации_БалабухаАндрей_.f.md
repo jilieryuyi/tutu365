@@ -8,7 +8,7 @@
 2385、_russian_Тема для диссертации_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62c68768311db78dbdc25811ae82ffbc

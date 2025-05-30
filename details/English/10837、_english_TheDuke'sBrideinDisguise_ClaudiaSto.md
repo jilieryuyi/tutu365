@@ -8,7 +8,7 @@
 10837、_english_The Duke's Bride in Disguise_Claudia Stone_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d185e1921ba4b496042af1d78b503d64

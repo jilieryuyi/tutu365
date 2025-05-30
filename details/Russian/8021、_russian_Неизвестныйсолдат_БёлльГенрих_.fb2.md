@@ -8,7 +8,7 @@
 8021、_russian_Неизвестный солдат_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb379b7446eb8eaeda3effe71818cbf5

@@ -8,7 +8,7 @@
 6582、_russian_Смерть няни_Бруссар Д_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe7550091e8dc59e78b8adbd8b2ba5d4

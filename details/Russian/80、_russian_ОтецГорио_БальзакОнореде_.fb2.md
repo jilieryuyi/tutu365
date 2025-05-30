@@ -8,7 +8,7 @@
 80、_russian_Отец Горио_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b98b86b9a50f5377646be1cb1d3600e

@@ -8,7 +8,7 @@
 12903、_russian_Два письма_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e346f6aedcf18a409f592770787600b4

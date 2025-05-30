@@ -8,7 +8,7 @@
 6825、_russian_Гордость и страсть_Майклз Ферн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 567a7c955c3410b7fc4bac6aa5eb9fbc

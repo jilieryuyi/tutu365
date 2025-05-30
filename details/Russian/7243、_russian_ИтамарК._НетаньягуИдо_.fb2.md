@@ -8,7 +8,7 @@
 7243、_russian_Итамар К._Нетаньягу Идо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c178bab2c04ed78764f8aad17f1c42b8

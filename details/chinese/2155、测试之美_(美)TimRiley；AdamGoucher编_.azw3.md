@@ -8,7 +8,7 @@
 2155、测试之美_(美)Tim Riley；Adam Goucher 编_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 74752ba5c3500d9a9a75616799aee057

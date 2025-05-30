@@ -8,7 +8,7 @@
 10835、_russian_Путешествие на _Кон-Тики__Хейердал Тур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0609f60b65a49a0767ab57ad32082089

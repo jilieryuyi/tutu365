@@ -8,7 +8,7 @@
 3392、_russian__Бешеные роллы__Багров Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd08839acdbdf1c87582a1207b437f38

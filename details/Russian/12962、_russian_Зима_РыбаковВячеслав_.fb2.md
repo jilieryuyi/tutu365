@@ -8,7 +8,7 @@
 12962、_russian_Зима_Рыбаков Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7857a9ae9fcb7fa72c8fd7e5c35cde65

@@ -8,7 +8,7 @@
 1170、神秘的镜像神经元_【美】格雷戈里·希科克(Gregory Hickok)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0a659ca1cd36c45553a143523c996224

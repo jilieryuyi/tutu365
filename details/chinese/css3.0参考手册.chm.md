@@ -8,7 +8,7 @@
 css3.0参考手册.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d6b1a3fd942e885b85c2fbfcb1f459ce

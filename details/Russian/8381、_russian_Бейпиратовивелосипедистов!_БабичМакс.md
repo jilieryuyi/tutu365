@@ -8,7 +8,7 @@
 8381、_russian_Бей пиратов и велосипедистов!_Бабич Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2645528be0af2a8976a0ee90a0a3a7b5

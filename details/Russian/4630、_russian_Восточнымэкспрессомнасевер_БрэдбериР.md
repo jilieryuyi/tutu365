@@ -8,7 +8,7 @@
 4630、_russian_Восточным экспрессом на север_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c66b5f2106e29df2b9ff557bf787fc57

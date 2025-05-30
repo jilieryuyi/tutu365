@@ -8,7 +8,7 @@
 10782、_russian_Бегущая по волнам_Грин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7753fa505bd16ddbb07c9aa5caf0dbc

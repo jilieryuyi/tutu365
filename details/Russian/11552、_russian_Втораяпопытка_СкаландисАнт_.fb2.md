@@ -8,7 +8,7 @@
 11552、_russian_Вторая попытка_Скаландис Ант_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb7d26d4907bd9d9b9120163ce75f6fb

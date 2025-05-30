@@ -8,7 +8,7 @@
 3993、_russian_Загадка_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e46959ff10c1b7b9fcc8b1e4f92eb0f7

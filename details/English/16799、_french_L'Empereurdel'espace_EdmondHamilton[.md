@@ -8,7 +8,7 @@
 16799、_french_L'Empereur de l'espace_Edmond Hamilton [Gregory, Daryl]_Le Bélial'.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9c213cde1b1b4f2749aaa95bc5d7565d

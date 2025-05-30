@@ -8,7 +8,7 @@
 7283、_russian_Насмешливый лик Смерти_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 909a69057554667159e0252eb43b8da1

@@ -8,7 +8,7 @@
 5977、_russian_Допрос третьей степени_Лэрд Дж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7738cc38defb0d5dd2394c4ab5c81b11

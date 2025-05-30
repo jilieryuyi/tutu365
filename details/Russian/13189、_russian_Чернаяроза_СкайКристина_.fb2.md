@@ -8,7 +8,7 @@
 13189、_russian_Черная роза_Скай Кристина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 591a0b28d499b62d5f3f43a30cb6878d

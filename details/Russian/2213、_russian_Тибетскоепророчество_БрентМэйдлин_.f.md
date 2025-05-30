@@ -8,7 +8,7 @@
 2213、_russian_Тибетское пророчество_Брент Мэйдлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b38c1131ada7f259b52e42c5c7a3d0c4

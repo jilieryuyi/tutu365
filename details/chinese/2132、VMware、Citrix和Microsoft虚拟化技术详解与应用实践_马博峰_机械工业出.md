@@ -8,7 +8,7 @@
 2132、VMware、Citrix和Microsoft虚拟化技术详解与应用实践_马博峰_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b8a07c31e6e4197b21b9933d49c68d7d

@@ -8,7 +8,7 @@
 5070、_russian_Под сенью виноградных лоз_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fcdd6e99b00d7d705e7d91ef36fb57c

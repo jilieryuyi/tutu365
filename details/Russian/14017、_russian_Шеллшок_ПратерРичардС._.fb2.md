@@ -8,7 +8,7 @@
 14017、_russian_Шеллшок_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 124d961e57187b11f9e62a71eba0980c

@@ -8,7 +8,7 @@
 3491、_russian_Сталкер_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b917a0777b5132da699fbb22421073e8

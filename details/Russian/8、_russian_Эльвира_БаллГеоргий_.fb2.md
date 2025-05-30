@@ -8,7 +8,7 @@
 8、_russian_Эльвира_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 865d1082d724a8f73f10e08c45596590

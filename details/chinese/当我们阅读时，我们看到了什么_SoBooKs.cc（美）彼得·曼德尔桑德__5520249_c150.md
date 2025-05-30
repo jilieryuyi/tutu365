@@ -8,7 +8,7 @@
 当我们阅读时，我们看到了什么_SoBooKs.cc （美）彼得·曼德尔桑德 __5520249_c150ec6e04d2bffe1cd00c88c65371b7.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c150ec6e04d2bffe1cd00c88c65371b7

@@ -8,7 +8,7 @@
 3183、_russian_Бесстрашная_Торн Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc44956ff57b4ebfb0bd3c29426d47cd

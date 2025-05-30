@@ -8,7 +8,7 @@
 8917、_russian_Корабль Древних_Макоули Пол Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 399c61bd8559bc88853a85cd37df5662

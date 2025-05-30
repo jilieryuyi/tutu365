@@ -8,7 +8,7 @@
 214、唤醒创作力：写给被“卡”住的创作者_朱莉娅·卡梅伦, SoBooKs.cc [朱莉娅·卡梅伦, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6e84c33e5ba3e680ff132371dbec3021

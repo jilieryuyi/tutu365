@@ -8,7 +8,7 @@
 12930、_english_Ruthless Knight_Elizabeth Rose_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 327416e4db2a2dc8c69c01ad725f72f3

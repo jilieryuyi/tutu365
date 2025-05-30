@@ -8,7 +8,7 @@
 14662、_russian_Мы сделаем вас счастливыми_Мэкомбер Дебби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 360a7ed27301d9ed3b12c02278595e37

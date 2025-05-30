@@ -8,7 +8,7 @@
 5da923be56d0f_日本防卫研究所__5269594_fced3dffc9238ddecfe2af9be22bf55b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fced3dffc9238ddecfe2af9be22bf55b

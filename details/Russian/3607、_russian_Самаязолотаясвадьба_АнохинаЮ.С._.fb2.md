@@ -8,7 +8,7 @@
 3607、_russian_Самая золотая свадьба_Анохина Ю. С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 799340693aa8cc89014ee21bb0bd4e0a

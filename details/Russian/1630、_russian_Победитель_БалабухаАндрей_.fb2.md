@@ -8,7 +8,7 @@
 1630、_russian_Победитель_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57ab5273b4d12193fea66b294de50cab

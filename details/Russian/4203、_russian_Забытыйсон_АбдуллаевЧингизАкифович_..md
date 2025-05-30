@@ -8,7 +8,7 @@
 4203、_russian_Забытый сон_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ddfa21903dff7c23e82211c23d71e476

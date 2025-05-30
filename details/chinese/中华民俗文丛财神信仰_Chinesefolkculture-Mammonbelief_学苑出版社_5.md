@@ -8,7 +8,7 @@
 中华民俗文丛 财神信仰_Chinese folk culture - Mammon belief_学苑出版社_5449071_0714f29161e5a44aafc6be66eb04076f.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0714f29161e5a44aafc6be66eb04076f

@@ -8,7 +8,7 @@
 3804、_russian_Селение любви_Гергенрёдер Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21ff82e0af8480c31c7de42a17b5c1a3

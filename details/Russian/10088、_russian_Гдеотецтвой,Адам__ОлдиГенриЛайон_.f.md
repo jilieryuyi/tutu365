@@ -8,7 +8,7 @@
 10088、_russian_Где отец твой, Адам__Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd4b4f28731fadd071130f530c038ea7

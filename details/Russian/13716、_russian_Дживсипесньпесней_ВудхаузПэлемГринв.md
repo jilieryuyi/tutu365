@@ -8,7 +8,7 @@
 13716、_russian_Дживс и песнь песней_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfb062b9726d11aabae1ebe06f772033

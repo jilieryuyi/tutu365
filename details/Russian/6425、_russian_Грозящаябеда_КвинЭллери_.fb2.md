@@ -8,7 +8,7 @@
 6425、_russian_Грозящая беда_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da44caf18c1ccf65159f209cf6dbb5ae

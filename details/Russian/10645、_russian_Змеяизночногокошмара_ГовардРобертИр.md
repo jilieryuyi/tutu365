@@ -8,7 +8,7 @@
 10645、_russian_Змея из ночного кошмара_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e0148bd4155b8ff8843ade61a55726c

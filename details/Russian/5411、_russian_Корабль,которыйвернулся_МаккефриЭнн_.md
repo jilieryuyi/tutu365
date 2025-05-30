@@ -8,7 +8,7 @@
 5411、_russian_Корабль, который вернулся_Маккефри Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cff91b32e09b2d69d0a53e230ef5bec6

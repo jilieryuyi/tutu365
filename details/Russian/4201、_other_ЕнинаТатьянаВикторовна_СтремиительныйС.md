@@ -8,7 +8,7 @@
 4201、_other_Енина Татьяна Викторовна_Стремиительный Свет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7db26943e92bc1a2f59efe9a7513cad6

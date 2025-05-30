@@ -8,7 +8,7 @@
 2248、_russian_Проект Кризис__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29d6ff10589c9262327c99529caeb303

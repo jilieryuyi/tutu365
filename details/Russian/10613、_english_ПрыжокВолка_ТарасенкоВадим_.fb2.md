@@ -8,7 +8,7 @@
 10613、_english_Прыжок Волка_Тарасенко Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 689793ba707fe4285b0bcae89f27b0c9

@@ -8,7 +8,7 @@
 2946、_russian_Последние назидания_Климонтович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f8b86d0c9d672e990537638965b35ff

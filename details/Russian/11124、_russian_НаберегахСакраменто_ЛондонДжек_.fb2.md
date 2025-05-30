@@ -8,7 +8,7 @@
 11124、_russian_На берегах Сакраменто_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df278d8a6b173cd702d9593ad5dc5de9

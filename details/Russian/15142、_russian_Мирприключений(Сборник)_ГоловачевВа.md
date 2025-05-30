@@ -8,7 +8,7 @@
 15142、_russian_Мир приключений (Сборник)_Головачев Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c22a772f7c7f31dd250bd49de9766e10

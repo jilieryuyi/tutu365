@@ -8,7 +8,7 @@
 11925、_russian_Абсолютные друзья_Карре Джон Ле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a099326b1f83852a2c00212653471457

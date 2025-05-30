@@ -8,7 +8,7 @@
 13700、_russian_Общество для Гертруды_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cefa65e2877c0eaec02b243affcc6eea

@@ -8,7 +8,7 @@
 7587、_russian_Пять президентов_Багряк Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69047edd1d4bc21c04c9edd8fb3c6015

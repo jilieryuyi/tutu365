@@ -8,7 +8,7 @@
 159、富可敌国（经典版）_SoBooKs.cc 塞巴斯蒂安·马拉比(Sebastian Mallaby) [塞巴斯蒂安·马拉比(Sebastian Mallaby), SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3da018fb5cbd970730486ea55503215b

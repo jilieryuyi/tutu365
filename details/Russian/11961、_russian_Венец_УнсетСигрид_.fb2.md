@@ -8,7 +8,7 @@
 11961、_russian_Венец_Унсет Сигрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74a34b50295d79f2d68f0b1ed4917a45

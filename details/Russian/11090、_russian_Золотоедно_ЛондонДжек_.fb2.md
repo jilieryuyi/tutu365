@@ -8,7 +8,7 @@
 11090、_russian_Золотое дно_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dce67446f059dabe5fe2cfb241a4de73

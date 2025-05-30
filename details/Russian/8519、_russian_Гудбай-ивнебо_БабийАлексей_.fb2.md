@@ -8,7 +8,7 @@
 8519、_russian_Гуд бай - и в небо_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7356cc683744a01b31a7839875032364

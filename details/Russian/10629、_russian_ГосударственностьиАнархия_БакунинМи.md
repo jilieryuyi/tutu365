@@ -8,7 +8,7 @@
 10629、_russian_Государственность и Анархия_Бакунин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bebabebe324ac98b6086ccc146797ad

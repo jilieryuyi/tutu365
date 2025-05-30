@@ -8,7 +8,7 @@
 6097、_russian_Свет вечерний_Иванов Вячеслав Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e984f83cf51394b9aa08fc6ef6a6c1b0

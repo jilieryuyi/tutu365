@@ -8,7 +8,7 @@
 3451、_russian_Фуггази-Джаз_Калугин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7396b72385ca16290e290abed08e6998

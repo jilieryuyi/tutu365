@@ -8,7 +8,7 @@
 8864、_russian_Повесть о рыжей девочке_Будогоская Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4079dce0a42c9a871479eacb8eb1d5a5

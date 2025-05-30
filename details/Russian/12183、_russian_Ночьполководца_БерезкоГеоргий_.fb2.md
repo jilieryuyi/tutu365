@@ -8,7 +8,7 @@
 12183、_russian_Ночь полководца_Березко Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6300b8113da5261c223e99bbd5cb150f

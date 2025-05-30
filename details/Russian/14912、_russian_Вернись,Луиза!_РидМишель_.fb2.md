@@ -8,7 +8,7 @@
 14912、_russian_Вернись, Луиза!_Рид Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8da610f0d1b1dabbe69751987f472d81

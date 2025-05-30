@@ -8,7 +8,7 @@
 1637、_russian_Ростки мёртвого мира_Артемьев Р. Г._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cfcc1b1a24f3aa1f2aa85eb5584fc98

@@ -8,7 +8,7 @@
 11474、_french_Caligula_Nerval Gérard de_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 22213a3ec071422afbe6af260ac8ea3c

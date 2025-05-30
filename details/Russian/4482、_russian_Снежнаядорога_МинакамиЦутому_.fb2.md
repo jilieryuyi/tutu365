@@ -8,7 +8,7 @@
 4482、_russian_Снежная дорога_Минаками Цутому_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1ebaf3dd0af82f4ddac13f503160416

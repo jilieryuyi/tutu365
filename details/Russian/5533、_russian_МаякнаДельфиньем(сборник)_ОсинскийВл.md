@@ -8,7 +8,7 @@
 5533、_russian_Маяк на Дельфиньем (сборник)_Осинский Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4493ae1e8d4d19aeb235fe0a4d0ad5b0

@@ -8,7 +8,7 @@
 12354、_russian_Муж, жена, любовница_Рой Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3672b195284aeec9927f5d7737ec896

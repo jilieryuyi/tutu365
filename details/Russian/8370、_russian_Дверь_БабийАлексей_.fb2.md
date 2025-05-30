@@ -8,7 +8,7 @@
 8370、_russian_Дверь_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c509832772c542fa1726922005ef78b9

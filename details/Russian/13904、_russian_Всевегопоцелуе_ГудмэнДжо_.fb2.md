@@ -8,7 +8,7 @@
 13904、_russian_Все в его поцелуе_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 152f6fdf3faec5f5833a2657eafa48e6

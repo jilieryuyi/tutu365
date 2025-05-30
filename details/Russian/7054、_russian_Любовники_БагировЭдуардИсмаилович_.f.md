@@ -8,7 +8,7 @@
 7054、_russian_Любовники_Багиров Эдуард Исмаилович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a28203354ed3667c72f4f3c27c7d2f1

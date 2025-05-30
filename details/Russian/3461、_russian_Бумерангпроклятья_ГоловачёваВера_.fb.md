@@ -8,7 +8,7 @@
 3461、_russian_Бумеранг проклятья_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7dba8e989565b3e99ff5f31349815c7b

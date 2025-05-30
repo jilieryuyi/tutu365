@@ -8,7 +8,7 @@
 11747、_russian__Какое было удовольствие…__Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a09f7469626dffb86c5704179807abe6

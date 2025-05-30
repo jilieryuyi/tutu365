@@ -8,7 +8,7 @@
 11425、_russian_Великая фальшивка Февраля_Солоневич Иван Лукьянович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f44630a157f4fe85532f2d87dba4d87e

@@ -8,7 +8,7 @@
 10433、_russian_Степан Разин_Горобец Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5623d01f9ff9a60f4a3c8f0929f9cb00

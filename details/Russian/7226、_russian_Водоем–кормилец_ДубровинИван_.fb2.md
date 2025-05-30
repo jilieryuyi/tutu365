@@ -8,7 +8,7 @@
 7226、_russian_Водоем – кормилец_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f72b4719fa02cc901e4bf25d820c635d

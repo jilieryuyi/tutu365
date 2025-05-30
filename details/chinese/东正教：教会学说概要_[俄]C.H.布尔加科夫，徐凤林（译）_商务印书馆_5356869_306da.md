@@ -8,7 +8,7 @@
 东正教：教会学说概要_[俄] C.H.布尔加科夫，徐凤林（译）_商务印书馆_5356869_306da89c51dc6f5e225e367ec093da92.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 306da89c51dc6f5e225e367ec093da92

@@ -8,7 +8,7 @@
 13748、_russian_Триумфатор_Пучков Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39a39b383617efc761a5c96d34714204

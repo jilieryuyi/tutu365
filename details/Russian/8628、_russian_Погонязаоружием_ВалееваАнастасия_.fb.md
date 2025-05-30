@@ -8,7 +8,7 @@
 8628、_russian_Погоня за оружием_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 758e7421eacb6d41e7a707ef407ac44f

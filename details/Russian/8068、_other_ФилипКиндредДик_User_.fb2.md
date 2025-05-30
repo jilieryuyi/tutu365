@@ -8,7 +8,7 @@
 8068、_other_Филип Киндред Дик_User_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c5890f62b9d42c1378e6614ce574607

@@ -8,7 +8,7 @@
 12761、_russian_Крик единорога_Врочек Шимун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80aea465f5ca45bb4275a79c6a4729ab

@@ -8,7 +8,7 @@
 1924、_russian_Деловое соглашение_Джоунс Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 674896dfdafc0d0aad0abde853c8c621

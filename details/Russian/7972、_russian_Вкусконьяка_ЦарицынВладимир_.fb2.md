@@ -8,7 +8,7 @@
 7972、_russian_Вкус коньяка_Царицын Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 624334c97c4b255111317fb729054d66

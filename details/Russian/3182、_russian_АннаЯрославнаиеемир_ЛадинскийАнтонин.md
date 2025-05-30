@@ -8,7 +8,7 @@
 3182、_russian_Анна Ярославна и ее мир_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d2949dbd13ecdd311ae7eafbe4499e6

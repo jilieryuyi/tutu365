@@ -8,7 +8,7 @@
 传染病的文化史 (历史·文化经典译丛)_洛伊斯·N.玛格纳 [洛伊斯·N.玛格纳]__5539597_02e841ca102f620f82d1347a286ca6f0.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 02e841ca102f620f82d1347a286ca6f0

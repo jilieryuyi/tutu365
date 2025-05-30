@@ -8,7 +8,7 @@
 14622、_russian_День танцующего ветра_Инадзава Дзюнко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dcffdd436dd7967e2178a96efdae94d

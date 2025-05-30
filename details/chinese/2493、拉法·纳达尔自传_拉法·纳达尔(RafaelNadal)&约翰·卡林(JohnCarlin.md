@@ -8,7 +8,7 @@
 2493、拉法·纳达尔自传_拉法·纳达尔 (Rafael Nadal) & 约翰·卡林 (John Carlin)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fb0953d6404ee214a47e40fc257627ef

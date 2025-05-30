@@ -8,7 +8,7 @@
 7998、_russian_Приказано умереть_Колычев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fd99dbe28bc7c6bb509ef68f41615cf

@@ -8,7 +8,7 @@
 10642、_russian_Зверь из бездны_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6193eb00c6176911fed875eddb59c25

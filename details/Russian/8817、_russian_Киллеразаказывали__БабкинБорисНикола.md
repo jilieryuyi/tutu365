@@ -8,7 +8,7 @@
 8817、_russian_Киллера заказывали__Бабкин Борис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b30fea856965288bfe28900e4e12535e

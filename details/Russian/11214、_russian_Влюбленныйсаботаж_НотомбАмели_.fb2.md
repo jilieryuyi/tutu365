@@ -8,7 +8,7 @@
 11214、_russian_Влюбленный саботаж_Нотомб Амели_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20e35c022f3d45c3c905e16e4521b33b

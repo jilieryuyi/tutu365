@@ -8,7 +8,7 @@
 6804、_russian_Девушка из Пантикапея_Давыдов Исай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea17088dd8d341473d739e7c661358b3

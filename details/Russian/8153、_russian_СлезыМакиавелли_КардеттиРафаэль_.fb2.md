@@ -8,7 +8,7 @@
 8153、_russian_Слезы Макиавелли_Кардетти Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e8d4a4e00b9f8c9e5a82e0d83a51dcf

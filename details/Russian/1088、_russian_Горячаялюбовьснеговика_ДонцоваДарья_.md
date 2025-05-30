@@ -8,7 +8,7 @@
 1088、_russian_Горячая любовь снеговика_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1996c627fcf6a418c522dfd53bb2e282

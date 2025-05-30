@@ -8,7 +8,7 @@
 1920、_russian_Превыше соблазна_Маккол Мэри Рид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c182327df0abacd125ceaab10ee8fbaa

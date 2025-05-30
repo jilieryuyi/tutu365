@@ -8,7 +8,7 @@
 10504、_russian_Пани П____ЮРЬЕНЕН Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbb1dce9567ab9520986a448f0de191a

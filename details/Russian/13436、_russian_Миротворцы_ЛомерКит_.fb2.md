@@ -8,7 +8,7 @@
 13436、_russian_Миротворцы_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ef0c3cb74c20dc73a2339711bc21179

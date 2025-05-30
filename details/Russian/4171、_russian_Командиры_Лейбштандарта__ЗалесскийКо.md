@@ -8,7 +8,7 @@
 4171、_russian_Командиры _Лейбштандарта__Залесский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 962bde8922b13a71ceccc58290845a4a

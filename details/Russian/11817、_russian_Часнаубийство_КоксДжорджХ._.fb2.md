@@ -8,7 +8,7 @@
 11817、_russian_Час на убийство_Кокс Джордж Х._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d2b6d320192e5870a90c9b50eb7c14a

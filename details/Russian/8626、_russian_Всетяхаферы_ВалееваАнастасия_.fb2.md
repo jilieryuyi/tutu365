@@ -8,7 +8,7 @@
 8626、_russian_В сетях аферы_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44ab4a9b2651b15a0c85bb21ae1a6c61

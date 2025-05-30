@@ -8,7 +8,7 @@
 12627、_russian_Сиротская доля_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc6885b56084232fd706cd1035fa2ba8

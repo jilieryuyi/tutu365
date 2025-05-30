@@ -8,7 +8,7 @@
 13384、_russian_Сладкая месть_Грэхем Линн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42bf769ac17795765e86952271634567

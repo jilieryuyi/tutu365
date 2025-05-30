@@ -8,7 +8,7 @@
 3935、_russian_Миссия _Ермак__Слюсаренко Сергей Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d972d92bc7883218c2fa0eac63bf2d4b

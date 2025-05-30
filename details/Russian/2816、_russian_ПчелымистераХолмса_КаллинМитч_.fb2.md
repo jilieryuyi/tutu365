@@ -8,7 +8,7 @@
 2816、_russian_Пчелы мистера Холмса_Каллин Митч_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e45e65d9e9de1b8fbbcb2ddad7a674f9

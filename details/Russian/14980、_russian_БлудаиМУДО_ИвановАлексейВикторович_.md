@@ -8,7 +8,7 @@
 14980、_russian_Блуда и МУДО_Иванов Алексей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d311e4129e055c03336f8dc9b35fad40

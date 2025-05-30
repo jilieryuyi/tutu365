@@ -8,7 +8,7 @@
 926、中国古代房内考_[荷兰] 高罗佩_epub掌上书苑.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 041f2186489cfb02e88d3f494d21cb14

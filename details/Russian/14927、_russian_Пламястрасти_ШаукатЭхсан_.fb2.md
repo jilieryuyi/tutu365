@@ -8,7 +8,7 @@
 14927、_russian_Пламя страсти_Шаукат Эхсан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2f1ffbde6465dd764dc00d80b593558

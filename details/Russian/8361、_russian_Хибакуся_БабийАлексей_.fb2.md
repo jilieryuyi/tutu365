@@ -8,7 +8,7 @@
 8361、_russian_Хибакуся_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89f470dd98b9a8c7b196eca00ba1c128

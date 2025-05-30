@@ -8,7 +8,7 @@
 12842、_russian_Агония_Леонов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba9f872ed65a1943705259abc1a98786

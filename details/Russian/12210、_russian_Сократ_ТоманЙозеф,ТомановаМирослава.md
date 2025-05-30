@@ -8,7 +8,7 @@
 12210、_russian_Сократ_Томан Йозеф, Томанова Мирослава_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88849b93b48065ad64e0369b1d1cc3c4

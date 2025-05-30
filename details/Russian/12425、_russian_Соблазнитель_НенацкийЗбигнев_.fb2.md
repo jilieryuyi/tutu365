@@ -8,7 +8,7 @@
 12425、_russian_Соблазнитель_Ненацкий Збигнев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 005e00b689196b50eb6eff63a29886dd

@@ -8,7 +8,7 @@
 13340、_russian_Три дороги_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68d821649101a944f9017e62f2f77040

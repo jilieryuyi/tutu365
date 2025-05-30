@@ -8,7 +8,7 @@
 NO GAME NO LIFE BD VOL.04特典小説_榎宫佑__5444068_c9ffb936ff851bf8cae911d927a6e703.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c9ffb936ff851bf8cae911d927a6e703

@@ -8,7 +8,7 @@
 6308、_russian_Соколиная охота_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88bcf3dec2f1e0788781b36f353efdb2

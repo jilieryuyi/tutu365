@@ -8,7 +8,7 @@
 6893、_russian_Ранние стихотворения_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 569f5b7155c50db25c3d703954556f26

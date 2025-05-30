@@ -8,7 +8,7 @@
 10946、_russian_Кодекс Воина Духа_Баранова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f20b1daf1166876e39cd01b56bc5acbe

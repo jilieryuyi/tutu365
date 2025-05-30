@@ -8,7 +8,7 @@
 金融危机简史：2000年来的投机、狂热与崩溃_【英】斯瓦卢普（Swarup,B. ）__5528881_0193fd3e37cc931d2f8f35a779eca5cd.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0193fd3e37cc931d2f8f35a779eca5cd

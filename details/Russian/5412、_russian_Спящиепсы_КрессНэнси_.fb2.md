@@ -8,7 +8,7 @@
 5412、_russian_Спящие псы_Кресс Нэнси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9af1e195d4ea9c4641346a3c09de3c05

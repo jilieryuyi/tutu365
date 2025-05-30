@@ -8,7 +8,7 @@
 14608、_english_Warrior's Secret_Jayne Castel_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 40622622675019a00c6e40bb817016e9

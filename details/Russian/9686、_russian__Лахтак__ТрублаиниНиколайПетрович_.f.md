@@ -8,7 +8,7 @@
 9686、_russian__Лахтак__Трублаини Николай Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 799402cc24f839f4113795810125d63a

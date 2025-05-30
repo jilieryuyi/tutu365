@@ -8,7 +8,7 @@
 8380、_russian_Зачёт_Бабкин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 590f9ff0101c8ff0048a0e787e59a9e8

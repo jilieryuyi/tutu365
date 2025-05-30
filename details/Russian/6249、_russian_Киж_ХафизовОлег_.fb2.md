@@ -8,7 +8,7 @@
 6249、_russian_Киж_Хафизов Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b5276cef22b78e097b64228c103ca96

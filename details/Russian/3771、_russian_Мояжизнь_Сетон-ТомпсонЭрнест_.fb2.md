@@ -8,7 +8,7 @@
 3771、_russian_Моя жизнь_Сетон-Томпсон Эрнест_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5950503365290e3da5f53322fa41c4a6

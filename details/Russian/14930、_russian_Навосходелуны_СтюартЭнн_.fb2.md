@@ -8,7 +8,7 @@
 14930、_russian_На восходе луны_Стюарт Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9e458264dd14bc72c22d34c725aea2c

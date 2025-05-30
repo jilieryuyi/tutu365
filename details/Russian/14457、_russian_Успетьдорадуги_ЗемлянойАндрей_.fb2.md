@@ -8,7 +8,7 @@
 14457、_russian_Успеть до радуги_Земляной Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3fdbd1271cda6a264d16e462a66c781

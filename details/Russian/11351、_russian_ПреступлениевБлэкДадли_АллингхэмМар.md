@@ -8,7 +8,7 @@
 11351、_russian_Преступление в Блэк Дадли_Аллингхэм Марджери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51ebcf2fbfd4ca3ac83923296dfc7f8e

@@ -8,7 +8,7 @@
 2983、_russian_Энтропия_Гейде Марианна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43d438e79110ca49684c4215cff4abc1

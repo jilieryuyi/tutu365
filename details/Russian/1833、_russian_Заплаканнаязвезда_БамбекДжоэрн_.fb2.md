@@ -8,7 +8,7 @@
 1833、_russian_Заплаканная звезда_Бамбек Джоэрн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd3de355ad55b44037b42e7453c102a8

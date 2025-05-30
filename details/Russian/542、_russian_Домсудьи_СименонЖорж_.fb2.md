@@ -8,7 +8,7 @@
 542、_russian_Дом судьи_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 063a92de8ee4a675ddd742343b99a518

@@ -8,7 +8,7 @@
 8637、_russian_Вирус любви_Усачева Елена Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1eefcc29ed023c7f4d84f6e9cd10f42a

@@ -8,7 +8,7 @@
 13276、_russian_Последняя база_Черри Кэролайн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 187d08efc94a178837130d3f4d1e3b63

@@ -8,7 +8,7 @@
 4355、_russian_Моя жизнь_Троцкий Лев Давидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5114463e5116b0cba854ec5eb7a92dc4

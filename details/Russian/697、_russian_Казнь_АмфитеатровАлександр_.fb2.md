@@ -8,7 +8,7 @@
 697、_russian_Казнь_Амфитеатров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf105f4ec841afcdd75f7ae20a712104

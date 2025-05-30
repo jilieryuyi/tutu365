@@ -8,7 +8,7 @@
 5819、_russian_Секс и страх_Киньяр Паскаль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d73dd206b30ab80e9bb7020bbfba80fd

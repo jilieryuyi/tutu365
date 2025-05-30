@@ -8,7 +8,7 @@
 13802、_russian_История с географией_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c19a73926db893a2e4487cee3b86380

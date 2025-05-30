@@ -8,7 +8,7 @@
 2087、Python Web开发：测试驱动方法_[英] Harry J.W. Percival_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d2201ec17fec917ae29b3c782e3978ff

@@ -8,7 +8,7 @@
 6167、_russian_КАДРИ_Раннамаа Сильвия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65152cb0cb4c11f29725ef350c38cc2a

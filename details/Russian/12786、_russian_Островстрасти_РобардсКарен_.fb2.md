@@ -8,7 +8,7 @@
 12786、_russian_Остров страсти_Робардс Карен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f183d749d2ff5e7752427612cc5a5871

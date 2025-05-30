@@ -8,7 +8,7 @@
 4756、_english_Knight's Treasure_Amanda Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c6143c71e9d39f84d193509ce6a2fc0f

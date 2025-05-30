@@ -8,7 +8,7 @@
 4734、_english_The Duke's Daughters_Amanda Scot_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 997ada21913c853c0ee5025f70b52e9c

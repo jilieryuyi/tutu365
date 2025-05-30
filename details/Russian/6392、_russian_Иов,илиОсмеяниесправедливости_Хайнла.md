@@ -8,7 +8,7 @@
 6392、_russian_Иов, или Осмеяние справедливости_Хайнлайн Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5591d460cc27da4a8745ad3d144edd03

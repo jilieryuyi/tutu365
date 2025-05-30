@@ -8,7 +8,7 @@
 8127、_russian_Грани Нижнего мира_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 403c5e1df03174d139231778f98a26ae

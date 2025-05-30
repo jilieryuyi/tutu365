@@ -8,7 +8,7 @@
 5796、_russian_Комментарии к пройденному_Стругацкий Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 041f1b7f93c496a922220306f7cba01d

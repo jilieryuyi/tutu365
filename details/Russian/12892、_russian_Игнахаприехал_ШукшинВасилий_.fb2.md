@@ -8,7 +8,7 @@
 12892、_russian_Игнаха приехал_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d209c7e8be5eddc49b42c21725c7025

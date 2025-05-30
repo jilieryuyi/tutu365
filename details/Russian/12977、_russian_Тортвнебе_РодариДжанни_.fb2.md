@@ -8,7 +8,7 @@
 12977、_russian_Торт в небе_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2dc08bc6fc71719f798ed4c92d5f2243

@@ -8,7 +8,7 @@
 4645、_russian_NLP. Полное практическое руководство_Олдер Гарри, Хэзер Берил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cfe05343fdbccb52d3883ede187f803

@@ -8,7 +8,7 @@
 Windows编程循序渐进(清晰完整版).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e17fe5d76610813512aca0e791adc205

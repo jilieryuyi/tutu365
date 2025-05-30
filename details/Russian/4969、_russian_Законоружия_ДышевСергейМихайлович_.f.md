@@ -8,7 +8,7 @@
 4969、_russian_Закон оружия_Дышев Сергей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76ddce21fe7ade3c4d4a694764bd6c06

@@ -8,7 +8,7 @@
 12050、_russian_Красавица и ковбой_Картер Розмари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 384650992a438bd80e9822fc0dd2a2af

@@ -8,7 +8,7 @@
 12718、_russian_Зверинец_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcbc7f3800c4ac3d0d77379db3c0b895

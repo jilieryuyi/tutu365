@@ -8,7 +8,7 @@
 10377、_russian_Хранитель понятий_Чубаха Игорь, Логачев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e157b6e6e37fdae10450efbb0d83ecb

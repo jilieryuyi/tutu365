@@ -8,7 +8,7 @@
 11、冰与火之歌1-5卷_乔治 R_R_马丁(Martin.G.R.R.)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fb7f3c6129b7d8509ff51e6188265a1b

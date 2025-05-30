@@ -8,7 +8,7 @@
 16797、_french_Le Défi_Edmond Hamilton [Gregory, Daryl]_Le Bélial'.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 312a51cecc6c36db132526a5ac12bfcb

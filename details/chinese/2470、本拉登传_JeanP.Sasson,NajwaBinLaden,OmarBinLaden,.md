@@ -8,7 +8,7 @@
 2470、本拉登传_Jean P. Sasson, Najwa Bin Laden, Omar Bin Laden, 陈嘉宁_金城出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1b5ddbc86b3d4f462a84e9b732a0bb7c

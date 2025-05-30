@@ -8,7 +8,7 @@
 10475、_english_The Frost Maiden's Kiss_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cb51c97b8f4ae8514d7e6d569b29f954

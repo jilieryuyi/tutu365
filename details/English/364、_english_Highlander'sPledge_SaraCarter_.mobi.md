@@ -8,7 +8,7 @@
 364、_english_Highlander's Pledge_Sara Carter_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ca37ea3d53e81dc7bef0c73304532c2c

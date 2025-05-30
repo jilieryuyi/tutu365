@@ -8,7 +8,7 @@
 2074、_russian_Пришествие_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f8d5ab08fdafde673764c1b78e3286c

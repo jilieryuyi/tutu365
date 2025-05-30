@@ -8,7 +8,7 @@
 6934、_russian_Эрехтей_Суинберн Алджернон Чарлз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bf48d62feb486b955540fbdcdf00220

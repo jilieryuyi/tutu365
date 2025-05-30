@@ -8,7 +8,7 @@
 60、世界的凛冬_（英）肯•福莱特 Ken Follett [Follett, （英）肯•福莱特 Ken]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c68b6213af881902baecb2fa765dd5c

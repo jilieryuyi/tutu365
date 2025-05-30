@@ -8,7 +8,7 @@
 1530、经理人常犯的11种错误 (时代光华培训大师书系)_Publisher           _ 广东省出版集团，广东经济出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 94163dd78be55764403e525b57aa321c

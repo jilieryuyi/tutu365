@@ -8,7 +8,7 @@
 1925、_russian_Нарушитель сделки_Кобен Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a5b9556fa78d1248db5c4aae2ac9805

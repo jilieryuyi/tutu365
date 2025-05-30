@@ -8,7 +8,7 @@
 9822、_russian_История_Гюго Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ec156e1e689ec4d044d6d4768fe43e3

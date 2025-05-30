@@ -8,7 +8,7 @@
 3197、_russian_Королевская любовь_Кендрик Шэрон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21457921cfc4d8379b11b424fbe4cf26

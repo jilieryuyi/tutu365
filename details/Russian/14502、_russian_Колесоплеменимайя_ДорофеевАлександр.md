@@ -8,7 +8,7 @@
 14502、_russian_Колесо племени майя_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6dbf5bdc270d009a440677f92927d02b

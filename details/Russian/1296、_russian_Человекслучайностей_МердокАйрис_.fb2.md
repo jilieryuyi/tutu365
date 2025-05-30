@@ -8,7 +8,7 @@
 1296、_russian_Человек случайностей_Мердок Айрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0433e5e2e5de40969d9464457a756500

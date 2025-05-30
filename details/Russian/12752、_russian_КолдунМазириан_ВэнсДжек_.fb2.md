@@ -8,7 +8,7 @@
 12752、_russian_Колдун Мазириан_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ea48d6f0695c4820d50895a3cee7957

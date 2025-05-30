@@ -8,7 +8,7 @@
 14081、_russian_Тринити_Арсенов Яков_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b91a8161098a43861995f43e433c79c8

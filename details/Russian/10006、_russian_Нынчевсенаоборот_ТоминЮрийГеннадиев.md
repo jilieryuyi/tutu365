@@ -8,7 +8,7 @@
 10006、_russian_Нынче все наоборот_Томин Юрий Геннадиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cec9b6b66566f8b43ef8e8316b2a40da

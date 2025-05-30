@@ -8,7 +8,7 @@
 11984、_russian_Черная магия_Клейн Жерар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d486e134e9a592ebbed88aa9bfc3e8c9

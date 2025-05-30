@@ -8,7 +8,7 @@
 14357、_russian_Мемуары_Кундухов Мусса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b12ae631c44f66dadba97b20e47d2a59

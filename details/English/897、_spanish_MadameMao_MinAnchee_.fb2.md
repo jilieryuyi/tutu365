@@ -8,7 +8,7 @@
 897、_spanish_Madame Mao_Min Anchee_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1aef770a9cd32bd868641c0f4b30ecb4

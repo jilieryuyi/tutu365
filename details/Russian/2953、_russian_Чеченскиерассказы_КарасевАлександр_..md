@@ -8,7 +8,7 @@
 2953、_russian_Чеченские рассказы_Карасев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdda3331a9016502cc9f602ab6c31b9c

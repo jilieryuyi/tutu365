@@ -8,7 +8,7 @@
 11755、_russian_Укороченный удар_Кобен Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a86d1cc00c51b256a0e83f2f576e1a93

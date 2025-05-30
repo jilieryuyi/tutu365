@@ -8,7 +8,7 @@
 6811、_russian_Рассвет судьбы_Битнер Розанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8db467d6069bc8d54be7150b480b9415

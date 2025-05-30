@@ -8,7 +8,7 @@
 6776、_english_Wild fire_Demille Nelson_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8f29278f6167e86ae24145467a63de8d

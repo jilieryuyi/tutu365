@@ -8,7 +8,7 @@
 7985、_russian_Звездный патент_Градинар Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8285c179052392e937c9c29da30ae4d2

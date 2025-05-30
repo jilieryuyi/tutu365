@@ -8,7 +8,7 @@
 10538、_russian_Подарок феи_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bffc1dc7227ed089ab096754ea8c159e

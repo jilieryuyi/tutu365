@@ -8,7 +8,7 @@
 12374、_russian_Цветы, желания и домино_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb5ac20642058c19b1ffde6bb703640f

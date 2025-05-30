@@ -8,7 +8,7 @@
 8362、_russian_УЖ_ здесь был Леша_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2b765c4d5672a745e5f8a418613f397

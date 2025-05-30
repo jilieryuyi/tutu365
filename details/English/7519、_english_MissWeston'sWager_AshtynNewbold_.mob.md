@@ -8,7 +8,7 @@
 7519、_english_Miss Weston's Wager_Ashtyn Newbold_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e942a9a9171db066c170ecc840f60f90

@@ -8,7 +8,7 @@
 12822、_russian_Риск – это наша работа_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afce6089c9f3cb5be93666bb80a66d8f

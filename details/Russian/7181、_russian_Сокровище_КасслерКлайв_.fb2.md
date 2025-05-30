@@ -8,7 +8,7 @@
 7181、_russian_Сокровище_Касслер Клайв_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cda397e8c9cce43f3e2ff09addb72a7

@@ -8,7 +8,7 @@
 3512、_russian_Чудо десяти дней_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23819d1e15022afbc33abc7ba5d0361a

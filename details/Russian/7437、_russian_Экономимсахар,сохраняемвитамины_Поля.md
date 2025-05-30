@@ -8,7 +8,7 @@
 7437、_russian_Экономим сахар, сохраняем витамины_Поляков Ю. Б._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dfb5be03ca4aab13dffec3bd7b734b81

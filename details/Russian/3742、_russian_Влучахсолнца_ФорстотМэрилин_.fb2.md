@@ -8,7 +8,7 @@
 3742、_russian_В лучах солнца_Форстот Мэрилин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84611c5bd64055091a5551d638eecd1b

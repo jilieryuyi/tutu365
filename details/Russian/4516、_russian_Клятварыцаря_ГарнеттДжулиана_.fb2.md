@@ -8,7 +8,7 @@
 4516、_russian_Клятва рыцаря_Гарнетт Джулиана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0623fbd3eb1e8d9aba44ee344f2f5356

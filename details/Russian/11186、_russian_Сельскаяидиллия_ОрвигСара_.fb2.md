@@ -8,7 +8,7 @@
 11186、_russian_Сельская идиллия_Орвиг Сара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79a657f866d8178c72d90197500e60d4

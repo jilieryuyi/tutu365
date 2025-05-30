@@ -8,7 +8,7 @@
 10841、_russian_Даже у королевы_Уиллис Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53e8ef10046c85cf0c88d6d330ed8d82

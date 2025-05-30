@@ -8,7 +8,7 @@
 5087、_russian_ПРОТИВ ГЕРМОГЕНА_Тертуллиан Квинт Септимий Флорент_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f58b3bb12bd0be426d073e129ecf503

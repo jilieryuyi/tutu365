@@ -8,7 +8,7 @@
 6817、_russian_Серебряный лебедь_Мартин Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6292c0df27585950e7f0ca08bd91e44

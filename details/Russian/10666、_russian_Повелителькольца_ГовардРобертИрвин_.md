@@ -8,7 +8,7 @@
 10666、_russian_Повелитель кольца_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a54fc16af1873fe9e1290b3d51c2062

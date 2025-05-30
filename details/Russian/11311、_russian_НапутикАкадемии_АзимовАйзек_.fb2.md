@@ -8,7 +8,7 @@
 11311、_russian_На пути к Академии_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71f4e794a2168c0aedad7e378baaf0aa

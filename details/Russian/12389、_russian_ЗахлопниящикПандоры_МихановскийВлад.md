@@ -8,7 +8,7 @@
 12389、_russian_Захлопни ящик Пандоры_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71f0c9ed2604b705256d830e1abee3d3

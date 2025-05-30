@@ -8,7 +8,7 @@
 12603、_russian_Ноктюрн_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef1678e0de723429b15783f7e3ddd13d

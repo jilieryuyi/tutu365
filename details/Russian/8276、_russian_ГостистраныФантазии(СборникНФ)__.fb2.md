@@ -8,7 +8,7 @@
 8276、_russian_Гости страны Фантазии (Сборник НФ)__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0352ebe7434f7db55224a7d6dbb86f35

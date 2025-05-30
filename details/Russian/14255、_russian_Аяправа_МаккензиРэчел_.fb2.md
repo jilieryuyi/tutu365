@@ -8,7 +8,7 @@
 14255、_russian_А я права_Маккензи Рэчел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc7450ceb0d9e720ac672209264d1f89

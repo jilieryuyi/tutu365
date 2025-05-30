@@ -8,7 +8,7 @@
 10690、_russian_Келли-Колдун_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 316a3ac8e82b29d98ea95b66989f13d0

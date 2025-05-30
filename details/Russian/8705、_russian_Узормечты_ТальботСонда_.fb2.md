@@ -8,7 +8,7 @@
 8705、_russian_Узор мечты_Тальбот Сонда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e900c96aa558659e57c01f1b91e0a9b

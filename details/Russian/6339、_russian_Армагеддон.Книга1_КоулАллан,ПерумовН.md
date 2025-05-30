@@ -8,7 +8,7 @@
 6339、_russian_Армагеддон. Книга 1_Коул Аллан, Перумов Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6a595295cdfa6fe427d06061a33b9fd

@@ -8,7 +8,7 @@
 13401、_english_Isn't He Wicked_Emma Wildes_IGLA.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7cb3fbff1d847ef1caa5cf02872264b3

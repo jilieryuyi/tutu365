@@ -8,7 +8,7 @@
 13433、_russian_Мирный посредник_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58170454921af396cc27e26c3ee837f7

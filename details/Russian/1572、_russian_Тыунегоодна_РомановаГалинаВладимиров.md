@@ -8,7 +8,7 @@
 1572、_russian_Ты у него одна_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d8dda758c2873b447d2f22dd9bf84db

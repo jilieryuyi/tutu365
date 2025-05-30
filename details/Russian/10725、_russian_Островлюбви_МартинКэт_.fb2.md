@@ -8,7 +8,7 @@
 10725、_russian_Остров любви_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 771d4b5d4a0be6b6e0b003fc3182961c

@@ -8,7 +8,7 @@
 6224、_russian_ЧИЧЕРОНЕ_Лукин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1a60a7fbd5775ccc1d2ee73eb242938

@@ -8,7 +8,7 @@
 8664、_russian_По закону войны_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca26a0ec6cde88ae0fe25463ad4e8580

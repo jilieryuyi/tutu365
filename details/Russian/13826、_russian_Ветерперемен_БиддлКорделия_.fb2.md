@@ -8,7 +8,7 @@
 13826、_russian_Ветер перемен_Биддл Корделия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec0a20d796793a4c2c926e2465663594

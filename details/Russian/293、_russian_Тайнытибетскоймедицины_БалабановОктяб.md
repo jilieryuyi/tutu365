@@ -8,7 +8,7 @@
 293、_russian_Тайны тибетской медицины_Балабанов Октябрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43e56c05772f7e6f58539fde254610b9

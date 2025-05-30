@@ -8,7 +8,7 @@
 13520、_russian_Черный рассвет_Смит Лиза Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9eb778ad98f404488482ea259818a567

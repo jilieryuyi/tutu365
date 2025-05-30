@@ -8,7 +8,7 @@
 14496、_russian_Матильда и чужой_Остапенко Юлия Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c2ba786b1483e4d7360d05acb78b2b2

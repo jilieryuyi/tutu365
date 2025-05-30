@@ -8,7 +8,7 @@
 10933、_russian_Из плена прошлого_Бенедикт Клэр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a6d667ef265ef2611e975c06a324a17

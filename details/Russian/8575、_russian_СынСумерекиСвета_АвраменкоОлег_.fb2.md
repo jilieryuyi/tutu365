@@ -8,7 +8,7 @@
 8575、_russian_Сын Сумерек и Света_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1b355ed76bf8fa5d09340bb27b1ee06

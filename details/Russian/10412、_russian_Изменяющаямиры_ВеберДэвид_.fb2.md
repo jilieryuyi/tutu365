@@ -8,7 +8,7 @@
 10412、_russian_Изменяющая миры_Вебер Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 106f556e1ddb72d5652bbf9be4beb7de

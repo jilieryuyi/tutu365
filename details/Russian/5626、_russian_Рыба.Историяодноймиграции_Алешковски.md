@@ -8,7 +8,7 @@
 5626、_russian_Рыба. История одной миграции_Алешковский Петр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d129ed5eed7b6362482e66523d731ee6

@@ -8,7 +8,7 @@
 9444、_russian_Голограммы_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfabbd266bd1629235f0e4d4eabf9ee2

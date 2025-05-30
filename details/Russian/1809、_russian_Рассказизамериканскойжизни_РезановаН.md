@@ -8,7 +8,7 @@
 1809、_russian_Рассказ из американской жизни_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d5e15df7bba175cc2197777e5aad717e

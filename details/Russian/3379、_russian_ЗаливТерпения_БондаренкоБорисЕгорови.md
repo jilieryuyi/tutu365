@@ -8,7 +8,7 @@
 3379、_russian_Залив Терпения_Бондаренко Борис Егорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8527ed5fd80a2574b2d2f7d035ab12b4

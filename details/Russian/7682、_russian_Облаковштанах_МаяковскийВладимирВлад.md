@@ -8,7 +8,7 @@
 7682、_russian_Облако в штанах_Маяковский Владимир Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a9a277e837d036e0acb170359eaa253

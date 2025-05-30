@@ -8,7 +8,7 @@
 10312、_russian_Тирмен_Валентинов Андрей, Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 558b75b1bfcc9fdd761611489723de92

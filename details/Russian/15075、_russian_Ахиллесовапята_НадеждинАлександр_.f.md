@@ -8,7 +8,7 @@
 15075、_russian_Ахиллесова пята_Надеждин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14f7c85c64239949ea4231ca630c9139

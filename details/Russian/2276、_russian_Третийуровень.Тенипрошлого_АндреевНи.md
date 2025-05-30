@@ -8,7 +8,7 @@
 2276、_russian_Третий уровень. Тени прошлого_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0770902ffdac0fe3cccd2dd2b271e138

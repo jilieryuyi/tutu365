@@ -8,7 +8,7 @@
 14451、_spanish_El blog del Inquisidor_Silva Lorenzo_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 30af6a34c6e702335d07c9c5eb7b7f1b

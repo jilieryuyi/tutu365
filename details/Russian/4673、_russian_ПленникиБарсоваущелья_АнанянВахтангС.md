@@ -8,7 +8,7 @@
 4673、_russian_Пленники Барсова ущелья_Ананян Вахтанг Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17acc2ee2091191a4e5aa96d291c9361

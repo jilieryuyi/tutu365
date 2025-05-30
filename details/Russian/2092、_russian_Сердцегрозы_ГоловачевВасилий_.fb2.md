@@ -8,7 +8,7 @@
 2092、_russian_Сердце грозы_Головачев Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13085de8eef2414a4fc62c01458d4aba

@@ -8,7 +8,7 @@
 《至味家宴》高清扫描版PDF[人文美食].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 992a4fabd1eca45f91a08a90724c5a93

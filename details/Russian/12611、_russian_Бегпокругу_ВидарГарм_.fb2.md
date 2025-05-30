@@ -8,7 +8,7 @@
 12611、_russian_Бег по кругу_Видар Гарм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c018cad68a755bb079a13f9b2115e083

@@ -8,7 +8,7 @@
 7448、_russian_Капризка - вождь ничевоков_Воробьев Владимир Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 005482810b7b4550dfd87ec9b53b8b8b

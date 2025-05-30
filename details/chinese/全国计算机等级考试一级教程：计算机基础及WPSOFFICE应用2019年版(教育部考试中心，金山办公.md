@@ -8,7 +8,7 @@
 全国计算机等级考试一级教程：计算机基础及WPS OFFICE应用 2019年版 (教育部考试中心，金山办公软件有限公司编).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2766d5986903ecf45edd64d02be5dda0

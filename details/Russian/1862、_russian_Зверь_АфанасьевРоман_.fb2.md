@@ -8,7 +8,7 @@
 1862、_russian_Зверь_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe086383831d75cf1cd63cbc4c3d756c

@@ -8,7 +8,7 @@
 9072、_russian_Фальшивомонетчики_Жид. Андре_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6a543d05dff957f911eb7e6e8e047a9

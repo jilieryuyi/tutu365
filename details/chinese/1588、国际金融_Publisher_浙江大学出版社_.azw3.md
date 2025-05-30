@@ -8,7 +8,7 @@
 1588、国际金融_Publisher           _ 浙江大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f7f8fbadfcf9acbb4b7fa8e41b9a56c7

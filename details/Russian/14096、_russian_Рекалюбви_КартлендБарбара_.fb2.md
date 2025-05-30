@@ -8,7 +8,7 @@
 14096、_russian_Река любви_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04cef1491b5c7cf02cd7e6c098c36752

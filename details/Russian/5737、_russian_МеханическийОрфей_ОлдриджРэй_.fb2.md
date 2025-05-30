@@ -8,7 +8,7 @@
 5737、_russian_Механический Орфей_Олдридж Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e957ef6a11234961c8db39fdc2291d8

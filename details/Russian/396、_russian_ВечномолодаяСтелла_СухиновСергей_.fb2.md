@@ -8,7 +8,7 @@
 396、_russian_Вечно молодая Стелла_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef5757e5af832e8e08e90dfbfb311678

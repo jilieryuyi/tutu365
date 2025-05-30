@@ -8,7 +8,7 @@
 511、_russian_Мегрэ в Нью-Йорке_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a29c24864e5d86225f3072eb3546bb9b

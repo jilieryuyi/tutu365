@@ -8,7 +8,7 @@
 3525、_russian_Кэр Кабалла_Смит Джордж Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4695d20edab381a2e3161f28a5474af

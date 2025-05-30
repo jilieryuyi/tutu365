@@ -8,7 +8,7 @@
 4330、_english_Highlander's War of Clans_Adamina Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 03e61f410b3df6c56d3b8470abd9c15e

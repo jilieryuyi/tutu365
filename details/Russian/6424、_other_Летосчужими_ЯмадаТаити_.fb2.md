@@ -8,7 +8,7 @@
 6424、_other_Лето с чужими_Ямада Таити_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f36e8950963713ea2e7d3c3f00817933

@@ -8,7 +8,7 @@
 1270、_russian_Берегись принцессы_Шалюкова Олеся Сергеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a91c279c8fb801bfc3cb210c5a5d15e

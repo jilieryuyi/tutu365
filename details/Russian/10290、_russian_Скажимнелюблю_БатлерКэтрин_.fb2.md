@@ -8,7 +8,7 @@
 10290、_russian_Скажи мне люблю_Батлер Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fb68989731edb788b21375647ff101a

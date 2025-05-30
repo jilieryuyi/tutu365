@@ -8,7 +8,7 @@
 14276、_russian_Этика_Станиславский Константин Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 49dcab1eee0f5237c9e57ac3928abc02

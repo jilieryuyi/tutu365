@@ -8,7 +8,7 @@
 12791、_russian_Волшебный камень Бризингамена_Гарнер Алан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73f96f83ba383ceb25ef1325f840724c

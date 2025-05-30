@@ -8,7 +8,7 @@
 1989、_russian_Музыка смерти_Наварро Ивона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd69617e010cc18c762cd8c9de64e609

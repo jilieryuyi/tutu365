@@ -8,7 +8,7 @@
 10673、_russian_От любви к Барбаре Аллен_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27292fd2a3c0ad59f7bfcd5b96623c8d

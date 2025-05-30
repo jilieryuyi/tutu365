@@ -8,7 +8,7 @@
 1614、沟通技巧与领导力开发_Publisher           _ 上海交通大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6dbf5bdc270d009a440677f92927d02b

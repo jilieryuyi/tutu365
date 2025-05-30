@@ -8,7 +8,7 @@
 7063、_russian_Группа ликвидации_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32971d3e4303850ee915224abd0351fc

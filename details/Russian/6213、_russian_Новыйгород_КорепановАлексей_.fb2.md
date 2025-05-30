@@ -8,7 +8,7 @@
 6213、_russian_Новый город_Корепанов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 388e5e463badb5bb0d3ddeb73a3a54ee

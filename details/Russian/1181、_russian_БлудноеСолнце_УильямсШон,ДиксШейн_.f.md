@@ -8,7 +8,7 @@
 1181、_russian_Блудное Солнце_Уильямс Шон, Дикс Шейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff3fd5d4b6bfadeda20a8aa4502dda70

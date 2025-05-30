@@ -8,7 +8,7 @@
 15264、_russian_Охотник за приданым_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 488711ee317bb8f29b6b32795a59493b

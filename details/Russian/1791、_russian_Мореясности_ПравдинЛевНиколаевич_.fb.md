@@ -8,7 +8,7 @@
 1791、_russian_Море ясности_Правдин Лев Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f75732387dc1bdccf24fe5f468c79ecd

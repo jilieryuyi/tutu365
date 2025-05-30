@@ -8,7 +8,7 @@
 10750、_russian_Первые радости_Федин Константин Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0076e2209b8f49e81b4eddbf486dd4bd

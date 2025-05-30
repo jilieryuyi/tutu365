@@ -8,7 +8,7 @@
 1266、_russian_Джан_Платонов Андрей Платонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73c1e1be4b62c893de4e71eb91ba1967

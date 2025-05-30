@@ -8,7 +8,7 @@
 10347、_russian_Наш друг – Иван Бодунов_Герман Юрий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1b9746de0c9a8581119672c06e97570

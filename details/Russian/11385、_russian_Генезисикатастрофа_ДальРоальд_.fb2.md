@@ -8,7 +8,7 @@
 11385、_russian_Генезис и катастрофа_Даль Роальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74c8fcdc736e8be8a9308f37e7c3e380

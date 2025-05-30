@@ -8,7 +8,7 @@
 11327、_russian_Исчезнувший мертвец_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1f10ee5756dcfe65fa1f9fb1e568477

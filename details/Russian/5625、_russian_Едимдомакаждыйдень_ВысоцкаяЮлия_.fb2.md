@@ -8,7 +8,7 @@
 5625、_russian_Едим дома каждый день_Высоцкая Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51b4c13a0af35360d32c7246dfa58e27

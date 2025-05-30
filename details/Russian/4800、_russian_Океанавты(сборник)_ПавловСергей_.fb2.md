@@ -8,7 +8,7 @@
 4800、_russian_Океанавты (сборник)_Павлов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39e5e0fa71e1d10a581767576267f048

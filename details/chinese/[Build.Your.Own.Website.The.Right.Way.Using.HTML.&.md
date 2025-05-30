@@ -8,7 +8,7 @@
 [Build.Your.Own.Website.The.Right.Way.Using.HTML.&.CSS.(3rd.2011.07)].Ian.Lloyd.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7c17f3b14dcef370e1b22746a97ad17f

@@ -8,7 +8,7 @@
 1661、_russian_Письма из Дома. Послания любви от твоей Семьи_Крайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54441c374a2b1bd0a11631d2d9db3cc0

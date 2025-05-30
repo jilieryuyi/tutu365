@@ -8,7 +8,7 @@
 9080、_russian_Тантра - высшее понимание_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 650068e921f162c1a49da467b1d30dcd

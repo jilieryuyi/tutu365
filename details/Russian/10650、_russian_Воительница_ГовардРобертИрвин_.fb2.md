@@ -8,7 +8,7 @@
 10650、_russian_Воительница_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afbb22dca1e88dff541f78c22e6b331e

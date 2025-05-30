@@ -8,7 +8,7 @@
 10736、_russian_Сладкая месть_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74f8b1ab4cfadf4ac6a462f468d042db

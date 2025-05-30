@@ -8,7 +8,7 @@
 14287、_english_Angels & Demons_Браун Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8458bbd0c5db089c444c6db1d28137f5

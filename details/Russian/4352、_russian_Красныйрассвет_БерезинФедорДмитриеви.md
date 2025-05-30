@@ -8,7 +8,7 @@
 4352、_russian_Красный рассвет_Березин Федор Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0710d535e2627988cca7d31f797167b9

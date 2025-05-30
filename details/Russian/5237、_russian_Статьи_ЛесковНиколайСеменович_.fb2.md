@@ -8,7 +8,7 @@
 5237、_russian_Статьи_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a772fab706eb0b946470995965a4d247

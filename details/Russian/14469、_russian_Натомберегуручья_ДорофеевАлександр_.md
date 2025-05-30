@@ -8,7 +8,7 @@
 14469、_russian_На том берегу ручья_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d82cfbd229347021fe9a7f217958532

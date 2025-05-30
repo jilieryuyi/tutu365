@@ -8,7 +8,7 @@
 1054、_russian_Маэстро, музыку!_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d1108b8a66509ff3e26ba73363fe306

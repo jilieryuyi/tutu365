@@ -8,7 +8,7 @@
 5264、_russian_Не будите спящую собаку_Хантингтон Крис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59a6a3ce20796796a8efa640897ac5b2

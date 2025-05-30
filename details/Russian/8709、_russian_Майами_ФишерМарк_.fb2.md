@@ -8,7 +8,7 @@
 8709、_russian_Майами_Фишер Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3dda5fcf20ab99098eb649b21a09c47

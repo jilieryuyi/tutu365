@@ -8,7 +8,7 @@
 14655、_russian_Дорога на райский остров_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e2d6c348ed0a2acea54cb4b49be1c35

@@ -8,7 +8,7 @@
 13867、_russian_Лабиринт_Багиров Заур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c602d6b66714ae68c71950fa687af763

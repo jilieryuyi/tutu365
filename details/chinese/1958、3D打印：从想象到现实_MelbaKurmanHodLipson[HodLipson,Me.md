@@ -8,7 +8,7 @@
 1958、3D打印：从想象到现实_Melba Kurman Hod Lipson [Hod Lipson , Melba Kurman]_中信出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6a5274db73338538228e25e9ca7af613

@@ -8,7 +8,7 @@
 12620、_russian_Жилет_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7fb67b55b7d46dcd0ab354cc41c94ea1

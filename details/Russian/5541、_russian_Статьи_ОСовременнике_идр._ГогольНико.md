@@ -8,7 +8,7 @@
 5541、_russian_Статьи _О Современнике_ и др._Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c59cfa07a7ceec1d334a104812ffdd9

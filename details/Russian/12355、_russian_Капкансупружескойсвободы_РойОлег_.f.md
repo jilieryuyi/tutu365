@@ -8,7 +8,7 @@
 12355、_russian_Капкан супружеской свободы_Рой Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e84b5c0cfa6367b5a8dcc50f77a18e2e

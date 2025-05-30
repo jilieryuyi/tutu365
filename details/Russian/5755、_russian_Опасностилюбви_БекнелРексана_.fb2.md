@@ -8,7 +8,7 @@
 5755、_russian_Опасности любви_Бекнел Рексана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a3ecd77744355b5623cee7498e9f3e7

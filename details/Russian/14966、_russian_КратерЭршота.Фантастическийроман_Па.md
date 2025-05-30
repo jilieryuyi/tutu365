@@ -8,7 +8,7 @@
 14966、_russian_Кратер Эршота. Фантастический роман_Пальман Вячеслав Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc4c82a4c1a061d383a97cce24044ada

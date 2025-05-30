@@ -8,7 +8,7 @@
 818、_russian_Ловкач, Уилер!_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 044c0ec46e66bdb6e3307951d8fa987d

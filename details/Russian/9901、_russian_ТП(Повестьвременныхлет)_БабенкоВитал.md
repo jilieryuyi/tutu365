@@ -8,7 +8,7 @@
 9901、_russian_ТП (Повесть временных лет)_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 685db2def9f08fd72989ce253e022c9a

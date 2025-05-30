@@ -8,7 +8,7 @@
 9754、_russian_Земля лишних. Том 3_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ab3a6a4be3855d71812e77a0ec2f79a

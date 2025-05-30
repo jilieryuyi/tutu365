@@ -8,7 +8,7 @@
 2644、_russian_Галактический вихрь_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dea133e7252c80e47f121d6748f5658

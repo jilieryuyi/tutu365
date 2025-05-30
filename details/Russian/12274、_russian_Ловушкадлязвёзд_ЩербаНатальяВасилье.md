@@ -8,7 +8,7 @@
 12274、_russian_Ловушка для звёзд_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32e9139c0ec702d6cda6d13157aeb1f0

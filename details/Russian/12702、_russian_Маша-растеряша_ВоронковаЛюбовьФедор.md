@@ -8,7 +8,7 @@
 12702、_russian_Маша-растеряша_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d91b17b57038212526c59a650a5fe221

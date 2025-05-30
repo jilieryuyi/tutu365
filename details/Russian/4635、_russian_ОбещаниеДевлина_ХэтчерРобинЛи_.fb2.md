@@ -8,7 +8,7 @@
 4635、_russian_Обещание Девлина_Хэтчер Робин Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd33616899c5f6ff03cbe9da1d0a0d75

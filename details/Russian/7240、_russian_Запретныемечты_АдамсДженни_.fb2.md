@@ -8,7 +8,7 @@
 7240、_russian_Запретные мечты_Адамс Дженни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59875e037c22be6033210a542707b3e8

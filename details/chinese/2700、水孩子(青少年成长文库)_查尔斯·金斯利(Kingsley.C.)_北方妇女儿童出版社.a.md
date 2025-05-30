@@ -8,7 +8,7 @@
 2700、水孩子 (青少年成长文库)_查尔斯·金斯利(Kingsley.C.)_北方妇女儿童出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2e2b4a16be38f5e61e3d8324a242fdbd

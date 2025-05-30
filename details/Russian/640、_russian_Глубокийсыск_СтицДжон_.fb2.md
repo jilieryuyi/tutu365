@@ -8,7 +8,7 @@
 640、_russian_Глубокий сыск_Стиц Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89c3581d8fa345b0aaf00cff05a32cc0

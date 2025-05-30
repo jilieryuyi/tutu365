@@ -8,7 +8,7 @@
 5083、_russian_Ученик создателя сновидений_Минделл Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28f9a583c3a28e85d16f507e9d769627

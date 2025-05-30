@@ -8,7 +8,7 @@
 3735、_russian_Нежданные гости_Курои Сэндзи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 476839ae725ca0cb4e37272db27f2388

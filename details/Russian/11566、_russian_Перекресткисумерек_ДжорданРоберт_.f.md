@@ -8,7 +8,7 @@
 11566、_russian_Перекрестки сумерек_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d43b13d51f0f86680de27276fc735755

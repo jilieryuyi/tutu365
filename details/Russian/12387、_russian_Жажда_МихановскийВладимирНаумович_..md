@@ -8,7 +8,7 @@
 12387、_russian_Жажда_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df59ad7f347b07f7f9ff506c55c23001

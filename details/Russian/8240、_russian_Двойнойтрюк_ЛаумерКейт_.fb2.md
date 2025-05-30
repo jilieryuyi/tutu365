@@ -8,7 +8,7 @@
 8240、_russian_Двойной трюк_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f38f1a41105d54807786f679eb928233

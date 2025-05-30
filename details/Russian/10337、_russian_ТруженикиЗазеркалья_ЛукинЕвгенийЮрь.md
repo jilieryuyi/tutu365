@@ -8,7 +8,7 @@
 10337、_russian_Труженики Зазеркалья_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbd93a0fafe6675cfd5554dd495f409c

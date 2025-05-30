@@ -8,7 +8,7 @@
 9029、_russian_Плюшевый медвежонок_Моримура Сэйити_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a00ef111982ec8ae2ee7ed8766281ae

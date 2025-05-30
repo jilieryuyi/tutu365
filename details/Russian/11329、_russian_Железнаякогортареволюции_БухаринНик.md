@@ -8,7 +8,7 @@
 11329、_russian_Железная когорта революции_Бухарин Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b666df82e49d4efd68ac850b97e9183f

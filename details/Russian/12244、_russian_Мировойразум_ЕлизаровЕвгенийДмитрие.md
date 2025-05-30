@@ -8,7 +8,7 @@
 12244、_russian_Мировой разум_Елизаров Евгений Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0807998f1e69cd52e325826861ac440b

@@ -8,7 +8,7 @@
 7369、_english_You Can't Make Me Go to Witch School_Em Lynas [Em Lynas]_Nosy Crow.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7d6b929ca16ec0499b7fd020989764d5

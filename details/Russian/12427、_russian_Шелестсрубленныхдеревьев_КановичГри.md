@@ -8,7 +8,7 @@
 12427、_russian_Шелест срубленных деревьев_Канович Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 853561ecddf06ed32c309b7c3a72daa7

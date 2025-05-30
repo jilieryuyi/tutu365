@@ -8,7 +8,7 @@
 2812、_russian_Возвращайся скорей, Микка-Мяу!_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb83f1c3774f08e2f08da95a5e6b80ee

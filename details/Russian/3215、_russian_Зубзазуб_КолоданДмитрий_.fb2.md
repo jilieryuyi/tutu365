@@ -8,7 +8,7 @@
 3215、_russian_Зуб за зуб_Колодан Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e12580835fc9f3f758d0b27ae44a4ab

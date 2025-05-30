@@ -8,7 +8,7 @@
 15198、_russian_Фаворитка Наполеона_Лепеллетье Эдмон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2d0e69fcee22e74af6784406eda110f

@@ -8,7 +8,7 @@
 如何高效学语言_亚历克斯·罗林斯（Alex Rawlings）, SoBooKs.cc [亚历克斯·罗林斯（Alex Rawlings）, SoBooKs.cc]__5530426_1c13286ea8150ef405317e45c06c7239.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1c13286ea8150ef405317e45c06c7239

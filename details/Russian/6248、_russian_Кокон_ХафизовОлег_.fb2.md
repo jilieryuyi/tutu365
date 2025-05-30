@@ -8,7 +8,7 @@
 6248、_russian_Кокон_Хафизов Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc953970e4b1bc644a0004a4d19448de

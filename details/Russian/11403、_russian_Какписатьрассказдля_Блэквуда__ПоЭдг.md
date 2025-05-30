@@ -8,7 +8,7 @@
 11403、_russian_Как писать рассказ для _Блэквуда__По Эдгар Алан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5df9e34b40d46a3fb67181a78d459f6c

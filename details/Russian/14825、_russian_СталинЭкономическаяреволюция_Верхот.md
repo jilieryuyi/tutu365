@@ -8,7 +8,7 @@
 14825、_russian_Сталин Экономическая революция_Верхотуров Д.Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc2ef62a4573b781ce88e0ea59fd2423

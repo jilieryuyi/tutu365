@@ -8,7 +8,7 @@
 624、_russian_… и компания_Блок Жан-Ришар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07965331dd2116964728e2597ba1f106

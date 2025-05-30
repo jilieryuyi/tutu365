@@ -8,7 +8,7 @@
 10064、_russian_Люди из пригорода_Никшич Сергей Аркадиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f36ea4781371c580a81323c25f0bb12c

@@ -8,7 +8,7 @@
 3941、_russian_Прайд Саблезуба_Щепетов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa1e98ffff2fd280051ab7501afc9ca9

@@ -8,7 +8,7 @@
 4671、_russian_Двое в пустыне_Головачёв Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11a1a815a596da5c7f78c306cdd86fbf

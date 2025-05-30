@@ -8,7 +8,7 @@
 10224、_russian_Ана Пауча_Гомес-Аркос Агустин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4125091fedc277c6cdd00120d2ac44f

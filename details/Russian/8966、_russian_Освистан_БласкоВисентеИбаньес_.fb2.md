@@ -8,7 +8,7 @@
 8966、_russian_Освистан_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89d4f80722ae954a4538ee981509dd04

@@ -8,7 +8,7 @@
 13448、_russian_Растения доктора Синдереллы_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89770412e825f17e752cf7c3977f9eee

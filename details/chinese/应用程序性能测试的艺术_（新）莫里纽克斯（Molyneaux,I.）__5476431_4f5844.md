@@ -8,7 +8,7 @@
 应用程序性能测试的艺术_（新）莫里纽克斯（Molyneaux,I.）__5476431_4f584423379b1cd65e84153b5d80878a.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4f584423379b1cd65e84153b5d80878a

@@ -8,7 +8,7 @@
 2576、_russian_Высокое искусство_Чуковский Корней Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b38a51f143c69a62dc396a7715ba6f17

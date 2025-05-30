@@ -8,7 +8,7 @@
 1776、_russian_Настольная книга сердцеедки_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85e7588d841f2decf576b105f1d671c7

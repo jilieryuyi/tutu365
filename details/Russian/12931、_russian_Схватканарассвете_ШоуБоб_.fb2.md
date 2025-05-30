@@ -8,7 +8,7 @@
 12931、_russian_Схватка на рассвете_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cff4699da37650f771656a6a9b2e5f0e

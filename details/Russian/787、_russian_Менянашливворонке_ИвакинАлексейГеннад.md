@@ -8,7 +8,7 @@
 787、_russian_Меня нашли в воронке_Ивакин Алексей Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e5945db511049fa87ed71ce9d953538

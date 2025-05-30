@@ -8,7 +8,7 @@
 12648、_russian_Анелька_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22c5822741935a332e258d89b8c22608

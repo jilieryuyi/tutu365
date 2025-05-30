@@ -8,7 +8,7 @@
 14475、_russian_Свободный охотник_Степанычев Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c4da54ecfc367d9a967ea261d3dcc94

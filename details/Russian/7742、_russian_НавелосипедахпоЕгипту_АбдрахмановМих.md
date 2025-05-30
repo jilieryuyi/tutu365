@@ -8,7 +8,7 @@
 7742、_russian_На велосипедах по Египту_Абдрахманов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee61603276c15c73a0ba06c97e1b3ae6

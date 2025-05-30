@@ -8,7 +8,7 @@
 7199、_russian_Рэй Брэдбери (Том 2-й дополнительный)_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b72d3bbc2a15146f772fecc02d072a1

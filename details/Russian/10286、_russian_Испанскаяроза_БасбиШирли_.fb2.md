@@ -8,7 +8,7 @@
 10286、_russian_Испанская роза_Басби Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c7ed68d82cfdf812c443e01c46786eb

@@ -8,7 +8,7 @@
 8139、_russian_Битва в Подземной стране_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6f40e14ece03182f90d1ed1eea8247c

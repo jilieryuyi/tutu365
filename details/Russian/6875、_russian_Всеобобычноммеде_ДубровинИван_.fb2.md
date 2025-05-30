@@ -8,7 +8,7 @@
 6875、_russian_Все об обычном меде_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af77e4ce5cd82d6518038be8079872ce

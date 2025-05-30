@@ -8,7 +8,7 @@
 11416、_russian_Встреча в горах_Джеймс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c8d33bb56f62444c9f0d4e39a994910

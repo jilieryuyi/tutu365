@@ -8,7 +8,7 @@
 637、_russian_Тени войны_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52d69749d756a2b1454887868cc9a6a6

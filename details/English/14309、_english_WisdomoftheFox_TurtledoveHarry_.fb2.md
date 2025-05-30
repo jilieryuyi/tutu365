@@ -8,7 +8,7 @@
 14309、_english_Wisdom of the Fox_Turtledove Harry_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ca4c3ee318e531f3408bef49c2f30fcc

@@ -8,7 +8,7 @@
 9734、_russian_. Крушение Америки .Заговор_Козенков Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69de02f37fba3f5dd22c08c94b5e0a23

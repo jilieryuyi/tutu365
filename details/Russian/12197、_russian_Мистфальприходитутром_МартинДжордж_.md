@@ -8,7 +8,7 @@
 12197、_russian_Мистфаль приходит утром_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8298641b0893772598906bc3e9d5c95

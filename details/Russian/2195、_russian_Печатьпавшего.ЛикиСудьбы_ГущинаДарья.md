@@ -8,7 +8,7 @@
 2195、_russian_Печать павшего. Лики Судьбы_Гущина Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3be795570626e7d640c7d3de99b6b36d

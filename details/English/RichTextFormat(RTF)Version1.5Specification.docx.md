@@ -8,7 +8,7 @@
 Rich Text Format (RTF) Version 1.5 Specification.docx.docx
 
 ## 语言(language)
-English
+english
 
 ## MD5
 05da54a3cbf15cca6ffa4deb9fa70dd2

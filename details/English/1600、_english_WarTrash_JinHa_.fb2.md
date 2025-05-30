@@ -8,7 +8,7 @@
 1600、_english_War Trash_Jin Ha_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b6e0cb9bfcec889de3048460ed285620

@@ -8,7 +8,7 @@
 3641、_russian_Cчастливчик Старр (Lucky Starr)_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5939afa2d4d0151fdf0f52db4f6f5215

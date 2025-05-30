@@ -8,7 +8,7 @@
 10768、_russian_По велению сердца_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 655bcc05ec8a7eed533a8711ea1dfa46

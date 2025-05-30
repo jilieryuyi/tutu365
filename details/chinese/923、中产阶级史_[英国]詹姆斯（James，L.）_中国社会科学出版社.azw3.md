@@ -8,7 +8,7 @@
 923、中产阶级史_[英国] 詹姆斯（James，L.）_中国社会科学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f758038c6fc53f3904e50ac3267db565

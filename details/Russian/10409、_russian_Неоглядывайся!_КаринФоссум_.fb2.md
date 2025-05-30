@@ -8,7 +8,7 @@
 10409、_russian_Не оглядывайся!_Карин Фоссум_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b5f2d567a52318cd495f9dbba8fe7b6

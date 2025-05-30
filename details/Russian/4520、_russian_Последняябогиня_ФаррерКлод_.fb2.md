@@ -8,7 +8,7 @@
 4520、_russian_Последняя богиня_Фаррер Клод_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dce2f636632b9eb5a8105c2a4c781c9b

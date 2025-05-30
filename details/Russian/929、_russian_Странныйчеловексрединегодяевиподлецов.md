@@ -8,7 +8,7 @@
 929、_russian_Странный человек среди негодяев и подлецов_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e141a39164aaafff629084e7c447f9ea

@@ -8,7 +8,7 @@
 3276、_russian_Берег надежды_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39d476a41836367d2ca9772306684ecf

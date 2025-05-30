@@ -8,7 +8,7 @@
 6363、_russian_Добрый Наставник_Фонвизин Денис Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fa0b03869ead2e1f3aadbb7dfa04074

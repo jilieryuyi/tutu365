@@ -8,7 +8,7 @@
 1395、淘宝创业内幕_周俊宏_Zhejiang Peoples Publishing House.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1821f38d7f7ed59f3a4fa76dc15ea58a

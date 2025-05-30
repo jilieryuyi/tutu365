@@ -8,7 +8,7 @@
 3563、_russian_Том 10_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bf635ad80e8e5b50d275366da4e24eb

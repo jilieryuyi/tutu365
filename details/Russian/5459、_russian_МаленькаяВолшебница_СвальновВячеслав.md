@@ -8,7 +8,7 @@
 5459、_russian_Маленькая Волшебница_Свальнов Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50f6f25c1aef36c146d338d8bef5fa6c

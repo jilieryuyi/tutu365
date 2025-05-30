@@ -8,7 +8,7 @@
 11292、_russian_Марк из рода Давида_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13ada0d462e85d2e48e6039c78677d1f

@@ -8,7 +8,7 @@
 7545、_russian_Планета изгнания (авт. сборник)_Ле Гуин Урсула_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 867c8ba9771e4a0e65448aaa31daf539

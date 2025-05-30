@@ -8,7 +8,7 @@
 4286、_russian_Молотом взмахнул кузнец_Лукницкий Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bcf47e5cf18b104177a72945502bb1d

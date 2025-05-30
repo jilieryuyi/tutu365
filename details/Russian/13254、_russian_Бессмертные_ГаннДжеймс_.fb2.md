@@ -8,7 +8,7 @@
 13254、_russian_Бессмертные_Ганн Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7105bd5e8286074996932375d549133

@@ -8,7 +8,7 @@
 二十世纪西方文学理论（第2版）_特里·伊格尔顿（Terry Eagleton）_北京大学出版社_5295024_70d2a9e42bd4462eb1e2a512a2b01b11.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 70d2a9e42bd4462eb1e2a512a2b01b11

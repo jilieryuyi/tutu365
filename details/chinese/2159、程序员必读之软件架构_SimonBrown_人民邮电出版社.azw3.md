@@ -8,7 +8,7 @@
 2159、程序员必读之软件架构_Simon Brown_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c9ead1dc197aa48828f2fcd2f3df4186

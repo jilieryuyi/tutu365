@@ -8,7 +8,7 @@
 946、_russian_Дети Индиго_Кэрролл Ли, Тоубер Джен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 faf444bcde951e25be2191b07f8c40c6

@@ -8,7 +8,7 @@
 UNIX网络编程卷1：套接字联网API（第3版）.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e78c889543c532e681f1d41a8c83a43f

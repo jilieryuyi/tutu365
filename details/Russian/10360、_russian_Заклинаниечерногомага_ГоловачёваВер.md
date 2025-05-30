@@ -8,7 +8,7 @@
 10360、_russian_Заклинание черного мага_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55bd0652d7f694f7883b270a3ab41555

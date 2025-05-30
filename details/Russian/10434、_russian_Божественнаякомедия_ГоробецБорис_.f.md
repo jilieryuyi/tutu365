@@ -8,7 +8,7 @@
 10434、_russian_Божественная комедия_Горобец Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe42b4489ee9b24f926ca52cf971f9d1

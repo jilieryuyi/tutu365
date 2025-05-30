@@ -8,7 +8,7 @@
 14254、_russian_Волшебный свет_Мариас Фернандо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91ae5710320dfc93e65e067d3394340c

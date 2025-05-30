@@ -8,7 +8,7 @@
 2239、七周七数据库_[美]Eric Redmond　Jim R.Wilson_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d233ce3465da05ebe03c4d66ee44a1db

@@ -8,7 +8,7 @@
 6、_portuguese_Prêmio PIPA de Arte Contempor_nea 2015_Arthur Scovino Ayrson Heráclito Caetano Dias Clara Ianni Débora Bolsoni Fábio Magalh_es Jo_o Castilho Jorge Menna Barreto Juarez Paraíso Lais Myrrh.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0992025e268e0250a3a6c9fc27910f72

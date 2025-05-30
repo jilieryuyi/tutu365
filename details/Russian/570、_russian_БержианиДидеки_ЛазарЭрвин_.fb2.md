@@ -8,7 +8,7 @@
 570、_russian_Бержиан и Дидеки_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2aec9bc00327bd360c6ae9098aaaff34

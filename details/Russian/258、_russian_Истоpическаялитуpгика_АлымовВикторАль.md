@@ -8,7 +8,7 @@
 258、_russian_Истоpическая литуpгика_Алымов Виктор Альбертович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd0e668d0a66086ae27dc7e465950809

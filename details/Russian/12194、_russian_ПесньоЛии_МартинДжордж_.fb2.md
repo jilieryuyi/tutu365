@@ -8,7 +8,7 @@
 12194、_russian_Песнь о Лии_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32360e13838353d41c3a93521507f32d

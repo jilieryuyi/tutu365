@@ -8,7 +8,7 @@
 8236、_russian_Невменяемый дракон_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 def55e8d51525bf377afd305caddb8cb

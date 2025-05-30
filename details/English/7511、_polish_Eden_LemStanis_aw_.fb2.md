@@ -8,7 +8,7 @@
 7511、_polish_Eden_Lem Stanis_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 389c96fed36351935a7d855ac87f64cd

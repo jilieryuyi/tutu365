@@ -8,7 +8,7 @@
 Contemporary Chinese Textbook 1（Revised Edition）当代中文（新版.pdf_吴中伟_华语教学出版社_5323784_a1349bc01e54bd45b99a55e8f0b72cff.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a1349bc01e54bd45b99a55e8f0b72cff

@@ -8,7 +8,7 @@
 4507、_russian_Автобус_Ибусэ Масудзи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c30f9761ab06aa98b9bba8dce3add9e3

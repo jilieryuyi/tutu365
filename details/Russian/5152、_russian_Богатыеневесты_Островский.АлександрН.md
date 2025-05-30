@@ -8,7 +8,7 @@
 5152、_russian_Богатые невесты_Островский. Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d695eae9c40ee10afb850df2ab00e30b

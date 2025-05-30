@@ -8,7 +8,7 @@
 8000、_english_The Kill Artist_Silva Daniel_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 43ce46477e19eed28c3109d795fee8e0

@@ -8,7 +8,7 @@
 1928、_russian_Обман_Джордж Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da5d9c171f437c273037c963386acd56

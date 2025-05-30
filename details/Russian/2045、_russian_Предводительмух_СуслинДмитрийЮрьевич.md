@@ -8,7 +8,7 @@
 2045、_russian_Предводитель мух_Суслин Дмитрий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bf964aa47949088e1d0fe5c5a43d3c8

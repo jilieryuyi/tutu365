@@ -8,7 +8,7 @@
 243、爆炸式增长：初创企业如何快速累积1亿用户_SoBooKs.cc 克里夫·勒纳 [克里夫·勒纳, SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5484bde18f12ea5b99146ea7854ffcf7

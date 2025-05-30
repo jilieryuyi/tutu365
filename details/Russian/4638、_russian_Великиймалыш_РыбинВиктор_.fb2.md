@@ -8,7 +8,7 @@
 4638、_russian_Великий малыш_Рыбин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ca8b310b44e0baf70853a56b5121b9f

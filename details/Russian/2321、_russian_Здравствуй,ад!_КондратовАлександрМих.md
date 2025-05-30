@@ -8,7 +8,7 @@
 2321、_russian_Здравствуй, ад!_Кондратов Александр Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 624c6a25041da5290cd09a28c58d1039

@@ -8,7 +8,7 @@
 13482、_russian_Говорит Москва_Даниэль Юлий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b8fdb428e79306a5f62bc92a8ad7b09

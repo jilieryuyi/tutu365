@@ -8,7 +8,7 @@
 10317、_russian_Курьер_Степанов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ee296abda751398f63da8b1b69f52ce

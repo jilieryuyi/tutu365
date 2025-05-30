@@ -8,7 +8,7 @@
 6786、_english_Deep Storm_Child Lincoln_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d90c0d4660529c68af4188fb761fd9b3

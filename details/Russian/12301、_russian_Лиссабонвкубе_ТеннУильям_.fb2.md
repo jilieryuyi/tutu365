@@ -8,7 +8,7 @@
 12301、_russian_Лиссабон в кубе_Тенн Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2f4fc5841bb9647b9d0d73f259d9a20

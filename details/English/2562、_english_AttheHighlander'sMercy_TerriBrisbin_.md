@@ -8,7 +8,7 @@
 2562、_english_At the Highlander's Mercy_Terri Brisbin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d121a24e682ccaf80689b47a979eea46

@@ -8,7 +8,7 @@
 454、_russian_Повесть о смерти и суете_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d39a45e3c419ab2dbbac7c951f73e2b7

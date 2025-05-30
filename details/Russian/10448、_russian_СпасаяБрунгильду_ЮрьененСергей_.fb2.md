@@ -8,7 +8,7 @@
 10448、_russian_Спасая Брунгильду_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d92e7de16ea3e0c38af543c48b7c8e7e

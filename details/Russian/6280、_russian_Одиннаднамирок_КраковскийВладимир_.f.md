@@ -8,7 +8,7 @@
 6280、_russian_Один над нами рок_Краковский Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a231a39a883403e0f44c47405bd59cf

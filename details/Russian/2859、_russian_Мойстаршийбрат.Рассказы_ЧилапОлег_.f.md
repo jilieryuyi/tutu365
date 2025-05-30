@@ -8,7 +8,7 @@
 2859、_russian_Мой старший брат. Рассказы_Чилап Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5a7648fa931386b79ad6c5e12a7ddb9

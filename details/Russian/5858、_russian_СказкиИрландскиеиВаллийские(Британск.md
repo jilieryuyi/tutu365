@@ -8,7 +8,7 @@
 5858、_russian_Сказки Ирландские и Валлийские (Британские легенды и сказки)__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8a1ba78b832b3f89d2e2cc2fe62cb96

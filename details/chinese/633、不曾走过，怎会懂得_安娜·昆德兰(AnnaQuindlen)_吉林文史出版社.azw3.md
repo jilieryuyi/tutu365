@@ -8,7 +8,7 @@
 633、不曾走过，怎会懂得_安娜·昆德兰 (Anna Quindlen)_吉林文史出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0807a47fdf98675338b27a3a483cbe01

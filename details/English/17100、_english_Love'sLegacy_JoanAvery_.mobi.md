@@ -8,7 +8,7 @@
 17100、_english_Love's Legacy_Joan Avery_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cee40545528e9ec6347e8f4c5338d3e6

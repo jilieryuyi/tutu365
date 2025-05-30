@@ -8,7 +8,7 @@
 3466、_russian_Распознавание образов_Гибсон Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab766f8d5d8d242f65139122dc73c7cc

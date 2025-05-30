@@ -8,7 +8,7 @@
 16625、_english_For the Duke's Eyes Only_Lenora Bell_HarperCollins.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e61ead5ed074756d60541ff8ca616ccd

@@ -8,7 +8,7 @@
 5905、_russian_Пушкин и Военная галерея Зимнего дворца_Глинка Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e33b6d0181fb9ee176f59686b4ab625a

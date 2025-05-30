@@ -8,7 +8,7 @@
 12006、_russian_Большой словарь мата. Том 2_Плуцер-Сарно Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 498f910a95bcf4ce38d72559258a9bb8

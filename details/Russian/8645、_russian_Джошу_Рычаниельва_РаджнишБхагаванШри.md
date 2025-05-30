@@ -8,7 +8,7 @@
 8645、_russian_Джошу_ Рычание льва_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6a7f7b0a700c43a8a33ee1d97330ed0

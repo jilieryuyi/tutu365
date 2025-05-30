@@ -8,7 +8,7 @@
 1246、_russian_Станция Мальчики_Яковлев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 575223da3ebb0a7200a2c178047c0d72

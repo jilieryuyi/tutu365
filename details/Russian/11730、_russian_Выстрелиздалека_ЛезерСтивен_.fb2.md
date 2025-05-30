@@ -8,7 +8,7 @@
 11730、_russian_Выстрел издалека_Лезер Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ef3b9120608bf3ae29c3b34e2bd7565

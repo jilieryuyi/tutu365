@@ -8,7 +8,7 @@
 14623、_russian_Огонь желания_Джордан Николь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9ab78e7078d821418d6c92b885c36d3

@@ -8,7 +8,7 @@
 先知三部曲(套装共3册)_伊萨克•多伊彻 (Isaac Deutscher) [伊萨克•多伊彻 (Isaac Deutscher)]__5370970_6de9bacba6f1339ed3f307d0d0557860.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6de9bacba6f1339ed3f307d0d0557860

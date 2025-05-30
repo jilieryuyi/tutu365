@@ -8,7 +8,7 @@
 2736、_russian_Большой Синдикат Желаний_Бэнгс Джон Кендрик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e86ac29be8447497e9637edbac17b71

@@ -8,7 +8,7 @@
 5024、_russian_Рождение богов. Тутанкамон на Крите_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db918eb350d4f506dad38d91c8d473cf

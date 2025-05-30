@@ -8,7 +8,7 @@
 8344、_other_Юрий Коротков_Пользователь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 994084aa0399530cf00341419c339a64

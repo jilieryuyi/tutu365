@@ -8,7 +8,7 @@
 7330、_russian_Элрик из Мелнибонэ _ Elric of Melnibone [= Город мечты, Призрачный город _ The Dreaming City]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 587a393eced67292012a553fccf7bd54

@@ -8,7 +8,7 @@
 13028、_russian_Крошка из Шанхая_Хой Вэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32951075d0cd16fb1c9d8e17fced4d22

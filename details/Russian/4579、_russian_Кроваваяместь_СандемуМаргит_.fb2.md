@@ -8,7 +8,7 @@
 4579、_russian_Кровавая месть_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd85bb768f468376d2b8eb2fa0610401

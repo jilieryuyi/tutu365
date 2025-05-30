@@ -8,7 +8,7 @@
 6952、_russian_Черный ящик_Блох Роберт Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae11445789a5f7bf25701640738588d7

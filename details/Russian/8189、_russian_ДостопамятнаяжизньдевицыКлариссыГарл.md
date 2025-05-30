@@ -8,7 +8,7 @@
 8189、_russian_Достопамятная жизнь девицы Клариссы Гарлов_Ричардсон Сэмюэл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79030b418ffb7f1e5a70befa4329eb9c

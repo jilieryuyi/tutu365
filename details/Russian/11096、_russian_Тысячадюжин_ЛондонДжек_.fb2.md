@@ -8,7 +8,7 @@
 11096、_russian_Тысяча дюжин_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5a57fa6fe61a7381acf4ffda79fc91d

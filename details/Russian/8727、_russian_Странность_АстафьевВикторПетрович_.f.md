@@ -8,7 +8,7 @@
 8727、_russian_Странность_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb32aa42630a9000c05675819b1f7e03

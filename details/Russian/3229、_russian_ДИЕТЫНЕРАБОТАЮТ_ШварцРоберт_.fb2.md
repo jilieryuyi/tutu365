@@ -8,7 +8,7 @@
 3229、_russian_ДИЕТЫ НЕ РАБОТАЮТ_Шварц Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf01d92768975637b34adff433f693d8

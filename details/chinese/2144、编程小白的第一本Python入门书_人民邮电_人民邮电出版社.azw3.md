@@ -8,7 +8,7 @@
 2144、编程小白的第一本 Python 入门书_人民邮电_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 409faabeeb81e012bb64e22b81edbde5

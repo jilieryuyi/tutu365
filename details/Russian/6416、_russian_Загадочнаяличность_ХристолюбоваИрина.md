@@ -8,7 +8,7 @@
 6416、_russian_Загадочная личность_Христолюбова Ирина Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cedff42d00aef1b0dcd9b0b1263e688f

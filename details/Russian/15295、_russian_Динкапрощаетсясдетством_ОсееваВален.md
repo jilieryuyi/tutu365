@@ -8,7 +8,7 @@
 15295、_russian_Динка прощается с детством_Осеева Валентина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f22bad917b2ea1e314c4f7cf28076b3

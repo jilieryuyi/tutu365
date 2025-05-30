@@ -8,7 +8,7 @@
 8371、_russian_И.-С. Бах, враг народа_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0fa80fe776f7c022f56288c6c055cc4

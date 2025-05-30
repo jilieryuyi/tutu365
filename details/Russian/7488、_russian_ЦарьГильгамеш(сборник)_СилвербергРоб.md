@@ -8,7 +8,7 @@
 7488、_russian_Царь Гильгамеш (сборник)_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb7eebadbf69059b489e86b51c6ab89f

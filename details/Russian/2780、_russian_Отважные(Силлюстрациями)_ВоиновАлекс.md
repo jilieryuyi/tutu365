@@ -8,7 +8,7 @@
 2780、_russian_Отважные (С иллюстрациями)_Воинов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aabff34c762c886418b4496293cc2501

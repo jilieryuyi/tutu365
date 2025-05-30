@@ -8,7 +8,7 @@
 7463、_russian_Топало_Христолюбова Ирина Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db5c633c3a89a86131fb274f85f246f3

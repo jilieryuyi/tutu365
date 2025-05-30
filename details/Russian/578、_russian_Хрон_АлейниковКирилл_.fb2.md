@@ -8,7 +8,7 @@
 578、_russian_Хрон_Алейников Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 890c40f1b6ee2bb632297cdaaa14d928

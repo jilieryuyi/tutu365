@@ -8,7 +8,7 @@
 15112、_russian_Торговец пушками_Лори Хью_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64135994317b4b55296cc9c838bc16a0

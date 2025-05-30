@@ -8,7 +8,7 @@
 10813、_russian_Жертва клеветы_Папано Мэрилин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e401dafbbf8d596d25215b957d2135a0

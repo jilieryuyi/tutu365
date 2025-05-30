@@ -8,7 +8,7 @@
 8474、_russian_Циклоп в корсете_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 381aeecee7e94183977a0c805520ef71

@@ -8,7 +8,7 @@
 2299、学习R (图灵程序设计丛书)_[美]Richard Cotton_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1538206d64e71ce282ddf19fd7962784

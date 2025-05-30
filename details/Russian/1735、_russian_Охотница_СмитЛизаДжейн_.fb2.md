@@ -8,7 +8,7 @@
 1735、_russian_Охотница_Смит Лиза Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 954ef16fd28580b7325521d71c00965f

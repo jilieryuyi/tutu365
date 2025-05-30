@@ -8,7 +8,7 @@
 13421、_russian_Пока гром не грянул_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d20e4b6957cd0b372d012627686abf99

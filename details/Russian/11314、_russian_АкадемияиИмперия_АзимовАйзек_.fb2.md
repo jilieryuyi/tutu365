@@ -8,7 +8,7 @@
 11314、_russian_Академия и Империя_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57dab078a00691ee134fd67a0744b381

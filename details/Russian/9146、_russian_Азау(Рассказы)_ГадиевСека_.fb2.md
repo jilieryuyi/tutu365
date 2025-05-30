@@ -8,7 +8,7 @@
 9146、_russian_Азау(Рассказы)_Гадиев Сека_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4689e631bde8d5573bad97f538fd2b5c

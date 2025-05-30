@@ -8,7 +8,7 @@
 12799、_russian_Северное сияние_Робертс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae57295fac76c6309c33548d8f560d4d

@@ -8,7 +8,7 @@
 12526、_russian_Карты печали_Йолен Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c858f345c549264bb7a723a11d73156

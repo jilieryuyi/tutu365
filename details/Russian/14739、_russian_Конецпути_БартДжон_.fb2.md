@@ -8,7 +8,7 @@
 14739、_russian_Конец пути_Барт Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c66daf617dffb1787512f5fb789b55d1

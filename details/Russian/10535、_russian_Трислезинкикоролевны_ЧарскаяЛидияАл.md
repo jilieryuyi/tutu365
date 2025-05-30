@@ -8,7 +8,7 @@
 10535、_russian_Три слезинки королевны_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8707fd7e2e94958a525a234c33cb5cea

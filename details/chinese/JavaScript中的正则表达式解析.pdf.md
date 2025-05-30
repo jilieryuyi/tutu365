@@ -8,7 +8,7 @@
 JavaScript中的正则表达式解析.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 164939737c34e2cbd4fbc5acfb938620

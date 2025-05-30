@@ -8,7 +8,7 @@
 191、_russian_Люк 69_Баллард Джеймс Грэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a9df39279a94ea47f2ccd63ff97527b

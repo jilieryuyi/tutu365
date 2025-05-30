@@ -8,7 +8,7 @@
 2984、_russian_Малая Глуша_Галина Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad64edc2ea1bba51a69f8f049b9eb122

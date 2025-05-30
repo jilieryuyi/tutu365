@@ -8,7 +8,7 @@
 创新者的窘境_Acampo GmbH_江苏人民出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 77f90315bc9a1679f7d00384376152c4

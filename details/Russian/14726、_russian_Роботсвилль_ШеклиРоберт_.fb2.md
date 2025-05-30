@@ -8,7 +8,7 @@
 14726、_russian_Роботсвилль_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65cfb1e98ca12e8fd9a018381d04ad93

@@ -8,7 +8,7 @@
 14333、_russian_Анархизм и национализм_Неттлау Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b53ffa2248bce71783d2e145d7d0acef

@@ -8,7 +8,7 @@
 5201、_russian_Черное безмолвие (сборник)_Глазков Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05060c2eb805c0c1907db70281ad0c8c

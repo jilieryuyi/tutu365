@@ -8,7 +8,7 @@
 12214、_russian_Роковое ухо_Олдмен Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95c2db2dc23bb3d69b5cd4d688e20b59

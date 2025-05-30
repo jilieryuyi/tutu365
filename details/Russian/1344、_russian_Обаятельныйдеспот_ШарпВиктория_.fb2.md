@@ -8,7 +8,7 @@
 1344、_russian_Обаятельный деспот_Шарп Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e551a7e7408b3793060eaf4f4539f86

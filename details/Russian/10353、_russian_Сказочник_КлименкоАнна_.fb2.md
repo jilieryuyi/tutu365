@@ -8,7 +8,7 @@
 10353、_russian_Сказочник_Клименко Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3eba49e0ba3887e5e1430afd2bbf561

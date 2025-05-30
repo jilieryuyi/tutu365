@@ -8,7 +8,7 @@
 2656、_russian_Апшеронская баллада_Ахмедова Азиза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33670c0155a22feebe401fc5f04e0094

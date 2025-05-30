@@ -8,7 +8,7 @@
 1244、_russian_Луна и крепкое здоровье_Семенова Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9af6ab524cacae7574cab34768013d70

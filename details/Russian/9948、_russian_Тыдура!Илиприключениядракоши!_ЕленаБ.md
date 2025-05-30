@@ -8,7 +8,7 @@
 9948、_russian_Ты дура! Или приключения дракоши!_Елена Белова_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 def4339a7869ab3b0991478b8f892002

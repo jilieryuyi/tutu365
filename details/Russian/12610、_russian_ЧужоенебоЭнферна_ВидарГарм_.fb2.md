@@ -8,7 +8,7 @@
 12610、_russian_Чужое небо Энферна_Видар Гарм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10daae4f2a95bd89c409977d9905cf3d

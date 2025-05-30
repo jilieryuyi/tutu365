@@ -8,7 +8,7 @@
 AJAX实战.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2e568cb53f64430394fa09360de0dee5

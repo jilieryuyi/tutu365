@@ -8,7 +8,7 @@
 11111、_english_Vagabonds of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2ad81e0beb3c1cb73e6b8b6a11b1d59c

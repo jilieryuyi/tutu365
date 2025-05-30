@@ -8,7 +8,7 @@
 4007、_russian_Псы, стерегущие мир_Игнатушин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ca73bac28f289ef6bdbe5f1b1a81e25

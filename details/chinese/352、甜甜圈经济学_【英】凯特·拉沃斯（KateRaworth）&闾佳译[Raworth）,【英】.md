@@ -8,7 +8,7 @@
 352、甜甜圈经济学_【英】凯特·拉沃斯（Kate Raworth） & 闾佳译 [Raworth）, 【英】凯特·拉沃斯（Kate & 闾佳译]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 aaf60b02305e66b85f841f317988d490

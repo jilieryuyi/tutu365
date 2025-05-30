@@ -8,7 +8,7 @@
 5850、_russian_ЛЮБОВЬ И ОРУЖИЕ_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51aaad9bdb3f9665ab50814c278aa873

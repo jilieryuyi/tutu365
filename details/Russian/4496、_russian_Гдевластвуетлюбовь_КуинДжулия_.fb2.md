@@ -8,7 +8,7 @@
 4496、_russian_Где властвует любовь_Куин Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee7c34f77be0cf1f8ba9a51f0e62e9d6

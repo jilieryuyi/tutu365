@@ -8,7 +8,7 @@
 8319、_russian_Хлеб для случайного путника_Астахова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50e0b74c50a7faf769f8a3626e218520

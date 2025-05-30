@@ -8,7 +8,7 @@
 966、_russian_Рыцарь-невидимка_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ac2d964d306d6a024f1cd5c03550fdb

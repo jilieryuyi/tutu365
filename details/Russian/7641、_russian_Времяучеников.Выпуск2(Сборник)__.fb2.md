@@ -8,7 +8,7 @@
 7641、_russian_Время учеников. Выпуск 2 (Сборник)__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 048e519aaeacdb01bf3c6a3960afa610

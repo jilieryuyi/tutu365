@@ -8,7 +8,7 @@
 3704、_russian_Обычная злая сказка_Первухина Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef1cb88869042591a25bec3d7815a3c2

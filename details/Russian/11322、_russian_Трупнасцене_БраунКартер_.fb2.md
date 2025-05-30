@@ -8,7 +8,7 @@
 11322、_russian_Труп на сцене_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e70979a6da3649ca443309eb1b803154

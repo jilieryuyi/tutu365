@@ -8,7 +8,7 @@
 3126、_russian_Немецкая революция и сталинская бюрократия_Троцкий Лев Давидович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4617e895b7d056ef77bbfdc96bd165b

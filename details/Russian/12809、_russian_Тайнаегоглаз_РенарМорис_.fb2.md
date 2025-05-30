@@ -8,7 +8,7 @@
 12809、_russian_Тайна его глаз_Ренар Морис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da9e62bd8a5d73aa079b91585a086592

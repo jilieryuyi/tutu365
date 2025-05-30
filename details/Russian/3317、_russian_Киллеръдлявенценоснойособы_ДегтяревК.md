@@ -8,7 +8,7 @@
 3317、_russian_Киллеръ для венценосной особы_Дегтярев Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41623c159b9aefe441b2adf54f001d70

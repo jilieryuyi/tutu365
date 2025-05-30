@@ -8,7 +8,7 @@
 1375、_ukrainian_Лiкарськi рослини Прикарпаття_Гладун Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b56f26786fe64abd711b26cdb73e5c67

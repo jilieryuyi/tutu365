@@ -8,7 +8,7 @@
 10722、_russian_Тайна булавки_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88778aef4cc037aa50a564b7e3be5e61

@@ -8,7 +8,7 @@
 3712、_russian_Долина Создателя_Гамильтон Эдмонд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e92be1710c2bc0e97d9b034a3a6d57d7

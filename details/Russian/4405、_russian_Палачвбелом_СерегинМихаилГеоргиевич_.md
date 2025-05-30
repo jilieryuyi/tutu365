@@ -8,7 +8,7 @@
 4405、_russian_Палач в белом_Серегин Михаил Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b984f7cf5fb2448594f2d5d9f96d7ea5

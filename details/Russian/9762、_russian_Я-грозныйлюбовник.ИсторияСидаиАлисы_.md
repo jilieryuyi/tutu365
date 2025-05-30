@@ -8,7 +8,7 @@
 9762、_russian_Я  - грозный любовник. История Сида и Алисы_Леал Эрмес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0da9842f8fffd365c294d6a8e44a80bb

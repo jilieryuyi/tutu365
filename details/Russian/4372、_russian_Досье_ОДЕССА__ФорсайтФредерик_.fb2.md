@@ -8,7 +8,7 @@
 4372、_russian_Досье _ОДЕССА__Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1b7def85d253d257b0301b2a47b44a0

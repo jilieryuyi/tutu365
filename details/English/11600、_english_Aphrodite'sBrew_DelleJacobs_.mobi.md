@@ -8,7 +8,7 @@
 11600、_english_Aphrodite's Brew_Delle Jacobs_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 148eeabee43a25266add604a4153c677

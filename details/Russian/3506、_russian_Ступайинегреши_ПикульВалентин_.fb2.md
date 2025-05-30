@@ -8,7 +8,7 @@
 3506、_russian_Ступай и не греши_Пикуль Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cd2fb962e122b72564c01bb243e0681

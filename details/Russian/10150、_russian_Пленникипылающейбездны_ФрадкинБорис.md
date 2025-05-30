@@ -8,7 +8,7 @@
 10150、_russian_Пленники пылающей бездны_Фрадкин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48b70797a05f321704b6dece18d5f796

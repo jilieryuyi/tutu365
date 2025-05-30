@@ -8,7 +8,7 @@
 904、_russian_Итальянский любовник_Кендрик Шэрон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85662a9d2fca5c47ab0f3eab662980d8

@@ -8,7 +8,7 @@
 4529、_russian_Вкус вина и любви_Босуэлл Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97f781c45f58e4d41b9242a1b7a5df93

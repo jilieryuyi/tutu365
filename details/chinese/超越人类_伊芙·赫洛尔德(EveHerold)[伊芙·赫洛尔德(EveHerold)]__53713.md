@@ -8,7 +8,7 @@
 超越人类_伊芙·赫洛尔德(Eve Herold) [伊芙·赫洛尔德(Eve Herold)]__5371379_785e2b24367c9e1727d4f69ae74cf1c1.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 785e2b24367c9e1727d4f69ae74cf1c1

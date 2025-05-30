@@ -8,7 +8,7 @@
 6068、_russian_Крылья гремящие_Иванов Сергей Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b9a1412e0b9fc3a1a812686decc85c8

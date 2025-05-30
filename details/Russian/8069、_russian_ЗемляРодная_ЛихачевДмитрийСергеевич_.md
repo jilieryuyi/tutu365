@@ -8,7 +8,7 @@
 8069、_russian_Земля Родная_Лихачев Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b0c10c301502ddcae1229330360b944

@@ -8,7 +8,7 @@
 2061、Linux命令行大全_Jr [美]William E. Shotts [[美]William E. Shotts, Jr]_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6c2048c45329c3d921ff71a869efa650

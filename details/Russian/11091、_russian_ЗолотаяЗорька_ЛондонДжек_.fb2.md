@@ -8,7 +8,7 @@
 11091、_russian_Золотая Зорька_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03d3802b5fd9d1cfd8b87815c0e2478e

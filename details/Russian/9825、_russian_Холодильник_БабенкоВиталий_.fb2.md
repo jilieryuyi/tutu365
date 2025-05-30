@@ -8,7 +8,7 @@
 9825、_russian_Холодильник_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ff95cdd4cb39c9827723aa2bbade69f

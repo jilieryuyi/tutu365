@@ -8,7 +8,7 @@
 239、超级转化率：如何让客户快速下单_SoBooKs.cc 陈勇 [陈勇, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6cba378128ca9cb11a00d140b617bbae

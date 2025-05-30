@@ -8,7 +8,7 @@
 8155、_russian_Библиотека Ошо_ Притчи старого города_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe866ef0d886fef5af72960db7524dd3

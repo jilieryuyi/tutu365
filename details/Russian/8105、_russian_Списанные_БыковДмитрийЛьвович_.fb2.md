@@ -8,7 +8,7 @@
 8105、_russian_Списанные_Быков Дмитрий Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82a67bd8974670ccaabe3bfd23465146

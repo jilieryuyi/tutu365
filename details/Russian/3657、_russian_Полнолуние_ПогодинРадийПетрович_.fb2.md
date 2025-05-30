@@ -8,7 +8,7 @@
 3657、_russian_Полнолуние_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8227e7f2fbd206f33b57e62cf7c7c734

@@ -8,7 +8,7 @@
 1595、_russian_Доктор Вампир и его мохнатые друзья_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34e10314afec0138febdee982afd48c5

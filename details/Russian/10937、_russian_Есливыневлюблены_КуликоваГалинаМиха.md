@@ -8,7 +8,7 @@
 10937、_russian_Если вы не влюблены_Куликова Галина Михайловна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a400af54dc0152c9ed910907576b084

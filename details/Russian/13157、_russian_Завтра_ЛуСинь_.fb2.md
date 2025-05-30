@@ -8,7 +8,7 @@
 13157、_russian_Завтра_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ece59822de628985439c0a3f4f5faf85

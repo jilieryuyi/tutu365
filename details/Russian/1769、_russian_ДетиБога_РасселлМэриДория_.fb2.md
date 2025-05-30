@@ -8,7 +8,7 @@
 1769、_russian_Дети Бога_Расселл Мэри Дория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8daba84d3409223cd98fe39d06103f9d

@@ -8,7 +8,7 @@
 8661、_russian_Боец. Оборотни_Угрюмов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8986b526cae5b670903bd991e9627ae

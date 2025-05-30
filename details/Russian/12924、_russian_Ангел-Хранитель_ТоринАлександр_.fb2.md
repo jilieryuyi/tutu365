@@ -8,7 +8,7 @@
 12924、_russian_Ангел-Хранитель_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 325e20fdae875fcdbe65c0728cb605e7

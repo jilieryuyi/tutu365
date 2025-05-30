@@ -8,7 +8,7 @@
 11234、_russian_Захудалый род_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bdf81ff558c7f864fd55ae90856489b

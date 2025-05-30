@@ -8,7 +8,7 @@
 2727、_russian_Шок_Ахметов Спартак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2107aeb89ed4279cb3797be91c9bd9e2

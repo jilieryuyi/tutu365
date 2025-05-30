@@ -8,7 +8,7 @@
 7636、_russian_Возвращение_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e0cea575ea61eac81959ef0d6f86a96

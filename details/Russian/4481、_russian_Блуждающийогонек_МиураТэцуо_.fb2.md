@@ -8,7 +8,7 @@
 4481、_russian_Блуждающий огонек_Миура Тэцуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 990afe527c9d7baabb903678bae1f2e1

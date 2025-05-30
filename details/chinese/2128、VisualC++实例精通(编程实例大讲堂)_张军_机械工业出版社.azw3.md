@@ -8,7 +8,7 @@
 2128、Visual C++实例精通 (编程实例大讲堂)_张军_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8105017574b266a61873e8d2a7ffba2d

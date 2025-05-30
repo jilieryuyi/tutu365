@@ -8,7 +8,7 @@
 11148、_russian_Человек со Шрамом_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f46865291bcf535d1af4e3e95d74eccb

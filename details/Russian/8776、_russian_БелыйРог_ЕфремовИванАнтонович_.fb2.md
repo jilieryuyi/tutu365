@@ -8,7 +8,7 @@
 8776、_russian_Белый Рог_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b7b930153d3e9de99e0f102bb06f9e5

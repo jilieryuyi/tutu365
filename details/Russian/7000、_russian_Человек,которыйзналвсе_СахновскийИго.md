@@ -8,7 +8,7 @@
 7000、_russian_Человек, который знал все_Сахновский Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34c7bb641009ba1b3fcddd41473f7bba

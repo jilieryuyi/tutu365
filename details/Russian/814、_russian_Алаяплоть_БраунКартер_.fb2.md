@@ -8,7 +8,7 @@
 814、_russian_Алая плоть_Браун Картер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ea3105304a807859e54a9ef53eb439e

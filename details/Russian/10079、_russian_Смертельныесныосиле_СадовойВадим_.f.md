@@ -8,7 +8,7 @@
 10079、_russian_Смертельные сны о силе_Садовой Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4d8920e49839b6a0aa8da895a9a0257

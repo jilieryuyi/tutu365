@@ -8,7 +8,7 @@
 975、_russian_Или все, или..._Брукс Хелен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a1023c0e3f206ea70b4caced10f490e

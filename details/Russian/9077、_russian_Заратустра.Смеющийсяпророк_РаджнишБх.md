@@ -8,7 +8,7 @@
 9077、_russian_Заратустра. Смеющийся пророк_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0faf5db0d58cc18ac152d242eea8086

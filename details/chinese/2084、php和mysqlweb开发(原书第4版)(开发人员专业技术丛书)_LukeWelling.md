@@ -8,7 +8,7 @@
 2084、php和mysql web开发(原书第4版) (开发人员专业技术丛书)_Luke Welling_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e2a6170e93ca0b6bac41ebeef18c795

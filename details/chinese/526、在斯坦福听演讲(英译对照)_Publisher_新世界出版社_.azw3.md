@@ -8,7 +8,7 @@
 526、在斯坦福听演讲(英译对照)_Publisher           _ 新世界出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c7ba55787bf3ecc53e5298715b7a0ae3

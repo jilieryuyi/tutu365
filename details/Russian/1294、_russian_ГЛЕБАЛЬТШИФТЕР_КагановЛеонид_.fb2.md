@@ -8,7 +8,7 @@
 1294、_russian_ГЛЕБ АЛЬТШИФТЕР_Каганов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97eef79949d3c5de1b0951829ef33811

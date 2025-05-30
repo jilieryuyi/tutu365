@@ -8,7 +8,7 @@
 12352、_russian_Голубь_Зюскинд Патрик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcff5c0b386adbdc5553cb86a72c5b87

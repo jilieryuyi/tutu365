@@ -8,7 +8,7 @@
 13054、_russian_Няня из Москвы_Шмелев Иван Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f48fc56fad1708e74cb9d07fb375695

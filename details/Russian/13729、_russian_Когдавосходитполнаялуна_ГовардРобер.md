@@ -8,7 +8,7 @@
 13729、_russian_Когда восходит полная луна_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72b174390f0d5669c68b4b35046bb31d

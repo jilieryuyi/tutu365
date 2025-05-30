@@ -8,7 +8,7 @@
 2200、_russian_Сестра Марина_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d5c2ac350f794bd651afda25e8463c0

@@ -8,7 +8,7 @@
 15246、_russian_Призванные луной_Бриггз Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5a566ca6962a7e6fd47a8c69fe91778

@@ -8,7 +8,7 @@
 2091、Python计算机视觉编程 (图灵程序设计丛书)_[美]Jan Erik Solem_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 11a6b03c0f61a121fc6fa08a3faeb35f

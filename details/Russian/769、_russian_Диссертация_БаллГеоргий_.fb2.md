@@ -8,7 +8,7 @@
 769、_russian_Диссертация_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 977f166f5951f0178102f7252c6c3b5c

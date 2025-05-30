@@ -8,7 +8,7 @@
 Visual.C.2008入门经典(中文高清版).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 90e881bce94bedaa3cae7f4c492cb62e

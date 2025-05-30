@@ -8,7 +8,7 @@
 6672、_russian_Зеленый храм_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d802752602a39e761634455ad1930911

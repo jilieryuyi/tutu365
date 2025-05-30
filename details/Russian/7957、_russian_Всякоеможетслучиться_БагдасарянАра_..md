@@ -8,7 +8,7 @@
 7957、_russian_Всякое может случиться_Багдасарян Ара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a602e09c6345ff55c0f442a69682d26e

@@ -8,7 +8,7 @@
 1154、_russian_Брат, которому семь_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8449ce776bca53426e9dcaef38a70f2b

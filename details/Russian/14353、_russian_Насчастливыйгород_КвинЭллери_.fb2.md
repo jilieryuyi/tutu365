@@ -8,7 +8,7 @@
 14353、_russian_Насчастливый город_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c044821d9cd099008a264fe77824557d

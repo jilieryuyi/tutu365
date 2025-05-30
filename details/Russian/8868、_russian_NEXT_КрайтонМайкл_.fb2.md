@@ -8,7 +8,7 @@
 8868、_russian_NEXT_Крайтон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fe103766839634339960df4f3308219

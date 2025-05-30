@@ -8,7 +8,7 @@
 2958、_russian_Команда_Иванов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afb42758226df20c7c16a2b128c56044

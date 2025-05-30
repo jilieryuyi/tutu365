@@ -8,7 +8,7 @@
 11767、_russian_Присягнувшие тьме_Гранже Жан-Кристоф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65dbde33178458a196cd477413d04bc4

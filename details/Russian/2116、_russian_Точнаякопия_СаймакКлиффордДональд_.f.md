@@ -8,7 +8,7 @@
 2116、_russian_Точная копия_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5c946690c55319cdcdb49be705272b0

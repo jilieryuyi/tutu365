@@ -8,7 +8,7 @@
 6406、_russian_Стихотворения, не вошедшие в сборники_Гиппиус Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4732f2f1bc64d9ecbd926faef4db18b8

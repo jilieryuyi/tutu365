@@ -8,7 +8,7 @@
 9742、_russian_Любовь на Женевском озере_Сванхольм Делла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84f1d9782269b76a9dc581a2145a3036

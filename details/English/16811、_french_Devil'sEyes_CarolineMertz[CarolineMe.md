@@ -8,7 +8,7 @@
 16811、_french_Devil's Eyes_Caroline Mertz [Caroline Mertz]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8c29fadab2ec0626481b7c9b6ecaece0

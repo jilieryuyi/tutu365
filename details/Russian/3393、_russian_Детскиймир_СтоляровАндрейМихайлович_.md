@@ -8,7 +8,7 @@
 3393、_russian_Детский мир_Столяров Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 885a2f401c9fdc9a26f5360ca9684f08

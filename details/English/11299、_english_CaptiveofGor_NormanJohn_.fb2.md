@@ -8,7 +8,7 @@
 11299、_english_Captive of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5ba4daa01816121045cfc09560d87867

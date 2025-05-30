@@ -8,7 +8,7 @@
 12688、_russian_Незабвенная_Во Ивлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69cbfbee816864a226e1aa01442cb08f

@@ -8,7 +8,7 @@
 6198、_russian_После этой войны другой уже не будет_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3061702cb828b87704956abdb0362beb

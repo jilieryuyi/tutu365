@@ -8,7 +8,7 @@
 10525、_russian_Нелюди_Руссо Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0270e5f369540adf8c4eb3329daef2e6

@@ -8,7 +8,7 @@
 从20万到30亿：特朗普自传_唐纳德·特朗普(Donald Trump) [唐纳德·特朗普(Donald Trump)]__5287990_225e1f071019dfdfca1ad565c53bdb29.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 225e1f071019dfdfca1ad565c53bdb29

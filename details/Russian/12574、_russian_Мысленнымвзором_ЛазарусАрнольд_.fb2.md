@@ -8,7 +8,7 @@
 12574、_russian_Мысленным взором_Лазарус Арнольд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efd3e410261ff3802bae3dacf4d1e0cb

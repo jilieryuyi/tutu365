@@ -8,7 +8,7 @@
 6092、_russian_Лекции по античной философии_Мамардашвили Мераб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dae59e25136dfba41fef691ee77177d9

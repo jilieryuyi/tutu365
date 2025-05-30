@@ -8,7 +8,7 @@
 14983、_russian_Экстаз_Мураками Рю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08b0a4d757da5b4e83eebb1e834a090b

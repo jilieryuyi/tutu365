@@ -8,7 +8,7 @@
 7801、_russian_Свалка ненужных людей_Выставной Владислав Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b13b2a8ee20c177010f677c37fa839d

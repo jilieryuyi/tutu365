@@ -8,7 +8,7 @@
 599、_russian_Мария-Изабель_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abaa552df576e9832c2b94af723cc089

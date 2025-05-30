@@ -8,7 +8,7 @@
 2573、_russian_Вышедший из моря_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b8193430b823135d7cd254ae1490771

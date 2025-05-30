@@ -8,7 +8,7 @@
 10378、_russian_Олимпиец_Буревой Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1275af1f2dae3ce857a2263b09ca6cc

@@ -8,7 +8,7 @@
 11847、_russian_Ленты Титана_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4449b5cd656c4b50e9fc84894fdfef5

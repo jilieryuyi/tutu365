@@ -8,7 +8,7 @@
 7753、_russian_Круг царя Соломона_Кузьмин Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84bc23ab992394adc4f12f117215d201

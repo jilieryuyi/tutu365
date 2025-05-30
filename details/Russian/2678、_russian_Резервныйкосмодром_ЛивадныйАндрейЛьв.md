@@ -8,7 +8,7 @@
 2678、_russian_Резервный космодром_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89bca7165d6d7d7b7fbbba833fffc65e

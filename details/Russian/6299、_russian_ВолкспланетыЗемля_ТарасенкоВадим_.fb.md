@@ -8,7 +8,7 @@
 6299、_russian_Волк с планеты Земля_Тарасенко Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f58d8b2b028533fdec0927bf1341c650

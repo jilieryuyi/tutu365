@@ -8,7 +8,7 @@
 8220、_russian_Рип Винклер_Шабельник Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3596fdfb35d75ce1f62bf1a7f449c03f

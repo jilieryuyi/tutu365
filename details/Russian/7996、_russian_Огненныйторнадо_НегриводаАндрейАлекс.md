@@ -8,7 +8,7 @@
 7996、_russian_Огненный торнадо_Негривода Андрей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcdb6978c68e8fceffac30e45411d442

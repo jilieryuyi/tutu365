@@ -8,7 +8,7 @@
 6455、_english__ПАРОХОД ВДОВИЙ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d9666f5eec0bb49fbaadaab4d01a675

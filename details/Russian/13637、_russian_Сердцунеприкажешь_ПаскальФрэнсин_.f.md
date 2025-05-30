@@ -8,7 +8,7 @@
 13637、_russian_Сердцу не прикажешь_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fbd6bbd1ec2d0334ce81983f6c9a3f7

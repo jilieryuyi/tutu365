@@ -8,7 +8,7 @@
 6120、_english_Takedown_Thor Brad_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b85b2221190345b333aa037a9d361107

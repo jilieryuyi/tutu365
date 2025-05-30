@@ -8,7 +8,7 @@
 14779、_russian_Краткий морской словарь_Форестер Сесил Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c8b856a761ce2f4772609ba013eb5f7

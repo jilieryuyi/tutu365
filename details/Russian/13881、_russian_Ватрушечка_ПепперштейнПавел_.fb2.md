@@ -8,7 +8,7 @@
 13881、_russian_Ватрушечка_Пепперштейн Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 551a0911c6502d7840158cba2bfaa7a3

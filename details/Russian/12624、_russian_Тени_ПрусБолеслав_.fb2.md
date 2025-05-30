@@ -8,7 +8,7 @@
 12624、_russian_Тени_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0d55c4b71eefa89e9c62dc39a51fc59

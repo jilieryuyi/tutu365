@@ -8,7 +8,7 @@
 2212、_russian_Грешная женщина_Иган Дениза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b715c1cdf98c2bd62b543bceec0d65b

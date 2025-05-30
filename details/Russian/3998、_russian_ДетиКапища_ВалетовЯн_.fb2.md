@@ -8,7 +8,7 @@
 3998、_russian_Дети Капища_Валетов Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6b4e8d1809fe9a30c47fc450e62c78b

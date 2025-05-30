@@ -8,7 +8,7 @@
 7434、_russian_Искусственное осеменение собак__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04f431beeb88dd219f68e7006106fe46

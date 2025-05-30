@@ -8,7 +8,7 @@
 14004、_ukrainian_Град и звезде_Кларк Артур Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0107c1a4421e68645af6fc7e61ee060d

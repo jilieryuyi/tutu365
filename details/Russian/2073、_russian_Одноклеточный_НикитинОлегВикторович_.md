@@ -8,7 +8,7 @@
 2073、_russian_Одноклеточный_Никитин Олег Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4443a40eee8c98e1ead480a0f132e6c8

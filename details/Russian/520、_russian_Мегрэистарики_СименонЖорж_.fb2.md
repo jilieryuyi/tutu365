@@ -8,7 +8,7 @@
 520、_russian_Мегрэ и старики_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bd067081c9e87b972efded72d15f175

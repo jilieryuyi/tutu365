@@ -8,7 +8,7 @@
 571、轻断食_正在横扫全球的瘦身革命_咪咪·史宾赛 (Mimi Spencer) 麦克尔·莫斯利 (Michael Mosley) [麦克尔·莫斯利 (Michael Mosley) , 咪咪·史宾赛 (Mimi Spencer)]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5eb0746e5ec8fa0fe43793118998f87d

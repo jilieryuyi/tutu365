@@ -8,7 +8,7 @@
 1845、_russian_Золотой дождь_Гришем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a33ae01e4c64dac37fdb4982f3846d2a

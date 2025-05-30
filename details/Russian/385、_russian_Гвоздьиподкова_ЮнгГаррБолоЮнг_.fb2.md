@@ -8,7 +8,7 @@
 385、_russian_Гвоздь и подкова_Юнг Гарр Боло Юнг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d19e75120a59906ca366ad06766a0cf

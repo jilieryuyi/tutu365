@@ -8,7 +8,7 @@
 2009、Excel会计与财务管理应用大全 (Office办公无忧)_恒盛杰资讯_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e65c1fa5169b915a76a00fd071ee02e

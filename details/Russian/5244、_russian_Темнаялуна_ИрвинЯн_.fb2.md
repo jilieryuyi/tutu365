@@ -8,7 +8,7 @@
 5244、_russian_Темная луна_Ирвин Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03dc30b72e0cff40347f7c08cca3ab02

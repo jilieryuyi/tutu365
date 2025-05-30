@@ -8,7 +8,7 @@
 2834、虎牙 (汤姆·克兰西军事系列)_汤姆·克兰西(Tom Clancy)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 19b164c2266b3b346c4180e0ceb7a254

@@ -8,7 +8,7 @@
 1914、_russian_По ту сторону промежутка_Маккефри Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4870842b7418b5d7b9b32769c0e67045

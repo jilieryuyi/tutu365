@@ -8,7 +8,7 @@
 628、_russian_Таинство и поэзия запредельного_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fa3a95b3f7fab99ef06a5ebec3a3bbe

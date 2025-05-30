@@ -8,7 +8,7 @@
 15060、_russian_Рассказы из правого ботинка (сборник)_Рудазов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6df28925bb82d6279a5af18296ac4da0

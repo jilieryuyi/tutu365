@@ -8,7 +8,7 @@
 7218、_russian_Из сборника _Последние стихи__Соловьева Поликсена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a0ef3a647e92e8d3bf427500318cc73

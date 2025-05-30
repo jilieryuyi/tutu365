@@ -8,7 +8,7 @@
 10001、_russian_Напиши мне ответ_Федоров Николай Тимонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0f09a3583f76b5d7b28575595beb143

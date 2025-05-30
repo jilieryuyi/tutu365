@@ -8,7 +8,7 @@
 8670、_russian_Люди в черном_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 923df46298e36421e5c8df5de1a3abc9

@@ -8,7 +8,7 @@
 11365、_english_Tarnsman of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 03f1185b988809de7d68512682e5624b

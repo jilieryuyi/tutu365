@@ -8,7 +8,7 @@
 3898、_russian_Свидание с морем_Кирносов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30a1a06320c5f33f73acb5fb1596de65

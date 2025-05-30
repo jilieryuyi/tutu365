@@ -8,7 +8,7 @@
 14967、_russian_Возвращённая Победа или Антиледокол_Зайцев Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbb95c1451bb7da9861ef51886bd8b9e

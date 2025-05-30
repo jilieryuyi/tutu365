@@ -8,7 +8,7 @@
 4495、_russian_Шабашка_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 060ce5ef78b89c0eb222977ec24355c1

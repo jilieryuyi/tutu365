@@ -8,7 +8,7 @@
 8959、_russian_Двойной выстрел_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79ab51b4937bfa9aa0f92a71f3b3d0b2

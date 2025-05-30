@@ -8,7 +8,7 @@
 7475、_russian_Тарас Бульба_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38bb15c8e2071b185dbf43a96f17330a

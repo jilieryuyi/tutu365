@@ -8,7 +8,7 @@
 清秀佳人2：艾凡里的安 Anne of Avonlea_露西．蒙哥瑪麗__5446092_0fc2f9481bc2ad5b7cc4f1ed1455909f.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0fc2f9481bc2ad5b7cc4f1ed1455909f

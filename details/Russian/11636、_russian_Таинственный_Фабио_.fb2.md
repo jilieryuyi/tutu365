@@ -8,7 +8,7 @@
 11636、_russian_Таинственный_Фабио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 943aeab0ac052e5670d63d43ec1b8cc8

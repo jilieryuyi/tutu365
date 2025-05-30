@@ -8,7 +8,7 @@
 14845、_russian_Игры форов_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef98f073123bf1ed722d89526fb43a02

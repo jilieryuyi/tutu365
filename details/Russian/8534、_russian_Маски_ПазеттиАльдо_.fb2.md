@@ -8,7 +8,7 @@
 8534、_russian_Маски_Пазетти Альдо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fd727a144d2fad6ab59e1941646dd1c

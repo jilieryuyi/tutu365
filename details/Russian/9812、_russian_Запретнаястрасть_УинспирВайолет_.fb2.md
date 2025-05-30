@@ -8,7 +8,7 @@
 9812、_russian_Запретная страсть_Уинспир Вайолет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4de98f958d36fab35ed41e08a828ac5a

@@ -8,7 +8,7 @@
 8958、_russian_Дьявол_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e13a773ef83189c38c4f58c01eb0835

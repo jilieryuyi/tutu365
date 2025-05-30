@@ -8,7 +8,7 @@
 5154、_russian_Бедная невеста_Островский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd547487f2cacb00a709a1591e40f312

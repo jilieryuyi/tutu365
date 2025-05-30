@@ -8,7 +8,7 @@
 15210、_russian_Дебри_Уоррен Роберт Пенн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 719d4913de39c1601479ed58c9a115aa

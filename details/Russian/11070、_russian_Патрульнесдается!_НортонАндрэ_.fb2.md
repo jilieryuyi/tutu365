@@ -8,7 +8,7 @@
 11070、_russian_Патруль не сдается!_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 221c172051b8acc30ddad370a4c644e7

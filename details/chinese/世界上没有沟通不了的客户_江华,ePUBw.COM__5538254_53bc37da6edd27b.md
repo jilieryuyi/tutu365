@@ -8,7 +8,7 @@
 世界上没有沟通不了的客户_江华, ePUBw.COM__5538254_53bc37da6edd27bd35b7e31e3b6f4995.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 53bc37da6edd27bd35b7e31e3b6f4995

@@ -8,7 +8,7 @@
 12399、_russian_Ложь_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2534ae86fc5f2c0e59afcf6aabadb599

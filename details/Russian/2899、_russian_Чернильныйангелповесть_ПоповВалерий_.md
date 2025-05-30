@@ -8,7 +8,7 @@
 2899、_russian_Чернильный ангел повесть_Попов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e658e1cce8825102b0dc49e31241ed61

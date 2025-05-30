@@ -8,7 +8,7 @@
 4870、_russian_Девушка с голодными глазами_Царева Маша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f0233fbcbd3c8e1839e426d1cfce69a

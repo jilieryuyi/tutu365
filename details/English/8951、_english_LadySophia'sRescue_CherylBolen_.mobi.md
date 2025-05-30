@@ -8,7 +8,7 @@
 8951、_english_Lady Sophia's Rescue_Cheryl Bolen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 408ebe516c2619b9496f9794aa98b855

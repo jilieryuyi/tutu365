@@ -8,7 +8,7 @@
 10368、_russian_Фальшивые зубы тигра_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5281a268ae20a79a87b5b9da64f1ed43

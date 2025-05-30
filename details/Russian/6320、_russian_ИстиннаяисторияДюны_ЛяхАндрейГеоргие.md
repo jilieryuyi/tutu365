@@ -8,7 +8,7 @@
 6320、_russian_Истинная история Дюны_Лях Андрей Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 800b64949fc6d6fa03d738e8d94ac38c

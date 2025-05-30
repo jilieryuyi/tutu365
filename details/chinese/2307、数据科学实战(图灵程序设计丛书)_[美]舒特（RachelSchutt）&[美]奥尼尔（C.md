@@ -8,7 +8,7 @@
 2307、数据科学实战 (图灵程序设计丛书)_[美]舒特（Rachel Schutt） & [美]奥尼尔（Cathy O'Neil）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f0d81b19e9fe8991fee6cbc99186559c

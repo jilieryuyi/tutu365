@@ -8,7 +8,7 @@
 7890、_english_The Earl's Forbidden Ward_Bronwyn Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bb7ea8db2c25fba84a0e11d403e4a622

@@ -8,7 +8,7 @@
 多网点接入的IPCC解决方案.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c8055690d0599cc0c27c1b049944e77a

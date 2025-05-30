@@ -8,7 +8,7 @@
 7496、_english_The Godwulf Manuscript_Parker Robert B._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8b14f3e2669ab87aeb3fd78f047709a9

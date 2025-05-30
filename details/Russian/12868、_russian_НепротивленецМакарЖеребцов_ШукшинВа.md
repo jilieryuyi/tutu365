@@ -8,7 +8,7 @@
 12868、_russian_Непротивленец Макар Жеребцов_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f31923619d2a29aa3602a9d31a4caf7a

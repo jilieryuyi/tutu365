@@ -8,7 +8,7 @@
 6670、_russian_Масло в огонь_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2b7f6be305336a9e9de153356a548a8

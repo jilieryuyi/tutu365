@@ -8,7 +8,7 @@
 11905、_russian_Падение Иерусалима_Картун Дерек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 720b4251d62294b620d12937d802dc2a

@@ -8,7 +8,7 @@
 10238、_russian_Дверь в никуда_Журавлев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94885262be17eaa1345797046db62cae

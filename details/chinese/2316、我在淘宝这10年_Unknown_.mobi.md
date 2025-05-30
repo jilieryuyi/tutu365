@@ -8,7 +8,7 @@
 2316、我在淘宝这10年_Unknown_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 52cafdabbd5de14c4fb9c59046ee873e

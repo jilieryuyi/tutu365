@@ -8,7 +8,7 @@
 10971、_russian_Заговор сердец_Уилсон Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7227b0820e0647f852f388d57eaf9625

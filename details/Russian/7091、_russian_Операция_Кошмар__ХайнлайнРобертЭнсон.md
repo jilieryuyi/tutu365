@@ -8,7 +8,7 @@
 7091、_russian_Операция _Кошмар__Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb1f41216b8144bac0b3b4007e673cd4

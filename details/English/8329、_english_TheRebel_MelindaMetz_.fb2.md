@@ -8,7 +8,7 @@
 8329、_english_The Rebel_Melinda Metz_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6bc8f13711ed60b15f91de889e33aabf

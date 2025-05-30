@@ -8,7 +8,7 @@
 1157、_russian_Белый щенок ищет хозяина_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80e85768d7c0c2df32bf8502c860f21b

@@ -8,7 +8,7 @@
 14305、_russian_Звездный странник – 2. Мегаполис_Сергей Афанасьев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ad2a52685ace355da0800fdcafb6c80

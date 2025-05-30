@@ -8,7 +8,7 @@
 4089、_russian_Звездолет в лесу_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af1876ed853509d7ca340c0a2924cee3

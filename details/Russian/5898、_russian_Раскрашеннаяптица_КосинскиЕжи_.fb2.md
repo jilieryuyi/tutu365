@@ -8,7 +8,7 @@
 5898、_russian_Раскрашенная птица_Косински Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca92ce96e2e4e58cd2ef9b5c318a409b

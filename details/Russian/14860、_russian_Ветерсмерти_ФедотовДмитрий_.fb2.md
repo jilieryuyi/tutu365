@@ -8,7 +8,7 @@
 14860、_russian_Ветер смерти_Федотов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e901a3b86659d62216425542a88e6076

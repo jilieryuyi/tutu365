@@ -8,7 +8,7 @@
 6487、_russian_Секрет садоводов_Грейвс Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e76a52eb3866024b32be222ceda051b1

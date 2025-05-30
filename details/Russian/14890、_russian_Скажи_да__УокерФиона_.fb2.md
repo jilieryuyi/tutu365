@@ -8,7 +8,7 @@
 14890、_russian_Скажи _да__Уокер Фиона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23f2bc358b210a120c63a4d44372e400

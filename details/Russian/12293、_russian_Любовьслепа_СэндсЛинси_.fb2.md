@@ -8,7 +8,7 @@
 12293、_russian_Любовь слепа_Сэндс Линси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0c03fc61b02bd4626ec4a33445f3764

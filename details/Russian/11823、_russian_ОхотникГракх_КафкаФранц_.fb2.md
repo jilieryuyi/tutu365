@@ -8,7 +8,7 @@
 11823、_russian_Охотник Гракх_Кафка Франц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c36d5091aaab97a699632eb5b2fe9cd0

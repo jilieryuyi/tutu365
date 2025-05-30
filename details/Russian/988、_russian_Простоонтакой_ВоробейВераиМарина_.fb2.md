@@ -8,7 +8,7 @@
 988、_russian_Просто он такой_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87b7cad0bfbb2bc3cc4e2d0430f530b2

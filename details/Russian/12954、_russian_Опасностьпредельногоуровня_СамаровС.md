@@ -8,7 +8,7 @@
 12954、_russian_Опасность предельного уровня_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9535854ce4f7ae97c0ea143b7822a7c

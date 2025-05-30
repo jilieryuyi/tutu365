@@ -8,7 +8,7 @@
 10777、_russian_Обещание жениться_Грин Грейс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5749878d6b0d566be78e43bf266a46ed

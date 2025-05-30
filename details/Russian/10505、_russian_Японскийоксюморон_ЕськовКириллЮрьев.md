@@ -8,7 +8,7 @@
 10505、_russian_Японский оксюморон_Еськов Кирилл Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6133b80eb8736b4feef5229a927484d9

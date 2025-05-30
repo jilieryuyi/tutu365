@@ -8,7 +8,7 @@
 14718、_russian_Золото_Полевой Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 224902e86f4e5d53fc62d0b17a3ee3f3

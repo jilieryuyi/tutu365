@@ -8,7 +8,7 @@
 2021、_russian_Нет причин умирать_Боннэр Хиллари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afde9ae28a083653f10974817725413c

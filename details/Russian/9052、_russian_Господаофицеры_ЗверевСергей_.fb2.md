@@ -8,7 +8,7 @@
 9052、_russian_Господа офицеры_Зверев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28fbed6ab4cad6ad37d624c562d72b0d

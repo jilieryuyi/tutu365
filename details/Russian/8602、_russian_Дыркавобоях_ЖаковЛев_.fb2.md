@@ -8,7 +8,7 @@
 8602、_russian_Дырка в обоях_Жаков Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69185eeb2bcb6c9e087beb5760f47f2c

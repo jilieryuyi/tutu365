@@ -8,7 +8,7 @@
 创建基于agsXMPP的实例.doc.doc
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8927e0748bf6ea1fbc4161deae67758e

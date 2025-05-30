@@ -8,7 +8,7 @@
 2423、_russian_Женщина с большой буквы _Ж__Барякина Эльвира_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d84853c38623cb0d85a1e6ba61ea2b18

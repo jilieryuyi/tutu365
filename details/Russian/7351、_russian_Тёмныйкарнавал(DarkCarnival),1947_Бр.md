@@ -8,7 +8,7 @@
 7351、_russian_Тёмный карнавал (Dark Carnival), 1947_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf4fa9e69c26c024cea278360189b3ff

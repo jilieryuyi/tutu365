@@ -8,7 +8,7 @@
 5507、_russian_Квадраты шахматного города. Научно-фантастический роман_Браннер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cca3d5d806c9986adbe4af03ec9a5e4c

@@ -8,7 +8,7 @@
 13071、_russian_Письмо из дома_Лао Шэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f60b68a574ea8abcb939ea1e1da83ac1

@@ -8,7 +8,7 @@
 10956、_russian_Что едят писатели_Уэллс Герберт Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfb9b4107cce15481da8e30d9fb2fc48

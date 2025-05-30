@@ -8,7 +8,7 @@
 13264、_russian_Мужчина и женщина_Шоун Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13d1921bd648552d52c865dfe004e175

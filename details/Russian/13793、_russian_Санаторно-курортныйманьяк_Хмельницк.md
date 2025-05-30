@@ -8,7 +8,7 @@
 13793、_russian_Санаторно-курортный маньяк_Хмельницкая Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a6d375aad32aef43ca7c456f9b3fa85

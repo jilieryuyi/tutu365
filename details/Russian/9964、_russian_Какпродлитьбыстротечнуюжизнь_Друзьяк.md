@@ -8,7 +8,7 @@
 9964、_russian_Как продлить быстротечную жизнь_Друзьяк Николай Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03679fdfefdb0cf81bfc18f52399d228

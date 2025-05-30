@@ -8,7 +8,7 @@
 9068、_russian_Предпочитаю молчать_Браннер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51b2a1b762871513e7ac3dcf83e73a04

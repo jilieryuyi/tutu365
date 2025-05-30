@@ -8,7 +8,7 @@
 884、_russian_Фрам — полярный медведь_Петреску Чезар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1747f444502684f4a42f7122fd8fbe06

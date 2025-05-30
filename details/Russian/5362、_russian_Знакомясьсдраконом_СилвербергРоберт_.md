@@ -8,7 +8,7 @@
 5362、_russian_Знакомясь с драконом_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4df9415756245528ad8a7eca0f0da12d

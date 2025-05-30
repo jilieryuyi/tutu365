@@ -8,7 +8,7 @@
 4750、_russian_Письма к дядюшке Клодомиру_Домманже Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0837d45551b7197d009fb90532dfe4b

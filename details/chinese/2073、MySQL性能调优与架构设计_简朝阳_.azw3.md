@@ -8,7 +8,7 @@
 2073、MySQL性能调优与架构设计_简朝阳_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 379eefdc970d15e0fd12a5bd746f3f4c

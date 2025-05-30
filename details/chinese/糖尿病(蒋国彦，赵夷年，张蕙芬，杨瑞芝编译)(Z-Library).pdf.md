@@ -8,7 +8,7 @@
 糖尿病 (蒋国彦，赵夷年，张蕙芬，杨瑞芝编译) (Z-Library).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f2b4e9d2cd25a4d722dc2c7e05e4902f

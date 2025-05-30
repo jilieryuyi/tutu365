@@ -8,7 +8,7 @@
 13730、_russian_Журавли и карлики_Юзефович Леонид Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da97af503ae688ddf1ed1dc0d66689ae

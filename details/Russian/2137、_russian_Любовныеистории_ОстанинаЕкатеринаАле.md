@@ -8,7 +8,7 @@
 2137、_russian_Любовные истории_Останина Екатерина Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13a7c7650cbc6c708b46cd34853aa3a0

@@ -8,7 +8,7 @@
 1508、_russian_Свидание по приколу_Щеглова Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c883b912d6552ee6239f5b5720bb297e

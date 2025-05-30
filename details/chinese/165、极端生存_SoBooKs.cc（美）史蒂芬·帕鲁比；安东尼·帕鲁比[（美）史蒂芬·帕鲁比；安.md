@@ -8,7 +8,7 @@
 165、极端生存_SoBooKs.cc （美）史蒂芬· 帕鲁比；安东尼· 帕鲁比 [（美）史蒂芬· 帕鲁比；安东尼· 帕鲁比, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 54868a0763e583fafb41bdc379bfb6b4

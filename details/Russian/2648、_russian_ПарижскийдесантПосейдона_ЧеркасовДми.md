@@ -8,7 +8,7 @@
 2648、_russian_Парижский десант Посейдона_Черкасов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2dbbe1409981e753103c6a8cbe38fee6

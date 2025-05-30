@@ -8,7 +8,7 @@
 11487、_russian_Солнечная девушка_Дженсен Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af160b3986ab2c8ddcdaf20ed43ba656

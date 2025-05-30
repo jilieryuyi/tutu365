@@ -8,7 +8,7 @@
 1477、迷恋_如何让你和你的品牌粉丝暴增_莎莉·霍格斯黑德(SallyHogshead)_中华工商联合出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a5e085474a017cdd17a3c20ef19c1854

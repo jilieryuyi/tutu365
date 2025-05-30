@@ -8,7 +8,7 @@
 5595、_english_“Surely You’re Joking, Mr. Feynman”_ Adventures of a Curious Character_Feynman Richard Phillips, Hutchings Edward, Leighton Ralph_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4ce798b96a2232edab86a85b3892354b

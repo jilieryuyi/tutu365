@@ -8,7 +8,7 @@
 2732、如果没有今天，明天会不会有昨天？_伊夫·博萨尔特（Yves Bossart）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7b242630c5f2563da49841b9db1e0146

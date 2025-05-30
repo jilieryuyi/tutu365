@@ -8,7 +8,7 @@
 4855、_russian_Изолятор_Спэньол Джошуа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1587ac9bcb7e2f92cc9afbaca6fdcb6

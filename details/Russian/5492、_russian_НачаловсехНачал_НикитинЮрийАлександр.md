@@ -8,7 +8,7 @@
 5492、_russian_Начало всех Начал_Никитин Юрий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc6fa367835cf9d81d4e472ef4bb0ae0

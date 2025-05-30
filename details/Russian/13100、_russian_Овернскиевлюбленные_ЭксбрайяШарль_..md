@@ -8,7 +8,7 @@
 13100、_russian_Овернские влюбленные_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2dd2ac68334849a8473eb7a8823d3922

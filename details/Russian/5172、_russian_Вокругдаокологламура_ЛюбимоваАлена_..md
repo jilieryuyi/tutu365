@@ -8,7 +8,7 @@
 5172、_russian_Вокруг да около гламура_Любимова Алена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39237e88ab218d0c6341ac5194a65eca

@@ -8,7 +8,7 @@
 1388、_russian_Справа оставался городок_Щербакова Галина Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf0ec5ead8e67d9f746a2b461c16c859

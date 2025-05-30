@@ -8,7 +8,7 @@
 16256、_japanese_日语近义词 同义词辨析_陆留弟 郭侃亮_华东理工大学.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f74c9392202792e6bad1d8a6be312a10

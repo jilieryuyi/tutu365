@@ -8,7 +8,7 @@
 14891、_russian_Любовь и честь_Спир Флора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70966d991d5d9a956ce85add27db3f4f

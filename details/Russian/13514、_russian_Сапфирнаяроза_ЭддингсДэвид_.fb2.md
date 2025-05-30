@@ -8,7 +8,7 @@
 13514、_russian_Сапфирная роза_Эддингс Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bda118b7474035df804804f5070c797b

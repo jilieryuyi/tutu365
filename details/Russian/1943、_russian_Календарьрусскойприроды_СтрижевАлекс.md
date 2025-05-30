@@ -8,7 +8,7 @@
 1943、_russian_Календарь русской природы_Стрижев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e34433f861839c7ef54e33c2ea8b9e3

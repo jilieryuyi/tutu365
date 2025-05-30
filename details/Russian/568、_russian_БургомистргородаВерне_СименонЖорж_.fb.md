@@ -8,7 +8,7 @@
 568、_russian_Бургомистр города Верне_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 04cd1720e9cbea7e8afaabe90629403d

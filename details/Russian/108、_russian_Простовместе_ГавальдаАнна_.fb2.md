@@ -8,7 +8,7 @@
 108、_russian_Просто вместе_Гавальда Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae530761aee989896b4b25ac680d2b7b

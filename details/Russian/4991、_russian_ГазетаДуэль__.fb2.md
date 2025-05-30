@@ -8,7 +8,7 @@
 4991、_russian_Газета Дуэль__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 79f4c1ac23b57eb84edabf9fcd20643d

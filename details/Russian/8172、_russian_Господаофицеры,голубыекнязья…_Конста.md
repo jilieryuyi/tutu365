@@ -8,7 +8,7 @@
 8172、_russian_Господа офицеры, голубые князья…_Константинов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05f1d544f08fa76099bf947d68d5a3d3

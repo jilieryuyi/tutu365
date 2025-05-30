@@ -8,7 +8,7 @@
 13210、_russian_Волшебник_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afa25a8208c2be193afb31fa1c0aba18

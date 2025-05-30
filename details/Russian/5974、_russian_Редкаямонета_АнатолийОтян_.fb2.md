@@ -8,7 +8,7 @@
 5974、_russian_Редкая монета_Анатолий Отян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bec286554d46f67ec02c6c0fbe13f112

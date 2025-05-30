@@ -8,7 +8,7 @@
 6297、_russian_Дочь магистра Пламенных Чаш_Вашкевич Эльвира, Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fff3ee22b0c3d899c8b3d21d043b53d8

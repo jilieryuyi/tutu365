@@ -8,7 +8,7 @@
 3780、_russian_Маг_Бушин Максим Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c5ea0cd1c2d46b054ed99744c69166a

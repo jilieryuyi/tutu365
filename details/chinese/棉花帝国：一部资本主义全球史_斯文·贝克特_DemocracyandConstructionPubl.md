@@ -8,7 +8,7 @@
 棉花帝国：一部资本主义全球史_斯文·贝克特_Democracy and Construction Publishing House_5475898_0359994c06004602ec2e0e53a7caca22.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0359994c06004602ec2e0e53a7caca22

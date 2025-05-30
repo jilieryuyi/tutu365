@@ -8,7 +8,7 @@
 13285、_russian_Знак Девы_Проханов Александр Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a2326417a997ce539aa86897e888d5e

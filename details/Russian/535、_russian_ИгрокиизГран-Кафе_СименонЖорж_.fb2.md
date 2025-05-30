@@ -8,7 +8,7 @@
 535、_russian_Игроки из Гран-Кафе_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a89ffdb9a866b3f86cb06858cc5605f

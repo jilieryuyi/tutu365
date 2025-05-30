@@ -8,7 +8,7 @@
 2310、_russian_Встреча (перевод Н. Дарчиева)_Балаж Арпад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a2962454f9d74d4f53a1549142bf348

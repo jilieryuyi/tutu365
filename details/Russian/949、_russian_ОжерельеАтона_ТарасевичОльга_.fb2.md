@@ -8,7 +8,7 @@
 949、_russian_Ожерелье Атона_Тарасевич Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9eb554ae9efe80cc3ad05e36744f2575

@@ -8,7 +8,7 @@
 1032、_russian_Не будем друзьями_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a27c615538328f317555baf1b96110ac

@@ -8,7 +8,7 @@
 5295、_russian_Прозрачник (сборник)_Якубовский Аскольд Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18855f189b7bc2a8761b5dcfe055bc14

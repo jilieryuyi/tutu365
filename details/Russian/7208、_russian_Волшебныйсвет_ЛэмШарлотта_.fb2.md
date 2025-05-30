@@ -8,7 +8,7 @@
 7208、_russian_Волшебный свет_Лэм Шарлотта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f9ec2df77d97d15893bc3d07c1fa5b1

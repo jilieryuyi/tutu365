@@ -8,7 +8,7 @@
 12804、_russian_Обманутые иллюзии_Робертс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95fc2d2bcf66391dc3d19e6ad95329db

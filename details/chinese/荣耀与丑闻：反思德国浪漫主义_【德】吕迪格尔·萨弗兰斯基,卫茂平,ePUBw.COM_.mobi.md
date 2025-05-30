@@ -8,7 +8,7 @@
 荣耀与丑闻：反思德国浪漫主义_【德】吕迪格尔·萨弗兰斯基, 卫茂平, ePUBw.COM_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a0eedcf1d95ac14123629cb1df6c52b8

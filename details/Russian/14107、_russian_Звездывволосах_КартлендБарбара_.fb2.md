@@ -8,7 +8,7 @@
 14107、_russian_Звезды в волосах_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08c1eff3923b1829f8409de44e539ef9

@@ -8,7 +8,7 @@
 6646、_russian_Лифт до Юпитера_Ахметов Спартак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39b8d1c9823198c1162e5fa3a5089bae

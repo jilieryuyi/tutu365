@@ -8,7 +8,7 @@
 麦田里的守望者_[美国] J. D. 塞林格__5470639_fa332d74fbb56056cdfdba7f5651a6fd.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fa332d74fbb56056cdfdba7f5651a6fd

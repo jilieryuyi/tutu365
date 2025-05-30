@@ -8,7 +8,7 @@
 Sphinx搜索引擎架构与使用文档(和MySQL结合)V1.1.doc.doc
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f1d80c7bec090e8e36c282bc4c23a580

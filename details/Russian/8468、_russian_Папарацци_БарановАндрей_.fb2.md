@@ -8,7 +8,7 @@
 8468、_russian_Папарацци_Баранов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc8558d3ac94b2de64a7f0c1e2f56ae3

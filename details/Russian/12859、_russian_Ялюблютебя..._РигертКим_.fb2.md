@@ -8,7 +8,7 @@
 12859、_russian_Я люблю тебя..._Ригерт Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc360ed45914e0c16b6ca565efbe63ba

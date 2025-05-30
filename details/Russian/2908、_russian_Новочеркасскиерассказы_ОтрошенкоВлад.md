@@ -8,7 +8,7 @@
 2908、_russian_Новочеркасские рассказы_Отрошенко Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae53495e317e75ee1f06f25636d69248

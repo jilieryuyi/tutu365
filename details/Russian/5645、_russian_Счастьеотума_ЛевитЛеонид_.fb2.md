@@ -8,7 +8,7 @@
 5645、_russian_Счастье от ума_Левит Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df5c0f2522bc007f369a6073779e9ee0

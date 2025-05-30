@@ -8,7 +8,7 @@
 14126、_russian_Безумства страсти_Колдер Эйлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07e9747ab10189ec0c34986512d99a55

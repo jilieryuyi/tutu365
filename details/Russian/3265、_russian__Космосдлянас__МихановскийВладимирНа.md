@@ -8,7 +8,7 @@
 3265、_russian__Космос для нас__Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42141f34c92103b9eac8f6d53524c247

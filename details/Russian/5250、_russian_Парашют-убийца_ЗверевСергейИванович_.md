@@ -8,7 +8,7 @@
 5250、_russian_Парашют-убийца_Зверев Сергей Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eed0142f98cc576d6f0d35a1e7387223

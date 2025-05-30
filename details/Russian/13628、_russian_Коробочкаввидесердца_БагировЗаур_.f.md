@@ -8,7 +8,7 @@
 13628、_russian_Коробочка в виде сердца_Багиров Заур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 960e3bc8f3e4d3491469c9c8138d52a4

@@ -8,7 +8,7 @@
 10993、_russian_Серж Птичкин_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c07831d56c06fdb54aae91f39aedd95

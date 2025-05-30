@@ -8,7 +8,7 @@
 7818、_russian_Омерзение_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fa8d776542c3db48f41bd4d19cd35cb

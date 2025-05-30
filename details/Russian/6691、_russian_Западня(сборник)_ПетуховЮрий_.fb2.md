@@ -8,7 +8,7 @@
 6691、_russian_Западня (сборник)_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 756d2aea1d48ca515b5fecfebddbbd11

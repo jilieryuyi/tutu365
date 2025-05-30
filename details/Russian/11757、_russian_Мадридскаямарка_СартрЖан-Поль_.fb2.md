@@ -8,7 +8,7 @@
 11757、_russian_Мадридская марка_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e77033717fc849ff5db6725cef6d6c39

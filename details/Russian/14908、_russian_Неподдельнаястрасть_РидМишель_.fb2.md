@@ -8,7 +8,7 @@
 14908、_russian_Неподдельная страсть_Рид Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e14a186eb84572bad113715fa4128f8b

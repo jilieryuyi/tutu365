@@ -8,7 +8,7 @@
 7215、_russian_Все о пиве_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5fe1953390dbe37ba6409096166b3a3

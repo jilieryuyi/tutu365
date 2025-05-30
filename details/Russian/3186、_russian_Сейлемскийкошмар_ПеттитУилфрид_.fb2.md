@@ -8,7 +8,7 @@
 3186、_russian_Сейлемский кошмар_Петтит Уилфрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fda97f244dd947b6152cb5f1aed0a52e

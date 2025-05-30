@@ -8,7 +8,7 @@
 7714、_russian_Мы с тобой Макаренки_Лезинский Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1af8f09ad49e66ddf6ad999348da985c

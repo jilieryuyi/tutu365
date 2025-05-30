@@ -8,7 +8,7 @@
 300、_russian_Во имя прогресса_Абердин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92712bd6d045f87eb66b49ddbae07ace

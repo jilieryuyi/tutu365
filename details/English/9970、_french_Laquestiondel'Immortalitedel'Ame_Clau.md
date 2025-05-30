@@ -8,7 +8,7 @@
 9970、_french_La question de l'Immortalite de l'Ame_Claude Tresmontant [Tresmontant, Claude]_Francois-Xavier de Guibert.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 71646b45cd473825ce4f36dfac3c7c38

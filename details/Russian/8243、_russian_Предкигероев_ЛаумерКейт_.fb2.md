@@ -8,7 +8,7 @@
 8243、_russian_Предки героев_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a5274db73338538228e25e9ca7af613

@@ -8,7 +8,7 @@
 1064、_russian_Воды спят_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 658b67fdbd91d4e07733470b083f4f2e

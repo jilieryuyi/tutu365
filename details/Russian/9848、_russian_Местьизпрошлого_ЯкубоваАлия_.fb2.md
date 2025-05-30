@@ -8,7 +8,7 @@
 9848、_russian_Месть из прошлого_Якубова Алия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 007c814ba3d2411caca6b511c10d07cf

@@ -8,7 +8,7 @@
 7620、_russian_Как справиться с компьютерной зависимостью_Авторов Коллектив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e51a037eb5be19aa07347fe619a7f1ab

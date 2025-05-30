@@ -8,7 +8,7 @@
 高等数学的理论和习题_M·R·SPIEGEL_上海科学技术出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a2153d581abc0f86d6fc06a11c2496a4

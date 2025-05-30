@@ -8,7 +8,7 @@
 5715、_ukrainian_Сад божественних п_сень_Сковорода Григор_й Савич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5de6d0086c4379b50a410e506ea69d6

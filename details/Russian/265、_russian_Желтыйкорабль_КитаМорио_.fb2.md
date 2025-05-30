@@ -8,7 +8,7 @@
 265、_russian_Желтый корабль_Кита Морио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3385c0bc03041d8a235d29c877a21b53

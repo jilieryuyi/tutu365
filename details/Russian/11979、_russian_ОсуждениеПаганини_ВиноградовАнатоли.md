@@ -8,7 +8,7 @@
 11979、_russian_Осуждение Паганини_Виноградов Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c4029de95da9d360de0f66aaed393e4

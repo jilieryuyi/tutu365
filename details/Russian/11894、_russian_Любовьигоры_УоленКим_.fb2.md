@@ -8,7 +8,7 @@
 11894、_russian_Любовь и горы_Уолен Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8c608f687430e39982f02f4aee312a6

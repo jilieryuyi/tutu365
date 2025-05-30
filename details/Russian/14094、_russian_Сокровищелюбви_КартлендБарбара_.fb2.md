@@ -8,7 +8,7 @@
 14094、_russian_Сокровище любви_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b8262b7111860942746286fb3af09c4

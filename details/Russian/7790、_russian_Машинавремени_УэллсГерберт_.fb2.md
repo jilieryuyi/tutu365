@@ -8,7 +8,7 @@
 7790、_russian_Машина времени_Уэллс Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae62c03ba027873d182b27a44e31d07c

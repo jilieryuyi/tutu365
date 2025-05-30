@@ -8,7 +8,7 @@
 11001、_spanish_Принцип жирового тела_Шленский Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a85cdd5658da1b223242b81c8003190c

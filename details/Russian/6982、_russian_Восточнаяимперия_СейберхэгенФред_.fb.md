@@ -8,7 +8,7 @@
 6982、_russian_Восточная империя_Сейберхэген Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9b42187190e4fcced83756942acb423

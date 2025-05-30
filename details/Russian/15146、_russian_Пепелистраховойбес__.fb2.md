@@ -8,7 +8,7 @@
 15146、_russian_Пепел и страховой бес__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd341efd0458ecb5a47ab982f09b2c3a

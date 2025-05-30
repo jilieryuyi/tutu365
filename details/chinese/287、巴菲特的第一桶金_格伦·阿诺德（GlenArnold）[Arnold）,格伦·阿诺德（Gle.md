@@ -8,7 +8,7 @@
 287、巴菲特的第一桶金_格伦·阿诺德（Glen Arnold） [Arnold）, 格伦·阿诺德（Glen]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1d667e9022d470101d2834032e821413

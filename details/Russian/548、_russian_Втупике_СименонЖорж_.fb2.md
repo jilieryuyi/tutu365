@@ -8,7 +8,7 @@
 548、_russian_В тупике_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dad64366691a32235854df2f9627428f

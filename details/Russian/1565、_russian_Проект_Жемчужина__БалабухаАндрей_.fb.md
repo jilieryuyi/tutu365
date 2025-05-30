@@ -8,7 +8,7 @@
 1565、_russian_Проект _Жемчужина__Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a87c051a98805faea7d854117e7ad7d

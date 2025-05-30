@@ -8,7 +8,7 @@
 12441、_russian_Конец лета_Зейдель Кэтлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdd6261ccde3f8ea7ebc541c2528f122

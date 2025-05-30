@@ -8,7 +8,7 @@
 12994、_russian_Овидий в изгнании_Ян Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e81192fd2f924a47c9ca40e5afeffc3

@@ -8,7 +8,7 @@
 13049、_russian_Рыцарь Таверны_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 861a237e22f1766c11a3d2df177d6184

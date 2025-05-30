@@ -8,7 +8,7 @@
 2329、左手数据，右手图表——Excel动态图表制作与职场数据沟通_徐军泰_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4fa3fdae6b4a6e18ae3e8dfa5f0bc667

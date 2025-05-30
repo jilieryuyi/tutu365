@@ -8,7 +8,7 @@
 12659、_russian_Прикладная философия_Герасимов Георгий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0b59e093f73a1ce9bdd064678c293e4

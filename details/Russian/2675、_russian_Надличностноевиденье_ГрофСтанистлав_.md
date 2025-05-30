@@ -8,7 +8,7 @@
 2675、_russian_Надличностное виденье_Гроф Станистлав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68117b3ad1cf3ad041fb51787e564f46

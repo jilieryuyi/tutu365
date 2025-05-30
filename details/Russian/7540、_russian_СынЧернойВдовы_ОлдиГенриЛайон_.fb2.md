@@ -8,7 +8,7 @@
 7540、_russian_Сын Черной Вдовы_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8a63abe07e3be9bc658441692f0ac8f

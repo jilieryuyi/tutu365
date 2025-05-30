@@ -8,7 +8,7 @@
 13336、_english_The Bastard Laird's Bride_Emma Prince_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 efe60e0f20f871be4ddd9baac3598aee

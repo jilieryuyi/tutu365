@@ -8,7 +8,7 @@
 14123、_russian_Каждый может умереть_Кин Дей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fbb30897577f5dc1d86f64ddfe75631

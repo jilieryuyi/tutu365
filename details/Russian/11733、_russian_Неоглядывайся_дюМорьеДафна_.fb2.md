@@ -8,7 +8,7 @@
 11733、_russian_Не оглядывайся_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88a44c415c382dd3fb563bd649b54a0c

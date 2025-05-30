@@ -8,7 +8,7 @@
 11418、_russian_Сцены страсти_Джеймс Дина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4471ed6a1b6a13c39a20ddec5a8bc98b

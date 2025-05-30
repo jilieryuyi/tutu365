@@ -8,7 +8,7 @@
 7366、_russian_Холодная Зима (Агония 2)_Werewolf_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e62f1209d4319e56ea02e0108c99550

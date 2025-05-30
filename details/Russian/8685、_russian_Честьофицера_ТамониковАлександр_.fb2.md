@@ -8,7 +8,7 @@
 8685、_russian_Честь офицера_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 133b4e1b145203d3ea1836ed39fc2a13

@@ -8,7 +8,7 @@
 827、天国之秋 (甲骨文丛书)_裴士锋（Stephen R. Platt） 著  谭伯牛 校对_社会科学文献出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6881e3a4c59ce323110519a1b2576006

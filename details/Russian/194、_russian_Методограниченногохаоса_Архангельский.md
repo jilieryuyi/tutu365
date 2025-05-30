@@ -8,7 +8,7 @@
 194、_russian_Метод ограниченного хаоса_Архангельский Глеб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 434a3f3d77a2f1c60a1c8f747b644621

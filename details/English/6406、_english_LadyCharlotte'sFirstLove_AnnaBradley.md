@@ -8,7 +8,7 @@
 6406、_english_Lady Charlotte's First Love_Anna Bradley_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7472239d3387fbe34c8e913bdf380925

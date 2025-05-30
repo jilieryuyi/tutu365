@@ -8,7 +8,7 @@
 1680、创客指南：手把手教你从0到1_Patricia Harmon,Ph.D. 著_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 020b5cdf5110841836d26e0ebf33081f

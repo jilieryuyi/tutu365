@@ -8,7 +8,7 @@
 251、_russian_Пират_Скотт Вальтер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5eddfc77a4352089458b81d0bf8df1b1

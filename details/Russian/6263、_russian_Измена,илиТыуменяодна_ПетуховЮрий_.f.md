@@ -8,7 +8,7 @@
 6263、_russian_Измена, или Ты у меня одна_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8a1f69358a8a1307d02d31dd0d2d566

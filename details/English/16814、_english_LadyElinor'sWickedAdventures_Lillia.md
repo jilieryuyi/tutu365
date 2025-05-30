@@ -8,7 +8,7 @@
 16814、_english_Lady Elinor's Wicked Adventures_Lillian Marek_Sourcebooks, Inc.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0240fdcc8679e8d5bd5701ca32f2a22a

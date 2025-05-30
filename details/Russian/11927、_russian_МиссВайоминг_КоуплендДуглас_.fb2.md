@@ -8,7 +8,7 @@
 11927、_russian_Мисс Вайоминг_Коупленд Дуглас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dc31a0c15b6c09871d217082263d0f1

@@ -8,7 +8,7 @@
 11309、_russian_Прелюдия к Академии_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd972aa679b9dd57bc13afbfa1785c9d

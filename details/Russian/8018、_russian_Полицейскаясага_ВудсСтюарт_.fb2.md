@@ -8,7 +8,7 @@
 8018、_russian_Полицейская сага_Вудс Стюарт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1efe4172ae628fca9a8fb95a4b2772e9

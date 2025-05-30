@@ -8,7 +8,7 @@
 4603、_russian_Лихорадка в крови_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd2688e39fe201154b233bcb0f347257

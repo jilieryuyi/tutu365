@@ -8,7 +8,7 @@
 16350、_english_A Knight's Quest_Lana Williams_Lana Williams.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f082261d568ec546983a14f80f3e585a

@@ -8,7 +8,7 @@
 8076、_russian_Неопознанные_Мур Юджин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebe10ef524e2e22d6b1ba3a66be82897

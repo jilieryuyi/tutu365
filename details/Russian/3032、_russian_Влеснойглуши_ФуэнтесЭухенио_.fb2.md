@@ -8,7 +8,7 @@
 3032、_russian_В лесной глуши_Фуэнтес Эухенио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac19bc1789787fa97f6fed76da468a1c

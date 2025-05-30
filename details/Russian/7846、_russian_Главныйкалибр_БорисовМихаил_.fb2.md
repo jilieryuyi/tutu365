@@ -8,7 +8,7 @@
 7846、_russian_Главный калибр_Борисов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51ecfa628e774fca5dc7e386c8a1623d

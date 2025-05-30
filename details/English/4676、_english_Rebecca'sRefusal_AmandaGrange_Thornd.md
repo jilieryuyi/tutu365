@@ -8,7 +8,7 @@
 4676、_english_Rebecca's Refusal_Amanda Grange_Thorndike Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3ce6985a7558e359233f166a3d0b8a5e

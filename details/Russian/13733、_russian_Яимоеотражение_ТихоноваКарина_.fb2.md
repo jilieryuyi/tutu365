@@ -8,7 +8,7 @@
 13733、_russian_Я и мое отражение_Тихонова Карина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 adcbb01f981ec65255d43b98e51dc007

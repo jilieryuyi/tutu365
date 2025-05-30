@@ -8,7 +8,7 @@
 2118、The Swift Programming Language 中文版_Apple Inc._.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0ce1a9d7bac77f79effb5d6ff9b7c9b2

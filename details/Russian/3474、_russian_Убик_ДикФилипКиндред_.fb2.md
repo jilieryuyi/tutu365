@@ -8,7 +8,7 @@
 3474、_russian_Убик_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c10c490b85f06d608c210594a3540380

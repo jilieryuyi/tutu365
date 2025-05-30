@@ -8,7 +8,7 @@
 10075、_russian_Fedora 8 Руководство пользователя_Колисниченко Денис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cc6f8309f16baff9f3b125a23ef1ef2

@@ -8,7 +8,7 @@
 3919、_russian_Кристиан Тринадцатый_Суслин Дмитрий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 368f8c348d677ce6909981eb08cd9a9a

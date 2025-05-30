@@ -8,7 +8,7 @@
 11631、_russian_Боевая рубаха_Джонсон Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9bb35c24524b47af5c96a87676d0bd4

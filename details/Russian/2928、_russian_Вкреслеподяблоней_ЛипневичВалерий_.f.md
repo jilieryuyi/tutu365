@@ -8,7 +8,7 @@
 2928、_russian_В кресле под яблоней_Липневич Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 059197e52c02ba8a802db7c0722f36ea

@@ -8,7 +8,7 @@
 15108、_russian_Сбылась мечта идиотки_Лютикова Люся_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d62902f59a78f62dcdbcfa2037cdbbfd

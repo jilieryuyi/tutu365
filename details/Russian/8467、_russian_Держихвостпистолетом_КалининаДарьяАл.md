@@ -8,7 +8,7 @@
 8467、_russian_Держи хвост пистолетом_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d6af3fa12ba920dfbbf9ff6343567c3

@@ -8,7 +8,7 @@
 7955、_russian_Сцены любви_Джеймс Дина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c9df6c005f7fc323cfe9b6de00faa23

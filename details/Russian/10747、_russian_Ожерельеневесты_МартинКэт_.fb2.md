@@ -8,7 +8,7 @@
 10747、_russian_Ожерелье невесты_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6d3ae23ec700f678e25a93291a55d09

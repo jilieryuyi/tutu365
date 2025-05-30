@@ -8,7 +8,7 @@
 1319、_russian_Человек в соседней камере_Слезар Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60dd2cedbc0024ce7d63b653fad22e2b

@@ -8,7 +8,7 @@
 11677、_russian_Грозная дружина_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7acfbf75bdb3dddf7c5f9fc04450e2d9

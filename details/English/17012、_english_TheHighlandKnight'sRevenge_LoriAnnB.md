@@ -8,7 +8,7 @@
 17012、_english_The Highland Knight's Revenge_Lori Ann Bailey_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9cab5d63f4bc4bde36cf0e09dd588b30

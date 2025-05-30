@@ -8,7 +8,7 @@
 6501、_russian_В такие дни_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff4226064a1e189601eeb4c8a83bb41d

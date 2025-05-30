@@ -8,7 +8,7 @@
 3769、_russian_Меньшее зло_Дубов Юлий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e5e7a2fb3cd883146687d6a9aecdad9

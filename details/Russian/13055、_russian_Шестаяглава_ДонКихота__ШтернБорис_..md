@@ -8,7 +8,7 @@
 13055、_russian_Шестая глава _Дон Кихота__Штерн Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 034f5a1fdec5d2732714652043cc68c2

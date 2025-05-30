@@ -8,7 +8,7 @@
 6293、_russian_Охота на короля_Юрин Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6959ac375935c6d1250bedef2efb5880

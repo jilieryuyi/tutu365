@@ -8,7 +8,7 @@
 8456、_russian_Космо Хилл. Супернатуралист_Колфер Йон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73ffbcc576a8e26e3d54fa3b2b3c76b4

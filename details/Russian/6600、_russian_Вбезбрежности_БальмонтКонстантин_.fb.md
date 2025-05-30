@@ -8,7 +8,7 @@
 6600、_russian_В безбрежности_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f88deb26a815a9d2801f2c4ea35cd7c

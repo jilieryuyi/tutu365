@@ -8,7 +8,7 @@
 8676、_russian_И тогда он зачистил город_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46ec5617c45c009f36396a605b77c702

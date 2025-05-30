@@ -8,7 +8,7 @@
 1234、_russian_Эвелин_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a66e64c154952f031022eb2191229129

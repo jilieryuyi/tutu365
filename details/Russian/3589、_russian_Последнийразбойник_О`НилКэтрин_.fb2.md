@@ -8,7 +8,7 @@
 3589、_russian_Последний разбойник_О`Нил Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16ca7c0e99e6465de6b8c2ae848d293f

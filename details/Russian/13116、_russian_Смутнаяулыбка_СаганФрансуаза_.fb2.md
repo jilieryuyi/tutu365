@@ -8,7 +8,7 @@
 13116、_russian_Смутная улыбка_Саган Франсуаза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9d01bb2d8790ccaa3bca9a4cb02ff3c

@@ -8,7 +8,7 @@
 13271、_russian_Мешок-убийца_Эллсон Хал_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb45de5d13a8b977015008e6814a1d25

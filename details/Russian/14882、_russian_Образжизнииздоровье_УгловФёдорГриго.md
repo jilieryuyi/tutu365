@@ -8,7 +8,7 @@
 14882、_russian_Образ жизни и здоровье_Углов Фёдор Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afe890de14e39b87214ee991dab1c988

@@ -8,7 +8,7 @@
 12569、_russian_Возмездие_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a693546bccd7eea7ab94b24ca640043

@@ -8,7 +8,7 @@
 1359、_russian_Прозрачные звёзды. Абсурдные диалоги_Юлис Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ebe8a2a5540e2a3dbbf58666e883136

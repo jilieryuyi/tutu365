@@ -8,7 +8,7 @@
 12083、_russian_В аду шансов нет_Кварри Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 288fe63a81669ebf9626ee8fb80b6ca1

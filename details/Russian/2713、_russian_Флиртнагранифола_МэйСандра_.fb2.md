@@ -8,7 +8,7 @@
 2713、_russian_Флирт на грани фола_Мэй Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f8810fe99a5a7dc099384099b3cecff

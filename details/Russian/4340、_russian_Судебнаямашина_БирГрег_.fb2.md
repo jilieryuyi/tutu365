@@ -8,7 +8,7 @@
 4340、_russian_Судебная машина_Бир Грег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b4debff4f06c123eab0e0120287ee3e

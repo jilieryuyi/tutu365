@@ -8,7 +8,7 @@
 12014、_russian_Ослиная шкура_Перро Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db635ad7a78df601b68a074039536a0b

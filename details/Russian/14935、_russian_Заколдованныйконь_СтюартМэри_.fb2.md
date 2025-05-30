@@ -8,7 +8,7 @@
 14935、_russian_Заколдованный конь_Стюарт Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51d3a3779673209604a2af6990ae27a0

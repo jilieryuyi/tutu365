@@ -8,7 +8,7 @@
 4196、_russian_Алмаз тенмой крови. Книга 1_Арден Лис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a3edf20fed01c365083b4513c5603c7

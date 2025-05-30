@@ -8,7 +8,7 @@
 17326、_english_Schrodinger's Cat Trilogy_Robert A. Wilson [Wilson, Robert Anton]_Random House Publishing Group.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a61cdfd2195af499101f7e0bd792b052

@@ -8,7 +8,7 @@
 2660、_russian_Игра в ОГОГО_Арменян Сусанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99abb0cc2df3e59c15a2caea2f9e91ef

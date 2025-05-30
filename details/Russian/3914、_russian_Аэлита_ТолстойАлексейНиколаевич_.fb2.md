@@ -8,7 +8,7 @@
 3914、_russian_Аэлита_Толстой Алексей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44a2783619640f23523f10f4f186416b

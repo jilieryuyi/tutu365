@@ -8,7 +8,7 @@
 881、_russian_Я не нарочно_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8011ea2e9683ddf6919bcef841a64ec9

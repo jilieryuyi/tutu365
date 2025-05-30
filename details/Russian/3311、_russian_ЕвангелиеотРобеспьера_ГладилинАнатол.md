@@ -8,7 +8,7 @@
 3311、_russian_Евангелие от Робеспьера_Гладилин Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4eac2f1b76c98028a4e6b08af16d7707

@@ -8,7 +8,7 @@
 2077、Office 2013应用技巧实例大全 (Office办公无忧)_郭刚_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d1e88e3e7c5ba62150c1172457776393

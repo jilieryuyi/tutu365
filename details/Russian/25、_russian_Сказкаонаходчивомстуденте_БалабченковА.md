@@ -8,7 +8,7 @@
 25、_russian_Сказка о находчивом студенте_Балабченков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b813bc2289eccdb343996a55bdbc7818

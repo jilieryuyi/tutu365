@@ -8,7 +8,7 @@
 15212、_russian_Хребет Скалистый_Гуров Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd8ebd2b3dab91e1c755a672b30d673d

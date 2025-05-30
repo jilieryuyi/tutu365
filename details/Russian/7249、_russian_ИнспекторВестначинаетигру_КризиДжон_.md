@@ -8,7 +8,7 @@
 7249、_russian_Инспектор Вест начинает игру_Кризи Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5e1d996ae3ab8d6ad9a92bbf5a6c308f

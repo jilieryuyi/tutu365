@@ -8,7 +8,7 @@
 10536、_russian_Сказка о Красоте_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f9b361e07fcece81e74aa0655201b2f

@@ -8,7 +8,7 @@
 2496、_english_The Pirate's Temptation_Tara Kingston_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 56d8ebbccd77cfc98c234d5f64cc10ea

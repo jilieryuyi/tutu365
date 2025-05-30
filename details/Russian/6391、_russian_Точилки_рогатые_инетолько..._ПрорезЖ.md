@@ -8,7 +8,7 @@
 6391、_russian_Точилки _рогатые_ и не только..._Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e51253e7f21e9bd7b56f9776edb849c6

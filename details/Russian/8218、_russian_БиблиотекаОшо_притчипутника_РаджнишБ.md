@@ -8,7 +8,7 @@
 8218、_russian_Библиотека Ошо_ притчи путника_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bb46daf16fb3b496289bc433435a7a0

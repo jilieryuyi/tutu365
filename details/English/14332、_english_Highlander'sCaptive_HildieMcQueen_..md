@@ -8,7 +8,7 @@
 14332、_english_Highlander's Captive_Hildie McQueen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d2821ce5e279173a363f5ccd877255aa

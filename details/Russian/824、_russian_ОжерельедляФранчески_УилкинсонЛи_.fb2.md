@@ -8,7 +8,7 @@
 824、_russian_Ожерелье для Франчески_Уилкинсон Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3258d5a1343559a3a44cc5f0acf45cfd

@@ -8,7 +8,7 @@
 [The.Economics.of.Software.Quality.(2011.08)].Capers.Jones.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0c07ed5e04d88f0b35b5a6c0f5230e28

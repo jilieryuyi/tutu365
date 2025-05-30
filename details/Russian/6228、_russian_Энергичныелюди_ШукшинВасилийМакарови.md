@@ -8,7 +8,7 @@
 6228、_russian_Энергичные люди_Шукшин Василий Макарович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc93f7f5823e41636338cb9360454d85

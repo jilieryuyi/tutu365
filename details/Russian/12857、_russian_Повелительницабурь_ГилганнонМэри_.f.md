@@ -8,7 +8,7 @@
 12857、_russian_Повелительница бурь_Гилганнон Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27af02139889f3733db1f9db280bdd5b

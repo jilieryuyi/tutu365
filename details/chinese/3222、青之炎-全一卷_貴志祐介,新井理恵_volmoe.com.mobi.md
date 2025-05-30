@@ -8,7 +8,7 @@
 3222、青之炎 - 全一卷_貴志祐介,新井理恵_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 061a5718fcb4e36e0712e7ae9b997457

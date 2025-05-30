@@ -8,7 +8,7 @@
 14658、_russian_Госпожа замка Меллин_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b6e3431aa8ae056f1a30f14f52c13da

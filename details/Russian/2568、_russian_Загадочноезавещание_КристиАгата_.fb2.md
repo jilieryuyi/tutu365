@@ -8,7 +8,7 @@
 2568、_russian_Загадочное завещание_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0aad1f58f5f269087adc0c45497e2bba

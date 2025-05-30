@@ -8,7 +8,7 @@
 10500、_russian_Легион Фалькенберга_Пурнелл Джерри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0d033b5de718b5779e03246a965d177

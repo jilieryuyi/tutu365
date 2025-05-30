@@ -8,7 +8,7 @@
 13573、_english_The Earl's Regret_G.L. Snodgrass_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4a08c21d71843a2938805b17c72325fa

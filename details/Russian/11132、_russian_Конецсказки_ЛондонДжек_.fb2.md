@@ -8,7 +8,7 @@
 11132、_russian_Конец сказки_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c16a18f722407da92dc44d7cd96e1dd

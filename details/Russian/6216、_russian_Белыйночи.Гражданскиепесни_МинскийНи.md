@@ -8,7 +8,7 @@
 6216、_russian_Белый ночи. Гражданские песни_Минский Николай Максимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b20fbdcce7bf0e55f85bb230654715e

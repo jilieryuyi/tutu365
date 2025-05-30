@@ -8,7 +8,7 @@
 5182、_russian_День Дракона_Панов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8afc6b31a541c8a62cda252c396eb58

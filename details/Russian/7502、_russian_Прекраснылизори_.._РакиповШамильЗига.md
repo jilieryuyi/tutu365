@@ -8,7 +8,7 @@
 7502、_russian_Прекрасны ли зори_.._Ракипов Шамиль Зиганшинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35f7e317fa3b134db8b50d4b43c8ae3b

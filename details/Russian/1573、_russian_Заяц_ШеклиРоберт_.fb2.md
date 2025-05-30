@@ -8,7 +8,7 @@
 1573、_russian_Заяц_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 413558e808c9f28c97956bc4f8131c8b

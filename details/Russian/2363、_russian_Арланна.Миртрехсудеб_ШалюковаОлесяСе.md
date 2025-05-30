@@ -8,7 +8,7 @@
 2363、_russian_Арланна. Мир трех судеб_Шалюкова Олеся Сергеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e8b62e4f073a03ba313702852a8cae4

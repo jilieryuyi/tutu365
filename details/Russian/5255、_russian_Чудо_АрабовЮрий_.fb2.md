@@ -8,7 +8,7 @@
 5255、_russian_Чудо_Арабов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2877fb7ea68c0f080b0393e91636e9f

@@ -8,7 +8,7 @@
 8955、_russian__Заяц__Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f534a04f32fd2b6b38abaec58fea891c

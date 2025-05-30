@@ -8,7 +8,7 @@
 10432、_russian_Потоп, или Ада илиада_Хромов Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fb69c691f1e1e162860a105cf903539

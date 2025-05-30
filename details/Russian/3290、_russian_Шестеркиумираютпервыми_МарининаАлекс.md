@@ -8,7 +8,7 @@
 3290、_russian_Шестерки умирают первыми_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce37464ab1562fe5e68158bdc3bcef5a

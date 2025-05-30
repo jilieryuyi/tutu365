@@ -8,7 +8,7 @@
 13338、_russian_Бородатая леди_Макдональд Росс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da2f8760e78dc1180c458e0f2725e0bf

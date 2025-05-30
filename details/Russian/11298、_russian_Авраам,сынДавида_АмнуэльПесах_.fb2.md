@@ -8,7 +8,7 @@
 11298、_russian_Авраам, сын Давида_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efc0cebd6499ff41801e1a553e947ee2

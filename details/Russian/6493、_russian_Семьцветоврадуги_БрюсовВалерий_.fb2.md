@@ -8,7 +8,7 @@
 6493、_russian_Семь цветов радуги_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9239ec4f587f5713bb09691c6fa2866

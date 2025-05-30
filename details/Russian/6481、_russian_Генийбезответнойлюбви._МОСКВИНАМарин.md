@@ -8,7 +8,7 @@
 6481、_russian_Гений безответной любви._МОСКВИНА Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd2f605e630477c64c1dde46a48c5229

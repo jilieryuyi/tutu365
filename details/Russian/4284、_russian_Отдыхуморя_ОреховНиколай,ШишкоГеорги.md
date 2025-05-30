@@ -8,7 +8,7 @@
 4284、_russian_Отдых у моря_Орехов Николай, Шишко Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35970d958a9b19b6adbbe4dc22b2bb96

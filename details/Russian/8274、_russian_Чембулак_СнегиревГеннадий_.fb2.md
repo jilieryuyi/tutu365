@@ -8,7 +8,7 @@
 8274、_russian_Чембулак_Снегирев Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ef790ae43a49bf4a0cbb0ab5c5b21fb

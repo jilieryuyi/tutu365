@@ -8,7 +8,7 @@
 5502、_russian_Обострение чувств_Литвиновы Анна и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 571b8c3016229c7d0be395c7685ed06b

@@ -8,7 +8,7 @@
 13062、_russian_Сердце вне игры_Григ Кристин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f731070df6eb8f3bb8a33f72abf4556b

@@ -8,7 +8,7 @@
 12965、_russian_Один шанс есть_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40884eedf398fd8e523c4f53146b4330

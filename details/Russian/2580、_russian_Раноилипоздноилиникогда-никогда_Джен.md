@@ -8,7 +8,7 @@
 2580、_russian_Рано или поздно или никогда-никогда_Дженнингс Гэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce4f1bc0d5d0b180e826fe66d45dcb7f

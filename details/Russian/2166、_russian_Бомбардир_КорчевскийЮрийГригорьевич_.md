@@ -8,7 +8,7 @@
 2166、_russian_Бомбардир_Корчевский Юрий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 580e1913c32547c711c5e708a8ffb228

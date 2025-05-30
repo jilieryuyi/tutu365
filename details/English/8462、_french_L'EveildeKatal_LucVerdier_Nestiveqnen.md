@@ -8,7 +8,7 @@
 8462、_french_L'Eveil de Katal_Luc Verdier_Nestiveqnen.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e8a62a13114daaae841866584646b4cd

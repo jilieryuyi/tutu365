@@ -8,7 +8,7 @@
 13634、_russian_Терзания любви_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1808c014e33854308b89fc488d9d3fdf

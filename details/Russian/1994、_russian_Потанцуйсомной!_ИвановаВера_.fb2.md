@@ -8,7 +8,7 @@
 1994、_russian_Потанцуй со мной!_Иванова Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e29e6259c561ca15f96c7187613a2106

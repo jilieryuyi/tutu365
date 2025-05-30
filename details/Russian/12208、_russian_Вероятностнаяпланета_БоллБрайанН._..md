@@ -8,7 +8,7 @@
 12208、_russian_Вероятностная планета_Болл Брайан Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6e6a8790defdeb9a4e830ced431250e

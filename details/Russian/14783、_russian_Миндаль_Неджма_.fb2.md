@@ -8,7 +8,7 @@
 14783、_russian_Миндаль_Неджма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80c2429ac51a37cd1014c660d17fec30

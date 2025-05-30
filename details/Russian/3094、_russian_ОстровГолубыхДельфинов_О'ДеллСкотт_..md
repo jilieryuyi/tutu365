@@ -8,7 +8,7 @@
 3094、_russian_Остров Голубых Дельфинов_О'Делл Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f71b187496cecaed3c3785e458e4af7

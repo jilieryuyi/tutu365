@@ -8,7 +8,7 @@
 8545、_russian_Антиджихад_Байкалов Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0772d6b81a7bf59444b4cd2caf872b3

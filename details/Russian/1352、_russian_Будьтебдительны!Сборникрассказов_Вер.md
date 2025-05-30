@@ -8,7 +8,7 @@
 1352、_russian_Будьте бдительны! Сборник рассказов_Верещагин Олег Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29d1dbc06cbc733bcd805d92edf15cef

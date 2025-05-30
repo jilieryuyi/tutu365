@@ -8,7 +8,7 @@
 5210、_russian_Эксперимент_Бааль Вольдемар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60e18e73e508e60ea7062d01ee005778

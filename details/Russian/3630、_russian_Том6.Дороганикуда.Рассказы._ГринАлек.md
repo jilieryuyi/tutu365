@@ -8,7 +8,7 @@
 3630、_russian_Том 6. Дорога никуда. Рассказы._Грин Александр Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69a4a7a2acd504f4fa8336e8dbce3287

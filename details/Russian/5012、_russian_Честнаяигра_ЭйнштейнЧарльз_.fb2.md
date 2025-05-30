@@ -8,7 +8,7 @@
 5012、_russian_Честная игра_Эйнштейн Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ec5e8f6bb43a67604957f106694bdca

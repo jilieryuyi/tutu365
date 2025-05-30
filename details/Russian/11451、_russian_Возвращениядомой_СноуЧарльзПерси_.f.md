@@ -8,7 +8,7 @@
 11451、_russian_Возвращения домой_Сноу Чарльз Перси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd244e7ca396a6c03f7c2a9e99d7885c

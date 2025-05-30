@@ -8,7 +8,7 @@
 6524、_russian_Нетипичные ножи Ka-Bar_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d1976b579568498a74808cca5b0187c

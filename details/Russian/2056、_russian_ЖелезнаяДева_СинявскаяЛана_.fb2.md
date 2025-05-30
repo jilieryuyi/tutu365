@@ -8,7 +8,7 @@
 2056、_russian_Железная Дева_Синявская Лана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53b6cc16f5ec10350a1dccc2e4dea5e3

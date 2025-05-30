@@ -8,7 +8,7 @@
 3066、_russian_Кефалонский дневник_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 610b48d25af09bfe8ca3415da29bc8bb

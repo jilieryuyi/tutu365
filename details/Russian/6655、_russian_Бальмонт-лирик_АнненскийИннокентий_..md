@@ -8,7 +8,7 @@
 6655、_russian_Бальмонт-лирик_Анненский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1bcc87c76be0d346543ff3fcd624b8e

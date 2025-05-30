@@ -8,7 +8,7 @@
 1866、_russian_Записки лётчика-истребителя_Архипенко Федор Федорович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1bfd503621a46e2a84f69c06b1cd509

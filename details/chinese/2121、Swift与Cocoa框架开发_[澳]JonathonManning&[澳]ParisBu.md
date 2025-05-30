@@ -8,7 +8,7 @@
 2121、Swift与Cocoa框架开发_[澳] Jonathon Manning & [澳] Paris Buttfield-Addison & [澳] Tim Nugent_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5556bdbe57cd7dfb6339f63c91071fb5

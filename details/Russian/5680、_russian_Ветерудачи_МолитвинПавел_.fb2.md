@@ -8,7 +8,7 @@
 5680、_russian_Ветер удачи_Молитвин Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2353d49b00d64a9cb059eb823a1c6497

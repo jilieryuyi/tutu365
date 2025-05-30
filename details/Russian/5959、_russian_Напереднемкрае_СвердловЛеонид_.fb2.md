@@ -8,7 +8,7 @@
 5959、_russian_На переднем крае_Свердлов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43abfa043ee31e81309d07b15e625721

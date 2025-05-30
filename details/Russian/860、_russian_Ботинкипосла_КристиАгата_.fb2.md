@@ -8,7 +8,7 @@
 860、_russian_Ботинки посла_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dff5c05225cc893aca33556a3832cc05

@@ -8,7 +8,7 @@
 8064、_russian_Призрак времени_Савченко Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ae4041e12f8b7f827f1e291ce0ee022

@@ -8,7 +8,7 @@
 11576、_russian_Телемитские тексты (Liber XXVIII-CCVII)_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fa08bfdd259ea83402149116da40eef

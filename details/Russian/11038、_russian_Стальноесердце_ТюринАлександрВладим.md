@@ -8,7 +8,7 @@
 11038、_russian_Стальное сердце_Тюрин Александр Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 735ab6fe8022bfdaca005f956ecf7489

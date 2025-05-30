@@ -8,7 +8,7 @@
 7512、_russian_Ода близорукости_Бородицкая Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe78f7e3c6cd815a8fd5fb0cbde03b35

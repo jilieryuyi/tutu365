@@ -8,7 +8,7 @@
 11011、_russian_Жестокий век_Браннер Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e88f6a166db537bebd0392d9930dafdd

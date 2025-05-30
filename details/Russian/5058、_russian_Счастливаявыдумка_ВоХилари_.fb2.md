@@ -8,7 +8,7 @@
 5058、_russian_Счастливая выдумка_Во Хилари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b97cc4d5e544fc34b8ba9c777bfe7e9

@@ -8,7 +8,7 @@
 14420、_english_Major Wyclyff's Campaign_Jade Lee_ePublishing Works!.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 aed5d24ae26b3067e82cfc8c420e1a8d

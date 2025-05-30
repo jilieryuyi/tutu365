@@ -8,7 +8,7 @@
 1206、_english_The Baby-Sitters Club Super Mystery #3_ Baby-Sitters' Fright Night_Ann M. Martin_Scholastic Inc..epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 643966bbdcf6ef72e063d3bf637705ae

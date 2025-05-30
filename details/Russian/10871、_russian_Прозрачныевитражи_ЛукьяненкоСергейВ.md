@@ -8,7 +8,7 @@
 10871、_russian_Прозрачные витражи_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75efe519e18979e0c1f0abea6a1fc8c8

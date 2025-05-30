@@ -8,7 +8,7 @@
 诺贝尔文学奖作品典藏书系：圣女贞德_G.萧伯纳__5476370_1936ae7e9625cbfdabab006f21791cd1.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1936ae7e9625cbfdabab006f21791cd1

@@ -8,7 +8,7 @@
 7698、_russian_Текст-1_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bed61a74fc536ac557597f1f3ca7641

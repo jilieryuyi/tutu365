@@ -8,7 +8,7 @@
 11963、_russian_Беня Крик_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e264a906c02ffb9dcf884f765d27eda

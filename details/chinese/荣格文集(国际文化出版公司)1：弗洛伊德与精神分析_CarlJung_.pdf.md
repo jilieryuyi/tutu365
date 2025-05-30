@@ -8,7 +8,7 @@
 荣格文集(国际文化出版公司)1：弗洛伊德与精神分析_Carl Jung_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 abca36b14c77b4e9973a6ca8b9ef8c10

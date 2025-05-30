@@ -8,7 +8,7 @@
 10322、_russian_Знамение пути_Семенова Мария Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a16dee7b908e08949eed5d147ffedfa

@@ -8,7 +8,7 @@
 8947、_russian_У райских врат_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2dd9c16d8c984ea415b8263d946f6ed

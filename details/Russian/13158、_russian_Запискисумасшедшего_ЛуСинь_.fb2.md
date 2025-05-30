@@ -8,7 +8,7 @@
 13158、_russian_Записки сумасшедшего_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efe9fb25eaef5a8e71eb8e42debb52fc

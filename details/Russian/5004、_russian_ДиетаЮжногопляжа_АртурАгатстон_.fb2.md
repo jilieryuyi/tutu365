@@ -8,7 +8,7 @@
 5004、_russian_Диета Южного пляжа_Артур Агатстон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fbf64f2005f080cfc5ddd80dfd208e2

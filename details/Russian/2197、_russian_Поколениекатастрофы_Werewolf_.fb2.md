@@ -8,7 +8,7 @@
 2197、_russian_Поколение катастрофы_Werewolf_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bda6281186bf449b885dd85932d82d34

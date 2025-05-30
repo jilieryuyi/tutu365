@@ -8,7 +8,7 @@
 10443、_russian_Исуси_Адрианов Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32f02e0d8b7f00c89e8ae53cb3b53cb6

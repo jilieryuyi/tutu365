@@ -8,7 +8,7 @@
 12647、_russian_Фонтан Аленби_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d44c99043ade331edaab0a483ea2aab0

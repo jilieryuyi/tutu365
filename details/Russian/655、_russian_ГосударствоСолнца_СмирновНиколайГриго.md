@@ -8,7 +8,7 @@
 655、_russian_Государство Солнца_Смирнов Николай Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 649b1ea289e3b9ec93fbc359c0619f1d

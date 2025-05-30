@@ -8,7 +8,7 @@
 7151、_russian_Переработанные стихи_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d04a40cdfab688d77bea11f41d328a9b

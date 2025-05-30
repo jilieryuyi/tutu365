@@ -8,7 +8,7 @@
 10140、_russian_Скифы_Никитин Юрий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21bf2b08459389cfab12b222e40a7942

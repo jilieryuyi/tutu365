@@ -8,7 +8,7 @@
 4019、_russian_Варяжский десант_Горюнов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2f5a3d2b2dd6f647dd7c0b59a71491a

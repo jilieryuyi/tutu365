@@ -8,7 +8,7 @@
 7310、_russian_Жребий брошен_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 936539e49e501354dd2d008ac1e1b218

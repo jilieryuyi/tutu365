@@ -8,7 +8,7 @@
 451、_russian_Песчинка в небе_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4cb566cf36b0b8dbde70d683296bcd6

@@ -8,7 +8,7 @@
 2332、_russian_Слеза дьявола_Дивер Джеффри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3506565ee7d5027ebba6740824de6985

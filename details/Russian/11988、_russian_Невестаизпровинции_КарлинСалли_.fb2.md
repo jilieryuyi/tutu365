@@ -8,7 +8,7 @@
 11988、_russian_Невеста из провинции_Карлин Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5aa3d9a05df858df6a7992c1e65d49c0

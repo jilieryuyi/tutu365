@@ -8,7 +8,7 @@
 5616、_russian_Абсолютная привилегия_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53279d7e1c6ec68d8fbca2021cef84e6

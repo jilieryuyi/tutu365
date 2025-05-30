@@ -8,7 +8,7 @@
 4022、_russian_На пути Орды_Горюнов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efcc03c62a5cc22b9e353640266e4e78

@@ -8,7 +8,7 @@
 11777、_russian_Письма от Друнвало_Мельхиседек Друнвало_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d4d39f395e292a411421e4af811e023

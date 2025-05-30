@@ -8,7 +8,7 @@
 872、_russian_Эскаписты_Балабченков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3e25650730d269ab974c766bb493f78

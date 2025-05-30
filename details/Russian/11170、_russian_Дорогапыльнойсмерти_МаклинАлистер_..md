@@ -8,7 +8,7 @@
 11170、_russian_Дорога пыльной смерти_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7290e9c3a4daf6971531e802dfd45a1d

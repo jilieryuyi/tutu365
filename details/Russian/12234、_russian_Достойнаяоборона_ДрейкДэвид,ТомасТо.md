@@ -8,7 +8,7 @@
 12234、_russian_Достойная оборона_Дрейк Дэвид, Томас Томас Т._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0421cb508738d868d851ba6aaf952ac

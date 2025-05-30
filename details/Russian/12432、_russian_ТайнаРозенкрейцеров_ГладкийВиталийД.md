@@ -8,7 +8,7 @@
 12432、_russian_Тайна Розенкрейцеров_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6619c9544d1a4c62e29d78e5e051dbb3

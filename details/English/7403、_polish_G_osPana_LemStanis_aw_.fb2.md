@@ -8,7 +8,7 @@
 7403、_polish_G_os Pana_Lem Stanis_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 881ee165cba54791f37ae5557c396080

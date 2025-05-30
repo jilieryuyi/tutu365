@@ -8,7 +8,7 @@
 12142、_russian_Слоны Ганнибала_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1c53365a70b4ae9cb0cbf428dcfb3503

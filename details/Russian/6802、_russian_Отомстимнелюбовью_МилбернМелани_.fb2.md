@@ -8,7 +8,7 @@
 6802、_russian_Отомсти мне любовью_Милберн Мелани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9491b6b79990f53430853a9d8a81fa43

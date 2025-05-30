@@ -8,7 +8,7 @@
 2356、_russian_Скажи_ люблю_Неклюдов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 727776125685642c397999093eb7fa8d

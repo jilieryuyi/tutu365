@@ -8,7 +8,7 @@
 9884、_russian_Еще одно нашествие марсиан_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c0d7d1bbfaf006982e964f41dc87189

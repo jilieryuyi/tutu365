@@ -8,7 +8,7 @@
 1183、_russian_Звезды под дождем_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8d9576f328d44f2561e6cbf5449f84c

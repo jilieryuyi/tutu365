@@ -8,7 +8,7 @@
 4996、_russian_Святой сатир_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b74353b6a7ef433e22a34ac78a6498e

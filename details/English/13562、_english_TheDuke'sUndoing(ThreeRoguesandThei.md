@@ -8,7 +8,7 @@
 13562、_english_The Duke's Undoing (Three Rogues and Their Ladies)_G.G.Vandagriff_Orson Whitney Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d59a33cae07f1ebff0d44c22aaebd3ac

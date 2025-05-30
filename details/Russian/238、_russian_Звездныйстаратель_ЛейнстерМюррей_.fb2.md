@@ -8,7 +8,7 @@
 238、_russian_Звездный старатель_Лейнстер Мюррей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aac7f93e03b4d9aebc8b7f837a261e63

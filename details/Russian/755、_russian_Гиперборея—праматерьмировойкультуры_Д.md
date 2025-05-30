@@ -8,7 +8,7 @@
 755、_russian_Гиперборея — праматерь мировой культуры_Демин Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f43af200c26be363edd72a461e41bc01

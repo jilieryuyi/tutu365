@@ -8,7 +8,7 @@
 8802、_russian_Эхо проклятия_Дашков Андрей Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2c54ac5d795f2236fa8fd5411601e60

@@ -8,7 +8,7 @@
 3867、_russian_Мы с Варварой ходим парой…_Исакова Галина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 293bfdb71c3f78bb3dd0e65afe215fe2

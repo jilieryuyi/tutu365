@@ -8,7 +8,7 @@
 10652、_russian_Тварь на крыше_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19492588bf2aec689c27728d410c12e3

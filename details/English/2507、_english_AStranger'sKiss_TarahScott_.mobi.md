@@ -8,7 +8,7 @@
 2507、_english_A Stranger's Kiss_Tarah Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1ab18198bcfa6490162b15bc1c6230ce

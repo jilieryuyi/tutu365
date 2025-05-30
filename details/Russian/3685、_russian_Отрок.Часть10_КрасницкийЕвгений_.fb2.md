@@ -8,7 +8,7 @@
 3685、_russian_Отрок. Часть 10_Красницкий Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eeb5987dfc8d529f5f81210aae7a3e5b

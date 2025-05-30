@@ -8,7 +8,7 @@
 11330、_russian_Новый курс экономической политики_Бухарин Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a73dbd0f7fb5342d984dbf58dfb4d87c

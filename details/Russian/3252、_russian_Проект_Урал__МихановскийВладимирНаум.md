@@ -8,7 +8,7 @@
 3252、_russian_Проект _Урал__Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 998a9d64372eb4ef2a0b636acd923a71

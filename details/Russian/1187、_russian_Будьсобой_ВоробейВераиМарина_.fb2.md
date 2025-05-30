@@ -8,7 +8,7 @@
 1187、_russian_Будь собой_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e81bd5c8ad671ec61f346f37f4db5eab

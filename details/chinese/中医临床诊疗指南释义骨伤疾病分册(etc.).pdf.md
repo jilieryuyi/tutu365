@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 骨伤疾病分册 ( etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 525eb9adba7bab0f0fcb78903630dc7f

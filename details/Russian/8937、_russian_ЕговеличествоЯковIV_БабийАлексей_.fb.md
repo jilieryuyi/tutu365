@@ -8,7 +8,7 @@
 8937、_russian_Его величество Яков IV_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42660c9907a13751eca78a20b9755827

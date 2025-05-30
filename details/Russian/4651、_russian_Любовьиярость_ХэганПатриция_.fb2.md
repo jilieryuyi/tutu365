@@ -8,7 +8,7 @@
 4651、_russian_Любовь и ярость_Хэган Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c9d9d170ba65fe92820ca60246e620f

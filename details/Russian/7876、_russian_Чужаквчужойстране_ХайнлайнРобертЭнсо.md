@@ -8,7 +8,7 @@
 7876、_russian_Чужак в чужой стране_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c8ec0b2a907b5f6e317857b41c40e0a

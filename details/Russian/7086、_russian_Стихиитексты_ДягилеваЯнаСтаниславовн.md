@@ -8,7 +8,7 @@
 7086、_russian_Стихи и тексты_Дягилева Яна Станиславовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d6cc02d9a3fd871d81de3229c89e5b2

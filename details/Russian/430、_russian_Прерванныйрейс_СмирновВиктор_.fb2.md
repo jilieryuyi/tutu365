@@ -8,7 +8,7 @@
 430、_russian_Прерванный рейс_Смирнов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96540686c1e47a6b0e30cebd409f32f2

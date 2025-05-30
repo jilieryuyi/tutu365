@@ -8,7 +8,7 @@
 13886、_russian_Практикантка_Каменистый Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bb7e8b6420bbbb0610174630751e0b1

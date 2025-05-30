@@ -8,7 +8,7 @@
 11872、_russian_Реальная угроза_Клэнси Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81f72ea3f232642ebc3e8d52c441b213

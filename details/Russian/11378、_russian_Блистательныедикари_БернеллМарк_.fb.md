@@ -8,7 +8,7 @@
 11378、_russian_Блистательные дикари_Бернелл Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99d103980946b8fda44ef23dda9da811

@@ -8,7 +8,7 @@
 3220、_russian_Малахитовая шкатулка_Бажов Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb4c4f5dbeb27f3a1ecfb352a095b9ec

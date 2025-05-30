@@ -8,7 +8,7 @@
 8921、_russian_Роман из жизни кустарных космонавтов (фрагмент)_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b509f503feaf4551a646acaa01f6f860

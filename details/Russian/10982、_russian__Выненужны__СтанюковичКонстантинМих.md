@@ -8,7 +8,7 @@
 10982、_russian__Вы не нужны__Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 033908a688bd52c091c5fbf4926d5fba

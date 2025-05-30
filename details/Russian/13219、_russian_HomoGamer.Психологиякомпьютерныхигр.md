@@ -8,7 +8,7 @@
 13219、_russian_Homo Gamer. Психология компьютерных игр_Бурлаков Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 859513caa3d2392697f1dbc82b757661

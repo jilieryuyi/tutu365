@@ -8,7 +8,7 @@
 12973、_russian_Молох_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d139a920896c498d93cbf7ceb18e78e

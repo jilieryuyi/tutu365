@@ -8,7 +8,7 @@
 927、_russian_Альбер Саварюс_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 992232c1330cd8b53ee57db5bfbbce07

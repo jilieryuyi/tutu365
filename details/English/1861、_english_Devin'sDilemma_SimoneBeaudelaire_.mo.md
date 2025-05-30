@@ -8,7 +8,7 @@
 1861、_english_Devin's Dilemma_Simone Beaudelaire_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 113a821b3d0bd2b7c372af7c2a6278b9

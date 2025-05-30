@@ -8,7 +8,7 @@
 -学习JavaScript数据结构与算法第三版 Learning JavaScript Data Structures and Algorithms 3rd Edition_[巴西]格罗纳（LoianeGroner）, 孙晓博, 邓钢, 吴双, 陈迪, 袁源_人民邮电出版社_5304547_99a2e3db651123e9236748344116ee0d.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 99a2e3db651123e9236748344116ee0d

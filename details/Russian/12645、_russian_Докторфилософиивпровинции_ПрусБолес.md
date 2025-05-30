@@ -8,7 +8,7 @@
 12645、_russian_Доктор философии в провинции_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a0f4835bc7a0d26ae7bc52f22a7f501

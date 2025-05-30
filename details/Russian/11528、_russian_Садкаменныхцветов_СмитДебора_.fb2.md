@@ -8,7 +8,7 @@
 11528、_russian_Сад каменных цветов_Смит Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc8f77180c5255df1d8f53844887dc6d

@@ -8,7 +8,7 @@
 8034、_russian_Нестастная дуэль_Берг Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 755bd363b49926b132e5be3dbe2de51d

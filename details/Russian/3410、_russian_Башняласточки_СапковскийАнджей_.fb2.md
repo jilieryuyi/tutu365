@@ -8,7 +8,7 @@
 3410、_russian_Башня ласточки_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbe4bdf11b33ceb5b27f9011b134bb16

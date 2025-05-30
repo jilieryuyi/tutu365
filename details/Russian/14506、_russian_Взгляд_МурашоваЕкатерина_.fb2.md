@@ -8,7 +8,7 @@
 14506、_russian_Взгляд_Мурашова Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3cd8239e960f2da4d75d95d200916c7

@@ -8,7 +8,7 @@
 8305、_russian_Звездная пыль_Райан Нэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4567553db930970d6887b5dee2b831c8

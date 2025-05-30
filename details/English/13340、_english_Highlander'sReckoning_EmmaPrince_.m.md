@@ -8,7 +8,7 @@
 13340、_english_Highlander's Reckoning_Emma Prince_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ecd5acc58dc81368e03bdd9cc08b1c37

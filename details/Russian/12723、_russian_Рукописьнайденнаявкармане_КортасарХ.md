@@ -8,7 +8,7 @@
 12723、_russian_Рукопись найденная в кармане_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a97822601881f839196e6873ca3fba54

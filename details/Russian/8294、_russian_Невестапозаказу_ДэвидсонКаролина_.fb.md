@@ -8,7 +8,7 @@
 8294、_russian_Невеста по заказу_Дэвидсон Каролина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0799164c947483df1fdd3dd26db5bcad

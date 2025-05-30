@@ -8,7 +8,7 @@
 10900、_russian_О личности_Баранова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fccffbe4174e310d7055b592a1383f6

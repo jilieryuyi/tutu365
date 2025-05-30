@@ -8,7 +8,7 @@
 1100、_russian_Испытание славой_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee8188697375304e9cf427184592bd46

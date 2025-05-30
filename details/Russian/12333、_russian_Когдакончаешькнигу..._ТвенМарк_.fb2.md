@@ -8,7 +8,7 @@
 12333、_russian_Когда кончаешь книгу..._Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e70c0e725543c5957e5b74b1ce246f9c

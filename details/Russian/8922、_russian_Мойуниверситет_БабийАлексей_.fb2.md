@@ -8,7 +8,7 @@
 8922、_russian_Мой университет_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fb6f590f003ec53b111aaeb761f71a4

@@ -8,7 +8,7 @@
 514、_russian_Мегрэ ошибается_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bcbec4ee412d586aadd0ba511d52242

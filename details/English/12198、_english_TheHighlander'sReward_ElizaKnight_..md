@@ -8,7 +8,7 @@
 12198、_english_The Highlander's Reward_Eliza Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c39f21d06bd8fc1ef9ddb2b173651197

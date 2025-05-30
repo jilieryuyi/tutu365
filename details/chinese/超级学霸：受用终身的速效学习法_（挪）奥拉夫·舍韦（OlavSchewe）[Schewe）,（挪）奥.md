@@ -8,7 +8,7 @@
 超级学霸：受用终身的速效学习法_（挪）奥拉夫·舍韦（Olav Schewe） [Schewe）, （挪）奥拉夫·舍韦（Olav]__5371380_6b0623ad43d1148db14a4f035cfe6f59.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6b0623ad43d1148db14a4f035cfe6f59

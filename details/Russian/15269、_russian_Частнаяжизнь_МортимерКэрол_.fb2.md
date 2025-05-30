@@ -8,7 +8,7 @@
 15269、_russian_Частная жизнь_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4f3147c20e8c8f2bccb678f8944d44e

@@ -8,7 +8,7 @@
 10326、_russian_Аптекарь_Орлов Владимир Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 caff428f0d3989c04b821d93e1bdf7fa

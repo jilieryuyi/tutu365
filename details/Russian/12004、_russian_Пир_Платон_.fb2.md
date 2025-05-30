@@ -8,7 +8,7 @@
 12004、_russian_Пир_Платон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92dc0ffdc730a2ef0f70188c0331cb45

@@ -8,7 +8,7 @@
 5053、_russian_Борис Годунов. Киносценарий_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c020acbc46b2bae416ddfe9cce7e7e31

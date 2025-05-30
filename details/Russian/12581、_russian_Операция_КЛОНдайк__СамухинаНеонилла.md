@@ -8,7 +8,7 @@
 12581、_russian_Операция _КЛОНдайк__Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89f020a0970a4fcd0bdabad5b32c652d

@@ -8,7 +8,7 @@
 7509、_russian_Деррида за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7131202ea3ab33f22e37c9ff772132cc

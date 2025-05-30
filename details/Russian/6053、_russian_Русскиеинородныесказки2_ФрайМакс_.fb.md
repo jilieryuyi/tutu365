@@ -8,7 +8,7 @@
 6053、_russian_Русские инородные сказки 2_Фрай Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 359ae398fad0e733ff45b2bea2db907a

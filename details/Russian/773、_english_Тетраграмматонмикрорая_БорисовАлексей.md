@@ -8,7 +8,7 @@
 773、_english_Тетраграмматон микрорая_Борисов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21df180ad5d8cb17a54c30e56dad8bc4

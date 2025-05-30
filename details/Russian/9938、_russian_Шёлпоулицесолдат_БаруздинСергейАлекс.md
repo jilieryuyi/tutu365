@@ -8,7 +8,7 @@
 9938、_russian_Шёл по улице солдат_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb7c383a042ee8faef9c01ebd134af8c

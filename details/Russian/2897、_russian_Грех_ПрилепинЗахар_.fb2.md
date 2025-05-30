@@ -8,7 +8,7 @@
 2897、_russian_Грех_Прилепин Захар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5db547a927b9c483f4137c52f8559e9d

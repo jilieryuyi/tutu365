@@ -8,7 +8,7 @@
 1966、_russian_Лу Саломе_Гармаш Лариса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59566e9130e7623220f07dfe4a7cf5bd

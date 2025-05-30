@@ -8,7 +8,7 @@
 1614、_russian_Шанс полюбить_Браунинг Дикси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ecaf74b2b23d735bac82b450c32631f

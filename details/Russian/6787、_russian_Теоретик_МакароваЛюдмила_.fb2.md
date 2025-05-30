@@ -8,7 +8,7 @@
 6787、_russian_Теоретик_Макарова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 184c9f4552c10bf39bc5a3989c19f4b9

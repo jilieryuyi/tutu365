@@ -8,7 +8,7 @@
 1524、_russian_Каратели_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 615073a17442da837d6424502eb50c48

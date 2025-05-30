@@ -8,7 +8,7 @@
 3692、_russian_Странная игра_Антонов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6e988e1def4a03eb820e901880a7f1e

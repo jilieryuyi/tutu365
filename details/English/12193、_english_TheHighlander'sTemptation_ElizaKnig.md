@@ -8,7 +8,7 @@
 12193、_english_The Highlander's Temptation_Eliza Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a48fda92499473867c4e4e3cb91b0445

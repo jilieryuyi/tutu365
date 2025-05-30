@@ -8,7 +8,7 @@
 14613、_russian_Иосиф Сталин_Рыбас Святослав Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d3afc1c461ab7440b9c10f373ad8c1d

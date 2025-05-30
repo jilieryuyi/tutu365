@@ -8,7 +8,7 @@
 6203、_russian_Тест на подлость_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9875c21f2cd17722fcd0bb0966e8065d

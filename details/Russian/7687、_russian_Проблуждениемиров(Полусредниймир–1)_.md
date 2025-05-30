@@ -8,7 +8,7 @@
 7687、_russian_Проблуждение миров (Полусредний мир – 1)_Дон Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 741b78ff6ba595466fa17a55bb9dcec7

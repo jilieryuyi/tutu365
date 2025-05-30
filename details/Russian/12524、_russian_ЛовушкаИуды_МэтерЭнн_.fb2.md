@@ -8,7 +8,7 @@
 12524、_russian_Ловушка Иуды_Мэтер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d390ccb1e1bb3e77cd4c9f07fbc0cf2e

@@ -8,7 +8,7 @@
 11187、_english_The Orthodox Study Bible_ Ancient Christianity Speaks to Today's World_St. Athanasius Academy of Orthodox Theology_Thomas Nelson.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6a9ac0a42f9f5f8f72d52cb1e6458238

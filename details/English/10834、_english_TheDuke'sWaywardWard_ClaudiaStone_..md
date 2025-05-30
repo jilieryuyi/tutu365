@@ -8,7 +8,7 @@
 10834、_english_The Duke's Wayward Ward_Claudia Stone_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 75229eb5cbfa087f533763e9ab8e110d

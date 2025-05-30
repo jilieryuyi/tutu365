@@ -8,7 +8,7 @@
 7323、_russian_Похититель душ _ The Stealer of Souls_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 778c4e3045846580a88563336d919652

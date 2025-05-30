@@ -8,7 +8,7 @@
 2722、_russian_Приключения духа_Аюб Салим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c12d9b5f154816fa147a96ace460948

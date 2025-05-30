@@ -8,7 +8,7 @@
 1425、_russian_Гиблое место_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e051159fe7790515df3d239c3f334436

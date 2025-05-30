@@ -8,7 +8,7 @@
 14590、_russian_О вы, маловерные_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5f8d57d9e4a49a0368a1b1b73219096

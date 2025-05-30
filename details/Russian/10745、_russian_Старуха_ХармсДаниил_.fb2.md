@@ -8,7 +8,7 @@
 10745、_russian_Старуха_Хармс Даниил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92566649369ab7465df1bfb37cd3c921

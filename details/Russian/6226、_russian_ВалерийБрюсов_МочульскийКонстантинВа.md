@@ -8,7 +8,7 @@
 6226、_russian_Валерий Брюсов_Мочульский Константин Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6ddbd40d43378a76bffba122d9bbb46

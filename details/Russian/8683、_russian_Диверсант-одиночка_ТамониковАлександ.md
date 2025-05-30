@@ -8,7 +8,7 @@
 8683、_russian_Диверсант-одиночка_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8a95991b0f4ca218ed744d541b72c62

@@ -8,7 +8,7 @@
 反常识_邓肯·J.瓦茨 [邓肯·J.瓦茨]_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 26b4416d73cb4a6fadbb588a0670d2d9

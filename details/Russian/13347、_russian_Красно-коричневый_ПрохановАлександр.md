@@ -8,7 +8,7 @@
 13347、_russian_Красно-коричневый_Проханов Александр Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5008b45fde14fabb3f4d46bff2672bd7

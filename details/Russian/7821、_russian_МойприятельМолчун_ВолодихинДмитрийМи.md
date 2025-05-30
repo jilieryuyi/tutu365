@@ -8,7 +8,7 @@
 7821、_russian_Мой приятель Молчун_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cc34ccc739b566cd32c81b5c419d98c

@@ -8,7 +8,7 @@
 14785、_russian_Север и Юг_Гаскелл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cdf968aef8dd492ad9d3ba74f131a14

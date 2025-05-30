@@ -8,7 +8,7 @@
 12808、_russian_Перелом в судьбе_Робертс Дорин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41fba7a6b50390017caf266a4c4ff721

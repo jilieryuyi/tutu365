@@ -8,7 +8,7 @@
 10039、_russian_Скачки_Розенблюм Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd0095a405cc9b0ed98acc580c2a86fe

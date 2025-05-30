@@ -8,7 +8,7 @@
 13220、_russian_Тристан_Манн Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5db17bef2aa22f588f98a0f3f6c62d1c

@@ -8,7 +8,7 @@
 11746、_russian_Луч возмездия (= _Огонь глубин_, _Огни изнутри_)_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e75c4ec869e9e1f0d705ef6e0cefbcca

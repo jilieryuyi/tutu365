@@ -8,7 +8,7 @@
 13541、_russian_Кредо_Лукьяненко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d035e93cbabc82e63b858ef78e38e85

@@ -8,7 +8,7 @@
 818、_russian_Всерьез и надолго_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75254402cafa762a9b3aee4ca5f839ad

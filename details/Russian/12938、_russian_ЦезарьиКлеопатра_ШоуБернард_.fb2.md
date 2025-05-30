@@ -8,7 +8,7 @@
 12938、_russian_Цезарь и Клеопатра_Шоу Бернард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bf0d27d310718caa66f8828fd96121c

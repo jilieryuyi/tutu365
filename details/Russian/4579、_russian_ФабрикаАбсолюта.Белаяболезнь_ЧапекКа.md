@@ -8,7 +8,7 @@
 4579、_russian_Фабрика Абсолюта. Белая болезнь_Чапек Карел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 101eec63a1c3ab0d20fdf74fef6a00c0

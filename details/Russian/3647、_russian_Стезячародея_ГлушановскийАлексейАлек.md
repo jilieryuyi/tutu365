@@ -8,7 +8,7 @@
 3647、_russian_Стезя чародея_Глушановский Алексей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a874d68b2c81ee6272af1166be309236

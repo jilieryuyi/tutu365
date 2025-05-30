@@ -8,7 +8,7 @@
 13923、_russian_Пушистики и другие (Fuzzies and Other People)_Пайпер Бим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f09d4df3701641ef7723ca4887af538

@@ -8,7 +8,7 @@
 [Pro.PHP.Programming(第1版)].(Pro.PHP.Programming).Mladen.Gogala.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 01fa3a4dede5baf3001ccea397a24fbe

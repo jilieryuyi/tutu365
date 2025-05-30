@@ -8,7 +8,7 @@
 7784、_russian_Таганский перекресток_Панов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b7964a043b8fd11333373690afe57c2

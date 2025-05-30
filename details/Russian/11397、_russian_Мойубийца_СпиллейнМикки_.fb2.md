@@ -8,7 +8,7 @@
 11397、_russian_Мой убийца_Спиллейн Микки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e123d69596c8b15c16ecce25ae577dff

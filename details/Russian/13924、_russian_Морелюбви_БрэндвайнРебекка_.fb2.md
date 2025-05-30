@@ -8,7 +8,7 @@
 13924、_russian_Море любви_Брэндвайн Ребекка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34694bf04e632bbec10d22e4dbf3d654

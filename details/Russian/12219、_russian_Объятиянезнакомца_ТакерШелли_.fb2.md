@@ -8,7 +8,7 @@
 12219、_russian_Объятия незнакомца_Такер Шелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d8dccdb0a4ead101d0a2c035166921d

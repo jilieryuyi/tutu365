@@ -8,7 +8,7 @@
 5161、_russian_Яблоко для тролля_Володина Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c97c67a71571922a280cfe6e631bba1e

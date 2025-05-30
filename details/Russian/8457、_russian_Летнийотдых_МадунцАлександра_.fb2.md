@@ -8,7 +8,7 @@
 8457、_russian_Летний отдых_Мадунц Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c20ff5de6c475dab6fd62d615e7d57e

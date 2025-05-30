@@ -8,7 +8,7 @@
 10881、_russian_Атомный сон (Cборник)_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cc964b740e7e9fd3408c50f6d803de9

@@ -8,7 +8,7 @@
 7927、_russian_Сердце ангела_де Куатьэ Анхель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b47567196f64ef3897b86806bba88ca

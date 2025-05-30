@@ -8,7 +8,7 @@
 subversion.chm.chm
 
 ## 语言(language)
-English
+english
 
 ## MD5
 64f20bdcdd18acc03821c54ef522298c

@@ -8,7 +8,7 @@
 2960、_russian_Обида_Зорин Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4863980fa4fa520c7516d4b1c50eed8

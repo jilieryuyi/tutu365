@@ -8,7 +8,7 @@
 6834、_russian_Звёздный десант_Злотников Роман, Орехов Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27d036c3e4f1b6e7ffe88e0e8ca26f2b

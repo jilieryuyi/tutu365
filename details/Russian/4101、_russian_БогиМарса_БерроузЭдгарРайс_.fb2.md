@@ -8,7 +8,7 @@
 4101、_russian_Боги Марса_Берроуз Эдгар Райс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e89bf70079fa786f9e829d44c2923c58

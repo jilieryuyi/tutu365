@@ -8,7 +8,7 @@
 7670、_russian_Давно, усталый раб, замыслил я побег..._Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52ed08fccee77d774289f2a60ac6817c

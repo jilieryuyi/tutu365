@@ -8,7 +8,7 @@
 11630、_russian_Человек по имени Лошадь_Джонсон Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3566c399c0588ffa92ba8a482a4a83b5

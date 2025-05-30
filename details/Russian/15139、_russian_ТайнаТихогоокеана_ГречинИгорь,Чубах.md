@@ -8,7 +8,7 @@
 15139、_russian_Тайна Тихого океана_Гречин Игорь, Чубаха Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b5c990be9dc1e0f0175568dc0974115

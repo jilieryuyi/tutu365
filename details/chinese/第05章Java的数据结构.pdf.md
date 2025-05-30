@@ -8,7 +8,7 @@
 第05章 Java的数据结构.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e46778b3898457dd6f5cacc459429377

@@ -8,7 +8,7 @@
 6394、_russian_Рыцари Света и Тьмы_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0bdf8dffd53ee4616b63416e08df80a5

@@ -8,7 +8,7 @@
 12630、_russian_Проклятое счастье_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28c3496fe308ffdc890b58cad9a44312

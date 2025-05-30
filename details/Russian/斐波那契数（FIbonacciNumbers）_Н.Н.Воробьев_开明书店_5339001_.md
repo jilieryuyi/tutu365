@@ -8,7 +8,7 @@
 斐波那契数（FIbonacci Numbers）_Н.Н.Воробьев_开明书店_5339001_75c238be0a9dd3fe701300682229fb1c.pdf.pdf
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75c238be0a9dd3fe701300682229fb1c

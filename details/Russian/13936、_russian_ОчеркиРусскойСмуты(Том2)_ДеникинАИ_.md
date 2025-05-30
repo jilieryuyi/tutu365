@@ -8,7 +8,7 @@
 13936、_russian_Очерки Русской Смуты (Том 2)_Деникин А И_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 792ff45c807f0f72df73a19013dafd23

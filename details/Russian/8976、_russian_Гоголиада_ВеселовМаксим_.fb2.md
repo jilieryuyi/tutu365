@@ -8,7 +8,7 @@
 8976、_russian_Гоголиада_Веселов Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e83ecb9b5e6108d99c1374d684fc9ecc

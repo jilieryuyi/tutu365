@@ -8,7 +8,7 @@
 14940、_russian_Укрощенное сердце_Уэй Маргарет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af03f4f236d0c5f2e18128b907efad0a

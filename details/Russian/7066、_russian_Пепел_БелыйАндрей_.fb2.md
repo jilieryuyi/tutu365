@@ -8,7 +8,7 @@
 7066、_russian_Пепел_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3dc821ff4c5acb4ec75b34cb9bf42f8

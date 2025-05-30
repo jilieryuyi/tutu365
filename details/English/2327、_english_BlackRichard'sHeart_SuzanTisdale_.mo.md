@@ -8,7 +8,7 @@
 2327、_english_Black Richard's Heart_Suzan Tisdale_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 697444a371d44ba545fa2ac492ddc855

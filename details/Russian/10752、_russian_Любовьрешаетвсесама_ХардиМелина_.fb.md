@@ -8,7 +8,7 @@
 10752、_russian_Любовь решает все сама_Харди Мелина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80476b55c49f370972be2d6e3f813553

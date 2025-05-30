@@ -8,7 +8,7 @@
 2725、_russian_Два камешка_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 466d982ed99b32b56c4be6370f899c83

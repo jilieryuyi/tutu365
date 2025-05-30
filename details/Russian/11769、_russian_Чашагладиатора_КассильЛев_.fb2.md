@@ -8,7 +8,7 @@
 11769、_russian_Чаша гладиатора_Кассиль Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed153d25fdc9098eef4e633cc5bb17a8

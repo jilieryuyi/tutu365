@@ -8,7 +8,7 @@
 7945、_russian_Реалити-шок_Эрвье Грегуар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1977fb32beea591c22ccf8b93c8b36a1

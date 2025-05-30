@@ -8,7 +8,7 @@
 3、地理大发现_the age of discovery_戴维·阿诺德_上海译文出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 73ee723a4e36738a3388340337919005

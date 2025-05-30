@@ -8,7 +8,7 @@
 2284、_russian_Индейская страсть_Бейкер Мэдлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09ef354055a46d43e595979c25a3e02d

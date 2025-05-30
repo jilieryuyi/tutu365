@@ -8,7 +8,7 @@
 3953、_russian_Кровь эльфов_Сапковский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7fddb772923f30aa3abd39b621e161b8

@@ -8,7 +8,7 @@
 9790、_russian_Фтор_Энтони Пирс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b165e4df9fec9eef0fbd4d9e73a176bf

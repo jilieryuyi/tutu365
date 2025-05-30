@@ -8,7 +8,7 @@
 11890、_russian_Мальчик_Гор Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69395409f1f6f3e974bc7006dc12ffc8

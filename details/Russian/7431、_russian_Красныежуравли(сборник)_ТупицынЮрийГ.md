@@ -8,7 +8,7 @@
 7431、_russian_Красные журавли (сборник)_Тупицын Юрий Гаврилович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f89463e8f0647cef110f738b12b955d7

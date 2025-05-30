@@ -8,7 +8,7 @@
 10352、_russian_Век золотых роз_Клименко Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32baca75cd2207dd6709117b7b87ab82

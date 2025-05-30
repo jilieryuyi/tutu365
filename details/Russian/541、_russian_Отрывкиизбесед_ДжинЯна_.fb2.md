@@ -8,7 +8,7 @@
 541、_russian_Отрывки из бесед_Джин Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d62e9f4021342d5ba96cd81333bc65b

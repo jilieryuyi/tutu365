@@ -8,7 +8,7 @@
 4398、_russian_Зов шамана_Сарагерел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eed9c0b5c68900227afbf546879c8476

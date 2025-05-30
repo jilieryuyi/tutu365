@@ -8,7 +8,7 @@
 12675、_russian_Жизнь прожить…_Липатов Виль Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20b2a0ace17a96db6de1fcc128694763

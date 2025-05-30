@@ -8,7 +8,7 @@
 12258、_russian_Черный рыцарь_Медейрос Тереза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c202827533b8c678f9bf717b858c4622

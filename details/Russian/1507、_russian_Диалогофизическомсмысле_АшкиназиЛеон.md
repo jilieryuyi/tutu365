@@ -8,7 +8,7 @@
 1507、_russian_Диалог о физическом смысле_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e849c3a07237f82bcd172a90e3adcb9d

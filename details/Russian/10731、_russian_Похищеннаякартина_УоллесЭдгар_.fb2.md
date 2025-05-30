@@ -8,7 +8,7 @@
 10731、_russian_Похищенная картина_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ab9eb273b4907d52e0e3353ede41359

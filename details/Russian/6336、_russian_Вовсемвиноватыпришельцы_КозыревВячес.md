@@ -8,7 +8,7 @@
 6336、_russian_Во всем виноваты пришельцы_Козырев Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8944d3d8a2085bdb14ad89c49cc8d66b

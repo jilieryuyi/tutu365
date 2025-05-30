@@ -8,7 +8,7 @@
 2450、青年斯大林（耶路撒冷三千年作者最新著作 ）_西蒙·蒙蒂菲奥里(Simon Sebag Montefiore)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 073dc485db137a70b163e4dbc4f9161f

@@ -8,7 +8,7 @@
 13688、_english_The Scoundrel's Bride_Geralyn Dawson_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fbe53c50434918fe0aa517f609ee67ae

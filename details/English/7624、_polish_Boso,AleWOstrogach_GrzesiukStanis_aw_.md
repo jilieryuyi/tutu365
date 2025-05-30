@@ -8,7 +8,7 @@
 7624、_polish_Boso, Ale W Ostrogach_Grzesiuk Stanis_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 16768148d9e7865f220f7a1c76ae63c1

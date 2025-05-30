@@ -8,7 +8,7 @@
 722、_english_The Magician_Maugham Somerset_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f30625c0309827bb2c18854e7ff1f60a

@@ -8,7 +8,7 @@
 11761、_russian_Народный депутат_Нушич Бранислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31bbe66e10099d97673127f8cf1091f7

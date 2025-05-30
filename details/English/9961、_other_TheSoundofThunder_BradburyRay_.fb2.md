@@ -8,7 +8,7 @@
 9961、_other_The Sound of Thunder_Bradbury Ray_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cdfedf451f00be886b42d4afd1ca189b

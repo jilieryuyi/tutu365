@@ -8,7 +8,7 @@
 6052、_russian_ЗАПИСКИ НЕПУТЕВОГО ОПЕРА_Караваев Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4af8869be3e0da9c6020202056766acd

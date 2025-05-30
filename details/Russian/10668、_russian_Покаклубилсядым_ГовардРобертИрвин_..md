@@ -8,7 +8,7 @@
 10668、_russian_Пока клубился дым_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b0fc31375b364d7572d646dd12becf7

@@ -8,7 +8,7 @@
 3188、_russian_Римский король_Лепеллетье Эдмон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0cf84ade6497caa589141b925026fe7

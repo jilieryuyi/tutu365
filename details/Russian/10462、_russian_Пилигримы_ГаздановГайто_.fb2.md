@@ -8,7 +8,7 @@
 10462、_russian_Пилигримы_Газданов Гайто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4cf4842337a37e5f770dc3c368c99aa

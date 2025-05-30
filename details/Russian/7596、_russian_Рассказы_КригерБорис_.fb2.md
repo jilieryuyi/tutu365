@@ -8,7 +8,7 @@
 7596、_russian_Рассказы_Кригер Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7eef06dc1a56848670a6de361da2cc7d

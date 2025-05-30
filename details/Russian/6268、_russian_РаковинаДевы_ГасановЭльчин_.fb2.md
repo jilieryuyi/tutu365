@@ -8,7 +8,7 @@
 6268、_russian_Раковина Девы_Гасанов Эльчин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47f13fe31d4d02154189668e2a3b877d

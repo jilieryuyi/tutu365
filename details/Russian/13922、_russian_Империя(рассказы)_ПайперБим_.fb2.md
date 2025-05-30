@@ -8,7 +8,7 @@
 13922、_russian_Империя (рассказы)_Пайпер Бим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 572c494e1fddd72cab3a761f8d060a10

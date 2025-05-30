@@ -8,7 +8,7 @@
 16836、_english_The Rogue's Conquest_Lily Maxton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d870b46ae7ff49864a9048c61c1d933c

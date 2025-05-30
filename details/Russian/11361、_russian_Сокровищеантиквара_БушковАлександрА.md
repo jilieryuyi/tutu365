@@ -8,7 +8,7 @@
 11361、_russian_Сокровище антиквара_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76ae2ec3cbb111a738f6e8dd99cb399d

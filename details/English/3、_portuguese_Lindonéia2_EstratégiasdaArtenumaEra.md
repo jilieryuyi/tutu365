@@ -8,7 +8,7 @@
 3、_portuguese_Lindonéia #2_ Estratégias da Arte numa Era de Catástrofes_Fabíola Tasca Maria Angélica Melendi Felix Gonzalez Torres Jorge Menna Barreto Tales Bedeschi Cláudia Zanatta Grupo Poro Frederi.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 149a507788360ce511d683a1bb71c4ce

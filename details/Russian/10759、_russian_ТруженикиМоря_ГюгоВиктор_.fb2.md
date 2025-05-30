@@ -8,7 +8,7 @@
 10759、_russian_Труженики Моря_Гюго Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99bcee71faa9b46ee51c66f635a3eccd

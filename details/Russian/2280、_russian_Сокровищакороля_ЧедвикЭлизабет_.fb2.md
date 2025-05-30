@@ -8,7 +8,7 @@
 2280、_russian_Сокровища короля_Чедвик Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d877c16430cf6b07c6e34ef9257dbfa

@@ -8,7 +8,7 @@
 13200、_russian_Около нодьи_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0033f90bc2bd8d0cdba09e91c24a0f45

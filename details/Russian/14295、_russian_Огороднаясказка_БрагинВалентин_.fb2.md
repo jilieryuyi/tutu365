@@ -8,7 +8,7 @@
 14295、_russian_Огородная сказка_Брагин Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecec5d1bd124df745540d0d4e3396db3

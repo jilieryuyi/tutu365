@@ -8,7 +8,7 @@
 6202、_russian_Путь к Дюне_Герберт Фрэнк, Герберт Брайан, Андерсон Кевин Дж._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af05b768be38fd2bd996c1f579d22841

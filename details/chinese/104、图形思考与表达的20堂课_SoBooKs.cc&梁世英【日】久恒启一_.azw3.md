@@ -8,7 +8,7 @@
 104、图形思考与表达的20堂课_SoBooKs.cc & 梁世英 【日】久恒启一_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7d0cb33f574e4561a386b88c7c23eb98

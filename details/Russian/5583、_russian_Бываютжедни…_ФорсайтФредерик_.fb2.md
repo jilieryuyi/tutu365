@@ -8,7 +8,7 @@
 5583、_russian_Бывают же дни…_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efd8c2dbce64173e08f2cd4145352906

@@ -8,7 +8,7 @@
 8711、_russian_Генеральская дочка_Стахов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8738aafceb7bd98199685191b9c4fe42

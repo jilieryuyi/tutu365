@@ -8,7 +8,7 @@
 14048、_russian_Свадьба на Рождество_Браун Лори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8371014c5487a8fbbd8e986257c56b93

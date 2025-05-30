@@ -8,7 +8,7 @@
 8480、_russian_Снежный вампир_Игнатьев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d32879198521a6acb4ac463dfaffb605

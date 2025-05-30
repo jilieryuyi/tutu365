@@ -8,7 +8,7 @@
 6903、_russian_Из природы_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33c5a53010771b468daa55fdeb2d4c51

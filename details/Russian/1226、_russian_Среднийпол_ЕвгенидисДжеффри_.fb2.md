@@ -8,7 +8,7 @@
 1226、_russian_Средний пол_Евгенидис Джеффри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d0807006461902c80b30953be61c509

@@ -8,7 +8,7 @@
 C Primer Plus（第6版）中文版_（美）史蒂芬·普拉达（Stephen Prata）[著], 姜佑[译] _人民邮电出版社_5370231_10334a4202cfff004690634561293b34.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 10334a4202cfff004690634561293b34

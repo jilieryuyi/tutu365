@@ -8,7 +8,7 @@
 2200、机器学习系统设计 (图灵程序设计丛书)_[美]Willi Richert & Luis Pedro Coelho_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3082e9b312814cc3aa92c3b248ffdf86

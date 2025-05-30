@@ -8,7 +8,7 @@
 7420、_russian_Серебряное копытце_Бажов Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ca02664fa9a96250516e14c22306bd3

@@ -8,7 +8,7 @@
 7699、_russian_Падение экзарха_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4579575e77a00fe143e5b3b739741962

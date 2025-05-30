@@ -8,7 +8,7 @@
 6038、_russian_Крылья Феникса_Жданова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 841dc88d7b67ec711d343033ffcc239c

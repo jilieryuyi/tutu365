@@ -8,7 +8,7 @@
 13691、_russian_Сорванец девчонка_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b1c89a810ea03e274d15f1c75942a4b

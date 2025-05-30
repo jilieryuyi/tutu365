@@ -8,7 +8,7 @@
 10973、_russian_Застава_Вилсон Фрэнсис Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad6db3070391c1528988009b877dc605

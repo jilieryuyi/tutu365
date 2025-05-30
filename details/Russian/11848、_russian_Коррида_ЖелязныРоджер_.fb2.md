@@ -8,7 +8,7 @@
 11848、_russian_Коррида_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e62e2a79296de1976a59e9a90ff29f1f

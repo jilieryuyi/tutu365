@@ -8,7 +8,7 @@
 8688、_russian_Афганский гладиатор_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6359123621ddcc15769d717595303dac

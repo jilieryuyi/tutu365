@@ -8,7 +8,7 @@
 4709、_russian_Потёртая верёвка на пальце времени_Биггл-младший Ллойд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b66bedbdc28d2b1aa386a2968e402fb8

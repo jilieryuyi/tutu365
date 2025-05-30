@@ -8,7 +8,7 @@
 8350、_russian_Пособие для начинающей ведьмы_Шумская Елизавета_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6dcd536b8e07e8b458c30639b7b6fea

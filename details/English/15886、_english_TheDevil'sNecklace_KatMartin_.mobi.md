@@ -8,7 +8,7 @@
 15886、_english_The Devil's Necklace_Kat Martin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1c0a90bb210617feba3beec49e680f50

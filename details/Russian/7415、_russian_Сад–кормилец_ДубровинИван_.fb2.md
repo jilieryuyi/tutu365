@@ -8,7 +8,7 @@
 7415、_russian_Сад – кормилец_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cd722a790d79f5cd61a15f3230af6f6

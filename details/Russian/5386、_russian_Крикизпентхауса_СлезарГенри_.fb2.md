@@ -8,7 +8,7 @@
 5386、_russian_Крик из пентхауса_Слезар Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3223d2af27a5caea6f9fda080ff6bd20

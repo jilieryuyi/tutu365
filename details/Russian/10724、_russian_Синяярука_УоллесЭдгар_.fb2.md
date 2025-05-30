@@ -8,7 +8,7 @@
 10724、_russian_Синяя рука_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fd4b571267114dfa9b046916e5b8d30

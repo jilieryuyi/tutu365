@@ -8,7 +8,7 @@
 1322、_russian_Агент Х, или Конец игры_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c6f9b505e4b3bb8c7836335ab4f158e

@@ -8,7 +8,7 @@
 6123、_russian_Холодный ветер, тёплый ветер (сборник)_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90cf1f12b72dc3dfa69ec8ce7b37d914

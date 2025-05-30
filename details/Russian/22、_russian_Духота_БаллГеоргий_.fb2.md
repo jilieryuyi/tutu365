@@ -8,7 +8,7 @@
 22、_russian_Духота_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6df9fdb7ea5ce8503e8a888a02146529

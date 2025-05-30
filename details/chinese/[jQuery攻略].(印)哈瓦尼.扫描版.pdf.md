@@ -8,7 +8,7 @@
 [jQuery攻略].(印)哈瓦尼.扫描版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 01ea128ba565afb14614dda081f3f1c6

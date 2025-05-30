@@ -8,7 +8,7 @@
 4016、_russian_Свет любви_Крюков Виктор Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ee31580a6bbc01cda09df0d238bf542

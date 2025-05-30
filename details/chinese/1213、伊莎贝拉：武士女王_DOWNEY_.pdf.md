@@ -8,7 +8,7 @@
 1213、伊莎贝拉：武士女王_DOWNEY_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 030b713c05812d0295fce7434b0a60ef

@@ -8,7 +8,7 @@
 12633、_russian_Ошибка_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 056b1079ea0f3d6b5563d80247b8c14a

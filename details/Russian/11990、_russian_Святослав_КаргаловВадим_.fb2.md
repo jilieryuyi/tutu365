@@ -8,7 +8,7 @@
 11990、_russian_Святослав_Каргалов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc089df3994daf9dd06c74e9cf70de2d

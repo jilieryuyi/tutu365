@@ -8,7 +8,7 @@
 2433、_russian_АЛЫЕ ПАРУСА_Грин А. С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea46cb72e833d33818f3592ea044265a

@@ -8,7 +8,7 @@
 3206、_russian_Возьми меня с собой_Филлипс Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4ba31a04179e7a921db38a555f03164

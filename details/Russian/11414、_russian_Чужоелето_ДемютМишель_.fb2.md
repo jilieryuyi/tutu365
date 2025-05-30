@@ -8,7 +8,7 @@
 11414、_russian_Чужое лето_Демют Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61de41d3e7adb855ca6895867adb524f

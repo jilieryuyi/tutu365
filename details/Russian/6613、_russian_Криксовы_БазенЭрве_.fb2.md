@@ -8,7 +8,7 @@
 6613、_russian_Крик совы_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb92384cfa86a057ce6fbe8e0fdf078d

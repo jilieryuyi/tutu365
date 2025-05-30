@@ -8,7 +8,7 @@
 4813、_russian_Тот, кто ворошит эти розы_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3f42521f5dad0d3ad1d1c955fe94bac

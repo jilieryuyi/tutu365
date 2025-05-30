@@ -8,7 +8,7 @@
 10697、_russian_Генерал Стальной Кулак_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd0e42e0dbe5b09074af3bbe0ca460f3

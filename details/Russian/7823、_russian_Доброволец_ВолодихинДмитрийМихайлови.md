@@ -8,7 +8,7 @@
 7823、_russian_Доброволец_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62443ff685ea4dcf4a213ed3537f3df3

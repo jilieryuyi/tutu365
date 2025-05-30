@@ -8,7 +8,7 @@
 6907、_russian_В пути_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c74ffc497c89e5abb766094e389897c1

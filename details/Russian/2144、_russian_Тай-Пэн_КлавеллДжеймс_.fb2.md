@@ -8,7 +8,7 @@
 2144、_russian_Тай-Пэн_Клавелл Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3e7bb59f350ca63874ecd1924e1e0bd

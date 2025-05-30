@@ -8,7 +8,7 @@
 6191、_russian_Мечты и думы_Коневской Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f230d79fd11fda6be92809191e00ac1e

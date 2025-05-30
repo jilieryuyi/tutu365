@@ -8,7 +8,7 @@
 5000、_russian_Звездный гамбит (сборник)_Клейн Жерар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38e614cfdbb8a10c95c91b3afe174887

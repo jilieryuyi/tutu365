@@ -8,7 +8,7 @@
 5486、_russian_Верлойн_Папсуев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68d179b2a73e22c99398d2bb53f18b67

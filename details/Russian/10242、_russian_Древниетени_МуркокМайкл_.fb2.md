@@ -8,7 +8,7 @@
 10242、_russian_Древние тени_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6a623ce56746ded1650c8f64632d597

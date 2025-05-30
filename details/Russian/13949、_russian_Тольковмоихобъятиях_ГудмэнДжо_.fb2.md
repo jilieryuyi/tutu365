@@ -8,7 +8,7 @@
 13949、_russian_Только в моих объятиях_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0efd41202f69031f4f7d0968ca56df3

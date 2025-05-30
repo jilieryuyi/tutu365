@@ -8,7 +8,7 @@
 3266、_russian_Координаты бедствия_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baea3ddf748ca23a24ddb3b640cac1cd

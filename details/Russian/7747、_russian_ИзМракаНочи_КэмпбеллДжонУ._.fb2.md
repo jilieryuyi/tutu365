@@ -8,7 +8,7 @@
 7747、_russian_Из Мрака Ночи_Кэмпбелл Джон У._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc7d4a5c967c6c9edbc31ed597097c79

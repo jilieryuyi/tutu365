@@ -8,7 +8,7 @@
 6635、_russian_Молла-Ибрагим-Халил, алхимик_Ахундов Мирза Фатали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ca4909467c8fb02fa868ef7307b6e44

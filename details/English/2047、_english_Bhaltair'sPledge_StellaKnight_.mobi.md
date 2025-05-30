@@ -8,7 +8,7 @@
 2047、_english_Bhaltair's Pledge_Stella Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4edfdf75c40086ae76ce754d119eda9c

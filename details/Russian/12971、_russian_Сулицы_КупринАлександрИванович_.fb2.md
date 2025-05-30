@@ -8,7 +8,7 @@
 12971、_russian_С улицы_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dda01fe666dc5c0a0785b9bbbd3712d2

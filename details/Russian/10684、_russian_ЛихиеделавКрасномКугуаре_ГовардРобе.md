@@ -8,7 +8,7 @@
 10684、_russian_Лихие дела в Красном Кугуаре_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1661b205d8a8253ff7fdd0bc9cc36ad

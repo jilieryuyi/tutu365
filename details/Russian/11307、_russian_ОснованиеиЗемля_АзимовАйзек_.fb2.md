@@ -8,7 +8,7 @@
 11307、_russian_Основание и Земля_Азимов Айзек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d9f0f13d141f39387da403cdc0d6572

@@ -8,7 +8,7 @@
 7556、_russian_Завещание самоубийцы_Эдигей Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc5e9eb6de04f64dd40ff73751732a3f

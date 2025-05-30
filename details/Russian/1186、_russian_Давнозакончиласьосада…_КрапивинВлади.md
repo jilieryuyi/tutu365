@@ -8,7 +8,7 @@
 1186、_russian_Давно закончилась осада…_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac96c6493b08fe50cdc245ca9b8c9254

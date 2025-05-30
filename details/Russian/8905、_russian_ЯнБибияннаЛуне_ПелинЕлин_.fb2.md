@@ -8,7 +8,7 @@
 8905、_russian_Ян Бибиян на Луне_Пелин Елин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca47ab1f71e13f56163e4ec1fd5736d3

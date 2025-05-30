@@ -8,7 +8,7 @@
 14622、_english_The Beast's Bride_Jayne Castel_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a7124e193d4a35e83440e0918aac9eaa

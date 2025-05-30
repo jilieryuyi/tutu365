@@ -8,7 +8,7 @@
 7918、_russian_Страх_Хаббард Рон Л._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f1d5c42c1591a5868b163206d382c1b

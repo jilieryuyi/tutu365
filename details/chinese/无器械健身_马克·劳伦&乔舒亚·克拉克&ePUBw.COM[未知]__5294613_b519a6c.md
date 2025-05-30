@@ -8,7 +8,7 @@
 无器械健身_马克·劳伦 & 乔舒亚·克拉克 & ePUBw.COM [未知]__5294613_b519a6c714c73b34b3fbbbc3878297f6.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b519a6c714c73b34b3fbbbc3878297f6

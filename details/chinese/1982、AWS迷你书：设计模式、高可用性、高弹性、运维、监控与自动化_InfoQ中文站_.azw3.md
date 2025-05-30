@@ -8,7 +8,7 @@
 1982、AWS迷你书：设计模式、高可用性、高弹性、运维、监控与自动化_InfoQ中文站_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 428bd97b80287650f3d80827aa419ac2

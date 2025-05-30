@@ -8,7 +8,7 @@
 10641、_russian_Каменное сердце_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3860d1d188d36acfb20f1366cf716051

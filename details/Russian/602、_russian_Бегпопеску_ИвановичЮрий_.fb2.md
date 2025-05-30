@@ -8,7 +8,7 @@
 602、_russian_Бег по песку_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d14678653f587657c395f5ba967dd971

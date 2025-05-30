@@ -8,7 +8,7 @@
 435、_russian_Алексей Справедливый_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e6f8ac24a94d4d761a1997e1c9ed56e

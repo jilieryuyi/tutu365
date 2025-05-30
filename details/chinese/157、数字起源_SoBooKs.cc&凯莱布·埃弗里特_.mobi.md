@@ -8,7 +8,7 @@
 157、数字起源_SoBooKs.cc & 凯莱布·埃弗里特_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 63fc32d23787555f549657c0a4ed9c2e

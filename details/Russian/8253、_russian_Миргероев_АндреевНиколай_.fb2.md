@@ -8,7 +8,7 @@
 8253、_russian_Мир героев_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58fcd5218ab48416149121f69beb3980

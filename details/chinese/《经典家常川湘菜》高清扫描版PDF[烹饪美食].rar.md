@@ -8,7 +8,7 @@
 《经典家常川湘菜》高清扫描版PDF[烹饪美食].rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c3a85e4ea7aa23233921b542af61ee95

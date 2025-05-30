@@ -8,7 +8,7 @@
 68、_russian_Дождись своей звезды_Беверли Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68e06beea632ab233ace93fce9684d68

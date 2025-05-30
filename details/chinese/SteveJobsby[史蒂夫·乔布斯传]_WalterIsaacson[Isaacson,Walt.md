@@ -8,7 +8,7 @@
 Steve Jobsby [史蒂夫·乔布斯传]_Walter Isaacson [Isaacson, Walter]__5287962_446ac8eee935acec9498e665cd0f1575.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 446ac8eee935acec9498e665cd0f1575

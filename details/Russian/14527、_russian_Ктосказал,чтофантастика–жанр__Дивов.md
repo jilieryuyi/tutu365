@@ -8,7 +8,7 @@
 14527、_russian_Кто сказал, что фантастика – жанр__Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e5f4d07b937bda87f8edcd683eddefc

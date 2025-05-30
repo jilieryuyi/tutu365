@@ -8,7 +8,7 @@
 4510、_russian_Прекрасная пленница_Хесс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb969fd8f11545d4f42c5035c3752c14

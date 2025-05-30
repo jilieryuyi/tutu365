@@ -8,7 +8,7 @@
 14799、_russian_О железной стене_Жаботинский Зеев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a17d1b1e30a90c2eaf624ac2d135c403

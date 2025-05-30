@@ -8,7 +8,7 @@
 261、_russian_За пеленой дождя_Нагаи Тацуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84156a41bf3df2993b238e3a56c31e98

@@ -8,7 +8,7 @@
 11305、_russian_Белый пароход_Айтматов Чингиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7aaa470693fd8e3bfac2df3e7aa6d5fa

@@ -8,7 +8,7 @@
 4378、_russian_Гопакиада_Вершинин Лев Рэмович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa6f025bbe4a83641c93092b6f82507a

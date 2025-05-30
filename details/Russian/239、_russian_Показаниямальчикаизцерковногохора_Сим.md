@@ -8,7 +8,7 @@
 239、_russian_Показания мальчика из церковного хора_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a2b435cf27f86ed2d23b390bbffc99b

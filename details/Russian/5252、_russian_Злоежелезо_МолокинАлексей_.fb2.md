@@ -8,7 +8,7 @@
 5252、_russian_Злое железо_Молокин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5a726281ed1f7161543427c58100ddb

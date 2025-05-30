@@ -8,7 +8,7 @@
 8893、_russian_Юмористические игры для детей_Образцова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d97d4b65d1f4cd0e8514cf3b90f2d8d9

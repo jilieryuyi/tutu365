@@ -8,7 +8,7 @@
 11966、_russian_Шанс Гидеона_Кент Памела_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa9548545fdf0e55961f2630235f82ba

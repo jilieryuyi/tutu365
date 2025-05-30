@@ -8,7 +8,7 @@
 12660、_russian_Леди-судьба_Грейс Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd3053a72387c40c8189b9729808bde7

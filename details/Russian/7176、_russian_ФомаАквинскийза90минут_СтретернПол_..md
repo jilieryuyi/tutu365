@@ -8,7 +8,7 @@
 7176、_russian_Фома Аквинский за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13d12eb254e72f2da2ce45db75d082d3

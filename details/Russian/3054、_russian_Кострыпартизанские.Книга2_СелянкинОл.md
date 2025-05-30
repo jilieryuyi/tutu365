@@ -8,7 +8,7 @@
 3054、_russian_Костры партизанские. Книга 2_Селянкин Олег Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a34901d46bebeeb4ee37b5b47188ac2f

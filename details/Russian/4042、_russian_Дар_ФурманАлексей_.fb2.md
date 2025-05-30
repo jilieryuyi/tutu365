@@ -8,7 +8,7 @@
 4042、_russian_Дар_Фурман Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc07060888cf38f021c3798ade6f0e8d

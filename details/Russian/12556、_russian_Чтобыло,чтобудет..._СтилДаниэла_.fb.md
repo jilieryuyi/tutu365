@@ -8,7 +8,7 @@
 12556、_russian_Что было, что будет..._Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58e02a038424f31324af9a2276d06579

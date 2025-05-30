@@ -8,7 +8,7 @@
 4113、_russian_Очарованная_Чиотта Бет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b505515d6655c876f27d663b5cfc51f2

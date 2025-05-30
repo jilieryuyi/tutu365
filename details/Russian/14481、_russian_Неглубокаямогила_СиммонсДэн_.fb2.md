@@ -8,7 +8,7 @@
 14481、_russian_Неглубокая могила_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 776bf4faa92a672c95f91f607c591d6b

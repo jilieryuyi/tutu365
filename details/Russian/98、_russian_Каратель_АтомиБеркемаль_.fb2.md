@@ -8,7 +8,7 @@
 98、_russian_Каратель_Атоми Беркем аль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e87d9ad92eb545e2c340cdaa20b9fe5c

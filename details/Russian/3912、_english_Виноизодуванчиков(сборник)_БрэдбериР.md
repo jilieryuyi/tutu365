@@ -8,7 +8,7 @@
 3912、_english_Вино из одуванчиков (сборник)_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 968c2b10fa68d019544508f06f891a90

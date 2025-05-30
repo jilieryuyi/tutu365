@@ -8,7 +8,7 @@
 14411、_russian_А. Е. Ферсман_Баландин Рудольф Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f1b55f10df321a4c54c466127398b24

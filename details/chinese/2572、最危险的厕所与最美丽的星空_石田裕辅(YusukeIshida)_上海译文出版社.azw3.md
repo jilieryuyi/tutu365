@@ -8,7 +8,7 @@
 2572、最危险的厕所与最美丽的星空_石田裕辅(Yusuke Ishida)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 993e7171ab90b5321cd902a4f908f13a

@@ -8,7 +8,7 @@
 3213、龍的可愛七子 - 全一卷_九井諒子_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e1c34c94901822fe9ed8d69532006004

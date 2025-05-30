@@ -8,7 +8,7 @@
 1639、_russian_В небе полярных зорь_Кочегин Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71ee74c309ea34dc95e00a70d801572a

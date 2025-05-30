@@ -8,7 +8,7 @@
 1457、_russian_Азбука экономики_Гвартни Джеймс Д, Строуп Ричард Л_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 163e11273a996ec74e0b27e43d43dbdb

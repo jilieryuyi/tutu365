@@ -8,7 +8,7 @@
 14660、_russian_Твой суженый_Мэкомбер Дебби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e501775b01aad56c251cd894ca880697

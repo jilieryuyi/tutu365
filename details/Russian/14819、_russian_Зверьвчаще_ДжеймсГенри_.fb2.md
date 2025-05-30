@@ -8,7 +8,7 @@
 14819、_russian_Зверь в чаще_Джеймс Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7349378c3f8580d19a93e673f2d44412

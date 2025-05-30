@@ -8,7 +8,7 @@
 10419、_ukrainian_Вогнесм_х_Бердник Олесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4e399021fe5ff8d61a4c84d77d89de4

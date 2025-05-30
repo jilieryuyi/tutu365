@@ -8,7 +8,7 @@
 11875、_russian_Падение_Камю Альбер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5bc340bce70e7b4408278746b50a8ea

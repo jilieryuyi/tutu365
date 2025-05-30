@@ -8,7 +8,7 @@
 6215、_russian_Улица Марата_Гейгер Гюнтер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 570b36744abd0b99f22ee2d99671d181

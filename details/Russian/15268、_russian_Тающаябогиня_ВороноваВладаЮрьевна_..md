@@ -8,7 +8,7 @@
 15268、_russian_Тающая богиня_Воронова Влада Юрьевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba2433e757256eadc70146e5ad5ed4ba

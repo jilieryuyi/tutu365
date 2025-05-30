@@ -8,7 +8,7 @@
 12068、_russian_Люди облаков_Келли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e19acf60c3c21174adb22843b4bb1e81

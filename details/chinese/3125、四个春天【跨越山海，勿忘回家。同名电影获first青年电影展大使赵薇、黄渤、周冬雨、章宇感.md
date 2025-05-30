@@ -8,7 +8,7 @@
 3125、四个春天【跨越山海，勿忘回家。同名电影获first青年电影展大使赵薇、黄渤、周冬雨、章宇感动推荐！】_陆庆屹_南海出版公司.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 54967c7440183acc5092cbe10c3096ab

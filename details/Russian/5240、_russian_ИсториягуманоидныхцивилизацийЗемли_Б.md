@@ -8,7 +8,7 @@
 5240、_russian_История гуманоидных цивилизаций Земли_Бореев Г. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77f9f32c7893bf8f5030498d1d6af8d0

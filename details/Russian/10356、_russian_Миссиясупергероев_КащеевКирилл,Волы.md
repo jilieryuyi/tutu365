@@ -8,7 +8,7 @@
 10356、_russian_Миссия супергероев_Кащеев Кирилл, Волынская Илона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06b1070ff69e9f83444b9a4ad1a3ae40

@@ -8,7 +8,7 @@
 5798、_russian_Взгляд Горгоны_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfc2bca91c3e90f339c3e93754772c61

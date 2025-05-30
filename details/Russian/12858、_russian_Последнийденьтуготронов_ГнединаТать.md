@@ -8,7 +8,7 @@
 12858、_russian_Последний день туготронов_Гнедина Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11b130fcdebbcb1b45a7321cc67230f5

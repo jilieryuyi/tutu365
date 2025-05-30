@@ -8,7 +8,7 @@
 679、_russian_100 великих замков_Ионин Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8d5c0b4ac764804db3e62dd7732f465

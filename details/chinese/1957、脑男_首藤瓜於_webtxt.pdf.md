@@ -8,7 +8,7 @@
 1957、脑男_首藤瓜於_web txt.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d2277e55c12aad643e1d4379aaefd2bc

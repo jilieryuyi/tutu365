@@ -8,7 +8,7 @@
 13952、_russian_От всего сердца_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b893beb2947a699f18c141e1445f447b

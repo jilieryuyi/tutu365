@@ -8,7 +8,7 @@
 4897、_english_F is For Fugitive_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a63f10a7b9c1530ec569b02d8f68c8cf

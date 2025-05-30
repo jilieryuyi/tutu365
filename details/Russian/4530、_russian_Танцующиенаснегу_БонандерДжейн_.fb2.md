@@ -8,7 +8,7 @@
 4530、_russian_Танцующие на снегу_Бонандер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef5f978d4545d0dda487b673b7203e7f

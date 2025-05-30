@@ -8,7 +8,7 @@
 1692、_russian_Дороги свободы. I.Возраст зрелости_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3864104d0e71b6a0c0e60e78bc0c78b

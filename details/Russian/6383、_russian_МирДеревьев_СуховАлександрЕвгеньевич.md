@@ -8,7 +8,7 @@
 6383、_russian_Мир Деревьев_Сухов Александр Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 897f3c6003fb408fdf653999692c430c

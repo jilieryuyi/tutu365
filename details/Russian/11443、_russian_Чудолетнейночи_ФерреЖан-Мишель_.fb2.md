@@ -8,7 +8,7 @@
 11443、_russian_Чудо летней ночи_Ферре Жан-Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a65603abbaef71763a6183fa2a509bf

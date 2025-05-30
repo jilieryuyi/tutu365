@@ -8,7 +8,7 @@
 351、甜甜圈经济学_【英】凯特·拉沃斯（Kate Raworth） & 闾佳译 [Raworth）, 【英】凯特·拉沃斯（Kate & 闾佳译]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e2dc61b45376f519ea0cf49a814ad6ea

@@ -8,7 +8,7 @@
 3826、_russian_Извлечение троих_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bee5c1ab0b4a1769995993cda332b00f

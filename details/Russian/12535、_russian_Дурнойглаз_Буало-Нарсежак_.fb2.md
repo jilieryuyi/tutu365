@@ -8,7 +8,7 @@
 12535、_russian_Дурной глаз_Буало-Нарсежак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 879edc3781e1ce480f8716b7149a5576

@@ -8,7 +8,7 @@
 11935、_russian_Один выстрел_Чайлд Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98c93c0f358dbc9e169cddf184ff4922

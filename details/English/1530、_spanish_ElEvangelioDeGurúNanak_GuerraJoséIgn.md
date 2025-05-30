@@ -8,7 +8,7 @@
 1530、_spanish_El Evangelio De Gurú Nanak_Guerra José Ignacio_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a89821f2dfafdbadd3165add46f7a773

@@ -8,7 +8,7 @@
 1576、_russian_Так люди этим занимаются_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07ee471d406f8607a54903c3c69b3d4a

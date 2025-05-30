@@ -8,7 +8,7 @@
 12629、_russian_Саксонский сад_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b769c23dd8cea95fb7e21d56e9759d15

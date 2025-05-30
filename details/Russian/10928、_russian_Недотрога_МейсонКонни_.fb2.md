@@ -8,7 +8,7 @@
 10928、_russian_Недотрога_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18efb4294c9a7993126ac73877c255dc

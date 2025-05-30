@@ -8,7 +8,7 @@
 485、学校不教的性爱课 (BookDNA情感书系)_走走_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f611cc6177d614ecd7d4cbfd9c2c1097

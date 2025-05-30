@@ -8,7 +8,7 @@
 5768、_russian_Переписка_Эфрон Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5fce4de8c114cac31a62e2d497d41b7

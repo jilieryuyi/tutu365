@@ -8,7 +8,7 @@
 1529、精力管理：管理精力，而非时间 互联网+时代顺势腾飞的关键_（美）吉姆_洛尔（Jim Loehr），（美）托尼_施瓦茨（Tony Schwartz）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b2b0b70c6296a020ad2ee023ab540139

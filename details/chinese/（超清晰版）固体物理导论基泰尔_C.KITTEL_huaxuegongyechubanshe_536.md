@@ -8,7 +8,7 @@
 （超清晰版）固体物理导论 基泰尔_C.KITTEL_huaxuegongyechubanshe_5362133_86286d948dd45898b4323fcb1a4ace4a.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 86286d948dd45898b4323fcb1a4ace4a

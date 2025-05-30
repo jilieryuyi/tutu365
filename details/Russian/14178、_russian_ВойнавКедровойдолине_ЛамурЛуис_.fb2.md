@@ -8,7 +8,7 @@
 14178、_russian_Война в Кедровой долине_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 998028073c4c9ce2957d4ea72ed75e31

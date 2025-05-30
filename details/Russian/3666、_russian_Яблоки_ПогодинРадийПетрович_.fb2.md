@@ -8,7 +8,7 @@
 3666、_russian_Яблоки_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 784fe7ecb76501f8ba2e5149f87cb613

@@ -8,7 +8,7 @@
 9810、_russian_Идем в гости!_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6588bcfbc00bfad61aab136f9e41ac8

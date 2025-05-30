@@ -8,7 +8,7 @@
 7844、_russian_День после конца света_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2675c3aef5169e9b1872c9f77742d58b

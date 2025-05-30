@@ -8,7 +8,7 @@
 457、_russian_Учитель (Евангелие от Иосифа)_Джин Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63ed2f7f51495ec4ef947544a9225f47

@@ -8,7 +8,7 @@
 3990、_russian_Одиночка_Логинов Святослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3034fb2aafb040f2b5190a025102d181

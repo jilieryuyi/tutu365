@@ -8,7 +8,7 @@
 1344、像扎克伯格一样思考：Facebook天才CEO的五个商业秘密(易宝支付联合创始人余晨亲自作序推荐，揭秘互联网商业奇才的成功思维方式)_埃克特里娜·沃尔特_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 efb6da0252f1980ca034ef624f630b3f

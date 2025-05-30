@@ -8,7 +8,7 @@
 23、成为作家（创意写作书系）_多萝西娅·布兰德(Dorothea Brande)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f933bece7ebb6692425d3d63e5707f35

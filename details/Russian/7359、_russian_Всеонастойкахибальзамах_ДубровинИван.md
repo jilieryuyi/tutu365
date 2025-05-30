@@ -8,7 +8,7 @@
 7359、_russian_Все о настойках и бальзамах_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7780f8c3dbfa2f67e6b73f7822c96728

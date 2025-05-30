@@ -8,7 +8,7 @@
 8286、_english_All's Fair in Love and Scandal_Caroline Linden_HarperCollins.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9b2781b52aa9ce367c8394a785032de6

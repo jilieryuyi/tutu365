@@ -8,7 +8,7 @@
 11084、_russian_Средневековый варвар_Лондон Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d78d6f0c25964e88fa6703d7196e22bf

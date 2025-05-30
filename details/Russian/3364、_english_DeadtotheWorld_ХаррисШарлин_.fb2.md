@@ -8,7 +8,7 @@
 3364、_english_Dead to the World_Харрис Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b343d5ba7c15dacfc9a8aaf9e64c6d81

@@ -8,7 +8,7 @@
 14471、_russian_Моби Дик_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9697f4feb4019b0e1d352fc3ef75016

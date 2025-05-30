@@ -8,7 +8,7 @@
 7746、_russian_Четверо в тельняшках_Кузьмин Лев Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e90dc8e55f154dc39f7e084a25fe6d35

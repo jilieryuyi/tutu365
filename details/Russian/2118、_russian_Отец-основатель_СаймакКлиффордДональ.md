@@ -8,7 +8,7 @@
 2118、_russian_Отец-основатель_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6f0224aa6415dda784b2a79aeda3be9

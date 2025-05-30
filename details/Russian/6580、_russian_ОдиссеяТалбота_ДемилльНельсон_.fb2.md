@@ -8,7 +8,7 @@
 6580、_russian_Одиссея Талбота_Демилль Нельсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0f5cbcdfc4f6460c947688abdb9f4f4

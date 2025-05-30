@@ -8,7 +8,7 @@
 2519、_russian_Избранное_Коклюшкин Виктор Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 159f2f05e3273cdba454f630ad0de243

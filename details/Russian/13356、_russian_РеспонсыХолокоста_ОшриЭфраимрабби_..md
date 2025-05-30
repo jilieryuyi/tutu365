@@ -8,7 +8,7 @@
 13356、_russian_Респонсы Холокоста_Ошри Эфраим рабби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3266cd9f4c1265166a67e7d81c6224d6

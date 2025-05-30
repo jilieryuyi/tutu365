@@ -8,7 +8,7 @@
 14172、_russian_Дорога на север_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c86b35da57f590288bd21147c3820302

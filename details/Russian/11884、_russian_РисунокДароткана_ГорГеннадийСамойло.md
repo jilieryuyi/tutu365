@@ -8,7 +8,7 @@
 11884、_russian_Рисунок Дароткана_Гор Геннадий Самойлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4e0354ee046ce83217f7f9b0f8b7f2b

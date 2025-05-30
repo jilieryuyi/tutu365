@@ -8,7 +8,7 @@
 4470、_russian_Честь смолоду_Первенцев Аркадий Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dd569874616be78d679d0e3593d91df

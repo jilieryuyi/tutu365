@@ -8,7 +8,7 @@
 12885、_russian_Калина красная_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c25ca8de2c3b5013bd736a5a848fde9

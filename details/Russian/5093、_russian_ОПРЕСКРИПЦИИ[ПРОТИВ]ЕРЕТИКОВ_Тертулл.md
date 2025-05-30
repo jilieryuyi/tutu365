@@ -8,7 +8,7 @@
 5093、_russian_О ПРЕСКРИПЦИИ [ПРОТИВ] ЕРЕТИКОВ_Тертуллиан Квинт Септимий Флорент_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 610f8675bc6c1d5128ebfdeafdfcfdf4

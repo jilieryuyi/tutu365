@@ -8,7 +8,7 @@
 7694、_russian_Судьба Широпаева_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ef796b240969f74c6d8f45461e2b7e5

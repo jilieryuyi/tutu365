@@ -8,7 +8,7 @@
 3436、_russian_Любовные чары_Арсеньева Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 678967048b9e59b8539eab4e34d91518

@@ -8,7 +8,7 @@
 10166、_ukrainian_Голос Неба_Лем Стан_слав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd11bab1ec4e6e2dd5082661e7277057

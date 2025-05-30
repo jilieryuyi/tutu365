@@ -8,7 +8,7 @@
 2544、_russian_Ковер жизни_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6b33dba30edf52022119790ba0350b1

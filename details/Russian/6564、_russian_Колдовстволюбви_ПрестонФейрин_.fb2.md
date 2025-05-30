@@ -8,7 +8,7 @@
 6564、_russian_Колдовство любви_Престон Фейрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f4259bfb1069b5359c709c4a93cc1b9

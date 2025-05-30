@@ -8,7 +8,7 @@
 12843、_russian_Дорога в будущее_Гейтс Билл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38d9bbec89758334e8610d7c66f5e686

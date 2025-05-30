@@ -8,7 +8,7 @@
 2610、_english_The Last of the Red-Hot Vampires_Макалистер Кейти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ad2fc7a5ed4248ba947f1322249b487

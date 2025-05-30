@@ -8,7 +8,7 @@
 779、_russian_Веснушки-беглянки_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 566db2e8955d044eba21351cc34ed3b6

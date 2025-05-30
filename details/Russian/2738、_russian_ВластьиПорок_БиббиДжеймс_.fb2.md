@@ -8,7 +8,7 @@
 2738、_russian_Власть и Порок_Бибби Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ee3717243ba20442dd0e77abc70c443

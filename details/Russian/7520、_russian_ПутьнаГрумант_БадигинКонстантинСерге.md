@@ -8,7 +8,7 @@
 7520、_russian_Путь на Грумант_Бадигин Константин Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6b3f5a97dc8ac44c3f2113dfb999675

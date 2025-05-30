@@ -8,7 +8,7 @@
 9106、_russian_Особа (этнографический очерк)_Хетагуров Коста Леванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d48e1d4a1ce4642b8d0b97f8b541faff

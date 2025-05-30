@@ -8,7 +8,7 @@
 13810、_russian_Зеленая веточка_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61a6b1c953700ed2498c8cbbbadbe004

@@ -8,7 +8,7 @@
 6149、_russian_Альпинист в седле с пистолетом в кармане_Рубинштейн Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a156df08604fa4ddfcffea0f4f77756

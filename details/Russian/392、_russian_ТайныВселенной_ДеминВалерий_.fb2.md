@@ -8,7 +8,7 @@
 392、_russian_Тайны Вселенной_Демин Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b12e2aaee8f8e20adc7012ef8073ed4

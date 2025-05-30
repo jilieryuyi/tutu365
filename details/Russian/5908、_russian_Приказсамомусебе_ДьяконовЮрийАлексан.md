@@ -8,7 +8,7 @@
 5908、_russian_Приказ самому себе_Дьяконов Юрий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 107b9f10a03ea73cce749158d8bb454b

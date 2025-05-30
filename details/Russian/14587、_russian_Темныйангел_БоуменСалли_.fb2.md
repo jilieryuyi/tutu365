@@ -8,7 +8,7 @@
 14587、_russian_Темный ангел_Боумен Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb07b804ccc5e65e9075af33f4eb58ca

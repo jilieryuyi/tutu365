@@ -8,7 +8,7 @@
 8697、_russian_Космические искатели приключений_Ранда Петер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11717266c3549ef5521f8db910efc82d

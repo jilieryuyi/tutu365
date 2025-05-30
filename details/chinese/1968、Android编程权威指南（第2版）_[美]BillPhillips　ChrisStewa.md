@@ -8,7 +8,7 @@
 1968、Android编程权威指南（第2版）_[美] Bill Phillips　Chris Stewart　Brian Hardy　Kristin Marsicano_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9a0757735ff04d3ac81fccf41f2f16f7

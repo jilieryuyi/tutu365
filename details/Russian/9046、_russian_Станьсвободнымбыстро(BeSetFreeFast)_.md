@@ -8,7 +8,7 @@
 9046、_russian_Стань свободным быстро (Be Set Free Fast)_Леушкин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b2b58510ca4890e5cb8bed583b2d63d

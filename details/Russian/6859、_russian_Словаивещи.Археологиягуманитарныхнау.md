@@ -8,7 +8,7 @@
 6859、_russian_Слова и вещи. Археология гуманитарных наук_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcbb0c2df6428c973be9bc0118942faa

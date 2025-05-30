@@ -8,7 +8,7 @@
 6128、_russian_Дорога китов_Лоу Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 084cf03b86fe827b746464c2f7889e49

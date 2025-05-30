@@ -8,7 +8,7 @@
 12901、_russian_Други игрищ и забав_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d488b2d8c7da26087321724ca18d37a

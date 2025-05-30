@@ -8,7 +8,7 @@
 419、_russian_Кровавый снег_Леруа Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5fd0ee6b648b85df4c46ac1da3aeb42

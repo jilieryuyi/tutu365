@@ -8,7 +8,7 @@
 12300、_russian_Плоскоглазое чудовище_Тенн Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39e6949382b1b7ab7a86014525f8fbc2

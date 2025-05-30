@@ -8,7 +8,7 @@
 2605、_russian_Бог как иллюзия_Докинз Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3626b9dc5d34e41771ce2e6f28beeb3

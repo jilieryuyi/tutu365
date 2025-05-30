@@ -8,7 +8,7 @@
 redis_cmd.chm.chm
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b116a7631583f0cef32a81a620d839cb

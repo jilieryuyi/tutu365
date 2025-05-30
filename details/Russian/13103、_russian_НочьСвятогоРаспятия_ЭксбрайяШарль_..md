@@ -8,7 +8,7 @@
 13103、_russian_Ночь Святого Распятия_Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebe4b818d482778a0ee405c29af502a3

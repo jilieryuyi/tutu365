@@ -8,7 +8,7 @@
 2740、_russian_Мой ласковый и грубый чародей_Фризнер Эстер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df939d964f23e5dfa1e25effc1d50e3b

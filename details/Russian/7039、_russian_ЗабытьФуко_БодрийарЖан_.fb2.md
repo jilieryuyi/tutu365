@@ -8,7 +8,7 @@
 7039、_russian_Забыть Фуко_Бодрийар Жан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afddf5edeabba9a23601efddf6d6132d

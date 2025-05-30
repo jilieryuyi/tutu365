@@ -8,7 +8,7 @@
 7828、_russian_Клинки надежды_Волков Алексей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d325020f59ff6fcaac4c2948ca40d308

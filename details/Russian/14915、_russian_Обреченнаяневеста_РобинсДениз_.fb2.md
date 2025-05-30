@@ -8,7 +8,7 @@
 14915、_russian_Обреченная невеста_Робинс Дениз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2de99a5d6fd671187f7b73a5fd7c18e

@@ -8,7 +8,7 @@
 9913、_russian_Пять ложек эликсира_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d33d1044048dbb650aa07fdff89503ec

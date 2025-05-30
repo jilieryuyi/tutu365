@@ -8,7 +8,7 @@
 5315、_russian_Ведьма отлива_Карр Джон Диксон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6df987d498f9ce6f34062db828fdbbcc

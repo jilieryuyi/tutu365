@@ -8,7 +8,7 @@
 10205、_russian_Приключения тряпичной Бальбиси_Броневская Янина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e97dea05711651eb712c7f7776439e2f

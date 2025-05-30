@@ -8,7 +8,7 @@
 1178、郁金香热_MIKE DASH_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8590fc87d58eeda095e88c11a06aa038

@@ -8,7 +8,7 @@
 11711、_russian_Затерянные во времени_Донован Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2e74c06928cc529fa4e2983449f8c30

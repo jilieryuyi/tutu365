@@ -8,7 +8,7 @@
 5354、_russian_Охотник на ведьм_Баумгертнер Ольга Гартвиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc94ae6a693748e1ea8e04afc1863b4d

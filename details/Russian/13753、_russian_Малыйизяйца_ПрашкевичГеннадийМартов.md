@@ -8,7 +8,7 @@
 13753、_russian_Малый из яйца_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3511a3128f6ba7676f71246feb474ee3

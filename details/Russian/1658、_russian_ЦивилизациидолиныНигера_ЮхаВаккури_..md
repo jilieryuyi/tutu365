@@ -8,7 +8,7 @@
 1658、_russian_Цивилизации долины Нигера_Юха Ваккури_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d8c7a4bbc32e36986d3ca5b9780338b

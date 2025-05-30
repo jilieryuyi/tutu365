@@ -8,7 +8,7 @@
 [P2P网络技术原理与C.开发案例].(张文，赵子铭).扫描版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2d54c098248bd447eb7a648010826aeb

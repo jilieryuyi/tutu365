@@ -8,7 +8,7 @@
 11919、_russian_Колесников_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae38383feda83ace971661e699bc2917

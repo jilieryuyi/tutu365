@@ -8,7 +8,7 @@
 9833、_russian_Смерть литератора_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d9d56fb9a405ba66a1eba97769124c0

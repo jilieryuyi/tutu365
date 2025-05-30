@@ -8,7 +8,7 @@
 11276、_russian_Лён_Андерсен Ганс Христиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 633dbb636df4e0a47837e6d667192a02

@@ -8,7 +8,7 @@
 10787、_russian_Портрет_Хаксли Олдос Леонард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d553e8515715000c62252a589c3f2233

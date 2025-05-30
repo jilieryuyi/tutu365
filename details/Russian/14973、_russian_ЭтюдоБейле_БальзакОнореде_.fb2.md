@@ -8,7 +8,7 @@
 14973、_russian_Этюд о Бейле_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8071311dedc9a089478f38ffe71e72ba

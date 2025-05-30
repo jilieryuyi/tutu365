@@ -8,7 +8,7 @@
 2167、_russian_Вариант _Ангола__Борисенко Игорь, Лапицкий Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9c91cf097b39be81ec3ad1d543f1e35

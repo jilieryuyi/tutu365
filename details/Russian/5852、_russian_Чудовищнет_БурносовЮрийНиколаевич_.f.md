@@ -8,7 +8,7 @@
 5852、_russian_Чудовищ нет_Бурносов Юрий Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c986cb6f7f0d56c3420034a33dea143

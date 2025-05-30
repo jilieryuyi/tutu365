@@ -8,7 +8,7 @@
 1111、_russian_Фальшивая нота_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a819cb0fdbc01ab8a4df51c75c68a29

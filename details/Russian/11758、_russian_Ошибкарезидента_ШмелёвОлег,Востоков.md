@@ -8,7 +8,7 @@
 11758、_russian_Ошибка резидента_Шмелёв Олег, Востоков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3536df8df430b54161f51bcfb7f75a0e

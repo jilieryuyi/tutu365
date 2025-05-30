@@ -8,7 +8,7 @@
 7222、_russian_Из сборника _Иней__Соловьева Поликсена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84d847194ff0c59f26f0ebb047f0f113

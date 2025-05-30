@@ -8,7 +8,7 @@
 11942、_russian_Ставки сделаны_Кивинов Андрей, Дудинцев Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d48d1b44ee5e65f9ff2d4b9a8a35cf1a

@@ -8,7 +8,7 @@
 12273、_russian_Смерть от экстаза_Нивен Ларри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f924e747a495c21f7b857e8cd34815a0

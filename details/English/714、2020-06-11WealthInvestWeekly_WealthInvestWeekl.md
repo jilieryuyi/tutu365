@@ -8,7 +8,7 @@
 714、2020-06-11 Wealth Invest Weekly_Wealth Invest Weekly_Wealth Invest Weekly.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4e3d5d3171a0e1596627d62a3d09ec0d

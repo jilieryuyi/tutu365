@@ -8,7 +8,7 @@
 2226、_russian_Женщина-трансформер_Нестерина Елена Вячеславовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b3b50c6f5de1358c49efafb913b2f65

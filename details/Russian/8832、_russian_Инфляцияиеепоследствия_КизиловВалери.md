@@ -8,7 +8,7 @@
 8832、_russian_Инфляция и ее последствия_Кизилов Валерий, Сапов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0debebf975f40eeb2772b59a18fce5db

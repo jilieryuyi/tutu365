@@ -8,7 +8,7 @@
 13584、_russian_Сущность зла_Фауст Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 466ec7dfd1a42d81caa9846d908a6274

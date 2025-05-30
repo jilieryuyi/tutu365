@@ -8,7 +8,7 @@
 12953、_russian_Собака и кошка_Чапек Карел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81082d3d1b681a09445cb8b1e1d7b2ce

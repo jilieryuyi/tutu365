@@ -8,7 +8,7 @@
 6837、_russian_Наезд_Спектр Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d7f0bc1d891e818b44e5de37c6ddb76

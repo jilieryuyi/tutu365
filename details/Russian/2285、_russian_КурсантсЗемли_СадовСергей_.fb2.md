@@ -8,7 +8,7 @@
 2285、_russian_Курсант с Земли_Садов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 757d928a8396bd6aacc01d393993921a

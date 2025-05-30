@@ -8,7 +8,7 @@
 7559、_english_The 6th Target_Patterson James, Paetro Maxine_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6a06538390be94e7e0dea3b8ffc1c1c7

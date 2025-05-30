@@ -8,7 +8,7 @@
 2803、_russian_Пессимизм ли_Ответ моим критикам_Шпенглер Освальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 598ec559de5cfcf9eab66a11552e75c2

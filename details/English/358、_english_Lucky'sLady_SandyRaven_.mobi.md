@@ -8,7 +8,7 @@
 358、_english_Lucky's Lady_Sandy Raven_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 731e502f52e7f406488d53c2a5a2e751

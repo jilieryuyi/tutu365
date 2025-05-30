@@ -8,7 +8,7 @@
 60、_english_КРОКОПОЭМЫ_Явчуновская Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 020b5cdf5110841836d26e0ebf33081f

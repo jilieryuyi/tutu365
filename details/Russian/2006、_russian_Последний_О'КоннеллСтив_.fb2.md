@@ -8,7 +8,7 @@
 2006、_russian_Последний_О'Коннелл Стив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57aeef496be6cd67fe70f7710b2c86dd

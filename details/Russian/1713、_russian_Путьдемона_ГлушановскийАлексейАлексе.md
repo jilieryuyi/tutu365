@@ -8,7 +8,7 @@
 1713、_russian_Путь демона_Глушановский Алексей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e592076b700da2ff56b4b3de0d68207a

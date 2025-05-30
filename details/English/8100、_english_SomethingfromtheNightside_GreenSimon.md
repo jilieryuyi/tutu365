@@ -8,7 +8,7 @@
 8100、_english_Something from the Nightside_Green Simon R_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7f9f0ebbc7a6f6022917cc1e7febc61b

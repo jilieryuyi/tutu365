@@ -8,7 +8,7 @@
 3637、_russian_Выиграй у судьбы в рулетку_Вагин Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ad983666e569939540dd4cf1c8f08d4

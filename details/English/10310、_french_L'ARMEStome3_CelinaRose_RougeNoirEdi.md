@@ -8,7 +8,7 @@
 10310、_french_L'ARMES tome 3_Celina Rose_Rouge Noir Editions.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 faf73a3db28747f0e26e95d7a5e1765d

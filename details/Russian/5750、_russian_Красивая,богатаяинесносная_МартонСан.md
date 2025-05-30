@@ -8,7 +8,7 @@
 5750、_russian_Красивая, богатая и несносная_Мартон Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6ee52593bb0434c8b7305454b282daa

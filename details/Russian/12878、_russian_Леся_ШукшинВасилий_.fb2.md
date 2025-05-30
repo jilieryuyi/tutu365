@@ -8,7 +8,7 @@
 12878、_russian_Леся_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cd34cdc6932dcf73714e5684bcadd90

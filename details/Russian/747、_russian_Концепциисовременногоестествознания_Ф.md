@@ -8,7 +8,7 @@
 747、_russian_Концепции современного естествознания_Филин С П_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e01fd4f48ce732aaac74dbee200dffc

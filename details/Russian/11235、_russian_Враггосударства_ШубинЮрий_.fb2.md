@@ -8,7 +8,7 @@
 11235、_russian_Враг государства_Шубин Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2afabb899a89afd006f29e9e9801f70

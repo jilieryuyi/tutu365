@@ -8,7 +8,7 @@
 12602、_russian_Дядя Миша_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6c3824ebbf0639ff3c01f0e6395fec6

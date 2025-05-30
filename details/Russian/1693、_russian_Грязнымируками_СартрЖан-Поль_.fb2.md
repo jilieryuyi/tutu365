@@ -8,7 +8,7 @@
 1693、_russian_Грязными руками_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb5d3fe93646605aa62da29ee1893d77

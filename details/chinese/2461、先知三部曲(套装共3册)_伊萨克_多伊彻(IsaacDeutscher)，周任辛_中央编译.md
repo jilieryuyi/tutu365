@@ -8,7 +8,7 @@
 2461、先知三部曲(套装共3册)_伊萨克_多伊彻(Isaac Deutscher)，周任辛_中央编译出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d802752602a39e761634455ad1930911

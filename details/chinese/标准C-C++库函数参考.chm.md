@@ -8,7 +8,7 @@
 标准C-C++库函数参考.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9277923d4de619c05e72e0eefa9479f4

@@ -8,7 +8,7 @@
 14171、_russian_Земля Сэкеттов_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 418b18ef927102db0b466c76491aa384

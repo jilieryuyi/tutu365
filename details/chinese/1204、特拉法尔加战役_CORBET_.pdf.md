@@ -8,7 +8,7 @@
 1204、特拉法尔加战役_CORBET_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e9a83d2f70c65e4cba779a3fc0cf0029

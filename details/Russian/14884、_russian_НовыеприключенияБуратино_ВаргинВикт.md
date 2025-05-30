@@ -8,7 +8,7 @@
 14884、_russian_Новые приключения Буратино_Варгин Виктория, Варгин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c62a6a9657896effff4ddd59f55862fb

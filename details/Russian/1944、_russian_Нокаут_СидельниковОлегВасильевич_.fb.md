@@ -8,7 +8,7 @@
 1944、_russian_Нокаут_Сидельников Олег Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a07272a58d711d10ccaf56c3e7b6d867

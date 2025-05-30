@@ -8,7 +8,7 @@
 2526、_english_Wicked Highland Lords_Tarah Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 04af69042ffb655c41f212316398bcde

@@ -8,7 +8,7 @@
 6103、_russian_Кормчие звезды. Книга лирики_Иванов Вячеслав Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c654b881ec51ef5a6f163ece934b4dc

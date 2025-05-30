@@ -8,7 +8,7 @@
 4936、_polish_Podmuchy Wiatru_Patterson James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bad63e96f99dad84dca8b279d514b2e8

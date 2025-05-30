@@ -8,7 +8,7 @@
 7383、_russian_Исповедник_Сильва Дэниел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6d8ebede10409b76b8b38209158d50f

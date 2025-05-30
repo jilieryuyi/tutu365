@@ -8,7 +8,7 @@
 11029、_russian_Райкины _пленники__Сотник Юрий Вячеславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a58ca0af4bee899f39069191cce62cc6

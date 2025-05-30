@@ -8,7 +8,7 @@
 2470、_russian_До скончания века_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5a5e1ee7dd658656979901b389054a2

@@ -8,7 +8,7 @@
 Mongodb -  数据库分析.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7b036bdd9e1fb2e39b109b0ab12a8c05

@@ -8,7 +8,7 @@
 8251、_russian_Цена чести_Адеев Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 084b8351bdb70d78836103a94348438e

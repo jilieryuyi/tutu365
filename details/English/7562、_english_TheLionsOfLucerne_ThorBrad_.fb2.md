@@ -8,7 +8,7 @@
 7562、_english_The Lions Of Lucerne_Thor Brad_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 be0c0849050036ba247ae510d79f775a

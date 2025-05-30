@@ -8,7 +8,7 @@
 14413、_russian_Снежный человек_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0989975abaf058db411871bff123d70c

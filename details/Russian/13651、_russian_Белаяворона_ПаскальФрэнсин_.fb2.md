@@ -8,7 +8,7 @@
 13651、_russian_Белая ворона_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35a45de29df41bdaee76b0c29ef7c7e5

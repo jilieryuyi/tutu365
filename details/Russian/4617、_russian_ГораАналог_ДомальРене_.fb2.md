@@ -8,7 +8,7 @@
 4617、_russian_Гора Аналог_Домаль Рене_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da166fe7cab6505d3c2f3c92d9f5f70b

@@ -8,7 +8,7 @@
 9056、_russian_Переселение душ_Голубев Глеб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47b764b5ec2a4d11cd62740282c3e27d

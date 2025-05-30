@@ -8,7 +8,7 @@
 13418、_russian_Черный день для паразитов_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9bd19c0bb715dbc3bce9d8b709247d3

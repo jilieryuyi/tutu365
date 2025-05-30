@@ -8,7 +8,7 @@
 3288、_russian_Смерть ради смерти_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7293f6f7f6dba5f2ef27d9b5b8e002bb

@@ -8,7 +8,7 @@
 7944、_russian_Седьмая луна_Габриэль Мариус_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db995422195faa81601d0164044ea5f4

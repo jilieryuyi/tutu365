@@ -8,7 +8,7 @@
 8647、_russian_Поиск. Какуан - Десять Быков Дзен_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 beb865ecb3030d31cfb306cb203ae46c

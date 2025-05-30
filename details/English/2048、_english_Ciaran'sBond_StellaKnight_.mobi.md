@@ -8,7 +8,7 @@
 2048、_english_Ciaran's Bond_Stella Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 94a71ac493bf5c5a882126d6b3fbdca9

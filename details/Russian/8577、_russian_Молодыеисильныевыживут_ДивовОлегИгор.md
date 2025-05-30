@@ -8,7 +8,7 @@
 8577、_russian_Молодые и сильные выживут_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91f619d486a5dfdb8762a55059e3edfd

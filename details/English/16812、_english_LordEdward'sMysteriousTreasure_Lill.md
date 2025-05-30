@@ -8,7 +8,7 @@
 16812、_english_Lord Edward's Mysterious Treasure_Lillian Marek_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8350f19f79ca004996f739b1f08ef3b7

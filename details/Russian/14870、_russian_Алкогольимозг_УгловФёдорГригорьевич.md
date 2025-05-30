@@ -8,7 +8,7 @@
 14870、_russian_Алкоголь и мозг_Углов Фёдор Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d514561c9aa0c6c0a9e463172b6d0377

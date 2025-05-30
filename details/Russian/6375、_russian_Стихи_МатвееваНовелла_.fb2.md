@@ -8,7 +8,7 @@
 6375、_russian_Стихи_Матвеева Новелла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c8e7396ec07cb58307b9e483290d058

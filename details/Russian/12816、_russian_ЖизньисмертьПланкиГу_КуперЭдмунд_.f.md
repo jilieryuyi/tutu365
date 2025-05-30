@@ -8,7 +8,7 @@
 12816、_russian_Жизнь и смерть Планки Гу_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 799c4fa60aa9a5cc31e8148e698fc0b4

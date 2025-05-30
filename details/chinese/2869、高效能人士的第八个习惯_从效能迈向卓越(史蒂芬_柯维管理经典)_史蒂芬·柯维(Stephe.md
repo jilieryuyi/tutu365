@@ -8,7 +8,7 @@
 2869、高效能人士的第八个习惯_从效能迈向卓越 (史蒂芬_柯维管理经典)_史蒂芬·柯维 (Stephen R.Covey)_中国青年出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c31d38a1208d60c882434a616cedcabe

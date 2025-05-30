@@ -8,7 +8,7 @@
 12485、_russian_Кораблики_Кавабата Ясунари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8668028a802bc8a70f702d717808a670

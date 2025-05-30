@@ -8,7 +8,7 @@
 12178、_russian_Человек и слон_Топелиус Сакариас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5af1b83d2c699c4f376e40cdc9b55499

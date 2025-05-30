@@ -8,7 +8,7 @@
 8055、_russian_Кукла по имени _Жизнь__Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12dc94033e7a4ec32443249782334b35

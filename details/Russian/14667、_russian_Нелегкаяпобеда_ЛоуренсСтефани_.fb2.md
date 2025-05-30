@@ -8,7 +8,7 @@
 14667、_russian_Нелегкая победа_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06f6f003d17a8881028ba999e1af1744

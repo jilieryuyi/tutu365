@@ -8,7 +8,7 @@
 6446、_ukrainian_Н_рвана, або Also Sprach Zarathustra_Подерв'янський Лесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8fcec9a3ebfae11f5346c21d4bad4416

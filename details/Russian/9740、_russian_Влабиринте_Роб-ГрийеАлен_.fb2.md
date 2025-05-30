@@ -8,7 +8,7 @@
 9740、_russian_В лабиринте_Роб-Грийе Ален_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66ea7c1f7066d9a5664a11394c958a7f

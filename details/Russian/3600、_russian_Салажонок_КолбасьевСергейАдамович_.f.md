@@ -8,7 +8,7 @@
 3600、_russian_Салажонок_Колбасьев Сергей Адамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 171b45c7a07162914317071c28a1b9db

@@ -8,7 +8,7 @@
 167、_russian_Бессмертие для избранных_Макинтош Дж. Т._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1401fa17f8b19b151263ed1277b26b71

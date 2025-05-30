@@ -8,7 +8,7 @@
 9730、_russian_Детоубийцы_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd4de65901b3a9808f375ecdf0dabd30

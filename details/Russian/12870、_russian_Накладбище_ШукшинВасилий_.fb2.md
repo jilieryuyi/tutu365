@@ -8,7 +8,7 @@
 12870、_russian_На кладбище_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35f5b4b4bcade2c67bd84fe4a9b39e20

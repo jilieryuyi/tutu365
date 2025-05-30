@@ -8,7 +8,7 @@
 5300、_russian_Шторм_Хесс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1210fed98ad155a13f33f8af29e65af

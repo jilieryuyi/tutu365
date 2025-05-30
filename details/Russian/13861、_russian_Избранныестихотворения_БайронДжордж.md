@@ -8,7 +8,7 @@
 13861、_russian_Избранные стихотворения_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c691918dae7e75e9fb5dcecf970fdaf

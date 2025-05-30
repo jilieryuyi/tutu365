@@ -8,7 +8,7 @@
 13、_english_The Herald's Heart_Rue Allyn_F+W Media.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8a82feb581cd54c05f7aac674a68fcfa

@@ -8,7 +8,7 @@
 11668、_russian_Крайняя маза_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e18c1f19bb11d72eb576dc3704b12060

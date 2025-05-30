@@ -8,7 +8,7 @@
 4360、_russian_Из жизни ангела_Ясюкевич Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a2e4cd521fb1b231a7637a7aba4c72f

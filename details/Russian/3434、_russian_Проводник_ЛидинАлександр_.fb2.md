@@ -8,7 +8,7 @@
 3434、_russian_Проводник_Лидин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4de1edc9066d4e96f107f055d41311a

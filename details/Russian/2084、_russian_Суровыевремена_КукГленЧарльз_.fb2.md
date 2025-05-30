@@ -8,7 +8,7 @@
 2084、_russian_Суровые времена_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65eafc619fd7173cbd75d6b7bc38baf3

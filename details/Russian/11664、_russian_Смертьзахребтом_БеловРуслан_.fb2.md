@@ -8,7 +8,7 @@
 11664、_russian_Смерть за хребтом_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e637ca7393067394f9905548601dc78

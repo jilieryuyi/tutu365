@@ -8,7 +8,7 @@
 8219、_russian_Рип Винклер - Рождение бога_Шабельник Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a84ecb16a965c64fd57610c9e8151764

@@ -8,7 +8,7 @@
 6291、_russian_Варвара и Золотая Баба_Зеленец Варвара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e937dd7841208071c050873e53fc123c

@@ -8,7 +8,7 @@
 5648、_russian_Жажда наслаждений_Дивайн тия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5203c93ccdf0714239655ba5f83c4609

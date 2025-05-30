@@ -8,7 +8,7 @@
 7129、_russian_Все о коньяке_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0a323cbe1ce2b7506bffda930593d49

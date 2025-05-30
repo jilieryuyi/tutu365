@@ -8,7 +8,7 @@
 8233、_russian_Древний. Корпорация._Тармашев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 176b03123398b31a70eb9be1a5f2e7b7

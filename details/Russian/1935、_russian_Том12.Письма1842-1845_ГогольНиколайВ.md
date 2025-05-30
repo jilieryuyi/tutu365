@@ -8,7 +8,7 @@
 1935、_russian_Том 12. Письма 1842-1845_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7880782346c29a7816bda0de25f7e12d

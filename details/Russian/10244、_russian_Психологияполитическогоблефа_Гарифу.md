@@ -8,7 +8,7 @@
 10244、_russian_Психология политического блефа_Гарифуллин Рамиль Рамзиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 409405aeaeb64dab6b1c4363fcf2c8a8

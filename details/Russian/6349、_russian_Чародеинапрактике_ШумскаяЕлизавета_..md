@@ -8,7 +8,7 @@
 6349、_russian_Чародеи на практике_Шумская Елизавета_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f170c7e1b62bf43842e54f3f94aa0556

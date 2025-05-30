@@ -8,7 +8,7 @@
 IE浏览器对象模型.txt.txt
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a2dfabb83963b73a17185afb5e653ab3

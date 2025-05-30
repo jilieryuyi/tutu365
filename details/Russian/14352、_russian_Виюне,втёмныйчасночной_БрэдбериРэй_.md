@@ -8,7 +8,7 @@
 14352、_russian_В июне, в тёмный час ночной_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed0bb36f92727db2a292501e65df8506

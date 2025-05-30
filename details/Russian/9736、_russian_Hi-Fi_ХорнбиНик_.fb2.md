@@ -8,7 +8,7 @@
 9736、_russian_Hi-Fi_Хорнби Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fab34b6b816bae456818f8a51d8f923e

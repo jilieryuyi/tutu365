@@ -8,7 +8,7 @@
 7037、_english_Simple Genius_Baldacci David_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 81933df4d44684bce70ec0a159ca2c44

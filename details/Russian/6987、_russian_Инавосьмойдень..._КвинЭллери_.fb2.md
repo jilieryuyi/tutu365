@@ -8,7 +8,7 @@
 6987、_russian_И на восьмой день..._Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfa85b600868976ff6fbcc1157af61c5

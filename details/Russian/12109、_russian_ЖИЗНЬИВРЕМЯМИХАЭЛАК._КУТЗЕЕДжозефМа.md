@@ -8,7 +8,7 @@
 12109、_russian_ЖИЗНЬ И ВРЕМЯ МИХАЭЛА К._КУТЗЕЕ Джозеф Максвелл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd1f88c4323d3f4a9a8c94d9c1e0dc51

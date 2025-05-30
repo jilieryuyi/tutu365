@@ -8,7 +8,7 @@
 7228、_russian_Одно другого интересней_Брошкевич Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c91ac4bbcca8968936bd23bf5fda6ff9

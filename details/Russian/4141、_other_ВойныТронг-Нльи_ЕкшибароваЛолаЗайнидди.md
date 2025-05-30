@@ -8,7 +8,7 @@
 4141、_other_Войны Тронг-Нльи_Екшибарова Лола Зайниддиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ad71dd58ccb1af091170eac36e67ce8

@@ -8,7 +8,7 @@
 4523、_russian_Пылкий любовник_Джонсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d1d6fb10c8fec2fb2dedad1cdd89bb8

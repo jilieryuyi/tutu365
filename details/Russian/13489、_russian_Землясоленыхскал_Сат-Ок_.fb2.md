@@ -8,7 +8,7 @@
 13489、_russian_Земля соленых скал_Сат-Ок_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b85c1660b12d60b99e74fa4590d7377

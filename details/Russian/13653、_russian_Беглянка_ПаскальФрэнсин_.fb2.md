@@ -8,7 +8,7 @@
 13653、_russian_Беглянка_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01c12236aab54f25da9646f75d9966d3

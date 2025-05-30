@@ -8,7 +8,7 @@
 13475、_russian_Дело прошлое_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97bd47ae9699ff01a3e88d8a652012f3

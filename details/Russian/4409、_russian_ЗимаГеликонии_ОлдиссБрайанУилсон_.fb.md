@@ -8,7 +8,7 @@
 4409、_russian_Зима Геликонии_Олдисс Брайан Уилсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5949706415468fcd4376b45c828a8676

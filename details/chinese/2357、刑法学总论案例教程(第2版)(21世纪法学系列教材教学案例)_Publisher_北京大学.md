@@ -8,7 +8,7 @@
 2357、刑法学总论案例教程(第2版) (21世纪法学系列教材教学案例)_Publisher           _ 北京大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2fa08bbe02bd66ea3a817b248e453b3d

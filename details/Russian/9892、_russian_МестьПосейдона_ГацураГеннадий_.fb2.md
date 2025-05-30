@@ -8,7 +8,7 @@
 9892、_russian_Месть Посейдона_Гацура Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f01b0b1f94ab4de184a907ccb91ca270

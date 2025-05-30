@@ -8,7 +8,7 @@
 7737、_russian_Чувство_Dianel Luchiel Samour_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8105017574b266a61873e8d2a7ffba2d

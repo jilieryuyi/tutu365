@@ -8,7 +8,7 @@
 12394、_russian_Удача_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 760ad47116bd767ab039fa90d63a249c

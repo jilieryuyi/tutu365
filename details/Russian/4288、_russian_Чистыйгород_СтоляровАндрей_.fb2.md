@@ -8,7 +8,7 @@
 4288、_russian_Чистый город_Столяров Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95e3c5b4e18cbe8efa55b3afcc3fd3cc

@@ -8,7 +8,7 @@
 14432、_russian_Паломничество Чайльд-Гарольда_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7fb29801b55001ec7b9506e8292deadc

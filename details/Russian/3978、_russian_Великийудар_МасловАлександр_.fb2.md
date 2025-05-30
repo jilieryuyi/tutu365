@@ -8,7 +8,7 @@
 3978、_russian_Великий удар_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64948cfb7c8b18dbc5792443c9be43d6

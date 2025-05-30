@@ -8,7 +8,7 @@
 10287、_russian_Дерзкая любовница_Барбьери Элейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ee3b2b7c0f6e96e458f9dce737ae199

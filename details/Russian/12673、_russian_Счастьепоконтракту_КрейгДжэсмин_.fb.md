@@ -8,7 +8,7 @@
 12673、_russian_Счастье по контракту_Крейг Джэсмин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97520f36626918ddd731c7c99da9925c

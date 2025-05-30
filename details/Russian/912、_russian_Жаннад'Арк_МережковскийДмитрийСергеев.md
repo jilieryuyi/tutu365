@@ -8,7 +8,7 @@
 912、_russian_Жанна д'Арк_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7a3cf0da7cb8114cd29a18595d76924

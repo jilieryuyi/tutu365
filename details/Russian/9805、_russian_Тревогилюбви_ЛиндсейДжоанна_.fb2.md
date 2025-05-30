@@ -8,7 +8,7 @@
 9805、_russian_Тревоги любви_Линдсей Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb5d4582a5aa9ae18561ae10285ce502

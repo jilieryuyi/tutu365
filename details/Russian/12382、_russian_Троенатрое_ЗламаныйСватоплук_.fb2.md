@@ -8,7 +8,7 @@
 12382、_russian_Трое на трое_Зламаный Сватоплук_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bc79ea9cbdbf7922abe88297c067a55

@@ -8,7 +8,7 @@
 11190、_french_Les Fourmis_Werber Bernard_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 df38dc60b09852b44534f291e4dfc790

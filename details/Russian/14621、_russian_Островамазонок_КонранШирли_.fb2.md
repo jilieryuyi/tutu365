@@ -8,7 +8,7 @@
 14621、_russian_Остров амазонок_Конран Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d804d4ebde65eb137f0951625eacc4d8

@@ -8,7 +8,7 @@
 6809、_russian_Беверли-Хиллз_Бут Пат_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88e6582104e6270dace7bb136969a901

@@ -8,7 +8,7 @@
 12202、_russian_Матёрый_Донской Сергей Георгиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ecbb991f6fe49bfbbb0ff43d4c23655

@@ -8,7 +8,7 @@
 3219、_russian_Мазепа_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eaac3d3f35493969ed981bf44e5dee42

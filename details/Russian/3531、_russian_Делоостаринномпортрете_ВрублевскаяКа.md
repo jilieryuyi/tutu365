@@ -8,7 +8,7 @@
 3531、_russian_Дело о старинном портрете_Врублевская Катерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62ae29385217d8bebc8717637d7f4911

@@ -8,7 +8,7 @@
 1110、_russian_Таких не убивают_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95df4b5e709c7479283705bb4602dcf8

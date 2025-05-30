@@ -8,7 +8,7 @@
 12147、_russian_Пескари_Онегов Анатолий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e89383423ad7acedc44bd1382edba1be

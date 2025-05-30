@@ -8,7 +8,7 @@
 14064、_russian_Отрок. Внук сотника (Часть 1-2)_Красницкий Евгений Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0c6c84ba91757b8137cbae1b9ee320e

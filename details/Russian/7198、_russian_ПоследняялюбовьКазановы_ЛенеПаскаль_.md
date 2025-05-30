@@ -8,7 +8,7 @@
 7198、_russian_Последняя любовь Казановы_Лене Паскаль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58259bbc2c0b0cc0f1400c1b358dadde

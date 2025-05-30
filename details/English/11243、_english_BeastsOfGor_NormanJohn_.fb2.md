@@ -8,7 +8,7 @@
 11243、_english_Beasts Of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 06310fe4238a49eeede56461619b5267

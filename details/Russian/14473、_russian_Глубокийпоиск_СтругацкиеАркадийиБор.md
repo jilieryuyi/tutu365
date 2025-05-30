@@ -8,7 +8,7 @@
 14473、_russian_Глубокий поиск_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d55d20f8eb950e8cf09f7547972f491

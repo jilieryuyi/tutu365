@@ -8,7 +8,7 @@
 “艺术”_【法】雅丝米娜·雷札（Yasmina Reza）;宫宝荣译__5540613_f832cbd496ec0fec446bf3a5ed646d8c.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f832cbd496ec0fec446bf3a5ed646d8c

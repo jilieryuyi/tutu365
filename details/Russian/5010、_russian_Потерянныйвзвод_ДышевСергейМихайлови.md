@@ -8,7 +8,7 @@
 5010、_russian_Потерянный взвод_Дышев Сергей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e039e3a0634eec51c6ec58ac864333ae

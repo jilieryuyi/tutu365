@@ -8,7 +8,7 @@
 8936、_russian_Его Величество 10 класс_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82ff5c8d5f45d62679000a04f0f8174a

@@ -8,7 +8,7 @@
 《JavaScript 语言参考》中文版.chw.chw
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bdeae8dd85eae99e6492ef2d741d9c09

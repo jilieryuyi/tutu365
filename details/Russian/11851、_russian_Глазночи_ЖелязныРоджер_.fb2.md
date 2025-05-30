@@ -8,7 +8,7 @@
 11851、_russian_Глаз ночи_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55d8507a8ff76da9a68f90d08c21092f

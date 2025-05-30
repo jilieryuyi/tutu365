@@ -8,7 +8,7 @@
 12481、_russian_Танцовщица из Идзу_Кавабата Ясунари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3003d9e18b51035718d31f99a635f5e

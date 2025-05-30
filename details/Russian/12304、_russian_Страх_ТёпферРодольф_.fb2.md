@@ -8,7 +8,7 @@
 12304、_russian_Страх_Тёпфер Родольф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7719e83c87d8196de26e170882742eb0

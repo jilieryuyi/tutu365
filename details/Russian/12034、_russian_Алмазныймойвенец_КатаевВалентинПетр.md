@@ -8,7 +8,7 @@
 12034、_russian_Алмазный мой венец_Катаев Валентин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a5eaa0a70d986e13c9da3038017b29e

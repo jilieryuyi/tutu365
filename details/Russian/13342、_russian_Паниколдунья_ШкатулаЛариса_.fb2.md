@@ -8,7 +8,7 @@
 13342、_russian_Пани колдунья_Шкатула Лариса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef32079ed248cf2e71e309c7c0ae6cf8

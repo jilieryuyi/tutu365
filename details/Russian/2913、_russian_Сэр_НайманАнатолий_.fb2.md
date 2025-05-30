@@ -8,7 +8,7 @@
 2913、_russian_Сэр_Найман Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 125e210ecdc8b8c17afddcaf7ba8eaf7

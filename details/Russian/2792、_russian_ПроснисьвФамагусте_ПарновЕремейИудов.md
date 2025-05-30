@@ -8,7 +8,7 @@
 2792、_russian_Проснись в Фамагусте_Парнов Еремей Иудович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1beb3a5028f29a8cc26facad41db09ce

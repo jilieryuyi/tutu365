@@ -8,7 +8,7 @@
 14025、_russian_Троянский катафалк_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6882880442f96ceec5538aa3e2f4a33

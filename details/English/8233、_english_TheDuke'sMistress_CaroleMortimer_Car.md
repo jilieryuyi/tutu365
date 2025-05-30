@@ -8,7 +8,7 @@
 8233、_english_The Duke's Mistress_Carole Mortimer_Carole Mortimer.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 81139cd7e918072dd7198df85ce29bfe

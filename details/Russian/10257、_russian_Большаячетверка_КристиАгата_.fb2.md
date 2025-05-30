@@ -8,7 +8,7 @@
 10257、_russian_Большая четверка_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81985151b2e30ed6399220d9d21fefdd

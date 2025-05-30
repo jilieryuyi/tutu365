@@ -8,7 +8,7 @@
 14187、_russian_Там, на сухой стороне_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7002f96e0ddfe6a62c4c84c6e3ed2898

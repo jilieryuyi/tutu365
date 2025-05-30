@@ -8,7 +8,7 @@
 After Effects CC 2018 高手成长之路_沈洁_清华大学出版社_5540141_13e85ebd277be5ab6e1e7ff2b21b05e0.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 13e85ebd277be5ab6e1e7ff2b21b05e0

@@ -8,7 +8,7 @@
 17045、_english_Autumn Duchess_Lucinda Brant_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 97e6cb8cd2d6eed0e220a1c08887587b

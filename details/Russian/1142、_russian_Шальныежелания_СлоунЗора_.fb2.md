@@ -8,7 +8,7 @@
 1142、_russian_Шальные желания_Слоун Зора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18337833e39b757544a98120b4ae5202

@@ -8,7 +8,7 @@
 7696、_russian_Гибнущая Земля_Yarowrath_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 368979442d3b66f3e7ef9c1b50da762c

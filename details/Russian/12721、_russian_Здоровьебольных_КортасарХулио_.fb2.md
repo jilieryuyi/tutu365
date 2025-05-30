@@ -8,7 +8,7 @@
 12721、_russian_Здоровье больных_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd03fbb911a4d92fd72bb5e67af7f499

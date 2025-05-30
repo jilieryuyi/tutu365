@@ -8,7 +8,7 @@
 12854、_russian_Аttalea princeps_Гаршин Всеволод Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 415b66105f4b15abb8d1a640b9cb7218

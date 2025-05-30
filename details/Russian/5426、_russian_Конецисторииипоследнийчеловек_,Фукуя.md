@@ -8,7 +8,7 @@
 5426、_russian_Конец истории и последний человек_, Фукуяма Фрэнсис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 056315fb6a692fcd5f83dcead4d882dd

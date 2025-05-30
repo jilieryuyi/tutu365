@@ -8,7 +8,7 @@
 2482、零度看張：重構張愛玲(CUHK Series)_沈雙_香港中文大學出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8e9d7a11a758d0ed0b1644a445ae88a5

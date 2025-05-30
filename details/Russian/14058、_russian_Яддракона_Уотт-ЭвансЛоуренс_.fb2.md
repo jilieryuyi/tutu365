@@ -8,7 +8,7 @@
 14058、_russian_Яд дракона_Уотт-Эванс Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9f6ef1f63d0b94dbfc6ff82603d8513

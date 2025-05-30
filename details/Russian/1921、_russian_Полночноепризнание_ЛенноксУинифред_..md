@@ -8,7 +8,7 @@
 1921、_russian_Полночное признание_Леннокс Уинифред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 766ca361b0efc07ea6fd867f450f3aed

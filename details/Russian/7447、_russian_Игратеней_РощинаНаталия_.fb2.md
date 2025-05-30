@@ -8,7 +8,7 @@
 7447、_russian_Игра теней_Рощина Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b76a8e709f966bae9598fb6e969d038

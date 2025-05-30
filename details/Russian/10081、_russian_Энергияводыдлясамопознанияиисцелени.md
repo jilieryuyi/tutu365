@@ -8,7 +8,7 @@
 10081、_russian_Энергия воды для самопознания и исцеления_Эмото Масару_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d08dbf3fe81c9f6698b19ca6216d0c85

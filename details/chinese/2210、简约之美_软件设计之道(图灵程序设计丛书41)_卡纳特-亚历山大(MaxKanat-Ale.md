@@ -8,7 +8,7 @@
 2210、简约之美_软件设计之道 (图灵程序设计丛书 41)_卡纳特-亚历山大 (Max Kanat-Alexander)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 53cc3b9d22ef554b585437ba270835a1

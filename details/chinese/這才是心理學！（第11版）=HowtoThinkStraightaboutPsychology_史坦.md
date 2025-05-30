@@ -8,7 +8,7 @@
 這才是心理學！（第11版）= How to Think Straight about Psychology_史坦諾維奇,Keith E. Stanovich_遠流出版_5489889_ef0b555033f18e0317dbfab8029ee216.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ef0b555033f18e0317dbfab8029ee216

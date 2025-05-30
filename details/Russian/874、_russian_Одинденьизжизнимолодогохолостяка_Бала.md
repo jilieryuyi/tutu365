@@ -8,7 +8,7 @@
 874、_russian_Один день из жизни молодого холостяка_Балабченков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fa01fc72a0e6627ad6349803fce179e

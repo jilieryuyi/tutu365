@@ -8,7 +8,7 @@
 6614、_russian_Змея в кулаке_Базен Эрве_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a3d3402c0689823bc87ad55df0d83b7

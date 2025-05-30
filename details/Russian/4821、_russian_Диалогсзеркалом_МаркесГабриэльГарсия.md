@@ -8,7 +8,7 @@
 4821、_russian_Диалог с зеркалом_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a5cf54251d97c8ff3c522714f8e7c57

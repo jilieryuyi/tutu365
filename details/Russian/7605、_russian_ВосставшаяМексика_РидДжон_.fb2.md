@@ -8,7 +8,7 @@
 7605、_russian_Восставшая Мексика_Рид Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54c01439253631d2607da34fd96fe0ca

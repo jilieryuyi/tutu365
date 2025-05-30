@@ -8,7 +8,7 @@
 11004、_russian_Оба хороши_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9354c69599128dd2c54a66c7f63ca03

@@ -8,7 +8,7 @@
 4406、_russian_Жесткий ночной тариф__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eedfa52afbe0cc224b44697abf4c6fe1

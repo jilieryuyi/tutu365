@@ -8,7 +8,7 @@
 7340、_russian_Пядь земли_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f663f7b20a3a0e9a9cbb2b2dccc9cd21

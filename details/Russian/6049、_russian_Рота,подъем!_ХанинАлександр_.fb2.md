@@ -8,7 +8,7 @@
 6049、_russian_Рота, подъем!_Ханин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd4a2eea54ca0df6dab1b2858a81dffd

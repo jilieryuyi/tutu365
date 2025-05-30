@@ -8,7 +8,7 @@
 15082、_russian_Соната _Аппассионата__Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c9f0ce79aebd27908a2a4b403a693b7

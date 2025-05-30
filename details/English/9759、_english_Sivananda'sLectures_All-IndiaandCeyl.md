@@ -8,7 +8,7 @@
 9759、_english_Sivananda's Lectures_ All-India and Ceylon Tour in 1950_Swami Venkatesananda_Divine Life Society.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 de56ed64d78cafd6cea68e99b88cd8b9

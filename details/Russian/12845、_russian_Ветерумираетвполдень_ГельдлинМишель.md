@@ -8,7 +8,7 @@
 12845、_russian_Ветер умирает в полдень_Гельдлин Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb2d90c7f607831c9e8bbc0970fc8ed9

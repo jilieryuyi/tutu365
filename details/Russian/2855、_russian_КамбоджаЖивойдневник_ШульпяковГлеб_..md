@@ -8,7 +8,7 @@
 2855、_russian_Камбоджа Живой дневник_Шульпяков Глеб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 642d3c714b56bebbcd34dbf373c84b31

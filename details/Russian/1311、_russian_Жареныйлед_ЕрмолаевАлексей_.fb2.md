@@ -8,7 +8,7 @@
 1311、_russian_Жареный лед_Ермолаев Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c65300a3a0a0cbbbc8834a3b6db346bf

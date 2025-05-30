@@ -8,7 +8,7 @@
 【中医】神农本草经(OCR).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 81531d1f0c2cabc5d3e41247f30ab365

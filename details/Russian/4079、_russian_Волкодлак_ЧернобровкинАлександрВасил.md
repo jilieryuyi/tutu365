@@ -8,7 +8,7 @@
 4079、_russian_Волкодлак_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa9f744a71d4a6cb82709b0db597cfc5

@@ -8,7 +8,7 @@
 13754、_russian_Погибель моя_Остапенко Юлия Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b36e3b27aa8103d37688e54e12af74b

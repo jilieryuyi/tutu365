@@ -8,7 +8,7 @@
 社会科学哲学_R.S.鲁德纳_生活·读书·新知三联书店_5475297_192bdfb809475bed674143134fe7f1f6.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 192bdfb809475bed674143134fe7f1f6

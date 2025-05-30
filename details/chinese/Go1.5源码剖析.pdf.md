@@ -8,7 +8,7 @@
 Go 1.5 源码剖析.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2f4e811e4f45d6d1855606a5ce8394f9

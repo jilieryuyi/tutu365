@@ -8,7 +8,7 @@
 865、_russian_Свободное радио Альбемута_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54ed7328ce6c17d812bccc95ddc2af0d

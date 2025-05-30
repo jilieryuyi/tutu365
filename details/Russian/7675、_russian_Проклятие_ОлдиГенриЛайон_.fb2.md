@@ -8,7 +8,7 @@
 7675、_russian_Проклятие_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b4d09c8960491dd63aa612dab689d3c

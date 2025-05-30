@@ -8,7 +8,7 @@
 1024、_russian_Жара в Архангельске-2_Стилл Оливия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89a8bef6829389ab1c54e9825b2bee81

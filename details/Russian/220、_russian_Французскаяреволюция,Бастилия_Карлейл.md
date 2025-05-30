@@ -8,7 +8,7 @@
 220、_russian_Французская революция, Бастилия_Карлейль Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 434588f6ab00ac5e4101baef0f359563

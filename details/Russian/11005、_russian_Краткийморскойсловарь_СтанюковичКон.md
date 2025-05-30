@@ -8,7 +8,7 @@
 11005、_russian_Краткий морской словарь_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e156bb3a52e1d4bf58d85e4f68f0265

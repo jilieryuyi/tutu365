@@ -8,7 +8,7 @@
 9873、_russian_Последний колдун_Личутин Владимир Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 443f1bfd197e7aac050718bef52a088c

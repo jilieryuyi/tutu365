@@ -8,7 +8,7 @@
 3203、_russian_Во власти соблазна_Грассо Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84a2ca029a80f1d3bf459d52632a7f66

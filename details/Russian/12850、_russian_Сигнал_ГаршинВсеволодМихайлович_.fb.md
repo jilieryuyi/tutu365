@@ -8,7 +8,7 @@
 12850、_russian_Сигнал_Гаршин Всеволод Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afc51e34d0826143de9985f92455eaa4

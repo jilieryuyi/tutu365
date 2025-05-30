@@ -8,7 +8,7 @@
 13206、_russian_Зеленая война_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 217fbc4a8e7619b019e1b37bfb073b0c

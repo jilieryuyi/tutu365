@@ -8,7 +8,7 @@
 9836、_russian_Лимоны никогда не лгут_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45ae0c3380341921e0b5c9123b3ac9ce

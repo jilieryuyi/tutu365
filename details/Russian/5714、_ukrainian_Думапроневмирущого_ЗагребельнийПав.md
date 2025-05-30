@@ -8,7 +8,7 @@
 5714、_ukrainian_Дума про невмирущого_Загребельний Павло Архипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e064c79a98c9853258e136c7e74ff3e

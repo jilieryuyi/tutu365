@@ -8,7 +8,7 @@
 10825、_russian_Экзамен_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4266706ab5ab5a72f16f6551fc65957d

@@ -8,7 +8,7 @@
 11521、_russian_Лики любви_Браунинг Дикси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7121973d0da9f1ba33ce6cf59f6f3e04

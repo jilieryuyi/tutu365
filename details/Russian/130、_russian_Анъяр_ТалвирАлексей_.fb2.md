@@ -8,7 +8,7 @@
 130、_russian_Анъяр_Талвир Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 739874e55df146172e37d8e197b8c452

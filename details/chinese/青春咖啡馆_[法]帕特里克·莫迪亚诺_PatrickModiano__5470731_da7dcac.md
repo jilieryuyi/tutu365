@@ -8,7 +8,7 @@
 青春咖啡馆_[法]帕特里克·莫迪亚诺 _ Patrick Modiano__5470731_da7dcacc4fa74a4c4e9b85da75c0be7f.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 da7dcacc4fa74a4c4e9b85da75c0be7f

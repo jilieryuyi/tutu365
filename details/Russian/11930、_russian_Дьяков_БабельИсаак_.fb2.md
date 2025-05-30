@@ -8,7 +8,7 @@
 11930、_russian_Дьяков_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3bd1653b50591c116f8a34d66ccc544

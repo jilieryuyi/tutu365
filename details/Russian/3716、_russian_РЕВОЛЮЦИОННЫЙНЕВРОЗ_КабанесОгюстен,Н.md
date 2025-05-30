@@ -8,7 +8,7 @@
 3716、_russian_РЕВОЛЮЦИОННЫЙ НЕВРОЗ_Кабанес Огюстен, Насс Леонард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be41190f9ecde30182d91b47b1827bcd

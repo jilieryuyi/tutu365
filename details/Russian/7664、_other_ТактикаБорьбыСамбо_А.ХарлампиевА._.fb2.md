@@ -8,7 +8,7 @@
 7664、_other_Тактика Борьбы Самбо_А. Харлампиев А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c720ecaa7586216f222a7072b493bb97

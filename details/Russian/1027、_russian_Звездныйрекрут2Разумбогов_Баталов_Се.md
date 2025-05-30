@@ -8,7 +8,7 @@
 1027、_russian_Звездный рекрут 2 Разум богов_Баталов _ Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 defa6adbb1c6dd7ef736b497cc42eec1

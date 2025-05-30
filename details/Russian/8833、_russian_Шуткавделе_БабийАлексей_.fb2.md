@@ -8,7 +8,7 @@
 8833、_russian_Шутка в деле_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99998e4b3ac9e600f85d98691e0af78a

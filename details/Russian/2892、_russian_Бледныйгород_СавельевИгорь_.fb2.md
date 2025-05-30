@@ -8,7 +8,7 @@
 2892、_russian_Бледный город_Савельев Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 435577b91743cbb85c8c24acce041972

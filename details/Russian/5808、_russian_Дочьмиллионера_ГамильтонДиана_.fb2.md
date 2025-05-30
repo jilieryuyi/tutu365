@@ -8,7 +8,7 @@
 5808、_russian_Дочь миллионера_Гамильтон Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a397f13854af4212045bd881ff0826d

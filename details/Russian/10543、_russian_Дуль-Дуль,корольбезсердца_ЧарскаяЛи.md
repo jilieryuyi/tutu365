@@ -8,7 +8,7 @@
 10543、_russian_Дуль-Дуль, король без сердца_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8efd31753fbba5c03c23cd77c1893721

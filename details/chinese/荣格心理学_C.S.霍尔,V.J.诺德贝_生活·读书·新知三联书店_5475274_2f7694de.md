@@ -8,7 +8,7 @@
 荣格心理学_C. S. 霍尔, V. J. 诺德贝_生活·读书·新知三联书店_5475274_2f7694deda18ef678a4cc12e6773a28f.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2f7694deda18ef678a4cc12e6773a28f

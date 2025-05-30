@@ -8,7 +8,7 @@
 1506、_russian_Мальчик с коньками_Яковлев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b45214d2f87019939552a66e007646f

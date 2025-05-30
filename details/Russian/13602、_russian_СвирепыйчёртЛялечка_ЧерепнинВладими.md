@@ -8,7 +8,7 @@
 13602、_russian_Свирепый чёрт Лялечка_Черепнин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c8bdafcffdbe671b1a0ef8ef8feb5b1

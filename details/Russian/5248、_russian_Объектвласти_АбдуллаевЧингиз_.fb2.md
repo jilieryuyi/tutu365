@@ -8,7 +8,7 @@
 5248、_russian_Объект власти_Абдуллаев Чингиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ef21761dfee850d4ab650bcc2be4b5f

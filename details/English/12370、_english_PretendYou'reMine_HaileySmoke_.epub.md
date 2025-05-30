@@ -8,7 +8,7 @@
 12370、_english_Pretend You're Mine_Hailey Smoke _.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8ae120ecad4dd47347115c4b9af2fe78

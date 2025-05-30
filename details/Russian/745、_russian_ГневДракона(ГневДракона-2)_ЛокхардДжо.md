@@ -8,7 +8,7 @@
 745、_russian_Гнев Дракона (Гнев Дракона - 2)_Локхард Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0da7ccbbdcb10251134f25a4cd2120c

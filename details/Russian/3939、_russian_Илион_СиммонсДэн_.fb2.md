@@ -8,7 +8,7 @@
 3939、_russian_Илион_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec6be96610aa246df877e9543ed56da9

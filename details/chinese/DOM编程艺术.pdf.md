@@ -8,7 +8,7 @@
 DOM编程艺术.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b0de85ecfaf684c3d64dc8935e6d2f23

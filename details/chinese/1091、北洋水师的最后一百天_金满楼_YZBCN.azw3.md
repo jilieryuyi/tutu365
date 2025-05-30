@@ -8,7 +8,7 @@
 1091、北洋水师的最后一百天_金满楼_YZBCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fa092c8ee5ecd80699e1e9255250fd5d

@@ -8,7 +8,7 @@
 5001、_russian_Микеланджело_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ed1d214b277f950deaac8a5819f23de

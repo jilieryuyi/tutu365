@@ -8,7 +8,7 @@
 12110、_english_Fifty Shades of Grey_E L James_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2eb1d3938f6c21daede7e36250ed2ba3

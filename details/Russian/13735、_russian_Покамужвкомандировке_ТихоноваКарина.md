@@ -8,7 +8,7 @@
 13735、_russian_Пока муж в командировке_Тихонова Карина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 827dc3649cc87efe33ec10bda4ea5e1e

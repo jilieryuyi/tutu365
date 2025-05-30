@@ -8,7 +8,7 @@
 13818、_russian_Двенадцатая планета_Ситчин Захария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61a695ad6180b9772f0372fdc8dbf8f4

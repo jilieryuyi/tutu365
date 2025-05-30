@@ -8,7 +8,7 @@
 3091、_russian_Кларки первый и единственный_Сомов Кирилл Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3d71a9d6005af1b4a7433859ff4ef83

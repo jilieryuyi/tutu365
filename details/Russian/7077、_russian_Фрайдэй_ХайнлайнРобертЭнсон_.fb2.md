@@ -8,7 +8,7 @@
 7077、_russian_Фрайдэй_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9544e13aaa4337ab7355a35f8ad99ab6

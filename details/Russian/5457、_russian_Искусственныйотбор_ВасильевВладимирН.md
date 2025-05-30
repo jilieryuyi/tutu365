@@ -8,7 +8,7 @@
 5457、_russian_Искусственный отбор_Васильев Владимир Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ef6a76e74e5b83281a89e13bb0e9f85

@@ -8,7 +8,7 @@
 6587、_russian_При реках Вавилонских_Демилль Нельсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56e906a384e71fb483b35ffdc91d92f1

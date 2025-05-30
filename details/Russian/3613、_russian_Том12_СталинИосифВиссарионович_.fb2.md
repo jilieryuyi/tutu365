@@ -8,7 +8,7 @@
 3613、_russian_Том 12_Сталин Иосиф Виссарионович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c2d799fcd32e38f5e0c0e6dae6ef564

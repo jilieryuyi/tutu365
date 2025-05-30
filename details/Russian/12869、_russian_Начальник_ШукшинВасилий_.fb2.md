@@ -8,7 +8,7 @@
 12869、_russian_Начальник_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df5c95d02454e9d906a803002e91e7ee

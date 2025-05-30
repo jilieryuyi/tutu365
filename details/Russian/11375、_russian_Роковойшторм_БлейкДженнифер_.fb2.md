@@ -8,7 +8,7 @@
 11375、_russian_Роковой шторм_Блейк Дженнифер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eef7ed9c635ca7cd21f04519f3e004b8

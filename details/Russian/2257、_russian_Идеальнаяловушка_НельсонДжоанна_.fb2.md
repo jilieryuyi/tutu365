@@ -8,7 +8,7 @@
 2257、_russian_Идеальная ловушка_Нельсон Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f7fef3c201fac1ec22fee30413121cd

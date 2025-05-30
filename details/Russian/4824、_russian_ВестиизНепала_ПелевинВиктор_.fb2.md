@@ -8,7 +8,7 @@
 4824、_russian_Вести из Непала_Пелевин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4422e1b9eedf8603bdd694bc7929405c

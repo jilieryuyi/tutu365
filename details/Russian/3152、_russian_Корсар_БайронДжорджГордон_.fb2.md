@@ -8,7 +8,7 @@
 3152、_russian_Корсар_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 183d102f8d0597ec195f9c43d8f50553

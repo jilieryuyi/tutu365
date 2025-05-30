@@ -8,7 +8,7 @@
 5684、_russian_Русская зарубежная поэзия_Терапиано Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 387e87a04155be423f198312106c9e8d

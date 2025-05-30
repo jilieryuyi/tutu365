@@ -8,7 +8,7 @@
 14640、_english_Seducing the Beast_Jayne Fresina_Lyrical Press, Inc..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 87223bc4c483287ab979db6b46719227

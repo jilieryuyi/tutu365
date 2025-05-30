@@ -8,7 +8,7 @@
 10344、_russian_Дневник заключенного. Письма_Дзержинский Феликс Эдмундович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 340cc3e34386e559caa5caae4dc00177

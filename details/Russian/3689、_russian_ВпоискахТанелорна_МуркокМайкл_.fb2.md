@@ -8,7 +8,7 @@
 3689、_russian_В поисках Танелорна_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4738faa6be32eb6fb83a035614435834

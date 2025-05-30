@@ -8,7 +8,7 @@
 10789、_russian_Любовь красного цвета_Боумен Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efb6da0252f1980ca034ef624f630b3f

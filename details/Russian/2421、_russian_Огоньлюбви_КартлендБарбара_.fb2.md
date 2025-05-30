@@ -8,7 +8,7 @@
 2421、_russian_Огонь любви_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 109c2db6492713a6cfe3eb3ca5924c74

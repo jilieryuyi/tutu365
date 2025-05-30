@@ -8,7 +8,7 @@
 15258、_russian_В то давно минувшее лето..._Мартон Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 843c7a0b08e1c9ba95ce060f0b0c33db

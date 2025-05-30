@@ -8,7 +8,7 @@
 5099、_russian_Чья это собака__Бабаев Эдуард Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c0fd2af25086cf7d11cff2cc2588050

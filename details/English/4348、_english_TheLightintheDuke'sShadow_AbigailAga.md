@@ -8,7 +8,7 @@
 4348、_english_The Light in the Duke's Shadow_Abigail Agar_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f59f4ce2ac78ffa1143cf629bcc5c774

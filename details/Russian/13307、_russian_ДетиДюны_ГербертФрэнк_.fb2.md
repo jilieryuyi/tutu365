@@ -8,7 +8,7 @@
 13307、_russian_Дети Дюны_Герберт Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b149490b570c87459e819d0ab672696

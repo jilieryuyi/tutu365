@@ -8,7 +8,7 @@
 4612、_russian_Лида_Чаковский Александр Борисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e5c90da9d9315b0f35dab3074de2881

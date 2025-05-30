@@ -8,7 +8,7 @@
 848、_russian_Заблудшая душа_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01fda57930cd5fc13b25a2957fd8fc63

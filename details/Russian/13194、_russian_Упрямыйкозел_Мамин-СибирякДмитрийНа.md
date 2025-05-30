@@ -8,7 +8,7 @@
 13194、_russian_Упрямый козел_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcbf73fb8e150e03c688b4c50de8926b

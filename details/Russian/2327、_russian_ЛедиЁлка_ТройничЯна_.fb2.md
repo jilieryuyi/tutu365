@@ -8,7 +8,7 @@
 2327、_russian_Леди Ёлка_Тройнич Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82ae8528847989757f7b4593a4630eea

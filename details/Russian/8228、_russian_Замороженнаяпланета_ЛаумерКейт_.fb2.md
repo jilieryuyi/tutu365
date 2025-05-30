@@ -8,7 +8,7 @@
 8228、_russian_Замороженная планета_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed8d55e052f6c2135bda231c90513a27

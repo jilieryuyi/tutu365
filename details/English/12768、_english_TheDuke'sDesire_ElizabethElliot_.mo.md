@@ -8,7 +8,7 @@
 12768、_english_The Duke's Desire_Elizabeth Elliot_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0bd398c010440ff97f8a19cf71d9cf90

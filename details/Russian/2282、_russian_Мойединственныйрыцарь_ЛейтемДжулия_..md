@@ -8,7 +8,7 @@
 2282、_russian_Мой единственный рыцарь_Лейтем Джулия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5dec055549fa36f01bb1e2bef982a49

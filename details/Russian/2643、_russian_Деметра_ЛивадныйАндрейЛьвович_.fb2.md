@@ -8,7 +8,7 @@
 2643、_russian_Деметра_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 182b249e95e69266c2e4392ceca155ec

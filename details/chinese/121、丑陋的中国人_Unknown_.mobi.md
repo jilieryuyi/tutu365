@@ -8,7 +8,7 @@
 121、丑陋的中国人_Unknown_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b144b14030a2e7969d60bd3abb53a91a

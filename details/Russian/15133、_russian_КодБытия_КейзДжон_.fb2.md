@@ -8,7 +8,7 @@
 15133、_russian_Код Бытия_Кейз Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f8cd73ee3d2c31b907cf27a170f2e34

@@ -8,7 +8,7 @@
 8535、_russian_Белбог_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1edb29dbfdc9da9ee00dfc1f0a25a8ee

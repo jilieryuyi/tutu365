@@ -8,7 +8,7 @@
 10137、_russian_Жажда. Роман о мести, деньгах и любви_Колышевский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45ea46c346a80deb43068fa247bcbd14

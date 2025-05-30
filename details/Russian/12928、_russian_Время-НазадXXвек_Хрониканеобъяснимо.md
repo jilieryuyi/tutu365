@@ -8,7 +8,7 @@
 12928、_russian_Время - Назад    XX век_ Хроника необъяснимого_Непомнящий Hиколай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbd922dba18cea955444f4ccf3253516

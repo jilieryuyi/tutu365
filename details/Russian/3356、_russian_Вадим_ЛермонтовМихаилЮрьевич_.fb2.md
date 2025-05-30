@@ -8,7 +8,7 @@
 3356、_russian_Вадим_Лермонтов Михаил Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85877e98ed34c8690c27c41ff9f66993

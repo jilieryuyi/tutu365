@@ -8,7 +8,7 @@
 2294、像计算机科学家一样思考（C++版)_Allen B. Downey_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f8f688fc20dc3a1491f69cf8f9d8959a

@@ -8,7 +8,7 @@
 成功竟然有公式：大數據科學揭露成功的祕訣_巴拉巴西（Albert-László Barabási） __5324268_5a3aee73999e4077ad0cb171f47f5e35.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5a3aee73999e4077ad0cb171f47f5e35

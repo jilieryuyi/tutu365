@@ -8,7 +8,7 @@
 [LINQ.Unleashed.for.C#(第1版)].(LINQ.Unleashed.for.C#).Paul.Kimmel.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 33cd62bc95e62d4228de64145a6acabb

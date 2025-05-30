@@ -8,7 +8,7 @@
 C语言函数库大全.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d0a24d73271ac0b63d29e7b2505e5bf0

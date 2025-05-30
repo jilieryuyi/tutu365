@@ -8,7 +8,7 @@
 2071、MongoDB权威指南(第2版) (图灵程序设计丛书)_霍多罗夫 (Kristina Chodorow)_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4933e8d42c479c62ce92f350dc61cb55

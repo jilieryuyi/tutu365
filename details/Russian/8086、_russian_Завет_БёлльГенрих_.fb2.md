@@ -8,7 +8,7 @@
 8086、_russian_Завет_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1039049bf0d6100f86d56e2adc882655

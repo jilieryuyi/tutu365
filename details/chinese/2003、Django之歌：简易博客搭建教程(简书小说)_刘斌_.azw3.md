@@ -8,7 +8,7 @@
 2003、Django之歌：简易博客搭建教程 (简书小说)_刘斌_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7f9f0ebbc7a6f6022917cc1e7febc61b

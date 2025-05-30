@@ -8,7 +8,7 @@
 2751、_russian_День нашей победы над Марсом_Ричардсон Морис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf658a35e173836e3d60c11a0e105637

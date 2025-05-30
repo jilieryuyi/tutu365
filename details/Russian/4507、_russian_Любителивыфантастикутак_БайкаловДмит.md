@@ -8,7 +8,7 @@
 4507、_russian_Любите ли вы фантастику так_Байкалов Дмитрий, Синицын Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fb0adab8fbae6e5360e6b98d3b53244

@@ -8,7 +8,7 @@
 7856、_russian_Грааль никому не служит_Басирин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afff1a46345316c77f0edac7733b9d6e

@@ -8,7 +8,7 @@
 5107、_russian_Формула бессмертия (сборник)_Днепров Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43cd052940ded091300b2bdab41f41c8

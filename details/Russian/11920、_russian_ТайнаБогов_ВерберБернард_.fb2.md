@@ -8,7 +8,7 @@
 11920、_russian_Тайна Богов_Вербер Бернард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90cdcc8d356e6fb0551ec61cf62c61c8

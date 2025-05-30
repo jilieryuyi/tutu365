@@ -8,7 +8,7 @@
 4724、_russian_Да-цзе-шу — искусство пресечения боя_Сенчуков Юрий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d85ac8ddf139b4cd16e8ae6fb05dd89

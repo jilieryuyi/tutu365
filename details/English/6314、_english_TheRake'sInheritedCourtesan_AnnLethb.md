@@ -8,7 +8,7 @@
 6314、_english_The Rake's Inherited Courtesan_Ann Lethbridge_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3060bd7355747b014a7054ef4568173c

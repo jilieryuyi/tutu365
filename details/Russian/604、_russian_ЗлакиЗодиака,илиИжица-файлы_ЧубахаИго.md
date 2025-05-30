@@ -8,7 +8,7 @@
 604、_russian_Злаки Зодиака, или Ижица-файлы_Чубаха Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1a44970a0ac6179e8b41c1fabc86568

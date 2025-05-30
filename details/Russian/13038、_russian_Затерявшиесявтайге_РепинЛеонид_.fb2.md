@@ -8,7 +8,7 @@
 13038、_russian_Затерявшиеся в тайге_Репин Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0669685f73b9181f85dac7654d1f4fe1

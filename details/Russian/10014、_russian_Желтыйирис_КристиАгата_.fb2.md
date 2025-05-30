@@ -8,7 +8,7 @@
 10014、_russian_Желтый ирис_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74902c5525d838576189a450fc1717bb

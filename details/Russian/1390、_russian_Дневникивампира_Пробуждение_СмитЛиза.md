@@ -8,7 +8,7 @@
 1390、_russian_Дневники вампира_ Пробуждение_Смит Лиза Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e480c7d8851a5f4ff47558bd0a63cecf

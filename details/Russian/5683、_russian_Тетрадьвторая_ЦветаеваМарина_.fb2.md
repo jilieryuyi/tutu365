@@ -8,7 +8,7 @@
 5683、_russian_Тетрадь вторая_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03c169cc980e90e57b9d65adff9be5aa

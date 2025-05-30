@@ -8,7 +8,7 @@
 6433、_russian_Джингл-Ко_Фрай Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 638337b100c39d1e84e2f55aeb434c8f

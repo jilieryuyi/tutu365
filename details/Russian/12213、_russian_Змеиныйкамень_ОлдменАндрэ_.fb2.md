@@ -8,7 +8,7 @@
 12213、_russian_Змеиный камень_Олдмен Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0db83b254374f1301d73406b63ed94c0

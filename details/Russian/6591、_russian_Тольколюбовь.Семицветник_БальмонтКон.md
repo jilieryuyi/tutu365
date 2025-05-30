@@ -8,7 +8,7 @@
 6591、_russian_Только любовь. Семицветник_Бальмонт Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27346d6d2cfc32563c2bfa6a77590c15

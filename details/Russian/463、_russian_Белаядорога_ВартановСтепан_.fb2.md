@@ -8,7 +8,7 @@
 463、_russian_Белая дорога_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e6711b2f532e7938b06e1936610d9ab

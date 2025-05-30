@@ -8,7 +8,7 @@
 7235、_russian_Не лучшее время для любви_Маккена Шеннон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f13cd2089d3b920b5bc58536ffe81e5e

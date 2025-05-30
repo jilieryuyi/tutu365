@@ -8,7 +8,7 @@
 13689、_russian_Стрихнин в супе_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6cbd6ceeb1e81938dd6606462ba7a89c

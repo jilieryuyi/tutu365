@@ -8,7 +8,7 @@
 7592、_russian_Сегодня - только гнев_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 33f4e861cb8b5749b347f34610fc02ea

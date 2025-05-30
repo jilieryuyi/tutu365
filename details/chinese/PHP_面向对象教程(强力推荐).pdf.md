@@ -8,7 +8,7 @@
 PHP_面向对象教程(强力推荐).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7ce64aafd0e1d9fe096e3e7ce48422d2

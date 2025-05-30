@@ -8,7 +8,7 @@
 14915、_italian_L'uomo che amava le tenebre_Dean R. Koontz; A. Caminiti [Caminiti, Dean R. Koontz; A.]_Sperling & Kupfer.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 76a3637b12e9a623db79d476ce81c19a

@@ -8,7 +8,7 @@
 11617、_russian_Дьявол и сеньорита Прим_Коэльо Пауло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 488dc1dc5d46d645496fca864be4279f

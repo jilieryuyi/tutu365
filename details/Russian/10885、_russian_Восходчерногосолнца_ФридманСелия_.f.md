@@ -8,7 +8,7 @@
 10885、_russian_Восход черного солнца_Фридман Селия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59cb3e5b6202940668800308b0e2400b

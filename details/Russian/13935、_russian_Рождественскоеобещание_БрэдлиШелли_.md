@@ -8,7 +8,7 @@
 13935、_russian_Рождественское обещание_Брэдли Шелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2a3ef9f038175dd6d74504c2344f2fd

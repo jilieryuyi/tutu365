@@ -8,7 +8,7 @@
 4752、_russian_Дрессировка Фрама_Домманже Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0d15f624e29905c90b91183bbd4370b6

@@ -8,7 +8,7 @@
 1000、_russian_Как я потерял первенство_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92239cb5fdd0f9ff32f1ae0700cf4075

@@ -8,7 +8,7 @@
 2624、_russian_Ты нужен Стальной Крысе_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bac3be7413134832cb331b0b5ae503f9

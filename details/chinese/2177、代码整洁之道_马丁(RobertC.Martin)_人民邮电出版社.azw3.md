@@ -8,7 +8,7 @@
 2177、代码整洁之道_马丁(Robert C. Martin)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 422dda8d6b1fa585df3cab410ae1f323

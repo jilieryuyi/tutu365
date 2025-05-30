@@ -8,7 +8,7 @@
 6662、_russian_Профиль клинка_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdc013302838149182f7477c2bbcb459

@@ -8,7 +8,7 @@
 5916、_russian_Врачу, исцелись сам!_Митрофанов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5f353069323263214bdd97de2117c48

@@ -8,7 +8,7 @@
 意识光谱（20周年纪念版）_肯•威尔伯 [ken·weierbo]__5372757_ab663de25d966d1c0a51c1204f68f590.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ab663de25d966d1c0a51c1204f68f590

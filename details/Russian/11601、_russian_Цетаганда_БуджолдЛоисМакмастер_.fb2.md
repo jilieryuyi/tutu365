@@ -8,7 +8,7 @@
 11601、_russian_Цетаганда_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5dc3a377c2a08ff9665be0d55fb5ee49

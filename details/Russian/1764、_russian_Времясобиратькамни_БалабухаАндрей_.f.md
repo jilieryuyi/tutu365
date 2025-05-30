@@ -8,7 +8,7 @@
 1764、_russian_Время собирать камни_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc23da164373baf0f818c2c08473b9d8

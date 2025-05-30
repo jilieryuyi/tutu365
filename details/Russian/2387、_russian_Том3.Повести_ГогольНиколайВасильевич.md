@@ -8,7 +8,7 @@
 2387、_russian_Том 3. Повести_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 606932c4f803d05bad735b3dcaee1e5d

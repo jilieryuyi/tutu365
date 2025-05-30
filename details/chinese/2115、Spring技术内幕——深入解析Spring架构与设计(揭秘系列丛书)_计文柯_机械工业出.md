@@ -8,7 +8,7 @@
 2115、Spring技术内幕——深入解析Spring架构与设计 (揭秘系列丛书)_计文柯_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6b01201cf9d197ea6b53aa3bb8079d0c

@@ -8,7 +8,7 @@
 7554、_english_Highlander's Savior_Barbara Bard_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1fb417ab4b2061dec352b876792ca6f9

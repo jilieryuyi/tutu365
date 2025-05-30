@@ -8,7 +8,7 @@
 11129、_russian_Кусок мяса_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdb91cedafacf3d9df8e5b83b11707f7

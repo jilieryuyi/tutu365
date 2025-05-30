@@ -8,7 +8,7 @@
 7045、__YOUNG'S COMPACT BIBLE DICTIONARY_Douglas Young_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e7e9ae9dac375cf4e74450ff2f910a46

@@ -8,7 +8,7 @@
 903、Word 长篇文档 排版技巧_版技巧_长篇文档出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3ea02777e5ba3485075cc363cdb50706

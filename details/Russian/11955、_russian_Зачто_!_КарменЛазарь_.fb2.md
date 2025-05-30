@@ -8,7 +8,7 @@
 11955、_russian_За что_!_Кармен Лазарь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44d1382815b417f0042c89eb8ecc363a

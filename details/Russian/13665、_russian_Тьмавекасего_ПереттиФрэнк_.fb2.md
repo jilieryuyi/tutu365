@@ -8,7 +8,7 @@
 13665、_russian_Тьма века сего_Перетти Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4a968201667b46692fbe27fd7ed4a0e

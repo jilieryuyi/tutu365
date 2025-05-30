@@ -8,7 +8,7 @@
 684、_russian_На серебряной планете (Рукопись с Луны)_Жулавский Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cd5f1f767c8658f98deb1e446fbd93c

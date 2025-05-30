@@ -8,7 +8,7 @@
 10977、_russian_Путешествие во времени_Уайз Айра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c5cbf6da2f715cb14a42cb21b4e095c

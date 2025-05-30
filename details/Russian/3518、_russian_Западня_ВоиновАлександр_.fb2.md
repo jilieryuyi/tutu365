@@ -8,7 +8,7 @@
 3518、_russian_Западня_Воинов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ee0013265a5c18067a95b1752bbf541

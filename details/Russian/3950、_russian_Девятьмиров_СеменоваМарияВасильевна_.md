@@ -8,7 +8,7 @@
 3950、_russian_Девять миров_Семенова Мария Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82f69b8b54fcfa8b1447255cfc31360d

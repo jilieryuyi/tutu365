@@ -8,7 +8,7 @@
 10717、_russian_Подтверждение (Лотерея)_Прист Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f646db89bc663420afc9992bc3c63a7

@@ -8,7 +8,7 @@
 13246、_russian_Война в Средние века_Контамин Филипп_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c45a02fd6a9e2d698a2c8438510fa4f3

@@ -8,7 +8,7 @@
 12617、_russian_Жестокое и странное_Корнуэлл Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 100a835c58079af9387d483a7d8deffb

@@ -8,7 +8,7 @@
 5685、_russian_Червонный валет_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a4ca16c227e6c73f1bf06b88dc9734b

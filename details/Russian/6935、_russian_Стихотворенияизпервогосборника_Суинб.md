@@ -8,7 +8,7 @@
 6935、_russian_Стихотворения из первого сборника_Суинберн Алджернон Чарлз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c23efb604b8d226809b0dc8e1e0cc88f

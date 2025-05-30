@@ -8,7 +8,7 @@
 10178、_russian_Лес. Рисунок на бересте._Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecfb1157dc703d5f41391999f5bd270b

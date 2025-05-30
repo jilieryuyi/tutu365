@@ -8,7 +8,7 @@
 6539、_russian_Сэнсэй III. Исконный Шамбалы_Новых Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31d9aee3c10ea31633c0fcc65e4cbe7d

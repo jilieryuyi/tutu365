@@ -8,7 +8,7 @@
 10902、_russian_Мертвая вода_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8218f0933ab5b9c4ff2af813d0dd0db8

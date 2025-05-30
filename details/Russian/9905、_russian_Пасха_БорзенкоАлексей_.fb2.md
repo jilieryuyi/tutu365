@@ -8,7 +8,7 @@
 9905、_russian_Пасха_Борзенко Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 037b0a7bbdd2ce93d3139700525225ba

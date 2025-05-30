@@ -8,7 +8,7 @@
 12520、_russian_Мечты сбываются_Мэтьюз Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f902ac47a9b51e5bf8b24fcf56d8cb3a

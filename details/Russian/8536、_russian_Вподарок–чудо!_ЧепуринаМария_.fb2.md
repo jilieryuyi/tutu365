@@ -8,7 +8,7 @@
 8536、_russian_В подарок – чудо!_Чепурина Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f34947e27a6a3cef30f24dcabbb65981

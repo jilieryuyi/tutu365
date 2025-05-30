@@ -8,7 +8,7 @@
 3713、_english_Living Dead in Dallas_Харрис Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 906a42ad13b4c4668447025795ddff59

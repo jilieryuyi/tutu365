@@ -8,7 +8,7 @@
 166、极端生存_（美）史蒂芬· 帕鲁比；安东尼· 帕鲁比, SoBooKs.cc [（美）史蒂芬· 帕鲁比；安东尼· 帕鲁比, SoBooKs.cc]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d025192e69bbbee5921a4c96a73836c3

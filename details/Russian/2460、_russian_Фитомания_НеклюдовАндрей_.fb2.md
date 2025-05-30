@@ -8,7 +8,7 @@
 2460、_russian_Фитомания_Неклюдов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c41275746ba6584d873798301e12ad01

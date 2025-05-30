@@ -8,7 +8,7 @@
 7231、_russian_Королевна и рыцари. Сказки_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 49bc2b3fd89b1551c97f669c1d532d59

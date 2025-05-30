@@ -8,7 +8,7 @@
 7970、_russian_Лужа_Автократов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 224c8f520d0296b7671be9e83c20783e

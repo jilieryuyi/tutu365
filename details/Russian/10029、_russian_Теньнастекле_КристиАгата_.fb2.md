@@ -8,7 +8,7 @@
 10029、_russian_Тень на стекле_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 871b74ff24a92639e33aeb5a05c35e64

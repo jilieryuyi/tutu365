@@ -8,7 +8,7 @@
 6830、_russian_Оптимальные размеры складного ножа_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 752d0af3d8cc41b3c810f4ebc542598f

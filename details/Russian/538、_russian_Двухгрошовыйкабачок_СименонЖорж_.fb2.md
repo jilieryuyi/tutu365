@@ -8,7 +8,7 @@
 538、_russian_Двухгрошовый кабачок_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57bc50793041616b6709575cfb84d228

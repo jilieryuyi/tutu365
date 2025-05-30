@@ -8,7 +8,7 @@
 15481、_english_The Emperor's Finest_Sandy Mitchell [Mitchell, Sandy]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 40b47e34f0038498db3673795876c12d

@@ -8,7 +8,7 @@
 C语言编程常见问题解答.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2c95ccdadf38151df4097fb0a1e50864

@@ -8,7 +8,7 @@
 9768、_russian_Нэк Меч_Энтони Пирс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a47fafb55743a8ef470b714cb6b39348

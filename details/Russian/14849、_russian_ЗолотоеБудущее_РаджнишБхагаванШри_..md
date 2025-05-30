@@ -8,7 +8,7 @@
 14849、_russian_Золотое Будущее_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bfac584c7db28a1470ec750b4e14ac4

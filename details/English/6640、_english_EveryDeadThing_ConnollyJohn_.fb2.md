@@ -8,7 +8,7 @@
 6640、_english_Every Dead Thing_Connolly John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1706beeb51c3bea7ed80351506affe65

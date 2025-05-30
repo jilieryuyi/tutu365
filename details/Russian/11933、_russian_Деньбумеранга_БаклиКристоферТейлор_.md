@@ -8,7 +8,7 @@
 11933、_russian_День бумеранга_Бакли Кристофер Тейлор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bd4cb91addbb4ff5667d399c7889dbd

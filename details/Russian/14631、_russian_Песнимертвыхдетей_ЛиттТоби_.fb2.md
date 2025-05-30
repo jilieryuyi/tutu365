@@ -8,7 +8,7 @@
 14631、_russian_Песни мертвых детей_Литт Тоби_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e12219f76c4bb5d3b2ce11d63e464241

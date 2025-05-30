@@ -8,7 +8,7 @@
 7326、_russian_Все об обычных яблоках_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37d7b75d6402ff603b80cd9370b7347a

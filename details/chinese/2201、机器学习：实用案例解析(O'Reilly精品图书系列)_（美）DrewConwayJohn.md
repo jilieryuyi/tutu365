@@ -8,7 +8,7 @@
 2201、机器学习：实用案例解析 (O'Reilly精品图书系列)_（美）DrewConwayJohnMylesWhite_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 780f3eb0d0a320d78b18763b07ceb742

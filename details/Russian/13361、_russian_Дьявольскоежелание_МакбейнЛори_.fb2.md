@@ -8,7 +8,7 @@
 13361、_russian_Дьявольское желание_Макбейн Лори_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a86a95d7f7479a29e905c486bfbed994

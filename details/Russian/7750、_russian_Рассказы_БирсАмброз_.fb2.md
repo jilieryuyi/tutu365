@@ -8,7 +8,7 @@
 7750、_russian_Рассказы_Бирс Амброз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17b8fd74c84ec30c9a88980ec531f7b4

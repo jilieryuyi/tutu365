@@ -8,7 +8,7 @@
 2997、_russian_Вальдес_Варламов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1c7d7cf0628dd9b6574a8487c106e62

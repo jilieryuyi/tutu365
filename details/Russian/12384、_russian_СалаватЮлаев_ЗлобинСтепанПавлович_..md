@@ -8,7 +8,7 @@
 12384、_russian_Салават Юлаев_Злобин Степан Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd1de58f0c1ceb90e2983ec1fc111c54

@@ -8,7 +8,7 @@
 12204、_russian_Не бойся, мама!_Думбадзе Нодар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 406450fdffe8a69bbf65c4fb0aefe93a

@@ -8,7 +8,7 @@
 2026、_russian_Рассказ пса_Перумов Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c7f757a4444c5c1dc2c92540f5d07e9

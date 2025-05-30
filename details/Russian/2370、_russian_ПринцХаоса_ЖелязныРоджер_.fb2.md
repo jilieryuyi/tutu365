@@ -8,7 +8,7 @@
 2370、_russian_Принц Хаоса_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e053619021459dbce3f432491d34426

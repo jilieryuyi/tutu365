@@ -8,7 +8,7 @@
 股票大作手操盘术_Jesse Livermore__5267911_194725df1fc7ff6529247b0a2a6032c2.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 194725df1fc7ff6529247b0a2a6032c2

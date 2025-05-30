@@ -8,7 +8,7 @@
 2642、_russian_Фабрика здоровья_, Смирнов Алексей Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96abbc3f3d9b777582f666a2c733d0da

@@ -8,7 +8,7 @@
 14152、_russian_Соль земли_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 17a0481e985cd15536250a6961128aab

@@ -8,7 +8,7 @@
 6840、_russian_Космическая опера_Вэнс Джек Холбрук_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab0ade7d44256d0eb6bc996b4dcf2082

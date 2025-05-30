@@ -8,7 +8,7 @@
 Head+First软件开发.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7aec49d6032d1447793f66dce442372d

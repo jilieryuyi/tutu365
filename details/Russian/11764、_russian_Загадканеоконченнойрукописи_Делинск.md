@@ -8,7 +8,7 @@
 11764、_russian_Загадка неоконченной рукописи_Делински Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3885b2fee06f9db9d825c801ededd8f

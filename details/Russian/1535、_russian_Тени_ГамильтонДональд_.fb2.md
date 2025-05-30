@@ -8,7 +8,7 @@
 1535、_russian_Тени_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8def7240822fb6234c867090f0da5a7e

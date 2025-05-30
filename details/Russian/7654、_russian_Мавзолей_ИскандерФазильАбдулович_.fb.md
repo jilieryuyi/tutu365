@@ -8,7 +8,7 @@
 7654、_russian_Мавзолей_Искандер Фазиль Абдулович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff3ded03efcfe75e47b39732238cfa28

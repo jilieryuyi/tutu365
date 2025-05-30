@@ -8,7 +8,7 @@
 3861、_russian_Давайте все убьём Констанцию_Брэдбери Рэй Дуглас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f43bb3c20b3d7c31a20f5e3b71273202

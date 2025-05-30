@@ -8,7 +8,7 @@
 13968、_english_The Highlander's Promise_Heather Grothaus_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e81d62fcade3f276843ccd9eed8517cd

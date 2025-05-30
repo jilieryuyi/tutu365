@@ -8,7 +8,7 @@
 133、美国总统 (图说天下·透过镜头系列)_Publisher           _ 吉林出版集团有限责任公司_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 87c23b2bac248ec189b436c1a81bd6e3

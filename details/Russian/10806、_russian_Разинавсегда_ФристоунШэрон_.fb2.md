@@ -8,7 +8,7 @@
 10806、_russian_Раз и навсегда_Фристоун Шэрон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1177ad2759ec9bb390e058338ee8c81a

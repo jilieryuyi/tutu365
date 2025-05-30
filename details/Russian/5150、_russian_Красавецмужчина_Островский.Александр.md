@@ -8,7 +8,7 @@
 5150、_russian_Красавец мужчина_Островский. Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e8a3b84169dca25e33af5a7ee25e065

@@ -8,7 +8,7 @@
 11688、_russian_Зеленый мальчик с пальчик_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f0cf6bfb2a754b0ea70760a528cd3e5

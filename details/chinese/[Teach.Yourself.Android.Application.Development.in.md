@@ -8,7 +8,7 @@
 [Teach.Yourself.Android.Application.Development.in.24.Hours.(2nd.2011.08)].Lauren.Darcey.文字版.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3940833718a2f9b6fc783c3ac9664f21

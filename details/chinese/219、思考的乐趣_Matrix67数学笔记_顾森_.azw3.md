@@ -8,7 +8,7 @@
 219、思考的乐趣_Matrix67数学笔记_顾森_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dd00a51abb84d0e89c20b7816b770eb4

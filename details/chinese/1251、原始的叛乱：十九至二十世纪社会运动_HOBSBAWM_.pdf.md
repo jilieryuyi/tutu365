@@ -8,7 +8,7 @@
 1251、原始的叛乱：十九至二十世纪社会运动_HOBSBAWM_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 745d705516ee569adaaec42a283b342c

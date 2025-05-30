@@ -8,7 +8,7 @@
 3179、法律的基础_Hubert Rottleuthner, Matthias Mahlmann_武汉大学出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2f0cfd8948a9150eca6e6d13d9cdf6d7

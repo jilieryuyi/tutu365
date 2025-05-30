@@ -8,7 +8,7 @@
 1303、营销革命 (特劳特商战经典)_阿尔·里斯(Al Ries)_机械工业出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6ab823ea2e5bffe6af10dca3af3328eb

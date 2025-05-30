@@ -8,7 +8,7 @@
 7954、_russian__Фирма приключений__Багряк Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c74b2b4b4fb8977d92c0fe4c83e95da2

@@ -8,7 +8,7 @@
 12122、_russian_Рука в перчатке_Стаут Рекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 500042cd21bb257ada495f271e291d5f

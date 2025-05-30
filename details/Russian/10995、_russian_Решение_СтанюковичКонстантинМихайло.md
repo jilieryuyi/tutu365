@@ -8,7 +8,7 @@
 10995、_russian_Решение_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2368081a1c1ee1e2d9aa673ba26df83

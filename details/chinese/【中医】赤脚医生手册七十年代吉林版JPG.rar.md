@@ -8,7 +8,7 @@
 【中医】赤脚医生手册七十年代吉林版 JPG.rar.rar
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b5b2b125975763324a746a5507292f1e

@@ -8,7 +8,7 @@
 13312、_russian_Укрощение горца_Макгрегор Кинли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07671afd5cc4ec92b58e679c16174e06

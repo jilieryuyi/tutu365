@@ -8,7 +8,7 @@
 [随记]使用CAB文件包进行ActiveX控件发布.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c0aeb1b3f50410d4bd2b94b72b187ff7

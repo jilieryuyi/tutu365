@@ -8,7 +8,7 @@
 2253、_russian_Магия чрезвычайных ситуаций_Коваль Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c63af6da03163635b58e1d0e90d4c630

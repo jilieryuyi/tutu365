@@ -8,7 +8,7 @@
 1864、_russian_Тигры Вероны_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59184b2b5e806cc7222585a53bbd0d86

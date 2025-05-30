@@ -8,7 +8,7 @@
 5364、_russian_Плоский человек_Сиск Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4149379f573cda142b2b1ad02e16b59

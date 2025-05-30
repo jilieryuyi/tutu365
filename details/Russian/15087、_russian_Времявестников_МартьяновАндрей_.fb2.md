@@ -8,7 +8,7 @@
 15087、_russian_Время вестников_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd05ebf515fa55fa19f3f536ae65fa46

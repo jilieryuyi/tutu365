@@ -8,7 +8,7 @@
 1861、_russian_Рассуждения дилетанта о киберпанке_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ca0d7cc6f0a8872272d4d7edfdda04a

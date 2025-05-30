@@ -8,7 +8,7 @@
 5678、_russian_Свет обратной стороны звезд_Петров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f80a180877126bf58b31b258072c8d4

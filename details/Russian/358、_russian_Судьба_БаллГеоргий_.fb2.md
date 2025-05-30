@@ -8,7 +8,7 @@
 358、_russian_Судьба_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f7e5ca86367aa5f22822fe5e0996365e

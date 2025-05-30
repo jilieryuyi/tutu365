@@ -8,7 +8,7 @@
 11621、_russian_Под знаменем пророчества_Зыков Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80428ac313c88867aa36129c4ecbe116

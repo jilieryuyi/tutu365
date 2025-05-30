@@ -8,7 +8,7 @@
 11690、_russian_В логове нечисти_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fdef30c41dc21331205a7d0cbd76633

@@ -8,7 +8,7 @@
 2730、_russian_Мы живем в мире модерна_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4afb1459e2fd2ccce4f1e333c2ec77d

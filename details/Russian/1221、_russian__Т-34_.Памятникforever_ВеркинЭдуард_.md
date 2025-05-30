@@ -8,7 +8,7 @@
 1221、_russian__Т-34_. Памятник forever_Веркин Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e303578d8a8e98235b359e8affefa77f

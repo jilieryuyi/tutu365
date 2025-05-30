@@ -8,7 +8,7 @@
 4908、_russian_Солярис (пер. Г.А. Гудимова и В.М. Перельман)_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1374bc0bc9c53f8d1f54da39a7854d6f

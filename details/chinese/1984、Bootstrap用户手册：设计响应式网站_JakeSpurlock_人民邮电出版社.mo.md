@@ -8,7 +8,7 @@
 1984、Bootstrap用户手册：设计响应式网站_Jake Spurlock_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d69d6d856809592f91e14ff254e9ad78

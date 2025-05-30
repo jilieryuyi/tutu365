@@ -8,7 +8,7 @@
 XML指南.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8f2e94d52bb35e3da28fc18c1fea33d3

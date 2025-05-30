@@ -8,7 +8,7 @@
 11158、_russian_А Чо_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b08047373dfe713badaa1b05860e9195

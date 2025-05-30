@@ -8,7 +8,7 @@
 6800、_russian_Укрощенная Элиза_Хазард Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 72f1052530f2fcd8d6e633d4bc60c3f6

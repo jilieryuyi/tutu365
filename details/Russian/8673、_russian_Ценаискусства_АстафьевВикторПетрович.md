@@ -8,7 +8,7 @@
 8673、_russian_Цена искусства_Астафьев Виктор Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf6be32bc71fe425f2d3698d15674617

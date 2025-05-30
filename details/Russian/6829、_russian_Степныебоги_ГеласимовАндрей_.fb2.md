@@ -8,7 +8,7 @@
 6829、_russian_Степные боги_Геласимов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ed178ca71ea151d3672a1f45d6fa1c1

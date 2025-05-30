@@ -8,7 +8,7 @@
 2240、_english_Legacy of Blood_Knaak Richard A._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 891596ff1062af24d20b0b19354a2d46

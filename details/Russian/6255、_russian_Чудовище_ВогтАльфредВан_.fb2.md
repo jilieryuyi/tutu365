@@ -8,7 +8,7 @@
 6255、_russian_Чудовище_Вогт Альфред Ван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8ed4d1cfaf8e9a3a38be4e33effbd9e

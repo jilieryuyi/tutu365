@@ -8,7 +8,7 @@
 12027、_russian_Спящий_Катаев Валентин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d99377e5cebe9ce0bd3e6a62731ef591

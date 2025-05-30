@@ -8,7 +8,7 @@
 312、_russian_Элаан из Трои_Блиш Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23f405f2f0cc0f482a3679e505d84813

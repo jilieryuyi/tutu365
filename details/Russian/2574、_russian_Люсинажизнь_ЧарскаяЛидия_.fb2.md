@@ -8,7 +8,7 @@
 2574、_russian_Люсина жизнь_Чарская Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50e877c728a4cd5a3efd89a52d70408f

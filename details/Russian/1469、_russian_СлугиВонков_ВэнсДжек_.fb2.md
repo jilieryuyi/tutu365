@@ -8,7 +8,7 @@
 1469、_russian_Слуги Вонков_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f75e3b5694bee418aa6b95974ed51d20

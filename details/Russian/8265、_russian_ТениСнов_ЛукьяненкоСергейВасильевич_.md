@@ -8,7 +8,7 @@
 8265、_russian_Тени Снов_Лукьяненко Сергей Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0afd16c66fec882e6ff5e9da34ae8c5f

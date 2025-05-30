@@ -8,7 +8,7 @@
 11374、_russian_Личная рана_Блейк Николас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f550dde6d68da8cdbcf10e9620f22a3e

@@ -8,7 +8,7 @@
 1728、_russian_Отзовись!_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74fb12f5c9205a83d1e0fb4d6c99b889

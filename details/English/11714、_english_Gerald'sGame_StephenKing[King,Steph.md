@@ -8,7 +8,7 @@
 11714、_english_Gerald's Game_Stephen King [King, Stephen]_Signet.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1eae27cffc9ee0790f6d2b9e0780cae5

@@ -8,7 +8,7 @@
 14084、_russian_Мастер_Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cbb2f9575b0b066c2b91c6f474ba1bc

@@ -8,7 +8,7 @@
 151、_english_A Thousand Miles to Freedom_Eunsun Kim [Kim, Eunsun]_St. Martin's Press.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 45c8e3e233739d2bf953fa883d68f5b7

@@ -8,7 +8,7 @@
 13585、_russian_Безграничная любовь_Фелден Джин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52e11424a669af46b27329215c6b03c2

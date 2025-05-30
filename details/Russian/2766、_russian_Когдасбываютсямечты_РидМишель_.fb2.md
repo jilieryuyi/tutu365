@@ -8,7 +8,7 @@
 2766、_russian_Когда сбываются мечты_Рид Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae307bad924c6362ccc2bb8b05dabc1c

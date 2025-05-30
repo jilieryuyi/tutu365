@@ -8,7 +8,7 @@
 3591、_russian_Сотки мне мечту_Макгиннес Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae7ed598e233242966180e00f4d6f664

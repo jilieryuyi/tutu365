@@ -8,7 +8,7 @@
 4139、_other_Мы уходим_Екшибарова Лола Зайниддиновна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bdd97f7241ca1212b3b46029bc8fece9

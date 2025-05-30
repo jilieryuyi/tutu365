@@ -8,7 +8,7 @@
 97、论人类不平等的起源和基础 (译林人文精选)_让-雅克·卢梭 (Jean-Jacques Rousseau)_译林出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ae7373dea2dc011bbe6a7b61d219cfe6

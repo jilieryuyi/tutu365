@@ -8,7 +8,7 @@
 9378、_russian_Иммануил Великовский_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6627e916bb5f1ce090ee319f184c73c4

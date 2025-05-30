@@ -8,7 +8,7 @@
 9809、_russian_Как принимать гостей_Лубенец Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4830261e610af87eab6228c96b2000c2

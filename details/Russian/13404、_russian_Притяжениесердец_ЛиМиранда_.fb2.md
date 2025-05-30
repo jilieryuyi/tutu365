@@ -8,7 +8,7 @@
 13404、_russian_Притяжение сердец_Ли Миранда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f526963f3bb1169c083105724a73062b

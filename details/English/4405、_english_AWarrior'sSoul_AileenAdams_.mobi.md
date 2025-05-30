@@ -8,7 +8,7 @@
 4405、_english_A Warrior's Soul_Aileen Adams_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8eb18f5871af4d7ceeb3241138ab902d

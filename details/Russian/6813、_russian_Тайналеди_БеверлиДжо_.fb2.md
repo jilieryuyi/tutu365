@@ -8,7 +8,7 @@
 6813、_russian_Тайна леди_Беверли Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41c90bb3f6ac328dcc3e1d42ad7a0345

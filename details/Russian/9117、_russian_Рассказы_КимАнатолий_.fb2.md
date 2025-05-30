@@ -8,7 +8,7 @@
 9117、_russian_Рассказы_Ким Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65cc4dbec3dce5048b4a259f8ba12d12

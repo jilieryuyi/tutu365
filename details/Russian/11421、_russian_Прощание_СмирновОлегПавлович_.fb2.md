@@ -8,7 +8,7 @@
 11421、_russian_Прощание_Смирнов Олег Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c0b8e61cf583f0ddfea2c87319d500b

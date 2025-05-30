@@ -8,7 +8,7 @@
 14921、_russian_Леди Стойкость_Робинсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6ae5a7565e9138cb5c6dfba1f9e8738

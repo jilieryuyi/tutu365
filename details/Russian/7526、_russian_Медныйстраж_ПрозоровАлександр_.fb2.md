@@ -8,7 +8,7 @@
 7526、_russian_Медный страж_Прозоров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1de4e74b5f3926f55857208bd6328da

@@ -8,7 +8,7 @@
 1136、_russian_Наёмник_Ахманов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afdba1e70251b676843c6bf5576230e3

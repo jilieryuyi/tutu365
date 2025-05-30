@@ -8,7 +8,7 @@
 3409、_english_Exposed_JA Konrath_JA Konrath.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6f1832479b2416830af7b6228a583ada

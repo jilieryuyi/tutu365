@@ -8,7 +8,7 @@
 3307、_russian_Фактическое перемещение_Пашковский Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56b3d7ce3bf8b9a5156130ec1679dcac

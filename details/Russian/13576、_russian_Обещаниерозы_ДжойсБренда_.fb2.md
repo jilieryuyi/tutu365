@@ -8,7 +8,7 @@
 13576、_russian_Обещание розы_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8042508032959aeea93173754eb1f7fb

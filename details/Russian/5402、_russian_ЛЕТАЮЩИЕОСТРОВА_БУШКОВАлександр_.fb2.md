@@ -8,7 +8,7 @@
 5402、_russian_ЛЕТАЮЩИЕ ОСТРОВА_БУШКОВ Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f1b74942ef0642aa24aaf16ee8f2de34

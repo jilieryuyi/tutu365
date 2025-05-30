@@ -8,7 +8,7 @@
 10812、_russian_Каменное море_Трусов Юрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a19000c694c42501888a01430fc71ed

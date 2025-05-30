@@ -8,7 +8,7 @@
 1954、_russian_Награды с невменяемым жюри_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d878748141b2569e96e79eb411eb8e90

@@ -8,7 +8,7 @@
 10325、_russian__Контрас_ на глиняных ногах_Проханов Александр Андреевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7396b4ec738ac320e5417a0607efaf2d

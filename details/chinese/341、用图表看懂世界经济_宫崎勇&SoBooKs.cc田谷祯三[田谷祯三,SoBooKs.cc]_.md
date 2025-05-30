@@ -8,7 +8,7 @@
 341、用图表看懂世界经济_宫崎勇 & SoBooKs.cc 田谷祯三 [田谷祯三, SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c996b4546ace6118c31c398e6d77f66f

@@ -8,7 +8,7 @@
 313、_english_The Duke's Obsession_Sandra Owens_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 00f1cf3a9f7b22b98e0ae4d9c25e493e

@@ -8,7 +8,7 @@
 13688、_russian_Хлопоты Лорда Эмсворта_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c6796903531dac536ca926d6005cee66

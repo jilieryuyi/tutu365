@@ -8,7 +8,7 @@
 15278、_russian_Виргинцы (книга 2)_Теккерей Уильям Мейкпис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea8619d83f5dda429c52cc4d0221c51e

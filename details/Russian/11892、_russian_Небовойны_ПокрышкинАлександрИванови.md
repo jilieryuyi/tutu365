@@ -8,7 +8,7 @@
 11892、_russian_Небо войны_Покрышкин Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2654356a212a194894fab1f191a0c178

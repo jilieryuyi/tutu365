@@ -8,7 +8,7 @@
 13824、_russian_Дикий рейс_Билль-Белоцерковский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0110e657e52b9a6bdd97dc2a28ba7e17

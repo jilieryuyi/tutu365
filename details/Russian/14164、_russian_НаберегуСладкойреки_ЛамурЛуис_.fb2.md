@@ -8,7 +8,7 @@
 14164、_russian_На берегу Сладкой реки_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ba44d2908658363f902e3a787fa63db3

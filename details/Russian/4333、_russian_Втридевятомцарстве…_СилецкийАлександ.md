@@ -8,7 +8,7 @@
 4333、_russian_В тридевятом царстве…_Силецкий Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4c1795d7cbff2c980facd9b62dc66f4

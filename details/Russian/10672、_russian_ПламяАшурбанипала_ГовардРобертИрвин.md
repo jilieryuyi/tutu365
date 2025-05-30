@@ -8,7 +8,7 @@
 10672、_russian_Пламя Ашурбанипала_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a1108d9c8fc4565d61942f92a04573f

@@ -8,7 +8,7 @@
 8790、_russian_Девушки выбирают героев_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 894d975a728abac62ea9acbfb6d4829b

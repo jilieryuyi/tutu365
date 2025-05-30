@@ -8,7 +8,7 @@
 2210、_russian_Устные рассказы_Ромм Михаил Ильич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46893cee029401bd2562b6c09f32a26f

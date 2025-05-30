@@ -8,7 +8,7 @@
 834、_russian_Не так, как у людей_Воскресенская Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d1acf3a20d450d78fd7ba5469c0c179

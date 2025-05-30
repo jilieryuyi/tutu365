@@ -8,7 +8,7 @@
 10924、_english_Trial by Desire_Courtney Milan_HQN.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7df897b9bb16871548cc09033a931835

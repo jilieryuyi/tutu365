@@ -8,7 +8,7 @@
 13783、_russian_Шесть шестых_Ильвовский Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2402883c6c356823ca1decdd4d45b15

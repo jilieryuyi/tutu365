@@ -8,7 +8,7 @@
 14063、_russian_Отрок. Бешеный Лис (Часть 3-4)_Красницкий Евгений Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bbe4d28906971d6c7af2f9318f4ab2a

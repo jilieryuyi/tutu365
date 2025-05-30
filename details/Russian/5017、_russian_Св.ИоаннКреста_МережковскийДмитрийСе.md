@@ -8,7 +8,7 @@
 5017、_russian_Св. Иоанн Креста_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39315a5a882e13f45a50f8fa2ceb6e0b

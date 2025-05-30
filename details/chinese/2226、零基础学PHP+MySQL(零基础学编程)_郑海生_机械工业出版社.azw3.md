@@ -8,7 +8,7 @@
 2226、零基础学PHP+MySQL (零基础学编程)_郑海生_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2736a5bfc2b8e61a14867acc5086d895

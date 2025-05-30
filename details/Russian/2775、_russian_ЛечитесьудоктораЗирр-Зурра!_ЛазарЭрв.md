@@ -8,7 +8,7 @@
 2775、_russian_Лечитесь у доктора Зирр-Зурра!_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 868ff01d103fed8137b629556ad34201

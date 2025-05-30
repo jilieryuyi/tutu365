@@ -8,7 +8,7 @@
 3942、_russian_Племя Тигра_Щепетов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e15e99dbea715af2efa1861ca2569755

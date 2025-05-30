@@ -8,7 +8,7 @@
 414、_russian_Последнее дело Трента_Бентли Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 190ade32c29581cc0098ade2704c4049

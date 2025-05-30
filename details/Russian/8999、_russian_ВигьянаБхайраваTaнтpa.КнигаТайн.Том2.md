@@ -8,7 +8,7 @@
 8999、_russian_Вигьяна Бхайрава Taнтpa. Книга Тайн. Том 2._Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bbba691c30fb885e25ce9c1bfa97d22

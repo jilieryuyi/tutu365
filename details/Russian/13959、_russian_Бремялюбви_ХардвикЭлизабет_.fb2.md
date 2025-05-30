@@ -8,7 +8,7 @@
 13959、_russian_Бремя любви_Хардвик Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28af61c9b7e4684c4f5048e777d078bd

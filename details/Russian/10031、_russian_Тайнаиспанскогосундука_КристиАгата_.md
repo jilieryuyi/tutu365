@@ -8,7 +8,7 @@
 10031、_russian_Тайна испанского сундука_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ad68395b8ce74891ec427161ee20d44

@@ -8,7 +8,7 @@
 10422、_russian_Рассказы о Чапаеве_Баныкин Виктор Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bda2190317613d0c9c9c788c9c00be38

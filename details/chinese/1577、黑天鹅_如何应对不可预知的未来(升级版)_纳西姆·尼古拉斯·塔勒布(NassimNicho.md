@@ -8,7 +8,7 @@
 1577、黑天鹅_如何应对不可预知的未来(升级版)_纳西姆·尼古拉斯·塔勒布(Nassim Nicholas Taleb)_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 313afaa9c28e427c4bafdb1f652370a9

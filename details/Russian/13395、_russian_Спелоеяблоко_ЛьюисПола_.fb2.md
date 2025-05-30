@@ -8,7 +8,7 @@
 13395、_russian_Спелое яблоко_Льюис Пола_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 681262b2f86dbfad09f8dc9cf536066f

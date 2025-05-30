@@ -8,7 +8,7 @@
 9514、_english_Salman Rushdie's Midnight's Children_Salman Rushdie [Rushdie, Salman]_Random House Publishing Group.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 20fc08b2bd2daf8e4f366287014fc0c8

@@ -8,7 +8,7 @@
 12148、_russian_Юркина луда_Онегов Анатолий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d97d480a81865eeab0c6743d1a73551

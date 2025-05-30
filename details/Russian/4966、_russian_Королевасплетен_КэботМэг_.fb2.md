@@ -8,7 +8,7 @@
 4966、_russian_Королева сплетен_Кэбот Мэг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27b158a0cc5dbc519effe94a89bd7afc

@@ -8,7 +8,7 @@
 855、_russian_Звездное наследие_Саймак Клиффорд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8853e4d6b3908f95741921a5e446efbc

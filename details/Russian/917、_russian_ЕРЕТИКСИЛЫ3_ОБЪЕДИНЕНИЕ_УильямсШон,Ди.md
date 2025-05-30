@@ -8,7 +8,7 @@
 917、_russian_ЕРЕТИК СИЛЫ 3_ ОБЪЕДИНЕНИЕ_Уильямс Шон, Дикс Шейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01b93d0a06d08c646a23d12c278bee0f

@@ -8,7 +8,7 @@
 11040、_russian_Гигабайтная битва_Тюрин Александр Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9724c7c0ebbf941a5e51e409fc2e664c

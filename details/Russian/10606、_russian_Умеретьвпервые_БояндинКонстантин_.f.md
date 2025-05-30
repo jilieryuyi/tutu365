@@ -8,7 +8,7 @@
 10606、_russian_Умереть впервые_Бояндин Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c361788a826c20e5228a705dcb977b1

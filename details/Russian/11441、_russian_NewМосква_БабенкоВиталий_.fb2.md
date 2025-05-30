@@ -8,7 +8,7 @@
 11441、_russian_New Москва_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca6cb2809e72a3ff62688271c43a70bd

@@ -8,7 +8,7 @@
 11572、_russian_Курс выживания для подростков_Снайдер Ди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c8a1a504c1972cf1d43bb23eeb0ef3d

@@ -8,7 +8,7 @@
 3835、_ukrainian_Пастка_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7314e06d6ba2cb7f7f362992de75d0f

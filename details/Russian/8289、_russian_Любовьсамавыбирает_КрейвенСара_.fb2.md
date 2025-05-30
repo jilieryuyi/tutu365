@@ -8,7 +8,7 @@
 8289、_russian_Любовь сама выбирает_Крейвен Сара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3fb4bc6ec8a4746139ec3c05d5f3a5c8

@@ -8,7 +8,7 @@
 1193、_russian_Ваше слово, мсье комиссар!_Щупов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e40fea027accc3373012d03cf65d38d

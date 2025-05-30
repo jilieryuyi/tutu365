@@ -8,7 +8,7 @@
 675、哈佛情商课 哈佛智商课 哈佛财商课大全集_Publisher           _ 中国华侨出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 85b6ce9ff03402c1814a3b368b060a03

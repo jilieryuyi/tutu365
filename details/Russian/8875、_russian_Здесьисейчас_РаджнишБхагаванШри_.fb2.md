@@ -8,7 +8,7 @@
 8875、_russian_Здесь и сейчас_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ad3ac33ad639e5f5af9ca5592fb67ab

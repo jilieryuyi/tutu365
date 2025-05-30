@@ -8,7 +8,7 @@
 15261、_russian_Тим Талер, или Проданный смех_Крюс Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 021bf9c6227d78c221d07d363830af3f

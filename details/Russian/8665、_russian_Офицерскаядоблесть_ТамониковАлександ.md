@@ -8,7 +8,7 @@
 8665、_russian_Офицерская доблесть_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56000ea819bde20e1910580c14b1eef0

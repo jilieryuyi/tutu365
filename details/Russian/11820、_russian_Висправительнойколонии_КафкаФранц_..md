@@ -8,7 +8,7 @@
 11820、_russian_В исправительной колонии_Кафка Франц_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d324cbd077c941161a9ac93e95a008b3

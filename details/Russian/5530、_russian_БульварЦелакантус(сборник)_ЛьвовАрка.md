@@ -8,7 +8,7 @@
 5530、_russian_Бульвар Целакантус (сборник)_Львов Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b5ca4a439634e4d31690f5834045f62

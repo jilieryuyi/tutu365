@@ -8,7 +8,7 @@
 9207、_italian_All'ombra dell'I Ching_Alejandro Jodorowsky_Feltrinelli Editore.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bb75fa9ea7f0e192f2ee8aebe3cba623

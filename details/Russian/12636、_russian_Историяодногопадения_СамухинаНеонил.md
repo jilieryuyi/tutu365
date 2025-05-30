@@ -8,7 +8,7 @@
 12636、_russian_История одного падения_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a31c1346d04aeecfbfa1c8c77487b74e

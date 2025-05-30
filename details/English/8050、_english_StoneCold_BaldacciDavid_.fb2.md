@@ -8,7 +8,7 @@
 8050、_english_Stone Cold_Baldacci David_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 40beffd7bb4d52dd35beb6aad696cab6

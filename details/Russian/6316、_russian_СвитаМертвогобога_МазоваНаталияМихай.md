@@ -8,7 +8,7 @@
 6316、_russian_Свита Мертвого бога_Мазова Наталия Михайловна, Гончаров Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dfa331d51ab7a7f46d91e0bfde419bd

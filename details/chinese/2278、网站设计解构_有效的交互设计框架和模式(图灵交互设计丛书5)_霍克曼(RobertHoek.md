@@ -8,7 +8,7 @@
 2278、网站设计解构_有效的交互设计框架和模式 (图灵交互设计丛书 5)_霍克曼(Robert Hoekman.Jr.)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 374a1a5b21367651bfd58da4cefb659f

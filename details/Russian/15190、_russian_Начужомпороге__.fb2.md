@@ -8,7 +8,7 @@
 15190、_russian_На чужом пороге__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 836e126d77b7de510e61b920cfdeded7

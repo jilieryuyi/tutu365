@@ -8,7 +8,7 @@
 8350、_russian_Королевство влюбленных_Сэндс Чарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e7f502cc649366a024732ae49283d698

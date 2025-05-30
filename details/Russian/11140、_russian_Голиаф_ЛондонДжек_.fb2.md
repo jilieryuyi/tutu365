@@ -8,7 +8,7 @@
 11140、_russian_Голиаф_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 776c4a85876d2e1d8a52ae91104125b6

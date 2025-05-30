@@ -8,7 +8,7 @@
 12518、_russian_Обитель теней_Страуб Питер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b42eb402d164a1702e3f157c57441be

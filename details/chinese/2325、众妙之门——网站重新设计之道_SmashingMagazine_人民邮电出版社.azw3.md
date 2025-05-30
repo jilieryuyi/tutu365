@@ -8,7 +8,7 @@
 2325、众妙之门——网站重新设计之道_Smashing Magazine_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0495530761cddba57bba9f9422508fd7

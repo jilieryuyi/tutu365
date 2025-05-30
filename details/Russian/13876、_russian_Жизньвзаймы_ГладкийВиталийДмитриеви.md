@@ -8,7 +8,7 @@
 13876、_russian_Жизнь взаймы_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af3d4446afe077f0d45bc72076411fcf

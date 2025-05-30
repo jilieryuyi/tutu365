@@ -8,7 +8,7 @@
 8440、_russian_Рим, папы и призраки_Уитборн Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad9355d28a27041496c636108a7bb7e2

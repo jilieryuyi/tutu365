@@ -8,7 +8,7 @@
 14066、_russian_Испытание верностью_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7513257ec772ba39bf9e965138a5cc46

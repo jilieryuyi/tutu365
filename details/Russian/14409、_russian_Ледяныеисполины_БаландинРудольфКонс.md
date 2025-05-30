@@ -8,7 +8,7 @@
 14409、_russian_Ледяные исполины_Баландин Рудольф Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa272d0aa01489c36693c7cb2e18e89f

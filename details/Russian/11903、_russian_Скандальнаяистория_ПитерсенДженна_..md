@@ -8,7 +8,7 @@
 11903、_russian_Скандальная история_Питерсен Дженна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3bbeb2dbb8ed7d846891f61eb908289

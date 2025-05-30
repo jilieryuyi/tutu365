@@ -8,7 +8,7 @@
 889、_russian_Ф. М. Том 1_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8530c287cefb83bb0a23f5bee080c8da

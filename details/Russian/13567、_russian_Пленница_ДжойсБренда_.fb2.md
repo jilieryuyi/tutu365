@@ -8,7 +8,7 @@
 13567、_russian_Пленница_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13bc90ee74382edd822f2fd769e34627

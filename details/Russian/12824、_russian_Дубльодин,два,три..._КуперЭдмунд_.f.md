@@ -8,7 +8,7 @@
 12824、_russian_Дубль один, два, три..._Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0c56ce94bcb587196d8a632054fa5d0

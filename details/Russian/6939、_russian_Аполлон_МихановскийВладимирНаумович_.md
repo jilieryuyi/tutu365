@@ -8,7 +8,7 @@
 6939、_russian_Аполлон_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e9288436ea1f0e49c7f48860512817e

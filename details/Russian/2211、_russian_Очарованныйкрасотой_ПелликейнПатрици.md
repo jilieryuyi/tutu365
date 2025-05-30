@@ -8,7 +8,7 @@
 2211、_russian_Очарованный красотой_Пелликейн Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9aaab868688ba102d82bd3d4ecde4641

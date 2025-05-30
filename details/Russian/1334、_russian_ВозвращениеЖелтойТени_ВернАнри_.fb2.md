@@ -8,7 +8,7 @@
 1334、_russian_Возвращение Желтой Тени_Верн Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb2cd6e47aa74855b372661ec4b3202d

@@ -8,7 +8,7 @@
 4923、_russian_О пользе проклятий_Панкеева Оксана Петровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b135b1b7c891f07556bffc18911f0c9

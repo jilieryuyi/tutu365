@@ -8,7 +8,7 @@
 9167、_russian_Аполлон Безобразов_Поплавский Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f2a08699fe44bc417aa199a1a83366a

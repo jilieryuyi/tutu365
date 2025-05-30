@@ -8,7 +8,7 @@
 14625、_russian_Лучший из лучших_Вудс Шерил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c71b63466a513a32c3801a14a323870b

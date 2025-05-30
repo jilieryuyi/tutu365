@@ -8,7 +8,7 @@
 487、_russian_Темный Улей-2_ Незримая Королева_Деннинг Трой_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31febedbd2e936ea24ef79460c81ef5e

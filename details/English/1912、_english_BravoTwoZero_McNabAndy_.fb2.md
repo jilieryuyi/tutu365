@@ -8,7 +8,7 @@
 1912、_english_Bravo Two Zero_McNab Andy_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8a730eed2b9dfe95841b82e6e92a992d

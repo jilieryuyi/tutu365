@@ -8,7 +8,7 @@
 2010、_russian_Был настоящим трубачом_Яковлев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abde7429618c636c9e5669171e75411e

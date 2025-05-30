@@ -8,7 +8,7 @@
 10589、_russian_Дети немилости_Серёгин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a22a90e97c2067e701934b4154073dc

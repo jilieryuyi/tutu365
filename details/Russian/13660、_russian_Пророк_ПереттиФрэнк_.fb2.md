@@ -8,7 +8,7 @@
 13660、_russian_Пророк_Перетти Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8935b420d4addd1b5bb441da8bfd5152

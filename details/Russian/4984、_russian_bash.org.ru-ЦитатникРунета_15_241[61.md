@@ -8,7 +8,7 @@
 4984、_russian_bash.org.ru - Цитатник Рунета_15_24 1 [6176] утверждена 2004-08-30 в_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acdfcd3938d6c378249d126e114c3d74

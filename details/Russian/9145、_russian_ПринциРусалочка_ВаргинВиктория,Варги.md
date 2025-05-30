@@ -8,7 +8,7 @@
 9145、_russian_Принц и Русалочка_Варгин Виктория, Варгин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52e5a531bbe3502ad1006616fd9900c6

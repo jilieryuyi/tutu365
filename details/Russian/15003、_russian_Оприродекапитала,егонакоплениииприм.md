@@ -8,7 +8,7 @@
 15003、_russian_О природе капитала, его накоплении и применении_Смит Адам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fabb7f4306de1afb1fbb3a1bfd4a429

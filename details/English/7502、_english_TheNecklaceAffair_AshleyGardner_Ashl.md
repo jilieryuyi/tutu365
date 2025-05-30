@@ -8,7 +8,7 @@
 7502、_english_The Necklace Affair_Ashley Gardner_Ashley Gardner.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e14a6b601cbb5ebd754214b97336c865

@@ -8,7 +8,7 @@
 5627、_russian_Поводырь_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db528d725fea0558641aa9e098ccc417

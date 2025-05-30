@@ -8,7 +8,7 @@
 789、_russian_Странные приключения Ионы Шекета. Книга 1_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26e47fbe73b75c8de2b8dee0060130b6

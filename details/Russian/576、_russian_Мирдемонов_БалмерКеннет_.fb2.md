@@ -8,7 +8,7 @@
 576、_russian_Мир демонов_Балмер Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b90089019a83950b71d4895be173218

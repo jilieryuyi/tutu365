@@ -8,7 +8,7 @@
 1196、_russian_Гамма для старшеклассников_Щупов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 917b2173c63b416fba2040a35f16f971

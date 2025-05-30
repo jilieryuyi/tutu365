@@ -8,7 +8,7 @@
 12296、_russian_Личный Мир_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9385b6a30937ff025a996e6f8076ed86

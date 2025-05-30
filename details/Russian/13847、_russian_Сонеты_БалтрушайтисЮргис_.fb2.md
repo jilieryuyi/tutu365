@@ -8,7 +8,7 @@
 13847、_russian_Сонеты_Балтрушайтис Юргис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75645fe9964eb870552498168628c66e

@@ -8,7 +8,7 @@
 6326、_russian_Ледяная смерть_Лазарев Дмитрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbc81fcd3957b2d5e63f84f0ee2e60f2

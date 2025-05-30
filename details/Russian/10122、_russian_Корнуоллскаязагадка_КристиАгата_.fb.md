@@ -8,7 +8,7 @@
 10122、_russian_Корнуоллская загадка_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61d0a08c703db5e64da2ccbe774d20a3

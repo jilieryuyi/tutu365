@@ -8,7 +8,7 @@
 2575、_russian_Клинки максаров_Чадович Николай Трофимович, Брайдер Юрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c9b7b20a92fcd6f850aece6fd700f36

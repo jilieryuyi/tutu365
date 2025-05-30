@@ -8,7 +8,7 @@
 1229、印加帝国的末日_MACQUARRIE_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9b3a58901847934862f1b3c5e40985d2

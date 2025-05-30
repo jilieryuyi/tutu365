@@ -8,7 +8,7 @@
 4111、_russian_Самозванец Стамп (сборник)_Зубков Борис, Муслин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd1510b5aaf6b99d0308935cc8073a6b

@@ -8,7 +8,7 @@
 12710、_russian_Валентинов день_Вырыпаев Иван Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86d93a93edd4d251a8b1ce7d0b18a500

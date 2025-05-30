@@ -8,7 +8,7 @@
 13806、_russian_Рассказ об отсутствующем_Кассиль Лев Абрамович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 903e74eb3ce9e17a518589b8746c046b

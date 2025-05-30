@@ -8,7 +8,7 @@
 5113、_russian_Герои и антигерои русской революции_Никольский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5829fcd3c022709bad8b417fb4b80841

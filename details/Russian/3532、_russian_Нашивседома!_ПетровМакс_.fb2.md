@@ -8,7 +8,7 @@
 3532、_russian_Наши все дома!_Петров Макс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a1660467b5c646edd28005f7ecc7d27

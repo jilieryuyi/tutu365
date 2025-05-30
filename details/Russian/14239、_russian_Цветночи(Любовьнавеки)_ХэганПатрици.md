@@ -8,7 +8,7 @@
 14239、_russian_Цвет ночи (Любовь навеки)_Хэган Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7765d00a1ad71ba3c9ea8b31eafd71a

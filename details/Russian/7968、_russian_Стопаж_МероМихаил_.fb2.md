@@ -8,7 +8,7 @@
 7968、_russian_Стопаж_Меро Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83f46259edd2d225eb00650f8790fa5b

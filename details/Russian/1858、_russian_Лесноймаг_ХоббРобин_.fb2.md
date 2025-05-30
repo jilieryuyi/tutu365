@@ -8,7 +8,7 @@
 1858、_russian_Лесной маг_Хобб Робин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55fd0223b0f9cfee49e396cbd667b310

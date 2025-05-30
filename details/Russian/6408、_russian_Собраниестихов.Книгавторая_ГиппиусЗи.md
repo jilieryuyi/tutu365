@@ -8,7 +8,7 @@
 6408、_russian_Собрание стихов. Книга вторая_Гиппиус Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a52e3683c642de80cba2fcaca3bbca8

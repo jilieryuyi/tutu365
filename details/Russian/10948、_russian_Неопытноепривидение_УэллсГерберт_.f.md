@@ -8,7 +8,7 @@
 10948、_russian_Неопытное привидение_Уэллс Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ea4e53d213be8100f56d4a5999f57e9

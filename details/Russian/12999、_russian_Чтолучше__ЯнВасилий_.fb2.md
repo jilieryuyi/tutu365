@@ -8,7 +8,7 @@
 12999、_russian_Что лучше__Ян Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00c4dcda709151fc1c2bc89dffe5983c

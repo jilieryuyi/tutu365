@@ -8,7 +8,7 @@
 1593、_russian_Счастье по собственному желанию_Романова Галина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34760671c4405b02fcca5b440abdd7ba

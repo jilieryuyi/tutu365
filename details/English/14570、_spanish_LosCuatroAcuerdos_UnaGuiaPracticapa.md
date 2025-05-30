@@ -8,7 +8,7 @@
 14570、_spanish_Los Cuatro Acuerdos_ Una Guia Practica para la Libertad Personal_Don Miguel Ruiz_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cf8efc804590a7bfa4c2bb107c56b803

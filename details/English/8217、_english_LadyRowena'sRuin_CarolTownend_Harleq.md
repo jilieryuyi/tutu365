@@ -8,7 +8,7 @@
 8217、_english_Lady Rowena's Ruin_Carol Townend_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 eca0e3692f726c2efc16be895d435a38

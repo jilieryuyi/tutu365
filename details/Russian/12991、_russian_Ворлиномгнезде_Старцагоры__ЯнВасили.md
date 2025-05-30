@@ -8,7 +8,7 @@
 12991、_russian_В орлином гнезде _Старца горы__Ян Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fd8f7992949df791b05f897319f39c7

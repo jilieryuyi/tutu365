@@ -8,7 +8,7 @@
 3661、_english_Разгони свой сайт_Николай Мациевский_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa3a3793e983a692037916744b30de19

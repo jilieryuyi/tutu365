@@ -8,7 +8,7 @@
 10376、_russian_Крестовый отец_Чубаха Игорь, Логачев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09c113ef67e366f8518980854be58c4f

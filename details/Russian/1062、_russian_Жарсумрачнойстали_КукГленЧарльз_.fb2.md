@@ -8,7 +8,7 @@
 1062、_russian_Жар сумрачной стали_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 635af5b36075b0261d7a318604b81c22

@@ -8,7 +8,7 @@
 12414、_russian_Охота на _Икара__Зан Тимоти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a27d74b6d048892925758c367d9b400c

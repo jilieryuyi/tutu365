@@ -8,7 +8,7 @@
 620、_russian_Исполнение желаний_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7835f98e13fa9142a0e627b877a67c77

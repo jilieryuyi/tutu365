@@ -8,7 +8,7 @@
 6726、_russian_Преступление в Орсивале_Габорио Эмиль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de2b8b073b2b416560beb036548bf351

@@ -8,7 +8,7 @@
 461、_russian_Ж. Замечательных людей_Барякина Эльвира_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 51b8a16d288cd411bc3a16a461455d03

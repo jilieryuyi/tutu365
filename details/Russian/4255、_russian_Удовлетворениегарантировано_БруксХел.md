@@ -8,7 +8,7 @@
 4255、_russian_Удовлетворение гарантировано_Брукс Хелен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41906f0730a820bdfcfb0a253fc11ecc

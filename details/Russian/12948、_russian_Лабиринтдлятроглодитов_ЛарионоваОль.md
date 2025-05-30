@@ -8,7 +8,7 @@
 12948、_russian_Лабиринт для троглодитов_Ларионова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc6d4a3d61195b05ed969a11499146ab

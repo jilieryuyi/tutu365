@@ -8,7 +8,7 @@
 10430、_russian_Укор сроку_Кондратов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0143313b8ac20c68b76dfe6f3650acce

@@ -8,7 +8,7 @@
 2884、独居的一年（村上春树的文学偶像约翰·欧文传世大作！）_（美）约翰·欧文（John Irving）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 83eb85d348e09949337fae14e1ab6120

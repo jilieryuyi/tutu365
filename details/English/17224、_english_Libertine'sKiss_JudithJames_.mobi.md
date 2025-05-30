@@ -8,7 +8,7 @@
 17224、_english_Libertine's Kiss_Judith James_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5e037b90694554059b1155a83726b5dd

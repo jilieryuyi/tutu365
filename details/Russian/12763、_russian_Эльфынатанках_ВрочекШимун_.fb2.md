@@ -8,7 +8,7 @@
 12763、_russian_Эльфы на танках_Врочек Шимун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad11421d2477d465b5b379d22d4f671b

@@ -8,7 +8,7 @@
 13293、_russian_Последняя любовь царя Соломона_Сандлер Шмиэл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b498502acdf5bba8c67673e32a816463

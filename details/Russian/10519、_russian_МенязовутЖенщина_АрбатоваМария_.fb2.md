@@ -8,7 +8,7 @@
 10519、_russian_Меня зовут Женщина_Арбатова Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48cf0f14501ee0db159eba5771948a0c

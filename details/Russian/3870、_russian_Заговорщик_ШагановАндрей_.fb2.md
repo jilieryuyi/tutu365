@@ -8,7 +8,7 @@
 3870、_russian_Заговорщик_Шаганов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ca2e21211805df8310a555682b6e239

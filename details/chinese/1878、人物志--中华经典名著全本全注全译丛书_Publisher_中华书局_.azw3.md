@@ -8,7 +8,7 @@
 1878、人物志--中华经典名著全本全注全译丛书_Publisher           _ 中华书局_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 704d0df325d9a8381dd5c074202bf2de

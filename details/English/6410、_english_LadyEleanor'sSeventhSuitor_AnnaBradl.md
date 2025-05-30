@@ -8,7 +8,7 @@
 6410、_english_Lady Eleanor's Seventh Suitor_Anna Bradley_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bf64645db39cf1df4cab208c82457b34

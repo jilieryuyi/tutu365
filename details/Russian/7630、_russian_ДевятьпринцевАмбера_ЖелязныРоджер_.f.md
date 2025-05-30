@@ -8,7 +8,7 @@
 7630、_russian_Девять принцев Амбера_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87cd301fb1e79195133c529c3aafe5f6

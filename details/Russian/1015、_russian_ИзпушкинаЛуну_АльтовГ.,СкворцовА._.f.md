@@ -8,7 +8,7 @@
 1015、_russian_Из пушки на Луну_Альтов Г., Скворцов А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed8a81f9e1f157ecf818e6841cbea1b2

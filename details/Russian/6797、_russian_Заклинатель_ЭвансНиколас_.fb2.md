@@ -8,7 +8,7 @@
 6797、_russian_Заклинатель_Эванс Николас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f538584c00034dfc8d887ab1bc8bdc81

@@ -8,7 +8,7 @@
 6288、_russian_Черное солнце_Зинченко Майя Анатольевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0389950e2f909b5031b0c26a4642b94

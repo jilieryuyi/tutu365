@@ -8,7 +8,7 @@
 1802、_russian_Метод освобождения эмоций_Левинсон Лестер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f689e94ffbafa1f56fcc24b4e10ae932

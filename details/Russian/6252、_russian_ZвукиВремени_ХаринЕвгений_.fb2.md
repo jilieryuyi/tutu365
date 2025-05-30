@@ -8,7 +8,7 @@
 6252、_russian_Zвуки Времени_Харин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42df824da93dd4595a1caf617b021b42

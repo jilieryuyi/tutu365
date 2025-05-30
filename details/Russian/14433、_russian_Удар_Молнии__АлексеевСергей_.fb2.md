@@ -8,7 +8,7 @@
 14433、_russian_Удар _Молнии__Алексеев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 195a2ffdd9d81ef295a2a4537b53aed1

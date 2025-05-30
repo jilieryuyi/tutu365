@@ -8,7 +8,7 @@
 974、_russian_Жениться по завещанию_Лафой Лесли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d97352ff7da9b0893794f1fad7afe009

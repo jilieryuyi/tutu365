@@ -8,7 +8,7 @@
 3766、_russian_Рецепты волшебных снадобий_Каннингем Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f0945c94764e359cbdad605310e8fd2

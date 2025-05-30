@@ -8,7 +8,7 @@
 7923、_russian_Обещание экстаза_О`Бэньон Констанс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac94e16a55a9b70d55639da5ca068b3b

@@ -8,7 +8,7 @@
 14702、_russian_Как все началось..._Мертон Сандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb83bdaa1fee53ca97fe44eb9a3eeaef

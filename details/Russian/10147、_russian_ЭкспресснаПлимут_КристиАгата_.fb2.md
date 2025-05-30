@@ -8,7 +8,7 @@
 10147、_russian_Экспресс на Плимут_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c09fe980fdb0af8bfdeee1295a5df285

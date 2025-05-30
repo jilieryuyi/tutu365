@@ -8,7 +8,7 @@
 14153、_russian_Сквозь перекрестный огонь_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a4b2d3a85f0ae20f5f5f30e52186912

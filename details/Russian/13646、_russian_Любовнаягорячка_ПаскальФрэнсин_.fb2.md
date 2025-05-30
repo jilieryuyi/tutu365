@@ -8,7 +8,7 @@
 13646、_russian_Любовная горячка_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 864b4485ea799fe34a64754ae9c3e053

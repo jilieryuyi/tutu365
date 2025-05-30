@@ -8,7 +8,7 @@
 2383、_russian_Вкус травы_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c21d7cae218c3c0bc16b27d9a4a463b

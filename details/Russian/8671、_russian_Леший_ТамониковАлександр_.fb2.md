@@ -8,7 +8,7 @@
 8671、_russian_Леший_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc45d299bd68432750e977f825360733

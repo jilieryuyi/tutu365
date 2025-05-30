@@ -8,7 +8,7 @@
 2421、_english_My Earl's Entrapment_Tammy Andresen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7febcd9a74e23dd08fba8e7e9b6289b8

@@ -8,7 +8,7 @@
 190、_russian_Воскресенье - пришел лесник и..._Талалаев Владимир, Дубинин Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc6bd273bbea9c3a90d435838d3630ae

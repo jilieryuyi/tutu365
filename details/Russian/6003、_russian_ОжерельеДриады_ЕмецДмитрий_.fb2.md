@@ -8,7 +8,7 @@
 6003、_russian_Ожерелье Дриады_Емец Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c04c2fc4f4551fbf23763b972952f642

@@ -8,7 +8,7 @@
 10667、_russian_Последняя песнь Казонетто_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b41f2774d75336365df3e396a65eaf4

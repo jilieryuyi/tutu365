@@ -8,7 +8,7 @@
 2176、_english_Cycle of Hatred_DeCandido Keith R. A._.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0b7ab88c90a0ff3e53cf3cc7f1d2f265

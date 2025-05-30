@@ -8,7 +8,7 @@
 9252、_italian_Per tutto l'oro del mondo_Massimo Carlotto_Emmebooks.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5d4c42cb17ab2055f7c96acfa01723ad

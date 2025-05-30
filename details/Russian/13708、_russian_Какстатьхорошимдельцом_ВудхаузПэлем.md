@@ -8,7 +8,7 @@
 13708、_russian_Как стать хорошим дельцом_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 938d2905d0bff72244bddcb70f4d74d5

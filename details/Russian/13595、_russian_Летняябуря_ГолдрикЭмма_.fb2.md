@@ -8,7 +8,7 @@
 13595、_russian_Летняя буря_Голдрик Эмма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 735612c234f120d4e8d317106b4b2473

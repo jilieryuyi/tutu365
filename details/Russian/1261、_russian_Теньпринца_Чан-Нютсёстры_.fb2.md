@@ -8,7 +8,7 @@
 1261、_russian_Тень принца_Чан-Нют сёстры_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ccf50d8e6bc1526494ee52435a80b638

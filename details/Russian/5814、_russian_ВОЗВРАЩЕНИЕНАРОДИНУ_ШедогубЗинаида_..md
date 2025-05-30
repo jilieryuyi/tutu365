@@ -8,7 +8,7 @@
 5814、_russian_ВОЗВРАЩЕНИЕ НА РОДИНУ_Шедогуб Зинаида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e920c77ec748c444bf9fd1dd0c4125c5

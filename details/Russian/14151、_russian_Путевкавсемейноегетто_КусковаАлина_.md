@@ -8,7 +8,7 @@
 14151、_russian_Путевка в семейное гетто_Кускова Алина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40d292cabcd92377302a336a38d8d00f

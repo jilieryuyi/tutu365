@@ -8,7 +8,7 @@
 7133、_russian_Вокруг трона_Валишевский Казимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e804460bf450ca6ca4bed316a0dc7fd

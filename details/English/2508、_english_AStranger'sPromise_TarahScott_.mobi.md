@@ -8,7 +8,7 @@
 2508、_english_A Stranger's Promise_Tarah Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1e865167f6538f9befaa09ad84cc6226

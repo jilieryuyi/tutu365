@@ -8,7 +8,7 @@
 3872、_russian_Либерастия_Смирнов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 205d327208c1e5483a566f8b508f09bd

@@ -8,7 +8,7 @@
 4278、_russian_БЕРЕГИСЬ АВТОМОБИЛЯ!__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1c1ee42fea33fb8a291c234e4e762db

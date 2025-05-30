@@ -8,7 +8,7 @@
 8176、_russian_Уланы Цесаревича Константина_Крестовский Всеволод_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb9be7bb3fab2893a54f119d12487203

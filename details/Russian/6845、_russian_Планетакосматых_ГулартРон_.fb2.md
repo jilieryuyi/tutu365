@@ -8,7 +8,7 @@
 6845、_russian_Планета косматых_Гуларт Рон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96b7645d8e7082fb373fca31d68a14b0

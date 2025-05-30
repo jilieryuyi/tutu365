@@ -8,7 +8,7 @@
 408、3D游戏编程大师技巧_[美]Andre LaMothe_人民邮电出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fb8ff1db732c792b966f8b71d6613863

@@ -8,7 +8,7 @@
 8861、_russian_Потерпевшие кораблекрушение на _Алкиноосе__Тирион Луи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f229f3c3240f7dc1092da4aba1d1d530

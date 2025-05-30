@@ -8,7 +8,7 @@
 5499、_russian_Чистилище для грешников_Менбек Влад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5373bac1db78d819adf56c7a4284c032

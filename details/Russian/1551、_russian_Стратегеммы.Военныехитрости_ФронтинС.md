@@ -8,7 +8,7 @@
 1551、_russian_Стратегеммы. Военные хитрости_Фронтин Секст Юлий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd48c1229e1b953fb48614bd36766a3c

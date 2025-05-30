@@ -8,7 +8,7 @@
 2341、_russian_Роковая ошибка_Джордан Пенни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae290fca9e11ef1de85322fd928066bf

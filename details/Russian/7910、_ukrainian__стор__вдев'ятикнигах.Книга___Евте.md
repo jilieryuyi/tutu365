@@ -8,7 +8,7 @@
 7910、_ukrainian__стор__ в дев'яти книгах. Книга___ Евтерпа_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb7b875cd54e47cfe47c5e13583b917a

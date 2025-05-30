@@ -8,7 +8,7 @@
 昨日的天空：占星与前世今生_Steven Forrest， Lucia 译__5350229_604f2b13877d451c64154372620182a0.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 604f2b13877d451c64154372620182a0

@@ -8,7 +8,7 @@
 5925、_russian_Критика традиционной истории казачества_Куринной Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6da7a8213b3cc336acd61e8db514c1d0

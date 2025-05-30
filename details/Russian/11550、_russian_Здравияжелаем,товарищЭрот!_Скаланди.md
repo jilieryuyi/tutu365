@@ -8,7 +8,7 @@
 11550、_russian_Здравия желаем, товарищ Эрот!_Скаландис Ант_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf4176cf62ae016fecda43fb90408972

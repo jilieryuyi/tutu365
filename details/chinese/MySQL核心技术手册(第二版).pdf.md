@@ -8,7 +8,7 @@
 MySQL核心技术手册(第二版).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c9e379dca1dec2fdf21e651723839cdf

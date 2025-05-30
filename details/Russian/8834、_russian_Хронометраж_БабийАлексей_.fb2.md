@@ -8,7 +8,7 @@
 8834、_russian_Хронометраж_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20672a2ee462ebd4be004e3fc57681c3

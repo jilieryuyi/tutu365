@@ -8,7 +8,7 @@
 10800、_russian_Да будет любовь!_Александер Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb9ec511cc706696b5a6aceca70d68b4

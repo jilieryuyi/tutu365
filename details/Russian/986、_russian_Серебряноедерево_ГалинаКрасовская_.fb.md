@@ -8,7 +8,7 @@
 986、_russian_Серебряное дерево_Галина Красовская_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 188cdfc91c6f3b025ae66a6950da784f

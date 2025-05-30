@@ -8,7 +8,7 @@
 5922、_russian_Логико-философский трактат_Витгенштейн Людвиг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41c59ae92ec20292c8bc88a790131853

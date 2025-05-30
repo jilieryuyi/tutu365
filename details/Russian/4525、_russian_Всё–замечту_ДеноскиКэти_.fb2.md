@@ -8,7 +8,7 @@
 4525、_russian_Всё – за мечту_Деноски Кэти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c67fc708f78b6f91f3df8ce86df8586

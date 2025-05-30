@@ -8,7 +8,7 @@
 7554、_russian_Монстр_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee67927be55cb09826e1d634b5ea869d

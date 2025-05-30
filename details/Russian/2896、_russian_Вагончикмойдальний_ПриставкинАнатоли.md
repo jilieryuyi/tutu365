@@ -8,7 +8,7 @@
 2896、_russian_Вагончик мой дальний_Приставкин Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06c3352d04ecdae0c2a4d61f94cfdb59

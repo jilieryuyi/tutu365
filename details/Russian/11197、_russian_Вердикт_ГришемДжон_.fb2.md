@@ -8,7 +8,7 @@
 11197、_russian_Вердикт_Гришем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8219d7c2d20565173f5fcafdbae0e8c9

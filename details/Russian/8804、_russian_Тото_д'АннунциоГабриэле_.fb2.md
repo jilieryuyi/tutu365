@@ -8,7 +8,7 @@
 8804、_russian_Тото_д'Аннунцио Габриэле_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2f22571c892a25a49b7e61962242781

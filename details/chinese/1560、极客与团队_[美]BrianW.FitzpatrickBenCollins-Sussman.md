@@ -8,7 +8,7 @@
 1560、极客与团队_[美]Brian W. Fitzpatrick Ben Collins-Sussman_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3511a3128f6ba7676f71246feb474ee3

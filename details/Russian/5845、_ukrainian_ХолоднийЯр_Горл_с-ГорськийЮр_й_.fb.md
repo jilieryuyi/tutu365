@@ -8,7 +8,7 @@
 5845、_ukrainian_Холодний Яр_Горл_с-Горський Юр_й_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30c0a44a2e7f39e22c3b6bc1c49c934f

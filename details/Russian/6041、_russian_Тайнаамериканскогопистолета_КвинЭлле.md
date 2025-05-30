@@ -8,7 +8,7 @@
 6041、_russian_Тайна американского пистолета_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 450d42ba3f4146a777034acb146ce740

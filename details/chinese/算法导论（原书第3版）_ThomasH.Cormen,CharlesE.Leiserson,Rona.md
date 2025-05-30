@@ -8,7 +8,7 @@
 算法导论（原书第3版）_Thomas H.Cormen,Charles E.Leiserson,Ronald L.Rivest,Clifford Stein_机械工业出版社_5442421_646cd72f167420516ef79b88700dc8d1.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 646cd72f167420516ef79b88700dc8d1

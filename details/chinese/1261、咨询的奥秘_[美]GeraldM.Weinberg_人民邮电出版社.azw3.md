@@ -8,7 +8,7 @@
 1261、咨询的奥秘_[美]Gerald M.Weinberg_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 942b34e809916bec8a5d7bc8dc1e64a8

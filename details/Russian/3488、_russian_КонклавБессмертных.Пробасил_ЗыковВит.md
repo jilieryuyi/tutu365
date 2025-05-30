@@ -8,7 +8,7 @@
 3488、_russian_Конклав Бессмертных. Проба сил_Зыков Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afa9d83a433c6d57555d27ae94a47382

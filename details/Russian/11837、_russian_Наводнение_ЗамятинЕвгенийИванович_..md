@@ -8,7 +8,7 @@
 11837、_russian_Наводнение_Замятин Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f86257c13d61f9e71b53e8798774d31

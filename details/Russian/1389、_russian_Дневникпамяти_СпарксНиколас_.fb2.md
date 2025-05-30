@@ -8,7 +8,7 @@
 1389、_russian_Дневник памяти_Спаркс Николас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d90a4ce07d21a94ec8533ac0e76239a2

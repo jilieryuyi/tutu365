@@ -8,7 +8,7 @@
 13063、_russian_Десерт для серийного убийцы_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1d496a979c50d1f29976a7aea06720c

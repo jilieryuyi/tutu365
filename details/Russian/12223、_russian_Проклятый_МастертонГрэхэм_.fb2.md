@@ -8,7 +8,7 @@
 12223、_russian_Проклятый_Мастертон Грэхэм_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e75882ae237dd3b0a39a260948c5042d

@@ -8,7 +8,7 @@
 12925、_russian_Ангел смерти_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd1b796c16ddd4f69874457fd179d140

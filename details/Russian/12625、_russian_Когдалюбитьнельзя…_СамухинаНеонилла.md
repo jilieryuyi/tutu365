@@ -8,7 +8,7 @@
 12625、_russian_Когда любить нельзя…_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 370a36222eb56250c8704c11e459e850

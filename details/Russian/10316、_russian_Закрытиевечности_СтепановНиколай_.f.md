@@ -8,7 +8,7 @@
 10316、_russian_Закрытие вечности_Степанов Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d67ae1dffffb7799d2478164c324568

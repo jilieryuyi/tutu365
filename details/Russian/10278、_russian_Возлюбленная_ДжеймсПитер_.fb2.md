@@ -8,7 +8,7 @@
 10278、_russian_Возлюбленная_Джеймс Питер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 08cc3951366a466ef8de6ec3a11dca72

@@ -8,7 +8,7 @@
 5468、_russian_Нелюдь_Селецкий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2c191597d806a3a27320c61c2d614de

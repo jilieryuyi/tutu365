@@ -8,7 +8,7 @@
 6197、_russian_Черный ящик с Руддерогги_Михайлов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a8191824004bb2d33ebb1c4c75e8733

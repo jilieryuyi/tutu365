@@ -8,7 +8,7 @@
 741、论英雄英雄崇拜和历史上的英雄业绩_卡莱尔 (Carlyle Thomas)_商务印书馆.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eecde4b78545ac943f825c2433c0e05e

@@ -8,7 +8,7 @@
 10805、_russian_Страсть под луной_Финч Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 072983a6a18c15e27a49662aadff2ba5

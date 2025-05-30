@@ -8,7 +8,7 @@
 11102、_russian_Там, где кончается радуга_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6f0d5c21e21a23a7aa98671d1f4afa7

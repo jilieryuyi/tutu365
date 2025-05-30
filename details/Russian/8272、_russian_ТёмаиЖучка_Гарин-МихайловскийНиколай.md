@@ -8,7 +8,7 @@
 8272、_russian_Тёма и Жучка_Гарин-Михайловский Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b0817f943bf816838c4872e1402add2

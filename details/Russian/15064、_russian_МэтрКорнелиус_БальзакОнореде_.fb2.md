@@ -8,7 +8,7 @@
 15064、_russian_Мэтр Корнелиус_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75f59df4894851e751877488b0680ec1

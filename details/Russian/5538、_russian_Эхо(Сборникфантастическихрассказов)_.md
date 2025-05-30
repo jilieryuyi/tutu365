@@ -8,7 +8,7 @@
 5538、_russian_Эхо (Сборник фантастических рассказов)_Грешнов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ebf8101bce13ab8e15eb3ef1233e4978

@@ -8,7 +8,7 @@
 6171、_russian_День за днем_Лукарелли Карло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3bdfeb1b5f6825d8cd210189ca792e2

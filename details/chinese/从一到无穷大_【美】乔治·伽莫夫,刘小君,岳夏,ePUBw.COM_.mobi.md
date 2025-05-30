@@ -8,7 +8,7 @@
 从一到无穷大_【美】乔治·伽莫夫, 刘小君, 岳夏, ePUBw.COM_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 597d447b5bae37058e480af3c9b50dfb

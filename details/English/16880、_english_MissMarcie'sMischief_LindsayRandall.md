@@ -8,7 +8,7 @@
 16880、_english_Miss Marcie's Mischief_Lindsay Randall_ePublishing Works!.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b029279faf84673eabcbd1b670edba80

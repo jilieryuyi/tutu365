@@ -8,7 +8,7 @@
 12306、_russian_Возвращенный рай_Мильтон Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 20c062522554cb6b019a65696b3b599e

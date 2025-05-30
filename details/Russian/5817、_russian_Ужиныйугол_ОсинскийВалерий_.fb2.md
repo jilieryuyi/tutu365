@@ -8,7 +8,7 @@
 5817、_russian_Ужиный угол_Осинский Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94b0cadbdc690f51fc514dc2cdcb7c83

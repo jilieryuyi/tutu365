@@ -8,7 +8,7 @@
 4542、_russian_Зловещее наследство_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b71bf59eebb253f1b5ef01502146787

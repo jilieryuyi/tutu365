@@ -8,7 +8,7 @@
 6443、_russian_Повышение по службе_Деминг Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4548444c66dceb1e023c17ec98bb4fe

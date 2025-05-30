@@ -8,7 +8,7 @@
 8041、_english_Lady Killer_Scottoline Lisa_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5e7bd4813e29908b4bdd9012c7fa3bd8

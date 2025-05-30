@@ -8,7 +8,7 @@
 8133、_russian_Охотник Дарт_Замок Древних_Буревой Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d0d89bb79b5f4db43dfe93c695a4ad2

@@ -8,7 +8,7 @@
 6482、_russian_ПОСЛЕ ГИППОКРАТА_, Смирнов Алексей Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d28d37de9d3c3074787a9cd1bab4877

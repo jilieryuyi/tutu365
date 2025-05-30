@@ -8,7 +8,7 @@
 1422、_russian_Человек страха_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 084000ef6173ee90e408a89ee37bcaae

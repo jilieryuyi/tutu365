@@ -8,7 +8,7 @@
 15199、_russian_Дивный сад любви_Леклер Дэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d31669bff4ff2bbf9e78bf0c989ecea6

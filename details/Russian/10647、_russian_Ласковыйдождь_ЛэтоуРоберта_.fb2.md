@@ -8,7 +8,7 @@
 10647、_russian_Ласковый дождь_Лэтоу Роберта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 558bac56bad5476933c410cbb3116fce

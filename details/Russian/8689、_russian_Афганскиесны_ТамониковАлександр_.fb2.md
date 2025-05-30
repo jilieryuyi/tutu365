@@ -8,7 +8,7 @@
 8689、_russian_Афганские сны_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 626d07b8eab7d110da394d52a4e71234

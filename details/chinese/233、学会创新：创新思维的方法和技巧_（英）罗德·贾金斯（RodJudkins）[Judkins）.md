@@ -8,7 +8,7 @@
 233、学会创新：创新思维的方法和技巧_（英）罗德·贾金斯（Rod Judkins） [Judkins）, （英）罗德·贾金斯（Rod]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8b2d9e07185ff4710f650cf8cf4e82e3

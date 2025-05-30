@@ -8,7 +8,7 @@
 15016、_russian_Знаете ли вы украинскую ночь__Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 451676a8918ff3dcffc120f3aa1888cc

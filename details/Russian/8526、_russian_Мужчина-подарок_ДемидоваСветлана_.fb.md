@@ -8,7 +8,7 @@
 8526、_russian_Мужчина-подарок_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 649ac83d80c6ca18caf2a4576d1f226d

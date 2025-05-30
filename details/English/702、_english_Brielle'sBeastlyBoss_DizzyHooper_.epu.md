@@ -8,7 +8,7 @@
 702、_english_Brielle's Beastly Boss_Dizzy Hooper _.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f55ee9ceb42f48c8da2605bf65bf6751

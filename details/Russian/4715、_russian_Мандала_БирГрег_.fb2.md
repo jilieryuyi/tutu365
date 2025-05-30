@@ -8,7 +8,7 @@
 4715、_russian_Мандала_Бир Грег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e7ee7425f5e0c6c342df5fa9f1842c4

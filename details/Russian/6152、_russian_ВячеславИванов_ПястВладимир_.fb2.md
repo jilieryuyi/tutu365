@@ -8,7 +8,7 @@
 6152、_russian_Вячеслав Иванов_Пяст Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e57ae0b638d9186d3a8f580025408320

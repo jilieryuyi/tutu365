@@ -8,7 +8,7 @@
 14124、_russian_Доставь его мертвым_Кин Дей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0243ac4b07a17e010eda0ea402ab6eb3

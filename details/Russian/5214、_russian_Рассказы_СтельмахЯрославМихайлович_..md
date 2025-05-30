@@ -8,7 +8,7 @@
 5214、_russian_Рассказы_Стельмах Ярослав Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a69b8d36384c64994d067ab18671240d

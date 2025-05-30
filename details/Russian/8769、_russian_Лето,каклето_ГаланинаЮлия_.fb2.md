@@ -8,7 +8,7 @@
 8769、_russian_Лето, как лето_Галанина Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b417437f0c82708bb4dbbad68a215f3

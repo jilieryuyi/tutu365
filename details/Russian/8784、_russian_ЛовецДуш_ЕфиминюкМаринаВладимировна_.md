@@ -8,7 +8,7 @@
 8784、_russian_Ловец Душ_Ефиминюк Марина Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8c0987351b439015a3b11b1ace7f93e

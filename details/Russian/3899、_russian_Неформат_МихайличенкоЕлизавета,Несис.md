@@ -8,7 +8,7 @@
 3899、_russian_Неформат_Михайличенко Елизавета, Несис Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fcf557f2338113dc086ad8c9bec2b4c

@@ -8,7 +8,7 @@
 2146、_russian_Я! Еду! Домой!_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad1b9ca56c9d62f492651c6cd5b65a72

@@ -8,7 +8,7 @@
 517、_russian_Семейная реликвия_Пилчер Розамунда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d87093bb494d66c34f048827fe7d910

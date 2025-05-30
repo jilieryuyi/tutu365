@@ -8,7 +8,7 @@
 2046、_russian_Повелитель гоблинов_Суслин Дмитрий Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cdfdd9ffe19446d6d4cec525393887d

@@ -8,7 +8,7 @@
 14497、_russian_Вечеринка для нечисти_Некрасова Мария Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 498dd2f60205b50e42b503c9f97b0b05

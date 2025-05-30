@@ -8,7 +8,7 @@
 1283、_russian_Дети Сатаны_Робинсон Спайдер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cac1ca7b5fb06b1cddc9990c0712138e

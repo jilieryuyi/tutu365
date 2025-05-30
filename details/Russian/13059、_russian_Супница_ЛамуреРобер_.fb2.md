@@ -8,7 +8,7 @@
 13059、_russian_Супница_Ламуре Робер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 362c8ce2bfda319a5ea6b4f100df6489

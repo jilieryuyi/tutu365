@@ -8,7 +8,7 @@
 227、_russian_Оживший страх_Накамура Синъитьиро_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9f19c26d8fef9a3731a0b3e2074551b

@@ -8,7 +8,7 @@
 11613、_russian_Холмы Смерти_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b859fbc4a240696776f128fb804b7fdf

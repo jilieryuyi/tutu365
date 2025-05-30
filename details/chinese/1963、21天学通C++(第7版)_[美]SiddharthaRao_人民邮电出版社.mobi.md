@@ -8,7 +8,7 @@
 1963、21天学通C++(第7版)_[美]Siddhartha Rao_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2888e6c1b09ad64f60b785dbbb06889a

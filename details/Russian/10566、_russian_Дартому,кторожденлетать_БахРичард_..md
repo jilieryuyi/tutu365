@@ -8,7 +8,7 @@
 10566、_russian_Дар тому, кто рожден летать_Бах Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 badb46fe19e148e89e67f5276625db16

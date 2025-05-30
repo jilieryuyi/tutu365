@@ -8,7 +8,7 @@
 2956、_russian_Очарованье сатаны_Канович Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29a56386cba83756fa14d7e2fa1bf793

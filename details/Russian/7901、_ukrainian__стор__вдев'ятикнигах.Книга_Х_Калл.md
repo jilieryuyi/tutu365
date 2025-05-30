@@ -8,7 +8,7 @@
 7901、_ukrainian__стор__ в дев'яти книгах. Книга_Х_ Калл_опа_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 267c4e23190dd34b77e1d96e78072e36

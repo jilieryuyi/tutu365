@@ -8,7 +8,7 @@
 11646、_russian_Несколько миль_Фармер Филип Хосе_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1178b47df5aaf67af3e0843778d361a

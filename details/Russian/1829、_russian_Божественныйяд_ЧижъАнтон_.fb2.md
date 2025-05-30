@@ -8,7 +8,7 @@
 1829、_russian_Божественный яд_Чижъ Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d7a5d08e7038139344a37b698acc757c

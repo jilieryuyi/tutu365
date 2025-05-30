@@ -8,7 +8,7 @@
 11725、_russian_Брачное ложе_Дэйн Клаудиа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa3230f5e94f875f154d865f2f5faa42

@@ -8,7 +8,7 @@
 7692、_russian_Письма о русской поэзии_Амелин Григорий, Мордерер Валентина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c908ecb1f4fe3626c356f421c0d6687e

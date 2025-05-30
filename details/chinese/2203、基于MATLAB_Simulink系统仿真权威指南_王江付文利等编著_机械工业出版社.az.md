@@ -8,7 +8,7 @@
 2203、基于MATLAB_Simulink系统仿真权威指南_王江 付文利 等编著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ac091e27c28dd5b37d125e82a7319a6f

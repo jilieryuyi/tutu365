@@ -8,7 +8,7 @@
 12348、_russian_Загон Скота_Миллз Магнус_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e582700c01923f6872aec29a193e963b

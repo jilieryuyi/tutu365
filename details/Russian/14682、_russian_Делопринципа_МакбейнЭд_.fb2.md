@@ -8,7 +8,7 @@
 14682、_russian_Дело принципа_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4431f814287a0e9089e01079b9362bfc

@@ -8,7 +8,7 @@
 10295、_russian_Нежность_Барбюс Анри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06cf4f952502aa5540fbfa2a5542833a

@@ -8,7 +8,7 @@
 8772、_russian_Бретонская колдунья_Галанина Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3620e056aa32b7a1e7851efdbbf5eb41

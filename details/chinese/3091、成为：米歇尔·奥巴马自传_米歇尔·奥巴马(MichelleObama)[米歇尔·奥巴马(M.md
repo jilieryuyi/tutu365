@@ -8,7 +8,7 @@
 3091、成为：米歇尔·奥巴马自传_米歇尔·奥巴马 (Michelle Obama) [米歇尔·奥巴马 (Michelle Obama)]_企鹅兰登电子书.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9d3e11acecf3d18d8fdb36e97a91111f

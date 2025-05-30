@@ -8,7 +8,7 @@
 11430、_russian_Земля_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2b294c4efe07a5b3e6d94471065b14a

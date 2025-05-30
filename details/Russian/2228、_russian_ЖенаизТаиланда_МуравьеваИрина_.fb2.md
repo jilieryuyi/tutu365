@@ -8,7 +8,7 @@
 2228、_russian_Жена из Таиланда_Муравьева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7739fd363dff2ce3aa9c93e7b56fd2b

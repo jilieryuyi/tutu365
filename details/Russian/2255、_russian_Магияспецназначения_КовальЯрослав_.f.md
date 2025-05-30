@@ -8,7 +8,7 @@
 2255、_russian_Магия спецназначения_Коваль Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4720a3f86883204831fb9f31b80285c9

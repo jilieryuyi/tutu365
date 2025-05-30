@@ -8,7 +8,7 @@
 6312、_russian_Мышьяк_Крейг Джонатан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2dac52993fe24404acf51796474f1fe

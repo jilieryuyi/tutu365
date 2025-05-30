@@ -8,7 +8,7 @@
 3012、_russian_Афанасий_Азольский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6ab12262ec96d4054fc60d0b879d042

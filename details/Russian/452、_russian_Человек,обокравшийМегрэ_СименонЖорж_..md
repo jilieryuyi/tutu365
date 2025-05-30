@@ -8,7 +8,7 @@
 452、_russian_Человек, обокравший Мегрэ_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce64841ccd0b3d4e16082c7c5e75167a

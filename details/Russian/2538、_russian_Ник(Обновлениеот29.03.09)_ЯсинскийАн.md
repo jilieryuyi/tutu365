@@ -8,7 +8,7 @@
 2538、_russian_Ник (Обновление от 29.03.09)_Ясинский Анджей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9475011ffc04248fb64d36b7935611fb

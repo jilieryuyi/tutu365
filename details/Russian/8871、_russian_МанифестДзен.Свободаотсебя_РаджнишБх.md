@@ -8,7 +8,7 @@
 8871、_russian_Манифест Дзен. Свобода от себя_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce770c29f348d80e9b1643b3c291169b

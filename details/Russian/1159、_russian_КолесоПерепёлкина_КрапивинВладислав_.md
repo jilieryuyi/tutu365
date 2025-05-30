@@ -8,7 +8,7 @@
 1159、_russian_Колесо Перепёлкина_Крапивин Владислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0fde2484abafa9765882b9ac8ecb7c7

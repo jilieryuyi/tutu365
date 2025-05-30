@@ -8,7 +8,7 @@
 365、_russian_Русская зависимость (проект худ. фильма)_Авин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cee79d81740e8fa53b9079afa03daee

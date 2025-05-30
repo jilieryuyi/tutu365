@@ -8,7 +8,7 @@
 1757、_russian_Марк Таугер о голоде, геноциде и свободе мысли на Украине_Таугер Марк Б._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd4dd77ec9cae7ac3df56d81b7645b4c

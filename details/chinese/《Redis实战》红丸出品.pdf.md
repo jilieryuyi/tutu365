@@ -8,7 +8,7 @@
 《Redis实战》红丸出品.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1a6e079aad6f4ad818488db98ce87601

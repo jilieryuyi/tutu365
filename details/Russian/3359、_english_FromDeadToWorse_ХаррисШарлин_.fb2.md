@@ -8,7 +8,7 @@
 3359、_english_From Dead To Worse_Харрис Шарлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 382fbac9637eda65680fdb4fee0402fe

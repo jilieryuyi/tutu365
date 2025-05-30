@@ -8,7 +8,7 @@
 4035、_russian_Свинцовый закат_Глушков Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ef63b899bedddd36e0e7b6df898bfc5

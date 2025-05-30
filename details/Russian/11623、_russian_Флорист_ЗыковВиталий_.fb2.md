@@ -8,7 +8,7 @@
 11623、_russian_Флорист_Зыков Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 556929582fadcaa5cee075cb8d88a570

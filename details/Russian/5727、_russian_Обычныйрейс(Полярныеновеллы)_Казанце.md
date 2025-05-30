@@ -8,7 +8,7 @@
 5727、_russian_Обычный рейс (Полярные новеллы)_Казанцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd00a51abb84d0e89c20b7816b770eb4

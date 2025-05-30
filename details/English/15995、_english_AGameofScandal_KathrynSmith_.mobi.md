@@ -8,7 +8,7 @@
 15995、_english_A Game of Scandal_Kathryn Smith_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8770762b6b8a950874dce9e3e9902f8f

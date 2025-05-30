@@ -8,7 +8,7 @@
 2881、东京奇谭集 (村上春树文集)_村上春树(Murakami Haruki)_上海译文出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8b7599d47fbad76a5022df04fad1a3cd

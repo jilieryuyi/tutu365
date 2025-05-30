@@ -8,7 +8,7 @@
 4476、_russian_Чужие_Нива Фумио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8bc7985336bcd5c838c61128dd68c3b0

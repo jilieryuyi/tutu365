@@ -8,7 +8,7 @@
 4695、_russian_Мастерская для Сикейроса (сборник)_Панасенко Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5df1ab39cde7be216908db10af357f9b

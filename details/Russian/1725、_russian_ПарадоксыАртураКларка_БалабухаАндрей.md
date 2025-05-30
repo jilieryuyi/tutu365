@@ -8,7 +8,7 @@
 1725、_russian_Парадоксы Артура Кларка_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef1fa4c4aca977011dcf573a8d14d68a

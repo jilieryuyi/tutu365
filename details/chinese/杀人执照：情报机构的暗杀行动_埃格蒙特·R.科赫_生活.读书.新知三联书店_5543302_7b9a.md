@@ -8,7 +8,7 @@
 杀人执照：情报机构的暗杀行动_埃格蒙特·R.科赫_生活.读书.新知三联书店_5543302_7b9a8c69ffd47fab1f4f7d830ffdd81b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7b9a8c69ffd47fab1f4f7d830ffdd81b

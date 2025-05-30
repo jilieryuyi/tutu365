@@ -8,7 +8,7 @@
 12882、_russian_Коленчатые валы_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75b17824e2884993ab8c70757d705344

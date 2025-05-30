@@ -8,7 +8,7 @@
 12469、_russian_Лифт На Эшафот_Калеф Ноэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 542e13cf6177fad8bb0bacd052dd12f2

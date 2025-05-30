@@ -8,7 +8,7 @@
 15247、_russian_Милое дитя_Маккомас Мэри Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9ed8679e37cc4494b32e57c1922a849

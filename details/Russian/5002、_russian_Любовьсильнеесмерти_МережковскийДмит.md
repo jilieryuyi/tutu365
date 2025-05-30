@@ -8,7 +8,7 @@
 5002、_russian_Любовь сильнее смерти_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23813cb966b70c0028660df6081eefcd

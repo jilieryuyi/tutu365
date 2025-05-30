@@ -8,7 +8,7 @@
 12893、_russian_Змеиный яд_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d24e905fa3aeb091a89b927c12e6c652

@@ -8,7 +8,7 @@
 6001、_russian_Знак Единорога_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 744feadf4cff2a38e856b3999e53a2e6

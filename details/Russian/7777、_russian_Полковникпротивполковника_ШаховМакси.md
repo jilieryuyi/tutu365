@@ -8,7 +8,7 @@
 7777、_russian_Полковник против полковника_Шахов Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87a9accededf78a9b32853354b3c0081

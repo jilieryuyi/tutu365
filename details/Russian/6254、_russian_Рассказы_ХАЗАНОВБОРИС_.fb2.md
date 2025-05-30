@@ -8,7 +8,7 @@
 6254、_russian_Рассказы_ХАЗАНОВ БОРИС_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9403f47c9e344ea33bda0e8dd8d32fe7

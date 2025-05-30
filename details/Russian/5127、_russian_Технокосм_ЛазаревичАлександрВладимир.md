@@ -8,7 +8,7 @@
 5127、_russian_Технокосм_Лазаревич Александр Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2ae40c8be764014122407fea1a51c46

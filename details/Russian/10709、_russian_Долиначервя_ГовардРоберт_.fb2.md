@@ -8,7 +8,7 @@
 10709、_russian_Долина червя_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff368cf3a9cd661d64ddbdf241cc83a5

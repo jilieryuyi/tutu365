@@ -8,7 +8,7 @@
 11969、_russian_Нет царя у тараканов_Вайсс Дэниэл Ивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8366c3733b0f001ba7e1ff580200055f

@@ -8,7 +8,7 @@
 2395、_russian_Главное задание_Астахов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28cc3aabcf47c7bedb73fd642ae76593

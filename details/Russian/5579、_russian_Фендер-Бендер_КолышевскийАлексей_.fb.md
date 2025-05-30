@@ -8,7 +8,7 @@
 5579、_russian_Фендер-Бендер_Колышевский Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8f0277539536c1b29c1732387cfad97

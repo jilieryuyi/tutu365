@@ -8,7 +8,7 @@
 7206、_russian_Внезапные наслаждения_Смолл Бертрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e91a680ce226f119ef9d165fd23c30a5

@@ -8,7 +8,7 @@
 13573、_russian_Пламя невинности_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9914fae3f274e6d3dc32be0cf1ea519b

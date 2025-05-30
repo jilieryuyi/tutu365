@@ -8,7 +8,7 @@
 5754、_russian_Принцесса гарема_Гроу Диана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8433d16096c999336ec5e0e26b540df

@@ -8,7 +8,7 @@
 11107、_russian_Рожденная в Ночи_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbaa53a72a9d532c3d478a44ee8d4d6d

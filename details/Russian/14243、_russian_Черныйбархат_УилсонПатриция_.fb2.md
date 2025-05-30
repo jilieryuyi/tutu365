@@ -8,7 +8,7 @@
 14243、_russian_Черный бархат_Уилсон Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 442349cd6de72ed6986c9d0f504a73fb

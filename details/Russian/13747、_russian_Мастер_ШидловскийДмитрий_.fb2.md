@@ -8,7 +8,7 @@
 13747、_russian_Мастер_Шидловский Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d929df4dd01099ef9ff5787b7d26c882

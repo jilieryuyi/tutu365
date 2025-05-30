@@ -8,7 +8,7 @@
 12195、_russian_Одинокие песни Ларена Дора_Мартин Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1be748b82f35a12622b10f1de249871

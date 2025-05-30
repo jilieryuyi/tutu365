@@ -8,7 +8,7 @@
 9086、_russian_Этика_Станиславский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e2db714901103e7dca0f751eb9df4ca

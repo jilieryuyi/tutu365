@@ -8,7 +8,7 @@
 5072、_russian_Приказано убить_Парецки Сара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64a6d735080051ef7cb27135efea155a

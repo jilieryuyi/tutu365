@@ -8,7 +8,7 @@
 4467、_russian_Тайны Сан-Пауло_Шмидт Афонсо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bb7970ebf8eaf6fc8bf3d08af78350f

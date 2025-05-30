@@ -8,7 +8,7 @@
 13692、_english_Warrior's Bride_Gerri Russell_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e67a645bf517d939e089124ff5123165

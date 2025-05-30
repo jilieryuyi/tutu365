@@ -8,7 +8,7 @@
 5751、_russian_Твой навсегда_Маккена Шеннон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d6e3fc99f49d060d2ad498c75564500

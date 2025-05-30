@@ -8,7 +8,7 @@
 671、_russian_Продавец приключений_Садовников Георгий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40ccd4c6afe63da17d203ba6e6102b07

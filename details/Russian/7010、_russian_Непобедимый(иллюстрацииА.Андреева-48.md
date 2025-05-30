@@ -8,7 +8,7 @@
 7010、_russian_Непобедимый (иллюстрации А.Андреева - 480x360)_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ec6c6d9c14a3a9551e5a079d2f8e91a

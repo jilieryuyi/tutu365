@@ -8,7 +8,7 @@
 10491、_ukrainian_Пасербки восьмо_ запов_д__Олд_ Генр_ Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0a5e5c1808e3fb30e6dc3084b8d5841a

@@ -8,7 +8,7 @@
 15121、_russian_Тени сгущаются_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e89154a3eeb08ffca398cf9d306c6abf

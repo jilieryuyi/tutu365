@@ -8,7 +8,7 @@
 3923、_russian_Сердце хирурга_Углов Фёдор Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 84223c624709f91fa19a8a45f641fd96

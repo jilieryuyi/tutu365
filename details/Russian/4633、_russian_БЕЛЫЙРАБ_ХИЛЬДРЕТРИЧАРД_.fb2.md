@@ -8,7 +8,7 @@
 4633、_russian_БЕЛЫЙ РАБ_ХИЛЬДРЕТ РИЧАРД_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 843a01de08fd1998dbc1caa0aad5b63e

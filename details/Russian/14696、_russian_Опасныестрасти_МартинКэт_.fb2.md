@@ -8,7 +8,7 @@
 14696、_russian_Опасные страсти_Мартин Кэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9e6e10cfdb438c8e76e2bcf3eda9a57

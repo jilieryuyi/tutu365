@@ -8,7 +8,7 @@
 亚特兰蒂斯（全三册套装）_A.G.里德尔 & （美）A.G.里德尔__5487994_46810db7f1bd2020ceca8cb3a7966a54.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 46810db7f1bd2020ceca8cb3a7966a54

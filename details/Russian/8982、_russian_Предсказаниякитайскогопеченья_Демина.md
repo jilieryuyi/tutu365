@@ -8,7 +8,7 @@
 8982、_russian_Предсказания китайского печенья_Демина Нина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9e706367203424cd03b8922d1cf7ba1

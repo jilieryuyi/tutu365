@@ -8,7 +8,7 @@
 15090、_russian_Большая охота__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 839ca4ed95108ae0dedc68b961986f14

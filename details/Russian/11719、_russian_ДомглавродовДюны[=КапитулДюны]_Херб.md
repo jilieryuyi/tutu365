@@ -8,7 +8,7 @@
 11719、_russian_Дом глав родов Дюны [= Капитул Дюны]_Херберт Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53439cbb2ca684ecaebab143a7116771

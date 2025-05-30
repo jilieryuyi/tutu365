@@ -8,7 +8,7 @@
 3586、_russian_Троя. Падение царей__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5bffc79d1d02d949c7b81a2fe9957f80

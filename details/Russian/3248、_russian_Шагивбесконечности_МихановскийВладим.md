@@ -8,7 +8,7 @@
 3248、_russian_Шаги в бесконечности_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c72e44fcacf746873af3cf02c9a68e7b

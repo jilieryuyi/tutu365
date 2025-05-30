@@ -8,7 +8,7 @@
 8250、_russian_Дочь Голубых гор_Лливелин Морган_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc7b36463f819833e7c9aa0557a902db

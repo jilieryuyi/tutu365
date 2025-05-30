@@ -8,7 +8,7 @@
 380、玩转美味烧烤_Publisher           _ 重庆出版集团，重庆出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 720b1670bf7a060890453279967be73f

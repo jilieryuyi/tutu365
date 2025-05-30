@@ -8,7 +8,7 @@
 13563、_russian_Скандальная невеста_Джеймс Саманта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d1659c451c7009d4c3630b8144d8bc9

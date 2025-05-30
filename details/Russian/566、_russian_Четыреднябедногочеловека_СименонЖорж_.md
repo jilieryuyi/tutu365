@@ -8,7 +8,7 @@
 566、_russian_Четыре дня бедного человека_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e6efaabe6fbaca91f9833b53a4583b2

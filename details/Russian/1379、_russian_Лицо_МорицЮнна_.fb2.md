@@ -8,7 +8,7 @@
 1379、_russian_Лицо_Мориц Юнна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a99696cf65fbd471dc39171a8b90d526

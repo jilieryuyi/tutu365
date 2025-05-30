@@ -8,7 +8,7 @@
 9937、_russian_Дом на краю света_Каннингем Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec1c7d839ff6102270c4fbbe2264b436

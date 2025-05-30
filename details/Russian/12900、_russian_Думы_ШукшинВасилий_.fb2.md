@@ -8,7 +8,7 @@
 12900、_russian_Думы_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d6810c85796b3956e6fbf8b90941cfb

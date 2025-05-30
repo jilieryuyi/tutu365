@@ -8,7 +8,7 @@
 10744、_russian_Знамя химеры_Иванов Алексей Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cf2c4c93ad989480deaabb502a9c0a5

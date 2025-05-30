@@ -8,7 +8,7 @@
 13536、_russian_Дети мёртвых_Елинек Эльфрида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a250e6a58b34c8f99ccf10f3d896867

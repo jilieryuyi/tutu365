@@ -8,7 +8,7 @@
 2418、图灵的秘密_他的生平、思想及论文解读_Charles Petzold_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 df2d9992631f51a3e64a33f03cdf650f

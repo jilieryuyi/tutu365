@@ -8,7 +8,7 @@
 13705、_russian_Любовь и бульдог_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38139b10865d2d74feaf0403e4d6e08f

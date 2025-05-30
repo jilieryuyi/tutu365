@@ -8,7 +8,7 @@
 2110、Shell从入门到精通 (Linux典藏大系)_张春晓_清华大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7b7964a043b8fd11333373690afe57c2

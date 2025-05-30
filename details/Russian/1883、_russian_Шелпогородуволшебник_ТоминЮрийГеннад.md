@@ -8,7 +8,7 @@
 1883、_russian_Шел по городу волшебник_Томин Юрий Геннадьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 069b06970df8387e04d75073baabe875

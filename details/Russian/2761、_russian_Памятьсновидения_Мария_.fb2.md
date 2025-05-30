@@ -8,7 +8,7 @@
 2761、_russian_Память сновидения_Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d236ecaf75e8dd7443d814b923cfdd95

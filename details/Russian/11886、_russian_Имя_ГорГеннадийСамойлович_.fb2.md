@@ -8,7 +8,7 @@
 11886、_russian_Имя_Гор Геннадий Самойлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71b78f32a5b1c194df006ef3d357edaf

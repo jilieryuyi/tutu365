@@ -8,7 +8,7 @@
 17000、_english_The Lion's Daughter_Loretta Chase_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8f5b067901f15bbf9b4b5998324ee533

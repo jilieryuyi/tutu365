@@ -8,7 +8,7 @@
 4214、_russian_Хорошая погода_Тертлдав Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0159f245d5a1a7d40050703e56f46a7e

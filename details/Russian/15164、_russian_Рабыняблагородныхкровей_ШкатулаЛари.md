@@ -8,7 +8,7 @@
 15164、_russian_Рабыня благородных кровей_Шкатула Лариса_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09ee3adff9a22355f0a23c1400996746

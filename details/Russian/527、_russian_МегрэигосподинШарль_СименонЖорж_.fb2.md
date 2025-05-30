@@ -8,7 +8,7 @@
 527、_russian_Мегрэ и господин Шарль_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bfb321a167fdf1e1e46fa8fce445fad

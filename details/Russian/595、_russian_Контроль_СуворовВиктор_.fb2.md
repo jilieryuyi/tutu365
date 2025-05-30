@@ -8,7 +8,7 @@
 595、_russian_Контроль_Суворов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a9c1508f0743fe825722313757e72a0

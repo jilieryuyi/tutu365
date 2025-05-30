@@ -8,7 +8,7 @@
 8596、_russian_Логика. Учебное пособие. Издание 2-е_Ивин Александр Архипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4056bdbc36d7c237a9f6a83bdfc30ac7

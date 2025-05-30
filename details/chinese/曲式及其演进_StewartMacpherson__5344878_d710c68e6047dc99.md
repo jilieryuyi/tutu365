@@ -8,7 +8,7 @@
 曲式及其演进_Stewart Macpherson__5344878_d710c68e6047dc99e9be523d6cb2334b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d710c68e6047dc99e9be523d6cb2334b

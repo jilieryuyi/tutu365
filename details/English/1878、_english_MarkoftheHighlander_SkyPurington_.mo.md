@@ -8,7 +8,7 @@
 1878、_english_Mark of the Highlander_Sky Purington_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a2ef8bf83c68f1646730e0f65b24ae5d

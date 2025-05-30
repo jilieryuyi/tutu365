@@ -8,7 +8,7 @@
 266、_russian_Покорившие судьбу_Кинг Валери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9401b352a540361164c3f8ec5acbc097

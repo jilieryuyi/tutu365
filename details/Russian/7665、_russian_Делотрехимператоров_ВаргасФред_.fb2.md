@@ -8,7 +8,7 @@
 7665、_russian_Дело трех императоров_Варгас Фред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdc4f2c004be48d3129bcec24511a9df

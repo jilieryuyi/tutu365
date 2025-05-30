@@ -8,7 +8,7 @@
 7547、_russian_Смех Диониса_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 296595a85a0cbd5d45a575b6fe821231

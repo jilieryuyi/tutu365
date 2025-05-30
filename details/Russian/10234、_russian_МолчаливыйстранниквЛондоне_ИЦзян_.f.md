@@ -8,7 +8,7 @@
 10234、_russian_Молчаливый странник в Лондоне_И Цзян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e154235d908e926a68cc74fe3a384458

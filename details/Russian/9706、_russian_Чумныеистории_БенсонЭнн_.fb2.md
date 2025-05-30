@@ -8,7 +8,7 @@
 9706、_russian_Чумные истории_Бенсон Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d1d7c58301cee553558fb2bc81a7dc91

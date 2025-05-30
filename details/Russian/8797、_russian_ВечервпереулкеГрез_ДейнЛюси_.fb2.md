@@ -8,7 +8,7 @@
 8797、_russian_Вечер в переулке Грез_Дейн Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 835d1d81b9e1a6e6d5ec675200333ea4

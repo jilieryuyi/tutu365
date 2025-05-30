@@ -8,7 +8,7 @@
 6370、_russian_Атрибут власти_Абдуллаев Чингиз Акифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 580318dc616e531b30ce12f431d9149d

@@ -8,7 +8,7 @@
 1267、_russian_Как выжить с эльфом..._Лисецкий Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c604f7aae4c09cd7dec0ad5042ce43d

@@ -8,7 +8,7 @@
 494、_russian_Желтый пес_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50e1b91260912f2f4fbe880281784547

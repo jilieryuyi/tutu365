@@ -8,7 +8,7 @@
 984、_russian_Кортик_Рыбаков Анатолий Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e33358e5beeab453556da57fcf29bb0

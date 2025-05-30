@@ -8,7 +8,7 @@
 12052、_russian_Ложь во спасение_Картер Люсиль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3898e9c4a7cd1c61a3b7b72699a46a8b

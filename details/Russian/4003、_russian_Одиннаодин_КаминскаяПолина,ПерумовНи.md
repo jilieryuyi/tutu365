@@ -8,7 +8,7 @@
 4003、_russian_Один на один_Каминская Полина, Перумов Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9761072aaf0f8aefb188b392b804412

@@ -8,7 +8,7 @@
 3490、_russian_Утечка мозгов_Выставной Владислав Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 312bbdfb01f2c3d81b3c0c98147708fa

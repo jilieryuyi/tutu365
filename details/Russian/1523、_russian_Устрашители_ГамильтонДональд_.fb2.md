@@ -8,7 +8,7 @@
 1523、_russian_Устрашители_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3229e57bea554addd17125d5bd67cab2

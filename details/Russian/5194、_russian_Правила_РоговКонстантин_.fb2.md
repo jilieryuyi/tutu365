@@ -8,7 +8,7 @@
 5194、_russian_Правила_Рогов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1aecb9d2cbac23603b5a87cfa8af71a7

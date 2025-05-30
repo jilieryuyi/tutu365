@@ -8,7 +8,7 @@
 978、_russian_Барсуки_Леонов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fb894e0099db69c8228a8cebd515987

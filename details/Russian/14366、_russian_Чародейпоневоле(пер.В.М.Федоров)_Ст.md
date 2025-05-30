@@ -8,7 +8,7 @@
 14366、_russian_Чародей поневоле (пер. В.М.Федоров)_Сташефф Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29292cbc83f2965a08fc80ff5f30432d

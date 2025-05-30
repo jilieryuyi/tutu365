@@ -8,7 +8,7 @@
 12635、_russian_На каникулах_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e0c482eb94dba4b95528b396562dd10

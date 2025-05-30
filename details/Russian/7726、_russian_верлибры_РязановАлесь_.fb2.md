@@ -8,7 +8,7 @@
 7726、_russian_верлибры_Рязанов Алесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8a07c31e6e4197b21b9933d49c68d7d

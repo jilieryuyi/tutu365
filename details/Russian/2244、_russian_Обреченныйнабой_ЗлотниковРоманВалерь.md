@@ -8,7 +8,7 @@
 2244、_russian_Обреченный на бой_Злотников Роман Валерьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60aeb4ce948383ceee4f72d42efeac9b

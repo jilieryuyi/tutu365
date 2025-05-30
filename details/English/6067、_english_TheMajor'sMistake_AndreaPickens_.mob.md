@@ -8,7 +8,7 @@
 6067、_english_The Major's Mistake_Andrea Pickens_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1b3712499eeaefaff1b57aa264ab969f

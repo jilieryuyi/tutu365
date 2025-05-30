@@ -8,7 +8,7 @@
 1971、Android底层开发技术实战详解_内核、移植和驱动(第2版) (Android移动开发技术丛书)_王振丽^等_电子工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eb9be7bb3fab2893a54f119d12487203

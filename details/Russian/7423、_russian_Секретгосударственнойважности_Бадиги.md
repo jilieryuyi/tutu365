@@ -8,7 +8,7 @@
 7423、_russian_Секрет государственной важности_Бадигин Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71b700e40c965edb56129df81f7cbd8f

@@ -8,7 +8,7 @@
 7928、_russian_Убить шамана_де Куатьэ Анхель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22a9859831c90dbc9268ee7991749e6b

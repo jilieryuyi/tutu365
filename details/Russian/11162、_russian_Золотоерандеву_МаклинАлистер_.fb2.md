@@ -8,7 +8,7 @@
 11162、_russian_Золотое рандеву_Маклин Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 193d3325ea112ce7684917d908f4518d

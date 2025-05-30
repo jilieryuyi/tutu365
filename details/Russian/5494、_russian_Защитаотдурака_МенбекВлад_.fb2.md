@@ -8,7 +8,7 @@
 5494、_russian_Защита от дурака_Менбек Влад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcabd5f0dd73d0b4858477d6d5f6232a

@@ -8,7 +8,7 @@
 7553、_english_Highlander's Captive_Barbara Bard_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 02444caba43bafcc0d72242b7bab73e1

@@ -8,7 +8,7 @@
 12537、_russian_По ту сторону любви_Мэйджер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac84870c326eaac8b1bcd2b7b4e8a498

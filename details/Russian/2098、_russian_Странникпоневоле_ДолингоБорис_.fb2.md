@@ -8,7 +8,7 @@
 2098、_russian_Странник поневоле_Долинго Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0b4922db6c471ec7a754bd9736cb718

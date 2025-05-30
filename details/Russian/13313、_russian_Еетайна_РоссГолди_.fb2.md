@@ -8,7 +8,7 @@
 13313、_russian_Ее тайна_Росс Голди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 835ddf0d3279d8871f05073d0bbc2cdb

@@ -8,7 +8,7 @@
 7230、_russian_После разлуки. Берлинский песенник_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d522ca8e1993e014759b24cb36beef3

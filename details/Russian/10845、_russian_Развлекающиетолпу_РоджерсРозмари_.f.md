@@ -8,7 +8,7 @@
 10845、_russian_Развлекающие толпу_Роджерс Розмари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b300a344551e72663d3e72cda392a4e

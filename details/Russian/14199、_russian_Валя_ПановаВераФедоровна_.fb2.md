@@ -8,7 +8,7 @@
 14199、_russian_Валя_Панова Вера Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fdb5d05e3e1517f9bc5ab39e0288290e

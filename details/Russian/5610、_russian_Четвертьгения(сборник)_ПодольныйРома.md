@@ -8,7 +8,7 @@
 5610、_russian_Четверть гения (сборник)_Подольный Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 137b7b9bcb2c9c9babb10f698fbab45f

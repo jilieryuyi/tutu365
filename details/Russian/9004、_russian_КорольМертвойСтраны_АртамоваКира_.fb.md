@@ -8,7 +8,7 @@
 9004、_russian_Король Мертвой Страны_Артамова Кира_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b07e3e93076b47298239df8b08da8286

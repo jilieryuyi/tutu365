@@ -8,7 +8,7 @@
 5677、_russian_Обещание_Вакс Эндрю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac805bb4747498507826b302a7cb32c6

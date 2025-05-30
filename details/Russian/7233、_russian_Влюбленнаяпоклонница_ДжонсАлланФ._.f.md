@@ -8,7 +8,7 @@
 7233、_russian_Влюбленная поклонница_Джонс Аллан Ф._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 469f85f46c0b42568e811dd60e9f191d

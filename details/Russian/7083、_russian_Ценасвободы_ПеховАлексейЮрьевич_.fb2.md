@@ -8,7 +8,7 @@
 7083、_russian_Цена свободы_Пехов Алексей Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a4f69accbff293b751e7d66de17fba5

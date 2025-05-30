@@ -8,7 +8,7 @@
 10694、_russian_Гончие смерти_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d95a6ab59b56ad1b2ac21ce4a9eaf995

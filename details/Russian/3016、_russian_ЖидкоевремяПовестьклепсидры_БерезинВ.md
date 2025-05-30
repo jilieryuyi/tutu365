@@ -8,7 +8,7 @@
 3016、_russian_Жидкое время Повесть клепсидры_Березин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ae49b7ff21bdba353871741f11ac486

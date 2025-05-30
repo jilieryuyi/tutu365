@@ -8,7 +8,7 @@
 2025、HTML5与CSS3基础教程(第7版) (图灵程序设计丛书)_Elizabeth Castro_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 780d5afc93ed77e79788db60f96ef961

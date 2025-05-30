@@ -8,7 +8,7 @@
 3930、_russian_Я жду_Старобинец Анна Альфредовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65c381302cacfe997cdb866637c463b0

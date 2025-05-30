@@ -8,7 +8,7 @@
 15286、_russian_Сотерис_Таланов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff573e9d52c5863603897efa9eb35baf

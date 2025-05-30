@@ -8,7 +8,7 @@
 3602、_russian_Хроники Навь-Города_Щепетнёв Василий Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be06050126ad5c11021252baa2ba202b

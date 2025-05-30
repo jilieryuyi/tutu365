@@ -8,7 +8,7 @@
 1689、_russian_Мертвые без погребения_Сартр Жан-Поль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8dd86ab2952531145bd8ea5a6cf4a933

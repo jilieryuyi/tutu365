@@ -8,7 +8,7 @@
 10528、_english_Great Thinkers on Ramakrishna Vivekananda _Swami Sarvabhutananda_Ramakrishna Mission .pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0796f57af4dc47cf955d491a81d6286e

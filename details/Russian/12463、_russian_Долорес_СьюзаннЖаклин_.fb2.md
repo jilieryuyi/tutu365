@@ -8,7 +8,7 @@
 12463、_russian_Долорес_Сьюзанн Жаклин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d8b8fdfe3134a6a211347b4765ce813

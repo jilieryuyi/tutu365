@@ -8,7 +8,7 @@
 3467、_russian_Легенда_Геммел Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cf690be02e83218b0d792ad6d6bd675

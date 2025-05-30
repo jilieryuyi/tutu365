@@ -8,7 +8,7 @@
 3323、_russian_Ирландская аватара_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e12f54bc333ef754c3712112dfe6e0df

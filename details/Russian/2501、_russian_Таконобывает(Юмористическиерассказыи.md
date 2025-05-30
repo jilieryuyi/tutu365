@@ -8,7 +8,7 @@
 2501、_russian_Так оно бывает (Юмористические рассказы и сценки)_Ардов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd06ef329853ccfffc8e47fbf1a65960

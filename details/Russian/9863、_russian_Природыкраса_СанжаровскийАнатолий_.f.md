@@ -8,7 +8,7 @@
 9863、_russian_Природы краса_Санжаровский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 62f6366e33808d41a50a24f70e3d7fed

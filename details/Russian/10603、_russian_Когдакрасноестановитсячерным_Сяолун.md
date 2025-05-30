@@ -8,7 +8,7 @@
 10603、_russian_Когда красное становится черным_Сяолун Цю_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61af57a9bb95c3d6baa3d3933549c69b

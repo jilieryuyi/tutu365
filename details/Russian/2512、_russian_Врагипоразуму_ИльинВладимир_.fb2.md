@@ -8,7 +8,7 @@
 2512、_russian_Враги по разуму_Ильин Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05def06b504133cbfc4c31168dbee59b

@@ -8,7 +8,7 @@
 5139、_russian_Трудовой хлеб_Островский. Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 749744fe1e2c869698392df4e914ef88

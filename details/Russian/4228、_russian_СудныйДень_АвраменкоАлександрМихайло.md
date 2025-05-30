@@ -8,7 +8,7 @@
 4228、_russian_Судный День_Авраменко Александр Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8fe222f8d1e1d237b22564da366a7d3

@@ -8,7 +8,7 @@
 13951、_russian_Месяц Седых трав_Посняков Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab392e964ade2c7f21f4c2f933ad4d0f

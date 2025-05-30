@@ -8,7 +8,7 @@
 12472、_russian_Богема_Ивнев Рюрик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 78136e4d466bc218ac20ba549f4f3fb8

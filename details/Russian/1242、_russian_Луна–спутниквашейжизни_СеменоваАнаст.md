@@ -8,7 +8,7 @@
 1242、_russian_Луна – спутник вашей жизни_Семенова Анастасия Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03c0abb0927abccf6824b452f4ab57c8

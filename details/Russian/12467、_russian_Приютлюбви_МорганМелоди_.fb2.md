@@ -8,7 +8,7 @@
 12467、_russian_Приют любви_Морган Мелоди_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 408cc7e9b471d174fb26c5851be8f49d

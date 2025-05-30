@@ -8,7 +8,7 @@
 2944、如何阅读一本书 How to read a book_莫提默·J.艾得勒  查尔斯·范多伦_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a83922c9d04d964691c7e731519fa5af

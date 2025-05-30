@@ -8,7 +8,7 @@
 4238、_russian_Бешенство_Герритсен Тесс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cc110cd9437eb50e0150a202c87f4b6

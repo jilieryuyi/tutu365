@@ -8,7 +8,7 @@
 8759、_russian_Роковая Маруся_Качан Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df95d995a524989a63c02bdb05bb3064

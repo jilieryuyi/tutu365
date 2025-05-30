@@ -8,7 +8,7 @@
 银河系搭车客指南5部曲（套装共5本）_道格拉斯·亚当斯 (Douglas Adams)__5487995_7d892a3ec1034291a40d044593e8e6cb.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7d892a3ec1034291a40d044593e8e6cb

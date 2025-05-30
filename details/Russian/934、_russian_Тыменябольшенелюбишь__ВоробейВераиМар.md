@@ -8,7 +8,7 @@
 934、_russian_Ты меня больше не любишь__Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e4ebe79960321f65c515eacd7bd2dd3

@@ -8,7 +8,7 @@
 美帝国的崩溃_过去，现在和未来_约翰 加尔通 Johan Galtung_人民出版社_5381613_33868bc5740ae06e3636e5e4504b49db.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 33868bc5740ae06e3636e5e4504b49db

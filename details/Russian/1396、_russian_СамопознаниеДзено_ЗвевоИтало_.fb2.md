@@ -8,7 +8,7 @@
 1396、_russian_Самопознание Дзено_Звево Итало_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 038fa1655df06b1371e324e9d13971e1

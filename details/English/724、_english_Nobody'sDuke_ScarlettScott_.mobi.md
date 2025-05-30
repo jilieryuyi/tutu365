@@ -8,7 +8,7 @@
 724、_english_Nobody's Duke_Scarlett Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ccc8a678a1388d0d7080adcf6022195d

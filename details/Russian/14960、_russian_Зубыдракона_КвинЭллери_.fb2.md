@@ -8,7 +8,7 @@
 14960、_russian_Зубы дракона_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4d1b1c2e8574e86b7c4c70956997f16

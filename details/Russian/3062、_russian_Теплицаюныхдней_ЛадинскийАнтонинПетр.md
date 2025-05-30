@@ -8,7 +8,7 @@
 3062、_russian_Теплица юных дней_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cefb57ffae0075e37600392b58cf85ea

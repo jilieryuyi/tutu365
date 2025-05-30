@@ -8,7 +8,7 @@
 5878、_russian_Письма. Часть 1_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5ad0848c36ece8321c3eb51b598256e

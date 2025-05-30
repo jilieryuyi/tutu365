@@ -8,7 +8,7 @@
 12311、_russian_Жив он или умер__Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de350a62235b402044b049ec675d5d32

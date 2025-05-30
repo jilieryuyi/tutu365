@@ -8,7 +8,7 @@
 8422、_russian_Хорхе Луис Борхес. Алгорифма_Алексеев Вадим Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 abb319e5232c08f5da64089d323c1fd9

@@ -8,7 +8,7 @@
 1264、_russian_Сборник рассказов_Ермакова Олеся Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3d8f56d8d5054e286770d32764c05a2

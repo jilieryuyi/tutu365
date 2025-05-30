@@ -8,7 +8,7 @@
 14106、_russian_Дьявол в раю_Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c85a8069cf1060359f7ac26d3b6d4bfe

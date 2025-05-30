@@ -8,7 +8,7 @@
 710、_russian_Живи высочайшей милостью_Саймак Клиффорд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1974eb000136527e1f6bb58b9e04c1ca

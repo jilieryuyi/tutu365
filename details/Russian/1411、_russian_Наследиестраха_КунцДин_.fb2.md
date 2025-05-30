@@ -8,7 +8,7 @@
 1411、_russian_Наследие страха_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7184732cbd40fcc437da3f443d668fe8

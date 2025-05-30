@@ -8,7 +8,7 @@
 11555、_russian_Последний спринтер_Скаландис Ант_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ce6d83a5def876a81a46d9d4d27ffb0

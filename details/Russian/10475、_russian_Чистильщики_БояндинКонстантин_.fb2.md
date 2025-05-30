@@ -8,7 +8,7 @@
 10475、_russian_Чистильщики_Бояндин Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fc91a9272efe3eb6bfee6a406b1b954

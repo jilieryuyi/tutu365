@@ -8,7 +8,7 @@
 12587、_russian_Лед и пламень_Папанин Иван Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd3d6da7ab7ea9807b901d7dd331a3cf

@@ -8,7 +8,7 @@
 编译原理 第二版_Alfred V. Aho,Monica S.Lam, Ravi Sethi, Jeffrey D. Ullman_机械工业出版社_5458196_5685aa643e50127c3aa8400e8571ec5a.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5685aa643e50127c3aa8400e8571ec5a

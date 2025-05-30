@@ -8,7 +8,7 @@
 3976、_russian_Школа негодяев_Валетов Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c2785e02b55c6d642cc626de8766d6c

@@ -8,7 +8,7 @@
 11226、_russian_Возмутитель спокойствия_Соловьев Леонид Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ff8edfc0ed3f72dcb8c139c98ca0b05

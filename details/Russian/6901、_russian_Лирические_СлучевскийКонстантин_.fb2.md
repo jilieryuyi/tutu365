@@ -8,7 +8,7 @@
 6901、_russian_Лирические_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac0fe81c81645eb85dd12b25029a5972

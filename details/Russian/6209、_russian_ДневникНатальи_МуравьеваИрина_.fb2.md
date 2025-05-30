@@ -8,7 +8,7 @@
 6209、_russian_Дневник Натальи_Муравьева Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c44f224802096926536b68131b3031ed

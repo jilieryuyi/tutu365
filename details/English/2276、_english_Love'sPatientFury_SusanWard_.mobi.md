@@ -8,7 +8,7 @@
 2276、_english_Love's Patient Fury_Susan Ward_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5063232d75648d5174db5110a9b443ea

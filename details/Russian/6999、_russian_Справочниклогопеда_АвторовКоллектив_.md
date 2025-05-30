@@ -8,7 +8,7 @@
 6999、_russian_Справочник логопеда_Авторов Коллектив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e7e41515cfd6d8e1820c332afe2fb51

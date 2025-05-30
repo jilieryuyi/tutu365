@@ -8,7 +8,7 @@
 4329、_russian_Прописные истины (сборник)_Росоховатский Игорь Маркович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56fbb99f302ccb012a0725fbec98a71e

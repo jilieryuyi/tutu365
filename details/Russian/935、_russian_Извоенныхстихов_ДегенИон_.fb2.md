@@ -8,7 +8,7 @@
 935、_russian_Из военных стихов_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 791cef4269529a92122783c391748c13

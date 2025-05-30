@@ -8,7 +8,7 @@
 13877、_russian_Ведьменыш_Шишкин Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a050625b72ceb13e2cf298c4e1b19a6

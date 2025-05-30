@@ -8,7 +8,7 @@
 4919、_russian_Антилузер_Меркури Илиас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87faab909ac941d112e27dc6d493a6a3

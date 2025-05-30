@@ -8,7 +8,7 @@
 10210、_russian_Ювелирная операция_Стрельцов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0002046716a47c571b0fb2041ea25a95

@@ -8,7 +8,7 @@
 Netkiller Spring Cloud 手札_Mr. Neo Chan, 陈景峯(BG7NYT)__5526995_c9e106361a6c5dd78d39f54fd2c11e75.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c9e106361a6c5dd78d39f54fd2c11e75

@@ -8,7 +8,7 @@
 6335、_russian_Опаленный звездами_Кривцун Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67e5566887b707557911d7adcdb7415f

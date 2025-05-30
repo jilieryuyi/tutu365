@@ -8,7 +8,7 @@
 2237、鸟哥的Linux私房菜 基础学习篇(第三版)_鸟哥_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 87691aeed56903b477cbd7aa969fd825

@@ -8,7 +8,7 @@
 4618、_russian_Иного выбора нет_Блейк Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 685d7bfa9a00c06b1631cbaa19cc68a8

@@ -8,7 +8,7 @@
 260、_russian_Сбежавшая няня_Хэррис Кэтлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc7718905a8ed1fe8803fb4b389a6d29

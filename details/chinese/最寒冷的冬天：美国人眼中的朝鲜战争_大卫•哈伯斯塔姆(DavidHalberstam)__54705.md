@@ -8,7 +8,7 @@
 最寒冷的冬天：美国人眼中的朝鲜战争_大卫•哈伯斯塔姆(David Halberstam)__5470559_2894192ed2abf947c63e13b5963cf480.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2894192ed2abf947c63e13b5963cf480

@@ -8,7 +8,7 @@
 1157、数学沉思录：古今数学思想的发展与演变 (图灵新知)_[美]Mario Livio_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c344c880542a68a0d970992bea625535

@@ -8,7 +8,7 @@
 10734、_russian_Мания старого Деррика_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cf34c14691b6a00e94045819569a15d

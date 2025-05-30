@@ -8,7 +8,7 @@
 2188、_russian_Новая любовь Розамунды_Смолл Бертрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42b3fe94fd7a196f31fd73a155071fc2

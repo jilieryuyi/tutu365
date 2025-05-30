@@ -8,7 +8,7 @@
 5434、_russian_Осознание сквозного времени_Кеслер Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1dcef3880f5d8ae110e05ac1524dd5a

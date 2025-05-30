@@ -8,7 +8,7 @@
 14773、_russian_Я так хочу_Берристер Инга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ae642729dd6eb3ac24601099df7b150

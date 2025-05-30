@@ -8,7 +8,7 @@
 5650、_other_Знак Единения_Морозова Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e10df382c679d2d5b7cb11c409c435f

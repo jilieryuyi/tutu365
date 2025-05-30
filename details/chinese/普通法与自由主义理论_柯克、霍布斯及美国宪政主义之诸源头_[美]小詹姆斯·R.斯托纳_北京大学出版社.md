@@ -8,7 +8,7 @@
 普通法与自由主义理论 _ 柯克、霍布斯及美国宪政主义之诸源头_[美] 小詹姆斯·R. 斯托纳_北京大学出版社_5345192_22b0203f2d6f67100d61ca4c41d0bdbf.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 22b0203f2d6f67100d61ca4c41d0bdbf

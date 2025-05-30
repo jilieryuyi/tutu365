@@ -8,7 +8,7 @@
 12933、_russian_Обратная связь_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf8b0cd0b6157535e5720476f09340b8

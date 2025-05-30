@@ -8,7 +8,7 @@
 2157、_russian_Лунный путь_Смирнова Елена Станиславовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 856b7ee7849afd26cea91b2246d2466f

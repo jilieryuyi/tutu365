@@ -8,7 +8,7 @@
 12895、_russian_Забуксовал_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c52a83c2670de10dc981b3f3ecb36d7

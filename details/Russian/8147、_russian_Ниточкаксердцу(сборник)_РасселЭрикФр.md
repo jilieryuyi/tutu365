@@ -8,7 +8,7 @@
 8147、_russian_Ниточка к сердцу (сборник)_Рассел Эрик Френк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b6ff14b7393080bf63d01bf42e3531c

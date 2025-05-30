@@ -8,7 +8,7 @@
 2550、_russian_Райвен_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05139eb062c53f5c35b3a027783f86a8

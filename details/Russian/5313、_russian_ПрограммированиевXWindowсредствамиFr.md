@@ -8,7 +8,7 @@
 5313、_russian_Программирование в X Window средствами Free Pascal_Полищук А. П., Семериков С. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d64a69e4f768c182f8daad131c02261c

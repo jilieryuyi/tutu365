@@ -8,7 +8,7 @@
 1458、_russian_Моряк в седле_Стоун Ирвинг_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd8fe66e0dae80be1dd20093fae666de

@@ -8,7 +8,7 @@
 11915、_russian_Банджо_Кертис (I) Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 300cae24c4a1c1e4a906557663f64c30

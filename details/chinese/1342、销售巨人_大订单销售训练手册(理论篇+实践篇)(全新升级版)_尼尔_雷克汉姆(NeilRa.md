@@ -8,7 +8,7 @@
 1342、销售巨人_大订单销售训练手册(理论篇+实践篇)(全新升级版)_尼尔_雷克汉姆(NeilRackham)_中华工商联合出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 655bcc05ec8a7eed533a8711ea1dfa46

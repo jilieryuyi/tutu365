@@ -8,7 +8,7 @@
 6502、_russian_Urbi et Orbi_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 111c941e79bd83a6854066489c9068c1

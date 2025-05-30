@@ -8,7 +8,7 @@
 8255、_english_The Lady Gambles_Carole Mortimer_Harlequin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1f2fb665a11b8a5a84e42197c8857115

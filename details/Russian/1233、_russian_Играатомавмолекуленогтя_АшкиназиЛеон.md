@@ -8,7 +8,7 @@
 1233、_russian_Игра атома в молекуле ногтя_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c95b0bbc6f5bebc2b5b6ebd4d21364a8

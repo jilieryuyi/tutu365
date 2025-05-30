@@ -8,7 +8,7 @@
 6968、_russian_Дорожное происшествие_Ранк Хайнер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4efdc2a1370a668df2d84d1670ace0f

@@ -8,7 +8,7 @@
 169、揭秘太空：人类的航天梦_SoBooKs.cc 张天蓉 [张天蓉, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e314ad3e6fe1ecbf77f887c2c5ae9529

@@ -8,7 +8,7 @@
 方方日记2-diary of FANGFANG PART 2_FANG FANG__5495219_caa81b738a9e567831c428dd0c3e1f44.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 caa81b738a9e567831c428dd0c3e1f44
