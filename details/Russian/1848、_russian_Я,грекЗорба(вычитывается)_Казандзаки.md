@@ -8,7 +8,7 @@
 1848、_russian_Я, грек Зорба (вычитывается)_Казандзакис Никос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73608297687b3fa53fee00f5b9dbe313

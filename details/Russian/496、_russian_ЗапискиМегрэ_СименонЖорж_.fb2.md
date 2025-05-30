@@ -8,7 +8,7 @@
 496、_russian_Записки Мегрэ_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8635417aa86c7e09000e6a2f42ea61f

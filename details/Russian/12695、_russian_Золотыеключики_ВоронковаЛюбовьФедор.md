@@ -8,7 +8,7 @@
 12695、_russian_Золотые ключики_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da2c9507cf75ed0efe872bdaf2c43da7

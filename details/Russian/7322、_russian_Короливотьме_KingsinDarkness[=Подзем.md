@@ -8,7 +8,7 @@
 7322、_russian_Короли во тьме _ Kings in Darkness [= Подземные короли]_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10b5102b9f07109616d37d5e4c2b757d

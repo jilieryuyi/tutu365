@@ -8,7 +8,7 @@
 5501、_russian_Узник (сборник)_Маринин Эрнест_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46d94543cebd46a85680c20ccf5fb849

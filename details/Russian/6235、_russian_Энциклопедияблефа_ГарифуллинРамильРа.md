@@ -8,7 +8,7 @@
 6235、_russian_Энциклопедия блефа_Гарифуллин Рамиль Рамзиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcf6f00b1c4714ca052e73108ae202e3

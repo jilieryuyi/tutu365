@@ -8,7 +8,7 @@
 7688、_russian_Воля. Пятая тропа_Адамс Алан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7483601e4a5f0734f51471f5044ad1b5

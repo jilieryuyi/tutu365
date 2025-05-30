@@ -8,7 +8,7 @@
 317、_russian_Кто скорбит по Адонаю_Блиш Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a405289dd2332fd5dc095e707885ddab

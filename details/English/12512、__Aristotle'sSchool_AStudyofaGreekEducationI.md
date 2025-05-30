@@ -8,7 +8,7 @@
 12512、__Aristotle's School_ A Study of a Greek Education Institution_John Patrick Lynch_.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8bd1dd57a11c36420e336e7c09caaac2

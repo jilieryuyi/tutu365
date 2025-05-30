@@ -8,7 +8,7 @@
 8174、_russian_Фокус-покус, или настоящая дипломатия_Лаумер Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7df2ac3c4591afaeb2a82c7f6998ab9f

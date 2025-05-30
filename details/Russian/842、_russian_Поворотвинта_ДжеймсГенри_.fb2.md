@@ -8,7 +8,7 @@
 842、_russian_Поворот винта_Джеймс Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91088ce64c8c84ad61ca7b2c0c27948d

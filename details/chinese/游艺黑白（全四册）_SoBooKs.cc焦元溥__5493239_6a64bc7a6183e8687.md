@@ -8,7 +8,7 @@
 游艺黑白（全四册）_SoBooKs.cc 焦元溥__5493239_6a64bc7a6183e86878348831890ed894.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6a64bc7a6183e86878348831890ed894

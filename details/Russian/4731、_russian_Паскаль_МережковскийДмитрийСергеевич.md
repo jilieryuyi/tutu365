@@ -8,7 +8,7 @@
 4731、_russian_Паскаль_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b76e53e21957f57e0113ee6762d8dfa

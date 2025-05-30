@@ -8,7 +8,7 @@
 1399、_russian_Снег к добру_Щербакова Галина Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f47678ddbf7896b54c12a5cb5d9ebdc9

@@ -8,7 +8,7 @@
 2911、_russian_Московский Бисэй_Новожилов Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 079a759c0fd953870312d9e72807efba

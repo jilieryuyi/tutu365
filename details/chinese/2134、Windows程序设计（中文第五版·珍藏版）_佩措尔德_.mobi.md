@@ -8,7 +8,7 @@
 2134、Windows程序设计（中文第五版·珍藏版）_佩措尔德_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ed8be8df378381b9424f5f9727b9cbb4

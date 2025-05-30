@@ -8,7 +8,7 @@
 989、_russian_Матросы Наркомпроса_Голованов Кирилл Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09ddec681b7f1cd63805044399a6d038

@@ -8,7 +8,7 @@
 8395、_russian_Похищенная_Фолкнер Колин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 071b13cf494c3a79148b0e5c782d8549

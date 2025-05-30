@@ -8,7 +8,7 @@
 2999、_russian_У кошки девять смертей_Буйда Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dce39994cf563ecb1766e7f4a5124fe7

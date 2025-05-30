@@ -8,7 +8,7 @@
 2062、Linux就是这个范儿 (图灵原创)_[中]赵鑫磊 & [加]Jie Zhang(张洁)_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 85459fb7d0dd384255b69351676ce21f

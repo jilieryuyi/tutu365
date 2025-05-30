@@ -8,7 +8,7 @@
 1542、_russian__Если ты меня не покинешь...__Сахновский Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ddd5410cb7d6090285e89ff732407b5

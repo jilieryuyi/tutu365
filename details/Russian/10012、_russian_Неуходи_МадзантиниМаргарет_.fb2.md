@@ -8,7 +8,7 @@
 10012、_russian_Не уходи_Мадзантини Маргарет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2af1de5493eaf1643db952a2a6fd58d3

@@ -8,7 +8,7 @@
 11597、_russian_Комарра_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 586dae76d716e3fcfa1a8bc653bcf0bc

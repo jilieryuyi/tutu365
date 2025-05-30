@@ -8,7 +8,7 @@
 10619、_russian_Предисловие к сборнику рассказов Э. У. Хорнунга _Умышленное убийство___.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c65343bdf236ed8a9bcbebded469e94c

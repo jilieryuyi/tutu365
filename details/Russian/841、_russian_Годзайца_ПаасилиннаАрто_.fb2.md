@@ -8,7 +8,7 @@
 841、_russian_Год зайца_Паасилинна Арто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da5469acfba7ea6a44b63d298bfd0030

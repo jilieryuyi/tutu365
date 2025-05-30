@@ -8,7 +8,7 @@
 11790、_russian_Код да Винчи_Браун Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10f3fe032ee6457306b97ba6fca24453

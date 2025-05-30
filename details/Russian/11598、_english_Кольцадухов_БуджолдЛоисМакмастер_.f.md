@@ -8,7 +8,7 @@
 11598、_english_Кольца духов_Буджолд Лоис Макмастер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47f6e7d23408d88f2a28a281ff51eb55

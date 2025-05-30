@@ -8,7 +8,7 @@
 2888、_russian_Бренд._Сивун Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6877ddfa88d510e73766bb061d93f48

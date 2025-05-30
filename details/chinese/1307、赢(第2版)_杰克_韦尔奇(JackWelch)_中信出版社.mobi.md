@@ -8,7 +8,7 @@
 1307、赢(第2版)_杰克_韦尔奇 (Jack Welch)_中信出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 93093416c4dca3403779a23788dbad27

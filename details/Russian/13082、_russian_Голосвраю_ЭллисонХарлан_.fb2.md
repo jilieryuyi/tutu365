@@ -8,7 +8,7 @@
 13082、_russian_Голос в раю_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66aba7b4afdc2206a3e93c513985de2f

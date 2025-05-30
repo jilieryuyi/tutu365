@@ -8,7 +8,7 @@
 12552、_russian_Счастье_Стил Даниэла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a22925983e2c69e56a7c2c80e8977f95

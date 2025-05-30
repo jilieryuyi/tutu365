@@ -8,7 +8,7 @@
 2676、_russian_Холодное пламя Эригона_Ливадный Андрей Львович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6919e2de4e8698fffcf37475e8f3f05e

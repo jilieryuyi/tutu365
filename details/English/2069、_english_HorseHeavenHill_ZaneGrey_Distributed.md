@@ -8,7 +8,7 @@
 2069、_english_Horse Heaven Hill_Zane Grey_Distributed Proofreaders Canada.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3d9274ce07ad53f05427f78533fbd598

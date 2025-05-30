@@ -8,7 +8,7 @@
 1249、_russian_Поверь и полюби_Уэстон Софи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d17a658c847222499e8665bc51fe75a7

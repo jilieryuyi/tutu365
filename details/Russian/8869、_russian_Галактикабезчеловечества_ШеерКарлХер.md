@@ -8,7 +8,7 @@
 8869、_russian_Галактика без человечества_Шеер Карл Херберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c73d1f31b833d86a8092993c647e869

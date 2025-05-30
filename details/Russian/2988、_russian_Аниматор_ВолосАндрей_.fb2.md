@@ -8,7 +8,7 @@
 2988、_russian_Аниматор_Волос Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7fa93cdbde325e813c885ed10202efa4

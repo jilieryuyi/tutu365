@@ -8,7 +8,7 @@
 5320、_russian_Вампир_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de7c6cd591abff5cce7010903e9f0829

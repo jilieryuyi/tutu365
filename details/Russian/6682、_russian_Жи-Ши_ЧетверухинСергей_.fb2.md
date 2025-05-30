@@ -8,7 +8,7 @@
 6682、_russian_Жи-Ши_Четверухин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb4e009f0007c08d4b4a240bdefc9055

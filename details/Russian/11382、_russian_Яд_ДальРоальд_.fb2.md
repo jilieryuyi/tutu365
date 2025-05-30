@@ -8,7 +8,7 @@
 11382、_russian_Яд_Даль Роальд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8a829571df3e81374ffda5ba245456a

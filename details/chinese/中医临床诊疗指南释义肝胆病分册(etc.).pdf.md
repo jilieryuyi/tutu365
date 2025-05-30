@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 肝胆病分册 ( etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dc9d52ad3ab91b2b14fa117618edc6be

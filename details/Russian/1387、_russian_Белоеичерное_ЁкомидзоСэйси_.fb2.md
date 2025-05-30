@@ -8,7 +8,7 @@
 1387、_russian_Белое и черное_Ёкомидзо Сэйси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf78e3dda7fbb97e4db837e9be4cbfe1

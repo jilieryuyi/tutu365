@@ -8,7 +8,7 @@
 12276、_russian_Вечер на Хопре_Загоскин Михаил Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60eae6e39970a3c5810ddab33e0825c1

@@ -8,7 +8,7 @@
 8、月亮宝石 (小学生名著书架)_柯林斯 (Collins W)_浙江文艺出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8f543d23824d9e5cd2e9bc09c689e977

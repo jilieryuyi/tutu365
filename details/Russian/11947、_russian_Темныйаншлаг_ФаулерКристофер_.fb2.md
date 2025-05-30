@@ -8,7 +8,7 @@
 11947、_russian_Темный аншлаг_Фаулер Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8c1b3dfe046aaef738cc06df56bd4ec

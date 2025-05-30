@@ -8,7 +8,7 @@
 291、_russian_Гном Гномыч и Изюмка_Балинт Агнеш_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97a0b7d66b938cb60f0f5ba5b44baa5c

@@ -8,7 +8,7 @@
 2475、_russian_В стране слепых_Флинн Майкл Фрэнсис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 daf1a90df03143e978845d304155c246

@@ -8,7 +8,7 @@
 1470、_english_Lord Mumford's Minx_Alexandra Ivy [Ivy, Alexandra]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b12ced902cec8908bfb1e7a9ee2eda21

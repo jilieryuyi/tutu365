@@ -8,7 +8,7 @@
 12720、_russian_Жаркие ветры_Кортасар Хулио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3782d646c1dc8b1219e149fa32d37dae

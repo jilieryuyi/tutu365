@@ -8,7 +8,7 @@
 欧美各国现行宪法析要_龚钺_商务印书馆_5475763_faafbb0eca57dbdc641b2e3367ce87d7.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 faafbb0eca57dbdc641b2e3367ce87d7

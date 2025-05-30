@@ -8,7 +8,7 @@
 11592、_russian_Уровень шума_Джоунс Рэймонд Ф._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88ce8e168e74a128c4c6da8762c5f75a

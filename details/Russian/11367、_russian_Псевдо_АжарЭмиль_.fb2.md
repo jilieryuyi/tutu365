@@ -8,7 +8,7 @@
 11367、_russian_Псевдо_Ажар Эмиль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6861f272845d56a4e2d12b9e6f9c9223

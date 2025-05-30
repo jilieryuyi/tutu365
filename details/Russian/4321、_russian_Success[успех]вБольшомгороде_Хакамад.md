@@ -8,7 +8,7 @@
 4321、_russian_Success [успех] в Большом городе_Хакамада Ирина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5b4fe15cff3af264d8b21f349dd3e340

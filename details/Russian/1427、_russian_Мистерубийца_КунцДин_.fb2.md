@@ -8,7 +8,7 @@
 1427、_russian_Мистер убийца_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0b0bfb37089401a0fe51cebcd9430c35

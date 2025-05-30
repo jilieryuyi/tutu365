@@ -8,7 +8,7 @@
 9178、_russian_Отрыки из бесед_Джин Яна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d468e6cfd6615223498569cfaa3e691

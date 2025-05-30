@@ -8,7 +8,7 @@
 11852、_russian_РАДИ СЕМЬИ_ЧАРСКАЯ Лидия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 582f951814ea668921c67246e255c9bd

@@ -8,7 +8,7 @@
 1586、_russian_Проблема туземцев_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae727fc56ff081572ceca45ad6104e2e

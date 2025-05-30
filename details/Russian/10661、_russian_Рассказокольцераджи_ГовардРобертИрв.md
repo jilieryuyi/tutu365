@@ -8,7 +8,7 @@
 10661、_russian_Рассказ о кольце раджи_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a980a5de268b540b2d4f18078fb25a51

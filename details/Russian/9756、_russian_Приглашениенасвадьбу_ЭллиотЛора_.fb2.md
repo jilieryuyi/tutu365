@@ -8,7 +8,7 @@
 9756、_russian_Приглашение на свадьбу_Эллиот Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa485c3ff30f11c391ceed9c1efeb9ae

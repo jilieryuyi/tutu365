@@ -8,7 +8,7 @@
 4392、_russian_Свидетель колдовства_Райт Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c36e0130ea5d8c88cb3fe2f095a01569

@@ -8,7 +8,7 @@
 redis-sina-phpapp02.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4664d6076ee631591f5ad35f221a89df

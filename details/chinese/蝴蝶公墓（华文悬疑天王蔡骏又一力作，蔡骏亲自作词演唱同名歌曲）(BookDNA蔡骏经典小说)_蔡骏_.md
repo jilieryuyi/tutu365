@@ -8,7 +8,7 @@
 蝴蝶公墓（华文悬疑天王蔡骏又一力作，蔡骏亲自作词演唱同名歌曲） (BookDNA蔡骏经典小说)_蔡骏__5476214_01513fa57a7e6d0dde51b056963bf2c5.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 01513fa57a7e6d0dde51b056963bf2c5

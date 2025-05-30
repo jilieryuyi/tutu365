@@ -8,7 +8,7 @@
 14165、_russian_Мустанг_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0784960f4d9ad7c474f1221b953393d3

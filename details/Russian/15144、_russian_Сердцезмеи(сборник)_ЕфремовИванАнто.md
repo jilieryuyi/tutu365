@@ -8,7 +8,7 @@
 15144、_russian_Сердце змеи (сборник)_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f368f836ef9c605a41fd48ca55fdf095

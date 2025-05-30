@@ -8,7 +8,7 @@
 12983、_russian_Приключения Чиполлино_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd529af0e412ef8a71741334a86e916b

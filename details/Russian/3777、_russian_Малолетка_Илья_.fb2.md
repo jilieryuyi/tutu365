@@ -8,7 +8,7 @@
 3777、_russian_Малолетка_Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee3478fb3f6d46c596b99c96fb3a9c14

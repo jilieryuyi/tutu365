@@ -8,7 +8,7 @@
 7411、_russian_Искатели ветра_Пехов Алексей Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 effd85d0cc582c5bc612acad2c4409c8

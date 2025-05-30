@@ -8,7 +8,7 @@
 13490、_russian_Отель _Трансильвания__Ярбро Челси Куинн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8513ea1582024a192b9ca67d7d639226

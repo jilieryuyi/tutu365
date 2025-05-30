@@ -8,7 +8,7 @@
 10126、_russian_Дроздовцы в огне_Туркул Антон Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c5585777014f4edfb5130e79dbfe111

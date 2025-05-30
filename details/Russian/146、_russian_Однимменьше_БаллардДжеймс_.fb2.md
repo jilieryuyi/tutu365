@@ -8,7 +8,7 @@
 146、_russian_Одним меньше_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7436c440043e9b510c022904212db3c3

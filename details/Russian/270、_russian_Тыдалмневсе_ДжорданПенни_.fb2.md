@@ -8,7 +8,7 @@
 270、_russian_Ты дал мне все_Джордан Пенни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96b36e5916d61e44c0dadaad6404d51a

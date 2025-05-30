@@ -8,7 +8,7 @@
 北京折叠 _ Folding Beijing_郝景芳 _ 刘宇昆__5487861_be5026a94c228e4c737ddf4278b7d648.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 be5026a94c228e4c737ddf4278b7d648

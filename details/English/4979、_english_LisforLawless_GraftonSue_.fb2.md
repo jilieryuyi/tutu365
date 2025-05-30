@@ -8,7 +8,7 @@
 4979、_english_L is for Lawless_Grafton Sue_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ed24602dd42565349f69737eec33d21a

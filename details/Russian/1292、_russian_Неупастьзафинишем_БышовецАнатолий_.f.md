@@ -8,7 +8,7 @@
 1292、_russian_Не упасть за финишем_Бышовец Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8557c839a3ceef43a23638bd7682d14f

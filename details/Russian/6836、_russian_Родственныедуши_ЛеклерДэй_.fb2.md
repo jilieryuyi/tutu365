@@ -8,7 +8,7 @@
 6836、_russian_Родственные души_Леклер Дэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f28db2c754aa96425456bf0b63a822c7

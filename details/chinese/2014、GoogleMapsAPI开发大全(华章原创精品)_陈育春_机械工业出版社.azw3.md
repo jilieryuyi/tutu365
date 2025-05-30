@@ -8,7 +8,7 @@
 2014、Google Maps API开发大全 (华章原创精品)_陈育春_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7172cca45239b46ca6480d2f0f844baa

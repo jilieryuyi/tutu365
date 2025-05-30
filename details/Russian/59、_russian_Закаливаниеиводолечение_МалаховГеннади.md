@@ -8,7 +8,7 @@
 59、_russian_Закаливание и водолечение_Малахов Геннадий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e1f5637dafcbdae87ea67cf9b415b04

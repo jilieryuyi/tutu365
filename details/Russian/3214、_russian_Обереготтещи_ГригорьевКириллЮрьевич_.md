@@ -8,7 +8,7 @@
 3214、_russian_Оберег от тещи_Григорьев Кирилл Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7487724ea0b5445fd4c99bcc5b340ea4

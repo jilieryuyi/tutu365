@@ -8,7 +8,7 @@
 3211、_russian__Голубая магнолия__Баллантайн Тони_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57a8c019d6fbcaceb532cc44531062db

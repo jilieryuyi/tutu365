@@ -8,7 +8,7 @@
 9141、_russian_Азау(Стихотворения)_Гадиев Сека_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 29b6cbdb3c4742274ec01373b7c39245

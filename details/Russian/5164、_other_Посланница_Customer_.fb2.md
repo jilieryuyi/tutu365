@@ -8,7 +8,7 @@
 5164、_other_Посланница_Customer_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07942f61bf2935e3fe57344a2258b8d2

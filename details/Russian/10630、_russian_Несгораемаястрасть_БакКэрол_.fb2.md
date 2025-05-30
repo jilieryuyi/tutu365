@@ -8,7 +8,7 @@
 10630、_russian_Несгораемая страсть_Бак Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5480b13101279180a4fddb69fe3d6c52

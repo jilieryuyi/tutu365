@@ -8,7 +8,7 @@
 6264、_russian_Убийство журналиста_Гасанов Эьчин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 678a7ba7fc3c5ffaa5a030926ee287a3

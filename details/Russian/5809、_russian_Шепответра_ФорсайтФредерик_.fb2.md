@@ -8,7 +8,7 @@
 5809、_russian_Шепот ветра_Форсайт Фредерик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8e5c0433afb710900f263867c90f5d9

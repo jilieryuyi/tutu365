@@ -8,7 +8,7 @@
 世界秩序 ([美]亨利·基辛格 [Henry Kissinger]).epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 efbaea402b9988d4c0f3ec361d009824

@@ -8,7 +8,7 @@
 2100、React Native开发指南_[美] Bonnie Eisenman_人民邮电出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8b6357de6e7a40f4d502c481dae1640c

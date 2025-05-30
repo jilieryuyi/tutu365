@@ -8,7 +8,7 @@
 8541、_russian_Москва силиконовая_Царева Маша_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9dbe480fac248f7aa350d684047abbd7

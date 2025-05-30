@@ -8,7 +8,7 @@
 10381、_russian_Первый уровень. Кровавый рассвет_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 370d2bf50a134f3facf3b06f4077b460

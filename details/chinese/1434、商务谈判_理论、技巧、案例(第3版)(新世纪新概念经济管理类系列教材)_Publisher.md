@@ -8,7 +8,7 @@
 1434、商务谈判_理论、技巧、案例(第3版) (新世纪新概念经济管理类系列教材)_Publisher           _ 中国人民大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4da5ddf41fa71db5c96bab105bf48c57

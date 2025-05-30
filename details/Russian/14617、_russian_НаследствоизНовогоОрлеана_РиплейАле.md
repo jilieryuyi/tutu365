@@ -8,7 +8,7 @@
 14617、_russian_Наследство из Нового Орлеана_Риплей Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b87f8ad7f6fc233179f69410b848e6fa

@@ -8,7 +8,7 @@
 482、爱情和其他魔鬼_马尔克斯_epub掌上书苑.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b7221f023b207daf713b0ca0e78285df

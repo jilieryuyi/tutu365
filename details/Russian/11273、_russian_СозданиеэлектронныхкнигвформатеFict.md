@@ -8,7 +8,7 @@
 11273、_russian_Создание электронных книг в формате FictionBook 2.1_ практическое руководство (beta 4)_Кондратович Михаил Иосифович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39dded8f241b79daced91cf01a2dc69f

@@ -8,7 +8,7 @@
 13180、_russian_Два героя_Гранстрем Э._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7e7e01ae54d1064fd9197f8d54da7a7

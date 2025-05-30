@@ -8,7 +8,7 @@
 10077、_russian_Дом Зеора_Лихтенберг Жаклин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3af87d552a69ec884b1d2ff55afe0be3

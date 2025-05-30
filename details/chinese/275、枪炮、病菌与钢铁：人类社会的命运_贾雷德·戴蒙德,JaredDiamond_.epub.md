@@ -8,7 +8,7 @@
 275、枪炮、病菌与钢铁：人类社会的命运_贾雷德·戴蒙德, Jared Diamond_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c94f7557994ce15d64966a506344152f

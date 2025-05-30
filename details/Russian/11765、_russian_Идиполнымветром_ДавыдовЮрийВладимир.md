@@ -8,7 +8,7 @@
 11765、_russian_Иди полным ветром_Давыдов Юрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4af8ec010886530b5b5446b81e87ef1

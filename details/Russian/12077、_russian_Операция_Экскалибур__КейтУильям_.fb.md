@@ -8,7 +8,7 @@
 12077、_russian_Операция _Экскалибур__Кейт Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2802edaec64b08ce9a25a1043a0cdce6

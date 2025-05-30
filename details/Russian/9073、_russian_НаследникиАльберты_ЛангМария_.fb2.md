@@ -8,7 +8,7 @@
 9073、_russian_Наследники Альберты_Ланг Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10070acd7f3e740fd9f7deccad0c4769

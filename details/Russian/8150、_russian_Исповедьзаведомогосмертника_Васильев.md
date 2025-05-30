@@ -8,7 +8,7 @@
 8150、_russian_Исповедь заведомого смертника_Васильев Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 713d4fdfe28924f44b9ee6bf5e8ff308

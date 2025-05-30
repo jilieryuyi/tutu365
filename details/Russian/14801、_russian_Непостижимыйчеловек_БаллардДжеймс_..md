@@ -8,7 +8,7 @@
 14801、_russian_Непостижимый человек_Баллард Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af90f8f7e45389a04092059f66c0fde2

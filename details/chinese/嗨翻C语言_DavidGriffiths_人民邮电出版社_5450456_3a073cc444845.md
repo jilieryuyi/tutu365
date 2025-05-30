@@ -8,7 +8,7 @@
 嗨翻C语言_David Griffiths _人民邮电出版社_5450456_3a073cc444845351bfafdf8e2773bec9.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3a073cc444845351bfafdf8e2773bec9

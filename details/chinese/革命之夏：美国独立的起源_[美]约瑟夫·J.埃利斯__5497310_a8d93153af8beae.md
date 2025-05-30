@@ -8,7 +8,7 @@
 革命之夏：美国独立的起源_[美]约瑟夫·J. 埃利斯__5497310_a8d93153af8beae5b09aa64f50856764.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a8d93153af8beae5b09aa64f50856764

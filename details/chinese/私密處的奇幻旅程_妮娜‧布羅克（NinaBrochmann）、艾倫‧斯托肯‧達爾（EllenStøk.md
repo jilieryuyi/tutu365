@@ -8,7 +8,7 @@
 私密處的奇幻旅程_妮娜‧布羅克（Nina Brochmann）、 艾倫‧斯托肯‧達爾（Ellen Støkken Dahl）_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c05b546531ee14ba76c21aac9623afe4

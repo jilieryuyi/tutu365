@@ -8,7 +8,7 @@
 11316、_russian_Бремя прошлого_Адлер Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3574be11b1d4c6e2deed3a85aeae7c03

@@ -8,7 +8,7 @@
 12246、_russian_Автобиографические анекдоты_Окуджава Булат Шалвович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 064a047ca4c20ef6ab530a8b2596ddf4

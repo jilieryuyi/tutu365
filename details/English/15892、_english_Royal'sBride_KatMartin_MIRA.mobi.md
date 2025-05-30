@@ -8,7 +8,7 @@
 15892、_english_Royal's Bride_Kat Martin_MIRA.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 66fff43df0d8814330bc9ca2fac7070d

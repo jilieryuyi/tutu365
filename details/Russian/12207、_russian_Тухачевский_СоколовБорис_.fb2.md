@@ -8,7 +8,7 @@
 12207、_russian_Тухачевский_Соколов Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c931c91bc9b3ec1582d9057e8d379b1c

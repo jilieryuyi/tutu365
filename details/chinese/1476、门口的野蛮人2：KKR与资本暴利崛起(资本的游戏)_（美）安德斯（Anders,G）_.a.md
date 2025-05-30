@@ -8,7 +8,7 @@
 1476、门口的野蛮人2：KKR与资本暴利崛起 (资本的游戏)_（美）安德斯（Anders,G）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ef1678e0de723429b15783f7e3ddd13d

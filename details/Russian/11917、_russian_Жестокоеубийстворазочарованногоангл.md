@@ -8,7 +8,7 @@
 11917、_russian_Жестокое убийство разочарованного англичанина_Клив Брайан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3902af1efe2cece8c0661a6463211a5f

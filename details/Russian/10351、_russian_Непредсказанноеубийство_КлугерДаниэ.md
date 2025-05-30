@@ -8,7 +8,7 @@
 10351、_russian_Непредсказанное убийство_Клугер Даниэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3198a7348286d56b063c7e60a06df34c

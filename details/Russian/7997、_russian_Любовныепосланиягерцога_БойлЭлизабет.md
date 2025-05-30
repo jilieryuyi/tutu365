@@ -8,7 +8,7 @@
 7997、_russian_Любовные послания герцога_Бойл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 325326d3f9b6130736d9b5b050c1e2a3

@@ -8,7 +8,7 @@
 13231、_russian_Контрапункт_Любецкая Татьяна Львовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69fe47d29f13acfd00d19098779a3a4d

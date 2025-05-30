@@ -8,7 +8,7 @@
 2303、_russian_Том 9. Наброски, конспекты, планы_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d538ce9c4f67465c4e10e670eccdb85

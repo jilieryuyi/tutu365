@@ -8,7 +8,7 @@
 12532、_russian_Та, которой не стало_Буало-Нарсежак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60eeb3fb7882a0e3815375acc9e1b209

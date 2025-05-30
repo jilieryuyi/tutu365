@@ -8,7 +8,7 @@
 12525、_russian_Книги Великой Альты_Йолен Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65a4f92044973ab32fd3c607697c8d03

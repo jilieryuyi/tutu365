@@ -8,7 +8,7 @@
 7421、_russian_Пугливое дерево_Бадрис Элджис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42da43d260eabb7c792417a201969045

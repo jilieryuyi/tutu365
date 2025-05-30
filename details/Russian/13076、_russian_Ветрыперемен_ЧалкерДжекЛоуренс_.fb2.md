@@ -8,7 +8,7 @@
 13076、_russian_Ветры перемен_Чалкер Джек Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f648d06bffca920715d6249827173e9

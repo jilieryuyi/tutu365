@@ -8,7 +8,7 @@
 559、_russian_Мегрэ в суде присяжных_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9620239dc51dfea6d4f68bfb3b626fbc

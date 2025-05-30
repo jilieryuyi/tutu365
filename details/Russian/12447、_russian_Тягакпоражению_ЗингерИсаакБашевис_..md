@@ -8,7 +8,7 @@
 12447、_russian_Тяга к поражению_Зингер Исаак Башевис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd23b59c83530413ed51e3160f35d823

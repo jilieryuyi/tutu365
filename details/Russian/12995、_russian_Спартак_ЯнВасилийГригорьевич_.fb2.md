@@ -8,7 +8,7 @@
 12995、_russian_Спартак_Ян Василий Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5581fa891fb73a3ba7c1d621fcd2b974

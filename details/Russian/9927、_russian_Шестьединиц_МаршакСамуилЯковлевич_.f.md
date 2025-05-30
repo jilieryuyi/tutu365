@@ -8,7 +8,7 @@
 9927、_russian_Шесть единиц_Маршак Самуил Яковлевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8aa3d05bbe9830b1d005748899c1d176

@@ -8,7 +8,7 @@
 8258、_russian_Аргун_Бабченко Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4ce2f4ce7c82112847ebf2f3882f73c

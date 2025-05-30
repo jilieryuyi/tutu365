@@ -8,7 +8,7 @@
 11232、_english_Explorers Of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1ba8db6005712a8c4353651e72f43c30

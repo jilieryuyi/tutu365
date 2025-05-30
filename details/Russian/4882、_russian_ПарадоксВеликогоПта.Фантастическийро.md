@@ -8,7 +8,7 @@
 4882、_russian_Парадокс Великого Пта. Фантастический роман_Жаренов Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfc93a864bafeb4d9e8d9e0638346ca6

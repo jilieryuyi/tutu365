@@ -8,7 +8,7 @@
 9401、_russian_Большая Советская Энциклопедия (МК)_БСЭ БСЭ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34d84851dcf15dc8938325bceedbff49

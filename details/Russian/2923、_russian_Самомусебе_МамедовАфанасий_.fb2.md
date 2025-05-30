@@ -8,7 +8,7 @@
 2923、_russian_Самому себе_Мамедов Афанасий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58f36e96ff43332f4790e0cb5909c19d

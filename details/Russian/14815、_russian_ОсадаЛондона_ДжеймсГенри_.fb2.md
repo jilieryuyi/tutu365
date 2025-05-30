@@ -8,7 +8,7 @@
 14815、_russian_Осада Лондона_Джеймс Генри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f25aec134cc27b6e46465e318bb34d3

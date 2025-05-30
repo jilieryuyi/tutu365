@@ -8,7 +8,7 @@
 13287、_russian_Фантазия любви_Макмаон Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 588bd27fcffe62f16dd0d103e621017a

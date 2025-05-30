@@ -8,7 +8,7 @@
 8642、_russian_Дар Атиши для путешествующих внутрь_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 42a36f7539ddad4e72c5421b75ddee05

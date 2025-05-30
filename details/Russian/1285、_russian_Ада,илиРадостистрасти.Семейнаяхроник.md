@@ -8,7 +8,7 @@
 1285、_russian_Ада, или Радости страсти. Семейная хроника_Набоков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c9a35f6450adc6d946e204e337ecfe3

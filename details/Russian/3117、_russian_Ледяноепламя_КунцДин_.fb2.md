@@ -8,7 +8,7 @@
 3117、_russian_Ледяное пламя_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af3bd96ccce6f29b870748ce5a1245db

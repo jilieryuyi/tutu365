@@ -8,7 +8,7 @@
 10886、_russian_Черные Земли_Фридман Селия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03d1d7df7fdf32d4eaedca72bbb26ae4

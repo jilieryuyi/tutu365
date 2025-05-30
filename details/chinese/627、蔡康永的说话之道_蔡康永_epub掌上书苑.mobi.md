@@ -8,7 +8,7 @@
 627、蔡康永的说话之道_蔡康永_epub掌上书苑.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b9545d308d1f53598607a58c03471780

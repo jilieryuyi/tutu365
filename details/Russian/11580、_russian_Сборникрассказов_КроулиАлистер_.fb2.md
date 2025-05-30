@@ -8,7 +8,7 @@
 11580、_russian_Сборник рассказов_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4b9c6fac782b5babac4057eccfd572b

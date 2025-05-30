@@ -8,7 +8,7 @@
 13488、_russian_Таинственные следы_Сат-Ок_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 488f000bea2cc1e8a8b7717744645cbe

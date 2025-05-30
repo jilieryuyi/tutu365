@@ -8,7 +8,7 @@
 8257、_russian_Десять серий о войне_Бабченко Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a8c4eda297c3238720c6630f3bbe6c68

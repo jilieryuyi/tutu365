@@ -8,7 +8,7 @@
 4061、_russian_Новая весна_Джордан Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02bd81a815badb458d0b7ae74515092d

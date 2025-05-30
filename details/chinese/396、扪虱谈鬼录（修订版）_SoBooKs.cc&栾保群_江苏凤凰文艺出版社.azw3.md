@@ -8,7 +8,7 @@
 396、扪虱谈鬼录（修订版）_SoBooKs.cc & 栾保群_江苏凤凰文艺出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a9bd49cf3be6a85c217d02287f3f105b

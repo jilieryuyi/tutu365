@@ -8,7 +8,7 @@
 1231、希腊对德意志的暴政_BUTLER_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 22eb196abd026772eda72083dc844cce

@@ -8,7 +8,7 @@
 12505、_russian_Дороже жизни_Мортинсен Кей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7c1c1c8017a9765e65309cd188892b68

@@ -8,7 +8,7 @@
 2311、算法技术手册_海涅曼(George T.Heineman)_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 02673a0a33599adca3aeb9fdc395eeff

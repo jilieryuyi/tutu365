@@ -8,7 +8,7 @@
 343、_ukrainian_ДУМА ПРО БРАТ_В НЕАЗОВСЬКИХ_КОСТЕНКО Л_НА_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5055d8083dec10970bd646b9a48b829e

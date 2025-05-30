@@ -8,7 +8,7 @@
 12008、_russian_Шепот страха_Касл Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7d1c737dfd9891b1c1d8a4846b2ce90

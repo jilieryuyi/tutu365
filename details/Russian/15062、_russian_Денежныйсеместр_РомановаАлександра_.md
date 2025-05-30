@@ -8,7 +8,7 @@
 15062、_russian_Денежный семестр_Романова Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d79570a8f56275ef248b6e00e01747b0

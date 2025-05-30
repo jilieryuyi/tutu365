@@ -8,7 +8,7 @@
 148、_russian_Дорога на Элинор_Амнуэль Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48d5b7af3b71b56e81841a071d925a0c

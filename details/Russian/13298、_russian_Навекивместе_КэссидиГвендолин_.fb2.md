@@ -8,7 +8,7 @@
 13298、_russian_Навеки вместе_Кэссиди Гвендолин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95b434d7c27296200af1e03733b95682

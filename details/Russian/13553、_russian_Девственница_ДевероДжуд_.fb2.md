@@ -8,7 +8,7 @@
 13553、_russian_Девственница_Деверо Джуд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce13ce7e920759aea60d54d2391eb9ee

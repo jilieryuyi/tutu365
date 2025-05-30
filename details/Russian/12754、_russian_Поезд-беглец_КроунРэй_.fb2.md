@@ -8,7 +8,7 @@
 12754、_russian_Поезд-беглец_Кроун Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 87c23b2bac248ec189b436c1a81bd6e3

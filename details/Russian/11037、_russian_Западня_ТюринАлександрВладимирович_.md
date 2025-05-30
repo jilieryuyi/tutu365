@@ -8,7 +8,7 @@
 11037、_russian_Западня_Тюрин Александр Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d215b4dde92460c423b25478beb560a

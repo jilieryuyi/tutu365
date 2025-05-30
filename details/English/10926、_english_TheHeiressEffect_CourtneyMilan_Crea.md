@@ -8,7 +8,7 @@
 10926、_english_The Heiress Effect_Courtney Milan_Createspace.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 baf44c7abf1b6502edce40e6efcb762f

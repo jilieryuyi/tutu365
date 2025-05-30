@@ -8,7 +8,7 @@
 1806、_english_Scandal's Child_Sherrill Bodine_Diversion Books.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 6a8916d62ca0cf52421a79b8e8ed2a6f

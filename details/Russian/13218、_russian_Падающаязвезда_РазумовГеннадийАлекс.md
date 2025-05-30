@@ -8,7 +8,7 @@
 13218、_russian_Падающая звезда_Разумов Геннадий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30eb547b3d0510df6dc2dcc5107bdeb7

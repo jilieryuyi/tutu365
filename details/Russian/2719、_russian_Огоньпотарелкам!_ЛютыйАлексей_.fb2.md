@@ -8,7 +8,7 @@
 2719、_russian_Огонь по тарелкам!_Лютый Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f37a895f20f87e0d706543699abbd08a

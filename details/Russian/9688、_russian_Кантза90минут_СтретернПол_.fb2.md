@@ -8,7 +8,7 @@
 9688、_russian_Кант за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a11e4561fa95d6eeca81528d3d7d8b6

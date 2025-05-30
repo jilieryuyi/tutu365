@@ -8,7 +8,7 @@
 7358、_russian_Безымянный дракон_Абзалова Виктория Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f3c260448a7aafc7e3e195a9e8363f0

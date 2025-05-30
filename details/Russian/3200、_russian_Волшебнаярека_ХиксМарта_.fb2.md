@@ -8,7 +8,7 @@
 3200、_russian_Волшебная река_Хикс Марта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e14f5d1fc58f8bd071d07bdd1c8489e

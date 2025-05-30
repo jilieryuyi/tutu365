@@ -8,7 +8,7 @@
 12489、_russian_Изгнанник из Спарты_Йерби Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94ce0c2ee8dfbaefcc6eea814342eaa9

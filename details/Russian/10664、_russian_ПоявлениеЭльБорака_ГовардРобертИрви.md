@@ -8,7 +8,7 @@
 10664、_russian_Появление Эль Борака_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89c8ce9a0e69fac6285c2814c477d9d5

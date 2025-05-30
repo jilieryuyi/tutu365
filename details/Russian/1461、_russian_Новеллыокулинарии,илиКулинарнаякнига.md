@@ -8,7 +8,7 @@
 1461、_russian_Новеллы о кулинарии, или Кулинарная книга памяти_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9cfbfe95ec931ab45ad25172de9fb0c7

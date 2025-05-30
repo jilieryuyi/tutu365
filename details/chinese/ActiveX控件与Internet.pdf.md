@@ -8,7 +8,7 @@
 ActiveX 控件与Internet.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eb53d693f3f61711d6bb62dc0f6887ff

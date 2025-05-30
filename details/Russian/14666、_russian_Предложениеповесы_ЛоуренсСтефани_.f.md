@@ -8,7 +8,7 @@
 14666、_russian_Предложение повесы_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82b1da85e4f7469fd29e0fe5601d52f3

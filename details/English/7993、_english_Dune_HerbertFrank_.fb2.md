@@ -8,7 +8,7 @@
 7993、_english_Dune_Herbert Frank_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 5f02b6c477969ac34069dcc3413ba30a

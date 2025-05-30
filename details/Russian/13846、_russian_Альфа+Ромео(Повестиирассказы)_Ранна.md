@@ -8,7 +8,7 @@
 13846、_russian_Альфа + Ромео (Повести и рассказы)_Раннап Яан Яанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dbf640810476f692bf7da626f2d1d0f

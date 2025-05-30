@@ -8,7 +8,7 @@
 1426、_russian_Скованный ночью_Кунц Дин Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d9deae5cce7b0405e36caba84b555f0

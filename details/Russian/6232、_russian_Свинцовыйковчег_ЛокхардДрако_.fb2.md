@@ -8,7 +8,7 @@
 6232、_russian_Свинцовый ковчег_Локхард Драко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a01dc6beb41f9512f25a1d138b89b85

@@ -8,7 +8,7 @@
 15037、_english_My Lady's Trust_Julia Justiss_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d49f89999e67a5d10e746ab00de4e575

@@ -8,7 +8,7 @@
 10534、_russian_Фея в медвежьей берлоге_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19f5a577181e905d04660c72ca8aa7b8

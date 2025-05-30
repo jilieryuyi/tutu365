@@ -8,7 +8,7 @@
 5673、_russian_Яранг — Золотой Зуб_Рябинин Борис Степанович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2433e1bce12d9b78fd8253a3e1f1d30c

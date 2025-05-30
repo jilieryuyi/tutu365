@@ -8,7 +8,7 @@
 6890、_russian_Черноземная полоса_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06a880574bdc3264304b82917a05c7ef

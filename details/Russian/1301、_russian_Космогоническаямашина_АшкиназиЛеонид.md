@@ -8,7 +8,7 @@
 1301、_russian_Космогоническая машина_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b0178056bb9b580df735eee003df521

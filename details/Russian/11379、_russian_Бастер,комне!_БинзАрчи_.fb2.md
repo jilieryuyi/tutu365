@@ -8,7 +8,7 @@
 11379、_russian_Бастер, ко мне!_Бинз Арчи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9f140353dfc529e4022b239d44ac23d

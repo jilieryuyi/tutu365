@@ -8,7 +8,7 @@
 12701、_russian_Подружки идут в школу_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e86c818c13be7caf8107270898b8d621

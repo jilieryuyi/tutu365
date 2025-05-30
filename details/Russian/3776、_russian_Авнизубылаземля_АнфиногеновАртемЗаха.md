@@ -8,7 +8,7 @@
 3776、_russian_А внизу была земля_Анфиногенов Артем Захарович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43415f8c3f9302f8e74d3a5093ae0e49

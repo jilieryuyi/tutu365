@@ -8,7 +8,7 @@
 10327、_russian_Альтист Данилов_Орлов Владимир Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2bc7b5857e3953f84eea28d4a780ffe

@@ -8,7 +8,7 @@
 10003、_russian_Алмаз сознания_Смирнов Терентий Терентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60519589d9024c62fece7e608466c021

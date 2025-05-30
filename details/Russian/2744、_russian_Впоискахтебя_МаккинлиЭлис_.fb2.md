@@ -8,7 +8,7 @@
 2744、_russian_В поисках тебя_Маккинли Элис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39ebb879af1e326df4f80a3f6ffc38a6

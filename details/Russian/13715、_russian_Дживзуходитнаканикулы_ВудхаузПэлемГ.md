@@ -8,7 +8,7 @@
 13715、_russian_Дживз уходит на каникулы_Вудхауз Пэлем Грэнвилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44a3f6a02009a369c07f29a132641a2d

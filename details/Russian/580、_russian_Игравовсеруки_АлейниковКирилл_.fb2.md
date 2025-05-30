@@ -8,7 +8,7 @@
 580、_russian_Игра во все руки_Алейников Кирилл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e76424c6289395c2798f019f5cd620d

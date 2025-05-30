@@ -8,7 +8,7 @@
 12116、_english_The Duke's Wager_Edith Layton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e399dfa51a74c1766e03d6a2b3380284

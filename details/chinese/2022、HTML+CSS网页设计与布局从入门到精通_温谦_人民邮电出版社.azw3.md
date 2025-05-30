@@ -8,7 +8,7 @@
 2022、HTML+CSS网页设计与布局从入门到精通_温谦_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3e22adcb35fdd280c3fbfc1c548c2394

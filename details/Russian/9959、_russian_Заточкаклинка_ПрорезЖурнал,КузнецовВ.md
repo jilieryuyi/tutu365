@@ -8,7 +8,7 @@
 9959、_russian_Заточка клинка_Прорез Журнал, Кузнецов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 788ac03567a63c4d6b7e2443d7cd51bb

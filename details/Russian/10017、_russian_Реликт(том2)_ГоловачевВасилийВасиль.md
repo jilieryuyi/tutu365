@@ -8,7 +8,7 @@
 10017、_russian_Реликт (том 2)_Головачев Василий Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e61f0e0b97f229ecf170b3b4fbb8b7b3

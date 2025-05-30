@@ -8,7 +8,7 @@
 13032、_russian_Энтропия_Пинчон Томас Рагглз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cff33d2d4da7931a8bc8f44619b58950

@@ -8,7 +8,7 @@
 6470、_english_Midnight's Wild Passion_Anna Campbell_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7b3070c144bd508dc877052c92256187

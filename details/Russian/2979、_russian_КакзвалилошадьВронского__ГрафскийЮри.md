@@ -8,7 +8,7 @@
 2979、_russian_Как звали лошадь Вронского__Графский Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37465dbcdd0bac9def7f772d163d3056

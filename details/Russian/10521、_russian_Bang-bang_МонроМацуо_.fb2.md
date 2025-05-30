@@ -8,7 +8,7 @@
 10521、_russian_Bang-bang_Монро Мацуо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a925f9e3f0a7a43bf2a9e32dd2535ae0

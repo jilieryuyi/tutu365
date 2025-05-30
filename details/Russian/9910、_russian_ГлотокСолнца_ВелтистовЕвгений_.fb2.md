@@ -8,7 +8,7 @@
 9910、_russian_Глоток Солнца_Велтистов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb4f7eb598d5d8cd55e1e14eef229350

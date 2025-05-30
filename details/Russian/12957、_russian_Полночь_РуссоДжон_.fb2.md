@@ -8,7 +8,7 @@
 12957、_russian_Полночь_Руссо Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d60c69d64485b08559fa94dc4571c65a

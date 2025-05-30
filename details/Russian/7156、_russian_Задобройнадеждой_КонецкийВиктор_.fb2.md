@@ -8,7 +8,7 @@
 7156、_russian_За доброй надеждой_Конецкий Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9421e5c0fd415177e4465e766182656

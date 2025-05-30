@@ -8,7 +8,7 @@
 10821、_russian_Патриот_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b5aa69bfdbd4d98e648064344d43ac6

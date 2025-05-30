@@ -8,7 +8,7 @@
 5531、_russian_Черновые наброски_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1efc5a38f5702b6c97ec860393cbabac

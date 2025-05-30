@@ -8,7 +8,7 @@
 9987、_russian_Азбука Мерфи_Мерфи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 534f8758d3c354da0651ca64b7a17793

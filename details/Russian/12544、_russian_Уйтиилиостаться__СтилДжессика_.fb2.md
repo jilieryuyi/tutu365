@@ -8,7 +8,7 @@
 12544、_russian_Уйти или остаться__Стил Джессика_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cddffa0fa71884d88bce3fad91cd1308

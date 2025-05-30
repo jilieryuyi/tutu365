@@ -8,7 +8,7 @@
 6190、_russian_Открытие Америки или Перенос Коровушкина_Малов Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b7c40cf554264de29e3a0ef2c45b7e4

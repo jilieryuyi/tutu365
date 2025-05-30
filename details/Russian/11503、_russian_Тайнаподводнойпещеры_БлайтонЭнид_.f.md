@@ -8,7 +8,7 @@
 11503、_russian_Тайна подводной пещеры_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c1be234252d43063f4eefe032557c8e

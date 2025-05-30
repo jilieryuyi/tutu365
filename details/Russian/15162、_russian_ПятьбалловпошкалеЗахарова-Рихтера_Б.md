@@ -8,7 +8,7 @@
 15162、_russian_Пять баллов по шкале Захарова-Рихтера_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9f3f3ac0a22dee44e33feb0d2734f8c

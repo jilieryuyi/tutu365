@@ -8,7 +8,7 @@
 12216、_english_A Pirate's Bounty_Eliza Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e73cb48d8681ea81111c57165ff1d5c7

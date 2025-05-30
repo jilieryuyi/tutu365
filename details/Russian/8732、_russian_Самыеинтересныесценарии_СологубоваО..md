@@ -8,7 +8,7 @@
 8732、_russian_Самые интересные сценарии_Сологубова О. В._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48493f0b7a315e119094da94d8a588b1

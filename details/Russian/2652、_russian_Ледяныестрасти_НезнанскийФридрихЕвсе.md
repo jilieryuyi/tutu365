@@ -8,7 +8,7 @@
 2652、_russian_Ледяные страсти_Незнанский Фридрих Евсеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 71b0ede293903bff3a9f715c7a3ec4d6

@@ -8,7 +8,7 @@
 1383、外汇交易实战全典(完整图文版) (投资者必读系列)_李汉军_HZBCN.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4c5b2224302baf588b116d74290622b9

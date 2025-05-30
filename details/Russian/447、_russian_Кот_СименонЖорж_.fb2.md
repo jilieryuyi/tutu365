@@ -8,7 +8,7 @@
 447、_russian_Кот_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 91971b7c02ee2b54f57fcd56ca882602

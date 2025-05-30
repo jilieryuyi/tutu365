@@ -8,7 +8,7 @@
 7013、_russian_Медовая Жертва_де Куатьэ Анхель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9545d308d1f53598607a58c03471780

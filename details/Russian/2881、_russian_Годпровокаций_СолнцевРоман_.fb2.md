@@ -8,7 +8,7 @@
 2881、_russian_Год провокаций_Солнцев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dce4b0301a1d8cf2fece52f5ec93906

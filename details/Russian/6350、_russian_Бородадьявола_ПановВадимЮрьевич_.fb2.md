@@ -8,7 +8,7 @@
 6350、_russian_Борода дьявола_Панов Вадим Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06f87037b7e293f8ce3799c8c0ffc8a0

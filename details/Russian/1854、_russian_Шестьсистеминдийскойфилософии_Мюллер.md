@@ -8,7 +8,7 @@
 1854、_russian_Шесть систем индийской философии_Мюллер М_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3cc9cf141d8f326e27a5a27beb9fbb32

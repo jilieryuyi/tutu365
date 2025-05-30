@@ -8,7 +8,7 @@
 5275、_russian_Действительный член клуба_Шоу Боб_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ad03705468d481f801af23c096725e8

@@ -8,7 +8,7 @@
 1490、_russian_Тени в переулке_Хруцкий Эдуард Анатольевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0c65f080d75fdbc02a5e63b8da471d87

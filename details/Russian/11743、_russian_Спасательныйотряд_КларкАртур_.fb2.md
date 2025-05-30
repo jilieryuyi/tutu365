@@ -8,7 +8,7 @@
 11743、_russian_Спасательный отряд_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2865f60ec737cd28a0e934de1711b811

@@ -8,7 +8,7 @@
 8254、_russian_Военно-полевой обман_Бабченко Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 75a7e7ac0b826af23e5e3cd434b21a3d

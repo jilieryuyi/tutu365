@@ -8,7 +8,7 @@
 7121、_english_The First Commandment_Thor Brad_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 eb28ce2eeb8d242d0bcbda0f86c5612e

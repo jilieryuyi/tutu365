@@ -8,7 +8,7 @@
 5045、_russian_До следующего раза_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e4f892e0196f34984016e4873d811c7

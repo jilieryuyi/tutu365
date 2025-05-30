@@ -8,7 +8,7 @@
 14264、_russian_Инспектор-призрак_Когсвелл Теодор Р._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bfafc6b19e41c5a67b89c5db60dbfb8a

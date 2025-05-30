@@ -8,7 +8,7 @@
 2097、_russian_Туманность Андромеды_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d3708632a83a86ca73e6932e9ff6814

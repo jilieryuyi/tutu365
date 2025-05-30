@@ -8,7 +8,7 @@
 9100、_english_Once a Knight_Christina Dodd_HarperCollins.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c2bb9d57bf3f118e7f39803d1bf1f541

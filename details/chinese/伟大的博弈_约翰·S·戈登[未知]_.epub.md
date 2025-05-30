@@ -8,7 +8,7 @@
 伟大的博弈_约翰·S·戈登 [未知]_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7341d0272f3606a25fbe607edd09cccf

@@ -8,7 +8,7 @@
 3831、_ukrainian_Вичерпна в_дпов_дь_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 58a10e4eac385b22367ea7a9c6e3f3c8

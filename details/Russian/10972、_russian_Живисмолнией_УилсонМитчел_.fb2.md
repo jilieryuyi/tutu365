@@ -8,7 +8,7 @@
 10972、_russian_Живи с молнией_Уилсон Митчел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94a97ecbc0f41142cb0d34502f78138b

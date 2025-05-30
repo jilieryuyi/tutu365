@@ -8,7 +8,7 @@
 2052、_english_Niall's Bride_Stella Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e58a78c60df8264bd32bc396b90e5b20

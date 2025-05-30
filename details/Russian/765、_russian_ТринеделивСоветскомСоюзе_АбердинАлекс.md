@@ -8,7 +8,7 @@
 765、_russian_Три недели в Советском Союзе_Абердин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca6a68de79e01ba7a94eaee45337ee45

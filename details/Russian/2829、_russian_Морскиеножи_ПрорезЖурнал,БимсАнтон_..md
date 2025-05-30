@@ -8,7 +8,7 @@
 2829、_russian_Морские ножи_Прорез Журнал, Бимс Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ce27245b83c41b1e3af18e93cda1e45

@@ -8,7 +8,7 @@
 7492、_russian_Время перемен (сборник)_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0fe58ae1a69cf5747444140ad6387bf

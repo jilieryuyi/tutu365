@@ -8,7 +8,7 @@
 神们自己 (读客全球顶级畅销小说文库 166)_艾萨克•阿西莫夫（Isaac Asimov）__5487990_79f38662859d53d033afde33b64c2ee8.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 79f38662859d53d033afde33b64c2ee8

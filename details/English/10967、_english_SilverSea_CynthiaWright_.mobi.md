@@ -8,7 +8,7 @@
 10967、_english_Silver Sea_Cynthia Wright_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 39b5a84a23616416f257d1a4773fc772

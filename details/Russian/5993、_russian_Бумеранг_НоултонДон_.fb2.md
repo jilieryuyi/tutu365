@@ -8,7 +8,7 @@
 5993、_russian_Бумеранг_Ноултон Дон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43f0564e183e40f6608c71e4466606bb

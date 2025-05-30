@@ -8,7 +8,7 @@
 2196、黑客 (O'Reilly精品图书系列)_(美)Steven Levy 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 91cbfad94623c41e43c4ea6bff064afe

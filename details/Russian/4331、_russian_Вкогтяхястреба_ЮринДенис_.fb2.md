@@ -8,7 +8,7 @@
 4331、_russian_В когтях ястреба_Юрин Денис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e90b8352c1112df63c494d542f8b498

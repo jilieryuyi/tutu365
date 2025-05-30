@@ -8,7 +8,7 @@
 13726、_russian_Маленький Николя_Госсини Рене_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d40e283aedd86bfb9c566e71d050befa

@@ -8,7 +8,7 @@
 3690、_russian_Крах _Волшебного королевства__Хайасен Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96fccfb68be19378391941929d6a8565

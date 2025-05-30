@@ -8,7 +8,7 @@
 1577、_russian_Страж-птица_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc66098e43ac05d9eef5e68d7cb9eb90

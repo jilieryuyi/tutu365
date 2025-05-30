@@ -8,7 +8,7 @@
 13717、_russian_Гроза миновала_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6665fd4950dd675f1d65816dc96051e

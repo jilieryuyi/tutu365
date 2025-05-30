@@ -8,7 +8,7 @@
 9864、_russian_Оренбургский платок_Санжаровский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 391136d22feac03f68585c8def203207

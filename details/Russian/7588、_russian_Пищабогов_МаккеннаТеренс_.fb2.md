@@ -8,7 +8,7 @@
 7588、_russian_Пища богов_Маккенна Теренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b2f6e82d3d6a617b4e9d13bae8d482a

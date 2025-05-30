@@ -8,7 +8,7 @@
 7245、_russian_Тачанка с юга_Варшавер Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c2dc81d774c259e3e3c3a9a5ed997fc

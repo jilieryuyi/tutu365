@@ -8,7 +8,7 @@
 13483、_russian_Пробуждение любви_Майклз Ферн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d3c546e0841f207ca83a8d23ac060ff

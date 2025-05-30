@@ -8,7 +8,7 @@
 6931、_russian_Гилгул_Сербин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b5a70fb31ffd08a6d8f26be1daa96d8

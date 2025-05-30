@@ -8,7 +8,7 @@
 13239、_english_The Incomplete Enchanter_Лайон Спрэг Де Камп, Флетчер Спрэг Прэтт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30a021d6232f81ebb417d1c5a26c47c0

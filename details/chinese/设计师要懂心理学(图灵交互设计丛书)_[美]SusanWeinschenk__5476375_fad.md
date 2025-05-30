@@ -8,7 +8,7 @@
 设计师要懂心理学 (图灵交互设计丛书)_[美]Susan Weinschenk__5476375_fadaa9c9e678fa67cd999ef90e5cf886.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fadaa9c9e678fa67cd999ef90e5cf886

@@ -8,7 +8,7 @@
 12947、_english_Highland Secrets_Elizabeth Rose_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e7694b3d4e28a585dd8eaf91fcf1a56c

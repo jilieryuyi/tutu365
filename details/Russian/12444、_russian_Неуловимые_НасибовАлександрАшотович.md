@@ -8,7 +8,7 @@
 12444、_russian_Неуловимые_Насибов Александр Ашотович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c217fcbebaa28ea9ba066cb90d2e0d20

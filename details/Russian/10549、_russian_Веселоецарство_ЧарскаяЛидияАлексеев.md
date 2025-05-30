@@ -8,7 +8,7 @@
 10549、_russian_Веселое царство_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0504d5dcc023d2f985ee13c02ceeeb8a

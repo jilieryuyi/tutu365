@@ -8,7 +8,7 @@
 11173、_russian_Холмы Варны_Триз Джефри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de8d9d9ae40a46fde63df981b7c5f24a

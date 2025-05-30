@@ -8,7 +8,7 @@
 10823、_russian_Спутники_Панова Вера Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a83418f67a12f540014fe7e5aac9e5e5

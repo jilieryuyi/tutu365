@@ -8,7 +8,7 @@
 13214、_english_The Highlander's Captured Bride_Eloise Madigan_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c528c28490b4777c8145fdd97cc21a58

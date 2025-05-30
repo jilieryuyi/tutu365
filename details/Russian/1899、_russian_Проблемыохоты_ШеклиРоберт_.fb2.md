@@ -8,7 +8,7 @@
 1899、_russian_Проблемы охоты_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 df1842ca279d784b90c5c70190ca5853

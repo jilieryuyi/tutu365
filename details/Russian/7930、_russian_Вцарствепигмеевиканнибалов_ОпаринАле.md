@@ -8,7 +8,7 @@
 7930、_russian_В царстве пигмеев и каннибалов_Опарин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ab6b5e4bb1af598f409a67edbc9e137

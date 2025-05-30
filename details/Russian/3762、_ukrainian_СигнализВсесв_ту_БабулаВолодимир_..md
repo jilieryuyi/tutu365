@@ -8,7 +8,7 @@
 3762、_ukrainian_Сигнали з Всесв_ту_Бабула Володимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 88b7faa3fef01b0f2aea31dad4c8cea6

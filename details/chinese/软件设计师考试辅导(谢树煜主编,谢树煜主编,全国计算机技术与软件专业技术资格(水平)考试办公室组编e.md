@@ -8,7 +8,7 @@
 软件设计师考试辅导 (谢树煜主编, 谢树煜主编 , 全国计算机技术与软件专业技术资格 (水平) 考试办公室组编 etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ae9b20863421964c378e7b6adcf57eeb

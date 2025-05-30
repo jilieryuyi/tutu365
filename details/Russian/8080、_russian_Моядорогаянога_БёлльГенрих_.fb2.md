@@ -8,7 +8,7 @@
 8080、_russian_Моя дорогая нога_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e2adad98115c2f7ed63e5aade604a72

@@ -8,7 +8,7 @@
 8605、_russian_Дидро в Петербурге_Захер-Мазох Леопольд фон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4515667a16d437387cd17a790ac7bb5

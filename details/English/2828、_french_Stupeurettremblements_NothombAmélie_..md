@@ -8,7 +8,7 @@
 2828、_french_Stupeur et tremblements_Nothomb Amélie_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4de5973a74f89f2193f31adfd5de263f

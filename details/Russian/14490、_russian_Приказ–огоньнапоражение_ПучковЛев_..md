@@ -8,7 +8,7 @@
 14490、_russian_Приказ – огонь на поражение_Пучков Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b4c5acae4b32923740020eea640d763

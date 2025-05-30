@@ -8,7 +8,7 @@
 [深入浅出SQL].O'Reilly.-.Head.First.SQL.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d06432f7653a12c110271c074d5451e9

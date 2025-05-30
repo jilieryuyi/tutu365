@@ -8,7 +8,7 @@
 2924、_russian_Подменыши_Малышев Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00f4595933c1493f52594282fec4a232

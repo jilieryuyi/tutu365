@@ -8,7 +8,7 @@
 金银岛·化身博士(译文名著精选)_罗伯特·路易斯·斯蒂文森(Robert Louis Stevenson)__5476335_40fd4b8007cdbe389437ced15fbb7dfb.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 40fd4b8007cdbe389437ced15fbb7dfb

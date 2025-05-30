@@ -8,7 +8,7 @@
 43、_russian_Тысяча И Одна Ночь_без автора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9fdcb0aa5dba67d0d72fe8c48b4e1c13

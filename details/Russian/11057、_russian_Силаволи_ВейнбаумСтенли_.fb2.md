@@ -8,7 +8,7 @@
 11057、_russian_Сила воли_Вейнбаум Стенли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43df29b12a5e906a9677832b7ddc3e0f

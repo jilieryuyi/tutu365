@@ -8,7 +8,7 @@
 9885、_russian_Фактор холода_Кейн Рэйчел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f8bbac0dadc8ab90ceeebaa99ce74d5f

@@ -8,7 +8,7 @@
 4757、_english_Lady's Choice_Amanda Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9b29d0963d41ab3662a88a1198bc59c2

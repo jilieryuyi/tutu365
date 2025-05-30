@@ -8,7 +8,7 @@
 6873、_russian_Нянька поневоле_Росс Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 204002e4145282976faf231420fd54f2

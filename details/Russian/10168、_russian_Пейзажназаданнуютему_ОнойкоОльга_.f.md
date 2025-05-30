@@ -8,7 +8,7 @@
 10168、_russian_Пейзаж на заданную тему_Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0703a3ad4a6b97ac9290b540d76cb210

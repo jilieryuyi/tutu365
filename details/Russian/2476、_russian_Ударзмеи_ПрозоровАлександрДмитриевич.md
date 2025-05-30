@@ -8,7 +8,7 @@
 2476、_russian_Удар змеи_Прозоров Александр Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a585144ea09725c1b8749176aed5e9f

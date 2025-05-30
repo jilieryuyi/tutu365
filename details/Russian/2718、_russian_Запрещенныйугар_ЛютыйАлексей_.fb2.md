@@ -8,7 +8,7 @@
 2718、_russian_Запрещенный угар_Лютый Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5e00168e1627853af32718550d75a73

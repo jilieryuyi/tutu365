@@ -8,7 +8,7 @@
 4343、_russian_Дневник обольстителя_Кьеркегор Серен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 40377f8055e837a4b4ae88736e30a053

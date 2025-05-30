@@ -8,7 +8,7 @@
 3904、_russian_Желтые лошади_Житинский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 74144421873e0a81ae2d8cf25828c85b

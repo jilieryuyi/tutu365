@@ -8,7 +8,7 @@
 224、_russian_Приключения Одиссея (Пересказ для детей Н.А.Куна)_Гомер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2aeb1a1c8901b033ec383db024c2b932

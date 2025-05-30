@@ -8,7 +8,7 @@
 5477、_russian_Посланник_Прикли Нэт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1c28fd4bb0b85f26fb1d445278a121e

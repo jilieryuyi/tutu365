@@ -8,7 +8,7 @@
 2768、_russian_Прелестные наездницы_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 593dd99bcf4026dbf98231918a5f589a

@@ -8,7 +8,7 @@
 8178、_russian_Танкист_Кружевский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 feccde445370276e824e8b89aa4b7662

@@ -8,7 +8,7 @@
 7165、_english_Охотник_ Замок Древних._Буревой Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 907c9c0005259a1f94e38c159aab7a4a

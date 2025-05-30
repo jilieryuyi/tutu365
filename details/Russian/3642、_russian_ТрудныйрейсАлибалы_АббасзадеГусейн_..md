@@ -8,7 +8,7 @@
 3642、_russian_Трудный рейс Алибалы_Аббасзаде Гусейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93c2ac26b35b78f20a12186549b77393

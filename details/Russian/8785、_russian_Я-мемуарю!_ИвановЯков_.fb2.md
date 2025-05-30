@@ -8,7 +8,7 @@
 8785、_russian_Я - мемуарю!_Иванов Яков_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64dd4af6f5f7625a5e117925775cdf17

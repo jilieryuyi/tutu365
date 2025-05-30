@@ -8,7 +8,7 @@
 4596、_russian_Операция _C-L__Фикер Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ec8b06bb89998193fcac753deba0300

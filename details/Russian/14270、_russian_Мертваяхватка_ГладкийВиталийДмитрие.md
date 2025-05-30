@@ -8,7 +8,7 @@
 14270、_russian_Мертвая хватка_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 934ac63e8be31a68bf2669c0f88f200d

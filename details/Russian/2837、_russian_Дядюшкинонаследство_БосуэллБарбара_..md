@@ -8,7 +8,7 @@
 2837、_russian_Дядюшкино наследство_Босуэлл Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b552e3abd8cf9ed79a8d7fe93f561fc8

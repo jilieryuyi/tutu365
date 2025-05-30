@@ -8,7 +8,7 @@
 10197、_russian_ЗАПИСКИ Д’АРШИАКА МОСКВА_ГРОССМАН ЛЕОНИД_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69c42b67d7cc89d45edd56e9357eb3d8

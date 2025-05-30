@@ -8,7 +8,7 @@
 8529、_russian_Любить птичку-ткачика__Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2fe8257aa8039154ef5c126341de0774

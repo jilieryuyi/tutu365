@@ -8,7 +8,7 @@
 3220、GOTH - 全1卷_乙一×大岩ケンヂ_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Japanese
+japanese
 
 ## MD5
 fe3819c271b7805e4888950600ee4a2d

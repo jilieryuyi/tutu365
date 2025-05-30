@@ -8,7 +8,7 @@
 14188、_russian_Сделка с дьяволом_Лэйтон Эдит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 929f8bebcf7e96a555a1975898969bd7

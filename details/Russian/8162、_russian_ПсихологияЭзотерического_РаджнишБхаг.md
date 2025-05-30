@@ -8,7 +8,7 @@
 8162、_russian_Психология Эзотерического_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 119ed4c85bda40e5ceff66c669ecbbd3

@@ -8,7 +8,7 @@
 13896、_russian_Человек Чубайса_Прашкевич Геннадий Мартович, Богдан Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 725a727aae26ec47e2ee62517ce51feb

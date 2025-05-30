@@ -8,7 +8,7 @@
 10866、_russian_Гарри Поттер и Тайная комната_Роулинг Джоанн Кэтлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76cff5fdc8eca2f0ebcaee8f27ff092b

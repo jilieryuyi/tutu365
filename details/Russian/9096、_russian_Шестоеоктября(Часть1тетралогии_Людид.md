@@ -8,7 +8,7 @@
 9096、_russian_Шестое октября(Часть 1 тетралогии _Люди доброй воли_ )_Ромэн. Жюль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 deb3d1fd7eff77ae1df0d3cd66aa9d5f

@@ -8,7 +8,7 @@
 3498、_russian_Так дай мне напиться_Антонов Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffe3a0a919d9550240c8b94a8fd3192c

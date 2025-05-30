@@ -8,7 +8,7 @@
 7015、_russian_Превращение духа_де Куатьэ Анхель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd8d5b480c2d20df25b2e821cf904018

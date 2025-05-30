@@ -8,7 +8,7 @@
 2174、_russian_Полуденный фокстрот_Лукьяненко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f84163134308973d480a6d45b1381aab

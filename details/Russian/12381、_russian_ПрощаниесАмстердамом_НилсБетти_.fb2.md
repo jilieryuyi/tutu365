@@ -8,7 +8,7 @@
 12381、_russian_Прощание с Амстердамом_Нилс Бетти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a460c603804dc6b1af8e87d313a501e

@@ -8,7 +8,7 @@
 10856、_russian_Месть и любовь_Кей Эмбер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6565a37334818aebe53d6864becb723e

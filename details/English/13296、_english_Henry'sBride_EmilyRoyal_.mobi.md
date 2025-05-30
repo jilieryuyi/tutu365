@@ -8,7 +8,7 @@
 13296、_english_Henry's Bride_Emily Royal_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 02e904bdc00440a3a2c7b252d6484d1c

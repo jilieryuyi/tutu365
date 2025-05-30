@@ -8,7 +8,7 @@
 1194、美国语文读本(套装共6册) _威廉·H·麦加菲(William H. Mcguffey)_上海三联书店.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9f3bc13ddc3f93d5f1025ae3693838c4

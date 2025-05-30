@@ -8,7 +8,7 @@
 6048、_russian_Дорогая Дори_Лутц Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b616c1fc879e7652771f18708078ee9

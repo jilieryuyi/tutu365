@@ -8,7 +8,7 @@
 7263、_russian_Запоздалый вальс осени_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aed4586780816eaf740a83f9bcdeef99

@@ -8,7 +8,7 @@
 994、_russian_Рассказы_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b744582187d97a5692fc7d8c486503fe

@@ -8,7 +8,7 @@
 781、_russian_Повести и рассказы_Бианки Виталий Валентинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc685ebb2e989bf13695b680c91ab283

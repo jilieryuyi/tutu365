@@ -8,7 +8,7 @@
 11516、_russian_Сегодня или никогда_Дэйра Джой_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fe005fe4eeea2cff30afe04317c6749

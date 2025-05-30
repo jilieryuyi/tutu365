@@ -8,7 +8,7 @@
 13169、_russian_Кун И-цзи_Лу Синь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baa8b0bac14b37125843a476d664ba9c

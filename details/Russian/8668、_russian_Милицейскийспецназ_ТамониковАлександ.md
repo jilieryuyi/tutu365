@@ -8,7 +8,7 @@
 8668、_russian_Милицейский спецназ_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 76a525e40a674dd491221dd6a9e3dae6

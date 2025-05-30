@@ -8,7 +8,7 @@
 十天学会DIV+CSS(WEB标准).chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 91d7a13740573afd9342756b9e464704

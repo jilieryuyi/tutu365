@@ -8,7 +8,7 @@
 2413、_russian_Поэзия Томаса Мора_Шульц Юрий Францевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ceb2b627fe02008bf0e868a8f919fe4

@@ -8,7 +8,7 @@
 12530、_russian_В заколдованном лесу_Буало-Нарсежак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acaed99ab67e99943a12382d77ca7539

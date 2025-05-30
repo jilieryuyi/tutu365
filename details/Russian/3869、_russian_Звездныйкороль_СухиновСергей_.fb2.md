@@ -8,7 +8,7 @@
 3869、_russian_Звездный король_Сухинов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3193dd02b5425e0043e83a5b6badfd3c

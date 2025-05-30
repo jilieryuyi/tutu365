@@ -8,7 +8,7 @@
 2841、_russian_Охотник_Бодров Виталий Витальевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01b4a737386f53adcb95480543cc4c6a

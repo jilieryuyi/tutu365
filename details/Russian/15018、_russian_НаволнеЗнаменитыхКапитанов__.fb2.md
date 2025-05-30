@@ -8,7 +8,7 @@
 15018、_russian_На волне Знаменитых Капитанов__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1d8c0fc5201ab3b652b7cbef5bbe0cb

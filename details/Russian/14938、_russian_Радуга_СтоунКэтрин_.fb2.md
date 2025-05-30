@@ -8,7 +8,7 @@
 14938、_russian_Радуга_Стоун Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e68e4315aec9c2cf0aed0d4b1831f59

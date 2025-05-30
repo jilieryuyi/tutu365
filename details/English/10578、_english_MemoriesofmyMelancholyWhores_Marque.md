@@ -8,7 +8,7 @@
 10578、_english_Memories of my Melancholy Whores_Marquez Gabriel Garcia_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 691b5403f1c1adbd62589f240b139b98

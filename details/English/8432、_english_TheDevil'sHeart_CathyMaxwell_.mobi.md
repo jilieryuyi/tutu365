@@ -8,7 +8,7 @@
 8432、_english_The Devil's Heart_Cathy Maxwell_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 878bee95a58881a5fd407b95134dc2bf

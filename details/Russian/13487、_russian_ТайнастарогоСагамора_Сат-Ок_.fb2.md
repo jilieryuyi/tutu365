@@ -8,7 +8,7 @@
 13487、_russian_Тайна старого Сагамора_Сат-Ок_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e8513bac2f6603f4e312795b4b16d03

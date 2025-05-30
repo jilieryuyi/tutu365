@@ -8,7 +8,7 @@
 5209、_russian_Письма_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ea621d3c9030b05377ed6bf70e98e9d

@@ -8,7 +8,7 @@
 12978、_russian_Собака, которая не умела лаять_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a4dc4a2494326afb8a7cbc5a2f750d75

@@ -8,7 +8,7 @@
 10415、_russian_Великий консерватор_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e62bd2c19c41e94f4132604f0d40ae2d

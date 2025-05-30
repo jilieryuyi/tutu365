@@ -8,7 +8,7 @@
 7280、_russian_Летающая тарелка одиночества_Старджон Теодор Гамильтон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11f272e7f2e9efc97bb9173af09b1f32

@@ -8,7 +8,7 @@
 1947、_russian_Вечная история_Протов Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be0b2fcba1d6f6b5a7f34ca8fa0746f0

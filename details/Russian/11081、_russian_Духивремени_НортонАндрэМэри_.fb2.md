@@ -8,7 +8,7 @@
 11081、_russian_Духи времени_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 755e253b1f3f6a10f2bfb281b7d45f64

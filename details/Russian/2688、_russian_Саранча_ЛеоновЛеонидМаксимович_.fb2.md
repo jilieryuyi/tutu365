@@ -8,7 +8,7 @@
 2688、_russian_Саранча_Леонов Леонид Максимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28012070a2af0ee4d9cd0819a3fefd0b

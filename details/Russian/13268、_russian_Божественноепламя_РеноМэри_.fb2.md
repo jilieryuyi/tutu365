@@ -8,7 +8,7 @@
 13268、_russian_Божественное пламя_Рено Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e34c6d80c002ee8b4e917ecb1bc742f4

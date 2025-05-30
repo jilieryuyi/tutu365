@@ -8,7 +8,7 @@
 1293、_english_Noah (Hell Squad #6)_Anna Hackett [Anna Hackett]_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 386f25a512e154fcb5e5b083a100c229

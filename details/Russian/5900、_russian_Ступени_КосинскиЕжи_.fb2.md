@@ -8,7 +8,7 @@
 5900、_russian_Ступени_Косински Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5633122a1fd69b2719364e9ce5c0d86

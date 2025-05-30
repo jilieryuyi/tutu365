@@ -8,7 +8,7 @@
 659、_russian_Черно-белое биение жизни_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf48ab37c725adcab6a25d505f348890

@@ -8,7 +8,7 @@
 12402、_russian_Искуситель_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa2825cc6ed3c45b76f528163b188264

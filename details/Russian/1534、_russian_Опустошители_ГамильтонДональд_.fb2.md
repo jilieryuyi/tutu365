@@ -8,7 +8,7 @@
 1534、_russian_Опустошители_Гамильтон Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cab025923b7d3cd1cde4936e5438ecc2

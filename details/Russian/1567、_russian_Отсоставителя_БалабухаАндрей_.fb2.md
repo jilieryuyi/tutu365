@@ -8,7 +8,7 @@
 1567、_russian_От составителя_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6bf9776a4ef411b50c03924e217fd6ff

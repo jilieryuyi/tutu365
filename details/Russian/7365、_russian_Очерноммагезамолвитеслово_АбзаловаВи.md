@@ -8,7 +8,7 @@
 7365、_russian_О черном маге замолвите слово_Абзалова Виктория Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5f6d21e409db5cd54d8b909382ef144

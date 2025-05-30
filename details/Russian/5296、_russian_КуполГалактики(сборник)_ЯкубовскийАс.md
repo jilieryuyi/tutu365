@@ -8,7 +8,7 @@
 5296、_russian_Купол Галактики (сборник)_Якубовский Аскольд Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81e8f2edc29f05a5e8824eb700a9345d

@@ -8,7 +8,7 @@
 10755、_russian_Буря страсти_Паркер Лаура_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 197c87cd1b4a61a4aa37e0c14132e55f

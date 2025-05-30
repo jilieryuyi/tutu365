@@ -8,7 +8,7 @@
 11694、_russian_Мир красного солнца_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f48d6232947522dc3b28539fbd8d26e7

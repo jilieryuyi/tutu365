@@ -8,7 +8,7 @@
 7085、_russian_Сокровища старого Яна_Пилкингтон Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da6a1a5947ce79d81273b2752bd429d9

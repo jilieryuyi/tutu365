@@ -8,7 +8,7 @@
 3273、傅雷译世界名著(全14册)_罗曼·罗兰 (Romain Rolland) & 奥诺雷·德·巴尔扎克 (Honoré de Balzac)_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 81750dc71f0336451d992099f3031840

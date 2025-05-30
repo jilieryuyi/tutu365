@@ -8,7 +8,7 @@
 11606、_russian_Фрески Италии_Джордж Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdd3b695341abb23bbb495e4e8c5722c

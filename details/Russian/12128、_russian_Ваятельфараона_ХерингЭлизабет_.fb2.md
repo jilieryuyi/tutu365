@@ -8,7 +8,7 @@
 12128、_russian_Ваятель фараона_Херинг Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8e9adcc8fddb5bc00dfde9a36fc86ed

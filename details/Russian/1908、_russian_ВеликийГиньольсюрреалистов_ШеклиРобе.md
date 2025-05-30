@@ -8,7 +8,7 @@
 1908、_russian_Великий Гиньоль сюрреалистов_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e67234d6f444f1bfdc870b587b4dbbe0

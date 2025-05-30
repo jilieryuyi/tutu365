@@ -8,7 +8,7 @@
 epdf.tips_pdf-explained.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 1ee8b9bed8c79222ee23241d050f7e55

@@ -8,7 +8,7 @@
 [大家网]鸟哥的Linux私房菜_服务器架设篇(第二版)[www.TopSage.com].pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0112252af3129bf72e6cfe970a68c245

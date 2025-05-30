@@ -8,7 +8,7 @@
 14589、_russian_Хроники Черного Замка_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d165bffc9322cb7d3b6d83e956a1415

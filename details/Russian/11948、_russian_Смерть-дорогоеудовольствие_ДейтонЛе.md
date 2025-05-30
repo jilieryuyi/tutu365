@@ -8,7 +8,7 @@
 11948、_russian_Смерть - дорогое удовольствие_Дейтон Лен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86628316fad12f0af4666d8fb485adc7

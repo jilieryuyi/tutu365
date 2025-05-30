@@ -8,7 +8,7 @@
 9400、_russian_Невыдуманные рассказы о невероятном_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37d5c62d78b2376b39b56021bd546eb0

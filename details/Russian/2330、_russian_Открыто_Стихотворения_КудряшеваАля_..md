@@ -8,7 +8,7 @@
 2330、_russian_Открыто_ Стихотворения_Кудряшева Аля_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c1fdddfb006f189586fe027e5d68df01

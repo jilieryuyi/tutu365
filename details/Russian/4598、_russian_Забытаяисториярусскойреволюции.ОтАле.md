@@ -8,7 +8,7 @@
 4598、_russian_Забытая история русской революции. От Александра I до Владимира Путина__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcf9ad3b2d1b4a13f22b3680ca36e248

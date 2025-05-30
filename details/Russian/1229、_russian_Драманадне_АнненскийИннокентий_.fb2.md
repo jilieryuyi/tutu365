@@ -8,7 +8,7 @@
 1229、_russian_Драма на дне_Анненский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a1f4421d00a843a74af1c4e6cad914f

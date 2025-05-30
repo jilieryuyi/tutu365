@@ -8,7 +8,7 @@
 13297、_russian_Медовый месяц_Кэссиди Гвендолин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cd7c83ea86b8d4d3ee3a81dbed2d9e6

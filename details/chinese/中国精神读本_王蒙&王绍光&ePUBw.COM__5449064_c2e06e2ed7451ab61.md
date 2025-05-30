@@ -8,7 +8,7 @@
 中国精神读本_王蒙 & 王绍光 & ePUBw.COM__5449064_c2e06e2ed7451ab615ab99c52ccd8075.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c2e06e2ed7451ab615ab99c52ccd8075

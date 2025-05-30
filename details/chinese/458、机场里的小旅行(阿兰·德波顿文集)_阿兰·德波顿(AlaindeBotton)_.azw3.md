@@ -8,7 +8,7 @@
 458、机场里的小旅行 (阿兰·德波顿文集)_阿兰·德波顿(Alain de Botton)_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6959ac375935c6d1250bedef2efb5880

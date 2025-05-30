@@ -8,7 +8,7 @@
 3985、_russian_Волчья звезда_Малинин Евгений_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d34747227d83465c56638c377e5806f

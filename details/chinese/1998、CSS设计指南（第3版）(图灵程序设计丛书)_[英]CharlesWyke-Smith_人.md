@@ -8,7 +8,7 @@
 1998、CSS设计指南（第3版） (图灵程序设计丛书)_[英]Charles Wyke-Smith_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 2acc4d3ba86ba5ef09ff6962d87379f4

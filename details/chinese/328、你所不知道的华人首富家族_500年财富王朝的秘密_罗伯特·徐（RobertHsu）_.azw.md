@@ -8,7 +8,7 @@
 328、你所不知道的华人首富家族_500年财富王朝的秘密_罗伯特·徐（Robert Hsu）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8c7f6b27023359a75242fac4204b99d9

@@ -8,7 +8,7 @@
 6061、_english_The Black Echo_Connelly Michael_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d01b7ed5edd38afd3c1e332e1dbc5902

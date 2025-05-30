@@ -8,7 +8,7 @@
 12320、_russian_Режьте, братцы, режьте!_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46b04ba7dbfa582c90f4990892ce8a5d

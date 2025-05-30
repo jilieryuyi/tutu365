@@ -8,7 +8,7 @@
 11025、_russian_Невеста оборотня_Билл Альфред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 efe6f6adf03e711cfde00890c4f29be6

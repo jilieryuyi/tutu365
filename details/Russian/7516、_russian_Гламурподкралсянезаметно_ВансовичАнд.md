@@ -8,7 +8,7 @@
 7516、_russian_Гламур подкрался незаметно_Вансович Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 38a0c287b4b8343e2d0f153cecf9f491

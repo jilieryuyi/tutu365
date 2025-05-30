@@ -8,7 +8,7 @@
 3102、_russian_Контракт на Фараоне_Олдридж Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d8544736f642fbcc64825fdc3059c21

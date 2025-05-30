@@ -8,7 +8,7 @@
 11059、_russian_Флорентийская трагедия_Уайльд Оскар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7041a101035c80262c9931f2dff82196

@@ -8,7 +8,7 @@
 301、_russian_К вопросу о добре и зле_Абзалова Виктория Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9175a6f41dc3fc861d1a4dbd8998a57

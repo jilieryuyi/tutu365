@@ -8,7 +8,7 @@
 10769、_russian_Замок Грон_Грин Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e019598f8bae70b1fb4cbe6aa6a6126e

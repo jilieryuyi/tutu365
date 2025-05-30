@@ -8,7 +8,7 @@
 11698、_russian_Кимон_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01d753395ad089af50360d2ace927126

@@ -8,7 +8,7 @@
 9748、_russian_Марсианин_Кунерт Гюнтер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 488ef69c76369affff331e164d7d3828

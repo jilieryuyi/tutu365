@@ -8,7 +8,7 @@
 1398、_russian_Тайна улицы Дезир_Сильвен Доминик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f68ef3dbcab73befd525bbb5b8764718

@@ -8,7 +8,7 @@
 901、_russian_Вступая в жизнь_Ёсикаи Нацуко_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fa889037fa06ec67018ab562867587e

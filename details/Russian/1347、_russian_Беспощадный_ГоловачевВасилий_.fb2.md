@@ -8,7 +8,7 @@
 1347、_russian_Беспощадный_Головачев Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 930eda439fc47c03f8a831c843fecfb5

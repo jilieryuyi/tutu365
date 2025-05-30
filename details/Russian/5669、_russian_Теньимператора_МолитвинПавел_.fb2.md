@@ -8,7 +8,7 @@
 5669、_russian_Тень императора_Молитвин Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dccf8260ddf53a51ca9f51aa7cb958c9

@@ -8,7 +8,7 @@
 15213、_russian_Капелька нетерпимости_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9b19c3ae5444faef6bf5136fb88a5ac0

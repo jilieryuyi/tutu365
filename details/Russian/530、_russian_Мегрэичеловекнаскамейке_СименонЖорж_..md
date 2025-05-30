@@ -8,7 +8,7 @@
 530、_russian_Мегрэ и человек на скамейке_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fddd6c7066789d6389bed5290607f6ec

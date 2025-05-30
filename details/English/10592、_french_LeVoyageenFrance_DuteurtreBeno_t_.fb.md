@@ -8,7 +8,7 @@
 10592、_french_Le Voyage en France_Duteurtre Beno_t_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bbe2f30aad7d14a2fb23474ab71c6c07

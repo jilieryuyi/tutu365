@@ -8,7 +8,7 @@
 10277、_russian_Вчера неудачник — сегодня преуспевающий коммерсант_Беттджер Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7e40cab4a06ba320607ad4fee18e01b

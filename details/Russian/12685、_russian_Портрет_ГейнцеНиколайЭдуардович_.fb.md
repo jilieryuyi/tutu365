@@ -8,7 +8,7 @@
 12685、_russian_Портрет_Гейнце Николай Эдуардович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22551550ac71c00ba568b046d4bfe80c

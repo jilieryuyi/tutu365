@@ -8,7 +8,7 @@
 2057、_russian_У черта на посылках_Синявская Лана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93358e0e78742b830287b2526d092f11

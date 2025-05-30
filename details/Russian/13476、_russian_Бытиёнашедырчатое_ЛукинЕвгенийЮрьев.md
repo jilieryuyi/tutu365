@@ -8,7 +8,7 @@
 13476、_russian_Бытиё наше дырчатое_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f481ed4c44a294339f2afc3c0f6c034

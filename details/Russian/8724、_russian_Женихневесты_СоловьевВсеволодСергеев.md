@@ -8,7 +8,7 @@
 8724、_russian_Жених невесты_Соловьев Всеволод Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0d9ebeec3f8f68b8736fe3bed5c3002

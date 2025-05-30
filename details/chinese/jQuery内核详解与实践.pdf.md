@@ -8,7 +8,7 @@
 jQuery内核详解与实践.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 353b2dfc65e301a9937425107ee5236a

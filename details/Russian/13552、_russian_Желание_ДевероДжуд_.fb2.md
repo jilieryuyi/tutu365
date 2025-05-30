@@ -8,7 +8,7 @@
 13552、_russian_Желание_Деверо Джуд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac970d1021a9ecaeca72540dd3701db0

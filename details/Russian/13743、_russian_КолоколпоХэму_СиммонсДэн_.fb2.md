@@ -8,7 +8,7 @@
 13743、_russian_Колокол по Хэму_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b73b86050c996bf3332c3f9db281213b

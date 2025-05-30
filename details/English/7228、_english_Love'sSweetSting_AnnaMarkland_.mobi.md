@@ -8,7 +8,7 @@
 7228、_english_Love's Sweet Sting_Anna Markland_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c0803992c916ccebda540d28698949e2

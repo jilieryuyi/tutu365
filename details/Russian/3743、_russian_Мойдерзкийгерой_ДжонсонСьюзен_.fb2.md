@@ -8,7 +8,7 @@
 3743、_russian_Мой дерзкий герой_Джонсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9dc55b9a731c34ee118172c50ee17af4

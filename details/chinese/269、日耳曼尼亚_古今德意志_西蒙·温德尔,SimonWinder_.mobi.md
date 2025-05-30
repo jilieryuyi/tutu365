@@ -8,7 +8,7 @@
 269、日耳曼尼亚 _ 古今德意志_西蒙·温德尔, Simon Winder_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 45ad58edbbf12976812675a850c9a380

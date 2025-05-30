@@ -8,7 +8,7 @@
 12511、_russian_Пивовой__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f1c744f69370eb769b8b2a6c40f4453

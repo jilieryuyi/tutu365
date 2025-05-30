@@ -8,7 +8,7 @@
 7407、_russian_Пожиратель душ_Пехов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a31d68f04fa5daef288a47ad120a934

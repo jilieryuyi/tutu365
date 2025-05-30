@@ -8,7 +8,7 @@
 3843、_ukrainian_Гнучка тактика_Михановський Володимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f3387bef144f42f55eec177a0e1b1af

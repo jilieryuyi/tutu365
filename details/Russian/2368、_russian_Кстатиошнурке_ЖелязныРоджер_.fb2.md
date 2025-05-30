@@ -8,7 +8,7 @@
 2368、_russian_Кстати о шнурке_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6002536f54d4f566d7c7375ca1f611a2

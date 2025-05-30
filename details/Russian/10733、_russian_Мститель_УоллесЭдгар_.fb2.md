@@ -8,7 +8,7 @@
 10733、_russian_Мститель_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31839d257aaaf9a8acfba315051c6a93

@@ -8,7 +8,7 @@
 12047、_russian_Саманта_Кейн Андреа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 39fa7994c04ad63d7a657a652d5aaf41

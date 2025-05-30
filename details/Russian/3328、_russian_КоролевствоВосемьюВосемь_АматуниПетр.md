@@ -8,7 +8,7 @@
 3328、_russian_Королевство Восемью Восемь_Аматуни Петроний Гай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8532a40ec315cf9fe127f98bb2d65a13

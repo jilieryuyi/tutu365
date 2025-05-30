@@ -8,7 +8,7 @@
 2690、_spanish_Las Garras Del _guila_Scarrow Simon_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a86e864c81d4a349596d60d2ed02090c

@@ -8,7 +8,7 @@
 380、_russian_Круги и треугольники_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8ed0fae1dd8297dd7491db6b0e2bbf13

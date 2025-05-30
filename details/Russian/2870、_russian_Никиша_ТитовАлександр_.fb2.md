@@ -8,7 +8,7 @@
 2870、_russian_Никиша_Титов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f0c0ecaa3b6a84a7c3dfc0330805de2

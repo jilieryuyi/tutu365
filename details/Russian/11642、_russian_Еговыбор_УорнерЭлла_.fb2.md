@@ -8,7 +8,7 @@
 11642、_russian_Его выбор_Уорнер Элла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fab15537b1c32290518a9ae2aa3b309

@@ -8,7 +8,7 @@
 1711、_ukrainian_Роздуми про експеримент вiд травня 2000 року_Амосов Микола Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d9a7b817cae9fed0f2e47fd61c7a0e87

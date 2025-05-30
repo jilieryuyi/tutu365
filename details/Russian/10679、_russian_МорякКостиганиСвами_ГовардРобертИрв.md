@@ -8,7 +8,7 @@
 10679、_russian_Моряк Костиган и Свами_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be74ff69f8d424bb8749ab37b338e471

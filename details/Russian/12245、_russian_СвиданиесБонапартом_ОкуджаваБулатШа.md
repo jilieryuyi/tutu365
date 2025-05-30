@@ -8,7 +8,7 @@
 12245、_russian_Свидание с Бонапартом_Окуджава Булат Шалвович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94c1e49b9ae09c23a42080587ceeb862

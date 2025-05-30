@@ -8,7 +8,7 @@
 10115、_russian_Наследство Лемесюрье_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a5a611e21ad90c524183f6f6c57b7ed

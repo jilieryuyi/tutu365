@@ -8,7 +8,7 @@
 3025、_russian_Гарем_Афлатуни Сухбат_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3dad8646d6cd4de3e87ca078d42f0303

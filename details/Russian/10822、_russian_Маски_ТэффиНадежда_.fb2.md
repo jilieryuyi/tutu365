@@ -8,7 +8,7 @@
 10822、_russian_Маски_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9b0565609bd361f04269e238d9e446b

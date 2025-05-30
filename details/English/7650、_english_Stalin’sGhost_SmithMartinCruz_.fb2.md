@@ -8,7 +8,7 @@
 7650、_english_Stalin’s Ghost_Smith Martin Cruz_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 771740ea102724151cee71290bdea177

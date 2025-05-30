@@ -8,7 +8,7 @@
 12821、_russian_Первый марсианин_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d4d3f66b4d0b4c8c51d8629133024b0e

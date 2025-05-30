@@ -8,7 +8,7 @@
 2955、女性面對的戰爭：及那些敢於抵抗的勇者_蘇．羅伊德．羅伯茲（Sue Lloyd-Roberts）_自由之丘文創事業 ／ 遠足文化事業股份有限公司.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e92be1710c2bc0e97d9b034a3a6d57d7

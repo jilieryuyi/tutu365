@@ -8,7 +8,7 @@
 7288、_russian_Глоссолалия_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85b6ce9ff03402c1814a3b368b060a03

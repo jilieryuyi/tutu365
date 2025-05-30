@@ -8,7 +8,7 @@
 3375、_russian_ТАИНСТВЕННЫЙ ПРУД   Том 1_Виктория Холт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b63603329ced1f98f01eed49609e85c6

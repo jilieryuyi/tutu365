@@ -8,7 +8,7 @@
 10283、_russian_Полуночный маскарад_Басби Ширли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 66bf8d37142a4a09bcd9ba5b2fe4260c

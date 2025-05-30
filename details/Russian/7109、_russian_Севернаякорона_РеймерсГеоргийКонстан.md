@@ -8,7 +8,7 @@
 7109、_russian_Северная корона_Реймерс Георгий Константинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a7bbcc64525736920a214a7dff357ae

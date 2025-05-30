@@ -8,7 +8,7 @@
 10411、_russian_Горец_Флинт Эрик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 392b97584586fd98b110658255416386

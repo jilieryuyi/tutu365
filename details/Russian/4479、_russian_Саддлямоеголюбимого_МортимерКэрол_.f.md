@@ -8,7 +8,7 @@
 4479、_russian_Сад для моего любимого_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73da07b2305248586cac16a2a0ab5105

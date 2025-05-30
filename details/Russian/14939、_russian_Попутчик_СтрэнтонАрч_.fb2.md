@@ -8,7 +8,7 @@
 14939、_russian_Попутчик_Стрэнтон Арч_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a0eb92518aef1323f56e3e732dd2b2d1

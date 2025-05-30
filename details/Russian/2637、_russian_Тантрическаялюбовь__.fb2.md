@@ -8,7 +8,7 @@
 2637、_russian_Тантрическая любовь__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22e18c714ef8a7baf480183351623f68

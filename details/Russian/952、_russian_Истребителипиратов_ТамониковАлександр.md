@@ -8,7 +8,7 @@
 952、_russian_Истребители пиратов_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ef0ddaf0142330df9dc43f1e95e8053

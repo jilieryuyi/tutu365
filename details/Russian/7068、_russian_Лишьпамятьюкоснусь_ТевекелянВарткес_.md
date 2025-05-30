@@ -8,7 +8,7 @@
 7068、_russian_Лишь памятью коснусь_Тевекелян Варткес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e780c8b41a228bf7ccb8e9e3043b356e

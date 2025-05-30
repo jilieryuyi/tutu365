@@ -8,7 +8,7 @@
 13749、_russian_Варька и вурдалаки_Полякова Маргарита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83e28bd065b807cb6f0f11f4a525d7f7

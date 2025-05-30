@@ -8,7 +8,7 @@
 9726、_russian_Толедский собор_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bc3c06bc344a65333dd7520e069f0cad

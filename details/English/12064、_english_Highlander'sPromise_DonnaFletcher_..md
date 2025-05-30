@@ -8,7 +8,7 @@
 12064、_english_Highlander's Promise_Donna Fletcher_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 893d2619bf0abfe8cfc57a5e72d26cad

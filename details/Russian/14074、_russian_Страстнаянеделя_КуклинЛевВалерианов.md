@@ -8,7 +8,7 @@
 14074、_russian_Страстная неделя_Куклин Лев Валерианович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2de53a75673bdfd6988b29d1cc7f6f09

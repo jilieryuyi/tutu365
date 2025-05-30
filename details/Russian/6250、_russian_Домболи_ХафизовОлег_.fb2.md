@@ -8,7 +8,7 @@
 6250、_russian_Дом боли_Хафизов Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e48b941dcc89f4cde3151974905eef67

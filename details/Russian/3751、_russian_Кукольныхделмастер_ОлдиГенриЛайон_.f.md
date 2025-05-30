@@ -8,7 +8,7 @@
 3751、_russian_Кукольных дел мастер_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a04ea1da362ef8a49a7f32ffa9769a78

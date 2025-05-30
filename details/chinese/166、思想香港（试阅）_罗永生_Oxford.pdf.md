@@ -8,7 +8,7 @@
 166、思想香港（试阅）_罗永生_Oxford.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e319032792ce8ef10dcc595bf4603185

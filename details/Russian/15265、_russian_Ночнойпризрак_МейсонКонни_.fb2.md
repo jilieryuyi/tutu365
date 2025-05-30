@@ -8,7 +8,7 @@
 15265、_russian_Ночной призрак_Мейсон Конни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 835256933ce8a247f272f28803ff64f0

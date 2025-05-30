@@ -8,7 +8,7 @@
 3350、_russian_Бигль по имени Димка_Сомов Кирилл Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 245ef4d9aebf7196c624883a4c0d224d

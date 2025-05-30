@@ -8,7 +8,7 @@
 7081、_russian_Славное имя – _Берегиня__Пикуль Валентин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70243fed9a21b0ac96feba9959d7253e

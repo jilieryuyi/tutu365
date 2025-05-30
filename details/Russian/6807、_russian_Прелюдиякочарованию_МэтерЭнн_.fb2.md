@@ -8,7 +8,7 @@
 6807、_russian_Прелюдия к очарованию_Мэтер Энн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7a3c54bc555a5b30c4409ce834f70ee

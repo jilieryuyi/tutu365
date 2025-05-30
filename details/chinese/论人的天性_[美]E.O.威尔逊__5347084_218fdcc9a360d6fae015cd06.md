@@ -8,7 +8,7 @@
 论人的天性_[美]E.O.威尔逊__5347084_218fdcc9a360d6fae015cd06be185d17.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 218fdcc9a360d6fae015cd06be185d17

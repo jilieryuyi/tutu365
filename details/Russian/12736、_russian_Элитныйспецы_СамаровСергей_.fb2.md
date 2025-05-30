@@ -8,7 +8,7 @@
 12736、_russian_Элитный спецы_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 35a3f4684bd2350f085e3503af22f71d

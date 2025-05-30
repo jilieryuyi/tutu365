@@ -8,7 +8,7 @@
 13315、_russian_По заданию преступного синдиката_Лебрэн Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b5e8ad33983d05643bb4ac88cf40464

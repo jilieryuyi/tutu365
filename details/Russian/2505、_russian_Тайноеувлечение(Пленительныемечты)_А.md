@@ -8,7 +8,7 @@
 2505、_russian_Тайное увлечение (Пленительные мечты)_Арчер Джейн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d777375d3a4236ad4742b48ed64ac3b

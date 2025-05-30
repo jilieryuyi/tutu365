@@ -8,7 +8,7 @@
 256、_russian_Три легенды_Кликин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e3a0dcb7f19ab99f474fac9a418e4edf

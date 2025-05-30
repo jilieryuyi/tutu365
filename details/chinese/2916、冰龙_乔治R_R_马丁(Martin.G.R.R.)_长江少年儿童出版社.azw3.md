@@ -8,7 +8,7 @@
 2916、冰龙_乔治 R_R_马丁 (Martin.G.R.R.)_长江少年儿童出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f3d50604e7c243e55d820afcf3e1bf98

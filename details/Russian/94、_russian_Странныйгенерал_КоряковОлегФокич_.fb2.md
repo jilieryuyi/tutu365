@@ -8,7 +8,7 @@
 94、_russian_Странный генерал_Коряков Олег Фокич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de63018ab2708d61bb7d5261249121fc

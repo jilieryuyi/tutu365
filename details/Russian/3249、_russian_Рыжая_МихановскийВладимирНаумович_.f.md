@@ -8,7 +8,7 @@
 3249、_russian_Рыжая_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d479a397ff485db65c4053904cacd1f3

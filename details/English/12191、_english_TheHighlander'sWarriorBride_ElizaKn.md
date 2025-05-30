@@ -8,7 +8,7 @@
 12191、_english_The Highlander's Warrior Bride_Eliza Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b90f70942cd636d894ffb004a0209a01

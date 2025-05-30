@@ -8,7 +8,7 @@
 2052、Linux Shell命令行及脚本编程实例详解_刘艳涛_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c74b2b4b4fb8977d92c0fe4c83e95da2

@@ -8,7 +8,7 @@
 14263、_russian_Златая цепь_Правдин Лев Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9b1652170a2d15c94b8d1c65acec7e2

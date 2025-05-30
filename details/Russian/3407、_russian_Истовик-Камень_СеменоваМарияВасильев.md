@@ -8,7 +8,7 @@
 3407、_russian_Истовик-Камень_Семенова Мария Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ed9b493aa9c3c4ac03fd31d86549aeb

@@ -8,7 +8,7 @@
 东京风格_都筑响一, SoBooKs.cc [都筑响一, SoBooKs.cc]__5461571_9326d826d950211e0b54368fab01a149.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9326d826d950211e0b54368fab01a149

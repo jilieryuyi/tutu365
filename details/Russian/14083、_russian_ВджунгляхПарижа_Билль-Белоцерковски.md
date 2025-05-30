@@ -8,7 +8,7 @@
 14083、_russian_В джунглях Парижа_Билль-Белоцерковский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fcda68a599b709e8ee2f20b3e59cf356

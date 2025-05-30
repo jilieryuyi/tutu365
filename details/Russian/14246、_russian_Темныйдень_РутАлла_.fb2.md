@@ -8,7 +8,7 @@
 14246、_russian_Темный день_Рут Алла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98fef5bd1693b23f350ac5d2db5e1bbc

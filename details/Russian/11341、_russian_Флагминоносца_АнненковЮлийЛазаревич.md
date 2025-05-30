@@ -8,7 +8,7 @@
 11341、_russian_Флаг миноносца_Анненков Юлий Лазаревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43711acfcdc30ad9d16c7a5fd991845f

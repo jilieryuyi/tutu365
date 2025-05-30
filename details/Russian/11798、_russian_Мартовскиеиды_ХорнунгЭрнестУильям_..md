@@ -8,7 +8,7 @@
 11798、_russian_Мартовские иды_Хорнунг Эрнест Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89d79f3bdec99166a18297c712ce1f8b

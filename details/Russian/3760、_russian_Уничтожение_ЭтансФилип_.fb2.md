@@ -8,7 +8,7 @@
 3760、_russian_Уничтожение_Этанс Филип_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab077f9f817ef404aa7f7b78406608c4

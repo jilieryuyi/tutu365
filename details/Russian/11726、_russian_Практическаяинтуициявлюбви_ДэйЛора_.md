@@ -8,7 +8,7 @@
 11726、_russian_Практическая интуиция в любви_Дэй Лора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad382ea0c7e4bdf8f8d21a30a7895cc4

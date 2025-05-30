@@ -8,7 +8,7 @@
 11529、_russian_Воспоминания, портреты, статьи_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cff1076c735cf388e990cfbdbfe7ce5

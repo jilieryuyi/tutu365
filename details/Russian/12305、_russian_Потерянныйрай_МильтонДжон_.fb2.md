@@ -8,7 +8,7 @@
 12305、_russian_Потерянный рай_Мильтон Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce8d2d2e66665c9aa0c3abcf54bbef84

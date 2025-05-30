@@ -8,7 +8,7 @@
 8691、_russian_Правила крови (антология)_Панов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c6cc5b924f49fca9643063921206109

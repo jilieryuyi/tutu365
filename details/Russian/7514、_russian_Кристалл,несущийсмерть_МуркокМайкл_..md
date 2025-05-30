@@ -8,7 +8,7 @@
 7514、_russian_Кристалл, несущий смерть_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd5d6f62782c288ac742dbf391bc1187

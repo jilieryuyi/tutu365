@@ -8,7 +8,7 @@
 7980、_russian_Осенний лист или зачем бомжу деньги__Царицын Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2d31f6a5c0a5defdfa43add22f7a521

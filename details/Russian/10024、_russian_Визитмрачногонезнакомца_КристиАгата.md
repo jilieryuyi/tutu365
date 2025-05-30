@@ -8,7 +8,7 @@
 10024、_russian_Визит мрачного незнакомца_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d3e30e43dbc9262391bcb5b1a7096e4

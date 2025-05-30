@@ -8,7 +8,7 @@
 14605、_russian_Сборники стихов_Афраймович Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a5d343d00998dff366ac2183a7dfe38

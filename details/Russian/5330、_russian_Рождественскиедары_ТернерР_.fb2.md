@@ -8,7 +8,7 @@
 5330、_russian_Рождественские дары_Тернер Р_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd358fbe59da86c5a21538954b4d7199

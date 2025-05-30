@@ -8,7 +8,7 @@
 4619、_english_The Devil's Bargain_Allegra Gray_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9bb8a41653031608f4ebcb6dd703730f

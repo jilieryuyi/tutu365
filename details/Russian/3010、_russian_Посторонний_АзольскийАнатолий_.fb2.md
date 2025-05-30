@@ -8,7 +8,7 @@
 3010、_russian_Посторонний_Азольский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32a857c177bfdc6fc8ed781cfada1611

@@ -8,7 +8,7 @@
 1860、_russian_Уйти из леса_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 744483c3091df6cbdbd02e3a8e329643

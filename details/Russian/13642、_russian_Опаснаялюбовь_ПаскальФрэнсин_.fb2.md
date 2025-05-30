@@ -8,7 +8,7 @@
 13642、_russian_Опасная любовь_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2603a0691fbe3f35ed12720d7a35f26

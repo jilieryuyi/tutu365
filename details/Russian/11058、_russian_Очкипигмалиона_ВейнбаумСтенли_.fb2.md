@@ -8,7 +8,7 @@
 11058、_russian_Очки пигмалиона_Вейнбаум Стенли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a27462915181597f78a47662a1c68095

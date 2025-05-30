@@ -8,7 +8,7 @@
 14030、_russian_Смерть выберет тебя_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 437da4c901e2bf4ae87bed1278d5d690

@@ -8,7 +8,7 @@
 718、_english_Created, the Destroyer_W W W, M M M, Richard Sapir_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f467246e4adbff58513a75036ba89ef7

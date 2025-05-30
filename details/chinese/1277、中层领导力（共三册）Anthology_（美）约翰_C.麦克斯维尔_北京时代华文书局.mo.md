@@ -8,7 +8,7 @@
 1277、中层领导力（共三册） Anthology_（美）约翰_C.麦克斯维尔_北京时代华文书局.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d2438cb96309a02732b02dc19b02a82d

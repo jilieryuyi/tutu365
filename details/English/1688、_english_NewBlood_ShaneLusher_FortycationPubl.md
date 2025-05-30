@@ -8,7 +8,7 @@
 1688、_english_New Blood_Shane Lusher _Fortycation Publishing.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 faadd19c247f879b307432260347361e

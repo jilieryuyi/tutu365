@@ -8,7 +8,7 @@
 5449、_russian_Заметки неизвестного_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 628ac52f7bfd70747b36c57d95ea9f0b

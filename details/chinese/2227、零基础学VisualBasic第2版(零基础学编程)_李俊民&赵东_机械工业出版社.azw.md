@@ -8,7 +8,7 @@
 2227、零基础学Visual Basic 第2版 (零基础学编程)_李俊民 & 赵东_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 03e27f925702eae0ac55c49d8589258d

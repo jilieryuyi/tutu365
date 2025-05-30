@@ -8,7 +8,7 @@
 杰克·凯鲁亚克作品系列套装（套装共10册）_杰克·凯鲁亚克（Jack Kerouac）__5475946_fd511912bcf9c36f5e6e31f99b5e55b1.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fd511912bcf9c36f5e6e31f99b5e55b1

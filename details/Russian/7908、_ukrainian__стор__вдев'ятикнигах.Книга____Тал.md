@@ -8,7 +8,7 @@
 7908、_ukrainian__стор__ в дев'яти книгах. Книга____ Тал_я_Геродот_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 119f62a2941ad2af49e2702125607e0a

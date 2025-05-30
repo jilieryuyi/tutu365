@@ -8,7 +8,7 @@
 14416、_russian_Лотос_Ким Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d36eb24ca8a2c31681ebea77f37262d8

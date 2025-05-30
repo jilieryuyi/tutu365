@@ -8,7 +8,7 @@
 3774、_russian_Сила Земли_Каннингем Скотт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68f192c3aa483436869869092512a884

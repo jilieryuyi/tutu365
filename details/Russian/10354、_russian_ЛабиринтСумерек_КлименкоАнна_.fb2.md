@@ -8,7 +8,7 @@
 10354、_russian_Лабиринт Сумерек_Клименко Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 044986bc04c16a658ccbf90f3b501f47

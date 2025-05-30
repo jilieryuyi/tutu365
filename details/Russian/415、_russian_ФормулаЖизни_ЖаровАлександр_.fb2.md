@@ -8,7 +8,7 @@
 415、_russian_Формула Жизни_Жаров Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9d5144137a8e9ee4ced7149a9253553

@@ -8,7 +8,7 @@
 1602、管理：使命、责任、实务（责任篇）(珍藏版） (德鲁克管理经典丛书)_彼得·德鲁克(Drucker.P.F.)_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a9fbcc44d52dbfbe8e0237d7fe5047ef

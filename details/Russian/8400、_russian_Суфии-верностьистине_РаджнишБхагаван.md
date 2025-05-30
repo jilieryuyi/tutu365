@@ -8,7 +8,7 @@
 8400、_russian_Суфии - верность истине_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c4e546c2be0a81ad55b1bb7050576e35

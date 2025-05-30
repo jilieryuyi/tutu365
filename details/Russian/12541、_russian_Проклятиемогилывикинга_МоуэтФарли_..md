@@ -8,7 +8,7 @@
 12541、_russian_Проклятие могилы викинга_Моуэт Фарли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c726b530db5719aade9de1a1afc3103d

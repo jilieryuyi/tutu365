@@ -8,7 +8,7 @@
 11069、_russian_Последняя планета_Нортон Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d7182c817df882ded765029488ab2d5

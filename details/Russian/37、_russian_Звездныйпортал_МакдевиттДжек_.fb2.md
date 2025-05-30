@@ -8,7 +8,7 @@
 37、_russian_Звездный портал_Макдевитт Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9fdfb435330b0e0edf1c0364d4adc6a

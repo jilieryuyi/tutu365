@@ -8,7 +8,7 @@
 5884、_russian_Тайная комната_Тырин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e80f009a871e84d5e65a4f9b7df25698

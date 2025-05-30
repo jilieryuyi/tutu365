@@ -8,7 +8,7 @@
 4755、_russian_Порок Сердца_Соя Антон, Минина Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dc02eb6c931365f0d30a207e72994394

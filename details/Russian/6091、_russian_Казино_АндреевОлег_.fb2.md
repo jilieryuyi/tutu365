@@ -8,7 +8,7 @@
 6091、_russian_Казино_Андреев Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb4b9b01a3e8fa3847f77ddac369fdeb

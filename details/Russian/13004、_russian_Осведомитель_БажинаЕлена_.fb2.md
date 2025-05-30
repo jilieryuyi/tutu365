@@ -8,7 +8,7 @@
 13004、_russian_Осведомитель_Бажина Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 645907d7c8541195a2f09a830a3df083

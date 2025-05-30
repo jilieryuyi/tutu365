@@ -8,7 +8,7 @@
 2420、_russian_Страстная тигрица_Ли Джейд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d33205fcb4403dc09b94b1e1bb7a184b

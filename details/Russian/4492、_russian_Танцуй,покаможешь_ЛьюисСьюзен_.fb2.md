@@ -8,7 +8,7 @@
 4492、_russian_Танцуй, пока можешь_Льюис Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02726838f36164656b87871499ea57f6

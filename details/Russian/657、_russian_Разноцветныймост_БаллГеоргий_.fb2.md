@@ -8,7 +8,7 @@
 657、_russian_Разноцветный мост_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8daee5f76acb580a306d1e6a30a15154

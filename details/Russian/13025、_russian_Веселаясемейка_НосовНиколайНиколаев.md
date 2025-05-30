@@ -8,7 +8,7 @@
 13025、_russian_Веселая семейка_Носов Николай Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a230c95014e806c93bcf2271ce2ae758

@@ -8,7 +8,7 @@
 3271、_russian_Двадцатый старт_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e0b6a84df36b05a3f89b5641d347b09

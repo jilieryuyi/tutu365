@@ -8,7 +8,7 @@
 8079、_russian_Не только под Рождество_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ef3d5fa3bf26f37e221a32fb1194ed12

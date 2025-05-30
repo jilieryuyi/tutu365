@@ -8,7 +8,7 @@
 12127、_russian_Галактики как песчинки_Олдисс Брайан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b50e1ab48dfaa16e29e91d778669521e

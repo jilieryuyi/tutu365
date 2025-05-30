@@ -8,7 +8,7 @@
 2285、伟哥的python私房菜（中国程序员）_王伟_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5b0c67782c111d2b410eea41a69e6910

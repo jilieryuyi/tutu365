@@ -8,7 +8,7 @@
 10999、_russian__Отчаянный__Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8805ef9458c8bc0ad1d26a4ca82f1572

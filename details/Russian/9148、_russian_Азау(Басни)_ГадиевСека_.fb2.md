@@ -8,7 +8,7 @@
 9148、_russian_Азау(Басни)_Гадиев Сека_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb7ac22c252e2d1b290e4cc4ad2a3344

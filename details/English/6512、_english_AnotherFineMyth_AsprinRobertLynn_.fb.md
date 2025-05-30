@@ -8,7 +8,7 @@
 6512、_english_Another Fine Myth_Asprin Robert Lynn_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cabf06c60cedefe18b14a7081ee6b4e4

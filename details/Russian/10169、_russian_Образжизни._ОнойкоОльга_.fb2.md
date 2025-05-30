@@ -8,7 +8,7 @@
 10169、_russian_Образ жизни._Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f5b3e75253c4b86f70755d4e338ee42

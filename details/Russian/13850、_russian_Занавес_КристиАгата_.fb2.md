@@ -8,7 +8,7 @@
 13850、_russian_Занавес_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e562262a8411e83485031aa9db7fe140

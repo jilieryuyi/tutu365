@@ -8,7 +8,7 @@
 4275、_russian_Волнистый попугайчик_Иноуэ Ясуси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8024e989f0994d439f873818743431f5

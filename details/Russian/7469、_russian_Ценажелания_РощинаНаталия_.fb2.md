@@ -8,7 +8,7 @@
 7469、_russian_Цена желания_Рощина Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23fce3457f8c68dffb96dacb7976fb9e

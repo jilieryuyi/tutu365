@@ -8,7 +8,7 @@
 8725、_russian_Волхвы_Соловьев Всеволод Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 994e4a1c8ac76098f609bf673ad0181e

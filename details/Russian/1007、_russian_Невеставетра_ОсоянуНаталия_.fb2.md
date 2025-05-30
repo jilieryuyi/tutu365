@@ -8,7 +8,7 @@
 1007、_russian_Невеста ветра_Осояну Наталия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eaaef9ab2f9bdda98bba5552ba2763c6

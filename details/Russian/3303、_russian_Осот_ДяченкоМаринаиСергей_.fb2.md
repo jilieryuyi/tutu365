@@ -8,7 +8,7 @@
 3303、_russian_Осот_Дяченко Марина и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a42984195a81977a5b288702866a7817

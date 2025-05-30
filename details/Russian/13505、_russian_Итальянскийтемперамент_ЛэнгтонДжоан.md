@@ -8,7 +8,7 @@
 13505、_russian_Итальянский темперамент_Лэнгтон Джоанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11e99f82a883a47c7f2a4978d9097bea

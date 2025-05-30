@@ -8,7 +8,7 @@
 51、郁闷的中国人_梁晓声_PHLCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 93892f876222dab837081672735d7ca2

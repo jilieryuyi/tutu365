@@ -8,7 +8,7 @@
 8953、_russian_Морские волки_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 49a6e2d65c79317ba7536b5da163af33

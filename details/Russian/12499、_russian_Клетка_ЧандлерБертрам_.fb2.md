@@ -8,7 +8,7 @@
 12499、_russian_Клетка_Чандлер Бертрам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bda1160a602476fc200248cdfdcd44f9

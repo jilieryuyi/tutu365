@@ -8,7 +8,7 @@
 14784、_russian_Крэнфорд_Гаскелл Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e3352e927525a77b7dcf6e60f067034

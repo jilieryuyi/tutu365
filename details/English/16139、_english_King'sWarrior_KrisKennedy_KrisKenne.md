@@ -8,7 +8,7 @@
 16139、_english_King's Warrior_Kris Kennedy_Kris Kennedy.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 dfde1a3b585a57e5cae348fd9ce64f98

@@ -8,7 +8,7 @@
 6095、_russian_Автобиографическая проза_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bf9d836a8abff3b44b7896dc24e903e

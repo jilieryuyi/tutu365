@@ -8,7 +8,7 @@
 3076、薄世宁医学通识讲义_Unknown_.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f8bbac0dadc8ab90ceeebaa99ce74d5f

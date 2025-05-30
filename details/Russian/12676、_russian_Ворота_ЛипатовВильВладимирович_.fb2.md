@@ -8,7 +8,7 @@
 12676、_russian_Ворота_Липатов Виль Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 37a921dd184adee4d39bbf59a72b007b

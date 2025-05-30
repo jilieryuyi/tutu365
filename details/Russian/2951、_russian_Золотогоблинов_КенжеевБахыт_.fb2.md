@@ -8,7 +8,7 @@
 2951、_russian_Золото гоблинов_Кенжеев Бахыт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3d56153b5e2cc37657fcd0fc982c81e

@@ -8,7 +8,7 @@
 2122、_english_The Peculiar Case of Lord Finsbury's Diamonds_Stephanie Laurens_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 27aa9a7a8347952280ec1870a025408b

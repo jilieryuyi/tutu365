@@ -8,7 +8,7 @@
 8828、_russian_Два нуля_Афанасьев Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ac798def29d5c5ad4905ba6616a2497

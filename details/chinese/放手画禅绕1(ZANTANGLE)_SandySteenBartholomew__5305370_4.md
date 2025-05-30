@@ -8,7 +8,7 @@
 放手画禅绕1 (ZANTANGLE)_Sandy Steen Bartholomew__5305370_41efa28e3ebb2f017207450db7190adc.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 41efa28e3ebb2f017207450db7190adc

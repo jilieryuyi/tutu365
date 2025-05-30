@@ -8,7 +8,7 @@
 739、_russian_Нет прощения!_Славнейшева Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acad09d63c551b0fd791cd52a6cf8045

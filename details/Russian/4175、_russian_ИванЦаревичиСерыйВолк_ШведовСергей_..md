@@ -8,7 +8,7 @@
 4175、_russian_Иван Царевич и Серый Волк_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9bb4a77aa30232aa839ce35c4e6a5392

@@ -8,7 +8,7 @@
 6257、_russian_Северка_Соловьев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9327c66f2b90099b78c2d559cd3cbde8

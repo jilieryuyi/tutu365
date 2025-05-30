@@ -8,7 +8,7 @@
 17005、_english_The Devil's Delilah_Loretta Chase_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 03990508fc0940683416517c9a897bd7

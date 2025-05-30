@@ -8,7 +8,7 @@
 6004、_russian_Страшная месть Тодда_Нилсен Хелен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73ebf60a17a3f24e9e43920e9c31834e

@@ -8,7 +8,7 @@
 311、_russian_Тщета, или крушение _Титана__Робертсон Морган_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b29df78017009a1900461d9dc595158a

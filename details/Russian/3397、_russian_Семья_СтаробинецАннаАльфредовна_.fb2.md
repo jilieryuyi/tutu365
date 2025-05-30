@@ -8,7 +8,7 @@
 3397、_russian_Семья_Старобинец Анна Альфредовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a3ad4e91bbd68bf7658ce5f4f0fe804d

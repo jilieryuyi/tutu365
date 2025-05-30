@@ -8,7 +8,7 @@
 13367、_russian_Пламя страсти_Лей Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb848ebacd37189f0e2567986698d717

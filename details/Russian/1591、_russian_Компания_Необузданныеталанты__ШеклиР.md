@@ -8,7 +8,7 @@
 1591、_russian_Компания _Необузданные таланты__Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d31fcd8aa590f165a5783df3fa0baba

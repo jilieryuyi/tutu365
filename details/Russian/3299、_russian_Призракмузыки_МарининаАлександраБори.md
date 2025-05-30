@@ -8,7 +8,7 @@
 3299、_russian_Призрак музыки_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bb4a112b5d93e5179555e8ff3a13853

@@ -8,7 +8,7 @@
 12275、_russian_Четвертая профессия_Нивен Ларри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b843d7c7f56f15121b0daeecbc0346c

@@ -8,7 +8,7 @@
 12916、_russian_Человек с ружьем_Торин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90886ff1483321b87bc63c674137010f

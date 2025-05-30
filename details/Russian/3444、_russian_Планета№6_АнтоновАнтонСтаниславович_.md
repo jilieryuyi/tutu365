@@ -8,7 +8,7 @@
 3444、_russian_Планета №6_Антонов Антон Станиславович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64b9223957a87d2f5df8405c730400f2

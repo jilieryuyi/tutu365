@@ -8,7 +8,7 @@
 13640、_russian_Поиски любви_Паскаль Фрэнсин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a417ff04cde9cafaec8c926387e2f2f2

@@ -8,7 +8,7 @@
 4002、_russian_Посредник_Каминская Полина, Перумов Ник_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d0fee5d50d2bf08488f1bd1188b3c09

@@ -8,7 +8,7 @@
 9990、_russian_Пчелиная напасть_Баруздин Сергей Алексеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 07941791f0455bc3911518292df8cfef

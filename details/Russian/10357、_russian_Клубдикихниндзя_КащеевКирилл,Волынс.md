@@ -8,7 +8,7 @@
 10357、_russian_Клуб диких ниндзя_Кащеев Кирилл, Волынская Илона_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fb4fde474e0ad7c27bd4e5fc2ec99e6

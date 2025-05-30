@@ -8,7 +8,7 @@
 10815、_english_One Knight's Return_Claire Delacroix_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8c7f262f0fe582d6fa7bd3f51f38ae47

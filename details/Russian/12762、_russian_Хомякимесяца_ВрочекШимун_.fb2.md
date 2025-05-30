@@ -8,7 +8,7 @@
 12762、_russian_Хомяки месяца_Врочек Шимун_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ff7cd26a91f588aa21335614307eccc

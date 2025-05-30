@@ -8,7 +8,7 @@
 14652、_russian_Индийский веер_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eba8b2351342f96c4619b7b51121b4e3

@@ -8,7 +8,7 @@
 5978、_russian_Протокол_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c7f6b27023359a75242fac4204b99d9

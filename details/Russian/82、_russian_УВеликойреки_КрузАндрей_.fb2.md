@@ -8,7 +8,7 @@
 82、_russian_У Великой реки_Круз Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b491fffc3604eb5bed06223a48692f1d

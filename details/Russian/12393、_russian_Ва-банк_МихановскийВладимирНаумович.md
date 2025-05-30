@@ -8,7 +8,7 @@
 12393、_russian_Ва-банк_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e048bcc96c363dc10c5c3390b6bec094

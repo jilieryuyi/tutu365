@@ -8,7 +8,7 @@
 5766、_russian_Автобиография. Записки добробольца_Эфрон Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c461e26a4de1198617454cc0c250ad5c

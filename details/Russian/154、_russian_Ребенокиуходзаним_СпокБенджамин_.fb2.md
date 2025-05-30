@@ -8,7 +8,7 @@
 154、_russian_Ребенок и уход за ним_Спок Бенджамин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0614c0f0ce552fe520452c8a31dfc50a

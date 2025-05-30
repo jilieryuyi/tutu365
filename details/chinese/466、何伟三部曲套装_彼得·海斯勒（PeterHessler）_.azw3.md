@@ -8,7 +8,7 @@
 466、何伟三部曲套装_彼得·海斯勒（Peter Hessler）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f16a3bb172b9702dec5c83f471be4375

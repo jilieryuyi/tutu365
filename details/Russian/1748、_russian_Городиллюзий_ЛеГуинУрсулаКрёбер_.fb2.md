@@ -8,7 +8,7 @@
 1748、_russian_Город иллюзий_Ле Гуин Урсула Крёбер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f5cd2f2758b9c24e27b68ce013b0bad

@@ -8,7 +8,7 @@
 12329、_russian_Котам, с ключом в зубах, не доверяйте_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db3b9a5a9c6d9d51ff67f0c028b726c4

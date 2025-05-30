@@ -8,7 +8,7 @@
 11098、_russian_Только кулаки_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e80a5241cdb16d29724bd0ac68d0c5b9

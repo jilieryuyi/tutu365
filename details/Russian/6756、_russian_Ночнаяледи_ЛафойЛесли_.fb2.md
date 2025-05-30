@@ -8,7 +8,7 @@
 6756、_russian_Ночная леди_Лафой Лесли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 423d9a907b60a1bbf34c54e6ea697860

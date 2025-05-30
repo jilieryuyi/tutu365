@@ -8,7 +8,7 @@
 14156、_russian_Путь воина_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 67feaff4eb32341ba0d8c772c6841fee

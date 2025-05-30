@@ -8,7 +8,7 @@
 3886、_polish_Terror_Simmons Dan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fc5894aae7eea5437d56cd37e3fe81f1

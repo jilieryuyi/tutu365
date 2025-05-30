@@ -8,7 +8,7 @@
 13599、_russian_Разворованное чудо_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4332ccfd9b8501e3a85a74e3a992cff3

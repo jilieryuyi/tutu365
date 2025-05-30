@@ -8,7 +8,7 @@
 9103、_russian_Повесть _Фатима__Хетагуров Коста_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e808b783f337e57b2a64830e9593a913

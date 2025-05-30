@@ -8,7 +8,7 @@
 1340、_russian_Мерзкая плоть_Во Ивлин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 82743e3ef2b7cf153c20f8670e2c4126

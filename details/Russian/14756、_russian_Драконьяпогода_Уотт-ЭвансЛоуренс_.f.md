@@ -8,7 +8,7 @@
 14756、_russian_Драконья погода_Уотт-Эванс Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 774e0a59ff01c870866d69bb0078a87b

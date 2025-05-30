@@ -8,7 +8,7 @@
 3401、_russian_Абсолютное оружие_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fa48640d2c84ecf7ecbbb89cfe0ff070

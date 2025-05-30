@@ -8,7 +8,7 @@
 96、_russian_Стихи_Коржавин Наум_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2244a082f23d53c4dc98082804b8ee8

@@ -8,7 +8,7 @@
 9847、_russian_Миссия оборотня_Якубова Алия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c80fe42df3966127ca09435549f8322c

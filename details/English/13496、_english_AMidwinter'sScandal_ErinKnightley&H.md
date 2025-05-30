@@ -8,7 +8,7 @@
 13496、_english_A Midwinter's Scandal_Erin Knightley & Heather Snow_Erin Knightley.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d0f5e6fd4211ffa0dc919ef3cf41398c

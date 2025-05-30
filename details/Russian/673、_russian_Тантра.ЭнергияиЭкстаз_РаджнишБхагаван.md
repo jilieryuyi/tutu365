@@ -8,7 +8,7 @@
 673、_russian_Тантра. Энергия и Экстаз_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0473d2c1d88bdee2158bfdc879f8f931

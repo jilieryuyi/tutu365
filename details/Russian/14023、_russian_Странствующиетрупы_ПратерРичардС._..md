@@ -8,7 +8,7 @@
 14023、_russian_Странствующие трупы_Пратер Ричард С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06e7e0df4b70ba63f3ecf13c99c2121e

@@ -8,7 +8,7 @@
 11946、_russian_Дневник Ласточки_Нотомб Амели_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f0de974e9cb173f436efd1c66d9473a

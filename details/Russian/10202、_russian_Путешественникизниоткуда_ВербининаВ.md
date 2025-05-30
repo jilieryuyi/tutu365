@@ -8,7 +8,7 @@
 10202、_russian_Путешественник из ниоткуда_Вербинина Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28749e72b75c27d1449cedb49d933c2d

@@ -8,7 +8,7 @@
 7092、_russian_Магия инкорпорейтед_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea4c404670cc1cdf92368c10ff811211

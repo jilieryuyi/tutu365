@@ -8,7 +8,7 @@
 11838、_russian_Мученики науки_Замятин Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19f5e8653069dbdf5244265756d03cd6

@@ -8,7 +8,7 @@
 11080、_russian_Опасный спутник_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7741b111d85a67981018e440c8df5408

@@ -8,7 +8,7 @@
 Kubernetes进阶实战.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7e3721e6db189f0243431eaeaad581ac

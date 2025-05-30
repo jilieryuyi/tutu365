@@ -8,7 +8,7 @@
 材料热力学 Thermodynamics of Materials_徐祖耀_高等教育出版社_5375420_c8ce33b62e9af30216aec5269ad3c7c0.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c8ce33b62e9af30216aec5269ad3c7c0

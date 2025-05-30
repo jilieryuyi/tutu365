@@ -8,7 +8,7 @@
 6850、_english_Labyrinth_Mosse Kate_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 59e76f4fde7e4c5a2727f8de632a283b

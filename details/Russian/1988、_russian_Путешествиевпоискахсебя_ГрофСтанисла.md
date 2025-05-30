@@ -8,7 +8,7 @@
 1988、_russian_Путешествие в поисках себя_Гроф Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1a3188076d5fd013a515e470a7cdbba6

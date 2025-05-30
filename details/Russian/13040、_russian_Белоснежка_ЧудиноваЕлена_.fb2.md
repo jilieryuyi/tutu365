@@ -8,7 +8,7 @@
 13040、_russian_Белоснежка_Чудинова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 69252128aea3fd22091e9654049eb268

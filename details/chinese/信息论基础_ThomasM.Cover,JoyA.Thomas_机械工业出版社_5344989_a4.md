@@ -8,7 +8,7 @@
 信息论基础_Thomas M. Cover, Joy A. Thomas_机械工业出版社_5344989_a4b5c31666f8ce4c790d5527b9c7abbd.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a4b5c31666f8ce4c790d5527b9c7abbd

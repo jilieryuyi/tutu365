@@ -8,7 +8,7 @@
 2808、_russian_Затерянная Динотопия_Фостер Алан Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 035d0faef12d3a61e218a50fe3bb2b52

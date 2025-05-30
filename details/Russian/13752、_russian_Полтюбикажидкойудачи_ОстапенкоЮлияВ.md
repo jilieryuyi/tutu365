@@ -8,7 +8,7 @@
 13752、_russian_Полтюбика жидкой удачи_Остапенко Юлия Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02ad26b902ec7ecda563c9289ece9cbe

@@ -8,7 +8,7 @@
 2081、Oracle从入门到精通 (程序员书库)_秦靖 & 刘存勇_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6ee64c25eefd0f11adef920516bf82f6

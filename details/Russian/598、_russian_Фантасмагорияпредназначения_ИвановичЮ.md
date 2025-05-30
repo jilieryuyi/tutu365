@@ -8,7 +8,7 @@
 598、_russian_Фантасмагория предназначения_Иванович Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 02e90d8e864aa6aea5612e60d225d464

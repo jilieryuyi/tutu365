@@ -8,7 +8,7 @@
 12436、_russian_Притяжение красоты_Митчелл Фрида_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 70ed14aefa9efbe87de9d93197b9175b

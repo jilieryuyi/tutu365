@@ -8,7 +8,7 @@
 红与黑 (译文名著精选)_司汤达(Stendhal)_上海译文出版社_5476315_5edd4fbc2d3c7d0ab8cbaf3e1231f21f.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5edd4fbc2d3c7d0ab8cbaf3e1231f21f

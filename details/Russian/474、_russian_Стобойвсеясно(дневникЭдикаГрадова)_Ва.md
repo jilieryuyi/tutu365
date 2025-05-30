@@ -8,7 +8,7 @@
 474、_russian_С тобой все ясно (дневник Эдика Градова)_Васильев Владимир Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0aabe3aa88968db98c6fc1afa64470fa

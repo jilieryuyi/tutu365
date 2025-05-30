@@ -8,7 +8,7 @@
 1483、_russian_Боцман на льдине_Плудра Бенно_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6362216ef77bc4c1e2d5cc2fb156decb

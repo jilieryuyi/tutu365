@@ -8,7 +8,7 @@
 913、_russian_Вечер открытых сердец_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 56f3d37a851b48620af8095cb8853d70

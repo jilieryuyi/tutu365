@@ -8,7 +8,7 @@
 1780、_russian_Законы высшего общества_Холина Арина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5700a2f03d491c6abde5297b244bc188

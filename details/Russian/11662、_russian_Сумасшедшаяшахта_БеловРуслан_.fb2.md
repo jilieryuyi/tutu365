@@ -8,7 +8,7 @@
 11662、_russian_Сумасшедшая шахта_Белов Руслан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd339aa5f56b5c8351997405c8d1c4bf

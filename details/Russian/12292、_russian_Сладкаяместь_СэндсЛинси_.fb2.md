@@ -8,7 +8,7 @@
 12292、_russian_Сладкая месть_Сэндс Линси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be4ba5c9c49be85272e0702f29259d85

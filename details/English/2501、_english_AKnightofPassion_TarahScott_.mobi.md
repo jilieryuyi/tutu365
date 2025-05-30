@@ -8,7 +8,7 @@
 2501、_english_A Knight of Passion_Tarah Scott_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3a480ab9c6df06fbe70cee325c01fe2c

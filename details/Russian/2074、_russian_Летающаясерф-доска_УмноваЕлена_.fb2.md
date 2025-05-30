@@ -8,7 +8,7 @@
 2074、_russian_Летающая серф-доска_Умнова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 474de7e4a9b6f6d7480ec55103ab992e

@@ -8,7 +8,7 @@
 8719、_russian_Русалка. Поиск_Сотников Владимир Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ce2c246bf2db67f5cb6659e293d2c6aa

@@ -8,7 +8,7 @@
 1003、_russian_Один_Мунк Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd2bf2722dd6f445363d98dd48c07056

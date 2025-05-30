@@ -8,7 +8,7 @@
 14748、_russian_Роман с камнем_Ножъ Журнал, Марьянко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 805942218cbd5912c4d9b5f707b1d4bb

@@ -8,7 +8,7 @@
 10588、_english_The Earl's Mortal Enemy_Issy Brooke _Issy Brooke.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 7e6432f0dbaabdb5566bda34da060785

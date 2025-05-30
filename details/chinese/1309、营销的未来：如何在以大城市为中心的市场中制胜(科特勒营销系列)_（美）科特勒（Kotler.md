@@ -8,7 +8,7 @@
 1309、营销的未来：如何在以大城市为中心的市场中制胜 (科特勒营销系列)_（美）科特勒（Kotler,P.） & （美）科特勒（Kotler,M.） 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a64e9beddc16ccadba3ea8402713ea9c

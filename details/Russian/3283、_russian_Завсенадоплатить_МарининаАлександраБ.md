@@ -8,7 +8,7 @@
 3283、_russian_За все надо платить_Маринина Александра Борисовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5dac6c321143b7cf1ddf2d3a22a4fbce

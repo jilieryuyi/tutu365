@@ -8,7 +8,7 @@
 13079、_russian_Жизнь в стиле ранней бедности_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdd09c70aa5792581087a1ef3fc177c1

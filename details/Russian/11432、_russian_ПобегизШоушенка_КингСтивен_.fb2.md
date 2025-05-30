@@ -8,7 +8,7 @@
 11432、_russian_Побег из Шоушенка_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0362389648ec3fa6eafdf3967ff2a7d

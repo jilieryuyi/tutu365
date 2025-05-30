@@ -8,7 +8,7 @@
 503、_russian_Отпуск Мегрэ_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c8fa11240d0a47b8819f997f8673822f

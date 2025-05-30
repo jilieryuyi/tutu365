@@ -8,7 +8,7 @@
 html5标签速查.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 830bd3ad2ced9b01c4119c8e904c3881

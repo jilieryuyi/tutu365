@@ -8,7 +8,7 @@
 11856、_russian_Божественное безумие_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9ef305af15f6531441756f2e3faa1b45

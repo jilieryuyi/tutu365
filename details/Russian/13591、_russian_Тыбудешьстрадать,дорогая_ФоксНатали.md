@@ -8,7 +8,7 @@
 13591、_russian_Ты будешь страдать, дорогая_Фокс Натали_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc517a8aaee9ad673577e2d1fc6286b1

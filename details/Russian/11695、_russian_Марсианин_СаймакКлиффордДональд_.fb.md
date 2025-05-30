@@ -8,7 +8,7 @@
 11695、_russian_Марсианин_Саймак Клиффорд Дональд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28a65a78a96b1ab11288fc5e87b9dd7c

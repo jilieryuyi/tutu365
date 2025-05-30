@@ -8,7 +8,7 @@
 7308、_russian_Бездна_Роллинс Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e649322001e946e602f4c783427e936

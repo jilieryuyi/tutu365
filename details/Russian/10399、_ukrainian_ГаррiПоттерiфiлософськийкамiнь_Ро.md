@@ -8,7 +8,7 @@
 10399、_ukrainian_Гаррi Поттер i фiлософський камiнь_Рол_н_ Джоан К._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d160136629f0beb5891b0ab443b15c1e

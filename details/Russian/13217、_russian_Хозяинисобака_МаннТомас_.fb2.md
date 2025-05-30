@@ -8,7 +8,7 @@
 13217、_russian_Хозяин и собака_Манн Томас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c2d898ed5069b2d8981fa4d21d434cf8

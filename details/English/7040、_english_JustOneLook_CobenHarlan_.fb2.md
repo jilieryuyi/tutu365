@@ -8,7 +8,7 @@
 7040、_english_Just One Look_Coben Harlan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9aef89ebda90dea9e9647988baa6edac

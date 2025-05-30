@@ -8,7 +8,7 @@
 13575、_russian_Опасное влечение_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 828726a8a32325f5c491deaf8ce39092

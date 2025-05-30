@@ -8,7 +8,7 @@
 11419、_russian_Нечеловек-неведимка_Бабенко Виталий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c76b898f6c04c16ad0da534c10569a4

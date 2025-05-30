@@ -8,7 +8,7 @@
 12840、_russian_Эхо дефолта_Макеев Алексей, Леонов Николай Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa332742c62624c2cf60fae3d72865c6

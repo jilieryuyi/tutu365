@@ -8,7 +8,7 @@
 2526、_russian_Пилигрим_Финдли Тимоти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ffc207cd64a5c9bfd11a40f9737eb5a

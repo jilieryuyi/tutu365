@@ -8,7 +8,7 @@
 77、_russian_Самосожжение_Антропов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85c4c146b64b556752ba68681df843cc

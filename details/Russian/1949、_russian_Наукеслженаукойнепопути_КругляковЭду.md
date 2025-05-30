@@ -8,7 +8,7 @@
 1949、_russian_Науке с лженаукой не по пути_Кругляков Эдуард Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bb4e1f7700c16b4a155d396884cc22e9

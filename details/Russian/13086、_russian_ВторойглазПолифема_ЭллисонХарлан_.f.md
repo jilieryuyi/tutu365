@@ -8,7 +8,7 @@
 13086、_russian_Второй глаз Полифема_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f12848984db7188ced34ebc30140b7f

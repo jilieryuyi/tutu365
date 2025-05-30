@@ -8,7 +8,7 @@
 redis中文手册.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 803a63ef4e0c596b84f32ee21ec9c011

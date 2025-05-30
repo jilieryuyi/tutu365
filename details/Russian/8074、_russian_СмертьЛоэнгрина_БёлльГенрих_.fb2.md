@@ -8,7 +8,7 @@
 8074、_russian_Смерть Лоэнгрина_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e61a2c5351f05379692b58156dfd4a61

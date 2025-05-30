@@ -8,7 +8,7 @@
 7557、_spanish_Fruta Prohibida_Spindler Erica_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fd3bf4453cee4ce5004c4e56806552fa

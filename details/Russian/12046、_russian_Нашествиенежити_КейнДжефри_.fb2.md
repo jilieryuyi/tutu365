@@ -8,7 +8,7 @@
 12046、_russian_Нашествие нежити_Кейн Джефри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8c42f0c86073ca94b2ff3785626a32ef

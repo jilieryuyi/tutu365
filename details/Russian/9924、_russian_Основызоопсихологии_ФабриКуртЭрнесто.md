@@ -8,7 +8,7 @@
 9924、_russian_Основы зоопсихологии_Фабри Курт Эрнестович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8982c4cb1cfc825fc9b65e266605052a

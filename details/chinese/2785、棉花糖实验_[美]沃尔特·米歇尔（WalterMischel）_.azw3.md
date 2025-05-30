@@ -8,7 +8,7 @@
 2785、棉花糖实验_[美] 沃尔特·米歇尔（Walter Mischel）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e22dffa9bbe95553c3bfcc227487a846

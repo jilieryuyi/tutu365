@@ -8,7 +8,7 @@
 14888、_russian_Мы пугалю тётю Раю_Варгин Виктория, Варгин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26d3a8f6f0029814571f14bb24dd2b7f

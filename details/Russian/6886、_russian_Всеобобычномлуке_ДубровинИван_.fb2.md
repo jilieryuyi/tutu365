@@ -8,7 +8,7 @@
 6886、_russian_Все об обычном луке_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 95787ab560c875198b803efb51b2ff9e

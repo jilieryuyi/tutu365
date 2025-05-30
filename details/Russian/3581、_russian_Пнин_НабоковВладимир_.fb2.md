@@ -8,7 +8,7 @@
 3581、_russian_Пнин_Набоков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8efc984bd252f37e5818d908e5ccbc56

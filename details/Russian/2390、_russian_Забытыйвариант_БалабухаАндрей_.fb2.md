@@ -8,7 +8,7 @@
 2390、_russian_Забытый вариант_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 846dc6864d9c5d53c43b46c61566d0f2

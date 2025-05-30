@@ -8,7 +8,7 @@
 11809、_russian_Кто ты__Колберт Лилиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e4c58a3fd325c1a63ee250733b7a00bb

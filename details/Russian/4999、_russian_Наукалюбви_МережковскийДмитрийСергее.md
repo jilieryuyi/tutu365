@@ -8,7 +8,7 @@
 4999、_russian_Наука любви_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55ccc93a9ff889dcd074d956e31b9326

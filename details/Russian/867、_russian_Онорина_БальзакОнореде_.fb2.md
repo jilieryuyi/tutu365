@@ -8,7 +8,7 @@
 867、_russian_Онорина_Бальзак Оноре де_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 052af18657f1eaa686ed965509c40cc0

@@ -8,7 +8,7 @@
 11753、_russian_Верховная королева_Брэдли Мэрион Зиммер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6a63236464f232d1a6648aa8fdf12d1

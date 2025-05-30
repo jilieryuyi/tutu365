@@ -8,7 +8,7 @@
 11247、_english_Romeo's Fight_James Scott Bell _Compendium Press.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 fc384c61ac2da340455f2d51e57a8c8d

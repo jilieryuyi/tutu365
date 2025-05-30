@@ -8,7 +8,7 @@
 12579、_russian_Средства массовой брехни_Мухин Юрий Игнатьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5df8c0a39368bf8c5a8aac41fe8e2414

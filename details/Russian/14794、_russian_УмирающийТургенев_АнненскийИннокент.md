@@ -8,7 +8,7 @@
 14794、_russian_Умирающий Тургенев_Анненский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9310b8e21a355105b604f5b6cd607344

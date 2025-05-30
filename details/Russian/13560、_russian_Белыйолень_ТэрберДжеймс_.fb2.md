@@ -8,7 +8,7 @@
 13560、_russian_Белый олень_Тэрбер Джеймс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a158faf4cf009e3693bdbecb6387ba5

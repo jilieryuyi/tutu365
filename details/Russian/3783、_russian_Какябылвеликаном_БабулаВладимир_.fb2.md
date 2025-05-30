@@ -8,7 +8,7 @@
 3783、_russian_Как я был великаном_Бабула Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f36867b4a0dcda0cb63532259ec18111

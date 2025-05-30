@@ -8,7 +8,7 @@
 390、_russian_Меня Зовут Красный_Памук Орхан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d56257179ffc76f171354927b59e0d4d

@@ -8,7 +8,7 @@
 8624、_russian_Знак Скорпиона_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d2a6049d6f0d245d3a18d87e73b8275

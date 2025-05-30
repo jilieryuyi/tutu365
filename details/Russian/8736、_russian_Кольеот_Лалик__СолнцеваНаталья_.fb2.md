@@ -8,7 +8,7 @@
 8736、_russian_Колье от _Лалик__Солнцева Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6711da197e32c6adb83f0d43b298087a

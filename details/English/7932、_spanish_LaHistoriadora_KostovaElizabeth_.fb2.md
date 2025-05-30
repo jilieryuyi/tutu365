@@ -8,7 +8,7 @@
 7932、_spanish_La Historiadora_Kostova Elizabeth_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c1a0a4fbf4e4b736126d8ffe48254355

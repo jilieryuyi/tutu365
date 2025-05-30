@@ -8,7 +8,7 @@
 13590、_russian_Обыкновенное чудо_Филдинг Лиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f46f2ea6e55cc5b40074b10cc2094aa

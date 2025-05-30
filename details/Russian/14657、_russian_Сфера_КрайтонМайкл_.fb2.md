@@ -8,7 +8,7 @@
 14657、_russian_Сфера_Крайтон Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf92418b35a99e2b0089a3a800505e0c

@@ -8,7 +8,7 @@
 14684、_russian_Маленький плут и няня_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30b3fa6b806ef5f28ba40d3491bd67da

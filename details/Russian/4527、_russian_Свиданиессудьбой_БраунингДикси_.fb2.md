@@ -8,7 +8,7 @@
 4527、_russian_Свидание с судьбой_Браунинг Дикси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f9aa69d0052a57a494e4aa3f3fb8a88

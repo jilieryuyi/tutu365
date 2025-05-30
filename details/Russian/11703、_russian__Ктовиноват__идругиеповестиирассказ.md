@@ -8,7 +8,7 @@
 11703、_russian__Кто виноват__ и другие повести и рассказы Герцена_Бабаев Эдуард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7b39a92c6686d1b0face44bfdf60dac

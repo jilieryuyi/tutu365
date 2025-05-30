@@ -8,7 +8,7 @@
 2431、_russian_Лунные игры_Афанасьев Роман Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f3074be60c2d036f1f79d82c3708bab

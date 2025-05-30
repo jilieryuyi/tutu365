@@ -8,7 +8,7 @@
 15049、_russian_Соло для демона_Шумская Елизавета_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 685db6ae9c286c42be984ec2e253f1df

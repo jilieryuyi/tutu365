@@ -8,7 +8,7 @@
 468、_russian_Чародей звездолета _Посейдон__Балмер Генри Кеннет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b021ee8d1d892ffbc8a647e718f98614

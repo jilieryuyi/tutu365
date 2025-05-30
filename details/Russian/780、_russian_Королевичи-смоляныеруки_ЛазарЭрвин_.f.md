@@ -8,7 +8,7 @@
 780、_russian_Королевичи - смоляные руки_Лазар Эрвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26fe05da5f4c3dbbb0f4d9e47f247086

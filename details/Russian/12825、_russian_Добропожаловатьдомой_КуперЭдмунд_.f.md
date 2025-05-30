@@ -8,7 +8,7 @@
 12825、_russian_Добро пожаловать домой_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b69bf339018ab827b0c9f9ecf7c7dcb2

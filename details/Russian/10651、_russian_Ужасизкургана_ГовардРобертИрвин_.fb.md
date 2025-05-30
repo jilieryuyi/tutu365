@@ -8,7 +8,7 @@
 10651、_russian_Ужас из кургана_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a15114bcd89e7e7aedc45ad09955369

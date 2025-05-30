@@ -8,7 +8,7 @@
 8601、_russian_Тень Саганами_Вебер Дэвид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f1ef69c8ca2320a0b723939fc4694ea

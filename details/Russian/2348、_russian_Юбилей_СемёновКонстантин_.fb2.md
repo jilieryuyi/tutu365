@@ -8,7 +8,7 @@
 2348、_russian_Юбилей_Семёнов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 19f666e3bc0f54b6fce13821be0df27e

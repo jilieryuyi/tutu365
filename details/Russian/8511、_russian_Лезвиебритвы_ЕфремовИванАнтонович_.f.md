@@ -8,7 +8,7 @@
 8511、_russian_Лезвие бритвы_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc0d80c357b2c11ba0d1c7cbe23147c2

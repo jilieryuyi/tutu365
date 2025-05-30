@@ -8,7 +8,7 @@
 3821、_russian_Час охотника (Исповедальня)_Хиггинс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa59c3e7f3426dd633e88f08ea79dc33

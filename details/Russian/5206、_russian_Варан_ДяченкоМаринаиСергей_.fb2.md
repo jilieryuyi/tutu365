@@ -8,7 +8,7 @@
 5206、_russian_Варан_Дяченко Марина и Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cd7d0381f31eedd0ec0d28d884a33d08

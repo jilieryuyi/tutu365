@@ -8,7 +8,7 @@
 3629、_russian_Россия_ мы и мир_Алексеев Сергей Трофимович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f12e9a15c11caf8004a3b953f7bde364

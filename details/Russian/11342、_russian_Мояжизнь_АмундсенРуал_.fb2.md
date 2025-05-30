@@ -8,7 +8,7 @@
 11342、_russian_Моя жизнь_Амундсен Руал_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2954b90968091091163093c292c9da1d

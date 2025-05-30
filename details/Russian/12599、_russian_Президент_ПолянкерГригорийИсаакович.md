@@ -8,7 +8,7 @@
 12599、_russian_Президент_Полянкер Григорий Исаакович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f312cfb7c682945114801173248b0a3

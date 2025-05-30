@@ -8,7 +8,7 @@
 11897、_russian_Повторный брак_Бэссо Адриенна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f088e108fcaef430c647e7a26f732eb0

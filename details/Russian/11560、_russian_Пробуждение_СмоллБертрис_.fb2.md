@@ -8,7 +8,7 @@
 11560、_russian_Пробуждение_Смолл Бертрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 280283a213b45f6842dccdf30e45e88d

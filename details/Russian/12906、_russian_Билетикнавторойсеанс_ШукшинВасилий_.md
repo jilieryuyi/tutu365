@@ -8,7 +8,7 @@
 12906、_russian_Билетик на второй сеанс_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb069744b6a97e27e975370d09e2886a

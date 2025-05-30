@@ -8,7 +8,7 @@
 凭物语 (vol.13)_西尾维新 [祈者之路]__5444855_55a4e7c4b58b7b17ec63412cd522d368.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 55a4e7c4b58b7b17ec63412cd522d368

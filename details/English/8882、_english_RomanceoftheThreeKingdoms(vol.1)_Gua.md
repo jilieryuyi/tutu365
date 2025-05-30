@@ -8,7 +8,7 @@
 8882、_english_Romance of the Three Kingdoms (vol. 1)_Guanzhong Luo_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0b1be8f3925b8587de6c51f8a7507a1f

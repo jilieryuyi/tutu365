@@ -8,7 +8,7 @@
 11732、_russian_Полет сокола_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21c15e7e63f3cb633b423608d5f21aab

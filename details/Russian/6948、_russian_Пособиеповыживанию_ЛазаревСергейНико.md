@@ -8,7 +8,7 @@
 6948、_russian_Пособие по выживанию_Лазарев Сергей Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4da2979f7034e60aa5eb3e33cd0d7d31

@@ -8,7 +8,7 @@
 12771、_russian_Живи и помни_Распутин Валентин Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4462ffef096b6f1cd223cb89b94d572f

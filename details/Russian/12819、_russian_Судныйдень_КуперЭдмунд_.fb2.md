@@ -8,7 +8,7 @@
 12819、_russian_Судный день_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01a5bd27389e133028f4ae19897b62d3

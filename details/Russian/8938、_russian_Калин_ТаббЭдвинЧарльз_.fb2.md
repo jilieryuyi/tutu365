@@ -8,7 +8,7 @@
 8938、_russian_Калин_Табб Эдвин Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 52ef9ff4383c7aa9589408f0c04297f3

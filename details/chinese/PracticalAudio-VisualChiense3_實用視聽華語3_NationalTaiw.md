@@ -8,7 +8,7 @@
 Practical Audio-Visual Chiense 3_實用視聽華語3_National Taiwan Normal University_5440949_b3d0ac15a101b5adb92c4684fb8dbbea.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b3d0ac15a101b5adb92c4684fb8dbbea

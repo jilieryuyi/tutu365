@@ -8,7 +8,7 @@
 7870、_russian_Друзья мои, приятели_Давыдычев Лев Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bd3e9f7994fcccadd227ee73df055276

@@ -8,7 +8,7 @@
 3349、_russian_Солёный заяц_Сомов Кирилл Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61fe2d2e7da308994142b332528d0a28

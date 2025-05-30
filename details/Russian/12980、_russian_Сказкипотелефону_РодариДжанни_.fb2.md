@@ -8,7 +8,7 @@
 12980、_russian_Сказки по телефону_Родари Джанни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 427131108493ffbe1d1657e4c0fc0bff

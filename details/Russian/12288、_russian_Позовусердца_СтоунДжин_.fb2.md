@@ -8,7 +8,7 @@
 12288、_russian_По зову сердца_Стоун Джин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 440265306c307f20ef28b680cc646747

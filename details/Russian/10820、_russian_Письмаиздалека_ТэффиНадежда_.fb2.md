@@ -8,7 +8,7 @@
 10820、_russian_Письма издалека_Тэффи Надежда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fc628a29992e1ffd5ad5cb66a9b56a1

@@ -8,7 +8,7 @@
 11575、_russian_Восемь лекций по йоге_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 650bf4813619858c76877dd195d09043

@@ -8,7 +8,7 @@
 7748、_english_The Way to Capture a Marquess's Heart_Bridget Barton_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 68362f196ebe0c6ed600c577b50e1077

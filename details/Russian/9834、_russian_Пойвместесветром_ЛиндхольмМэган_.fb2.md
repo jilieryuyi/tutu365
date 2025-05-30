@@ -8,7 +8,7 @@
 9834、_russian_Пой вместе с ветром_Линдхольм Мэган_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a677e9e5e9de171202ee6c83c06bd16

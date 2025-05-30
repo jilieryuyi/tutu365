@@ -8,7 +8,7 @@
 14947、_russian_Жил-был щелкунчик_Уинтерз Ребекка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4414c30c15560c13db7bbe34f24589be

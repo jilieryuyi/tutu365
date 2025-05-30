@@ -8,7 +8,7 @@
 14814、_russian_Роза о тринадцати лепестках_Штейнзальц Адин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48c6f96dec7029407f55f091f7578008

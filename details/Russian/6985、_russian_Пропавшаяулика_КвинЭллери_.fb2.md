@@ -8,7 +8,7 @@
 6985、_russian_Пропавшая улика_Квин Эллери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 910d7e10a210335172819394d4682ffc

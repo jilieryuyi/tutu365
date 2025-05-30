@@ -8,7 +8,7 @@
 8512、_russian_Голец подлунный_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5cc0ca7db783c22f29989990b40681a

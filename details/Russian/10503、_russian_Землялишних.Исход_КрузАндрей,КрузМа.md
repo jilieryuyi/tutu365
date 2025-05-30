@@ -8,7 +8,7 @@
 10503、_russian_Земля лишних. Исход_Круз Андрей, Круз Мария_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a98f3b6f588b395dbd28d3ac321ee5d

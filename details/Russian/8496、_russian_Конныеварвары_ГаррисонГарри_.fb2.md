@@ -8,7 +8,7 @@
 8496、_russian_Конные варвары_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5d8190b40b0868d79b51e857e2c58a5

@@ -8,7 +8,7 @@
 8890、_russian_Психологические игры для детей_Образцова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50c8dd3389a98b1cf8ac25ff9d924033

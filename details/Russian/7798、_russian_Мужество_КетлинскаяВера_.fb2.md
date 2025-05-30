@@ -8,7 +8,7 @@
 7798、_russian_Мужество_Кетлинская Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e82ee4d887ae24e19d0303069b7dbbc

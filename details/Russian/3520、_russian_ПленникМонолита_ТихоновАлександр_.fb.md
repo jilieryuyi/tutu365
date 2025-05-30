@@ -8,7 +8,7 @@
 3520、_russian_Пленник Монолита_Тихонов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7897421522ce3c325e8520f7db055ac6

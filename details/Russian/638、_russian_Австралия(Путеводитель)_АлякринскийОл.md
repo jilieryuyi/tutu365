@@ -8,7 +8,7 @@
 638、_russian_Австралия (Путеводитель)_Алякринский Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f07193b8ee14d3ef17bf01b0667191ee

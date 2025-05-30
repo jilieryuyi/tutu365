@@ -8,7 +8,7 @@
 1322、一炮走红的国家：探寻下一个经济奇迹_Ruchir Sharma([美]鲁奇尔·夏尔马）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cb008cfd38ce2dad126aac552f87e48d

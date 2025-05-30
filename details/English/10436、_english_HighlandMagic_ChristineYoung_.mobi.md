@@ -8,7 +8,7 @@
 10436、_english_Highland Magic_Christine Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c1976f3e8280d7bfef65381b799f84f6

@@ -8,7 +8,7 @@
 1265、_russian_...И умерли в один день_Улицкая Людмила Евгеньевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 976d0db25d5043f7990548ca05f3aef0

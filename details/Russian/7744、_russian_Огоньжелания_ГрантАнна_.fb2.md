@@ -8,7 +8,7 @@
 7744、_russian_Огонь желания_Грант Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f98df48d3cca4cc26b17a5cf1527603b

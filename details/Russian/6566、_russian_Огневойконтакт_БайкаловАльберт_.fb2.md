@@ -8,7 +8,7 @@
 6566、_russian_Огневой контакт_Байкалов Альберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb44c0391a4cf6fd09c777eee0d9a3c9

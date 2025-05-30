@@ -8,7 +8,7 @@
 8693、_spanish_Temor Frío_Slaughter Karin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9b8a49578e2ba5753ca8da139b4d004e

@@ -8,7 +8,7 @@
 12249、_russian_Листья коки_Суйковский Богуслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 63ef5799dedc0112fbea40c16092c271

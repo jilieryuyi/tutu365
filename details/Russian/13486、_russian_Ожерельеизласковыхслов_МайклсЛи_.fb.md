@@ -8,7 +8,7 @@
 13486、_russian_Ожерелье из ласковых слов_Майклс Ли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae45199499ca882a88cab69a0a661790

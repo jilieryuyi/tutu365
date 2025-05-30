@@ -8,7 +8,7 @@
 1994、Chrome扩展及应用开发_Sneezry_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8afdd4170b3307eca3b13251aea105cf

@@ -8,7 +8,7 @@
 14321、_english_The Lyon's Laird_Hildie McQueen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f71787d28295ad0b05d24f30d824e4dc

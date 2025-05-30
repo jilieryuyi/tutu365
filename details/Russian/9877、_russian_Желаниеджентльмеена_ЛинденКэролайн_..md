@@ -8,7 +8,7 @@
 9877、_russian_Желание джентльмеена_Линден Кэролайн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 038655a82d57fa857ca1bafe92ed9d72

@@ -8,7 +8,7 @@
 3394、_russian_Боги осенью_Столяров Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 150702fbad2c3f5bfe98283b56d82962

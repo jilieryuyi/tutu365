@@ -8,7 +8,7 @@
 3936、_russian_Эндимион_Симмонс Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4db7c7c324b6e8193936026bd7fc922c

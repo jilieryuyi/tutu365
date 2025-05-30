@@ -8,7 +8,7 @@
 这就是ChatGPT_美斯蒂芬·沃尔弗拉姆.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a04890a2fa0402f353bf6a89791d52b7

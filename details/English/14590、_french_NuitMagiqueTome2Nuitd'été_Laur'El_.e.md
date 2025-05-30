@@ -8,7 +8,7 @@
 14590、_french_  Nuit Magique Tome 2  Nuit d'été_Laur' El  _.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b1e17ef9636f93d75e920aafa36c0ffd

@@ -8,7 +8,7 @@
 3702、_other_Висенна_admin_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9a0547cabd45c16452b37e3d2cc02ab4

@@ -8,7 +8,7 @@
 9611、_russian_В горах Сихотэ-Алиня_Арсеньев Владимир Клавдиевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d1b4a906e987d73edf7017d0740d63a

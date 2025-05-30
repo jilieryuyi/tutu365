@@ -8,7 +8,7 @@
 10748、_english_A Long Time Comin'_Robin W. Pearson_Tyndale House Publishers, Inc..epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 20ef7b4732edc1e18677b43f90fe4136

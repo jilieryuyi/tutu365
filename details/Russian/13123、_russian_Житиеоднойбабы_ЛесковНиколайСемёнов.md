@@ -8,7 +8,7 @@
 13123、_russian_Житие одной бабы_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 020f807baddf51c2ca00d71f34647907

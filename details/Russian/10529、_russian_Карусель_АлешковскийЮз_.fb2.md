@@ -8,7 +8,7 @@
 10529、_russian_Карусель_Алешковский Юз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b43fccdaf33e924e39f9b05328cee7e

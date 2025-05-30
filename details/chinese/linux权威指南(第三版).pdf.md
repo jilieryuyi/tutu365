@@ -8,7 +8,7 @@
 linux权威指南(第三版).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 61e4801969b9eeee17b83eb85d64ac35

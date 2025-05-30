@@ -8,7 +8,7 @@
 3855、_russian_Повод для встречи_Парщикова Людмила_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9f3759af794d6b03c98e0d39055df93

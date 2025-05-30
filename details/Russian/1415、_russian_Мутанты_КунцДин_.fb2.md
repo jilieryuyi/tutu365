@@ -8,7 +8,7 @@
 1415、_russian_Мутанты_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c25c012cced148457910661f780d077

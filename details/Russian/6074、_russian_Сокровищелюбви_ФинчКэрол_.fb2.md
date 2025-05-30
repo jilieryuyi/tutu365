@@ -8,7 +8,7 @@
 6074、_russian_Сокровище любви_Финч Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c03750c7eb6a35cbacb165405d9ede70

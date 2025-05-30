@@ -8,7 +8,7 @@
 1271、西班牙内战：革命与反革命（全三册）_【英】伯内特·博洛滕, 戴大洪, ePUBw.COM_新星出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0bbaf6be7e92f077181e4622d462de10

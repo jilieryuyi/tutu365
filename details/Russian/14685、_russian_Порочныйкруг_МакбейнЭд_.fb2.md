@@ -8,7 +8,7 @@
 14685、_russian_Порочный круг_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bee6689018edb98f93ce6314955b8bc4

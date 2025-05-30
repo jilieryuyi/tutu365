@@ -8,7 +8,7 @@
 12422、_russian_Ночь ошибок_Сьюзон Марлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e030ec943dac65624e391f38b246beb1

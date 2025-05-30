@@ -8,7 +8,7 @@
 约翰·克利斯朵夫(套装上下册) (经典译林)_罗曼·罗兰(Romain Rolland)__5476060_16ad44fbe1548cf0fdf85299f24b56ae.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 16ad44fbe1548cf0fdf85299f24b56ae

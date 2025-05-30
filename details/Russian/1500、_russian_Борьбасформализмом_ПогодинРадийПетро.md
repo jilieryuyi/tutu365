@@ -8,7 +8,7 @@
 1500、_russian_Борьба с формализмом_Погодин Радий Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca8434147aaf0ba1907ab3e1f7e4f9d9

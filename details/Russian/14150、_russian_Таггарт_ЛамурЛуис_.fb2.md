@@ -8,7 +8,7 @@
 14150、_russian_Таггарт_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d93fb6c74f22d926e2852e734d2c90e7

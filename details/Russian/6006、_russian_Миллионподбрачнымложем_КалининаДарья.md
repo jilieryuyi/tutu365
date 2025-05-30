@@ -8,7 +8,7 @@
 6006、_russian_Миллион под брачным ложем_Калинина Дарья Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee6c4eb4f283616bac630d3caafcb331

@@ -8,7 +8,7 @@
 1106、_russian_Иллюзия Луны_Чаландзия Этери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d17d47c3b3759da9c3f0c6f7c05fb4c7

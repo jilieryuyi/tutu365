@@ -8,7 +8,7 @@
 8968、_russian_Спасатель_Романченко Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30e71d50bee2695af57e414cd8b84da2

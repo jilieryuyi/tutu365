@@ -8,7 +8,7 @@
 清秀佳人5：安的夢幻小屋 Anne's House of Dreams_露西．蒙哥瑪麗__5446095_8ea16269fef920cca03ed35bad05fba3.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8ea16269fef920cca03ed35bad05fba3

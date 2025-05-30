@@ -8,7 +8,7 @@
 8369、_russian_Любовь Яровая_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23de1f235d46eea1df9936875b1831f6

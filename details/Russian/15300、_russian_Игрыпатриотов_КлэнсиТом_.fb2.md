@@ -8,7 +8,7 @@
 15300、_russian_Игры патриотов_Клэнси Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7d92823c430f7b2e28e1ce8d27ed8ad8

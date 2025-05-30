@@ -8,7 +8,7 @@
 11024、_russian_Боксер Билли_Берроуз Эдгар Райс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7785573f822ad00395a7efc2b27032b4

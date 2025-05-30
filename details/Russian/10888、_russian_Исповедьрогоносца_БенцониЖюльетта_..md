@@ -8,7 +8,7 @@
 10888、_russian_Исповедь рогоносца_Бенцони Жюльетта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e6ce9be657ebf7599404c78fbdf6822

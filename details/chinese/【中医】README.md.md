@@ -8,7 +8,7 @@
 【中医】README.md.md
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 06d0c978a9507d881548c31d04eff156

@@ -8,7 +8,7 @@
 14776、_russian_Далекая звезда_Берристер Инга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e81191c21d53b3ef5c18accc5758255

@@ -8,7 +8,7 @@
 5547、_russian_Рука Оберона_Желязны Роджер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d90103129789ccf9d38be3d275db1c5b

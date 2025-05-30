@@ -8,7 +8,7 @@
 12173、_russian_Зимняя сказка_Топелиус Сакариас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8a63236005b464fb0404bd000d5983c4

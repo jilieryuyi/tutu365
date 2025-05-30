@@ -8,7 +8,7 @@
 2657、_russian_Дневник некого орка_Ахмеджанов Фарит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8880d44a47fca20153cce0c037698406

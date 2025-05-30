@@ -8,7 +8,7 @@
 4927、_russian_Летающие острова_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ffe293c3048cf8cc333d2801d73d10a3

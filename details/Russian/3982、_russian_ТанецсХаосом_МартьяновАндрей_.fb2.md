@@ -8,7 +8,7 @@
 3982、_russian_Танец с Хаосом_Мартьянов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9e233dcc6940c109b3941a038fba0dd8

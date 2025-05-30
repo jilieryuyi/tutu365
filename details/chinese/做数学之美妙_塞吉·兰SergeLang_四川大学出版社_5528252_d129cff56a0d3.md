@@ -8,7 +8,7 @@
 做数学之美妙_ 塞吉·兰 Serge Lang_ 四川大学出版社_5528252_d129cff56a0d3e37000f6f49ee964c9e.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d129cff56a0d3e37000f6f49ee964c9e

@@ -8,7 +8,7 @@
 7745、_russian_Нечто_Кэмпбелл Джон У._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf7ae8efa1fa6c349a1fdf862023bc60

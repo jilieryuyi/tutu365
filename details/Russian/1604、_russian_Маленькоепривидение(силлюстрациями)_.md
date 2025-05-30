@@ -8,7 +8,7 @@
 1604、_russian_Маленькое привидение (с иллюстрациями)_Пройслер Отфрид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fcfe63922e17caf0920a39358c0275d

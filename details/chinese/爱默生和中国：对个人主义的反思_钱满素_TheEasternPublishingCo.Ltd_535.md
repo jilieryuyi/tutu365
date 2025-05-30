@@ -8,7 +8,7 @@
 爱默生和中国：对个人主义的反思_钱满素_The Eastern Publishing Co.Ltd_5353810_bfbade8f6109c274e08f45afcbc20971.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 bfbade8f6109c274e08f45afcbc20971

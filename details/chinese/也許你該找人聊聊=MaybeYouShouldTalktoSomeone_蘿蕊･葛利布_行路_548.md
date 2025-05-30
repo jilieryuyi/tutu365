@@ -8,7 +8,7 @@
 也許你該找人聊聊 = Maybe You Should Talk to Someone_蘿蕊･葛利布_行路_5489867_06175bc5a1c90d0e554f5db833d5219b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 06175bc5a1c90d0e554f5db833d5219b

@@ -8,7 +8,7 @@
 规模：复杂世界的简单法则_杰弗里·韦斯特(Geoffrey West) [杰弗里·韦斯特(Geoffrey West)]__5287945_9f6eeebb40092964edd973804a1b5746.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9f6eeebb40092964edd973804a1b5746

@@ -8,7 +8,7 @@
 尘埃落定_阿来_Peoples Literature Publishing House_5475861_860b814b354338c379029c9ca8df834b.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 860b814b354338c379029c9ca8df834b

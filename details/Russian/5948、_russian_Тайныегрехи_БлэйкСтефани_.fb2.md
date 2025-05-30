@@ -8,7 +8,7 @@
 5948、_russian_Тайные грехи_Блэйк Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18ee8ab4eed93c8efb7284556dadb344

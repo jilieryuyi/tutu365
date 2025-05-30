@@ -8,7 +8,7 @@
 5440、_russian_Засуха_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5f67740de6eecf47230097ea3088932

@@ -8,7 +8,7 @@
 12725、_russian_За нейтральной полосой_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5020052477a0322021acef88f8099a0d

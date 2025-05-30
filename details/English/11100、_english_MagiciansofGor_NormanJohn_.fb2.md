@@ -8,7 +8,7 @@
 11100、_english_Magicians of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 357d9ecea24562fcc7ef33a0f1b4515b

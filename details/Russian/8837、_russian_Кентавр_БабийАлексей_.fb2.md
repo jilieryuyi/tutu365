@@ -8,7 +8,7 @@
 8837、_russian_Кентавр_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc6aed4e2cf12d7a96ee529b2bba6e90

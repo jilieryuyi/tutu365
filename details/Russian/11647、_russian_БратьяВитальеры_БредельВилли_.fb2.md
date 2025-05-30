@@ -8,7 +8,7 @@
 11647、_russian_Братья Витальеры_Бредель Вилли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c21081798fc4d3eed015df27d778df79

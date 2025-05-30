@@ -8,7 +8,7 @@
 10998、_russian_Отмена телесных наказаний_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3a08a3d268f218c98a3ca44e5e1e47e

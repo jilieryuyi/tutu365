@@ -8,7 +8,7 @@
 7232、_russian_Звезда (сборник стихов)_Белый Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15b5ba1cb9246f89223470d6d50cabcc

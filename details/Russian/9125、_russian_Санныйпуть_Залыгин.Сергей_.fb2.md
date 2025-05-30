@@ -8,7 +8,7 @@
 9125、_russian_Санный путь_Залыгин. Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9373acdb0ae55b909897db3e169f7fc3

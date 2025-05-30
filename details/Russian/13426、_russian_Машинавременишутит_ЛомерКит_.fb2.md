@@ -8,7 +8,7 @@
 13426、_russian_Машина времени шутит_Ломер Кит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ac8e6f0605a84253caced13c1bbf6e2

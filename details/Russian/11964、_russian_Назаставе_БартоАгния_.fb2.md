@@ -8,7 +8,7 @@
 11964、_russian_На заставе_Барто Агния_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1bc8e89331926c2175499aed84d41790

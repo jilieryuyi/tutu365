@@ -8,7 +8,7 @@
 1161、冷战：交易谍影谎言真相_JOHN GADDIS_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 da0f8db1873a44031cfe1a7cb5753808

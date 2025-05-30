@@ -8,7 +8,7 @@
 551、_russian_Иное царство_Керни Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 894c2ece51666b980e2356e23f9059b5

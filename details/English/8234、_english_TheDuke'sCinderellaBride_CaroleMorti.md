@@ -8,7 +8,7 @@
 8234、_english_The Duke's Cinderella Bride_Carole Mortimer_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3ef99bb52870f92c3af22df40fb44c46

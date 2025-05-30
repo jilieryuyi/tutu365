@@ -8,7 +8,7 @@
 11680、_russian_Стражник лжи_Бакин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54fbe679f25c44819ba80bf78d297217

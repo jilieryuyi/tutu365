@@ -8,7 +8,7 @@
 13620、_russian_Лояльный гражданин_Балашявичус Бангуолис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea68cc46ae1cee2fdd0812b05141adf3

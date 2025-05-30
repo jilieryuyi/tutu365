@@ -8,7 +8,7 @@
 15分钟就够！天天普拉提_阿丽西亚·安格罗 赵蕾_World Publishing Company_5496970_9fed693308fe9fb8a6a5dba204c6a30b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9fed693308fe9fb8a6a5dba204c6a30b

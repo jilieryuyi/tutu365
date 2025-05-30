@@ -8,7 +8,7 @@
 9251、_italian_L'oscura immensità della morte_Massimo Carlotto_E_O.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 9935848b9930dbe6956e5eea43e47be1

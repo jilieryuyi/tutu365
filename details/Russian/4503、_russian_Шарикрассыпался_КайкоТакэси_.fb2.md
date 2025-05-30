@@ -8,7 +8,7 @@
 4503、_russian_Шарик рассыпался_Кайко Такэси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d139b62155fc878470c5b6e303af23fa

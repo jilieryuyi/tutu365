@@ -8,7 +8,7 @@
 13085、_russian_Человек без лица_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 edca4fefcda7c14e5b98793ee43f7e37

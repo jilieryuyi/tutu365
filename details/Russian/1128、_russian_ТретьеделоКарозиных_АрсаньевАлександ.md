@@ -8,7 +8,7 @@
 1128、_russian_Третье дело Карозиных_Арсаньев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7bf000eb8be48e985430c17fd19c3189

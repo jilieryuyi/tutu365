@@ -8,7 +8,7 @@
 10649、_russian_Язычник_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 68dd20e80f75853474fe0eb0e2b292f0

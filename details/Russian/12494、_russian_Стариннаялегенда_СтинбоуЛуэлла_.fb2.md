@@ -8,7 +8,7 @@
 12494、_russian_Старинная легенда_Стинбоу Луэлла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 deec2d139f617264fccff0f4bdb987d9

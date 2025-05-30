@@ -8,7 +8,7 @@
 11444、_russian_Манифест ОПУМ_Соланас Валери_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f6293da7c863c768ad622f70041f3f5

@@ -8,7 +8,7 @@
 成功，动机与目标_Heidi Grant Halvorson [Heidi Grant Halvorson]__5288003_f39e4f04156b52cf94f7d6c5898386be.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f39e4f04156b52cf94f7d6c5898386be

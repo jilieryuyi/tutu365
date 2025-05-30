@@ -8,7 +8,7 @@
 13396、_english_The Third Duke's The Charm_Emma Wildes_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bfec74a75ba0cf2e4e7b46f14933882a

@@ -8,7 +8,7 @@
 4011、_english_Охотник_ Пустоши демонов_Буревой Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f01571f0b05f714eac4c3a4ed57eeb5b

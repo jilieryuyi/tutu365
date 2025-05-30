@@ -8,7 +8,7 @@
 6289、_russian_Шляпная булавка_Кук Дэвид С_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bca8c928d597c110cf5b940c9e96005e

@@ -8,7 +8,7 @@
 11810、_russian_Негодник_Кейз Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 614fbf9ba7df01b966af2b1967278893

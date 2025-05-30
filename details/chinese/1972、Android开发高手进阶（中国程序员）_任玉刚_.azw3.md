@@ -8,7 +8,7 @@
 1972、Android开发高手进阶（中国程序员）_任玉刚_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7df2ac3c4591afaeb2a82c7f6998ab9f

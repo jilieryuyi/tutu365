@@ -8,7 +8,7 @@
 3346、_russian_Гибельный мир_Ковальчук Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 426c3f2f11ab5f470e0274c8f7c84a27

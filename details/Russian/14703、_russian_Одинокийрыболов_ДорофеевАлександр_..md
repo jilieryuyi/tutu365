@@ -8,7 +8,7 @@
 14703、_russian_Одинокий рыболов_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8a1d26ab6779158f806b3aa52db7626

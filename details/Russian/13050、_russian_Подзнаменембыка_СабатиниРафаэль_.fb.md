@@ -8,7 +8,7 @@
 13050、_russian_Под знаменем быка_Сабатини Рафаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cdaa256b31dafb71103a332221bd94d

@@ -8,7 +8,7 @@
 10720、_russian_Тайна желтых нарциссов_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2f0cfd8948a9150eca6e6d13d9cdf6d7

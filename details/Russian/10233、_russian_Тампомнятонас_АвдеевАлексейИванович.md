@@ -8,7 +8,7 @@
 10233、_russian_Там помнят о нас_Авдеев Алексей Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b75affb3f079dad0b9e8db85f17ae658

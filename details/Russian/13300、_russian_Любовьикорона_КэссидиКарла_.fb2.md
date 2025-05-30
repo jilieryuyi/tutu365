@@ -8,7 +8,7 @@
 13300、_russian_Любовь и корона_Кэссиди Карла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1149b7eada9d8ff32c5a75d119c37d82

@@ -8,7 +8,7 @@
 10636、_russian_Ничто не разлучит нас_Грэм Хизер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 222355c9313558486991c8ba3fbc6a17

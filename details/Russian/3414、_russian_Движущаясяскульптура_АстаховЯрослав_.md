@@ -8,7 +8,7 @@
 3414、_russian_Движущаяся скульптура_Астахов Ярослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb006b2fe1accb29562ca0a7d50b8ce6

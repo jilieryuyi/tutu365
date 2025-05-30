@@ -8,7 +8,7 @@
 1300、_russian_Не гневи колдуна!_Булычев Кир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2df09d99dfaf0c11b0ad9a94e3ab845a

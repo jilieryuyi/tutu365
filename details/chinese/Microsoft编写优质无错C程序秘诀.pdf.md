@@ -8,7 +8,7 @@
 Microsoft编写优质无错C程序秘诀.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a604642a801e5e65aab6db453f16e39a

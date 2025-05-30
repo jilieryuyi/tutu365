@@ -8,7 +8,7 @@
 6180、_russian_Эрагон.Наследие_Паолини Кристофер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 64afaba5f917209f57ab58539f0d1ded

@@ -8,7 +8,7 @@
 11469、_russian_Маленькие нежные ручонки_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4225ef9c44a109b7fcf37ac741fe96e4

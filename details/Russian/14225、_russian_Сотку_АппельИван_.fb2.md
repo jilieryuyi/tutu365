@@ -8,7 +8,7 @@
 14225、_russian_Сотку_Аппель Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab1fd5580e6489c2c70dfc9f25dae3e2

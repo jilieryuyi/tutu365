@@ -8,7 +8,7 @@
 11009、_russian_Ариэль_Браннер Ханс Кристиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2b73c6013208bfdf6eda1360aaf95a3f

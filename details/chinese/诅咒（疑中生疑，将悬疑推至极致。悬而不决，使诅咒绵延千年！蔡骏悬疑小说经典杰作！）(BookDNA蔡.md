@@ -8,7 +8,7 @@
 诅咒（疑中生疑，将悬疑推至极致。悬而不决，使诅咒绵延千年！蔡骏悬疑小说经典杰作！） (BookDNA蔡骏经典小说)_蔡骏__5476222_0d0956712de9e3d5a3be60b66fdbf9b4.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0d0956712de9e3d5a3be60b66fdbf9b4

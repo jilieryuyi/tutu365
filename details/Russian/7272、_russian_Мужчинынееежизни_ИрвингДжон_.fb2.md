@@ -8,7 +8,7 @@
 7272、_russian_Мужчины не ее жизни_Ирвинг Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3f4c012011b404ce36972d6eedbb4d04

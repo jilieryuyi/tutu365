@@ -8,7 +8,7 @@
 13870、_russian_R. I. P._Бабуля Гжегож_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5241f0d8c6a003a2e322eccc1910b168

@@ -8,7 +8,7 @@
 15257、_russian_Легенда Кносского лабиринта_Ширанкова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6c1cdfcce8f0d0adebc0d81a9bd50ab4

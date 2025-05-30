@@ -8,7 +8,7 @@
 2227、_russian_Закат империи_Горелик Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a462ac39d8e963b9c729833dc023c017

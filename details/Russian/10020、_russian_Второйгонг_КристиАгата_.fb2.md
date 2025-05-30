@@ -8,7 +8,7 @@
 10020、_russian_Второй гонг_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0465c7f9e08207bde76112155d873388

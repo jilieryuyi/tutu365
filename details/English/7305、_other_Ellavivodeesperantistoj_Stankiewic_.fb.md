@@ -8,7 +8,7 @@
 7305、_other_El la vivo de esperantistoj_Stankiewic_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 57f34dd03d668d1e6a18152f7c12a84d

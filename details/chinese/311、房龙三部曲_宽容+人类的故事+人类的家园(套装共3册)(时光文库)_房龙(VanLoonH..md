@@ -8,7 +8,7 @@
 311、房龙三部曲_宽容+人类的故事+人类的家园(套装共3册) (时光文库)_房龙 (Van Loon H.W.)_立信会计出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 03e3e4cd4baff79c31fcc09605a94f59

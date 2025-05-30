@@ -8,7 +8,7 @@
 7201、_russian_Гобелен_Плейн Белва_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 064ece8258741b59f0d460c00cb7f3c6

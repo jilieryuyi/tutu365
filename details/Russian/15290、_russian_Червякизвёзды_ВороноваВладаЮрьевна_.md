@@ -8,7 +8,7 @@
 15290、_russian_Червяк и звёзды_Воронова Влада Юрьевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f802ffe007ffae18d1707143b0dbd48c

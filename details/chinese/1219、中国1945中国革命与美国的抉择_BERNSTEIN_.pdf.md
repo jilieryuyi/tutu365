@@ -8,7 +8,7 @@
 1219、中国1945 中国革命与美国的抉择_BERNSTEIN_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3cd0f860d46f632a871b7f14af07b42d

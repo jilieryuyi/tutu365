@@ -8,7 +8,7 @@
 2522、_russian_Нефритовый трон_Новик Наоми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ea9effef9b225cd6961411ea52f40c1

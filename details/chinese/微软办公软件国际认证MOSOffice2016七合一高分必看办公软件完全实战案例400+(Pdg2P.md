@@ -8,7 +8,7 @@
 微软办公软件国际认证MOS Office 2016七合一高分必看 办公软件完全实战案例400+ (Pdg2Pic, 答得喵微软MOS认证授权考试中心编著).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6ecdce711dc7682337beb21ab44bdf04

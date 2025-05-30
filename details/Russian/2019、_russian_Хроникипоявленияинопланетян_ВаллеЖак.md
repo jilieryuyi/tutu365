@@ -8,7 +8,7 @@
 2019、_russian_Хроники появления инопланетян_Валле Жак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca6b86baea9862fcc8e7c3ce9e9f26b4

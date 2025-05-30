@@ -8,7 +8,7 @@
 7775、_russian_Признание моджахеда_Тамоников Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cff2f8f6e7add573068b475673dc00d

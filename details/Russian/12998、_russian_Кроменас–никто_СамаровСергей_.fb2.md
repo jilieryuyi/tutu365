@@ -8,7 +8,7 @@
 12998、_russian_Кроме нас – никто_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2057c25fcae8e4ab7e27c48e8677fb5c

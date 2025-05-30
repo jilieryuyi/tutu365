@@ -8,7 +8,7 @@
 11452、_russian_Шевелев_Бабель Исаак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0dd6fd11f9df04129de70e5aef6cdec

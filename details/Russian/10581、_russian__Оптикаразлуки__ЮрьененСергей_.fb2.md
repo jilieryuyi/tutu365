@@ -8,7 +8,7 @@
 10581、_russian__Оптика разлуки__Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ff0a04bbde99f1cfdc1e61759ee362dc

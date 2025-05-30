@@ -8,7 +8,7 @@
 美国革命的激进主义_戈登•S.伍德__5476591_1e7f1dae2b49b4ce16dc127c8455bb1e.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e7f1dae2b49b4ce16dc127c8455bb1e

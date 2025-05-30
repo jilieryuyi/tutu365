@@ -8,7 +8,7 @@
 10643、_other_Плацiнавы абруч_Бааль Вольдемар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b7fe0325d6c829f02d9f46d989cd0f5

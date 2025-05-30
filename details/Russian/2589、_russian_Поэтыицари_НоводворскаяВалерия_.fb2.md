@@ -8,7 +8,7 @@
 2589、_russian_Поэты и цари_Новодворская Валерия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94ed7adee0a49460f34c86fe7b3161de

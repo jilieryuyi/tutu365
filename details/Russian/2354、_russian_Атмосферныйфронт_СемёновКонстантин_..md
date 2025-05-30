@@ -8,7 +8,7 @@
 2354、_russian_Атмосферный фронт_Семёнов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fe06c47136772d5957ff6a2a9082685

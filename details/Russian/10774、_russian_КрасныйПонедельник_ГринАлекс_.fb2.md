@@ -8,7 +8,7 @@
 10774、_russian_Красный Понедельник_Грин Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a8ef0af5ba7cb23f227c87f30835972

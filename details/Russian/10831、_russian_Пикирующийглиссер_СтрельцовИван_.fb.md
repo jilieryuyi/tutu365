@@ -8,7 +8,7 @@
 10831、_russian_Пикирующий глиссер_Стрельцов Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13debde1a0112620cf33d7fa4183d409

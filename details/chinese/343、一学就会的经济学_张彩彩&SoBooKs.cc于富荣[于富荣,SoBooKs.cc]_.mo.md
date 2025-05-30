@@ -8,7 +8,7 @@
 343、一学就会的经济学_张彩彩 & SoBooKs.cc 于富荣 [于富荣, SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a1c142d7eb300bffa0dc4ab5e57fa5d7

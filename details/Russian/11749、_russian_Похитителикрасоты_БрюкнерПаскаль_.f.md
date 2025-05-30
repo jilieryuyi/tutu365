@@ -8,7 +8,7 @@
 11749、_russian_Похитители красоты_Брюкнер Паскаль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f52a9498c01eeae971d28e36bad92e85

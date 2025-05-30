@@ -8,7 +8,7 @@
 180、_russian_ПОЛИТИЧЕСКОЕ ЛИДЕРСТВО_Колташов Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 34d84f6838aac9fe43c2bd1aa413e75e

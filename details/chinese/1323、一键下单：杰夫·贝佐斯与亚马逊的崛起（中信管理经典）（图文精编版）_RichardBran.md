@@ -8,7 +8,7 @@
 1323、一键下单：杰夫·贝佐斯与亚马逊的崛起（中信管理经典）（图文精编版）_Richard Brandt_中信出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 cbb1dce9567ab9520986a448f0de191a

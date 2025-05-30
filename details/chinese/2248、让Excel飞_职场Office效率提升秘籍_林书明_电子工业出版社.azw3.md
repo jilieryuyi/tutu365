@@ -8,7 +8,7 @@
 2248、让Excel飞_职场Office效率提升秘籍_林书明_电子工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1e62f1209d4319e56ea02e0108c99550

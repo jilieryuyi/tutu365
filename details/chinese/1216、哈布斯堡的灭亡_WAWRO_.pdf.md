@@ -8,7 +8,7 @@
 1216、哈布斯堡的灭亡_WAWRO_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f7a22878e1113dd8b62460848b69b69e

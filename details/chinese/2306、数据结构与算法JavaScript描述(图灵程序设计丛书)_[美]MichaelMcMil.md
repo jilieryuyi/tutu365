@@ -8,7 +8,7 @@
 2306、数据结构与算法JavaScript描述 (图灵程序设计丛书)_[美]Michael McMillan_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b411c2abf3ecf909f3f6f0a352cbf0b3

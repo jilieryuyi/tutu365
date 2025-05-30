@@ -8,7 +8,7 @@
 15036、_english_Rogue's Lady_Julia Justiss_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bc0960ef59ce2bcecdd2addbcaccdcd2

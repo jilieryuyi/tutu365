@@ -8,7 +8,7 @@
 11472、_russian_Как далеко все может зайти_Блок Лоуренс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24f266c88aad58cff13da72febd0a3f4

@@ -8,7 +8,7 @@
 4909、_russian_Сказки   дядюшки   Римуса (Иллюстр. М.Волковой)_Харрис Джоэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 25c360b6ad2998f915af479da9d3e00b

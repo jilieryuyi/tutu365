@@ -8,7 +8,7 @@
 5867、_russian_Что слаще свободы__Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e497366ccb7be177e561981ae9d6ee4b

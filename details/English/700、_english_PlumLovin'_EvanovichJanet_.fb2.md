@@ -8,7 +8,7 @@
 700、_english_Plum Lovin'_Evanovich Janet_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 c25f2fb0521335bf255ad0059a9653e3

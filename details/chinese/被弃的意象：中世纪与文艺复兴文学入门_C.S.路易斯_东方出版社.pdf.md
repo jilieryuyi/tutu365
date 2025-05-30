@@ -8,7 +8,7 @@
 被弃的意象：中世纪与文艺复兴文学入门_C.S.路易斯_东方出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 abdab91e7777ed11ff881c3c7146080f

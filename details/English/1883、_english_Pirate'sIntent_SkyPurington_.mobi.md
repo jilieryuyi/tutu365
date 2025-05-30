@@ -8,7 +8,7 @@
 1883、_english_Pirate's Intent_Sky Purington_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a1126e3d37354facfa1f788f2010fd1d

@@ -8,7 +8,7 @@
 7880、_russian_Неприятная профессия Джонатана Хога_Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d372252470b2e5b0cf3a71028faebcaf

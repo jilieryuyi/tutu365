@@ -8,7 +8,7 @@
 SugarCRM完全指南.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 eefb399559dd664da4f6d85e698183dd

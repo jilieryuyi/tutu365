@@ -8,7 +8,7 @@
 2176、精通Linux（第2版） (图灵程序设计丛书)_[美]沃德（Brian Ward）_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 69047edd1d4bc21c04c9edd8fb3c6015

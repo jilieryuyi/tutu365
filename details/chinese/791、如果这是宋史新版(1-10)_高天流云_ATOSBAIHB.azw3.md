@@ -8,7 +8,7 @@
 791、如果这是宋史新版(1-10)_高天流云_ATOS BAIHB.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b20b142c93a900f4b5a38c1963329ea8

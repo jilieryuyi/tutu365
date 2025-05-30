@@ -8,7 +8,7 @@
 6403、_russian_Посрамитель шайтана_Белянин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6578d28cb642bfef95de0b62db40f130

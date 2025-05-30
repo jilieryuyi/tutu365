@@ -8,7 +8,7 @@
 14836、_russian_Воспоминания о войне_Никулин Николай Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cf4ae8e3811c7b2c64c7fae32aec7b9

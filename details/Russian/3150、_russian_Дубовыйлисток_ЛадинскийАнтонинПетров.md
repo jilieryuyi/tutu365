@@ -8,7 +8,7 @@
 3150、_russian_Дубовый листок_Ладинский Антонин Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 43a110e10ae2862dd52e368ead4779e1

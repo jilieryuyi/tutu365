@@ -8,7 +8,7 @@
 12655、_russian_Секретные задания РСХА_Скорцени Отто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e004272568d551eae02d9f323f5d03c9

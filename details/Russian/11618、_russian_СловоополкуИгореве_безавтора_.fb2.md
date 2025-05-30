@@ -8,7 +8,7 @@
 11618、_russian_Слово о полку Игореве_без автора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9118a9b5742ef9ec8f5cbd1c892cca08

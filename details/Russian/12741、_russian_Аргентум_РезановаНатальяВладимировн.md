@@ -8,7 +8,7 @@
 12741、_russian_Аргентум_Резанова Наталья Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27a5b8e1360b3c6aef9ab69fffda6042

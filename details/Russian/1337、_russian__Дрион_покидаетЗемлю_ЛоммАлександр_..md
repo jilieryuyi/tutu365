@@ -8,7 +8,7 @@
 1337、_russian__Дрион_ покидает Землю_Ломм Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dcfb401383ecf0e7703a9b692bf1c27f

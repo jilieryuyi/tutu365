@@ -8,7 +8,7 @@
 6040、_russian_Квест_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f5759dad71cf870239a555e8228ec083

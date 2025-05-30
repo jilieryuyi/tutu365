@@ -8,7 +8,7 @@
 413、走遍中国(珍藏版) (图说天下·国家地理系列)_Unknown_吉林出版集团有限责任公司.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 23c8b437c56b12970d82c41728c57872

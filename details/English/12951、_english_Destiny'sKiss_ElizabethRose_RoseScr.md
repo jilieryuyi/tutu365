@@ -8,7 +8,7 @@
 12951、_english_Destiny's Kiss_Elizabeth Rose_RoseScribe Media Inc.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 77de8c7d1ace38bebbf5dda3690b5438

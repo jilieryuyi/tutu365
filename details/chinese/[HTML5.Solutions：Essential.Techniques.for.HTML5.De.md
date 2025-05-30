@@ -8,7 +8,7 @@
 [HTML5.Solutions：Essential.Techniques.for.HTML5.Developers].源代码.zip.zip
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e5d86ccc016d3e879790e704f08c692c

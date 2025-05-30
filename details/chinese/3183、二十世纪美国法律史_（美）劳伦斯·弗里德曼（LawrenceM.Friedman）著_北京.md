@@ -8,7 +8,7 @@
 3183、二十世纪美国法律史_（美）劳伦斯·弗里德曼（Lawrence M.Friedman）著_北京大学出版社.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7227b0820e0647f852f388d57eaf9625

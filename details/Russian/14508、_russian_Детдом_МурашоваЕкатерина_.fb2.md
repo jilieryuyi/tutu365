@@ -8,7 +8,7 @@
 14508、_russian_Детдом_Мурашова Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 208d3d0c93e075f398cc1ffb48082df5

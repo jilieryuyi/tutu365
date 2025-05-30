@@ -8,7 +8,7 @@
 12368、_russian_Мафия пишет оперу_Нестерина Елена Вячеславовна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31bfe3975fdf314e16fbcec8caf5837a

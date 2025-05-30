@@ -8,7 +8,7 @@
 894、_russian_Театральный роман_Булгаков Михаил Афанасьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b52e531f7e896e10d7d9674248f6de5

@@ -8,7 +8,7 @@
 10648、_russian_Железный воин_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6eb9904e272d145baed47b37e727f98e

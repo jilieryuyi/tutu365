@@ -8,7 +8,7 @@
 3002、_russian_Рассказы_Боссарт Алла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe96b923c6fbabdfce0bb2aff92626d2

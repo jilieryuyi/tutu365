@@ -8,7 +8,7 @@
 10903、_russian_Личный контакт_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af54f3ef0cf078395efb4aa25f8d1ae7

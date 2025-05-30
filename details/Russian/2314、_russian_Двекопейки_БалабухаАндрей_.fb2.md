@@ -8,7 +8,7 @@
 2314、_russian_Две копейки_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e70f6c3b899ec5fed3a6d73845c453b4

@@ -8,7 +8,7 @@
 6798、_russian_Оглянись на бегу_Форстер Ребекка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1088c564d11603b85a844a3a4960f6eb

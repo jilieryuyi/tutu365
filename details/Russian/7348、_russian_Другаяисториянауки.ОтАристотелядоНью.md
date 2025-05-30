@@ -8,7 +8,7 @@
 7348、_russian_Другая история науки. От Аристотеля до Ньютона__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 13aa2e46ece7f84dac54798088dade9a

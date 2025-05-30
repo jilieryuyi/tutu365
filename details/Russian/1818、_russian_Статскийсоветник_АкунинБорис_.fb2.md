@@ -8,7 +8,7 @@
 1818、_russian_Статский советник_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f92e6a9fb97678f4718f3b3f8baca6d4

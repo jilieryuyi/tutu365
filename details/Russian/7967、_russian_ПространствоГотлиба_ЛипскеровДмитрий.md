@@ -8,7 +8,7 @@
 7967、_russian_Пространство Готлиба_Липскеров Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ac60a92a6ccba78da62b8e90bc74301

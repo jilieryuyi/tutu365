@@ -8,7 +8,7 @@
 13117、_russian_Немного солнца в холодной воде_Саган Франсуаза_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14fb8fdb8d5619a1f3ba4c73000af1c8

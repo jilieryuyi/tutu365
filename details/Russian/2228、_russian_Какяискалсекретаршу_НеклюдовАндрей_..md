@@ -8,7 +8,7 @@
 2228、_russian_Как я искал секретаршу_Неклюдов Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9781b0b22b4378ff20cba1a052a173ed

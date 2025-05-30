@@ -8,7 +8,7 @@
 12155、_russian_Амето_Боккаччо Джованни_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b08adbccc9d456a6aee5f9dc71bba9f7

@@ -8,7 +8,7 @@
 7402、_russian_Цена свободы_Пехов Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 54f0bb60f853a71e88be21814d252d49

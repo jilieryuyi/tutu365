@@ -8,7 +8,7 @@
 1967、_russian_Иметь или быть_Фромм Эрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09c21eca9a3abf280356a1129a56fe05

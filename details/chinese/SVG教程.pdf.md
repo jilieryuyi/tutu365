@@ -8,7 +8,7 @@
 SVG教程.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0fbc2ffec7d623c002903e061a11839c

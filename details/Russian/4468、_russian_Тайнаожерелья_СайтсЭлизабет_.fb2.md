@@ -8,7 +8,7 @@
 4468、_russian_Тайна ожерелья_Сайтс Элизабет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 47f79cd9f18fa15516e35220db5ffa03

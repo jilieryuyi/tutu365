@@ -8,7 +8,7 @@
 4600、_russian_Невыносимое одиночество_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7af38dfa2cfbb16cd989347cff0b0d10

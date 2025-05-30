@@ -8,7 +8,7 @@
 1596、管理学 (高等院校经济管理类核心课程系列规划教材)_Publisher           _ 浙江大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a18a0b9464a1ad99923149c776162164

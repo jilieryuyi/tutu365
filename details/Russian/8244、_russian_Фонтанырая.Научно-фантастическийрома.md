@@ -8,7 +8,7 @@
 8244、_russian_Фонтаны рая. Научно-фантастический роман_Кларк Артур Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7aebeb6aa2e2b7f1dcc0c97ebb0c408c

@@ -8,7 +8,7 @@
 1391、_russian_Дочь Эхнатона_Моисеева Клара Моисеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b0d01d84699fdb09ac5ba38cf518977a

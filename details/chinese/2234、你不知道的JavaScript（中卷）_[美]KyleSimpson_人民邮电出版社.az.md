@@ -8,7 +8,7 @@
 2234、你不知道的JavaScript（中卷）_[美] Kyle Simpson_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e76d57542f8c6d6c0a0c11f7fb9191f7

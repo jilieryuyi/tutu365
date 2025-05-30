@@ -8,7 +8,7 @@
 11072、_russian_Звездный охотник_Нортон Андрэ Мэри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0c911522d6f9b7718f4d9aa0b313eb1

@@ -8,7 +8,7 @@
 7332、_russian_Оглянись_Дышев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d1a43f777cb9c260f07362eeb1aa3c8

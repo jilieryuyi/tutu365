@@ -8,7 +8,7 @@
 13093、_russian_Вы помните Пако__Эксбрайя Шарль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7fb882d8a1f0a73decf3f481e6299bc6

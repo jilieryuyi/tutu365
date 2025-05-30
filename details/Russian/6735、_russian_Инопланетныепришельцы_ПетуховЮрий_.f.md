@@ -8,7 +8,7 @@
 6735、_russian_Инопланетные пришельцы_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0dd033d7cf814a760e2112f0e105b9c4

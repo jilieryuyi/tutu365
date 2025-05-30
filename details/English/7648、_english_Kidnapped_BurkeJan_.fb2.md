@@ -8,7 +8,7 @@
 7648、_english_Kidnapped_Burke Jan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b20a4f4b79ce6632bc0b271f79a6d29f

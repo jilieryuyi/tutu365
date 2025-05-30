@@ -8,7 +8,7 @@
 12279、_russian_Бессмертный_Мендес Катулл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 93e40099bbdb7fe5a81f856c02b59830

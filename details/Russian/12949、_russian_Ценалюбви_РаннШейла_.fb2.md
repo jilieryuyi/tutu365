@@ -8,7 +8,7 @@
 12949、_russian_Цена любви_Ранн Шейла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d22cb9af8f4f450cf3e83de4deab9a0

@@ -8,7 +8,7 @@
 6926、_russian_Достопримечательность_Громыко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0aa158613723884dfec5ecfe4c9f97cf

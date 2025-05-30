@@ -8,7 +8,7 @@
 7762、_russian_Капитан Коко и Зеленое Стеклышко_Кузьмин Лев Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0ce1a9d7bac77f79effb5d6ff9b7c9b2

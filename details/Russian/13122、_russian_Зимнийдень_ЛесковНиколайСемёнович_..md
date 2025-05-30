@@ -8,7 +8,7 @@
 13122、_russian_Зимний день_Лесков Николай Семёнович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4d4f1f36c6b165f80ea81fdd0ebe8c0c

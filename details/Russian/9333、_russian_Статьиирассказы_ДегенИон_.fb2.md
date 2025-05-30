@@ -8,7 +8,7 @@
 9333、_russian_Статьи и рассказы_Деген Ион_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9962df77dd6a29fcb964cfe36154dede

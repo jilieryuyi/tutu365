@@ -8,7 +8,7 @@
 11282、_russian_Туда и обратно_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3aa279e7140fde04b4174097c282615a

@@ -8,7 +8,7 @@
 4326、_english_Highlander's Hellion Bride_Adamina Young_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f994b2d04929dceeed81b362ef3c0aff

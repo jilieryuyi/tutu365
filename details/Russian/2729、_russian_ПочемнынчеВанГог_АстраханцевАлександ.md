@@ -8,7 +8,7 @@
 2729、_russian_Почем нынче Ван Гог_Астраханцев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89bacbb2764ab2f4c05b2d5841f9d622

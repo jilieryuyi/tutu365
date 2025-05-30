@@ -8,7 +8,7 @@
 1843、_russian_Логика_ конспект лекций_Шадрин Д А_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90cc6ab5dc9d10e1ebd1fb456fb62b3f

@@ -8,7 +8,7 @@
 15092、_russian_Друг от друга_Керр Филип_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7b54418064625f15e5b8b8d0c062b3f

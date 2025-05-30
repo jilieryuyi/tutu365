@@ -8,7 +8,7 @@
 7752、_russian_Источник Волшебства_Андрей Смирнов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 301193a0115c9581b40f369356dade41

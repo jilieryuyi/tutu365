@@ -8,7 +8,7 @@
 16881、_english_Lady Lissa's Liaison_Lindsay Randall_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0f04979920f1b3c5d8c00f847be56486

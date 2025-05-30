@@ -8,7 +8,7 @@
 7192、_russian_Фуко за 90 минут_Стретерн Пол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41f2db02f64d0085124ed7815e85d1e5

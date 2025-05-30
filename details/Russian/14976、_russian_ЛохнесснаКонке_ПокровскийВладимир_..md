@@ -8,7 +8,7 @@
 14976、_russian_Лохнесс на Конке_Покровский Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb1eea9c02569f73d04b88b4121191eb

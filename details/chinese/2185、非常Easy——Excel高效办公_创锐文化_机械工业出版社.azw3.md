@@ -8,7 +8,7 @@
 2185、非常Easy——Excel高效办公_创锐文化_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c13e6417ceed7c770532be594892deec

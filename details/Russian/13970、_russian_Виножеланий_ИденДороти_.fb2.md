@@ -8,7 +8,7 @@
 13970、_russian_Вино желаний_Иден Дороти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbb2cd4cf89bd5f794f1d677d78473f5

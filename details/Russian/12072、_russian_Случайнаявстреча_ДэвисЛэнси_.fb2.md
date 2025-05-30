@@ -8,7 +8,7 @@
 12072、_russian_Случайная встреча_Дэвис Лэнси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 025a525e4b3ac819aca5183581c164fc

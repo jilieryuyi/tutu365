@@ -8,7 +8,7 @@
 7915、_russian_Людоед_Каганов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 959cdbd8c366c0fb88818936e5d3a8eb

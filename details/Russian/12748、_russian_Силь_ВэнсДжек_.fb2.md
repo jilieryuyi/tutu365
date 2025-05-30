@@ -8,7 +8,7 @@
 12748、_russian_Силь_Вэнс Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fa6efa897a8e199158743e86d0eb3ff

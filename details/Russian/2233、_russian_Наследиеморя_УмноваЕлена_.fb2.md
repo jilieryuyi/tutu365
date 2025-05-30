@@ -8,7 +8,7 @@
 2233、_russian_Наследие моря_Умнова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 394b105233934f79a6949a5319978e83

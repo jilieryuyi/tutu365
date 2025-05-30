@@ -8,7 +8,7 @@
 12262、_russian_Бастион_Нюгордсхауг Герт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ecd3235bf3aac4f008d3d65a06f155b7

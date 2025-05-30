@@ -8,7 +8,7 @@
 14169、_russian_Клеймо Сэкеттов_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f3fc13e7d125d172d5ec73509fa8047

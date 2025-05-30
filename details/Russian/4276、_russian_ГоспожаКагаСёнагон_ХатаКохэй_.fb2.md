@@ -8,7 +8,7 @@
 4276、_russian_Госпожа Кага Сёнагон_Хата Кохэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 baa9c94e8543e3081baafdd1919b5627

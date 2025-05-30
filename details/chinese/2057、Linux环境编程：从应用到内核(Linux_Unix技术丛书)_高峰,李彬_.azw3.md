@@ -8,7 +8,7 @@
 2057、Linux环境编程：从应用到内核 (Linux_Unix技术丛书)_高峰,李彬_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5ac8a5327076f34be2ca5914c9ce7c55

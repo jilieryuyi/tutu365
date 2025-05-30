@@ -8,7 +8,7 @@
 6779、_russian_Близится утро_Лукьяненко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ba0e8901cb37ee407e144542b5118d6

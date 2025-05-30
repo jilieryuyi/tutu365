@@ -8,7 +8,7 @@
 5519、_russian_Вся королевская конница_Колодан Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9f3a442effcb87eb78f836ec75cb0952

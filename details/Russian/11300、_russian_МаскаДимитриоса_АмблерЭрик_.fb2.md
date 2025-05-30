@@ -8,7 +8,7 @@
 11300、_russian_Маска Димитриоса_Амблер Эрик_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3e2646a3931ea7ea1e1888c9777e2af9

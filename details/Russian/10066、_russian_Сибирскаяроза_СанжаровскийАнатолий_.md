@@ -8,7 +8,7 @@
 10066、_russian_Сибирская роза_Санжаровский Анатолий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e94bb8d9dadae81b4d19375f2ff18df9

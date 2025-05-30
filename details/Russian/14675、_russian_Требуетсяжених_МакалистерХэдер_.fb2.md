@@ -8,7 +8,7 @@
 14675、_russian_Требуется жених_Макалистер Хэдер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8c549d77849e4f6fe0002ad802d3761

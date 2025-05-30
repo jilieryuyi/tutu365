@@ -8,7 +8,7 @@
 11428、_russian_Четвертак, приносящий удачу_Кинг Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92c9de3e2d89b679bc4bcf8d8f92eec6

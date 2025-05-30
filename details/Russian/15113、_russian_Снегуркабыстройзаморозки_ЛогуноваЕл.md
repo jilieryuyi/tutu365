@@ -8,7 +8,7 @@
 15113、_russian_Снегурка быстрой заморозки_Логунова Елена_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ad85e25346753a5f1de69bd6041076c

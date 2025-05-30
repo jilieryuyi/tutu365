@@ -8,7 +8,7 @@
 11016、_russian_Запредельная жизнь_Ковелер Дидье ван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f62eb2e8829bd0508dadc147b85e769

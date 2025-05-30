@@ -8,7 +8,7 @@
 1605、_russian_Через Кордильеры_Ганзелка Иржи, Зикмунд Мирослав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53f5e11ebfa757b7b23cb8ffcfb553bf

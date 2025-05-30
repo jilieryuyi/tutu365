@@ -8,7 +8,7 @@
 6348、_russian_Дело о Белом Тигре_Шумская Елизавета_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3d7e62f6b1daf3adeb47551e0a17e5d8

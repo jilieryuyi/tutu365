@@ -8,7 +8,7 @@
 水妖 (德国浪漫派文学丛书)_弗里德里希·莫特·富凯(Friedrich Motte-Fouque)__5476489_a9b55f2aaf949bce5af71278f4d87516.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a9b55f2aaf949bce5af71278f4d87516

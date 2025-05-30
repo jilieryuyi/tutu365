@@ -8,7 +8,7 @@
 12227、_russian_Генерал в своём лабиринте_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f23fd295be584485c20cf3a317bac715

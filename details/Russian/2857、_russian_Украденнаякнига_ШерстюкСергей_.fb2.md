@@ -8,7 +8,7 @@
 2857、_russian_Украденная книга_Шерстюк Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 10cb85630ec9d390e3c20df8e793d22f

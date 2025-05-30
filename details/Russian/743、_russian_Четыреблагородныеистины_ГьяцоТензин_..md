@@ -8,7 +8,7 @@
 743、_russian_Четыре благородные истины_Гьяцо Тензин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0ccf5eaa4a9d3737e73429a02f793e6

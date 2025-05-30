@@ -8,7 +8,7 @@
 3473、_russian_Валис_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73d8adacd9ce5ada78e1ebe118d18f8a

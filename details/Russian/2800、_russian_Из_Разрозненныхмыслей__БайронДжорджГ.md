@@ -8,7 +8,7 @@
 2800、_russian_Из _Разрозненных мыслей__Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4c345ceb7cb528169e674b144b5dcddc

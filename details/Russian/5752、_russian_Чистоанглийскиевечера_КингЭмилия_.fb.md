@@ -8,7 +8,7 @@
 5752、_russian_Чисто английские вечера_Кинг Эмилия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cdb722d9f9e2cb172b1edb3ced59e5e

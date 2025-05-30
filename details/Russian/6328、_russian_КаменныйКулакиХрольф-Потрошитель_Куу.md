@@ -8,7 +8,7 @@
 6328、_russian_Каменный Кулак и Хрольф-Потрошитель_Кууне Янис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4ac1c81153b21e1272827d5d4c6ac551

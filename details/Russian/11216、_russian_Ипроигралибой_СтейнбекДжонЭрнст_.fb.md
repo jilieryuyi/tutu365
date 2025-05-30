@@ -8,7 +8,7 @@
 11216、_russian_И проиграли бой_Стейнбек Джон Эрнст_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9d9cafaddab337d1d426fcaf8d0de7d

@@ -8,7 +8,7 @@
 2128、_russian_Толстая тетрадь_Кристоф Агота_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b29595720e481b05fedefaee9b3d0096

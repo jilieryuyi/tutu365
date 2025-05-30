@@ -8,7 +8,7 @@
 4304、_russian_О войне_Клаузевиц Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eec0c3ceedb1e14502cdd101238a6d4c

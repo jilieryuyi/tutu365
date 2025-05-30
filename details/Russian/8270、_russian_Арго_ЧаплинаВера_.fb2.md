@@ -8,7 +8,7 @@
 8270、_russian_Арго_Чаплина Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cebdc3237d295e77c7c78b37e899a585

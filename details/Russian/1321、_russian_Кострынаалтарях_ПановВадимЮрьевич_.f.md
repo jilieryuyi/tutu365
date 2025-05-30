@@ -8,7 +8,7 @@
 1321、_russian_Костры на алтарях_Панов Вадим Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f4df170f5a446cb60caae1427a59580

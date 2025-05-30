@@ -8,7 +8,7 @@
 8948、_russian_У печи_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d8ea4b5e76e46eb9914f9f9d1dcd3afb

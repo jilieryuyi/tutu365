@@ -8,7 +8,7 @@
 8509、_russian_Бунт вурдалаков_Петухов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26020635b72989147461ffc29b6bc590

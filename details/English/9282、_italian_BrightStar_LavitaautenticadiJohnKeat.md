@@ -8,7 +8,7 @@
 9282、_italian_Bright Star_ La vita autentica di John Keats_Elido Fazi_Fazi Editore.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 01e4c36bf0399b6bf4cc98dcad3e322f

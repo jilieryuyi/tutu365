@@ -8,7 +8,7 @@
 14320、_russian_Проездом_Боборыкин Петр Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b46f5514399e9e7bb3651d80f369c533

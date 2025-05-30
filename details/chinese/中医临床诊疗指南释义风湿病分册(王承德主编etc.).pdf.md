@@ -8,7 +8,7 @@
 中医临床诊疗指南释义 风湿病分册 (王承德主编 etc.).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 4fce2c98dd35064b6f1bbe1301fcfb19

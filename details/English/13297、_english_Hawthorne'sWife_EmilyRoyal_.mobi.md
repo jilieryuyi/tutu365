@@ -8,7 +8,7 @@
 13297、_english_Hawthorne's Wife_Emily Royal_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 865a542dbfbeabe2beb0bd18e05bbd15

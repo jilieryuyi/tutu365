@@ -8,7 +8,7 @@
 8297、_russian_Сорвать розу_Мартен Жаклин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 26682c3958e9dc89b5eaa58679e99f59

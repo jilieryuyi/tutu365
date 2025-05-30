@@ -8,7 +8,7 @@
 8035、_russian_Как читать книги_Поварнин С._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bab0b10844240911a440635cf6fd80e7

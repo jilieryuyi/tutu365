@@ -8,7 +8,7 @@
 10507、_ukrainian_Чаша Амр_ти_Бердник Олесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b75c4550cc3db408a6f42c4e8489ab8b

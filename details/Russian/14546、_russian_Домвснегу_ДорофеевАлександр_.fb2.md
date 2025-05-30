@@ -8,7 +8,7 @@
 14546、_russian_Дом в снегу_Дорофеев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d0660b1c0488dc6b69c50edd375b73cc

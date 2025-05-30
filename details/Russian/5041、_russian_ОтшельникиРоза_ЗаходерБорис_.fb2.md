@@ -8,7 +8,7 @@
 5041、_russian_Отшельник и Роза_Заходер Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d744fb232ec296f4754b21363c4ad00

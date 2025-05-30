@@ -8,7 +8,7 @@
 5635、_russian_День свершений_Жилин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f7563c3dd534c2a57cfe286d7adfd12

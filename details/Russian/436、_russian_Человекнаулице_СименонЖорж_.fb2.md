@@ -8,7 +8,7 @@
 436、_russian_Человек на улице_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fab7d7ffc7d2116f50ec23bd42f71d3e

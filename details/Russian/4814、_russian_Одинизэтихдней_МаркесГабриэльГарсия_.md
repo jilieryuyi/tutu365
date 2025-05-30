@@ -8,7 +8,7 @@
 4814、_russian_Один из этих дней_Маркес Габриэль Гарсия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b260e5e6237676cbea922610adf42b41

@@ -8,7 +8,7 @@
 2132、_russian_Дело по обвинению_Макбейн Эд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eed0495932391d9938f6b13a2884e6a0

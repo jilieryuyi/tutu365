@@ -8,7 +8,7 @@
 8192、_russian_Памела или награжденная добродетель_Ричардсон_ Сэмюэл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9af6a8073db38a561cd6fe71953c18c4

@@ -8,7 +8,7 @@
 11542、_russian_Первый Линзмен-3_ Галактический патруль_`Док` Смит Эдвард Элмер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1aa1949b3bf0c4cdf1d7a0cea094681a

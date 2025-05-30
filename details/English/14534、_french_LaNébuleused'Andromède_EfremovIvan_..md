@@ -8,7 +8,7 @@
 14534、_french_La Nébuleuse d'Andromède_Efremov Ivan_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d383c780fce5e7354aa01025fe6b6bdc

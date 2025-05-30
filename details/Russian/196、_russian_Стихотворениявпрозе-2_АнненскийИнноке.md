@@ -8,7 +8,7 @@
 196、_russian_Стихотворения в прозе - 2_Анненский Иннокентий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32c3fa2506ce4d73f2820942c9c45812

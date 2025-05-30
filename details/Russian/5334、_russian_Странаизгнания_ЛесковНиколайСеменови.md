@@ -8,7 +8,7 @@
 5334、_russian_Страна изгнания_Лесков Николай Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ae17c9f9a7d0fb96554b80b01ed5eecf

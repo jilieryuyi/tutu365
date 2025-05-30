@@ -8,7 +8,7 @@
 1817、_russian_Коронация, или Последний из романов_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ad3eb70577915b4a5022c02ac26c0c2

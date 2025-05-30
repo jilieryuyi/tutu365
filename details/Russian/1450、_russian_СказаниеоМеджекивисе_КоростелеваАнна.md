@@ -8,7 +8,7 @@
 1450、_russian_Сказание о Меджекивисе_Коростелева Анна Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd9550a1be6b76184e795e07cedf7914

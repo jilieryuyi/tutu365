@@ -8,7 +8,7 @@
 9983、_other_Олесь Бердник_Харьковский_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00cb408b3f6ccb798cc42af5eb7c348c

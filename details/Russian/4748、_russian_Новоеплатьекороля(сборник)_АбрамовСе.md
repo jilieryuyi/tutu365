@@ -8,7 +8,7 @@
 4748、_russian_Новое платье короля (сборник)_Абрамов Сергей Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad483cfb87a7d71eb720a6755bf3b949

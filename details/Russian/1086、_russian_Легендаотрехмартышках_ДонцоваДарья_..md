@@ -8,7 +8,7 @@
 1086、_russian_Легенда о трех мартышках_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca2f931302b525099de49c92b2738e6f

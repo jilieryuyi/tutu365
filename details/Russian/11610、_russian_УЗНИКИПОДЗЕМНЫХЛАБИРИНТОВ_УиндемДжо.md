@@ -8,7 +8,7 @@
 11610、_russian_УЗНИКИ ПОДЗЕМНЫХ ЛАБИРИНТОВ_Уиндем Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 672ae66c2b6a0439e982dd08a7e73dd4

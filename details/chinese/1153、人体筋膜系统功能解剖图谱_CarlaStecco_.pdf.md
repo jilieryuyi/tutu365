@@ -8,7 +8,7 @@
 1153、人体筋膜系统功能解剖图谱_Carla Stecco_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3749d0af8d7173f1a69ea9d329f91206

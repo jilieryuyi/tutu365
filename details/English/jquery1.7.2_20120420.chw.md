@@ -8,7 +8,7 @@
 jquery1.7.2_20120420.chw.chw
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cd5c7b582c75516f5a96b5ba8be11f74

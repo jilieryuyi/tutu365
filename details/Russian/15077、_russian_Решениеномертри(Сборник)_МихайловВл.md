@@ -8,7 +8,7 @@
 15077、_russian_Решение номер три (Сборник)_Михайлов Владимир Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd479933f390c0cb5009dfe6f92f9fb1

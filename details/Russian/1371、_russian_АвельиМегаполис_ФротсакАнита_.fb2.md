@@ -8,7 +8,7 @@
 1371、_russian_Авель и Мегаполис_Фротсак Анита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 46e9a71b30b99a3ba3fe53fa978a8e7a

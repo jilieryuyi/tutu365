@@ -8,7 +8,7 @@
 4575、_russian_Легенда о Марко_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a002c09e88e42de1d57a17d6057394a

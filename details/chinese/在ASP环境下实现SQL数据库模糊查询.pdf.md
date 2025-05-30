@@ -8,7 +8,7 @@
 在ASP环境下实现SQL数据库模糊查询.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 12d373685a5a3279e9e2fdc4f3340aee

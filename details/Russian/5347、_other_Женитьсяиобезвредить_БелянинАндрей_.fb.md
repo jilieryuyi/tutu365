@@ -8,7 +8,7 @@
 5347、_other_Жениться и обезвредить_Белянин Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90c7ee5e3e6166a28bff1543a9f58bee

@@ -8,7 +8,7 @@
 8376、_russian_Забава_Бабкин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96a054bd1a9340083f1001d2e227cb60

@@ -8,7 +8,7 @@
 13864、_russian_Трое и младенец в коляске_Багиров Заур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf8a460766729d2599856aee282bfd3d

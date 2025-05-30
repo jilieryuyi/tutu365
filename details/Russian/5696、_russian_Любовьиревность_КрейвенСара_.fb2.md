@@ -8,7 +8,7 @@
 5696、_russian_Любовь и ревность_Крейвен Сара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5245e85561da24a4cd95cfed0ffaed54

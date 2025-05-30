@@ -8,7 +8,7 @@
 11121、_russian_Неожиданное_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9c2729bfc7cbc133b7db9196f6ce877e

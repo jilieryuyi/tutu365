@@ -8,7 +8,7 @@
 全国计算机等级考试一级教程 计算机基础及WPS Office应用 2015年版 (教育部考试中心, 金山办公软件有限公司编, 珠海金山办公软件公司).pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3cb9192a6c1b561ab96ab8915c5337c8

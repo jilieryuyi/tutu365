@@ -8,7 +8,7 @@
 共同基金常识：10周年纪念版_约翰·博格（John C. Bogle）_中国人民大学出版社_5371237_d7e6bc7805470afbcef17155dc34bbad.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d7e6bc7805470afbcef17155dc34bbad

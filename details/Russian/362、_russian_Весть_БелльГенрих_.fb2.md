@@ -8,7 +8,7 @@
 362、_russian_Весть_Белль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ecc49f9bad0c67faa32f0bbe95c57b5

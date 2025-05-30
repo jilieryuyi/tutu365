@@ -8,7 +8,7 @@
 JS权威指南.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 44ccc7c61c866ac169992ea7755869a5

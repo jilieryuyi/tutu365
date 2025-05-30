@@ -8,7 +8,7 @@
 4948、_russian_Голубая летающая тарелка_Рогов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9be50157edd833ce10105f4986889914

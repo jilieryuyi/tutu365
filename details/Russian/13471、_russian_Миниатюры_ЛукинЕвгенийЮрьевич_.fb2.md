@@ -8,7 +8,7 @@
 13471、_russian_Миниатюры_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfea1909e1d82de44d58e6dea2401de0

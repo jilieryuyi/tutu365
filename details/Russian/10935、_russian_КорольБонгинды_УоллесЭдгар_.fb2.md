@@ -8,7 +8,7 @@
 10935、_russian_Король Бонгинды_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 964a85fb551b015d5697543b493e3a03

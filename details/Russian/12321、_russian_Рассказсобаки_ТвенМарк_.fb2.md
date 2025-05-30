@@ -8,7 +8,7 @@
 12321、_russian_Рассказ собаки_Твен Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e1847b00ef48123128daed187600392

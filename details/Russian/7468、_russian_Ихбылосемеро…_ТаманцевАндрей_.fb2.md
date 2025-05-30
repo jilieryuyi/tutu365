@@ -8,7 +8,7 @@
 7468、_russian_Их было семеро…_Таманцев Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 30ba769b2bba7da4f632ce1eb56e8a7e

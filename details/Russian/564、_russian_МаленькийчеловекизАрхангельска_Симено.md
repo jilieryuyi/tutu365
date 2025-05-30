@@ -8,7 +8,7 @@
 564、_russian_Маленький человек из Архангельска_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f6f84057a3aa9dfae009a62c5bd1e35

@@ -8,7 +8,7 @@
 14528、_russian_Удавка из прошлого_Бабкин Борис Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3fde47d9f76cfcab151473645ebf15d

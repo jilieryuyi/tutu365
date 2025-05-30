@@ -8,7 +8,7 @@
 13047、_russian_Кондратий Рус_Ромашов Андрей Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 476e61b91aa698964a1619667c4d12e7

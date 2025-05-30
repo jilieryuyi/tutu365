@@ -8,7 +8,7 @@
 14559、_russian_Другой Урал_Беркем Аль Атоми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b275419e460a04a9af70b917b0f38acd

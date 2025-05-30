@@ -8,7 +8,7 @@
 10240、_russian_Лабиринт Бритни_Ловетт Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6ab823ea2e5bffe6af10dca3af3328eb

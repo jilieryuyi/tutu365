@@ -8,7 +8,7 @@
 8964、_russian_Печальная весна_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f97acdaa21ebc6d05f076291e6564cee

@@ -8,7 +8,7 @@
 3279、_russian_Поход изгоев_Мид Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6e0c55cd9b0448268ff23e9ab8ab644d

@@ -8,7 +8,7 @@
 6303、_russian_Вернуться в осень_Стретович Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4cfe1bf9f036defa73263620592d7809

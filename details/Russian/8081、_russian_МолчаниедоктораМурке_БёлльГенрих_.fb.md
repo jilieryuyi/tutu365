@@ -8,7 +8,7 @@
 8081、_russian_Молчание доктора Мурке_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f82293db8d44b0da1da75db6e340bc4b

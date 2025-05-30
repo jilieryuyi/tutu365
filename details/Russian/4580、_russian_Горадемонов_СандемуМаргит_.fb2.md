@@ -8,7 +8,7 @@
 4580、_russian_Гора демонов_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 351d15ce053d4cf478de1be018d2c376

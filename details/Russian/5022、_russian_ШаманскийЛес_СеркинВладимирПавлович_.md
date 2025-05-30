@@ -8,7 +8,7 @@
 5022、_russian_Шаманский Лес_Серкин Владимир Павлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f9721fac6f4d520dd413e6ca8251bfd

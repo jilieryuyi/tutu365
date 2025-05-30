@@ -8,7 +8,7 @@
 2934、_russian_Время моей жизни_Лавриненко Анна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da43700d5ba3fd774301f35d1a97f8ca

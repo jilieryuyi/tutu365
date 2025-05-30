@@ -8,7 +8,7 @@
 285、投资的常识：建立理性的投资观_SoBooKs.cc & 布拉德福德·康奈尔 & 肖恩·康奈尔 & 安德鲁·康奈尔_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9c735441aef2d51620419d1ce2d509df

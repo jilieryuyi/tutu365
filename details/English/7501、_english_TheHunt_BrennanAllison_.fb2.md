@@ -8,7 +8,7 @@
 7501、_english_The Hunt_Brennan Allison_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8e71ce4e72ebb61bfd57780c30d7bd49

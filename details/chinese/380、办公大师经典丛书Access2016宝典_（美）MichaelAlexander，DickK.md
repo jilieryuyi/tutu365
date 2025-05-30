@@ -8,7 +8,7 @@
 380、办公大师经典丛书 Access 2016宝典_（美）Michael Alexander，Dick Kusleika著_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 577cdc2b3e6e4805145bc470ea7886f8

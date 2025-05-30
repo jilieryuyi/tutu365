@@ -8,7 +8,7 @@
 2296、_russian_Вторая клятва_Раткевич Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb240849f1df5b9619d5aee9687e7b34

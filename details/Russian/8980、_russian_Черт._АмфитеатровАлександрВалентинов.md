@@ -8,7 +8,7 @@
 8980、_russian_Черт._Амфитеатров Александр Валентинович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1d22d3225856bf502a82bd43a0c3148

@@ -8,7 +8,7 @@
 3924、_russian_Жаворонок_Столяров Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ce60f905ec18dabc37c1f5a05c86fbf

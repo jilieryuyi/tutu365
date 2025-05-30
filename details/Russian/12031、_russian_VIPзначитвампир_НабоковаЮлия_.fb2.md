@@ -8,7 +8,7 @@
 12031、_russian_VIP значит вампир_Набокова Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 be0ce5934b7ed6a668b5fc716ad2ba82

@@ -8,7 +8,7 @@
 13398、_russian_После гильотины_Ли Танит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7a3a7dbd8a60f157839b218b2e557e25

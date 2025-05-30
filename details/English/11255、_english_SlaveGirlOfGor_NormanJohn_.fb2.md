@@ -8,7 +8,7 @@
 11255、_english_Slave Girl Of Gor_Norman John_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 8189a927307bbbc29013ee964f148f02

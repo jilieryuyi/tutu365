@@ -8,7 +8,7 @@
 6427、_russian__Зубы_ в твоем кармане_Прорез Журнал, Федосов Антон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ab1a0e93d81f7836121b1620588ae63e

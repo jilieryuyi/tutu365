@@ -8,7 +8,7 @@
 5409、_russian_Игра для дураков_Ритчи Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d9d6e4b10c521553a6aa2b2e6ede340

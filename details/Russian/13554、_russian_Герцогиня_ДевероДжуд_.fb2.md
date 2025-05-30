@@ -8,7 +8,7 @@
 13554、_russian_Герцогиня_Деверо Джуд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3a2ec929b60226fecb2389580f353e20

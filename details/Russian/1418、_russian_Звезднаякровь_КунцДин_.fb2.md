@@ -8,7 +8,7 @@
 1418、_russian_Звездная кровь_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 618d77e6bffe9292c7e3e964c5bd00cd

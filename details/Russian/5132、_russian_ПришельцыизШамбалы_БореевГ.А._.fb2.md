@@ -8,7 +8,7 @@
 5132、_russian_Пришельцы из Шамбалы_Бореев Г. А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a61e953631358d68e34ca4a8989a68ba

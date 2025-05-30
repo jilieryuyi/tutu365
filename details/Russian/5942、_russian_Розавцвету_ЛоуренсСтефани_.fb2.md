@@ -8,7 +8,7 @@
 5942、_russian_Роза в цвету_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 50abf05e7361bfb65e13b1ba308a1548

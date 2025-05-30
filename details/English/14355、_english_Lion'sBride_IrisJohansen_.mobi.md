@@ -8,7 +8,7 @@
 14355、_english_Lion's Bride_Iris Johansen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d8049f417fe086047d1dd14aa8283236

@@ -8,7 +8,7 @@
 8523、_russian_Ночь со звездой гламура_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 383463a6e2bc7a30929f6c0325403a08

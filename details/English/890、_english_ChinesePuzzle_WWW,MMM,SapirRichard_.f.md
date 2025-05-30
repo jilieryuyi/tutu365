@@ -8,7 +8,7 @@
 890、_english_Chinese Puzzle_W W W, M M M, Sapir Richard_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 df9239bfba287f8e876c2fa97b3f7845

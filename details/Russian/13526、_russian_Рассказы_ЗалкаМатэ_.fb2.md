@@ -8,7 +8,7 @@
 13526、_russian_Рассказы_Залка Матэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d4846327f9415f3206c1720102c950c

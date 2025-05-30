@@ -8,7 +8,7 @@
 9377、_russian_Андромеда_Хойл Фред, Эллиот Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 db5bf2712de3da926d0b0d8bd60c71ef

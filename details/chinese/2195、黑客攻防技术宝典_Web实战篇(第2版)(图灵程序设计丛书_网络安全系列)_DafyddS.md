@@ -8,7 +8,7 @@
 2195、黑客攻防技术宝典_Web实战篇(第2版) (图灵程序设计丛书_网络安全系列)_Dafydd Stuttard_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c1b8d09da140817d053a3aafdfb2849

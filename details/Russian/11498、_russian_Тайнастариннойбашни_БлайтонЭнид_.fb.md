@@ -8,7 +8,7 @@
 11498、_russian_Тайна старинной башни_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d181f20dae28f399c4d1e75a333388c

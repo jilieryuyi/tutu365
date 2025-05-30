@@ -8,7 +8,7 @@
 13572、_russian_Фиолетовое пламя_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d95e8d478c174e883475c3dc74f1ceee

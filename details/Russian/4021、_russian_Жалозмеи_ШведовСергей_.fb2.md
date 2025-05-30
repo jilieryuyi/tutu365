@@ -8,7 +8,7 @@
 4021、_russian_Жало змеи_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3199dc470fa0bfe9de6dd9594f8bc09d

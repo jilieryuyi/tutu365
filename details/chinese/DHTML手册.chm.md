@@ -8,7 +8,7 @@
 DHTML 手册.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 93b7bbbaf6a7b78dedc3579bfdb1ec1c

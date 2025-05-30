@@ -8,7 +8,7 @@
 8378、_russian_Выбор_Суворов Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a736ef186362bdffcc6b7b79073d1a1

@@ -8,7 +8,7 @@
 2773、_french_Mille ans d'histoire des mathématiques_Hervé Lehining__ditions POLE.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 aa680427d91eb87d2f9ce2cdf55c0a3c

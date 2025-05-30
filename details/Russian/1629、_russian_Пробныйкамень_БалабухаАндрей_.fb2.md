@@ -8,7 +8,7 @@
 1629、_russian_Пробный камень_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b6002c828ca4e4ee62d8f73caf35d7a

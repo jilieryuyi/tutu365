@@ -8,7 +8,7 @@
 3239、_russian_Россия вечная_Мамлеев Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1e6351b9fff3187f7ebcb76274fc27a

@@ -8,7 +8,7 @@
 9749、_russian__Каштанка__Эренбург Илья Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 886da0bb384a7baa8ef57a61a098356b

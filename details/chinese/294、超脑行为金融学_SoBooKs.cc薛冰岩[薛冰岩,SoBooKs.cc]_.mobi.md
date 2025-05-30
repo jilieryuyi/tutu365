@@ -8,7 +8,7 @@
 294、超脑行为金融学_SoBooKs.cc 薛冰岩 [薛冰岩, SoBooKs.cc]_.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ce516d4ed40f2fe276c036b5b3472e3d

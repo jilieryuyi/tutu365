@@ -8,7 +8,7 @@
 16070、_english_Lady Lily's Diary_Kelly Lynn Peters_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 2a127e7b5c143e2c9b03e72665d0b95b

@@ -8,7 +8,7 @@
 3195、_russian_Опасная встреча_Корвин Норман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6b002cfff9e6da829191b2fb602be50f

@@ -8,7 +8,7 @@
 13589、_russian_Отважная провинциалка_Филдинг Лиз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 438f4714cdf54623f6d6784426f43ed9

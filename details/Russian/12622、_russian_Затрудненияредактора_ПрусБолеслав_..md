@@ -8,7 +8,7 @@
 12622、_russian_Затруднения редактора_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59acee00403d0088c813d75f94a5730a

@@ -8,7 +8,7 @@
 12839、_russian_Десять минут_Ритчи Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7657a7a9f272679b2915d689f2861833

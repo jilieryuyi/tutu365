@@ -8,7 +8,7 @@
 7819、_russian_Огородник и его кот_Володихин Дмитрий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1e988f882ae97602092c666aa34f237

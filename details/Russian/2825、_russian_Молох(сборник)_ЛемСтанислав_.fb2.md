@@ -8,7 +8,7 @@
 2825、_russian_Молох (сборник)_Лем Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f9345cb0e1a027befcaadce4cd809071

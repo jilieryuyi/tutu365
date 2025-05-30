@@ -8,7 +8,7 @@
 7052、_russian_Черная Луна_Ливадный Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6522f6f861733ba632faa6c076ed5ba1

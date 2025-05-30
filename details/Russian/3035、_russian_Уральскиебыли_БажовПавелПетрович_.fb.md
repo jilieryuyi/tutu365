@@ -8,7 +8,7 @@
 3035、_russian_Уральские были_Бажов Павел Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 923be87be4cdf3bf767ffdab0224a931

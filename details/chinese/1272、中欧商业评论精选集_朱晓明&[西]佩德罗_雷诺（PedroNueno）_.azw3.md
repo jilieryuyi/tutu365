@@ -8,7 +8,7 @@
 1272、中欧商业评论精选集_朱晓明 & [西]佩德罗_雷诺（Pedro Nueno）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b165e4df9fec9eef0fbd4d9e73a176bf

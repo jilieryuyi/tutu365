@@ -8,7 +8,7 @@
 2388、_russian_Маленький полустанок в ночи_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe8b09362b237e21194f8a9fe0861cff

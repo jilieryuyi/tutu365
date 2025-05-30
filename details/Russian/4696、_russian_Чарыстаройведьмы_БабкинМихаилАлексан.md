@@ -8,7 +8,7 @@
 4696、_russian_Чары старой ведьмы_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4385e8a68e98bf38e132c7b3ac69346d

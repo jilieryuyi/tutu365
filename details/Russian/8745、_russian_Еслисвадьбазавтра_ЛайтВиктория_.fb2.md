@@ -8,7 +8,7 @@
 8745、_russian_Если свадьба завтра_Лайт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4b3e7b773c559bebc6845229726aaffa

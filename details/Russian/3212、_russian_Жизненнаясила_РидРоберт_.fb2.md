@@ -8,7 +8,7 @@
 3212、_russian_Жизненная сила_Рид Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 298604ae39d4ff9a368157d19c5d49fc

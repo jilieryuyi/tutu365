@@ -8,7 +8,7 @@
 4297、_russian_Копье судьбы_Шелудченко Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1057b750684ff95adaede0823310c565

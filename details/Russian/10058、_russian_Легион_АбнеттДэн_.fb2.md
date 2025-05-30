@@ -8,7 +8,7 @@
 10058、_russian_Легион_Абнетт Дэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d11ac6d8bb848df20fefa3f8684b86d

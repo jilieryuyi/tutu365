@@ -8,7 +8,7 @@
 7248、_english_The Laird's Vow_Anne Gracie_e-penguin.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 68e7dbf2e1792688aab5136049841dc4

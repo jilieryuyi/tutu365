@@ -8,7 +8,7 @@
 3033、_russian_Как стать сексапильной_Криксунова Инна А._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7136de11d2c43da6272c0c1857f29942

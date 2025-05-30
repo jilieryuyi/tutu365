@@ -8,7 +8,7 @@
 13755、_russian_Ненависть_Остапенко Юлия Владимировна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 176e1679c24db287fb324f296f5f9b18

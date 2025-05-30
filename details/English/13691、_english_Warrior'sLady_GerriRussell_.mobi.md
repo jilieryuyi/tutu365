@@ -8,7 +8,7 @@
 13691、_english_Warrior's Lady_Gerri Russell_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ced62f8500aea8e9a8e24531c600062e

@@ -8,7 +8,7 @@
 14348、_russian_Крымская ракета средней дальности_Дышев Андрей Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a9fbcc44d52dbfbe8e0237d7fe5047ef

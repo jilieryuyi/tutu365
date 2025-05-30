@@ -8,7 +8,7 @@
 5592、_russian_Ганц Кюхельгартен_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0ae354c59d3770fd970c3475fa2ce8e

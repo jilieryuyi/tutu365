@@ -8,7 +8,7 @@
 13191、_russian_Конь рыжий_Гуль Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0e8d124768567ded9d899919679402d2

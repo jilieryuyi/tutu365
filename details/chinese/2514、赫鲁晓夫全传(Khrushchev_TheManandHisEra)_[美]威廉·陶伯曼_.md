@@ -8,7 +8,7 @@
 2514、赫鲁晓夫全传 (Khrushchev_The Man and His Era)_[美]威廉·陶伯曼_中国社会科学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 222596969ac944d6aeba3bb5111c970b

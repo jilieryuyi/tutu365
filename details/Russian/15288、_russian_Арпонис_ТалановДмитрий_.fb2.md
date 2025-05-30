@@ -8,7 +8,7 @@
 15288、_russian_Арпонис_Таланов Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1698bc7e2a8d29481a359e66c3daf799

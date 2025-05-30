@@ -8,7 +8,7 @@
 5500、_russian_Церебралка_Менбек Влад_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 57e15ceeb5dd8216526d07e808dafe41

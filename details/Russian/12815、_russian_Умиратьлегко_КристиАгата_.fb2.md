@@ -8,7 +8,7 @@
 12815、_russian_Умирать легко_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2642c2414eb63a2f3ee149a673636e5

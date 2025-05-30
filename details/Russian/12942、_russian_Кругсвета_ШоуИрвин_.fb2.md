@@ -8,7 +8,7 @@
 12942、_russian_Круг света_Шоу Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e35a5cad428e19cdf47ec5a15004c46a

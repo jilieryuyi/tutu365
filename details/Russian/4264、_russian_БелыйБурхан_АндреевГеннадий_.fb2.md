@@ -8,7 +8,7 @@
 4264、_russian_Белый Бурхан_Андреев Геннадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d44876a2dcc15cbea2fee0e41bee01c9

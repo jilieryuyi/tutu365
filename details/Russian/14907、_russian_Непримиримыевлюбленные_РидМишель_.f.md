@@ -8,7 +8,7 @@
 14907、_russian_Непримиримые влюбленные_Рид Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12fea8690601f75ce7c19db04828b493

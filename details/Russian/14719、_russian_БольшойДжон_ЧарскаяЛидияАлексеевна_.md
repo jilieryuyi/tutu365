@@ -8,7 +8,7 @@
 14719、_russian_Большой Джон_Чарская Лидия Алексеевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f72dca5389aee4108d3a82bd9738ffc

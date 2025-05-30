@@ -8,7 +8,7 @@
 10371、_russian_Стояние на реке Москве_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 867f1bc121778f037bd75b02f1ba3692

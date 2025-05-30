@@ -8,7 +8,7 @@
 259、_russian_Ветры Империи_Иванов Сергей Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 21bf723e9e9f7c8e60abbc785d8a8518

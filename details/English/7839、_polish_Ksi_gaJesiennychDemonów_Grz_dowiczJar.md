@@ -8,7 +8,7 @@
 7839、_polish_Ksi_ga Jesiennych Demonów_Grz_dowicz Jaros_aw_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e840f7c4c13c587a2a2d4ec785534f63

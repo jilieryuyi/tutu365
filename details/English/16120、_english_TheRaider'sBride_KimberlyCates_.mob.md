@@ -8,7 +8,7 @@
 16120、_english_The Raider's Bride_Kimberly Cates_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a1241c0d1a7795c20892a38b8e3a0e5e

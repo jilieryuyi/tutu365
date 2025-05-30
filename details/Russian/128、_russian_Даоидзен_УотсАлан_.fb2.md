@@ -8,7 +8,7 @@
 128、_russian_Дао и дзен_Уотс Алан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ff2def878cdd3392a28778ceb6da129

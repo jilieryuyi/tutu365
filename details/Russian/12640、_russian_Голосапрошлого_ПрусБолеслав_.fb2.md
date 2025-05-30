@@ -8,7 +8,7 @@
 12640、_russian_Голоса прошлого_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 142e1ff1551b3c7f736c84981a899e63

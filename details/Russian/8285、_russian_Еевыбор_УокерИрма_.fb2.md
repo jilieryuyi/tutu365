@@ -8,7 +8,7 @@
 8285、_russian_Ее выбор_Уокер Ирма_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d66d207ede9c6e276419e16fb071832

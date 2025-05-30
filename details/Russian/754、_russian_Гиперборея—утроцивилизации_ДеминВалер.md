@@ -8,7 +8,7 @@
 754、_russian_Гиперборея — утро цивилизации_Демин Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 23fca78797e92b332cbb2cf0aa8c033e

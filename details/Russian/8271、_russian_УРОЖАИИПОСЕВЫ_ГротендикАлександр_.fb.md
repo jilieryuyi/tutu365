@@ -8,7 +8,7 @@
 8271、_russian_УРОЖАИ И ПОСЕВЫ_Гротендик Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 171ab3accae7b39510f65630fcae57d8

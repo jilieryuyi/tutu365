@@ -8,7 +8,7 @@
 14517、_russian_Приговоренные без суда_Карышев Валерий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1d74d82cf05119e7478e1a9d2481a40

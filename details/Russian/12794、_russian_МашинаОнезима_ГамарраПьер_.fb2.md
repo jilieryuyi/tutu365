@@ -8,7 +8,7 @@
 12794、_russian_Машина Онезима_Гамарра Пьер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b0f43d8b8ea1c80bc78e236b07ff414

@@ -8,7 +8,7 @@
 8965、_russian_Покинутый парусник_Бласко Висенте Ибаньес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a7bea87994879902905934cab289ba24

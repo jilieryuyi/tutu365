@@ -8,7 +8,7 @@
 7069、_russian_Наш собственный корреспондент сообщает_Тевекелян Варткес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7ec8a9247b7f1624ba5640eb9573fb5

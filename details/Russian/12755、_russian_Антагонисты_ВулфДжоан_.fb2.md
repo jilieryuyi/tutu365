@@ -8,7 +8,7 @@
 12755、_russian_Антагонисты_Вулф Джоан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e07a4545e64dc2a5e8856a7a8e78e32c

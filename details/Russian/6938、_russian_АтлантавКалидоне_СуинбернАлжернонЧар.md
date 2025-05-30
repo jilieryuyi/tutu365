@@ -8,7 +8,7 @@
 6938、_russian_Атланта в Калидоне_Суинберн Алжернон Чарлз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22bbef9886ce1bc7b7c4becf77f5c2b2

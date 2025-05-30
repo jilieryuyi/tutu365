@@ -8,7 +8,7 @@
 13721、_russian_Беззаконие в Бландинге_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b961d3627bfd866dbf062d961ad40d45

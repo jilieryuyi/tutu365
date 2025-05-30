@@ -8,7 +8,7 @@
 7490、_russian_Всемогущий атом (сборник)_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 73e13c0534877725cb591ffd7de1f15f

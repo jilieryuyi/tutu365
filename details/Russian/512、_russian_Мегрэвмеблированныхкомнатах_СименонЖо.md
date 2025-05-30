@@ -8,7 +8,7 @@
 512、_russian_Мегрэ в меблированных комнатах_Сименон Жорж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 41d3fadbebfbc1fe4cac04734e029dac

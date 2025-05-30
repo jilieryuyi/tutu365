@@ -8,7 +8,7 @@
 14042、_russian_Книга о Шостаковиче_Ардов Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f992f24d7184f5ae70a1f0141a19dc50

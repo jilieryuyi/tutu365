@@ -8,7 +8,7 @@
 517、自控力_凯利·麦格尼格尔(Kelly McGonigal)_印刷工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 61a82fa8f5fb3242c801e7ddd9e453b1

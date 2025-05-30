@@ -8,7 +8,7 @@
 725、_russian_К востоку от Эдема. Жертвы_Локхард Джордж_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a5267a5c075db927f4d8a52348d3b6cb

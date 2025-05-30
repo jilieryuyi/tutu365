@@ -8,7 +8,7 @@
 5436、_russian_Беспутный и желанный (Клятва верности)_Хенке Ширл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5420cecff0ac67b137e7664732eb5977

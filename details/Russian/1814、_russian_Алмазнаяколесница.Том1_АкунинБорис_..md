@@ -8,7 +8,7 @@
 1814、_russian_Алмазная колесница. Том 1_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee5ce792581438a3a4d95ff9ffd85cc9

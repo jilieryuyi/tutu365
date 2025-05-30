@@ -8,7 +8,7 @@
 2862、_russian_Остеохондроз_Хургин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a19d17f8a5af7556074903528556a70f

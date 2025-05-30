@@ -8,7 +8,7 @@
 13858、_russian_Дурень_Бакланов Григорий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a535f0ac30a53097a9d987e5590a7b85

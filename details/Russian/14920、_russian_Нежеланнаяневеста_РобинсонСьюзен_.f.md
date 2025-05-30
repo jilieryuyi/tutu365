@@ -8,7 +8,7 @@
 14920、_russian_Нежеланная невеста_Робинсон Сьюзен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4676401f9026a0dcf6370109c7cd0e2

@@ -8,7 +8,7 @@
 1012、_russian_Учитесь быстро читать_Андреев Олег Андреевич, Хромов Лев Н._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 423b4688a8a4c8b5d3661e30c79c7afd

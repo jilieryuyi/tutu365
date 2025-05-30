@@ -8,7 +8,7 @@
 14116、_russian_Нежная и бесстрашная_Кейн Андреа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de229baed02186e9134ce5d61ad05dbb

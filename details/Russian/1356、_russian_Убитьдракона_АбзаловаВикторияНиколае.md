@@ -8,7 +8,7 @@
 1356、_russian_Убить дракона_Абзалова Виктория Николаевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8875171c8aa6dc676fc2405cbc86aedb

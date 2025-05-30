@@ -8,7 +8,7 @@
 5235、_english_Глава 1_Lera_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0ee5043acbfe3c25222a1889f9bb04f

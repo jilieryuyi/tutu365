@@ -8,7 +8,7 @@
 11512、_russian__Секретная семерка_ устраивает фейерверк_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6b2dd3e3d6874425d286e05afce3b26

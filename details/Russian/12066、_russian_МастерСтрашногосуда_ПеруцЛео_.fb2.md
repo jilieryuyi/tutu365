@@ -8,7 +8,7 @@
 12066、_russian_Мастер Страшного суда_Перуц Лео_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 16927966b87ff76659eee05eed70f3af

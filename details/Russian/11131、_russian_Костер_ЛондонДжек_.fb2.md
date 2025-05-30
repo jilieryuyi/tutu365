@@ -8,7 +8,7 @@
 11131、_russian_Костер_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b49c93e86b63f43724419100cc18923

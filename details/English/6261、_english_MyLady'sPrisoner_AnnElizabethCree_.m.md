@@ -8,7 +8,7 @@
 6261、_english_My Lady's Prisoner_Ann Elizabeth Cree_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 bd185fae91600e624f0829d83c26a3ab

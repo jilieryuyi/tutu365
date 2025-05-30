@@ -8,7 +8,7 @@
 8103、_russian_Прощание еврейки_Хемлин Маргарита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2069beec9aead5d797ef33bc293628d9

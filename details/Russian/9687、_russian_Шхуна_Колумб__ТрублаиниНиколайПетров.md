@@ -8,7 +8,7 @@
 9687、_russian_Шхуна _Колумб__Трублаини Николай Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c110277fafe0154e2236dc43dc450a66

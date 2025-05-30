@@ -8,7 +8,7 @@
 13195、_russian_Серая Шейка_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cc0d716b8832adfc1fb510cd8a12c894

@@ -8,7 +8,7 @@
 3215、機器人的聖誕禮物 - 全一卷_石黑正數_volmoe.com.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fa16bd3c2e09681faef8f75c1cc94b22

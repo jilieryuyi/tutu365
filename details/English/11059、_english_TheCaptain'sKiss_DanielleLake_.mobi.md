@@ -8,7 +8,7 @@
 11059、_english_The Captain's Kiss_Danielle Lake_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 98d03c728d84c962954140bb3888569d

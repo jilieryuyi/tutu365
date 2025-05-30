@@ -8,7 +8,7 @@
 10830、_russian_Короли Ночи_Говард Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e4b86da2896810d84d68b5a9b9cba1c

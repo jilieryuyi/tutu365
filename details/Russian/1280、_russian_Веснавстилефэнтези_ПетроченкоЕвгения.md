@@ -8,7 +8,7 @@
 1280、_russian_Весна в стиле фэнтези_Петроченко Евгения Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 59a714ebdfd2e0d2dc62d1965dd4236b

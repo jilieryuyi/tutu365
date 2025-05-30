@@ -8,7 +8,7 @@
 10914、_russian_Новые надежды для мертвецов_Уилфорд Чарлз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f68ee335da18ef7225f34d9e92a5fb7c

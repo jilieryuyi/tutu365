@@ -8,7 +8,7 @@
 12641、_russian_Форпост_Прус Болеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb13d03164407d6512b7784019a83d8c

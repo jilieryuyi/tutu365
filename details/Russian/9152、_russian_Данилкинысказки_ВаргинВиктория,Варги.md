@@ -8,7 +8,7 @@
 9152、_russian_Данилкины сказки_Варгин Виктория, Варгин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c405b089dc033582dafed40b067903a

@@ -8,7 +8,7 @@
 10497、_russian_Гидравлическое государство_Фейгин Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7b25618a0b670b3898cee4e6d726a08

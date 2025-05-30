@@ -8,7 +8,7 @@
 344、一学就会的经济学_张彩彩 & SoBooKs.cc 于富荣 [于富荣, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3c7fb43882176bde70f0fbe2e0e398df

@@ -8,7 +8,7 @@
 14521、_english_Smuggler's Lady_Jane Feather_Kensington Publishing Corp..mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a105e5ff39acd98ba7ddcefae38702dd

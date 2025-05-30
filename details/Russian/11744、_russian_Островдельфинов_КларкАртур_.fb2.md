@@ -8,7 +8,7 @@
 11744、_russian_Остров дельфинов_Кларк Артур_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dcd5ea99408e890e781829d21856bb8

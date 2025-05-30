@@ -8,7 +8,7 @@
 13593、_russian_Лили (Том 2)_Гэфни Патриция_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7113073b81a95472140e9ed4383d3842

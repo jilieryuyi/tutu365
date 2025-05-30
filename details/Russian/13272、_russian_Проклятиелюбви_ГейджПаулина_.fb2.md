@@ -8,7 +8,7 @@
 13272、_russian_Проклятие любви_Гейдж Паулина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f4b220a863f898b753b83e3c96d1bc8e

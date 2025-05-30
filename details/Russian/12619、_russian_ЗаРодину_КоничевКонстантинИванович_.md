@@ -8,7 +8,7 @@
 12619、_russian_За Родину_Коничев Константин Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 118281258214f8f4b5c6c8f6bcc5c856

@@ -8,7 +8,7 @@
 17251、_french_L'ignorance et l'irréflexion _ Essai de psychologie objective_Louis Gérard-Varet_Félix Alcan.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 acdce2e214dcec3392ac8a689e756b6e

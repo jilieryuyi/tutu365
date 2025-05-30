@@ -8,7 +8,7 @@
 13734、_russian_Тайна осенней звезды_Тихонова Карина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 539354fdd965225ece10b9315c052f34

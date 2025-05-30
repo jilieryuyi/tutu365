@@ -8,7 +8,7 @@
 2222、_russian_Группа особого резерва_Нестеров Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cef30c9cee7a117fc743ddb837eca13

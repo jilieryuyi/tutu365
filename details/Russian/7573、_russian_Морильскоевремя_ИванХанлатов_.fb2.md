@@ -8,7 +8,7 @@
 7573、_russian_Морильское время_Иван Ханлатов_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2ae11c2f617acf00ec9b0dee60b32ffa

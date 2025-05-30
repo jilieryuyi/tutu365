@@ -8,7 +8,7 @@
 1364、_russian_Туманы сентября_Белоглазов Артем_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4dd9ecb92b62dbecb98415d78d28d70e

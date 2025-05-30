@@ -8,7 +8,7 @@
 960、资治通鉴 胡三省注版_（宋）司马光 著 _ 胡三省 注_epub掌上书苑.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6460d85066301deffb409f66be387cc4

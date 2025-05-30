@@ -8,7 +8,7 @@
 14159、_russian_Поездка за наследством_Ламур Луис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2d8259cfc5049f4842e6807236412082

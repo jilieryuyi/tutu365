@@ -8,7 +8,7 @@
 1579、_russian_Случай в боевом вылете_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 81258ca463e15f52f42a48eee3bf10ca

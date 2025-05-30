@@ -8,7 +8,7 @@
 12280、_russian_Сапер_Миксон Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 83447af29a1a807929fe8002aecafb49

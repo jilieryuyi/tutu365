@@ -8,7 +8,7 @@
 12817、_russian_Ящер с планеты Моз_Купер Эдмунд_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 af85c33e60b9fe53bb7c6c669d202ac8

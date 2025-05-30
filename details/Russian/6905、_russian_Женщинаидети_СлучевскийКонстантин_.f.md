@@ -8,7 +8,7 @@
 6905、_russian_Женщина и дети_Случевский Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 352d56b1b7be241597524e18a3853a68

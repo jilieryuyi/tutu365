@@ -8,7 +8,7 @@
 12770、_russian_Пир вампиров_Пясецки Джерри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4a63095b42fe58b37faa6b97b219776e

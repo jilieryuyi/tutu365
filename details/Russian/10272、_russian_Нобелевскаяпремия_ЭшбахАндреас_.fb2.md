@@ -8,7 +8,7 @@
 10272、_russian_Нобелевская премия_Эшбах Андреас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f6eebaa79a5291302af4c3f7a4f5e2e6

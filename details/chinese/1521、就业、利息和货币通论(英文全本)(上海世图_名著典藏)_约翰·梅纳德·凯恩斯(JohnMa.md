@@ -8,7 +8,7 @@
 1521、就业、利息和货币通论(英文全本) (上海世图_名著典藏)_约翰·梅纳德·凯恩斯 (John Maynard Keynes)_世界图书出版公司.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7ee88d572c34999d85e3bac3589eaef0

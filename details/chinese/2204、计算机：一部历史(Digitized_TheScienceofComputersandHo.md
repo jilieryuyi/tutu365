@@ -8,7 +8,7 @@
 2204、计算机：一部历史  (Digitized_ The Science of Computers and How It Shapes Our World)_彼得_本特利（Peter J. Bentley）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ddb23acde20f0a747ec27cca5aafe3d9

@@ -8,7 +8,7 @@
 11882、_russian_Огненный вихрь_Бьянчин Хелен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8da8f76a33000f4e087800853b1432e1

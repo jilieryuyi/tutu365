@@ -8,7 +8,7 @@
 1080、_russian_Звездные корабли_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5d0d7821a5a0c7826615d03680b0da40

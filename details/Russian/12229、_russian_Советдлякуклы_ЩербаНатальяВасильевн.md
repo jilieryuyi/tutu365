@@ -8,7 +8,7 @@
 12229、_russian_Совет для куклы_Щерба Наталья Васильевна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f746bf64ca3cc18e1a77131f805fe8d

@@ -8,7 +8,7 @@
 2811、_russian_Ватерлоо Шарпа_Корнуэлл Бернард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed22a3c5ed7ef8f51153e8370eedd957

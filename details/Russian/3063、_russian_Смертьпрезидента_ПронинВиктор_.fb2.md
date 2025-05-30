@@ -8,7 +8,7 @@
 3063、_russian_Смерть президента_Пронин Виктор_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 caa87a57a719e7896b02f8197daba511

@@ -8,7 +8,7 @@
 8137、_russian_Все Грани мира_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a53d696a1ada16812a4b140cc3afce9c

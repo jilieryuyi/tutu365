@@ -8,7 +8,7 @@
 11120、_russian_О себе_Лондон Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 332c44e43f116340ec7fcf90ea94def6

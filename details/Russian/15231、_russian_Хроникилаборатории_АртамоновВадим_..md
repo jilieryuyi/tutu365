@@ -8,7 +8,7 @@
 15231、_russian_Хроники лаборатории_Артамонов Вадим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2093296683c9854bf6d5fb2278042d9a

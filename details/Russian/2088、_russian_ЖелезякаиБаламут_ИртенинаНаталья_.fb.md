@@ -8,7 +8,7 @@
 2088、_russian_Железяка и Баламут_Иртенина Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 12582874aa0278479810977fc9de4a29

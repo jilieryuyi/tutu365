@@ -8,7 +8,7 @@
 S._J.J.艾布拉姆斯 & 道格·道斯特__5488000_64e26366f05f8d8a859df931d591e460.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 64e26366f05f8d8a859df931d591e460

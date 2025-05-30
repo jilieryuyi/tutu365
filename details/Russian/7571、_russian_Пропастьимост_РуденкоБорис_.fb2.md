@@ -8,7 +8,7 @@
 7571、_russian_Пропасть и мост_Руденко Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aabb8add1aef551fa5e830d92ce7ca3e

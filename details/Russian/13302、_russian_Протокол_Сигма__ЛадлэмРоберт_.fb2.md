@@ -8,7 +8,7 @@
 13302、_russian_Протокол _Сигма__Ладлэм Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c13b38343bda260b4cfcfa6078bc2cb5

@@ -8,7 +8,7 @@
 15310、_english_Promethea Vol. 1 (1-12)_Alan Moore_America's Best Comics_WildStorm.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 59feb3161656cee83fdce45277722ddd

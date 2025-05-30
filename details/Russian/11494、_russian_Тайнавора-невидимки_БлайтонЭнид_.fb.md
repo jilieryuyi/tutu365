@@ -8,7 +8,7 @@
 11494、_russian_Тайна вора-невидимки_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f711342bef717ed7c76149d0a90b46a4

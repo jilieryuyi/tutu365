@@ -8,7 +8,7 @@
 3802、_russian_STIGMATA_Кобылинский Л. Л._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 659fb7b362b723a9e6269b0f003a924e

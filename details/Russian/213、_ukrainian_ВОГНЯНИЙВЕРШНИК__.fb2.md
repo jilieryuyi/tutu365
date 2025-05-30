@@ -8,7 +8,7 @@
 213、_ukrainian_ВОГНЯНИЙ ВЕРШНИК__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0417ded6f947ed34be000da3a32135f7

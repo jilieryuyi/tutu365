@@ -8,7 +8,7 @@
 9008、_russian_Господин Лянми Часть первая_Подымов Владлен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 350548779c41d84ab87f11b9401b82a0

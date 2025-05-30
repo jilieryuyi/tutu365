@@ -8,7 +8,7 @@
 2846、_russian_Через межу_Бажов Павел Петрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9f6d1a3822629aa9d64d4aa23ddb0ed

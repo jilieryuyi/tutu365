@@ -8,7 +8,7 @@
 8920、_russian_Предатель_Дивов Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe1450cdad9bf1d1f941a8e63eaf6952

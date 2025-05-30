@@ -8,7 +8,7 @@
 7265、_russian_В поисках Синей Птицы или Сага о первой любви_Черемнова Тамара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ec48af2f1d2ad53fb53672072fefa6d

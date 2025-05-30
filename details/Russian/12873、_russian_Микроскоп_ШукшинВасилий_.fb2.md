@@ -8,7 +8,7 @@
 12873、_russian_Микроскоп_Шукшин Василий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 afac17a0444e976b7f3d6ae2e3ebfc43

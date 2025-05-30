@@ -8,7 +8,7 @@
 第一本DOCKER书.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d3e0c0467a86a5abcfaa19c0c062ca2f

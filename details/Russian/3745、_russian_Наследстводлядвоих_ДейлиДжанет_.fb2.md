@@ -8,7 +8,7 @@
 3745、_russian_Наследство для двоих_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bddca4bfe71cd12de06c0ec3a4fda253

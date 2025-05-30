@@ -8,7 +8,7 @@
 2494、_russian_Причуда_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b1f1e5a2f214256354c9c3d47ad4f8f3

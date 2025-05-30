@@ -8,7 +8,7 @@
 1061、_russian_Золотые сердца с червоточинкой_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 01b115094977f83b2b4b1c2f5aa353d1

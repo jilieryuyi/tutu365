@@ -8,7 +8,7 @@
 13149、_russian_Причесывая жирафу_Сан-Антонио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5054601136eb11e4f20b0045c0e0f26f

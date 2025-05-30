@@ -8,7 +8,7 @@
 哥德尔、艾舍尔、巴赫——集异璧之大成(kindle彩图文字版)_psycli@163.com [psycli@163.com]__5287972_3d0eef3a6f579ca5a840b16d1dc6426f.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3d0eef3a6f579ca5a840b16d1dc6426f

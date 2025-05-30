@@ -8,7 +8,7 @@
 13955、_russian_Мое безрассудное сердце_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac713ca3bfaecdf22bd6442c6d0a3968

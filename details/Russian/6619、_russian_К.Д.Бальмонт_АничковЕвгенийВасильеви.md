@@ -8,7 +8,7 @@
 6619、_russian_К. Д. Бальмонт_Аничков Евгений Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8e9d7a11a758d0ed0b1644a445ae88a5

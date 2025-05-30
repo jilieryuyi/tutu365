@@ -8,7 +8,7 @@
 13662、_russian_Дверь в Пасти Дракона_Перетти Фрэнк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1421df49af572e739520033bec29d66d

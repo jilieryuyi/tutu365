@@ -8,7 +8,7 @@
 8982、_english_Love's Promise_Cheryl Holt_BookBaby.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 b2a0395f11d6a0f286841b48e4766d48

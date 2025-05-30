@@ -8,7 +8,7 @@
 4968、_russian_Месть смотрящего_Сухов Евгений Евгеньевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 61071b66b35451bbf8dd714a75efde0a

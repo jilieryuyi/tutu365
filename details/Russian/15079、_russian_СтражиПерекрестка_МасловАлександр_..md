@@ -8,7 +8,7 @@
 15079、_russian_Стражи Перекрестка_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbb53f9a9ae4c0e04c19e76a5965acef

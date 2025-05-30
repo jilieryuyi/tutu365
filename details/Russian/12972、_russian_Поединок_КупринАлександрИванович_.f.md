@@ -8,7 +8,7 @@
 12972、_russian_Поединок_Куприн Александр Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c21adbf6bc063cfbe9a203bdfe91505e

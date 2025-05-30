@@ -8,7 +8,7 @@
 2079、Oracle 从入门到精通 (软件开发视频大讲堂)_明日科技_清华大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 ad81eb0dd7994600ad12886785357078

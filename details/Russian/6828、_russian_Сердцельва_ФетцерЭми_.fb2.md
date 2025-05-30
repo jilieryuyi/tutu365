@@ -8,7 +8,7 @@
 6828、_russian_Сердце льва_Фетцер Эми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ccc4ce5560456a793b6095b46c9cda2

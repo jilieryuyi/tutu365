@@ -8,7 +8,7 @@
 700、交流与对抗：近代中日关系史论_Tags                _ lcsh_ Novel_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 a08a7af94c88bc57e23302f857a87f7c

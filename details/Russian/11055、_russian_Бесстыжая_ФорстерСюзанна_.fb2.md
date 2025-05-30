@@ -8,7 +8,7 @@
 11055、_russian_Бесстыжая_Форстер Сюзанна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b2dc3eed5f043424d7532100eb1166ae

@@ -8,7 +8,7 @@
 335、_russian_Три взгляда на часы_Ашкинази Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 783b23af67448ad4e358d681255f1b9d

@@ -8,7 +8,7 @@
 13641、_russian_Пожить в тени баобабов_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c02ee81404eaef2322a590150a3820f

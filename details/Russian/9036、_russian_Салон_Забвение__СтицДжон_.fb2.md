@@ -8,7 +8,7 @@
 9036、_russian_Салон _Забвение__Стиц Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 072eabf13a9c9ef9fd971aa1d4e48498

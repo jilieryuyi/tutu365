@@ -8,7 +8,7 @@
 10177、_russian_Степь. Бронзовая чеканка._Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b9995bd6d41afa650e92138de18787cd

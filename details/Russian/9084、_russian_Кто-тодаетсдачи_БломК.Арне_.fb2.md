@@ -8,7 +8,7 @@
 9084、_russian_Кто-то дает сдачи_Блом К. Арне_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf6be2c292537119b50e6e7af0b1fb78

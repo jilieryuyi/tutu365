@@ -8,7 +8,7 @@
 13081、_russian_Грааль_Эллисон Харлан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 06bdcf489a862f3d330d45c6e64fda79

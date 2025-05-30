@@ -8,7 +8,7 @@
 1074、党卫军秘密档案：东线 (二战纪实书系)_伊恩·巴克斯特（Ian Baxter）_大象出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 def55e8d51525bf377afd305caddb8cb

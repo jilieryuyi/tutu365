@@ -8,7 +8,7 @@
 7374、_english_Maximum Ride_ The Angel Experiment_Patterson James_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4bc7f6aabf5c6ea16cf43edd76813355

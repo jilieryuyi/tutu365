@@ -8,7 +8,7 @@
 1942、_russian__Физический минимум_ на начало XXI века_Гинзбург Виталий Лазаревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee407c3121b1b12146feb866585fae4f

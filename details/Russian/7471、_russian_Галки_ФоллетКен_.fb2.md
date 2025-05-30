@@ -8,7 +8,7 @@
 7471、_russian_Галки_Фоллет Кен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 24794fa14b5cde4a26818f06cc7fede4

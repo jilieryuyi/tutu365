@@ -8,7 +8,7 @@
 11519、_russian_Отвергнутый жених_Джеффрис Сабрина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b66789cc9270c03cafc3f114fe5f601

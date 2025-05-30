@@ -8,7 +8,7 @@
 13136、_russian_На Дальнем Западе_Гофман Отто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 18d4262e050b0ee1953086af612687b1

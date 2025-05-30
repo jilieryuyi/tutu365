@@ -8,7 +8,7 @@
 11000、_russian_От Бреста до Мадеры_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1f42a2b959b85d1a6aa01b0ba645c3a4

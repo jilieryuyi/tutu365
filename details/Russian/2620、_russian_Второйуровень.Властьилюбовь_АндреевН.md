@@ -8,7 +8,7 @@
 2620、_russian_Второй уровень. Власть и любовь_Андреев Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5fd4f16d74cb05a36af285374b9d7b39

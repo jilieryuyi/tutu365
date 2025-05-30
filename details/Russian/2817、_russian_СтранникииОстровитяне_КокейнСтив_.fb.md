@@ -8,7 +8,7 @@
 2817、_russian_Странники и Островитяне_Кокейн Стив_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7dcbf74cd8854e64536548917b4a157d

@@ -8,7 +8,7 @@
 第02章 Java编程环境.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 dfd48d4834bdd3ecd924dd7fb4935b42

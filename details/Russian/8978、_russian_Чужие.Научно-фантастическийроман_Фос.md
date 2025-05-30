@@ -8,7 +8,7 @@
 8978、_russian_Чужие. Научно-фантастический роман_Фостер Алан Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fc0d6332ff414de9eb53e3098edcba4c

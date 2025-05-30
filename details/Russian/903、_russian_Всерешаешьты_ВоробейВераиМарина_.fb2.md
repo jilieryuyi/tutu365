@@ -8,7 +8,7 @@
 903、_russian_Все решаешь ты_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e6e092683c7b6cc54409ded8acaf4949

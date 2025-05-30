@@ -8,7 +8,7 @@
 4306、_russian_Чародейная чаша_Сологуб (Тетерников) Федор Кузьмич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec223919912cfa2e74d34d35d9c35c3d

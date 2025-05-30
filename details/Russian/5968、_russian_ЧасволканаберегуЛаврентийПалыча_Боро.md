@@ -8,7 +8,7 @@
 5968、_russian_Час волка на берегу Лаврентий Палыча_Боровиков Игорь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cd5a844b7335122cb1144ae8ddbc5c6

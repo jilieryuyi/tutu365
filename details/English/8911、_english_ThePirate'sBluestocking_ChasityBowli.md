@@ -8,7 +8,7 @@
 8911、_english_The Pirate's Bluestocking_Chasity Bowlin_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 165e60dd539efdaac7c09e50b1d43e82

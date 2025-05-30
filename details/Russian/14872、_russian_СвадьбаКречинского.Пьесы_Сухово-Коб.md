@@ -8,7 +8,7 @@
 14872、_russian_Свадьба Кречинского. Пьесы_Сухово-Кобылин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8b76fcbe174d8f4445cc238eda2f41b4

@@ -8,7 +8,7 @@
 10496、_russian_Баллада о космических _ушельцах__Арефьев Алексей, Фомин Лев_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f0b63c67985cfd6a49fd95e5c91f10d7

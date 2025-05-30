@@ -8,7 +8,7 @@
 8778、_russian_Алмазная труба_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 924c7aee3da562a55b61b966e3e96e1c

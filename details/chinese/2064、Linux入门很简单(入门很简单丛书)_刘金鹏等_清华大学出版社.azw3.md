@@ -8,7 +8,7 @@
 2064、Linux入门很简单 (入门很简单丛书)_刘金鹏 等_清华大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 e46cdf71d715985779abeb3299b376e4

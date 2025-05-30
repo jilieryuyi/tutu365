@@ -8,7 +8,7 @@
 13450、_russian_Мозг_Майринк Густав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e8967e37ceb26b10a247b12d887227a3

@@ -8,7 +8,7 @@
 10967、_russian_Когда я умирала_Фолкнер Уильям_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3eff96e6aa008920706e4e54008d1b20

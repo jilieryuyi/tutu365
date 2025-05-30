@@ -8,7 +8,7 @@
 2093、Python科学计算(第2版)_张若愚_清华大学出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 8bb9dcf1954718cba52f35927a75d22a

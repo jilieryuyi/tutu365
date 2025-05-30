@@ -8,7 +8,7 @@
 7627、_russian_Тайны острова Пасхи_Арманди Андрэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 833b241868fe1c4097aaf326863e1c45

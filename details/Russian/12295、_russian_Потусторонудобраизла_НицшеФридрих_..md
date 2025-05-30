@@ -8,7 +8,7 @@
 12295、_russian_По ту сторону добра и зла_Ницше Фридрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 658ce56047fb8083a4c2297e31a5e744

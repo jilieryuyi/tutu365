@@ -8,7 +8,7 @@
 6195、_russian_Туристические ножи_Прорез Журнал, Воловик Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6235e3a07de5759d300b0f005e7adc03

@@ -8,7 +8,7 @@
 12658、_russian_Чопик, или Случай в аптеке_Самухина Неонилла_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 127576f6f2133c2f0577265c7206ade0

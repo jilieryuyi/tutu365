@@ -8,7 +8,7 @@
 12309、_russian_Красное вино Победы_Носов Евгений Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea6ecba15d9015936bb2e633fd3d492e

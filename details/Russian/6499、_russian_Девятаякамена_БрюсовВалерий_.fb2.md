@@ -8,7 +8,7 @@
 6499、_russian_Девятая камена_Брюсов Валерий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89e81c1090e827cd345886b4421b3614

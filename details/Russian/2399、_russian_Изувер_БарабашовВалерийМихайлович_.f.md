@@ -8,7 +8,7 @@
 2399、_russian_Изувер_Барабашов Валерий Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1773125fe5d31266c8c1382c351be0b3

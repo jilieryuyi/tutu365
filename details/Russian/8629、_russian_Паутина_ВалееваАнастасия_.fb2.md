@@ -8,7 +8,7 @@
 8629、_russian_Паутина_Валеева Анастасия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa9ef28a3a20448966a4da4f196edc1a

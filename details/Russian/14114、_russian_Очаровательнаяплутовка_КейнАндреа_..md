@@ -8,7 +8,7 @@
 14114、_russian_Очаровательная плутовка_Кейн Андреа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac2626d63fb7a64a3aaab42e8f1128d1

@@ -8,7 +8,7 @@
 C++文件操作.docx.docx
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 94ab77d7ad04b57f5f8982d52fa58ce5

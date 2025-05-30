@@ -8,7 +8,7 @@
 266、野性之美 (图说天下·透过镜头系列)_Publisher           _ 吉林出版集团有限责任公司_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 464dccfaf0fe298b1cec61e03d2b68f7

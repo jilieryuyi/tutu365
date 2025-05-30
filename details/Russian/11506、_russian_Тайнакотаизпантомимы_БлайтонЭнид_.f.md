@@ -8,7 +8,7 @@
 11506、_russian_Тайна кота из пантомимы_Блайтон Энид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28cb81c6f7b12c4315705107bbc97018

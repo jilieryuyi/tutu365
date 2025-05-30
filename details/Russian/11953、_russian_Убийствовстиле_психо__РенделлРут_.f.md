@@ -8,7 +8,7 @@
 11953、_russian_Убийство в стиле _психо__Ренделл Рут_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1874d921addabfa1ebbea9960a6a8114

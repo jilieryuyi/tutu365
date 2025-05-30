@@ -8,7 +8,7 @@
 8874、_russian_Мятеж. Революция. Религиозность._Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da2e4e39a6d2c2436942edcf1c6e5afa

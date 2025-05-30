@@ -8,7 +8,7 @@
 2866、_russian_Бородинская мадонна_Хафизов Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97e2a317839d0e94856adf94bea245e3

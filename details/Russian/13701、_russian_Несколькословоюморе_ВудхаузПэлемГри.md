@@ -8,7 +8,7 @@
 13701、_russian_Несколько слов о юморе_Вудхауз Пэлем Гринвел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e9a30a1d332525a84f9b676442d0309d

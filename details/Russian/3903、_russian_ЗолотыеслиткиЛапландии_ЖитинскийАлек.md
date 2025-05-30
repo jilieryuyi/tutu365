@@ -8,7 +8,7 @@
 3903、_russian_Золотые слитки Лапландии_Житинский Александр Николаевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b568b44a64a7da84d0ca562446fa6f98

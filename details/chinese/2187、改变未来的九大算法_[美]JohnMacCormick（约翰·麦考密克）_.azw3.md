@@ -8,7 +8,7 @@
 2187、改变未来的九大算法_[美]John MacCormick（约翰·麦考密克）_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f6294e70b2960bd1ee27dc4a72ae6f7e

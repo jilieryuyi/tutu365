@@ -8,7 +8,7 @@
 12054、_russian_Меморандум Квиллера_Холл Адам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2f5166ae87d0c08cc018ffa3481c776

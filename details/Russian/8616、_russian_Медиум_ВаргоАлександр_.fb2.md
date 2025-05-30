@@ -8,7 +8,7 @@
 8616、_russian_Медиум_Варго Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ec3b03659653782c6dc136fa5e36e135

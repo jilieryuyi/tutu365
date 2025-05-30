@@ -8,7 +8,7 @@
 2283、_english_The Duke's Suspicion_Susanna Craig_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 330b20717e8da40293b931fc7262750b

@@ -8,7 +8,7 @@
 7537、_russian_На том берегу_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2a0fb84aa33cb16e3832076076244698

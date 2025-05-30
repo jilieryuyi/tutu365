@@ -8,7 +8,7 @@
 13496、_russian_Гувернантка_Лэннинг Салли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5e64fec6fabb7885d578175f2585c48

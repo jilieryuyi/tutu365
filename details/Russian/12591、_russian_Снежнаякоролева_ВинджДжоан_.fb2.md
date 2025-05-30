@@ -8,7 +8,7 @@
 12591、_russian_Снежная королева_Виндж Джоан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 beaf3f612604b1fc4e470d8f810c7a1a

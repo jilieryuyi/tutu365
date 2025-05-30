@@ -8,7 +8,7 @@
 3391、_russian_Белый конус Алаида_Стругацкие Аркадий и Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 558708c513a06b8d8ab6f9ea302d434c

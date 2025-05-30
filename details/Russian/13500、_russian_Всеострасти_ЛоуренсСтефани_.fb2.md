@@ -8,7 +8,7 @@
 13500、_russian_Все о страсти_Лоуренс Стефани_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fbd1db6e4979a5d2eecc94475409ef40

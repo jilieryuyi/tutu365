@@ -8,7 +8,7 @@
 14851、_russian_Собчачье сердце_Шутов Юрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 48d9d2785d504471582598a443339f8b

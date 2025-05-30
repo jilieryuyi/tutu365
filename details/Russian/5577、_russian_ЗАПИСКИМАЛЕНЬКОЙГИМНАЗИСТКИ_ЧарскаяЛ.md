@@ -8,7 +8,7 @@
 5577、_russian_ЗАПИСКИ МАЛЕНЬКОЙ ГИМНАЗИСТКИ_Чарская Лилия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c80d2cdc2867dea4b72df3fa96bb374c

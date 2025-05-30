@@ -8,7 +8,7 @@
 28、_english_Незабываемая прогулка_Спаркс Николас_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 28ad9f53130d22a29a5c94a8535d46d5

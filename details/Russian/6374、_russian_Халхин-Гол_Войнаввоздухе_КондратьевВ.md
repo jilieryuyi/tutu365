@@ -8,7 +8,7 @@
 6374、_russian_Халхин-Гол_ Война в воздухе_Кондратьев Вячеслав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d295b6de5594b1b232b38a0245deb8c3

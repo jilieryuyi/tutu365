@@ -8,7 +8,7 @@
 11750、_russian_Золотой фараон_Брукнер Карл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3742710f795da69500c440fa3c8b48d8

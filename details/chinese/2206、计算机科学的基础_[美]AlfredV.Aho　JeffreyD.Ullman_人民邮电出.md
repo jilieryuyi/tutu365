@@ -8,7 +8,7 @@
 2206、计算机科学的基础_[美] Alfred V.Aho　Jeffrey D.Ullman_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 fd28d2294842dc207ccf3d0c8ed5eeb6

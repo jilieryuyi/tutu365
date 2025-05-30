@@ -8,7 +8,7 @@
 2086、_russian_Красные пески_Калугин Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3700d9e5919ea558187c4c80fb7f975a

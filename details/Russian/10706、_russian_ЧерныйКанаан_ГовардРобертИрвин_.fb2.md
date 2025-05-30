@@ -8,7 +8,7 @@
 10706、_russian_Черный Канаан_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 043676c1885d908bc477d4c0dcd3988d

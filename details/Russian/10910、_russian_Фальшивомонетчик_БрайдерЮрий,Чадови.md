@@ -8,7 +8,7 @@
 10910、_russian_Фальшивомонетчик_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e03d4c83cefd25fcf19b888c01121a0

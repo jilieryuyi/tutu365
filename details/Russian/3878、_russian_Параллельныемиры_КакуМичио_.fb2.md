@@ -8,7 +8,7 @@
 3878、_russian_Параллельные миры_Каку Мичио_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6228b65aac9805666c4dff87e41f68d5

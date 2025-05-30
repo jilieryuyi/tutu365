@@ -8,7 +8,7 @@
 12016、_russian_Темная сторона луны_Карр Джон Диксон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cca1bad2cf402149570af496a122f2ac

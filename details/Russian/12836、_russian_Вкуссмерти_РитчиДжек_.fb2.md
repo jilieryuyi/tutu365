@@ -8,7 +8,7 @@
 12836、_russian_Вкус смерти_Ритчи Джек_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7f00435b14aad802b7af38be7d6a63df

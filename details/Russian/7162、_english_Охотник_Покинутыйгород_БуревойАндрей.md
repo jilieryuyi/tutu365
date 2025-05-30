@@ -8,7 +8,7 @@
 7162、_english_Охотник_ Покинутый город_Буревой Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8d8d849384dd43c586d806673c3299fd

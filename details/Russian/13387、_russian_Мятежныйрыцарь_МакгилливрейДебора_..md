@@ -8,7 +8,7 @@
 13387、_russian_Мятежный рыцарь_Макгилливрей Дебора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1fa64e2024f74dec781bb037bd396ade

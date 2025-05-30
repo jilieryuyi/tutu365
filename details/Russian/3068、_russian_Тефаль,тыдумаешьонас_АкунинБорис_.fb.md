@@ -8,7 +8,7 @@
 3068、_russian_Тефаль, ты думаешь о нас_Акунин Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6f9ef1b183e33319e8b4e7b831ec8b31

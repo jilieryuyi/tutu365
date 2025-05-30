@@ -8,7 +8,7 @@
 3746、_russian_Его непокорная невеста_Брэдли Шелли_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 057554476dd5171febec3755e5975a6e

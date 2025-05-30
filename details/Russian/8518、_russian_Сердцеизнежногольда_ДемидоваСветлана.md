@@ -8,7 +8,7 @@
 8518、_russian_Сердце из нежного льда_Демидова Светлана_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 99771315c0ea3b565b42db9209bc25f6

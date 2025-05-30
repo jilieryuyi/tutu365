@@ -8,7 +8,7 @@
 1108、_russian_Умирал дракон_Бушков Александр Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 613663bf6f1d514286a6c24b6d8e174f

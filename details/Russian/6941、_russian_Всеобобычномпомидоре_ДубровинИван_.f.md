@@ -8,7 +8,7 @@
 6941、_russian_Все об обычном помидоре_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 acdccb401cfcf959b0efbae7ca966e3f

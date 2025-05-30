@@ -8,7 +8,7 @@
 11737、_russian_Дом на берегу_дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bc65987930ee8b4f098f663a732fddf

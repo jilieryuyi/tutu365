@@ -8,7 +8,7 @@
 4259、_russian_Смертельный дубль_Стаут Рекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dab5c2362c7396b4f9e70ffd7b27d87f

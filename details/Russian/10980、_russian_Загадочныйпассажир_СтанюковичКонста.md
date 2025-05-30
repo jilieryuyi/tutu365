@@ -8,7 +8,7 @@
 10980、_russian_Загадочный пассажир_Станюкович Константин Михайлович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ca639c959d621e60a3f90fed318cafdd

@@ -8,7 +8,7 @@
 2375、_russian_Капитан Соври-голова_Медведев Валерий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9dd105217b7c3fff5050e6c10794d6d7

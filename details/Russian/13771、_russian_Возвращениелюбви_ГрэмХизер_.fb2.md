@@ -8,7 +8,7 @@
 13771、_russian_Возвращение любви_Грэм Хизер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0073fda27c673e33768d0fb9a2940113

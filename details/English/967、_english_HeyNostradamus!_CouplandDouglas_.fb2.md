@@ -8,7 +8,7 @@
 967、_english_Hey Nostradamus!_Coupland Douglas_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f29ab5fc0ad87de5f2ce5324e7c8b157

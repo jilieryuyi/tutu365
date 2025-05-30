@@ -8,7 +8,7 @@
 8447、_ukrainian_Ц_кав_ досл_ди_Подерв’янський. Лесь_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5cbf28ca9277aa0e2ef77ad07f627609

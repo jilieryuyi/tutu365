@@ -8,7 +8,7 @@
 792、_russian_УБИТЬ ДРАКОНА_КОРНЕВ Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5757533d0c70095b1e3e36fd67858f41

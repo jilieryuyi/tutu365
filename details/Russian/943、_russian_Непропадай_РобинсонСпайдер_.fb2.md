@@ -8,7 +8,7 @@
 943、_russian_Не пропадай_Робинсон Спайдер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 86c54dc0dbeda32d3e7a11f9f6e77e44

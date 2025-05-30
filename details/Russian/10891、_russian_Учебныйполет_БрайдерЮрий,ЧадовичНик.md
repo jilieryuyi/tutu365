@@ -8,7 +8,7 @@
 10891、_russian_Учебный полет_Брайдер Юрий, Чадович Николай_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 faa607de54b1d0174bd58daa3614be3e

@@ -8,7 +8,7 @@
 7622、_russian_Любовь к трем апельсинам_Гоцци Карло_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 927b0fb32f3766ef22bbefacd5109ea5

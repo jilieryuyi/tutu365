@@ -8,7 +8,7 @@
 155、数学不简单：从《最强大脑》发现思维乐趣_SoBooKs.cc & 吴悦辰_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 caf908b9272dcd61cbe8e3383637a091

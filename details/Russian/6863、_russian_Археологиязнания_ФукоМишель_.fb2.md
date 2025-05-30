@@ -8,7 +8,7 @@
 6863、_russian_Археология знания_Фуко Мишель_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5eef0d4a0164c640aabd9e856e59a3c8

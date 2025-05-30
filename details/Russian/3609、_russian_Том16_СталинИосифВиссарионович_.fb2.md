@@ -8,7 +8,7 @@
 3609、_russian_Том 16_Сталин Иосиф Виссарионович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d89568142cd2d283f0f09fc732ca245d

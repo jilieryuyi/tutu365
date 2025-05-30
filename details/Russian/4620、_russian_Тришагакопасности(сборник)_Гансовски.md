@@ -8,7 +8,7 @@
 4620、_russian_Три шага к опасности (сборник)_Гансовский Север Феликсович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15c5e23d8bfe5d7263e45b02490ad23e

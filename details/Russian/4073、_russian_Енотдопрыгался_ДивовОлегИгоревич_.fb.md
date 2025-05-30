@@ -8,7 +8,7 @@
 4073、_russian_Енот допрыгался_Дивов Олег Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 32070069d04e298c69057165fa0bee34

@@ -8,7 +8,7 @@
 4098、_russian_Похищение журналиста_Шведов Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0fa90aab201a63c31d24b526fff8f1c6

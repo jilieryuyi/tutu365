@@ -8,7 +8,7 @@
 8214、_russian_История земли и жизни на ней_Еськов Кирилл Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 36960c31f7ed9920aa69b99c41a56f05

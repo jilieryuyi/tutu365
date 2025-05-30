@@ -8,7 +8,7 @@
 6104、_russian_Cor ardens_Иванов Вячеслав Иванович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5c18266fbfea490c9171a84460516b6a

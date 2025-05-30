@@ -8,7 +8,7 @@
 268、_russian_Голос бамбука, цветок персика_Кавабата Ясунари_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5f358e2d27c9e7ec026ad391a3cd1568

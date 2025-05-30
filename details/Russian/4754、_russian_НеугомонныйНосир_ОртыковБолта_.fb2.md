@@ -8,7 +8,7 @@
 4754、_russian_Неугомонный Носир_Ортыков Болта_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d3d5de186e52346ce14a17621209c145

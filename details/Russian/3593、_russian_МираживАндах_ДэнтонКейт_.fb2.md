@@ -8,7 +8,7 @@
 3593、_russian_Миражи в Андах_Дэнтон Кейт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 031524a3099f2d6b18761de356736399

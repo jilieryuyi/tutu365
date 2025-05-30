@@ -8,7 +8,7 @@
 8796、_russian_Жажда сердца_Дейн Люси_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e57e76806563fd6fafd21c97431ffaaf

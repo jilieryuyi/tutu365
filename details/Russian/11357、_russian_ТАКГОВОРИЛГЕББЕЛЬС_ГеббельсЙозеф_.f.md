@@ -8,7 +8,7 @@
 11357、_russian_ТАК ГОВОРИЛ ГЕББЕЛЬС_Геббельс Йозеф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c5eac852426ccc1f7b53dacc8a492bce

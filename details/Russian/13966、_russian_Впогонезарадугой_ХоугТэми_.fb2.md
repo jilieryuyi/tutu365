@@ -8,7 +8,7 @@
 13966、_russian_В погоне за радугой_Хоуг Тэми_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de4bfaf59931730d3b0f040e34688645

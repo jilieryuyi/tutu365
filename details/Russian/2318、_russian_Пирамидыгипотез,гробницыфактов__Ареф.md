@@ -8,7 +8,7 @@
 2318、_russian_Пирамиды гипотез, гробницы фактов__Арефьев Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cfbb72ef0e76456d75de7c9428f23d2c

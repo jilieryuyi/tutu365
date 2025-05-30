@@ -8,7 +8,7 @@
 10548、_russian_Ива Джима_Юрьенен Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e17164847f2dd71e3f956c3afe13d712

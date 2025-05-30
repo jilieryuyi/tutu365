@@ -8,7 +8,7 @@
 7202、_russian_Осколки судеб_Плейн Белва_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6d9dc62612a2b3460089fcfe59dee2aa

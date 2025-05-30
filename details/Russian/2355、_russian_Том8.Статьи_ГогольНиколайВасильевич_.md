@@ -8,7 +8,7 @@
 2355、_russian_Том 8. Статьи_Гоголь Николай Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cdb6498a9983280b141f32e9b0936958

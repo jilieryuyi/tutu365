@@ -8,7 +8,7 @@
 11783、_russian_Проводник_Вартанов Степан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b03ce4928d018501f5b15b151c8762af

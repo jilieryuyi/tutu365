@@ -8,7 +8,7 @@
 14538、_russian_Колдун_Лазарчук Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c0b096d59375ade007aac59c5d74e045

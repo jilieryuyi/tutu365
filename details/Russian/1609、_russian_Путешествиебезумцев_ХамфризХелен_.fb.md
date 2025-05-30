@@ -8,7 +8,7 @@
 1609、_russian_Путешествие безумцев_Хамфриз Хелен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 00c78bdd470c9f09da84eb569118727c

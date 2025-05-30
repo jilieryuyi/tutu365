@@ -8,7 +8,7 @@
 1085、_russian_Микроб без комплексов_Донцова Дарья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9260af676f0ec80196511294fa5ceda

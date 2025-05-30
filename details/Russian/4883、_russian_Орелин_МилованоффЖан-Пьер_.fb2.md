@@ -8,7 +8,7 @@
 4883、_russian_Орелин_Милованофф Жан-Пьер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ea272e0c017825a21f5f51676676de55

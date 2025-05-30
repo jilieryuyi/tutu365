@@ -8,7 +8,7 @@
 15175、_russian_К западу от октября_Брэдбери Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0f0174a08093d432a446e80d5778859f

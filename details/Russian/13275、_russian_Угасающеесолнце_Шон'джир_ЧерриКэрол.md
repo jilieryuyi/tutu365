@@ -8,7 +8,7 @@
 13275、_russian_Угасающее солнце_ Шон'джир_Черри Кэролайн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a07c9dbc56f162b5f1a746b430a4a45d

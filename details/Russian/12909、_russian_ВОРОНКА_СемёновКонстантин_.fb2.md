@@ -8,7 +8,7 @@
 12909、_russian_ВОРОНКА_Семёнов Константин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 44eae7b3fdecfa4cd6cce90943642ad2

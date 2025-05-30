@@ -8,7 +8,7 @@
 4626、_russian_Игра_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f3b2420a55a11319a3083f364f938332

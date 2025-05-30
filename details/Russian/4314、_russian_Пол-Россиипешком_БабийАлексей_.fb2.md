@@ -8,7 +8,7 @@
 4314、_russian_Пол-России пешком_Бабий Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6b50a401fc506589d2e51cef9edf556

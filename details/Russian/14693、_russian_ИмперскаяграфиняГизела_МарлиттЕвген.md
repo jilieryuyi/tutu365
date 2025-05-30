@@ -8,7 +8,7 @@
 14693、_russian_Имперская графиня Гизела_Марлитт Евгения_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b5b191991ba186cafd27956bcd564daf

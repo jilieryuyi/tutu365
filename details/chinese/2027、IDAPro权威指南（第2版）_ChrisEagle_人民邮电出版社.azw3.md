@@ -8,7 +8,7 @@
 2027、IDA Pro权威指南（第2版）_Chris Eagle_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 5db0635b07c6acb7a3c31dea80e40928

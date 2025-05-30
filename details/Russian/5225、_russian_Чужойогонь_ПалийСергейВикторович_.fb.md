@@ -8,7 +8,7 @@
 5225、_russian_Чужой огонь_Палий Сергей Викторович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0969d6f4992c88b16e203209e574006e

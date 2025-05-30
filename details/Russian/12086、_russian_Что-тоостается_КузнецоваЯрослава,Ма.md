@@ -8,7 +8,7 @@
 12086、_russian_Что-то остается_Кузнецова Ярослава, Малков Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5983a9eb285df6a05cc4b8238ee5c73d

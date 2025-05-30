@@ -8,7 +8,7 @@
 14102、_russian_Луна над Эдемом_Картленд Барбара_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c33dec4f4f7c6b196b02f011eae4f5f7

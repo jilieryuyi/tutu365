@@ -8,7 +8,7 @@
 10143、_russian_Досье на знаки зодиака_Эзотерика Автор неизвестен -_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dac0a315a1e17accbf34dd8c2b1e9108

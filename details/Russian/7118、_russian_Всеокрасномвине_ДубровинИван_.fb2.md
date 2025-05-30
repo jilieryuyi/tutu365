@@ -8,7 +8,7 @@
 7118、_russian_Все о красном вине_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b4f24490dc2c9ba8da230fd2775e5f32

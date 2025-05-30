@@ -8,7 +8,7 @@
 12372、_russian_Евпраксия_Загребельный Павел Архипович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89e1d3aab3adb451676a952a9162d426

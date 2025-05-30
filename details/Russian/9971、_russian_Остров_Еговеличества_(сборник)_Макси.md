@@ -8,7 +8,7 @@
 9971、_russian_Остров _Его величества_ (сборник)_Максимов Захар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aec17b546e24c148b8cc8c8faa66b4b9

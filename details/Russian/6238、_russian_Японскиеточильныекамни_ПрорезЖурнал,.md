@@ -8,7 +8,7 @@
 6238、_russian_Японские точильные камни_Прорез Журнал, Марьянко Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 15367bb5f8ffa1a72cbacb628a877dc1

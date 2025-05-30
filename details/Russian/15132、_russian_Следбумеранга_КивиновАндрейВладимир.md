@@ -8,7 +8,7 @@
 15132、_russian_След бумеранга_Кивинов Андрей Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e40eab9d9de9f74e3ec680087fe566b

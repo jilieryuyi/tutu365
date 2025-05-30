@@ -8,7 +8,7 @@
 7843、_russian_Линкор в нафталине_Гаррисон Гарри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 017df42c34d356d6f18f72e987502145

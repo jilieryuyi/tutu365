@@ -8,7 +8,7 @@
 8010、_russian_Хочу все сразу, или Без тормозов!_Шилова Юлия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7a0205359ce8014bda7c4175eada982

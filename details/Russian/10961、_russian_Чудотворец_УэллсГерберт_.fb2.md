@@ -8,7 +8,7 @@
 10961、_russian_Чудотворец_Уэллс Герберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3c228ce6c41398ec860d971abfa45bbe

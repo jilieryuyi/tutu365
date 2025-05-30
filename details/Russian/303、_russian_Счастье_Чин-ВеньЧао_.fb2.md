@@ -8,7 +8,7 @@
 303、_russian_Счастье_Чин-Вень Чао_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96bdd1fcc494755ac4cc9a054e0b4a94

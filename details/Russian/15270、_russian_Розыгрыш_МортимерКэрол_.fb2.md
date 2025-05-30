@@ -8,7 +8,7 @@
 15270、_russian_Розыгрыш_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e4892204d492912be302ca6f5bb6bcb

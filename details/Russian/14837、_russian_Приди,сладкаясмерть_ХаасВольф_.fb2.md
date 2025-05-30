@@ -8,7 +8,7 @@
 14837、_russian_Приди, сладкая смерть_Хаас Вольф_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6a56604cf2aad7027d0db297f52fd8d8

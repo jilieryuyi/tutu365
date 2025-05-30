@@ -8,7 +8,7 @@
 10028、_russian_Цветы магнолии_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e2b7a622c957b75cb008a1d57069f76a

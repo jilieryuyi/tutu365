@@ -8,7 +8,7 @@
 10824、_english_The Courtesan's Secret_Claudia Dain_Berkley Sensation.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 52e97b81853c26969aae17ec92c5e67f

@@ -8,7 +8,7 @@
 8694、_english_Skin Privilege_Slaughter Karin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 0cd3844a2edbd90573ba6d2183b370a2

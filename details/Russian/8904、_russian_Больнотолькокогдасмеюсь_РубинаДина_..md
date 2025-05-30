@@ -8,7 +8,7 @@
 8904、_russian_Больно только когда смеюсь_Рубина Дина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 adefa0453565568fd49258ba7e423a43

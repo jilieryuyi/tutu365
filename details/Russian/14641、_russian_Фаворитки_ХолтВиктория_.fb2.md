@@ -8,7 +8,7 @@
 14641、_russian_Фаворитки_Холт Виктория_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2c69de62f5506a93d4753ef533ad383f

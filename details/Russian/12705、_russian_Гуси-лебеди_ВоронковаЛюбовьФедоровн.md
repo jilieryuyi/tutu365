@@ -8,7 +8,7 @@
 12705、_russian_Гуси-лебеди_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b7dde167280cc229149f16f1d3ed7595

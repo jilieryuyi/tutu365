@@ -8,7 +8,7 @@
 15004、_russian_Причины увеличения производительности труда_Смит Адам_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd972749ff3b75cd61524bfe0f9a210c

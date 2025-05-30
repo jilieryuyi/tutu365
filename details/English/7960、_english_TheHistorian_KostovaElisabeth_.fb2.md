@@ -8,7 +8,7 @@
 7960、_english_The Historian_Kostova Elisabeth_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 cf8d0c1a5fb9562a8efc6d8f4368c8c8

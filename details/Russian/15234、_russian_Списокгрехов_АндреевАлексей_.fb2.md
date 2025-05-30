@@ -8,7 +8,7 @@
 15234、_russian_Список грехов_Андреев Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 14b1c3a6b13fc1661f4da0b678f6ee02

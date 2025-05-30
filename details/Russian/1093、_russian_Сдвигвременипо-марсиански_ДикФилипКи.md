@@ -8,7 +8,7 @@
 1093、_russian_Сдвиг времени по-марсиански_Дик Филип Киндред_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e5f1a9bcd4b12145e7fcffaee1f63684

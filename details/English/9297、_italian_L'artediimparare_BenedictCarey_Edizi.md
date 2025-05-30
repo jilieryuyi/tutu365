@@ -8,7 +8,7 @@
 9297、_italian_L'arte di imparare_Benedict Carey_Edizioni Mondadori.azw3.azw3
 
 ## 语言(language)
-English
+english
 
 ## MD5
 608ed00c83eccbbe0603e44c4bedb121

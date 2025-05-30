@@ -8,7 +8,7 @@
 12149、_english_The Duke's Dilemma (The Wolf Deceivers Book 2)_Elaine Manders & Elaine Manders [Manders, Elaine]_.azw3.azw3
 
 ## 语言(language)
-English
+english
 
 ## MD5
 553b62af44abfddbec12747e617baae7

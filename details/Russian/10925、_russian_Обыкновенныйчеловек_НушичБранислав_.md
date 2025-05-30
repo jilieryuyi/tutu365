@@ -8,7 +8,7 @@
 10925、_russian_Обыкновенный человек_Нушич Бранислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fc6089ad6ae457fbace1e95b0cb86fc

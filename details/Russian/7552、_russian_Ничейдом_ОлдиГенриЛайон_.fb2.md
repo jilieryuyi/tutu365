@@ -8,7 +8,7 @@
 7552、_russian_Ничей дом_Олди Генри Лайон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e1cc4c45e6558462f5fe1ca21bfe3b33

@@ -8,7 +8,7 @@
 10321、_russian_Ларец Лунной Девы_Солнцева Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 288053e5f45ed82aa195f899e0d83396

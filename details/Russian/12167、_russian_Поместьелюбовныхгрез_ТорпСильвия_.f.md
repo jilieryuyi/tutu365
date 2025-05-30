@@ -8,7 +8,7 @@
 12167、_russian_Поместье любовных грез_Торп Сильвия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1b88dd1c0ea48edc7aefbe72d51c3f64

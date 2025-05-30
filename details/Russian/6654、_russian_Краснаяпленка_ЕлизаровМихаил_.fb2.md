@@ -8,7 +8,7 @@
 6654、_russian_Красная пленка_Елизаров Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 141b53efeecbb6b5d8e2e7f1899fa7de

@@ -8,7 +8,7 @@
 8392、_russian_Лезвие бритвы (илл._ Н.Гришин)_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 55ade54816a0a8171ad490e6c11bb009

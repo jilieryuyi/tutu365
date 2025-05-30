@@ -8,7 +8,7 @@
 378、_russian_Река_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 da2f3f15feff609f51d1f0a87cc05917

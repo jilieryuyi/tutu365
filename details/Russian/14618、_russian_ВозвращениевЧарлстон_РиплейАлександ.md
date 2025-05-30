@@ -8,7 +8,7 @@
 14618、_russian_Возвращение в Чарлстон_Риплей Александра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8224db863c8b61dae1694ee329b28d2c

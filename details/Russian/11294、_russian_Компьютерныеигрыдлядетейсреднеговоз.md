@@ -8,7 +8,7 @@
 11294、_russian_Компьютерные игры для детей среднего возраста_Амнуэль Песах_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09ad18bec0e4cb56dea95abcd3aa5c2b

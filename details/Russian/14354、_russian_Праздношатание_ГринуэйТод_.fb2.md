@@ -8,7 +8,7 @@
 14354、_russian_Праздношатание_Гринуэй Тод_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a41dab3e62b99198cb8581cc7e9dbb39

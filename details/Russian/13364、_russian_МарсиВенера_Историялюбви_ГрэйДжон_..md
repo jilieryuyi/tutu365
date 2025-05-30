@@ -8,7 +8,7 @@
 13364、_russian_Марс и Венера_ История любви_Грэй Джон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d425eea7e642ad5e3dcb7f95ce44e141

@@ -8,7 +8,7 @@
 5998、_russian_Мемуарная проза_Цветаева Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd7e4e415a79b59c220ea8efb8114fd8

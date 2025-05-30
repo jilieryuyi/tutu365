@@ -8,7 +8,7 @@
 13993、_russian_Сарданапал_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11ed0a572e2a7f1a17ee4ccad1ea9f20

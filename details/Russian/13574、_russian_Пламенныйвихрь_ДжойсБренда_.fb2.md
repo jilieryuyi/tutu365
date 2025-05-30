@@ -8,7 +8,7 @@
 13574、_russian_Пламенный вихрь_Джойс Бренда_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b6d8f1088ee65dc9b5d5ec0ff4967fb0

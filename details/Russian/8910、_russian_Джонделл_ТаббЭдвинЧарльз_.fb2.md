@@ -8,7 +8,7 @@
 8910、_russian_Джонделл_Табб Эдвин Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a2b79795a1407c7a7955ad554e215813

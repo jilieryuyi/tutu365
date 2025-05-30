@@ -8,7 +8,7 @@
 1123、_russian_Проигравший выбирает смерть_Бакшеев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c24fbda0f446cc12eb3ef82d15d1d5cb

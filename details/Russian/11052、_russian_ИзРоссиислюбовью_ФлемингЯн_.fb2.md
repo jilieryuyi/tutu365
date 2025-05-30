@@ -8,7 +8,7 @@
 11052、_russian_Из России с любовью_Флеминг Ян_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a6022f6737946046d208fb4a23932563

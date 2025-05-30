@@ -8,7 +8,7 @@
 810、_russian_Анализ ИГСО_ общество, кризис и экономика (2007-2008)_ИГСО_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a98e07f063d2a670cf7386df7fed4725

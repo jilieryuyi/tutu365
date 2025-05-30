@@ -8,7 +8,7 @@
 7034、_russian_Упражнения в третьем способе_Земляк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b633a071233604bb1bebabcc63e015ec

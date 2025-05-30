@@ -8,7 +8,7 @@
 变形记（改变《百年孤独》作者马尔克斯一生的文学启蒙书） (卡夫卡小说全集)_弗兰茨·卡夫卡 (Franz Kafka)__5475850_3d2f10bbd4558b9033d69a2f3b0a5646.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 3d2f10bbd4558b9033d69a2f3b0a5646

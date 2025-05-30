@@ -8,7 +8,7 @@
 10174、_russian_Верность_Онойко Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 287436dc085bfacbfd82fcf07ddd6b13

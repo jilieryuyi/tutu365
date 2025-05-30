@@ -8,7 +8,7 @@
 5363、_russian_На пеньках (отрывки)_Шмелев Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f51edaf65cb71bb4716feef9009b4665

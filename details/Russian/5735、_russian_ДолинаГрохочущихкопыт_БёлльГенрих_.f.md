@@ -8,7 +8,7 @@
 5735、_russian_Долина Грохочущих копыт_Бёлль Генрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4902d613bb6bf731bfb4aa669a3e6fbe

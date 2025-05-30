@@ -8,7 +8,7 @@
 15348、_english_Failure's Reward_Chris Wraight [Wraight, Chris]_Black Library.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 3b015cd4e3980a840b83d9812984d0f6

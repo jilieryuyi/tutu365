@@ -8,7 +8,7 @@
 752、_russian_Путь к просветлению. Лекция Далай-ламы XIV_Гьяцо Тензин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b92d0a50a7aedb5403b6d5e1e11ef465

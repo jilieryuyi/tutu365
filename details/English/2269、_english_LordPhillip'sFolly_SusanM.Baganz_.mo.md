@@ -8,7 +8,7 @@
 2269、_english_Lord Phillip's Folly_Susan M. Baganz_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 de657322abb4f6f005e1a7068fd998d0

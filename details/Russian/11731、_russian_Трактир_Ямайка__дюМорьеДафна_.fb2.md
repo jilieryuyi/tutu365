@@ -8,7 +8,7 @@
 11731、_russian_Трактир _Ямайка__дю Морье Дафна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf93be33207933e9b646b50e8e600090

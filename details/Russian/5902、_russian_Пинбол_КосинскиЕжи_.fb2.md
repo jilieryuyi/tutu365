@@ -8,7 +8,7 @@
 5902、_russian_Пинбол_Косински Ежи_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d2784cf45a319c65a127ed1ebec39ebd

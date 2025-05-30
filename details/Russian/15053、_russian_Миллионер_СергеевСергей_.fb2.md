@@ -8,7 +8,7 @@
 15053、_russian_Миллионер_Сергеев Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c56a2278ecd4c57e8679ee29fbd41131

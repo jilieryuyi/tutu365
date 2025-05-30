@@ -8,7 +8,7 @@
 2604、_russian_Материализм и эмпириокритицизм_Ленин Владимир Ильич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cbd96f86fde81d9612bfa70de11aacd9

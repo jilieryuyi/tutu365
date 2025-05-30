@@ -8,7 +8,7 @@
 12704、_russian_Командир звёздочки_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 241a9c413522e2e114e8c28fbe5a96b3

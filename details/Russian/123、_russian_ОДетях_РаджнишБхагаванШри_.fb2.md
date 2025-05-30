@@ -8,7 +8,7 @@
 123、_russian_О Детях_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 216f5bfbef96e5d2728dff8f4cc351ed

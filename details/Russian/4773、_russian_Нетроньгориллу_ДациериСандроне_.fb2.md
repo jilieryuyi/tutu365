@@ -8,7 +8,7 @@
 4773、_russian_Не тронь гориллу_Дациери Сандроне_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 861ae53f6fc1993453531f394adc82ae

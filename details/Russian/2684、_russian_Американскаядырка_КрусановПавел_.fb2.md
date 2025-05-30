@@ -8,7 +8,7 @@
 2684、_russian_Американская дырка_Крусанов Павел_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 89aff0271b69dafef3ccc65237d26796

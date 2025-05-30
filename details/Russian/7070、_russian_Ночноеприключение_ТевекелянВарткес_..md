@@ -8,7 +8,7 @@
 7070、_russian_Ночное приключение_Тевекелян Варткес_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e866debf3362badf05a6dedacbf20312

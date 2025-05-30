@@ -8,7 +8,7 @@
 5971、_russian_Сказки об Италии_Горький Максим_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6da5c670b0970d70313a1c90d4770e54

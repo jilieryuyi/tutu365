@@ -8,7 +8,7 @@
 9677、_russian_История гестапо_Деларю Жак_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7db78225a1beb2fa45d77187d3c84dfe

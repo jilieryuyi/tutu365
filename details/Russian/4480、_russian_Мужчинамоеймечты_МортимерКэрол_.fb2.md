@@ -8,7 +8,7 @@
 4480、_russian_Мужчина моей мечты_Мортимер Кэрол_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cb4c4431460d61d31b8c61694b75043d

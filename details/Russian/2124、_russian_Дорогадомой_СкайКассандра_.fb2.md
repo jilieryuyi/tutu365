@@ -8,7 +8,7 @@
 2124、_russian_Дорога домой_Скай Кассандра_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31af31ee9bf873afad0d3c1369201cb9

@@ -8,7 +8,7 @@
 1761、_russian__Гениака__Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1d40802f9d8471c92a36f128156f9802

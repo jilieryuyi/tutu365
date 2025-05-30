@@ -8,7 +8,7 @@
 183、第十二个天体_SoBooKs.cc 撒迦利亚·西琴 [撒迦利亚·西琴, SoBooKs.cc]_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 044eaf3b26c877b34bc70bba4761f1ce

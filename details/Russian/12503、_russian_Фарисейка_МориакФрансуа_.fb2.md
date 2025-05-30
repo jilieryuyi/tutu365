@@ -8,7 +8,7 @@
 12503、_russian_Фарисейка_Мориак Франсуа_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b24328b4181ce8bac4a2c6083487e009

@@ -8,7 +8,7 @@
 4702、_russian_Сон в летний день_Ларионова Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 faf4dc759c148b0df6d8d1347d8c8855

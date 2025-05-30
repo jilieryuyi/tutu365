@@ -8,7 +8,7 @@
 WINDOWS核心编程.chm.chm
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b46e713fffa2e4e48f0e767e5372a9a4

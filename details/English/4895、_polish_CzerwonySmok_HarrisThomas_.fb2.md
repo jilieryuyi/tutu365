@@ -8,7 +8,7 @@
 4895、_polish_Czerwony Smok_Harris Thomas_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 f4f18ab78e2e0bcee623d7acb04ac672

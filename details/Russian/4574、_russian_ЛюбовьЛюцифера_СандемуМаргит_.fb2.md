@@ -8,7 +8,7 @@
 4574、_russian_Любовь Люцифера_Сандему Маргит_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8cd92fa817cdecfdfd1d2365b52e1e0

@@ -8,7 +8,7 @@
 13787、_russian_Все без ума от Евы_Хмельницкая Ольга_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f2332b45acad5cbcea7e9332997d9299

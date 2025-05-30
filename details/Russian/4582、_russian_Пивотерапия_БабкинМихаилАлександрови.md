@@ -8,7 +8,7 @@
 4582、_russian_Пивотерапия_Бабкин Михаил Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8328830090adbe9b03e3f9ca155e6382

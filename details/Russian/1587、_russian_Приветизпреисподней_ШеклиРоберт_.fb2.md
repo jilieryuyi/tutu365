@@ -8,7 +8,7 @@
 1587、_russian_Привет из преисподней_Шекли Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 404998cb19bf189ca46fe485e9441591

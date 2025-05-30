@@ -8,7 +8,7 @@
 2801、_russian_Видение суда_Байрон Джордж Гордон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5a773b8d1cbb2a98362ab7f4fc0f373c

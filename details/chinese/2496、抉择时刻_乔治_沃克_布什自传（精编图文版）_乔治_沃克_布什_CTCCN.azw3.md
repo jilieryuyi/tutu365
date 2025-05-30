@@ -8,7 +8,7 @@
 2496、抉择时刻_乔治_沃克_布什自传（精编图文版）_乔治_沃克_布什_CTCCN.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d75ee9d0451f523dfbcc915b7f454277

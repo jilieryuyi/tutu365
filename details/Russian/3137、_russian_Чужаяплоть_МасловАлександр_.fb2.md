@@ -8,7 +8,7 @@
 3137、_russian_Чужая плоть_Маслов Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8cd667a2ca74dee36d9660526416463b

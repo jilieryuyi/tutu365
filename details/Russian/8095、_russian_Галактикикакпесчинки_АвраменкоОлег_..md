@@ -8,7 +8,7 @@
 8095、_russian_Галактики как песчинки_Авраменко Олег_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 27a7b9af1f5e249116fdcde4e160714d

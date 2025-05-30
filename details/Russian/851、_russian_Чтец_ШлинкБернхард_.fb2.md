@@ -8,7 +8,7 @@
 851、_russian_Чтец_Шлинк Бернхард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5807394cd164e1ae7fc560b5337f2fba

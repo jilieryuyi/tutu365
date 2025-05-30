@@ -8,7 +8,7 @@
 826、_russian_Рецепт от одиночества_Монт Бетти_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 5ae42b234953800b4d4961bf66532b57

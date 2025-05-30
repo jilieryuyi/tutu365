@@ -8,7 +8,7 @@
 1837、_russian_Антигравитатор Элькинда_Балабуха Андрей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1932553dc8967aa992566b34df2b47ff

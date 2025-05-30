@@ -8,7 +8,7 @@
 13873、_russian_Меченые злом_Гладкий Виталий Дмитриевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bcbfdd1c3cc32267088e228e81aaa90d

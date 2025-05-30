@@ -8,7 +8,7 @@
 8252、_russian_Красная площадь_Тополь Эдуард, Незнанский Фридрих_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 eb2a1caf0dafbf90cc829f28643e4f51

@@ -8,7 +8,7 @@
 13916、_ukrainian_Година Бика_Ефремов Иван Антонович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c7cb92dc2ce3c17133c2e6756747af83

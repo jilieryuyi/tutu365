@@ -8,7 +8,7 @@
 267、植物之美 (图说天下·透过镜头系列)_Publisher           _ 吉林出版集团有限责任公司_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 9ea6d88c0a9fb9192bb596c0035b1251

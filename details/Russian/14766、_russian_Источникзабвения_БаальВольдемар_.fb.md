@@ -8,7 +8,7 @@
 14766、_russian_Источник забвения_Бааль Вольдемар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 dd4970005bb39f6aa8f980b835ae1549

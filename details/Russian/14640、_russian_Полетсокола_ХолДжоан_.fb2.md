@@ -8,7 +8,7 @@
 14640、_russian_Полет сокола_Хол Джоан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 90a09a3a556acf655085c9532c5ded64

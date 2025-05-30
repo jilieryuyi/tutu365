@@ -8,7 +8,7 @@
 2063、Linux内核精髓：精通Linux内核必会的75个绝技 (O’Reilly精品图书系列)_(日)高桥 浩和_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 7bf1e1088738ca2661c43af842b78b0a

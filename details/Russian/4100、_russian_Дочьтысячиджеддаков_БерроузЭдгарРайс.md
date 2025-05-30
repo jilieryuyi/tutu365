@@ -8,7 +8,7 @@
 4100、_russian_Дочь тысячи джеддаков_Берроуз Эдгар Райс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1ac7af74e4f4cf0c1d0c590433c61085

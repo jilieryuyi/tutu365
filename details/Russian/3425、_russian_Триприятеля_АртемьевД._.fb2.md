@@ -8,7 +8,7 @@
 3425、_russian_Три приятеля_Артемьев Д._.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b27175e00e5e21eec7ab72496a3527e7

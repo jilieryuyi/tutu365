@@ -8,7 +8,7 @@
 8650、_russian_Призрак Ивана Грозного_Усачева Елена Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b8ece8cc109a97b67272a9003bb986c1

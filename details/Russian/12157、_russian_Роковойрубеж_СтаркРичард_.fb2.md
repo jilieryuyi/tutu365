@@ -8,7 +8,7 @@
 12157、_russian_Роковой рубеж_Старк Ричард_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d748479b0002af7cb5316b735fb7bee2

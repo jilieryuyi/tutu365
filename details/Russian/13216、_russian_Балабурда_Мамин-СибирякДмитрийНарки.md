@@ -8,7 +8,7 @@
 13216、_russian_Балабурда_Мамин-Сибиряк Дмитрий Наркисович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de30c6eaf5b5be4f9fd0450ce450fb85

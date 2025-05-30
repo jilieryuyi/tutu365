@@ -8,7 +8,7 @@
 14011、_english_It's Only a Scandal if You're Caught_Merry Farmer_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 d24a7ac24c9599e647bed98e10ed2fe9

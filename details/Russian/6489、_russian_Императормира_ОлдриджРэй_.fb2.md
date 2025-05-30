@@ -8,7 +8,7 @@
 6489、_russian_Император мира_Олдридж Рэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c3f3c85eb3d95556c1a6af3348471427

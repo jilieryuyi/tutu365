@@ -8,7 +8,7 @@
 12192、_english_The Highlander's Triumph_Eliza Knight_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 04123249837f6c0b5621cca042bb19e4

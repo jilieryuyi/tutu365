@@ -8,7 +8,7 @@
 3021、_russian_Маленькая победоносная война_Бабченко Аркадий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 65f483b5ed2580ed7fec863f060e6206

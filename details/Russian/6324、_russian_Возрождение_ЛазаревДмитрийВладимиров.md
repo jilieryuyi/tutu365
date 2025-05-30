@@ -8,7 +8,7 @@
 6324、_russian_Возрождение_Лазарев Дмитрий Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9daf860d2baf3bf5ac03530bed2860ac

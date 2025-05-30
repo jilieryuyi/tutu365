@@ -8,7 +8,7 @@
 1243、_russian_Noblesse oblige_Верещагин Петр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 31329035269ba3bafa3a9353710fdcca

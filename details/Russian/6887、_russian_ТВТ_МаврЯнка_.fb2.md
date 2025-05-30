@@ -8,7 +8,7 @@
 6887、_russian_ТВТ_Мавр Янка_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 92dd0948525abcb3f477d1acf69bd6d8

@@ -8,7 +8,7 @@
 2685、_russian_Я внук твой …_Кочергин Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fd691dec1794c597d49e0424d7c4c319

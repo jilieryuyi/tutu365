@@ -8,7 +8,7 @@
 1771、_russian_Скрываемый дар_Силверберг Роберт_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4fbfa49b37168133b52821f03023b686

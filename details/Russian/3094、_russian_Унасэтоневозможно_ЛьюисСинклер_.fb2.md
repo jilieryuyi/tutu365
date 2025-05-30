@@ -8,7 +8,7 @@
 3094、_russian_У нас это невозможно_Льюис Синклер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee1806de8353b929915b8f1fcb62fe8d

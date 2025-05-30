@@ -8,7 +8,7 @@
 663、给我自由!一部美国的历史(套装上下卷)_埃里克·方纳(Eric Foner)_商务印书馆.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 1f351f6a563873d57dedec2065e565ef

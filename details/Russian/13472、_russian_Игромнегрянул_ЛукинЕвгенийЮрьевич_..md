@@ -8,7 +8,7 @@
 13472、_russian_И гром не грянул_Лукин Евгений Юрьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 356f55c401715c72ad70a337f969b946

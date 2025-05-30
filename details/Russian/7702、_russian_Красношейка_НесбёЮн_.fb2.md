@@ -8,7 +8,7 @@
 7702、_russian_Красношейка_Несбё Юн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4f776914ea6b785d69b166769f88016f

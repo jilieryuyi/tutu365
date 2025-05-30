@@ -8,7 +8,7 @@
 当我们阅读时，我们看到了什么_SoBooKs.cc （美）彼得·曼德尔桑德 __5520250_b99afb329e81b6233dfa6f425995708f.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 b99afb329e81b6233dfa6f425995708f

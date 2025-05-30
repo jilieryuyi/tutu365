@@ -8,7 +8,7 @@
 7298、_russian_Последний сын дождя_Соколовский Владимир Григорьевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 03356ea2f3cd3821b61530ca5b2fd1e1

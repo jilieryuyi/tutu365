@@ -8,7 +8,7 @@
 11008、_russian_Дама с камелиями_Браннер Ханс Кристиан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 828247800092578211fa9fa00fa779f7

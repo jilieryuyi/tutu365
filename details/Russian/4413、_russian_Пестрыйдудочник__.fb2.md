@@ -8,7 +8,7 @@
 4413、_russian_Пестрый дудочник__.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 94e12b7d8801c5286ef9607161ff6a09

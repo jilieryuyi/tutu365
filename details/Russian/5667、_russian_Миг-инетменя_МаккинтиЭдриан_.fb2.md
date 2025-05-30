@@ -8,7 +8,7 @@
 5667、_russian_Миг - и нет меня_Маккинти Эдриан_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 236a92150801d77f50e56d065ecd728e

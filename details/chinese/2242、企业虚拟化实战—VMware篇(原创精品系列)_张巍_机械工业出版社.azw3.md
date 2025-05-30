@@ -8,7 +8,7 @@
 2242、企业虚拟化实战—VMware篇 (原创精品系列)_张巍_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c021a13b47f674e9c71fb8a705959c72

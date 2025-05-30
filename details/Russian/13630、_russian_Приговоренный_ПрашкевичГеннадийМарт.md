@@ -8,7 +8,7 @@
 13630、_russian_Приговоренный_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 c9e4e220804e5209516300dbc4bf5651

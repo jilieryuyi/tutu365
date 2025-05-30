@@ -8,7 +8,7 @@
 324、汽车美容 (高职高专汽车技术服务与营销专业系列教材)_Publisher           _ 重庆大学出版社_.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d2ee66e793581f1a9e972e99c1123ead

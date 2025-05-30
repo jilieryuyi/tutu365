@@ -8,7 +8,7 @@
 Netkiller Linux 手札_Mr. Neo Chan, 陈景峯(BG7NYT)_Neo Chan_5526997_00d74ab53ddd0dee0a127f85acb07400.epub.epub
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 00d74ab53ddd0dee0a127f85acb07400

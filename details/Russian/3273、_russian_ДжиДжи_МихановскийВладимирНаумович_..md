@@ -8,7 +8,7 @@
 3273、_russian_Джи Джи_Михановский Владимир Наумович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 11ea6fbdd1e3f243ab92b376f2a11bd6

@@ -8,7 +8,7 @@
 4253、_russian_Снег и летний зонтик_Мицухару Иноуэ_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 45a2c386dc25522ba644dff78f209abb

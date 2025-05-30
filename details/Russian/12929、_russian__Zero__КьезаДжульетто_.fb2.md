@@ -8,7 +8,7 @@
 12929、_russian__Zero__Кьеза Джульетто_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 96e1cbe334038f1a53a2f7859891a886

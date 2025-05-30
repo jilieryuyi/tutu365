@@ -8,7 +8,7 @@
 14591、_french_Nuit Magique (French Edition)_Laur' El [El, Laur']_.epub.epub
 
 ## 语言(language)
-English
+english
 
 ## MD5
 e664684cdf77a882228deb7d8942d1ed

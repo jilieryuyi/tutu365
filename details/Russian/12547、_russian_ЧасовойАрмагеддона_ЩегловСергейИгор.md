@@ -8,7 +8,7 @@
 12547、_russian_Часовой Армагеддона_Щеглов Сергей Игоревич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b6658f932b4491cc090143e08ad0329

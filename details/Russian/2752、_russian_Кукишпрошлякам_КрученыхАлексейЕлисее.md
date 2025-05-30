@@ -8,7 +8,7 @@
 2752、_russian_Кукиш прошлякам_Крученых Алексей Елисеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 445a270c2faa12d6a81cd1594bb37a2b

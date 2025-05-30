@@ -8,7 +8,7 @@
 2044、_russian_Боятся ли компьютеры адского пламени_Тюрин Александр Владимирович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7e890ec068c08ace2741cfe35fde88be

@@ -8,7 +8,7 @@
 3027、_russian_Одинокие боги Вселенной_Заревин Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 539ae6181aca6b3b6f8034fd1995329c

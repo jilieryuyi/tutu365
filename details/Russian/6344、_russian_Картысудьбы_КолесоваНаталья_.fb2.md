@@ -8,7 +8,7 @@
 6344、_russian_Карты судьбы_Колесова Наталья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 120aa165787c721496d23fe7ee4295e1

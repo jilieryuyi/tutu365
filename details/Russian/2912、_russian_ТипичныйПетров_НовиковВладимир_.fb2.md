@@ -8,7 +8,7 @@
 2912、_russian_Типичный Петров_Новиков Владимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 97042ceb5fd363e80297faba22c14a5c

@@ -8,7 +8,7 @@
 5868、_russian_Золотые узы_Кристиан Зита_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 77b6ac30263632e078d8c6cc228cce2e

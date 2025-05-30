@@ -8,7 +8,7 @@
 14323、_english_The Laird's Daughter_Hildie McQueen_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 a7ebe09af9a107d43b52a6a6232ae44f

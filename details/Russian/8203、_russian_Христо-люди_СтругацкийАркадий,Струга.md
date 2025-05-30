@@ -8,7 +8,7 @@
 8203、_russian_Христо-люди_Стругацкий Аркадий, Стругацкий Борис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e0f48de2f910a774fc71b110c971297e

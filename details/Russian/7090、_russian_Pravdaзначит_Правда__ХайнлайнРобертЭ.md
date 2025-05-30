@@ -8,7 +8,7 @@
 7090、_russian_Pravda значит _Правда__Хайнлайн Роберт Энсон_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2cdecd3e6b280c125a710fd12e098086

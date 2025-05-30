@@ -8,7 +8,7 @@
 3973、_russian_Элрик из Мелнибонэ_Муркок Майкл_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fb0c313a090a675c917e7f5c56609fef

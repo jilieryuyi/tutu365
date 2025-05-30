@@ -8,7 +8,7 @@
 8879、_russian_Дхаммапада. Путь будды. Том 1_Раджниш Бхагаван Шри_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9bd3abde09eb90f4e9a03e49072a5d49

@@ -8,7 +8,7 @@
 12180、_russian_Искусство ловли стрел_Дэдмен Стивен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 902cb68b54d452993361687be23f1d64

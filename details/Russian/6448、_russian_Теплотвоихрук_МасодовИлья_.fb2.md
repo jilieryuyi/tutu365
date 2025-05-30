@@ -8,7 +8,7 @@
 6448、_russian_Тепло твоих рук_Масодов Илья_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a253e255d6f163d5853a4e62a53cb6cc

@@ -8,7 +8,7 @@
 1429、_russian_Слуги сумерек_Кунц Дин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 80ac2cb921279dbe3b43135ad9c6eee5

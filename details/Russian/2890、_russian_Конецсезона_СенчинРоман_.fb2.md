@@ -8,7 +8,7 @@
 2890、_russian_Конец сезона_Сенчин Роман_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ac7074eb69e2362a15ee8fd4e13cd876

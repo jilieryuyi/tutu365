@@ -8,7 +8,7 @@
 2020、HTML5 canvas开发详解(第2版) (无)_[美]Steve Fulton　Jeff Fulton 著_人民邮电出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 c7e724f73fc066eb7ca2c719a973c1ef

@@ -8,7 +8,7 @@
 869、_russian_Я тебе верю_Воробей Вера и Марина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0cb6e74f971356d67045db5f1a11f597

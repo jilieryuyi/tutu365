@@ -8,7 +8,7 @@
 8280、_russian_Спутники смерти_Столесен Гуннар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 e39601bf7e02a343511a3977b31aa01e

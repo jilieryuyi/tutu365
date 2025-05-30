@@ -8,7 +8,7 @@
 2219、_english_A Lord's Dream_Summer Hanford_.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 97acda1be1e59c7790bcfb5cbcf2e9ee

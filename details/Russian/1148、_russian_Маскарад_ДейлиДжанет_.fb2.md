@@ -8,7 +8,7 @@
 1148、_russian_Маскарад_Дейли Джанет_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d5e6ef4ff616a3dc33decc2f110c23d

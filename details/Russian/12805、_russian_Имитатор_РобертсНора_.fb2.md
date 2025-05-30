@@ -8,7 +8,7 @@
 12805、_russian_Имитатор_Робертс Нора_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7ca9596b1e54d51613cf39c2468bea4f

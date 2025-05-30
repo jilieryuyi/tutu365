@@ -8,7 +8,7 @@
 6156、_russian_Волк который правит (неоф. перевод)_Спенсер Уэн_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ed44a32243de8e04affbeeda46fb2b4f

@@ -8,7 +8,7 @@
 2570、_russian_Женщина на лестнице_Кристи Агата_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bf6c0e158760283395f2874d17e55e1b

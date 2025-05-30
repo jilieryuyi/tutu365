@@ -8,7 +8,7 @@
 14999、_russian_Незнайка на Диком Западе_Суслин Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 05252247da965ff8bb428b9e7208435c

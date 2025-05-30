@@ -8,7 +8,7 @@
 11238、_russian_Одиночный выстрел_Орлов Алекс_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 bbbcd7e4a0723699e63da10aed62b7c1

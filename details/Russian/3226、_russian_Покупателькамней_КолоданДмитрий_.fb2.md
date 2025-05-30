@@ -8,7 +8,7 @@
 3226、_russian_Покупатель камней_Колодан Дмитрий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 945db6c2768d909b32fbce6a829c7602

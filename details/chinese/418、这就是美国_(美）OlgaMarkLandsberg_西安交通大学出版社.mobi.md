@@ -8,7 +8,7 @@
 418、这就是美国_(美）Olga Mark Landsberg_西安交通大学出版社.mobi.mobi
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 f633ede0623a632de4bc006be284c364

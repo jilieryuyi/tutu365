@@ -8,7 +8,7 @@
 1214、_russian_Прыжок льва_Прозоров Александр Дмитриевич, Живой Алексей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 b3f606a024cfaac07bd41618f91ae65f

@@ -8,7 +8,7 @@
 10718、_russian_Вождь террористов_Уоллес Эдгар_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 6fe73c615a2700f3ffbfa8f18c921f49

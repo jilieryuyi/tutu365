@@ -8,7 +8,7 @@
 Linux网络编程.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 d8f5b50da7d3c83ebe1757838024fa7f

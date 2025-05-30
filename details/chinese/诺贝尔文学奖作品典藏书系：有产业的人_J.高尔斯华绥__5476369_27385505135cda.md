@@ -8,7 +8,7 @@
 诺贝尔文学奖作品典藏书系：有产业的人_J.高尔斯华绥__5476369_27385505135cda4aa4cfd0ceaf6d26a4.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 27385505135cda4aa4cfd0ceaf6d26a4

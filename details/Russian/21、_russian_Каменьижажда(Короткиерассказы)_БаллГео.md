@@ -8,7 +8,7 @@
 21、_russian_Камень и жажда (Короткие рассказы)_Балл Георгий_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 de5ad51fe71c80e96d6d08f22d70dde1

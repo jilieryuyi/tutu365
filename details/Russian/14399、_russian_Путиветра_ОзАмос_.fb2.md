@@ -8,7 +8,7 @@
 14399、_russian_Пути ветра_Оз Амос_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7b80e6622ed5af097728a27d4292715e

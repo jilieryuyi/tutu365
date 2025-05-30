@@ -8,7 +8,7 @@
 12714、_russian_Закон ответного удара_Самаров Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 98276ace953826ba15e4f058d333d00d

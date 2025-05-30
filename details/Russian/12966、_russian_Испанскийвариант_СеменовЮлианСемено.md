@@ -8,7 +8,7 @@
 12966、_russian_Испанский вариант_Семенов Юлиан Семенович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 22455b3249b5efa1b9766e7ef7f5b6ec

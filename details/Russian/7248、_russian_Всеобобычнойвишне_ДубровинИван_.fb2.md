@@ -8,7 +8,7 @@
 7248、_russian_Все об обычной вишне_Дубровин Иван_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f48bf30d5276a0d25186bd4d9bed7bd1

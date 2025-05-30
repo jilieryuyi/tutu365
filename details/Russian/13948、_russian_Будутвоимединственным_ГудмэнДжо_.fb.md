@@ -8,7 +8,7 @@
 13948、_russian_Буду твоим единственным_Гудмэн Джо_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 1e97358db380518b32747c8471aaf89b

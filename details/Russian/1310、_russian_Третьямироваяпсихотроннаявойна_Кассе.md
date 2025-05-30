@@ -8,7 +8,7 @@
 1310、_russian_Третья мировая психотронная война_Кассе Этьен_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 0149d3e55665790247a4becb9fbccbf8

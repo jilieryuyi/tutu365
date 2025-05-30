@@ -8,7 +8,7 @@
 6008、_english_Toxin_Cook Robin_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 ef0dfb5345711724d914fa41fccb0a9f

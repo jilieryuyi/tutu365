@@ -8,7 +8,7 @@
 4869、_russian_Аптекарская роза_Робб Кэндис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 8f4fd040c7e03a1f798a267f0358097c

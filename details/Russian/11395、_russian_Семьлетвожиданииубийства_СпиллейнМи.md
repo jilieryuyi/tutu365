@@ -8,7 +8,7 @@
 11395、_russian_Семь лет в ожидании убийства_Спиллейн Микки_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 09cc97a0c99bff19ff55ed400ebbba56

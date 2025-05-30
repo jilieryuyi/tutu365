@@ -8,7 +8,7 @@
 15600、_english_Allen Carr's Lose Weight Now_Allen Carr_Arcturus Publishing Limited.pdf.pdf
 
 ## 语言(language)
-English
+english
 
 ## MD5
 00fb76a496269575b0c206465b1c7d4d

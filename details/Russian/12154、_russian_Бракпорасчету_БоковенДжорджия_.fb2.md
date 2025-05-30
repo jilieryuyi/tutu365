@@ -8,7 +8,7 @@
 12154、_russian_Брак по расчету_Боковен Джорджия_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 764786047f557cf851f76126672266ea

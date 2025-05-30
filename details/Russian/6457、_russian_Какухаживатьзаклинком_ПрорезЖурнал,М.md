@@ -8,7 +8,7 @@
 6457、_russian_Как ухаживать за клинком_Прорез Журнал, Митин Сергей_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2e4c30a8a7c1a8dd2cbdf78868a77561

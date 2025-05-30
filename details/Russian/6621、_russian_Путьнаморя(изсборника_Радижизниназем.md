@@ -8,7 +8,7 @@
 6621、_russian_Путь на моря (из сборника _Ради жизни на земле_)_Захаров Марк_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 fe7d7c5a79f5f76cd3eab9a406e5f23b

@@ -8,7 +8,7 @@
 8346、_english_Wizard's Daughter_Catherine Coulter_Thorndike Press.mobi.mobi
 
 ## 语言(language)
-English
+english
 
 ## MD5
 07314899e9e4c2b49ab3cc4944f8691b

@@ -8,7 +8,7 @@
 2343、_russian_Первобытный страх_Серегин Михаил_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 a1e0293c0a68b3dc3bc4b8b539fcc8f8

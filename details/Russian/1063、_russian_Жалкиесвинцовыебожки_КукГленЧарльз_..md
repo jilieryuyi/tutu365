@@ -8,7 +8,7 @@
 1063、_russian_Жалкие свинцовые божки_Кук Глен Чарльз_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 becfc4f5819bb4cce583e9247bee222a

@@ -8,7 +8,7 @@
 11579、_russian_Священные Книги Телемы_Кроули Алистер_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 f954d230591385fad882882c2a47d1f0

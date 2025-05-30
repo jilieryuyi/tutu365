@@ -8,7 +8,7 @@
 6605、_russian_Случай на станции Кочетовка_Солженицын Александр_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 85010bcecfc723dc096f1663f46d4a72

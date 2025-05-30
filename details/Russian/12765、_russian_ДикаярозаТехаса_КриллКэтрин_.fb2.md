@@ -8,7 +8,7 @@
 12765、_russian_Дикая роза Техаса_Крилл Кэтрин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9bc0fcac0a0360af9632a03274518c81

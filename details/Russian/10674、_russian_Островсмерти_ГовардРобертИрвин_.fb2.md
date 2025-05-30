@@ -8,7 +8,7 @@
 10674、_russian_Остров смерти_Говард Роберт Ирвин_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 aa2e158775bc23f37285dbb0f58da965

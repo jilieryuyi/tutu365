@@ -8,7 +8,7 @@
 10364、_russian_Прозрачный гость_Головачёва Вера_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 372a6dfd6344d2166445da375ab91aa3

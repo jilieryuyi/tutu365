@@ -8,7 +8,7 @@
 15038、_russian_Большая книга ужасов-2_Усачева Елена Александровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 cf99368a190ad03cd7a74d3beba01189

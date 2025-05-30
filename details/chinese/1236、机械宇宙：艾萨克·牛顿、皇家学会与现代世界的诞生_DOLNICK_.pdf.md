@@ -8,7 +8,7 @@
 1236、机械宇宙：艾萨克·牛顿、皇家学会与现代世界的诞生_DOLNICK_.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 6cae69ca42effd4843fd534fd5978538

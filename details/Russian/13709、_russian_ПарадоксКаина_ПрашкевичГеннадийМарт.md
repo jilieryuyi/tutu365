@@ -8,7 +8,7 @@
 13709、_russian_Парадокс Каина_Прашкевич Геннадий Мартович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ee985f304620ee74dc36e8dd0d05eee6

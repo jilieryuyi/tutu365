@@ -8,7 +8,7 @@
 4081、_russian_Кат_Чернобровкин Александр Васильевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 53798da7e83fda1b1d7d39fa6a405a65

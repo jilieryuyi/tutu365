@@ -8,7 +8,7 @@
 高难度对话：如何跟任何人都聊得来十册经典套装_迈克•贝克特尔（Mike Bechtle） [Bechtle）, 迈克•贝克特尔（Mike]__5543427_e4cbfb5fa75492b40b1694c0175f6f9b.pdf.pdf
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 0e979e066954cce28aa197f90467ebf2

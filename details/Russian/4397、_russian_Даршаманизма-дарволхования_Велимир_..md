@@ -8,7 +8,7 @@
 4397、_russian_Дар шаманизма - дар волхования_Велимир_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 263f96a9a7c473b5d5f7c3f0b2339012

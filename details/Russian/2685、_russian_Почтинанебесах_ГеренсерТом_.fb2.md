@@ -8,7 +8,7 @@
 2685、_russian_Почти на небесах_Геренсер Том_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3b6e6ec2bef5e3c8f7b32c8f20922928

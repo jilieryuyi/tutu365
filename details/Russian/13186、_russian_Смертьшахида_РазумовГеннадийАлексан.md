@@ -8,7 +8,7 @@
 13186、_russian_Смерть шахида_Разумов Геннадий Александрович_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 465b3e6467029bc1bd0fb96ec2019ba6

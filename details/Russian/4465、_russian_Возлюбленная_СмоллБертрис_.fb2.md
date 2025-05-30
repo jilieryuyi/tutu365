@@ -8,7 +8,7 @@
 4465、_russian_Возлюбленная_Смолл Бертрис_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 7cd2cab6dc2d400a7426b8ff2939ed55

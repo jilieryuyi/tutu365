@@ -8,7 +8,7 @@
 2189、_english_The Good, The Bad, And The Undead_Харрисон Ким_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4bd48016cb2c819ffcb21eb54c81c411

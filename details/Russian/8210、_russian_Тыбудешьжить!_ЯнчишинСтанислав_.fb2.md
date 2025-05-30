@@ -8,7 +8,7 @@
 8210、_russian_Ты будешь жить!_Янчишин Станислав_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 4e4a1eb9ed0dc7866f5365dedc0459b8

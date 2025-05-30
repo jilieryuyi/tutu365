@@ -8,7 +8,7 @@
 12708、_russian_Девочка из города_Воронкова Любовь Федоровна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 d6b454451d54342c63997bab978031ef

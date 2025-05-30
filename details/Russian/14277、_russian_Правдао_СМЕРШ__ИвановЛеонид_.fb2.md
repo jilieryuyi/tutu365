@@ -8,7 +8,7 @@
 14277、_russian_Правда о _СМЕРШ__Иванов Леонид_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 60400149aa70fc03612a576210022af3

@@ -8,7 +8,7 @@
 2697、_russian_Далекое море Лейте_Кубота Сэй_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 3ed290d22206fd35af13d6067c1ebc97

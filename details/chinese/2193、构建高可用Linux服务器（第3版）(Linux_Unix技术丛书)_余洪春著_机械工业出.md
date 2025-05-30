@@ -8,7 +8,7 @@
 2193、构建高可用Linux服务器（第3版） (Linux_Unix技术丛书)_余洪春 著_机械工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 19f25dc47727859d7a42db5ececb5b8c

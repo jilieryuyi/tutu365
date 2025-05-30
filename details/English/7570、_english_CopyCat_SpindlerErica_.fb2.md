@@ -8,7 +8,7 @@
 7570、_english_Copy Cat_Spindler Erica_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 4296a810d78fa35922d456a22fd9a72b

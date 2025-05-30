@@ -8,7 +8,7 @@
 3671、_russian_Black & Red_Степанова Татьяна_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 9d5a66a311cffe7744a3b5bb081d90de

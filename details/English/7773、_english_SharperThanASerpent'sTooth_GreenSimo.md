@@ -8,7 +8,7 @@
 7773、_english_Sharper Than A Serpent's Tooth_Green Simon R_.fb2.fb2
 
 ## 语言(language)
-English
+english
 
 ## MD5
 68769904c6281cdf9a7c6984363bf870

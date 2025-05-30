@@ -8,7 +8,7 @@
 1023、_russian_К солнечной цивилизации_Айванхов Омраам Микаэль_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 ad865d2a717ad396147698b6dd3cefb6

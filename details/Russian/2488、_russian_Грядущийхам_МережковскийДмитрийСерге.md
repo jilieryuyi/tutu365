@@ -8,7 +8,7 @@
 2488、_russian_Грядущий хам_Мережковский Дмитрий Сергеевич_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 896134cc2d15d578a8fdb5909fd5bd3d

@@ -8,7 +8,7 @@
 1633、疯传_让你的产品、思想、行为像病毒一样入侵_乔纳·伯杰 (Jonah Berger)_电子工业出版社.azw3.azw3
 
 ## 语言(language)
-Chinese
+chinese
 
 ## MD5
 980379b554fd4ce77d8d7f87d3659a2a

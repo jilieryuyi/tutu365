@@ -8,7 +8,7 @@
 14504、_russian_Земля королевы Мод_Мурашова Екатерина_.fb2.fb2
 
 ## 语言(language)
-Russian
+russian
 
 ## MD5
 2bc8eed9534a16b9cf0da895d08419d8
