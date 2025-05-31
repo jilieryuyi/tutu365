@@ -92,13 +92,9 @@
         }
     </style>
     <script>
-        const books = []
-    </script>
-    <script>
-        const file_types = [{"name":"办公文档","types":["ppt","doc","xlsx","rtf","wps","pptx","docx","xls"]},{"name":"压缩包","types":["rar","zip"]},{"name":"图片","types":null},{"name":"视频","types":null},{"name":"种子","types":null},{"name":"音频","types":null},{"name":"电子书","types":["djvu","epub","mobi","chw","txt","azw3","chm","md","fb2","azw","pdf"]},{"name":"编程","types":[]},{"name":"程序","types":["exe"]}]
-        const page_total = 1532
-        const total_books = 30621
-        const languages = {"arabic":1,"chinese":13231,"english":2702,"german":1,"hindi":1,"japanese":15,"persian":1,"ptalian":1,"russian":14667,"unknown":1}
+        const file_types = {"azw":18,"azw3":3539,"chm":825,"chw":6,"djvu":141,"doc":37,"docx":20,"epub":1741,"exe":16,"fb2":107663,"lit":3,"md":1,"mobi":2094,"pdf":5635,"ppt":12,"pptx":4,"rar":69,"rtf":1,"snb":1,"txt":789,"wps":1,"xls":2,"xlsx":1,"zip":2}
+        const page_total = 6132
+        const languages = {"arabic":1,"chinese":13231,"english":11447,"german":1,"hindi":1,"japanese":15,"persian":1,"ptalian":1,"russian":97921,"unknown":2}
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
     <script>
@@ -127,22 +123,22 @@
 </nav>
 <div style="text-align: center;">
     <h1 style="margin: 0; padding: 0; font-size: 48px;">图图爱读书</h1>
-    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">电子书下载搜索，<span id="show-total-msg">30621本电子书</span></p>
+    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">电子书下载搜索，<span id="show-total-msg">122621本电子书</span></p>
 </div>
 <div class="s" style="display: block; text-align: center;border: none;">
     <input id="s" type="text" placeholder="输入关键字,回车搜索"/>
 </div>
 <div class="ft" style="display: block; text-align: center; border: none; ">
-    <div id="all-fts" style="width: 528px; display: inline-block; text-align: left;">文件类型
+    <div id="all-fts" style="display: inline-block; text-align: left;">文件类型
         <label>
-            <input class="ft-group" name="ft-group" type="radio" onchange="loader.onFileTypeGroupChange(this)" value="" checked/>全部
+            <input class="ft-group" name="ft-group" type="radio" onchange="loader.onFileTypeGroupChange(this)" value="_default" checked/>全部
         </label>
     </div>
 </div>
 <div class="ft" style="display: block; text-align: center; border: none; padding-bottom: 30px;">
     <div id="all-ls" style="text-align: center;">语言
         <label>
-            <input class="ls-group" name="ls-group" type="radio" onchange="loader.onLangChange(this)" value="all" checked/>全部
+            <input class="ls-group" name="ls-group" type="radio" onchange="loader.onLangChange(this)" value="_default" checked/>全部
         </label>
     </div>
 </div>
@@ -239,39 +235,35 @@ const lang = {
     },
     // 定义 Unicode 范围检测函数
     isNonSpaceLanguageChar: function(char) {
-    const codePoint = char.codePointAt(0);
+        const codePoint = char.codePointAt(0);
 
-    // 检测汉字 (Han)
-    if ((codePoint >= 0x4E00 && codePoint <= 0x9FFF) ||
-        (codePoint >= 0x3400 && codePoint <= 0x4DBF) ||
-        (codePoint >= 0x20000 && codePoint <= 0x2A6DF)) {
-        return true;
-    }
+        // 检测汉字 (Han)
+        if ((codePoint >= 0x4E00 && codePoint <= 0x9FFF) ||
+            (codePoint >= 0x3400 && codePoint <= 0x4DBF) ||
+            (codePoint >= 0x20000 && codePoint <= 0x2A6DF)) {
+            return true;
+        }
 
-    // 检测平假名 (Hiragana)
-    if (codePoint >= 0x3040 && codePoint <= 0x309F) {
-        return true;
-    }
+        // 检测平假名 (Hiragana)
+        if (codePoint >= 0x3040 && codePoint <= 0x309F) {
+            return true;
+        }
 
-    // 检测片假名 (Katakana)
-    if (codePoint >= 0x30A0 && codePoint <= 0x30FF) {
-        return true;
-    }
+        // 检测片假名 (Katakana)
+        if (codePoint >= 0x30A0 && codePoint <= 0x30FF) {
+            return true;
+        }
 
-    // 检测泰文 (Thai)
-    if (codePoint >= 0x0E00 && codePoint <= 0x0E7F) {
-        return true;
-    }
+        // 检测泰文 (Thai)
+        if (codePoint >= 0x0E00 && codePoint <= 0x0E7F) {
+            return true;
+        }
 
-    // 检测韩文 (Hangul)
-    if ((codePoint >= 0xAC00 && codePoint <= 0xD7AF) ||   // 韩文音节
-        (codePoint >= 0x1100 && codePoint <= 0x11FF) ||   // 韩文字母
-        (codePoint >= 0x3130 && codePoint <= 0x318F)) {   // 兼容字母
-        return true;
-    }
-
-    return false;
-},
+        // 检测韩文 (Hangul)
+        return (codePoint >= 0xAC00 && codePoint <= 0xD7AF) ||   // 韩文音节
+            (codePoint >= 0x1100 && codePoint <= 0x11FF) ||   // 韩文字母
+            (codePoint >= 0x3130 && codePoint <= 0x318F)
+    },
     han:function(text) {
         for (let i = 0; i < text.length; i++) {
             // 处理代理对（surrogate pairs）以支持扩展字符
@@ -297,12 +289,12 @@ var loader = {
     total: page_total,
     params: {
         limit: 20,
-        current_page: 1,
+        page: 1,
         total: page_total,
-        search_keyword: "",
-        search_types: [],
-        search_lang: "all",
-        search_keywords: [],
+        keyword: "",
+        ext: "_default",
+        lang: "_default",
+        keywords: [],
         search_ids: [],
     },
     parse:function(text) {
@@ -313,11 +305,10 @@ var loader = {
         }
     },
     setSearchKeywords: function () {
-        this.params.search_keyword = this.params.search_keyword.trim()
+        this.params.keyword = this.params.keyword.trim()
         let keywords = []
-        if (this.params.search_keyword !=="") {
-            let kws = lang.cut(this.params.search_keyword)
-            console.log("input: " + this.params.search_keyword, "keywords: " + kws)
+        if (this.params.keyword !=="") {
+            let kws = lang.cut(this.params.keyword)
             for (let kw of kws) {
                 if (kw.length > 0) {
                     kw = kw.toLowerCase()
@@ -326,73 +317,33 @@ var loader = {
             }
         }
 
-        if (this.params.search_types.length > 0) {
-            for (let st of this.params.search_types) {
-                st = st.toLowerCase()
-                if (st.length > 0) {
-                    keywords.push(st)
-                }
-            }
-        }
-
-        if (this.params.search_lang !== 'all') {
-            let lang = this.params.search_lang.toLowerCase()
-            if (lang.length > 0) {
-                keywords.push(lang)
-            }
-        }
-
-        // if (this.params.search_keyword.length > 0) {
-        //     keywords.push(this.params.search_keyword.toLowerCase())
-        // }
-        this.params.search_keywords = [...new Set(keywords)]
-        this.params.search_keywords = this.params.search_keywords.sort((a, b) => b.length - a.length);
+        this.params.keywords = [...new Set(keywords)]
+        this.params.keywords = this.params.keywords.sort((a, b) => b.length - a.length);
     },
     init: function (){
         const queryParams = new URLSearchParams(window.location.search);
-
-        let _st = queryParams.get('t')
-        let search_types = []
-
-        if (!_st) {
-            _st = ""
+        let keyword = queryParams.get('s')
+        if (!keyword) {
+            keyword = ""
         }
 
-        search_types = _st.split(",")
-        search_types = search_types.filter(item => item !== "");
-
-        let search_keyword = queryParams.get('s')
-        if (!search_keyword) {
-            search_keyword = ""
-        }
-
-        this.params.search_types = search_types
-        this.params.search_keyword = search_keyword
+        this.params.keyword = keyword
         this.setSearchKeywords()
-        document.getElementById("s").value = search_keyword
+        document.getElementById("s").value = keyword
 
-
-        for (let t of file_types) {
-            if (!t.types || t.types.length === 0) {
-                continue
-            }
+        for (let key in file_types) {
             const label = document.createElement("label")
-            label.innerHTML = `
-        <input class="ft-group" name="ft-group" type="radio" onchange="loader.onFileTypeGroupChange(this)" value="${t.types.join(',')}"/>${t.name}
-    `
+            label.innerHTML = `<input class="ft-group" name="ft-group" type="radio" onchange="loader.onFileTypeGroupChange(this)" value="${key}"/>${key}(${file_types[key]})`
             document.getElementById("all-fts").appendChild(label)
         }
 
-
         for (let lang in languages) {
             const label = document.createElement("label")
-            label.innerHTML = `
-        <input class="ls-group" name="ls-group" type="radio" onchange="loader.onLangChange(this)" value="${lang}"/>${lang}(${languages[lang]})
-    `
+            label.innerHTML = `<input class="ls-group" name="ls-group" type="radio" onchange="loader.onLangChange(this)" value="${lang}"/>${lang}(${languages[lang]})`
             document.getElementById("all-ls").appendChild(label)
         }
 
-        document.getElementById("current-page").innerText = this.params.current_page
+        document.getElementById("current-page").innerText = this.params.page
         document.getElementById("total-page").innerText = this.params.total
     },
     get: function (url, params = {}, timeout = 5000) {
@@ -440,32 +391,21 @@ var loader = {
         for (let book of booksToShow) {
             const div = document.createElement("div")
             div.className = "c"
-
-
-
-
-
             let name = book.n
             let lang = book.l
-            if (self.params.search_keywords.length > 0) {
-                for (let kw of self.params.search_keywords) {
-
-                    let escapedSearchString = kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                    let regex = new RegExp(escapedSearchString, "gi"); // 创建正则表达式，全局且忽略大小写
+            if (self.params.keywords.length > 0) {
+                for (let kw of self.params.keywords) {
+                    let ess = kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                    let regex = new RegExp(ess, "gi"); // 创建正则表达式，全局且忽略大小写
                     name = name.replace(regex, `〖〖${kw}〗〗`);
                     lang = lang.replace(regex, `〖〖${kw}〗〗`);
-
-                    //name = name.replace(kw, `〖〖${kw}〗〗`)
-                    //lang = lang.replace(kw, `〖〖${kw}〗〗`)
                 }
             }
-
             name = name.replaceAll("〖〖", "<span style='color: red;'>")
             name = name.replaceAll("〗〗", "</span>")
             lang = lang.replaceAll("〖〖", "<span style='color: red;'>")
             lang = lang.replaceAll("〗〗", "</span>")
             let size = this.formatBytes(book.s)
-
             div.innerHTML = `
                 <div class="l">
                     <c class="t">${name}</c>
@@ -481,25 +421,39 @@ var loader = {
         }
     },
     formatBytes: function(bytes) {
-    if (isNaN(bytes) || bytes < 0) return '无效输入';
-    if (bytes === 0) return '0 Bytes';
+        if (isNaN(bytes) || bytes < 0) return '无效输入';
+        if (bytes === 0) return '0 Bytes';
 
-    const units = ['Bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
-    let index = 0;
+        const units = ['Bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
+        let index = 0;
 
-    while (bytes >= 1024 && index < units.length - 1) {
-        bytes /= 1024;
-        index++;
-    }
+        while (bytes >= 1024 && index < units.length - 1) {
+            bytes /= 1024;
+            index++;
+        }
 
-    const formattedValue = parseFloat(bytes.toFixed(2)).toString();
-    return `${formattedValue} ${units[index]}`;
-},
+        const formattedValue = parseFloat(bytes.toFixed(2)).toString();
+        return `${formattedValue} ${units[index]}`;
+    },
     loadPage: function(page){
         const self = this
-        self.get("./pages/"+page+".json").then(res => {
+        self.get("./pages/"+this.params.ext+"/"+this.params.lang+"/"+page+".json").then(res => {
             console.log(res)
             self.render(res.data)
+        }).catch(error => {
+            console.error("请求出错：", error);
+            self.render([])
+        }).finally(()=>{
+
+        });
+    },
+    loadTotal: function(){
+        const self = this
+        self.get("./pages/"+this.params.ext+"/"+this.params.lang+"/total").then(res => {
+            console.log(res)
+            self.params.total = Math.ceil(res.data/self.params.limit)
+            //document.getElementById("current-page").innerText = self.params.page
+            document.getElementById("total-page").innerText = self.params.total
         }).catch(error => {
             console.error("请求出错：", error);
         }).finally(()=>{
@@ -508,13 +462,13 @@ var loader = {
     },
     loadIDs: function(){
         const self = this
-        if (self.params.search_keywords.length === 0) {
+        if (self.params.keywords.length === 0) {
             return
         }
 
         let requests = []
-        for (let kw of this.params.search_keywords) {
-            requests.push(self.get("./indexes/" + kw + ".json"))
+        for (let kw of this.params.keywords) {
+            requests.push(self.get("./indexes/"+this.params.ext+"/"+this.params.lang+"/" + kw + ".json"))
         }
 
         Promise.allSettled(requests)
@@ -553,13 +507,13 @@ var loader = {
                 self.params.search_ids = ids
 
                 self.params.total = Math.ceil(ids.length/self.params.limit)
-                self.params.current_page = 1
+                self.params.page = 1
 
-                document.getElementById("current-page").innerText = self.params.current_page
+                document.getElementById("current-page").innerText = self.params.page
                 document.getElementById("total-page").innerText = self.params.total
 
-                let start = (self.params.current_page - 1) * self.params.limit
-                let end = self.params.current_page * self.params.limit
+                let start = (self.params.page - 1) * self.params.limit
+                let end = self.params.page * self.params.limit
                 let showIDs = self.params.search_ids.slice(start, end)
 
                 self.getIDs(showIDs)
@@ -588,44 +542,42 @@ var loader = {
     },
     onload: function () {
         this.init()
-        if (this.params.search_keywords.length > 0) {
+        if (this.params.keywords.length > 0) {
             this.loadIDs()
         } else {
-            this.loadPage(this.params.current_page)
+            this.loadPage(this.params.page)
         }
     },
     onLangChange: function(e) {
-        this.params.current_page = 1
-            this.params.search_lang = e.value
+        this.params.page = 1
+            this.params.lang = e.value
             this.setSearchKeywords()
 
-        document.getElementById("current-page").innerText = this.params.current_page
+        document.getElementById("current-page").innerText = this.params.page
         document.getElementById("total-page").innerText = this.params.total
 
-        if (this.params.search_keywords.length > 0) {
+        if (this.params.keywords.length > 0) {
             this.loadIDs()
         } else {
             this.params.total = loader.total
             document.getElementById("total-page").innerText = this.params.total
-            this.loadPage(loader.params.current_page)
+            this.loadTotal()
+            this.loadPage(loader.params.page)
         }
     },
     onFileTypeGroupChange: function(e) {
-        this.params.search_types = e.value.split(",")
-        if (!this.params.search_types) {
-            this.params.search_types = []
-        }
-        this.params.search_types = search_types.filter(item => item !== "");
-        this.params.current_page = 1
+        this.params.ext = e.value.toLowerCase()
+        this.params.page = 1
         this.setSearchKeywords()
-        document.getElementById("current-page").innerText = this.params.current_page
+        document.getElementById("current-page").innerText = this.params.page
         document.getElementById("total-page").innerText = this.params.total
-        if (this.params.search_keyword.length > 0) {
+        if (this.params.keyword.length > 0) {
             this.loadIDs()
         } else {
             this.params.total = this.total
             document.getElementById("total-page").innerText = this.params.total
-            this.loadPage(this.params.current_page)
+            this.loadTotal()
+            this.loadPage(this.params.page)
         }
     }
 }
@@ -633,53 +585,53 @@ var loader = {
 loader.onload()
 
 document.getElementById("next-page").addEventListener("click", function () {
-    loader.params.current_page++
-    if (loader.params.current_page > loader.params.total) {
-        loader.params.current_page = 1
+    loader.params.page++
+    if (loader.params.page > loader.params.total) {
+        loader.params.page = 1
     }
-    document.getElementById("current-page").innerText = loader.params.current_page
+    document.getElementById("current-page").innerText = loader.params.page
     document.getElementById("total-page").innerText = loader.params.total
     if (loader.params.search_ids.length > 0) {
-        let start = (loader.params.current_page - 1) * loader.params.limit
-        let end = loader.params.current_page * loader.params.limit
+        let start = (loader.params.page - 1) * loader.params.limit
+        let end = loader.params.page * loader.params.limit
         let showIDs = loader.params.search_ids.slice(start, end)
         loader.getIDs(showIDs)
     } else {
-        loader.loadPage(loader.params.current_page)
+        loader.loadPage(loader.params.page)
     }
 })
 
 document.getElementById("prev-page").addEventListener("click", function () {
-    loader.params.current_page--
-    if (loader.params.current_page < 1) {
-        loader.params.current_page = loader.params.total
+    loader.params.page--
+    if (loader.params.page < 1) {
+        loader.params.page = loader.params.total
     }
-    document.getElementById("current-page").innerText = loader.params.current_page
+    document.getElementById("current-page").innerText = loader.params.page
     document.getElementById("total-page").innerText = loader.params.total
 
     if (loader.params.search_ids.length > 0) {
-        let start = (loader.params.current_page - 1) * loader.params.limit
-        let end = loader.params.current_page * loader.params.limit
+        let start = (loader.params.page - 1) * loader.params.limit
+        let end = loader.params.page * loader.params.limit
         let showIDs = loader.params.search_ids.slice(start, end)
         loader.getIDs(showIDs)
     } else {
-        loader.loadPage(loader.params.current_page)
+        loader.loadPage(loader.params.page)
     }
 })
 
 document.getElementById("s").addEventListener("change", function (e) {
-    loader.params.search_keyword = this.value.trim()
-    loader.params.current_page = 1
+    loader.params.keyword = this.value.trim()
+    loader.params.page = 1
     loader.setSearchKeywords()
 
-    document.getElementById("current-page").innerText = loader.params.current_page
+    document.getElementById("current-page").innerText = loader.params.page
     document.getElementById("total-page").innerText = loader.params.total
-    if (loader.params.search_keywords.length > 0) {
+    if (loader.params.keywords.length > 0) {
         loader.loadIDs()
     } else {
         loader.params.total = loader.total
         document.getElementById("total-page").innerText = loader.total
-        loader.loadPage(loader.params.current_page)
+        loader.loadPage(loader.params.page)
     }
 });
 </script>
