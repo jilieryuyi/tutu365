@@ -42,10 +42,7 @@
         .size {
             display: inline-block;
             width: 100px;
-            text-align: left;
-        }
-        .fs {
-            padding-left: 12px;
+            text-align: center;
         }
         .btn{
             cursor: pointer;
@@ -468,7 +465,13 @@ var loader = {
 
         let requests = []
         for (let kw of this.params.keywords) {
-            requests.push(self.get("./indexes/"+this.params.ext+"/"+this.params.lang+"/" + kw + ".json"))
+            let sum = 0
+            Array.from(new TextEncoder().encode(kw)).forEach((c) => {
+                sum += c
+            })
+            let index = sum % 1000
+
+            requests.push(self.get("./indexes/"+this.params.ext+"/"+this.params.lang+"/" + index + ".json"))
         }
 
         Promise.allSettled(requests)
@@ -477,6 +480,7 @@ var loader = {
                     .filter(result => result.status === 'fulfilled')
                     .map(result => result.value);
 
+                console.log("successfulData, ", successfulData)
                 const errors = results
                     .filter(result => result.status === 'rejected')
                     .map(result => result.reason);
@@ -484,9 +488,13 @@ var loader = {
                 let weight = new Map()
 
                 for (let res of successfulData) {
-                    for (let id of res.data) {
-                        weight.set(id, (weight.get(id) || 0) + 1);
-                    }
+                        for (let kw of self.params.keywords) {
+                           let ids =  res.data[kw]||[]
+                            for (let id of ids) {
+                                weight.set(id, (weight.get(id) || 0) + 1);
+                            }
+                        }
+                        //weight.set(id, (weight.get(id) || 0) + 1);
                 }
 
                 let ids = [...weight.keys()];
