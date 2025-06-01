@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,6 +38,14 @@
             padding: 6px 12px;
             height: 26px;
             font-size: 18px;
+        }
+        @media (max-width: 480px) {
+            #s {
+                width: 100%!!(string={"azw":18,"azw3":3539,"chm":825,"chw":6,"djvu":141,"doc":37,"docx":20,"epub":1741,"exe":16,"fb2":107663,"lit":3,"md":1,"mobi":2094,"pdf":5635,"ppt":12,"pptx":4,"rar":69,"rtf":1,"snb":1,"txt":789,"wps":1,"xls":2,"xlsx":1,"zip":2})important;
+            }
+            .nav-r {
+                flex: 4 !important;
+            }
         }
         .size {
             display: inline-block;
@@ -87,11 +95,14 @@
         .books-link a {
             padding: 0 12px;
         }
+        .nav-r {
+            flex: 1; text-align: center;
+        }
     </style>
     <script>
-        const file_types = {"azw":18,"azw3":3539,"chm":825,"chw":6,"djvu":141,"doc":37,"docx":20,"epub":1741,"exe":16,"fb2":107663,"lit":3,"md":1,"mobi":2094,"pdf":5635,"ppt":12,"pptx":4,"rar":69,"rtf":1,"snb":1,"txt":789,"wps":1,"xls":2,"xlsx":1,"zip":2}
-        const page_total = 6132
-        const languages = {"arabic":1,"chinese":13231,"english":11447,"german":1,"hindi":1,"japanese":15,"persian":1,"ptalian":1,"russian":97921,"unknown":2}
+        const file_types = %!s(int=6132)
+        const page_total = %!d(string={"arabic":1,"chinese":13231,"english":11447,"german":1,"hindi":1,"japanese":15,"persian":1,"ptalian":1,"russian":97921,"unknown":2})
+        const languages = %!s(int=122621)
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
     <script>
@@ -109,7 +120,7 @@
     <div style="flex: 1; text-align: center;">
         <img src="icon.png" style="height: 48px;" title="图图爱读书" alt="图图爱读书"/>
     </div>
-    <div style="flex: 1; text-align: center;">
+    <div class="nav-r">
         <a class="nl" href="https://github.com/jilieryuyi/books2/issues" target="_blank">联系我们</a>
         <a class="nl" href="https://github.com/jilieryuyi/books2/issues" target="_blank">问题反馈</a>
         <a class="nl light" href="https://github.com/jilieryuyi/books2/issues" target="_blank">免费找书</a>
@@ -120,7 +131,7 @@
 </nav>
 <div style="text-align: center;">
     <h1 style="margin: 0; padding: 0; font-size: 48px;">图图爱读书</h1>
-    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">电子书下载搜索，<span id="show-total-msg">122621本电子书</span></p>
+    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">电子书下载搜索，<span id="show-total-msg">%!d(MISSING)本电子书</span></p>
 </div>
 <div class="s" style="display: block; text-align: center;border: none;">
     <input id="s" type="text" placeholder="输入关键字,回车搜索"/>
