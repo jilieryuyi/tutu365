@@ -494,13 +494,18 @@ var loader = {
         }
 
         let requests = []
+        let indexes = []
         for (let kw of this.params.keywords) {
             let sum = 0
             Array.from(new TextEncoder().encode(kw)).forEach((c) => {
                 sum += c
             })
             let index = sum % 1000
+            indexes.push(index)
+        }
 
+        indexes = [...new Set(indexes)]
+        for (let index of indexes) {
             requests.push(self.get("./indexes/"+this.params.ext+"/"+this.params.lang+"/" + index + ".json"))
         }
 
