@@ -186,6 +186,34 @@
 </div>
 </body>
 <script>
+    // Base64解码函数
+    function base64Decode(base64Str, mode = 'std') {
+        // 预处理
+        base64Str = base64Str.replace(/\s/g, '');
+        switch (mode) {
+            case 'url':
+                base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
+                break;
+            case 'raw-std':
+                while (base64Str.length %! (MISSING)!== 0) base64Str += '=';
+                break;
+            case 'raw-url':
+                base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
+                while (base64Str.length %! (MISSING)!== 0) base64Str += '=';
+                break;
+        }
+
+        // 解码实现
+        if (typeof Buffer !== 'undefined') {
+            return Buffer.from(base64Str, 'base64');
+        }
+        const binary = atob(base64Str);
+        const bytes = new Uint8Array(binary.length);
+        for (let i = 0; i < binary.length; i++) {
+            bytes[i] = binary.charCodeAt(i);
+        }
+        return bytes;
+    }
 const lang = {
     cut: function(s) {
         if (s === "") {
@@ -524,10 +552,27 @@ var loader = {
 
                 for (let res of successfulData) {
                         for (let kw of self.params.keywords) {
-                           let ids =  res.data[kw]||[]
-                            for (let id of ids) {
-                                weight.set(id, (weight.get(id) || 0) + 1);
+                           let encode = res.data[kw]||""
+                            if (encode === "") {
+                                continue
                             }
+                           let bytes = base64Decode(encode)
+                           //let bytes = Array.from(new TextEncoder().encode(decode))
+                            if (bytes.length < 4) {
+                                 continue
+                            }
+                            console.log(bytes)
+                           for (let i = 0; i < bytes.length; i+=4){
+                               let b = bytes.slice(i,i+4)
+                               let id = (b[0]) | (b[1]<<8) | (b[2]<<16) | (b[3]<<24)
+                               weight.set(id, (weight.get(id) || 0) + 1);
+                               console.log(id)
+                           }
+
+                           // let ids =  res.data[kw]||[]
+                           //  for (let id of ids) {
+                           //      weight.set(id, (weight.get(id) || 0) + 1);
+                           //  }
                         }
                         //weight.set(id, (weight.get(id) || 0) + 1);
                 }
