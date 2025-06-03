@@ -114,12 +114,17 @@
             display: inline-block;
             padding-bottom: 8px;
         }
-
+        #jump-page{
+            padding: 5px 3px;
+            width: 68px;
+            text-align: center;
+        }
+        }
     </style>
     <script>
         const file_types = {"azw":18,"azw3":3539,"chm":825,"chw":6,"djvu":141,"doc":37,"docx":20,"epub":1741,"exe":16,"fb2":107663,"lit":3,"md":1,"mobi":2094,"pdf":5635,"ppt":12,"pptx":4,"rar":69,"rtf":1,"snb":1,"txt":789,"wps":1,"xls":2,"xlsx":1,"zip":2}
         const page_total = 6132
-        const languages = {"arabic":1,"chinese":13231,"english":11447,"german":1,"hindi":1,"japanese":15,"persian":1,"ptalian":1,"russian":97921,"unknown":2}
+        const languages = {"arabic":1,"chinese":13231,"danish":1,"english":9799,"french":469,"german":166,"hindi":1,"japanese":15,"persian":1,"polish":424,"portuguese":31,"ptalian":237,"romanian":42,"russian":97405,"spanish":796,"unknown":2}
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
     <script>
@@ -179,6 +184,7 @@
     <div class="r">
         <button id="prev-page" class="btn">Previous Page</button>
         <span id="current-page">1</span>/<span id="total-page">1</span>
+        <input id="jump-page" type="number"/>
         <button id="next-page" class="btn">Next Page</button>
     </div>
 </div>
@@ -699,6 +705,24 @@ document.getElementById("prev-page").addEventListener("click", function () {
     document.getElementById("current-page").innerText = loader.params.page
     document.getElementById("total-page").innerText = loader.params.total
 
+    if (loader.params.search_ids.length > 0) {
+        let start = (loader.params.page - 1) * loader.params.limit
+        let end = loader.params.page * loader.params.limit
+        let showIDs = loader.params.search_ids.slice(start, end)
+        loader.getIDs(showIDs)
+    } else {
+        loader.loadPage(loader.params.page)
+    }
+})
+
+document.getElementById("jump-page").addEventListener("change", function (e) {
+    let page = parseInt(this.value)
+    if (isNaN(page) || page < 1 || page > loader.params.total) {
+        return
+    }
+
+    loader.params.page = page
+    document.getElementById("current-page").innerText = loader.params.page
     if (loader.params.search_ids.length > 0) {
         let start = (loader.params.page - 1) * loader.params.limit
         let end = loader.params.page * loader.params.limit
