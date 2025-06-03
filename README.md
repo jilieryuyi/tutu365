@@ -12,3 +12,5 @@
 [persian books](https://voluble-croquembouche-d321dc.netlify.app/)、
 [ptalian books](https://voluble-croquembouche-d321dc.netlify.app/)、
 [russian books](https://voluble-croquembouche-d321dc.netlify.app/)
+
+[1 million+e-books, continuously updated](https://voluble-croquembouche-d321dc.netlify.app/)
