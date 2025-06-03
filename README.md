@@ -3,4 +3,12 @@
 
 
 ## Download books in multiple languages
-arabic books、 chinese books、 english books、 german books、 hindi books、 japanese books、 persian books、 ptalian books、 russian books
+[arabic books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[chinese books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[english books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[german books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[hindi books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[japanese books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[persian books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[ptalian books](https://voluble-croquembouche-d321dc.netlify.app/)、
+[russian books](https://voluble-croquembouche-d321dc.netlify.app/)
