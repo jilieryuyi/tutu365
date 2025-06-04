@@ -203,11 +203,11 @@ If the e-books included on this website unintentionally infringe on your company
                 base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
                 break;
             case 'raw-std':
-                while (base64Str.length %! (MISSING)!== 0) base64Str += '=';
+                while (base64Str.length % 4 !== 0) base64Str += '=';
                 break;
             case 'raw-url':
                 base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
-                while (base64Str.length %! (MISSING)!== 0) base64Str += '=';
+                while (base64Str.length % 4 !== 0) base64Str += '=';
                 break;
         }
 
