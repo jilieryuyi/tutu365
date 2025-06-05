@@ -24,7 +24,7 @@
             text-align: center;
         }
         .c:hover {
-            box-shadow: #cccccc 0px 0px 5px;
+            box-shadow: #ccc 0px 0px 5px;
         }
 
         .l {
@@ -35,6 +35,9 @@
         .r {
             flex: 1;
             text-align: left;
+        }
+        #cc {
+            position: relative;
         }
         #s{
             width: 500px;
@@ -119,12 +122,51 @@
             width: 68px;
             text-align: center;
         }
+        .loader {
+            font-size: 10px;
+            width: 1em;
+            height: 1em;
+            border-radius: 50%;
+            text-indent: -9999em;
+            animation: mulShdSpin 1.1s infinite ease;
+            transform: translateZ(0);
+            position: absolute;
+            left: 50%;
+            top: 20%;
+            display: none;
+        }
+        @keyframes mulShdSpin {
+            0%,
+            100% {
+                box-shadow: 0em -2.6em 0em 0em #ffffff, 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.5), -1.8em -1.8em 0 0em rgba(187,187,187, 0.7);
+            }
+            12.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.7), 1.8em -1.8em 0 0em #ffffff, 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.5);
+            }
+            25% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.5), 1.8em -1.8em 0 0em rgba(187,187,187, 0.7), 2.5em 0em 0 0em #ffffff, 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            37.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.5), 2.5em 0em 0 0em rgba(187,187,187, 0.7), 1.75em 1.75em 0 0em #ffffff, 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            50% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.5), 1.75em 1.75em 0 0em rgba(187,187,187, 0.7), 0em 2.5em 0 0em #ffffff, -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            62.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.5), 0em 2.5em 0 0em rgba(187,187,187, 0.7), -1.8em 1.8em 0 0em #ffffff, -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            75% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.5), -1.8em 1.8em 0 0em rgba(187,187,187, 0.7), -2.6em 0em 0 0em #ffffff, -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            87.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.5), -2.6em 0em 0 0em rgba(187,187,187, 0.7), -1.8em -1.8em 0 0em #ffffff;
+            }
         }
     </style>
     <script>
-        const file_types = {"7z":41,"ape":3,"avi":105,"azw":18,"azw3":3622,"chm":942,"chw":6,"cue":5,"djvu":141,"doc":65,"docx":26,"dsf":1,"epub":1895,"exe":31,"fb2":107663,"flac":54,"iso":16,"jpg":72,"kz":2,"lit":3,"lrc":120,"md":2,"mkv":406,"mobi":2190,"mp3":121,"mp4":652,"mpg":551,"nrg":1,"pdf":7726,"pk":1,"ppt":15,"pptx":5,"rar":5378,"rmvb":1,"rtf":1,"snb":1,"torrent":11,"ts":2,"txt":1599,"vob":28,"wav":3,"webm":1,"wmv":2,"wps":2,"xls":2,"xlsx":2,"zip":1155}
-        const page_total = 6735
-        const languages = {"arabic":1,"chinese":25106,"danish":1,"english":9935,"french":469,"german":166,"hindi":1,"japanese":40,"korean":1,"persian":1,"polish":425,"portuguese":31,"ptalian":237,"romanian":42,"russian":97406,"spanish":796,"unknown":31}
+        const file_types = {"7z":54,"ape":3,"avi":114,"azw":18,"azw3":3624,"chm":942,"chw":6,"cue":6,"djvu":141,"doc":65,"docx":26,"dsf":1,"epub":1908,"exe":31,"f4v":11,"fb2":107663,"flac":54,"flv":2,"iso":35,"jpg":72,"kz":2,"lit":3,"lrc":120,"md":2,"mkv":846,"mobi":2196,"mp3":150,"mp4":892,"mpg":617,"nrg":2,"pdf":7726,"pk":1,"ppt":15,"pptx":5,"rar":8592,"rmvb":1,"rtf":1,"snb":1,"torrent":22,"ts":9,"txt":1599,"vob":28,"wav":3,"webm":1,"wmv":2,"wps":2,"xls":2,"xlsx":2,"zip":2012}
+        const page_total = 6982
+        const languages = {"arabic":1,"chinese":30003,"danish":1,"english":9964,"french":469,"german":166,"hindi":1,"japanese":52,"korean":2,"persian":1,"polish":426,"portuguese":31,"ptalian":237,"romanian":42,"russian":97406,"spanish":796,"unknown":32}
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
     <script>
@@ -155,7 +197,7 @@
 </div>
 <div style="text-align: center;">
     <h1 style="margin: 0; padding: 0; font-size: 48px;">Tutu Loves Reading</h1>
-    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">E-book Download Search，<span id="show-total-msg">134689 e-books&audio&video</span></p>
+    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">E-book Download Search，<span id="show-total-msg">139630 e-books&audio&video</span></p>
 </div>
 <div class="s" style="display: block; text-align: center;border: none;">
     <input id="s" type="text" placeholder="Enter keywords and press Enter to search"/>
@@ -177,7 +219,16 @@
     </div>
 </div>
 <div id="cc">
-
+    <div class="loader" id="loading"></div>
+    <div class="c"><div class="l"><c class="t">Name</c></div>
+        <div class="r">
+            <span class="size">Language</span>
+            <span class="size fs">Size</span>
+            <span class="size">Password</span>
+            <a>Download</a>
+        </div>
+    </div>
+    <div id="container"></div>
 </div>
 <div class="c">
     <div class="l"></div>
@@ -441,16 +492,10 @@ var loader = {
     },
     render: function(booksToShow) {
         const self = this
-        const cc = document.getElementById("cc")
-        cc.innerHTML = `
-            <div class="c"><div class="l"><c class="t">Name</c></div>
-                <div class="r">
-                    <span class="size">Language</span>
-                    <span class="size fs">Size</span>
-                    <span class="size">Password</span>
-                    <a>Download</a>
-                </div>
-            </div>`
+        self.hideLoading()
+
+        const container = document.getElementById("container")
+        container.innerHTML = ``
         for (let book of booksToShow) {
             const div = document.createElement("div")
             div.className = "c"
@@ -480,7 +525,7 @@ var loader = {
                     <a href="${book.d}" target="_blank">Download</a>
                 </div>
             `
-            cc.appendChild(div)
+            container.appendChild(div)
         }
     },
     formatBytes: function(bytes) {
@@ -500,6 +545,8 @@ var loader = {
     },
     loadPage: function(page){
         const self = this
+        self.showLoading()
+
         self.get("./pages/"+this.params.ext+"/"+this.params.lang+"/"+page+".json").then(res => {
             console.log(res)
             self.render(res.data)
@@ -529,6 +576,7 @@ var loader = {
             return
         }
 
+        self.showLoading()
         let requests = []
         let indexes = []
         for (let kw of this.params.keywords) {
@@ -617,6 +665,8 @@ var loader = {
     },
     getIDs: function (ids) {
         const self = this
+        self.showLoading()
+
         let requests = []
         for (let id of ids) {
             requests.push(self.get("./data/" + id + ".json"))
@@ -660,6 +710,20 @@ var loader = {
             this.loadTotal()
             this.loadPage(loader.params.page)
         }
+    },
+    showLoading: function (){
+        let cc = document.getElementById("cc")
+        cc.style.background = "#ccc"
+
+        let loading = document.getElementById("loading")
+        loading.style.display = "block"
+    },
+    hideLoading: function (){
+        let cc = document.getElementById("cc")
+        cc.style.background = "#fff"
+
+        let loading = document.getElementById("loading")
+        loading.style.display = "none"
     },
     onFileTypeGroupChange: function(e) {
         this.params.ext = e.value.toLowerCase()
