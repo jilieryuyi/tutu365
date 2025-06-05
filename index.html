@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>免费电子书下载搜索 | 海量正版电子书资源 | 书名/作者/格式一键查找 | 图图爱读书</title>
+    <meta name="description" content="专业电子书搜索引擎，提供PDF、EPUB、MOBI等格式的免费电子书下载。覆盖小说、学术、技术书籍等百万资源，支持书名、作者、ISBN精准搜索,A professional e-book search engine that provides free e-book downloads in PDF, EPUB, MOBI, and other formats. Covering millions of resources such as novels, academic books, and technical books, supporting precise searches for book titles, authors, and ISBNs">
+    <meta name="keywords" content="电子书下载,免费电子书,电子书搜索,PDF下载,EPUB书籍,MOBI电子书,小说下载,学术资源，kindle电子书,图书搜索引擎,电子书资源,正版电子书,电子书格式转换,电子书分享,图图爱读书,E-book Download, Free E-books, E-book Search, PDF Download, EPUB Books, MOBI E-books, Novel Download, Academic Resources, Kindle E-books, Book Search Engine, E-book Resources, Genuine E-books, E-book Format Conversion, E-book Sharing, Tutu Love Reading">
+    <style>
+        body {
+            margin: 0;
+        }
+        .ft {
+            border-bottom: #ccc solid 1px;
+        }
+        .t {
+            word-break: break-all;
+        }
+        .c, .s{
+            display: flex;
+            gap: 6px;
+            padding: 12px 0;
+            border-bottom: #ccc solid 1px;
+            text-align: center;
+        }
+        .c:hover {
+            box-shadow: #ccc 0px 0px 5px;
+        }
+
+        .l {
+            flex: 1;
+            text-align: right;
+        }
+
+        .r {
+            flex: 1;
+            text-align: left;
+        }
+        #cc {
+            position: relative;
+        }
+        #s{
+            width: 500px;
+            padding: 6px 12px;
+            height: 26px;
+            font-size: 18px;
+        }
+        .ft2 {
+            padding-bottom: 30px;
+        }
+        #all-ls {
+            text-align: left;
+        }
+        @media (max-width: 480px) {
+            #s {
+                width: 100% !important;
+            }
+            .nav-r {
+                flex: 4 !important;
+            }
+            .ft2 {
+                padding-bottom: 0!important;
+            }
+        }
+        .size {
+            display: inline-block;
+            width: 100px;
+            text-align: center;
+        }
+        .btn{
+            cursor: pointer;
+        }
+        .nl {
+            text-decoration: none;
+            cursor: pointer;
+            display: inline-block;
+            padding: 0 12px;
+            height: 48px;
+            line-height: 48px;
+            color: rgb(102, 102, 102);
+        }
+        .nl:hover {
+            background: rgb(0, 140, 186);
+            color: #fff;
+        }
+        .light {
+            background: rgb(0, 140, 186);
+            color: #fff;
+        }
+        .books-link a {
+            padding: 0 12px;
+        }
+        .nav-r {
+            flex: 1; text-align: center;
+        }
+        .ft label {
+            display: inline-block;
+            padding-bottom: 8px;
+        }
+        #jump-page{
+            padding: 5px 3px;
+            width: 68px;
+            text-align: center;
+        }
+        .loader {
+            font-size: 10px;
+            width: 1em;
+            height: 1em;
+            border-radius: 50%;
+            text-indent: -9999em;
+            animation: mulShdSpin 1.1s infinite ease;
+            transform: translateZ(0);
+            position: absolute;
+            left: 50%;
+            top: 20%;
+            display: none;
+        }
+        @keyframes mulShdSpin {
+            0%,
+            100% {
+                box-shadow: 0em -2.6em 0em 0em #ffffff, 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.5), -1.8em -1.8em 0 0em rgba(187,187,187, 0.7);
+            }
+            12.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.7), 1.8em -1.8em 0 0em #ffffff, 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.5);
+            }
+            25% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.5), 1.8em -1.8em 0 0em rgba(187,187,187, 0.7), 2.5em 0em 0 0em #ffffff, 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            37.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.5), 2.5em 0em 0 0em rgba(187,187,187, 0.7), 1.75em 1.75em 0 0em #ffffff, 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            50% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.5), 1.75em 1.75em 0 0em rgba(187,187,187, 0.7), 0em 2.5em 0 0em #ffffff, -1.8em 1.8em 0 0em rgba(187,187,187, 0.2), -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            62.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.5), 0em 2.5em 0 0em rgba(187,187,187, 0.7), -1.8em 1.8em 0 0em #ffffff, -2.6em 0em 0 0em rgba(187,187,187, 0.2), -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            75% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.5), -1.8em 1.8em 0 0em rgba(187,187,187, 0.7), -2.6em 0em 0 0em #ffffff, -1.8em -1.8em 0 0em rgba(187,187,187, 0.2);
+            }
+            87.5% {
+                box-shadow: 0em -2.6em 0em 0em rgba(187,187,187, 0.2), 1.8em -1.8em 0 0em rgba(187,187,187, 0.2), 2.5em 0em 0 0em rgba(187,187,187, 0.2), 1.75em 1.75em 0 0em rgba(187,187,187, 0.2), 0em 2.5em 0 0em rgba(187,187,187, 0.2), -1.8em 1.8em 0 0em rgba(187,187,187, 0.5), -2.6em 0em 0 0em rgba(187,187,187, 0.7), -1.8em -1.8em 0 0em #ffffff;
+            }
+        }
+    </style>
+    <script>
+        const file_types = {"7z":54,"ape":3,"avi":114,"azw":18,"azw3":3624,"chm":942,"chw":6,"cue":6,"djvu":141,"doc":65,"docx":26,"dsf":1,"epub":1908,"exe":31,"f4v":11,"fb2":107663,"flac":54,"flv":2,"iso":35,"jpg":72,"kz":2,"lit":3,"lrc":120,"md":2,"mkv":846,"mobi":2196,"mp3":150,"mp4":892,"mpg":617,"nrg":2,"pdf":7726,"pk":1,"ppt":15,"pptx":5,"rar":8592,"rmvb":1,"rtf":1,"snb":1,"torrent":22,"ts":9,"txt":1599,"vob":28,"wav":3,"webm":1,"wmv":2,"wps":2,"xls":2,"xlsx":2,"zip":2012}
+        const page_total = 6982
+        const languages = {"arabic":1,"chinese":30003,"danish":1,"english":9964,"french":469,"german":166,"hindi":1,"japanese":52,"korean":2,"persian":1,"polish":426,"portuguese":31,"ptalian":237,"romanian":42,"russian":97406,"spanish":796,"unknown":32}
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-PHNGVFW9WS');
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4582855711963730"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<nav style="display: flex;  height: 48px; line-height: 48px; background: rgb(243, 243, 243);">
+    <div style="flex: 1; text-align: center;">
+        <img src="icon.png" style="height: 48px;" title="图图爱读书" alt="图图爱读书"/>
+    </div>
+    <div class="nav-r">
+        <a class="nl" href="https://github.com/jilieryuyi/books2/issues" target="_blank">联系我们</a>
+        <a class="nl" href="https://github.com/jilieryuyi/books2/issues" target="_blank">问题反馈</a>
+        <a class="nl light" href="https://github.com/jilieryuyi/books2/issues" target="_blank">免费找书</a>
+    </div>
+</nav>
+<div style="text-align: right;">
+    <span>语言(language)：</span>
+    <a style="padding: 0 6px;" href="index.html">中文</a>
+    <a style="padding: 0 6px;" href="english.html">english</a>
+</div>
+<div style="text-align: center;">
+    <h1 style="margin: 0; padding: 0; font-size: 48px;">图图爱读书</h1>
+    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">电子书下载搜索，<span id="show-total-msg">139630本电子书&音视频</span></p>
+</div>
+<div class="s" style="display: block; text-align: center;border: none;">
+    <input id="s" type="text" placeholder="输入关键字,回车搜索"/>
+</div>
+<div class="ft" style="text-align: center; border: none; padding-bottom: 12px; display: flex;">
+    <div style="flex: 1;text-align: right;padding-right: 12px;">文件类型</div>
+    <div id="all-fts" style="flex:4;text-align: left;">
+        <label>
+            <input class="ft-group" name="ft-group" type="radio" onchange="loader.onFileTypeGroupChange(this)" value="_default" checked/>全部
+        </label>
+    </div>
+</div>
+<div class="ft ft2" style="display: flex; text-align: center; border: none; ">
+    <div style="flex: 1;text-align: right;padding-right: 12px;">语言</div>
+    <div id="all-ls" style="flex:4;">
+        <label>
+            <input class="ls-group" name="ls-group" type="radio" onchange="loader.onLangChange(this)" value="_default" checked/>全部
+        </label>
+    </div>
+</div>
+<div id="cc">
+    <div class="loader" id="loading"></div>
+    <div class="c"><div class="l"><c class="t">名称</c></div>
+        <div class="r">
+            <span class="size">语言</span>
+            <span class="size fs">大小</span>
+            <span class="size">密码</span>
+            <a>下载</a>
+        </div>
+    </div>
+    <div id="container"></div>
+</div>
+<div class="c">
+    <div class="l"></div>
+    <div class="r">
+        <button id="prev-page" class="btn">上一页</button>
+        <span id="current-page">1</span>/<span id="total-page">1</span>
+        <input id="jump-page" type="number"/>
+        <button id="next-page" class="btn">下一页</button>
+    </div>
+</div>
+<div style="text-align: center; padding:20px 0;">
+本网站 图图爱读书 提供的资源均系收集于各大资源网站，本网站只提供web页面服务，并不提供电子图书资源存储，
+    若本站收录的电子书无意侵犯了贵司版权，请给我们来信 jilieryuyi#gmail.com（#更换为@）或者通过<a href="https://github.com/jilieryuyi/books1/issues" target="_blank">github</a>向我们反馈，我们会及时处理和回复，谢谢！
+
+</div>
+</body>
+<script>
+    // Base64解码函数
+    function base64Decode(base64Str, mode = 'std') {
+        // 预处理
+        base64Str = base64Str.replace(/\s/g, '');
+        switch (mode) {
+            case 'url':
+                base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
+                break;
+            case 'raw-std':
+                while (base64Str.length % 4 !== 0) base64Str += '=';
+                break;
+            case 'raw-url':
+                base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
+                while (base64Str.length % 4 !== 0) base64Str += '=';
+                break;
+        }
+
+        // 解码实现
+        if (typeof Buffer !== 'undefined') {
+            return Buffer.from(base64Str, 'base64');
+        }
+        const binary = atob(base64Str);
+        const bytes = new Uint8Array(binary.length);
+        for (let i = 0; i < binary.length; i++) {
+            bytes[i] = binary.charCodeAt(i);
+        }
+        return bytes;
+    }
+const lang = {
+    cut: function(s) {
+        if (s === "") {
+            return []
+        }
+
+        let fh = ['、', '，', '。', '？', '！', '：', '；', '“', '”', '‘', '’', "'", '《', '》', '【', '】', '（', '）', '(', ')', '——', '"', '[', ']', '{', '}', '.', '_', ',', ':', ';', '!', '?', '#', '@', '$', '%', '^', '&', '*', '+', '-', '=', '|', '\\', '>', '<', '/', '~', '`', '…', '·', '～', '—', '」', '〔', '〕', '「', '〖', '〗', '▪', '•', '◇', '◆', '★', '☆', '○', '●', '△', '▲', '□', '■', '▽', '▼', '＋', '－', '＝', '／', '＼', '｜', '＃', '＠', '＆', '＊', '％', '＄', '・', '°', '〈', '〉', '『', '』', '．', '［', '］', '｛', '｝', ' ']
+        let result = []
+        let temp = []
+
+        for (let i = 0; i < (s.length); i++) {
+            let char = s[i]
+            let isd = false
+
+            for (let f of fh) {
+                if (f[0] === char) {
+                    isd = true
+                    break
+                }
+            }
+
+            if (!isd) {
+                temp.push(char)
+            } else {
+                if (temp.length > 0) {
+                    result.push(temp.join(""))
+                    temp = []
+                }
+            }
+        }
+
+        if (temp.length > 0) {
+            result.push(temp.join(""))
+        }
+
+        let ks = []
+        for (let v of result) {
+            if (!this.han(v)) {
+                ks.push(v)
+                continue
+            }
+
+            if (v.length < 2) {
+                ks.push(v)
+                continue
+            }
+
+            let arr = this.gen(v)
+            for (let a of arr) {
+                a = a.trim()
+                if (a === "") {
+                    continue
+                }
+                a = a.toLowerCase()
+                ks.push(a)
+            }
+        }
+
+        return ks
+    },
+    gen: function(s) {
+        if (s === "") {
+            return []
+        }
+
+        let combinations = []
+        for (let i = 0; i < s.length; i++) {
+            for (let j = i; j < s.length; j++) {
+                combinations.push(s.slice(i, j + 1))
+            }
+        }
+
+        return combinations
+    },
+    // 定义 Unicode 范围检测函数
+    isNonSpaceLanguageChar: function(char) {
+        const codePoint = char.codePointAt(0);
+
+        // 检测汉字 (Han)
+        if ((codePoint >= 0x4E00 && codePoint <= 0x9FFF) ||
+            (codePoint >= 0x3400 && codePoint <= 0x4DBF) ||
+            (codePoint >= 0x20000 && codePoint <= 0x2A6DF)) {
+            return true;
+        }
+
+        // 检测平假名 (Hiragana)
+        if (codePoint >= 0x3040 && codePoint <= 0x309F) {
+            return true;
+        }
+
+        // 检测片假名 (Katakana)
+        if (codePoint >= 0x30A0 && codePoint <= 0x30FF) {
+            return true;
+        }
+
+        // 检测泰文 (Thai)
+        if (codePoint >= 0x0E00 && codePoint <= 0x0E7F) {
+            return true;
+        }
+
+        // 检测韩文 (Hangul)
+        return (codePoint >= 0xAC00 && codePoint <= 0xD7AF) ||   // 韩文音节
+            (codePoint >= 0x1100 && codePoint <= 0x11FF) ||   // 韩文字母
+            (codePoint >= 0x3130 && codePoint <= 0x318F)
+    },
+    han:function(text) {
+        for (let i = 0; i < text.length; i++) {
+            // 处理代理对（surrogate pairs）以支持扩展字符
+            const char = text.codePointAt(i) > 0xFFFF ?
+                String.fromCodePoint(text.codePointAt(i)) :
+                text[i];
+
+            // 如果字符属于非空格分隔语言体系
+            if (this.isNonSpaceLanguageChar(char)) {
+                return true;
+            }
+
+            // 跳过代理对中的第二个字符
+            if (text.codePointAt(i) > 0xFFFF) {
+                i++;
+            }
+        }
+        return false;
+    }
+}
+
+var loader = {
+    total: page_total,
+    params: {
+        limit: 20,
+        page: 1,
+        total: page_total,
+        keyword: "",
+        ext: "_default",
+        lang: "_default",
+        keywords: [],
+        search_ids: [],
+    },
+    parse:function(text) {
+        try {
+            return JSON.parse(text);
+        } catch {
+            return text;
+        }
+    },
+    setSearchKeywords: function () {
+        this.params.keyword = this.params.keyword.trim()
+        let keywords = []
+        if (this.params.keyword !=="") {
+            let kws = lang.cut(this.params.keyword)
+            for (let kw of kws) {
+                if (kw.length > 0) {
+                    kw = kw.toLowerCase()
+                    keywords.push(kw)
+                }
+            }
+        }
+
+        this.params.keywords = [...new Set(keywords)]
+        this.params.keywords = this.params.keywords.sort((a, b) => b.length - a.length);
+    },
+    init: function (){
+        const queryParams = new URLSearchParams(window.location.search);
+        let keyword = queryParams.get('s')
+        if (!keyword) {
+            keyword = ""
+        }
+
+        this.params.keyword = keyword
+        this.setSearchKeywords()
+        document.getElementById("s").value = keyword
+
+        for (let key in file_types) {
+            const label = document.createElement("label")
+            label.innerHTML = `<input class="ft-group" name="ft-group" type="radio" onchange="loader.onFileTypeGroupChange(this)" value="${key}"/>${key}(${file_types[key]})`
+            document.getElementById("all-fts").appendChild(label)
+        }
+
+        for (let lang in languages) {
+            const label = document.createElement("label")
+            label.innerHTML = `<input class="ls-group" name="ls-group" type="radio" onchange="loader.onLangChange(this)" value="${lang}"/>${lang}(${languages[lang]})`
+            document.getElementById("all-ls").appendChild(label)
+        }
+
+        document.getElementById("current-page").innerText = this.params.page
+        document.getElementById("total-page").innerText = this.params.total
+    },
+    get: function (url, params = {}, timeout = 5000) {
+        const query = new URLSearchParams(params).toString();
+        const requestUrl = query ? `${url}?${query}` : url;
+
+        return new Promise((resolve, reject) => {
+            const xhr = new XMLHttpRequest();
+            xhr.open('GET', requestUrl, true);
+            xhr.timeout = timeout;
+
+            xhr.onload = () => {
+                if (xhr.status >= 200 && xhr.status < 300) {
+                    resolve({
+                        status: xhr.status,
+                        data: this.parse(xhr.responseText)
+                    });
+                } else {
+                    reject(new Error(`请求失败，状态码：${xhr.status}`));
+                }
+            };
+
+            xhr.onerror = () => reject(new Error('网络错误'));
+            xhr.ontimeout = () => reject(new Error('请求超时'));
+
+            try {
+                xhr.send();
+            } catch (e) {
+                reject(e);
+            }
+        });
+    },
+    render: function(booksToShow) {
+        const self = this
+        self.hideLoading()
+
+        const container = document.getElementById("container")
+        container.innerHTML = ``
+        for (let book of booksToShow) {
+            const div = document.createElement("div")
+            div.className = "c"
+            let name = book.n
+            let lang = book.l
+            if (self.params.keywords.length > 0) {
+                for (let kw of self.params.keywords) {
+                    let ess = kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                    let regex = new RegExp(ess, "gi"); // 创建正则表达式，全局且忽略大小写
+                    name = name.replace(regex, `〖〖${kw}〗〗`);
+                    lang = lang.replace(regex, `〖〖${kw}〗〗`);
+                }
+            }
+            name = name.replaceAll("〖〖", "<span style='color: red;'>")
+            name = name.replaceAll("〗〗", "</span>")
+            lang = lang.replaceAll("〖〖", "<span style='color: red;'>")
+            lang = lang.replaceAll("〗〗", "</span>")
+            let size = this.formatBytes(book.s)
+            div.innerHTML = `
+                <div class="l">
+                    <c class="t">${name}</c>
+                </div>
+                <div class="r">
+                    <span class="size">${lang}</span>
+                    <span class="size fs">${size}</span>
+                    <span class="size">${book.p}</span>
+                    <a href="${book.d}" target="_blank">下载</a>
+                </div>
+            `
+            container.appendChild(div)
+        }
+    },
+    formatBytes: function(bytes) {
+        if (isNaN(bytes) || bytes < 0) return '无效输入';
+        if (bytes === 0) return '0 Bytes';
+
+        const units = ['Bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
+        let index = 0;
+
+        while (bytes >= 1024 && index < units.length - 1) {
+            bytes /= 1024;
+            index++;
+        }
+
+        const formattedValue = parseFloat(bytes.toFixed(2)).toString();
+        return `${formattedValue} ${units[index]}`;
+    },
+    loadPage: function(page){
+        const self = this
+        self.showLoading()
+
+        self.get("./pages/"+this.params.ext+"/"+this.params.lang+"/"+page+".json").then(res => {
+            console.log(res)
+            self.render(res.data)
+        }).catch(error => {
+            console.error("请求出错：", error);
+            self.render([])
+        }).finally(()=>{
+
+        });
+    },
+    loadTotal: function(){
+        const self = this
+        self.get("./pages/"+this.params.ext+"/"+this.params.lang+"/total").then(res => {
+            console.log(res)
+            self.params.total = Math.ceil(res.data/self.params.limit)
+            //document.getElementById("current-page").innerText = self.params.page
+            document.getElementById("total-page").innerText = self.params.total
+        }).catch(error => {
+            console.error("请求出错：", error);
+        }).finally(()=>{
+
+        });
+    },
+    loadIDs: function(){
+        const self = this
+        if (self.params.keywords.length === 0) {
+            return
+        }
+
+        self.showLoading()
+        let requests = []
+        let indexes = []
+        for (let kw of this.params.keywords) {
+            let sum = 0
+            Array.from(new TextEncoder().encode(kw)).forEach((c) => {
+                sum += c
+            })
+            let index = sum % 1000
+            indexes.push(index)
+        }
+
+        indexes = [...new Set(indexes)]
+        for (let index of indexes) {
+            requests.push(self.get("./indexes/"+this.params.ext+"/"+this.params.lang+"/" + index + ".json"))
+        }
+
+        Promise.allSettled(requests)
+            .then(results => {
+                const successfulData = results
+                    .filter(result => result.status === 'fulfilled')
+                    .map(result => result.value);
+
+                console.log("successfulData, ", successfulData)
+                const errors = results
+                    .filter(result => result.status === 'rejected')
+                    .map(result => result.reason);
+
+                let weight = new Map()
+
+                for (let res of successfulData) {
+                        for (let kw of self.params.keywords) {
+                           let encode = res.data[kw]||""
+                            if (encode === "") {
+                                continue
+                            }
+                           let bytes = base64Decode(encode)
+                           //let bytes = Array.from(new TextEncoder().encode(decode))
+                            if (bytes.length < 4) {
+                                 continue
+                            }
+                            console.log(bytes)
+                           for (let i = 0; i < bytes.length; i+=4){
+                               let b = bytes.slice(i,i+4)
+                               let id = (b[0]) | (b[1]<<8) | (b[2]<<16) | (b[3]<<24)
+                               weight.set(id, (weight.get(id) || 0) + 1);
+                               console.log(id)
+                           }
+
+                           // let ids =  res.data[kw]||[]
+                           //  for (let id of ids) {
+                           //      weight.set(id, (weight.get(id) || 0) + 1);
+                           //  }
+                        }
+                        //weight.set(id, (weight.get(id) || 0) + 1);
+                }
+
+                let ids = [...weight.keys()];
+                ids = ids.sort((a, b) => {
+                    const weightA = weight.get(a);
+                    const weightB = weight.get(b);
+
+                    if (weightA !== weightB) {
+                        return weightB - weightA;
+                    }
+
+                    if (typeof a === 'number' && typeof b === 'number') {
+                        return a - b;
+                    }
+                    return String(a).localeCompare(String(b));
+                });
+
+                self.params.search_ids = ids
+
+                self.params.total = Math.ceil(ids.length/self.params.limit)
+                self.params.page = 1
+
+                document.getElementById("current-page").innerText = self.params.page
+                document.getElementById("total-page").innerText = self.params.total
+
+                let start = (self.params.page - 1) * self.params.limit
+                let end = self.params.page * self.params.limit
+                let showIDs = self.params.search_ids.slice(start, end)
+
+                self.getIDs(showIDs)
+        });
+    },
+    getIDs: function (ids) {
+        const self = this
+        self.showLoading()
+
+        let requests = []
+        for (let id of ids) {
+            requests.push(self.get("./data/" + id + ".json"))
+        }
+
+        Promise.allSettled(requests)
+            .then(results => {
+                console.log(results)
+                const successfulData = results
+                    .filter(result => result.status === 'fulfilled')
+                    .map(result => result.value);
+
+                const errors = results
+                    .filter(result => result.status === 'rejected')
+                    .map(result => result.reason);
+
+                self.render(successfulData.map(res => res.data));
+            });
+    },
+    onload: function () {
+        this.init()
+        if (this.params.keywords.length > 0) {
+            this.loadIDs()
+        } else {
+            this.loadPage(this.params.page)
+        }
+    },
+    onLangChange: function(e) {
+        this.params.page = 1
+            this.params.lang = e.value
+            this.setSearchKeywords()
+
+        document.getElementById("current-page").innerText = this.params.page
+        document.getElementById("total-page").innerText = this.params.total
+
+        if (this.params.keywords.length > 0) {
+            this.loadIDs()
+        } else {
+            this.params.total = loader.total
+            document.getElementById("total-page").innerText = this.params.total
+            this.loadTotal()
+            this.loadPage(loader.params.page)
+        }
+    },
+    showLoading: function (){
+        let cc = document.getElementById("cc")
+        cc.style.background = "#ccc"
+
+        let loading = document.getElementById("loading")
+        loading.style.display = "block"
+    },
+    hideLoading: function (){
+        let cc = document.getElementById("cc")
+        cc.style.background = "#fff"
+
+        let loading = document.getElementById("loading")
+        loading.style.display = "none"
+    },
+    onFileTypeGroupChange: function(e) {
+        this.params.ext = e.value.toLowerCase()
+        this.params.page = 1
+        this.setSearchKeywords()
+        document.getElementById("current-page").innerText = this.params.page
+        document.getElementById("total-page").innerText = this.params.total
+        if (this.params.keyword.length > 0) {
+            this.loadIDs()
+        } else {
+            this.params.total = this.total
+            document.getElementById("total-page").innerText = this.params.total
+            this.loadTotal()
+            this.loadPage(this.params.page)
+        }
+    }
+}
+
+loader.onload()
+
+document.getElementById("next-page").addEventListener("click", function () {
+    loader.params.page++
+    if (loader.params.page > loader.params.total) {
+        loader.params.page = 1
+    }
+    document.getElementById("current-page").innerText = loader.params.page
+    document.getElementById("total-page").innerText = loader.params.total
+    if (loader.params.search_ids.length > 0) {
+        let start = (loader.params.page - 1) * loader.params.limit
+        let end = loader.params.page * loader.params.limit
+        let showIDs = loader.params.search_ids.slice(start, end)
+        loader.getIDs(showIDs)
+    } else {
+        loader.loadPage(loader.params.page)
+    }
+})
+
+document.getElementById("prev-page").addEventListener("click", function () {
+    loader.params.page--
+    if (loader.params.page < 1) {
+        loader.params.page = loader.params.total
+    }
+    document.getElementById("current-page").innerText = loader.params.page
+    document.getElementById("total-page").innerText = loader.params.total
+
+    if (loader.params.search_ids.length > 0) {
+        let start = (loader.params.page - 1) * loader.params.limit
+        let end = loader.params.page * loader.params.limit
+        let showIDs = loader.params.search_ids.slice(start, end)
+        loader.getIDs(showIDs)
+    } else {
+        loader.loadPage(loader.params.page)
+    }
+})
+
+document.getElementById("jump-page").addEventListener("change", function (e) {
+    let page = parseInt(this.value)
+    if (isNaN(page) || page < 1 || page > loader.params.total) {
+        return
+    }
+
+    loader.params.page = page
+    document.getElementById("current-page").innerText = loader.params.page
+    if (loader.params.search_ids.length > 0) {
+        let start = (loader.params.page - 1) * loader.params.limit
+        let end = loader.params.page * loader.params.limit
+        let showIDs = loader.params.search_ids.slice(start, end)
+        loader.getIDs(showIDs)
+    } else {
+        loader.loadPage(loader.params.page)
+    }
+})
+
+document.getElementById("s").addEventListener("change", function (e) {
+    loader.params.keyword = this.value.trim()
+    loader.params.page = 1
+    loader.setSearchKeywords()
+
+    document.getElementById("current-page").innerText = loader.params.page
+    document.getElementById("total-page").innerText = loader.params.total
+    if (loader.params.keywords.length > 0) {
+        loader.loadIDs()
+    } else {
+        loader.params.total = loader.total
+        document.getElementById("total-page").innerText = loader.total
+        loader.loadPage(loader.params.page)
+    }
+});
+</script>
+</html>
