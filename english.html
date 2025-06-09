@@ -18,7 +18,6 @@
             line-height: 1.6;
             color: #333;
             background-color: #f4f4f4;
-            padding: 0 20px;
         }
 
         .container {
@@ -74,8 +73,11 @@
             text-align: left;
         }
         @media (max-width: 480px) {
+            .nl{
+                padding: 0 9px !important;
+            }
             #s {
-                width: 100% !important;
+                width: 92% !important;
             }
             .nav-r {
                 flex: 4 !important;
@@ -208,12 +210,13 @@
 </div>
 <div style="text-align: center;">
     <span>File Type</span>
-    <select id="file-type-search" onchange="loader.onFileTypeGroupChange(this)" style="width:138px; height: 28px;">
+    <select id="file-type-search" onchange="loader.onFileTypeGroupChange(this)"
+            style="width:auto; height: 28px;">
         <option value="_default" selected>All</option>
     </select>
 
-    <span style="margin-left: 12px; padding: 15px 30px 0 0;">Language</span>
-    <select id="lang-search" onchange="loader.onLangChange(this)" style="width:138px; height: 28px;" >
+    <span style="margin-left: 12px;">Language</span>
+    <select id="lang-search" onchange="loader.onLangChange(this)" style="width:auto; height: 28px;" >
         <option value="_default" selected>All</option>
     </select>
 </div>
@@ -246,14 +249,11 @@
     </div>
     <div id="container"></div>
 </div>
-<div class="c">
-    <div class="l"></div>
-    <div class="r">
+<div style="text-align: center; padding: 20px 0;">
         <button id="prev-page" class="btn">Previous Page</button>
         <span id="current-page">1</span>/<span id="total-page">1</span>
         <input id="jump-page" type="number"/>
         <button id="next-page" class="btn">Next Page</button>
-    </div>
 </div>
 <div style="text-align: center; padding:20px 0;">
 The resources provided by Tutu Love Reading on this website are collected from major resource websites. This website only provides web page services and does not provide electronic book resource storage,
