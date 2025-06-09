@@ -7,6 +7,28 @@
     <meta name="description" content="专业电子书搜索引擎，提供PDF、EPUB、MOBI等格式的免费电子书下载。覆盖小说、学术、技术书籍等百万资源，支持书名、作者、ISBN精准搜索,A professional e-book search engine that provides free e-book downloads in PDF, EPUB, MOBI, and other formats. Covering millions of resources such as novels, academic books, and technical books, supporting precise searches for book titles, authors, and ISBNs">
     <meta name="keywords" content="电子书下载,免费电子书,电子书搜索,PDF下载,EPUB书籍,MOBI电子书,小说下载,学术资源，kindle电子书,图书搜索引擎,电子书资源,正版电子书,电子书格式转换,电子书分享,图图爱读书,E-book Download, Free E-books, E-book Search, PDF Download, EPUB Books, MOBI E-books, Novel Download, Academic Resources, Kindle E-books, Book Search Engine, E-book Resources, Genuine E-books, E-book Format Conversion, E-book Sharing, Tutu Love Reading">
     <style>
+        /* 重置一些默认样式 */
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            padding: 0 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px; /* 最大宽度，在大屏幕上限制宽度 */
+            margin: 0 auto; /* 居中 */
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
         body {
             margin: 0;
         }
@@ -91,7 +113,8 @@
             padding: 0 12px;
         }
         .nav-r {
-            flex: 1; text-align: center;
+            flex: 1; text-align: right;
+            padding-right: 30px;
         }
         .ft label {
             display: inline-block;
@@ -160,8 +183,9 @@
             crossorigin="anonymous"></script>
 </head>
 <body>
+<div class="container">
 <nav style="display: flex;  height: 48px; line-height: 48px; background: rgb(243, 243, 243);">
-    <div style="flex: 1; text-align: center;">
+    <div style="flex: 1; text-align: left; margin-left: 30px">
         <img src="icon.png" style="height: 48px;" title="图图爱读书" alt="图图爱读书"/>
     </div>
     <div class="nav-r">
@@ -170,7 +194,7 @@
         <a class="nl light" href="https://github.com/jilieryuyi/books2/issues" target="_blank">免费找书</a>
     </div>
 </nav>
-<div style="text-align: right;">
+<div style="text-align: right; padding: 15px 30px 0 0 ;">
     <span>语言(language)：</span>
     <a style="padding: 0 6px;" href="index.html">中文</a>
     <a style="padding: 0 6px;" href="english.html">english</a>
@@ -184,12 +208,12 @@
 </div>
 <div style="text-align: center;">
     <span>文件类型</span>
-    <select id="file-type-search" onchange="loader.onFileTypeGroupChange(this)">
+    <select id="file-type-search" onchange="loader.onFileTypeGroupChange(this)" style="width:138px; height: 28px;">
         <option value="_default" selected>全部</option>
     </select>
 
-    <span style="margin-left: 12px;">语言</span>
-    <select id="lang-search" onchange="loader.onLangChange(this)" >
+    <span style="margin-left: 12px; padding: 15px 30px 0 0;">语言</span>
+    <select id="lang-search" onchange="loader.onLangChange(this)" style="width:138px; height: 28px;" >
         <option value="_default" selected>全部</option>
     </select>
 </div>
@@ -235,6 +259,7 @@
 本网站 图图爱读书 提供的资源均系收集于各大资源网站，本网站只提供web页面服务，并不提供电子图书资源存储，
     若本站收录的电子书无意侵犯了贵司版权，请给我们来信 jilieryuyi#gmail.com（#更换为@）或者通过<a href="https://github.com/jilieryuyi/books1/issues" target="_blank">github</a>向我们反馈，我们会及时处理和回复，谢谢！
 
+</div>
 </div>
 </body>
 <script>
