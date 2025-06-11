@@ -79,9 +79,6 @@
             #s {
                 width: 92% !important;
             }
-            .nav-r {
-                flex: 4 !important;
-            }
             .ft2 {
                 padding-bottom: 0!important;
             }
@@ -115,7 +112,8 @@
             padding: 0 12px;
         }
         .nav-r {
-            flex: 1; text-align: right;
+            flex: 4;
+            text-align: right;
             padding-right: 30px;
         }
         .ft label {
@@ -169,9 +167,9 @@
         }
     </style>
     <script>
-        const file_types = {"00":1,"1":1,"7z":54,"ape":3,"avi":114,"azw":23,"azw3":9094,"chm":942,"chw":6,"cue":6,"djvu":156,"doc":85,"docx":37,"dsf":1,"epub":1928,"exe":32,"f4v":11,"fb2":251572,"flac":54,"flv":2,"iso":35,"jpg":72,"kz":2,"lit":4,"lrc":120,"md":2,"mkv":846,"mobi":2905,"mp3":150,"mp4":892,"mpg":617,"nrg":2,"pdf":9689,"pk":1,"png":1,"ppt":15,"pptx":5,"rar":8600,"rb":1,"rmvb":1,"rsls":1,"rtf":6,"rtx":5,"snb":1,"torrent":23,"ts":9,"txt":2430,"vob":28,"wav":3,"webm":1,"wmv":2,"wps":2,"xls":2,"xlsx":3,"zip":2188}
-        const page_total = 14640
-        const languages = {"arabic":1,"chinese":38328,"danish":1,"english":16153,"french":783,"german":284,"hindi":1,"japanese":56,"korean":2,"persian":1,"polish":857,"portuguese":52,"ptalian":339,"romanian":81,"russian":234248,"spanish":1566,"unknown":33}
+        const file_types = {"7z":54,"ape":3,"avi":114,"azw":15,"azw3":8817,"chm":942,"chw":6,"cue":6,"djvu":127,"doc":65,"docx":37,"dsf":1,"epub":1419,"exe":31,"f4v":11,"fb2":1,"flac":54,"flv":2,"iso":35,"jpg":72,"kz":2,"lrc":120,"md":2,"mkv":850,"mobi":1781,"mp3":152,"mp4":883,"mpg":617,"nrg":2,"pdf":9392,"pk":1,"png":1,"ppt":14,"pptx":5,"rar":8599,"rmvb":1,"rsls":1,"rtf":1,"torrent":20,"ts":9,"txt":1592,"vob":28,"wav":3,"webm":1,"wmv":2,"wps":2,"xls":2,"xlsx":3,"zip":2157}
+        const page_total = 1903
+        const languages = {"arabic":1,"chinese":37726,"english":226,"german":1,"japanese":56,"korean":2,"polish":2,"ptalian":1,"russian":8,"unknown":32}
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
     <script>
@@ -203,7 +201,7 @@
 </div>
 <div style="text-align: center;">
     <h1 style="margin: 0; padding: 0; font-size: 48px;">Tutu Loves Reading</h1>
-    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">E-book Download Search，<span id="show-total-msg">292786 e-books&audio&video</span></p>
+    <p style="margin: 0; padding: 0; color: #333; font-size: 18px;">E-book Download Search，<span id="show-total-msg">38055 e-books&audio&video</span></p>
 </div>
 <div class="s" style="display: block; text-align: center;border: none;">
     <input id="s" type="text" placeholder="Enter keywords and press Enter to search"/>
@@ -220,23 +218,6 @@
         <option value="_default" selected>All</option>
     </select>
 </div>
-
-<!--<div class="ft" style="text-align: center; border: none; padding-bottom: 12px; display: flex;">-->
-<!--    <div style="flex: 1;text-align: right;padding-right: 12px;">File Type</div>-->
-<!--    <div id="all-fts" style="flex:4;text-align: left;">-->
-<!--        <label>-->
-<!--            <input class="ft-group" name="ft-group" type="radio" onchange="loader.onFileTypeGroupChange(this)" value="_default" checked/>All-->
-<!--        </label>-->
-<!--    </div>-->
-<!--</div>-->
-<!--<div class="ft ft2" style="display: flex; text-align: center; border: none; ">-->
-<!--    <div style="flex: 1;text-align: right;padding-right: 12px;">Language</div>-->
-<!--    <div id="all-ls" style="flex:4;">-->
-<!--        <label>-->
-<!--            <input class="ls-group" name="ls-group" type="radio" onchange="loader.onLangChange(this)" value="_default" checked/>All-->
-<!--        </label>-->
-<!--    </div>-->
-<!--</div>-->
 <div id="cc">
     <div class="loader" id="loading"></div>
     <div class="c"><div class="l"><c class="t">Name</c></div>
