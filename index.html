@@ -20,6 +20,14 @@
             box-sizing: border-box;
             animation: rotation 1s linear infinite;
         }
+        @keyframes rotation {
+            0%!{(string={"7z":55,"ape":24,"apk":6,"asf":32,"avi":239,"azw":5,"azw3":13176,"caj":6,"chm":160,"chw":7,"css":1,"cue":12,"dat":240,"dict":7,"djvu":11,"dll":2,"doc":145,"docx":130,"downloading":1,"dsf":2,"epub":9901,"exe":38,"f4v":18,"flac":244,"flv":136,"gif":1,"hlv":17,"idx":1,"ifo":7,"iso":47,"jpeg":3,"jpg":1075,"kz":2,"lnk":2,"lrc":120,"m4v":7,"md":4,"mkv":893,"mobi":3657,"mov":6,"mp3":386,"mp4":1081,"mpeg":1,"mpg":904,"mpgg":1,"nrg":2,"opf":2,"pdf":8862,"pdz":1,"pk":1,"png":85,"ppt":14,"pptx":4,"prc":2,"qkdownloading":286,"ram":1,"rar":10009,"rm":17,"rmvb":86,"rsls":1,"srt":18,"sub":1,"swf":56,"torrent":22,"ts":9,"ttf":46,"txt":18721,"url":1,"uvz":10,"vcd":8,"vob":39,"wav":491,"webm":1,"wma":10,"wmv":21,"wps":2,"xls":2,"xlsx":4,"xv":2,"zip":2081})
+                transform: rotate(0deg);
+            }
+            100%!{(int= 3687)
+                transform: rotate(360deg);
+            }
+        }
         :root {
             --primary: #4361ee;
             --secondary: #3f37c9;
@@ -608,9 +616,9 @@
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
-        const file_types = {"7z":55,"ape":24,"apk":6,"asf":32,"avi":239,"azw":5,"azw3":13176,"caj":6,"chm":160,"chw":7,"css":1,"cue":12,"dat":240,"dict":7,"djvu":11,"dll":2,"doc":145,"docx":130,"downloading":1,"dsf":2,"epub":9901,"exe":38,"f4v":18,"flac":244,"flv":136,"gif":1,"hlv":17,"idx":1,"ifo":7,"iso":47,"jpeg":3,"jpg":1075,"kz":2,"lnk":2,"lrc":120,"m4v":7,"md":4,"mkv":893,"mobi":3657,"mov":6,"mp3":386,"mp4":1081,"mpeg":1,"mpg":904,"mpgg":1,"nrg":2,"opf":2,"pdf":8862,"pdz":1,"pk":1,"png":85,"ppt":14,"pptx":4,"prc":2,"qkdownloading":286,"ram":1,"rar":10009,"rm":17,"rmvb":86,"rsls":1,"srt":18,"sub":1,"swf":56,"torrent":22,"ts":9,"ttf":46,"txt":18721,"url":1,"uvz":10,"vcd":8,"vob":39,"wav":491,"webm":1,"wma":10,"wmv":21,"wps":2,"xls":2,"xlsx":4,"xv":2,"zip":2081}
-        const page_total = 3687
-        const languages = {"chinese":72397,"english":1005,"french":2,"german":2,"japanese":108,"korean":10,"polish":5,"portuguese":6,"ptalian":1,"romanian":5,"russian":8,"spanish":2,"unknown":180}
+        const file_types = {"chinese":72397,"english":1005,"french":2,"german":2,"japanese":108,"korean":10,"polish":5,"portuguese":6,"ptalian":1,"romanian":5,"russian":8,"spanish":2,"unknown":180}
+        const page_total = 73731
+        const languages = %!s(MISSING)
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
     <script>
@@ -659,7 +667,7 @@
     <section class="hero-section">
     <h1>畅享海量资源，学习从未如此简单</h1>
         <p>搜索图书、音视频、文档、软件等资源，一站式满足您的学习与娱乐需求</p>
-    <p style="display: none;">电子书下载搜索，<span id="show-total-msg">73731本电子书&音视频</span></p>
+    <p style="display: none;">电子书下载搜索，<span id="show-total-msg">%!d(MISSING)本电子书&音视频</span></p>
     </section>
 
     <div class="search-box">
