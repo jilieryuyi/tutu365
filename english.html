@@ -7,6 +7,19 @@
     <meta name="description" content="专业电子书搜索引擎，提供PDF、EPUB、MOBI等格式的免费电子书下载。覆盖小说、学术、技术书籍等百万资源，支持书名、作者、ISBN精准搜索,A professional e-book search engine that provides free e-book downloads in PDF, EPUB, MOBI, and other formats. Covering millions of resources such as novels, academic books, and technical books, supporting precise searches for book titles, authors, and ISBNs">
     <meta name="keywords" content="电子书下载,免费电子书,电子书搜索,PDF下载,EPUB书籍,MOBI电子书,小说下载,学术资源，kindle电子书,图书搜索引擎,电子书资源,正版电子书,电子书格式转换,电子书分享,图图爱读书,E-book Download, Free E-books, E-book Search, PDF Download, EPUB Books, MOBI E-books, Novel Download, Academic Resources, Kindle E-books, Book Search Engine, E-book Resources, Genuine E-books, E-book Format Conversion, E-book Sharing, Tutu Love Reading">
     <style>
+        .loader {
+            position: relative;
+            left: 50%;
+            top: 60px;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            display: inline-block;
+            border-top: 3px solid #FFF;
+            border-right: 3px solid transparent;
+            box-sizing: border-box;
+            animation: rotation 1s linear infinite;
+        }
         :root {
             --primary: #4361ee;
             --secondary: #3f37c9;
@@ -644,7 +657,7 @@
 <!--    <script async="async" data-cfasync="false" src="//pl26888293.profitableratecpm.com/d5423c9b0eb6ae002c8f9c95b368e778/invoke.js"></script>-->
 <!--    <div id="container-d5423c9b0eb6ae002c8f9c95b368e778"></div>-->
     <section class="hero-section">
-    <h1>Enjoying massive resources, learning has never been so simple</h1>
+    <h1>Enjoying massive resources and learning</h1>
         <p>Search for books, audio and video, documents, software and other resources, one-stop to meet your learning and entertainment needs</p>
     <p style="display: none;">E-book Download Search，<span id="show-total-msg">73731 e-books&audio&video</span></p>
     </section>
@@ -699,9 +712,11 @@
 <!--        <option value="_default" selected>All</option>-->
 <!--    </select>-->
 <!--</div>-->
-<div id="cc">
-    <div class="loader" id="loading"></div>
-<!--    <div class="c"><div class="l"><c class="t">Name</c></div>-->
+<div id="cc" style="position: relative;">
+    <div id="loader-bg" style="display:none;opacity:0.6;position: absolute; width: 100%; height: 100%; background: #ccc; z-index: 8888;"></div>
+    <div style="position: absolute; left: 50%; top: 128px; z-index: 9999;" class="loader" id="loading"></div>
+
+    <!--    <div class="c"><div class="l"><c class="t">Name</c></div>-->
 <!--        <div class="r">-->
 <!--            <span class="size">Language</span>-->
 <!--            <span class="size fs">Size</span>-->
@@ -719,7 +734,7 @@
         <input id="jump-page" type="number" style="height: 36px; text-align: center;"/>
         <button id="next-page" class="btn download-btn" style="display: inline;">Next Page</button>
 </div>
-<div style="text-align: center; padding:20px 0;">
+<div style="text-align: center; padding: 48px 0 20px 0;">
 The resources provided by Tutu Love Reading on this website are collected from major resource websites. This website only provides web page services and does not provide electronic book resource storage,
 If the e-books included on this website unintentionally infringe on your company's copyright, please write to us at jilieryuyi # gmail.com (# replaced with @) or provide feedback to us through <a href="https://github.com/jilieryuyi/books1/issues" target="_blank">GitHub</a>, and we will promptly handle and reply. Thank you!
 </div>
@@ -1274,15 +1289,15 @@ var loader = {
         }
     },
     showLoading: function (){
-        let cc = document.getElementById("cc")
-        cc.style.background = "#ccc"
+        let cc = document.getElementById("loader-bg")
+        cc.style.display = "block"
 
         let loading = document.getElementById("loading")
         loading.style.display = "block"
     },
     hideLoading: function (){
-        let cc = document.getElementById("cc")
-        cc.style.background = "#fff"
+        let cc = document.getElementById("loader-bg")
+        cc.style.display = "none"
 
         let loading = document.getElementById("loading")
         loading.style.display = "none"
