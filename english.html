@@ -7,6 +7,53 @@
     <meta name="description" content="专业电子书搜索引擎，提供PDF、EPUB、MOBI等格式的免费电子书下载。覆盖小说、学术、技术书籍等百万资源，支持书名、作者、ISBN精准搜索,A professional e-book search engine that provides free e-book downloads in PDF, EPUB, MOBI, and other formats. Covering millions of resources such as novels, academic books, and technical books, supporting precise searches for book titles, authors, and ISBNs">
     <meta name="keywords" content="电子书下载,免费电子书,电子书搜索,PDF下载,EPUB书籍,MOBI电子书,小说下载,学术资源，kindle电子书,图书搜索引擎,电子书资源,正版电子书,电子书格式转换,电子书分享,图图爱读书,E-book Download, Free E-books, E-book Search, PDF Download, EPUB Books, MOBI E-books, Novel Download, Academic Resources, Kindle E-books, Book Search Engine, E-book Resources, Genuine E-books, E-book Format Conversion, E-book Sharing, Tutu Love Reading">
     <style>
+        .footer-links-section {
+            padding-bottom: 50px;
+        }
+
+        .footer-links-section h3 {
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+            color: #000;
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+        .footer-links-section h3:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 50px;
+            height: 2px;
+            background: var(--accent);
+        }
+
+        .friend-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .friend-links a {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #000;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .friend-links a:hover {
+            color: #000;
+            transform: translateX(5px);
+        }
+
+        .friend-links i {
+            font-size: 0.9rem;
+        }
+
+
         .loader {
             position: relative;
             left: 50%;
@@ -616,9 +663,9 @@
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
-        const file_types = {"7z":55,"ape":24,"apk":6,"asf":32,"avi":239,"azw":5,"azw3":13176,"caj":6,"chm":160,"chw":7,"css":1,"cue":12,"dat":240,"dict":7,"djvu":11,"dll":2,"doc":145,"docx":130,"downloading":1,"dsf":2,"epub":9901,"exe":38,"f4v":18,"flac":244,"flv":136,"gif":1,"hlv":17,"idx":1,"ifo":7,"iso":47,"jpeg":3,"jpg":1075,"kz":2,"lnk":2,"lrc":120,"m4v":7,"md":4,"mkv":893,"mobi":3657,"mov":6,"mp3":386,"mp4":1081,"mpeg":1,"mpg":904,"mpgg":1,"nrg":2,"opf":2,"pdf":8862,"pdz":1,"pk":1,"png":85,"ppt":14,"pptx":4,"prc":2,"qkdownloading":286,"ram":1,"rar":10009,"rm":17,"rmvb":86,"rsls":1,"srt":18,"sub":1,"swf":56,"torrent":22,"ts":9,"ttf":46,"txt":18721,"url":1,"uvz":10,"vcd":8,"vob":39,"wav":491,"webm":1,"wma":10,"wmv":21,"wps":2,"xls":2,"xlsx":4,"xv":2,"zip":2081}
-        const page_total = 3687
-        const languages = {"chinese":72397,"english":1005,"french":2,"german":2,"japanese":108,"korean":10,"polish":5,"portuguese":6,"ptalian":1,"romanian":5,"russian":8,"spanish":2,"unknown":180}
+        const file_types = {"7z":54,"ape":24,"apk":4,"asf":32,"avi":239,"azw":5,"azw3":13176,"caj":6,"chm":160,"chw":7,"css":1,"cue":12,"dat":240,"dict":7,"djvu":11,"doc":145,"docx":129,"downloading":1,"dsf":2,"epub":9902,"exe":31,"f4v":18,"flac":244,"flv":136,"gif":1,"hlv":17,"idx":1,"ifo":7,"iso":47,"jpeg":3,"jpg":1070,"kz":2,"lnk":2,"lrc":120,"m4v":7,"md":4,"mkv":893,"mobi":3657,"mov":6,"mp3":384,"mp4":1030,"mpeg":1,"mpg":904,"mpgg":1,"nrg":2,"opf":2,"pdf":8921,"pdz":1,"pk":1,"png":83,"ppt":14,"pptx":4,"prc":2,"qkdownloading":286,"ram":1,"rar":10047,"rm":17,"rmvb":86,"rsls":1,"srt":18,"sub":1,"swf":56,"torrent":22,"ts":9,"txt":18709,"url":1,"uvz":10,"vcd":8,"vob":39,"wav":491,"webm":1,"wma":10,"wmv":21,"wps":2,"xls":2,"xlsx":4,"xv":2,"zip":2073}
+        const page_total = 3685
+        const languages = {"chinese":72375,"english":986,"french":2,"german":2,"japanese":108,"korean":10,"polish":5,"portuguese":6,"ptalian":1,"romanian":5,"russian":8,"spanish":2,"unknown":180}
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHNGVFW9WS"></script>
     <script>
@@ -667,7 +714,7 @@
     <section class="hero-section">
     <h1>Enjoying massive resources and learning</h1>
         <p>Search for books, audio and video, documents, software and other resources, one-stop to meet your learning and entertainment needs</p>
-    <p style="display: none;">E-book Download Search，<span id="show-total-msg">73731 e-books&audio&video</span></p>
+    <p style="display: none;">E-book Download Search，<span id="show-total-msg">73690 e-books&audio&video</span></p>
     </section>
 
     <div class="search-box">
@@ -748,6 +795,18 @@ If the e-books included on this website unintentionally infringe on your company
 </div>
 </div>
 <footer class="container">
+    <div class="footer-links-section">
+        <h3>友情链接</h3>
+        <div class="friend-links">
+            <a href="https://prompt-hub-resource.netlify.app/" target="_blank"><i class="fas fa-link"></i> AI指令资源中心</a>
+            <a href="https://fangu.netlify.app/" target="_blank"><i class="fas fa-link"></i> 凡骨：问道篇</a>
+            <a href="https://eagles-resource.netlify.app/" target="_blank"><i class="fas fa-link"></i> 老鹰乐队经典作品下载</a>
+            <a href="https://duzhe.netlify.app/" target="_blank"><i class="fas fa-link"></i> 读者</a>
+            <a href="https://beyond-resource.netlify.app/" target="_blank"><i class="fas fa-link"></i> beyond乐队资源中心</a>
+            <a href="https://tutu-tools.netlify.app/" target="_blank"><i class="fas fa-link"></i> 图图工具库</a>
+        </div>
+    </div>
+
     <p>© 2023 图图爱读书 - 精品资源分享平台 | 所有资源仅供学习交流，请于下载后24小时内删除</p>
 </footer>
 </body>
@@ -1045,14 +1104,20 @@ var loader = {
                 name.toLowerCase().includes("音乐") || name.toLowerCase().includes("song") ||
                 name.toLowerCase().includes("audio")||name.toLowerCase().includes("cd")||
                 name.toLowerCase().includes("ape") || name.toLowerCase().includes("aac") ||
-                name.toLowerCase().includes("ogg") || name.toLowerCase().includes("wma")
+                name.toLowerCase().includes("ogg") || name.toLowerCase().includes("wma") ||
+                name.toLowerCase().includes("音频")
             ) {
                 showType = 'audio-type'
                 mainType = 'fa-music'
                 preview = `style="background:linear-gradient(135deg,#ff7e5f 0%,#feb47b 100%)"`
-            } else if (name.toLowerCase().includes("video") || name.toLowerCase().includes("mp4") ||
-                name.toLowerCase().includes("avi") || name.toLowerCase().includes("mkv") ||
-                name.toLowerCase().includes("mov") || name.toLowerCase().includes("flv")) {
+            } else if (name.toLowerCase().includes("video") ||
+                name.toLowerCase().includes("mp4") ||
+                name.toLowerCase().includes("avi") ||
+                name.toLowerCase().includes("mkv") ||
+                name.toLowerCase().includes("mov") ||
+                name.toLowerCase().includes("flv") ||
+                name.toLowerCase().includes("演唱会")
+            ) {
                 showType = 'video-type'
                 mainType = 'fa-laptop-code'
                 preview = 'style="background:linear-gradient(135deg,#f83600 0%,#f9d423 100%)"'
